@@ -1,0 +1,1 @@
+window['ads_top_'+CA3]=true;

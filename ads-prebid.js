@@ -1,0 +1,1 @@
+window['ads_bid_'+CA3]=true;
