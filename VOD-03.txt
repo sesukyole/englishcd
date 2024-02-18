@@ -1,7 +1,7 @@
 #EXTM3U
 Fast & Furious: Hobbs & Shaw&&https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5e7864b63a736626cecbf699_hbovodhd/dash0/MYS_index.mpd``6b9b56bd7f8a51a4a37f450cf3334152:ead1c52f745993bc3c8802ad7de99d64
 The Nun II&&https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6537627dd940521074e64adf_hbovodhd/dash0/MYS_DOLBY_index.mpd``e4063e8388256eeabd2f4efdae7aedd3:12843781a238285c811dcc5a3715e344
-KUNGFU PANDA 3&&https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64aa6825d940521074d91179_hbovodhd/dash0/MYS_DOLBY_index.mpd``e080e8d17a75b68c171bafed250c617e:e2666c16aaa10cc855a580ff0d39a633
+Judgment Day&&https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64aa6825d940521074d91179_hbovodhd/dash0/MYS_DOLBY_index.mpd``e080e8d17a75b68c171bafed250c617e:e2666c16aaa10cc855a580ff0d39a633
 Meg 2&&https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64fee5add940521074e10087_hbovodhd/dash0/MYS_DOLBY_index.mpd``a7244ed7a5678d52130672c4b3cf514e:342e55749e9ef5b57c9371fc4c008132
 Evil Dead Rise&&https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/648828a5d940521074d5dcf8_hbovodhd/dash0/MYS_DOLBY_index.mpd``9221c8e67c756f094f45420242d8560e:987cb364121b8aac88d6d33544c9526b
 Dungeons & Dragons: Honor Among Thieves&&https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64cbd7dcd940521074dc3623_hbovodhd/dash0/MYS_DOLBY_index.mpd ``c9256c2319bee1155eb1ab05ddb2848c:e9940878b41a3be09407bf86111fc3c1
@@ -19,8 +19,6 @@ Teenage Mutant Ninja Turtles&&https://hbogoprod-vod.akamaized.net/video/vod/outp
 The Flash&&https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64c3794dd940521074db6e41_hbovodhd/dash0/MYS_DOLBY_index.mpd``3828dfa474ecbb86ac6e3a9b370abdde:05f5c24805c2fab927d96575bdc20237
 Reality&&https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/646fee3ed940521074d39a27_hbovodhd/dash0/MYS_DOLBY_index.mpd``0b181fb3df6f5577055086173921b597:98c1ea4a4b2d95116eb627df374033fe
 Land Of Gold&&https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6513e9cbd940521074e2f8f0_hbovodhd/dash0/MYS_DOLBY_index.mpd``4a4d6c73b26cae6fd6f1fc0ad72a5ad2:c30d41201d7e999d1fedc9d187a47087
-Evil Dead RiseLand Of Gold&&https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/648828a5d940521074d5dcf8_hbovodhd/dash0/MYS_DOLBY_index.mpd``9221c8e67c756f094f45420242d8560e:987cb364121b8aac88d6d33544c9526b
-Meg 2&&https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/648828a5d940521074d5dcf8_hbovodhd/dash0/MYS_DOLBY_index.mpd``9221c8e67c756f094f45420242d8560e:987cb364121b8aac88d6d33544c9526b
 The Lost World: Jurassic Park&&https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d7f5dd03ae366782ad99e98_hbovodhd/dash0/MYS_index.mpd``f7641ab26aac56cc860bcd56bb7af068:9578823a8c17f212b8b4a7716fe85f37
 Kung Fu Dunk&&https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63803119d940521074bd1247_hbovodhd/dash0/MYS_index.mpd``7e372a768cf855ffd60216129628ac78:d3be605f781a2a63afba02f98203b0e7
 HANCOOK&&https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5e5f611b3a736626cec99767_hbovodhd/dash0/MYS_index.mpd``efcebb04a7925c9db29d65682f2881c2:a6135783a546641f6711b4efec9da07b
