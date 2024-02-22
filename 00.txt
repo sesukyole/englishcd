@@ -2049,9 +2049,9 @@ NFL Network HD&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111512.m3u8
 NFL Network SD&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111513.m3u8
 NFL REDZONE&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111531.m3u8
 SP.EVENT 1 :&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111628.m3u8
-SP.EVENT 2 : &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111629.m3u8
- SP.EVENT 3 : &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111630.m3u8
- SP.EVENT 4: &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111631.m3u8
+SP.EVENT 2 :&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111629.m3u8
+ SP.EVENT 3 :&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111630.m3u8
+ SP.EVENT 4:&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111631.m3u8
 SP.EVENT 5:&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111632.m3u8
 SportsNet 360&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111783.m3u8
 SportsNet East&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111784.m3u8
@@ -2100,7 +2100,7 @@ beIN Sports 3 English&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111879
 (TR) beIN Sports 02&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111904.m3u8
 (TR) beIN Sports 03&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111905.m3u8
 (TR) beIN Sports 04&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111906.m3u8
-(US)&&beIN Sports en Espanol.m3u8
+(US)&&beIN Sports en Espanol&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111898.m3u8
 (US) beIN Sports LaLiga&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111907.m3u8
 (US) beIN Sports&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111908.m3u8
 (US) BeinSpORTS 04&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111909.m3u8
