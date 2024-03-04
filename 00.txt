@@ -1430,7 +1430,7 @@ beIN Sports 3 English&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111879
 (TR) beIN Sports 02&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111904.m3u8
 (TR) beIN Sports 03&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111905.m3u8
 (TR) beIN Sports 04&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111906.m3u8
-(US)&&beIN Sports en Espanol&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111898.m3u8
+(US) beIN Sports en Espanol&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111898.m3u8
 (US) beIN Sports LaLiga&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111907.m3u8
 (US) beIN Sports&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111908.m3u8
 (US) BeinSpORTS 04&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111909.m3u8
