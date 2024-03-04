@@ -18,7 +18,7 @@ BBC AMERICA&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112362.m3u8
 BET (EAST)&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112363.m3u8
 BET (WEST)&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112364.m3u8
 BET HER&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112365.m3u8
-BET JAMZ&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112366.m3u8
+BET JAMZ &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112366.m3u8
 BET SOUL&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112367.m3u8
 BlazeTV&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112368.m3u8
 BOUNCE&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112369.m3u8
@@ -48,7 +48,7 @@ FREEFORM (WEST)&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112391.m3u8
 FUSE&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112392.m3u8
 FX (EAST)&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112394.m3u8
 FX (WEST)&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112395.m3u8
-FXM&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112396.m3u8
+FXM &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112396.m3u8
 FXX (EAST)&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112397.m3u8
 FXX (WEST)&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112398.m3u8
 FYI&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112399.m3u8
@@ -96,7 +96,7 @@ OXYGEN&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112431.m3u8
 Oxygen (West)&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112432.m3u8
 Paramount (EAST)&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112433.m3u8
 PARAMOUNT (WEST)&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/124623.m3u8
-PBS&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112434.m3u8
+PBS &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112434.m3u8
 People TV&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112435.m3u8
 PETS TV&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/124624.m3u8
 Pop Tv (EAST)&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112436.m3u8
@@ -161,62 +161,62 @@ SMITHSONIAN CHANNEL (EAST)&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/1
 VELOCITY (Motor Trend)&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112489.m3u8
 World Fishing Network&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112490.m3u8
 4Music&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/114552.m3u8
-4Seven&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112624.m3u8
+4Seven &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112624.m3u8
 5Action&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/134934.m3u8
 5 Select&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112625.m3u8
 5 Star&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112626.m3u8
 5 USA&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112627.m3u8
-Alibi&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112628.m3u8
+Alibi &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112628.m3u8
 Ayozat&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/148302.m3u8
 BBC Four&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112629.m3u8
-BBC ONE&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112630.m3u8
-BBC TWO&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112631.m3u8
+BBC ONE &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112630.m3u8
+BBC TWO &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112631.m3u8
 Blaze&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112633.m3u8
 Box Hits&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/114558.m3u8
 CBS Reality Xtra (Drama)&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112634.m3u8
 CBS Legend (Justice)&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112635.m3u8
 CBS Reality&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112636.m3u8
 Challenge&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112637.m3u8
-Channel 4&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112638.m3u8
-Channel 5&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112639.m3u8
+Channel 4 &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112638.m3u8
+Channel 5 &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112639.m3u8
 ClubLand Tv&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/114554.m3u8
-Comedy Central&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112640.m3u8
+Comedy Central &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112640.m3u8
 Comedy Xtra&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112641.m3u8
 Court Tv&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112642.m3u8
-Dave&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112643.m3u8
+Dave &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112643.m3u8
 Dave ja vu&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/114563.m3u8
 Drama&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112644.m3u8
-E! Entertainment&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112645.m3u8
-E4&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112646.m3u8
+E! Entertainment &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112645.m3u8
+E4 &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112646.m3u8
 E4 Extra&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/134936.m3u8
-Gold&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112648.m3u8
+Gold &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112648.m3u8
 Great!&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112673.m3u8
 Home & Health&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112650.m3u8
-ITV&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112651.m3u8
-ITV 2&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112652.m3u8
+ITV &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112651.m3u8
+ITV 2 &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112652.m3u8
 ITV 3&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112653.m3u8
-ITV 4&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112654.m3u8
-ITV Be&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112655.m3u8
+ITV 4 &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112654.m3u8
+ITV Be &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112655.m3u8
 Kiss&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/114553.m3u8
 Kerrang TV&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/114555.m3u8
-Lifetime&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112656.m3u8
+Lifetime &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112656.m3u8
 London Live&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112657.m3u8
-More4&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112658.m3u8
-MTV&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/114547.m3u8
-MTV Base&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/114548.m3u8
+More4 &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112658.m3u8
+MTV &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/114547.m3u8
+MTV Base &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/114548.m3u8
 MTV Classic&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/114549.m3u8
 MTV Hits&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/114550.m3u8
 MTV Music&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/114551.m3u8
-Now 70`s&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/114559.m3u8
-Now 80`S&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/114560.m3u8
+Now 70's&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/114559.m3u8
+Now 80'S&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/114560.m3u8
 Now Rock&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/114561.m3u8
-Paramount Network&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112659.m3u8
+Paramount Network &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112659.m3u8
 PBS America&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112660.m3u8
 Pick&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112661.m3u8
-Quest&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112663.m3u8
+Quest &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112663.m3u8
 Quest Red&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112664.m3u8
 Really&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112665.m3u8
-Sky Arts&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112667.m3u8
+Sky Arts &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112667.m3u8
 Sky Atlantic&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112668.m3u8
 Sky Crime&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112669.m3u8
 Sky Max&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/134935.m3u8
@@ -224,35 +224,35 @@ Sky Replay&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112671.m3u8
 Sky Showcase&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112670.m3u8
 Sky Witness&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112672.m3u8
 STV Scotland&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/148204.m3u8
-SYFY&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112675.m3u8
+SYFY &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112675.m3u8
 Talking Pictures&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112721.m3u8
 The Box&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/114557.m3u8
-TLC&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112676.m3u8
-W&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112677.m3u8
+TLC &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112676.m3u8
+W &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112677.m3u8
 Yesterday&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112678.m3u8
 Animal Planet&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112679.m3u8
 Crime & Investigation.&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112680.m3u8
-Discovery Channel&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112681.m3u8
+Discovery Channel &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112681.m3u8
 Discovery History&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112682.m3u8
 Discovery Science&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112683.m3u8
 Discovery Turbo&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112685.m3u8
 DMAX&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/134937.m3u8
-Eden&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112686.m3u8
-Food Network&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112687.m3u8
-H2&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112688.m3u8
+Eden &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112686.m3u8
+Food Network &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112687.m3u8
+H2 &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112688.m3u8
 HGTV&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112689.m3u8
 Investigation Discovery&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112690.m3u8
-Nat Geo&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112691.m3u8
+Nat Geo &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112691.m3u8
 Nat Geo Wild&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112692.m3u8
-Sky Documentaries&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112693.m3u8
+Sky Documentaries &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112693.m3u8
 SKY History HD&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112694.m3u8
 Sky Nature HD&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112695.m3u8
-Film4&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112698.m3u8
+Film4 &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112698.m3u8
 Great! Action&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112719.m3u8
 Great! Classics&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/122884.m3u8
 Great! Movies&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112718.m3u8
 Horror Channel&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112699.m3u8
-Movies 24&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112696.m3u8
+Movies 24 &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112696.m3u8
 Sky Cinema Action FHD&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112700.m3u8
 Sky Cinema Action HD&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/122695.m3u8
 Sky Cinema Action SD&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/122706.m3u8
@@ -289,13 +289,13 @@ Sky Cinema Thriller SD&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/12271
 TCM HD&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112722.m3u8
 Baby TV&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112723.m3u8
 Boomerang&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112724.m3u8
-Cartoon Network&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112725.m3u8
+Cartoon Network &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112725.m3u8
 Cartoonito&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112726.m3u8
-CBBC&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112727.m3u8
-CBeebies&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112728.m3u8
+CBBC &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112727.m3u8
+CBeebies &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112728.m3u8
 CITV&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112729.m3u8
 Nickelodeon&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112730.m3u8
-Nick Jr&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112731.m3u8
+Nick Jr &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112731.m3u8
 Nick Jr Too&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112732.m3u8
 Nicktoons&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112733.m3u8
 Pop&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112734.m3u8
@@ -332,7 +332,7 @@ MGM+&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112748.m3u8
 MGM+ Hits&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112749.m3u8
 MGM+ Drive-In&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112750.m3u8
 MGM+ Marquee&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112751.m3u8
-Movies !&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/124631.m3u8
+Movies ! &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/124631.m3u8
 MOVIE PLEX (east)&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112766.m3u8
 MOVIE PLEX (West)&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112767.m3u8
 RETRO PLEX (East)&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112768.m3u8
@@ -402,7 +402,7 @@ Nick Jr.(West)&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112827.m3u8
 Nick Music&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112828.m3u8
 Nick Teen&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112829.m3u8
 Nicktoons&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112830.m3u8
-PBS Kids&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112831.m3u8
+PBS Kids &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112831.m3u8
 Qubo&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112834.m3u8
 Universal Kids (EAST)&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112835.m3u8
 Universal Kids (West)&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112836.m3u8
@@ -410,7 +410,7 @@ ABC NEWS&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/113117.m3u8
 ACU WEATHER&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/113118.m3u8
 BBC WORLD NEWS&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/113119.m3u8
 BNC (Black News Channel)&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/113120.m3u8
-US Bloomberg&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/113121.m3u8
+US Bloomberg &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/113121.m3u8
 US CBSN (D)&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/113123.m3u8
 US CBSN Bay Area (D)&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/113124.m3u8
 US CBSN Boston (D)&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/113125.m3u8
@@ -451,10 +451,10 @@ RT News&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/113159.m3u8
 WEATHER CHANNEL&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/113160.m3u8
 WEATHER NATION&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/113161.m3u8
 Al Jazeera&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/113774.m3u8
-BBC News&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/113775.m3u8
+BBC News &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/113775.m3u8
 BBC Parliament&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/113784.m3u8
 Bloomberg TV&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/113777.m3u8
-CNN&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/113776.m3u8
+CNN &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/113776.m3u8
 GBN&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/122872.m3u8
 RTE-News&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/113781.m3u8
 Sky News&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/113782.m3u8
@@ -470,7 +470,7 @@ CA: Animal Planet&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/113793.m3u
 CA: BBC Canada&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/113794.m3u8
 CA: BBC Earth&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/113795.m3u8
 CA: BBC World News&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/113796.m3u8
-CA: BET&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/113797.m3u8
+CA: BET &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/113797.m3u8
 CA: BNN Bloomberg&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/113798.m3u8
 CA: Canada One&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/113801.m3u8
 CA: Canada Star TV&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/113802.m3u8
@@ -515,7 +515,7 @@ CA: FXX&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/113840.m3u8
 CA: Game TV&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/113841.m3u8
 CA: Game Plus&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/113842.m3u8
 CA: Golf Channel&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/113843.m3u8
-CA: GINX Esports TV&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/113844.m3u8
+CA: GINX Esports TV &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/113844.m3u8
 CA: HBO 1&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/113845.m3u8
 CA: HBO 2&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/113846.m3u8
 CA: Headline News&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/113847.m3u8
@@ -558,12 +558,12 @@ CA: Super Channel Heart & Home&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5
 CA: Super Channel Vault&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/113885.m3u8
 CA: Teletoon&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/113887.m3u8
 CA: The Fight Network&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/113888.m3u8
-CA: Today`s Shopping Choice&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/113889.m3u8
+CA: Today's Shopping Choice&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/113889.m3u8
 CA: TLC&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/113890.m3u8
 CA: TRAVEL ESCAPE&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/113891.m3u8
 CA: Treehouse&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/113892.m3u8
 CA: Turner Classic Movies&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/113893.m3u8
-CA: TVO&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/113894.m3u8
+CA: TVO &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/113894.m3u8
 CA: Vision&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/113895.m3u8
 CA: W NETWORK&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/113896.m3u8
 CA: Weather Network&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/113897.m3u8
@@ -601,7 +601,7 @@ CA: CBC Moncton&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/113928.m3u8
 CA: CBC Montreal&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/113929.m3u8
 CA: CBC Ottawa&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/113930.m3u8
 CA: CBC Regina&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/113931.m3u8
-CA: CBC St John`s&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/113932.m3u8
+CA: CBC St John's&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/113932.m3u8
 CA: CBC Toronto&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/113933.m3u8
 CA: CBC Vancouver&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/113934.m3u8
 CA: CBC Windsor&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/113935.m3u8
@@ -718,7 +718,7 @@ ABC 07 (KGO) San Francisco&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/1
 CBS 05 (KPIX) San francisco&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/115336.m3u8
 CW 44 (KBCW) San Francisco&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/115337.m3u8
 FOX 02 (KTVU) San Francisco&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/115338.m3u8
-NBC 11 (KNTV) San Francisco&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/115339.m3u8
+NBC 11 (KNTV)  San Francisco&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/115339.m3u8
 PBS 09 (KQED) San Francisco&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/115340.m3u8
 @@ COLORADO @@&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/114143.m3u8
 ABC 07 (KMGH) Denver&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/114144.m3u8
@@ -776,10 +776,10 @@ FOX 54 (WFXG) Augusta&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/114152
 NBC 16 (WAGT) Augusta&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/114153.m3u8
 PBS 20(SCETV) Augusta&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/114154.m3u8
 ABC 24 (WGXA2) Macon&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/148374.m3u8
-CBS 13 (WMAZ) Macon&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/148375.m3u8
+CBS 13 (WMAZ) Macon &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/148375.m3u8
 CW 13 (WMAZ) Macon&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/148376.m3u8
 FOX 24 (WGXA) Macon&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/148377.m3u8
-NBC 41 (WMGT) Macon&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/148378.m3u8
+NBC 41 (WMGT) Macon &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/148378.m3u8
 ABC 22 (WJCL) Savannah&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/114155.m3u8
 CBS 11 (WTOC) Savannah&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/114156.m3u8
 FOX 28 (WTGS) Savannah&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/114157.m3u8
@@ -858,7 +858,7 @@ ABC 30 (KDNL) St. Louis&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/1410
 CBS 4 (KMOV) St. Louis&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/141090.m3u8
 FOX 2 (KTVI) St. Louis&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/141091.m3u8
 NBC 5 (KSDK) St. Louis&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/141092.m3u8
-@@ NEBRASKA @@&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/115341.m3u8
+@@ NEBRASKA @@ &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/115341.m3u8
 ABC 07 (KETV) Omaha&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/115316.m3u8
 CBS 03 (KMTV) Omaha&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/115317.m3u8
 FOX 42 (KPTM) Omaha&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/115318.m3u8
@@ -939,8 +939,8 @@ ABC 02 (WKRN) Nashville&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/1152
 CBS 05 (WTVF) Nashville (H)&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/115295.m3u8
 CW 58 (WNAB) Nashville (A)&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/115296.m3u8
 FOX 17 (WZTV) Nashville&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/115297.m3u8
-NBC 04 (WSMV) Nashville&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/115298.m3u8
-MY 30 (WUXP) Nashville&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/115299.m3u8
+NBC 04 (WSMV) Nashville &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/115298.m3u8
+MY 30 (WUXP) Nashville &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/115299.m3u8
 PBS (WNPT)| Nashville&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/115300.m3u8
 @@ TEXAS @@&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/114123.m3u8
 ABC 03 (KIII) Corpus Christi&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/115727.m3u8
@@ -986,7 +986,7 @@ CBS 02 (KREM) Spokane&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/115326
 FOX 28 (KAYU) Spokane&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/115327.m3u8
 NBC 06 (KHQ) Spokane&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/115328.m3u8
 @@ WASHINGTON DC @@&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/115301.m3u8
-ABC 07 (WJLA) Washington DC&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/115302.m3u8
+ABC 07 (WJLA) Washington DC &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/115302.m3u8
 CBS 09 (WUSA) Washington DC&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/115303.m3u8
 FOX 05 (WTTG) Washington DC&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/115304.m3u8
 MYTV (WDCA) Washington DC&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/115305.m3u8
@@ -1197,34 +1197,83 @@ Discovery Plus | Quest Red&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/1
 Discovery Plus | Really&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/148676.m3u8
 Discovery Plus | Eurosport 1&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/148677.m3u8
 Discovery Plus | Eurosport 2&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/148678.m3u8
+ITV X | ITV 1&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/148703.m3u8
+ITV X | ITV 2&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/148704.m3u8
+ITV X | ITV 3&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/148705.m3u8
+ITV X | ITV 4&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/148706.m3u8
+ITV X | ITVbe&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/148707.m3u8
+ITV X | CITV&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/148708.m3u8
+ITV X | ITV Signed&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/148709.m3u8
+ITV X | ITV Classics&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/148710.m3u8
+ITV X | The Chase&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/148711.m3u8
+ITV X | Classic Comedy&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/148712.m3u8
+ITV X | Midsommer Murders&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/148713.m3u8
+ITV X | True Crime&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/148714.m3u8
+ITV X | Classic Movies&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/148715.m3u8
+ITV X | Love Island&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/148716.m3u8
+ITV X | Out of This World&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/148717.m3u8
+ITV X | Hell's Kitchen&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/148718.m3u8
+ITV X | Saturday Night Every Night&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/148719.m3u8
+ITV X | World of Morse&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/148720.m3u8
+ITV X | Vera&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/148721.m3u8
+ITV X | Love Island International&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/148722.m3u8
+ITV X | The Only Way is Essex TV&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/148723.m3u8
+ITV X | Crime/Drama&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/148724.m3u8
+ITV X | The Real Housewives UK&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/148725.m3u8
+ITV X | Loved Up&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/148726.m3u8
+ITV X | Unwind&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/148727.m3u8
+ITV X | Christmas Movies&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/148728.m3u8
+SKY STORE CHANNELS LISTINGS&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/149911.m3u8
+Sky Store 1 &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/149912.m3u8
+Sky Store 2 &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/149913.m3u8
+Sky Store 3 &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/149914.m3u8
+Sky Store 4 &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/149915.m3u8
+Sky Store 5 &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/149916.m3u8
+Sky Store 6 &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/149917.m3u8
+Sky Store 7 &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/149918.m3u8
+Sky Store 8 &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/149919.m3u8
+Sky Store 9 &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/149920.m3u8
+Sky Store 10 &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/149921.m3u8
+Sky Store 11 &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/149922.m3u8
+Sky Store 12 &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/149923.m3u8
+Sky Store 13 &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/149924.m3u8
+Sky Store 14 &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/149925.m3u8
+Sky Store 15 &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/149926.m3u8
+Sky Store 16 &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/149927.m3u8
+Sky Store 17 &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/149928.m3u8
+Sky Store 18 &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/149929.m3u8
+Sky Store 19 &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/149930.m3u8
+Sky Store 20 &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/149931.m3u8
+ZNS TV&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/149932.m3u8
 ***HUB Premier Listings***&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/134296.m3u8
 ***NBA Channels Schedule***&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/123280.m3u8
 ***NFL Channels Guide***&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/123281.m3u8
 ***MLB CHANNELS GUIDE***&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/119299.m3u8
+***SPFL Listings***&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/146690.m3u8
 SuperSport Action&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/110459.m3u8
 SuperSport Blitz&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/110454.m3u8
 SuperSport Cricket&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/110462.m3u8
-SuperSport Football&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/110457.m3u8
-SuperSport Golf&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/110460.m3u8
+SuperSport Football &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/110457.m3u8
+SuperSport Golf &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/110460.m3u8
 SuperSport GrandStand&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/110463.m3u8
-SuperSport La Liga&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/110458.m3u8
+SuperSport La Liga &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/110458.m3u8
 SuperSport Maximo 1&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112021.m3u8
-SuperSport Motorsport&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/110464.m3u8
-SuperSports Play&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112022.m3u8
+SuperSport Motorsport &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/110464.m3u8
+SuperSports Play &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112022.m3u8
 SuperSport PPV&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112024.m3u8
 SuperSport Premier League&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/110456.m3u8
 SuperSport PSL&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/110455.m3u8
 SuperSport Rugby&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/110461.m3u8
 SuperSport Tennis&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/110465.m3u8
-SuperSport Variety 1&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/110450.m3u8
+SuperSport Variety 1 &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/110450.m3u8
 SuperSport Variety 2&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/110451.m3u8
 SuperSport Variety 3&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/122694.m3u8
-SuperSport Variety 4&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/110453.m3u8
-Astro Cricket&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112014.m3u8
+SuperSport Variety 4 &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/110453.m3u8
+Astro  Cricket&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112014.m3u8
 Astro Supersport 1&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/110466.m3u8
-Astro Supersport 2&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/110467.m3u8
-Astro Supersport 3&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/110468.m3u8
-Astro Supersport 4&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/110469.m3u8
+Astro Supersport 2 &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/110467.m3u8
+Astro Supersport 3 &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/110468.m3u8
+Astro Supersport 4 &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/110469.m3u8
 Astro Supersport 5&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/123792.m3u8
 Aberdeen TV (Live Events Only)&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111852.m3u8
 Celtic TV (Live Events Only)&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111855.m3u8
@@ -1233,7 +1282,7 @@ Dundee FC (Live Events Only)&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md
 Hamilton (Live Events Only)&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111506.m3u8
 Hearts TV (Live Events Only)&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111853.m3u8
 Hibernian TV (Live Events Only)&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111854.m3u8
-Kilmarnock TV (Live Events Only)&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111851.m3u8
+Kilmarnock TV  (Live Events Only)&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111851.m3u8
 Livingston tv (Live Events Only)&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111845.m3u8
 Motherwell TV (Live Events Only)&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111850.m3u8
 Rangers TV (Live Events Only)&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111856.m3u8
@@ -1293,9 +1342,9 @@ SPARK SPORTS 07&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111377.m3u8
 SPARK SPORTS 08&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111378.m3u8
 SPARK SPORTS 09&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111379.m3u8
 SPARK SPORTS 10&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111380.m3u8
-NOW Sports 4K (1)&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/123055.m3u8
-NOW Sports 4K (2)&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/123056.m3u8
-NOW Premier League&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111387.m3u8
+NOW Sports 4K (1) &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/123055.m3u8
+NOW Sports 4K (2) &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/123056.m3u8
+NOW Premier League &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111387.m3u8
 NOW Premier League 1&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111381.m3u8
 NOW Premier League 2&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111382.m3u8
 NOW Premier League 3&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111383.m3u8
@@ -1317,23 +1366,23 @@ Tennis Channel Plus 12&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/11162
 Tennis Channel Plus 13&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111626.m3u8
 Tennis Channel Plus 14&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111627.m3u8
 (AU) Fox Cricket 501&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111638.m3u8
-(AU )Fox Sports 502&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111639.m3u8
+(AU )Fox Sports 502 &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111639.m3u8
 (AU) Fox Sports 503&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111640.m3u8
-(AU) Fox Sports Footy 504&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111641.m3u8
-(AU) Fox Sports 505&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111642.m3u8
-(AU) Fox Sports 506&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111643.m3u8
-(AU) Fox Sports 507&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111644.m3u8
+(AU) Fox Sports Footy 504 &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111641.m3u8
+(AU) Fox Sports 505 &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111642.m3u8
+(AU) Fox Sports 506 &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111643.m3u8
+(AU) Fox Sports 507 &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111644.m3u8
 (HK) Fox Sports 1&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111257.m3u8
 (HK) Fox Sports 2&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111259.m3u8
 (HK) Fox Sports 3&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111260.m3u8
 NFL Network HD&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111512.m3u8
 NFL Network SD&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111513.m3u8
 NFL REDZONE&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111531.m3u8
-SP.EVENT 1 :&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111628.m3u8
-SP.EVENT 2 :&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111629.m3u8
- SP.EVENT 3 :&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111630.m3u8
- SP.EVENT 4:&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111631.m3u8
-SP.EVENT 5:&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111632.m3u8
+SP.EVENT 1 :  &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111628.m3u8
+SP.EVENT 2 :   &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111629.m3u8
+ SP.EVENT 3 :   &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111630.m3u8
+ SP.EVENT 4:   &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111631.m3u8
+SP.EVENT 5: &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111632.m3u8
 SportsNet 360&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111783.m3u8
 SportsNet East&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111784.m3u8
 SportsNet One&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111785.m3u8
@@ -1358,7 +1407,7 @@ beIN Sports 3 Premium&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111876
 beIN Sports 1 English&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111877.m3u8
 beIN Sports 2 English&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111878.m3u8
 beIN Sports 3 English&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111879.m3u8
-(AU) beIN Sports 1&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111880.m3u8
+(AU) beIN Sports 1 &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111880.m3u8
 (AU) beIN Sports 2&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111881.m3u8
 (AU) beIN Sports 3&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111882.m3u8
 (CA) beIN Sports&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111883.m3u8
@@ -1381,7 +1430,7 @@ beIN Sports 3 English&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111879
 (TR) beIN Sports 02&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111904.m3u8
 (TR) beIN Sports 03&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111905.m3u8
 (TR) beIN Sports 04&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111906.m3u8
-(US) beIN Sports en Espanol&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111898.m3u8
+(US)&&beIN Sports en Espanol&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111898.m3u8
 (US) beIN Sports LaLiga&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111907.m3u8
 (US) beIN Sports&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111908.m3u8
 (US) BeinSpORTS 04&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111909.m3u8
@@ -1405,7 +1454,7 @@ beIN Sports 3 English&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111879
 (MX) Espn 3&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111928.m3u8
 (MX) Espn Plus&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111929.m3u8
 (MX) Espn U&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111930.m3u8
-(US) ESPN&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111931.m3u8
+(US) ESPN &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111931.m3u8
 (US) ESPN 2&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111932.m3u8
 (US) ESPN Classic&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111933.m3u8
 (US) ESPN News&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111934.m3u8
@@ -1449,15 +1498,15 @@ PL: ELEVEN SPORTS 4&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/146606.m
 (US) Eleven Sports&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111968.m3u8
 Bally Sports Arizona&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111972.m3u8
 Bally Sports+ Arizona&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111973.m3u8
-Bally Sports Ohio&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111974.m3u8
+Bally Sports Ohio  &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111974.m3u8
 Bally Sports Ohio+&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111975.m3u8
 Bally Sports Carolinas&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111976.m3u8
 Bally Sports Detroit&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111977.m3u8
-Bally Sports Florida&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111979.m3u8
+Bally Sports Florida &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111979.m3u8
 Bally Sports Great Lakes&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111996.m3u8
 Bally Sports Indiana&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111981.m3u8
-Bally Sports Midwest - Kansas City&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111983.m3u8
-Bally Sports Midwest - Kansas State&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111984.m3u8
+Bally Sports Midwest -  Kansas City&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111983.m3u8
+Bally Sports Midwest -  Kansas State&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111984.m3u8
 Bally Sports Midwest&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111985.m3u8
 Bally Sports Midwest - St. Louis&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111990.m3u8
 Bally Sports New Orleans&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111991.m3u8
@@ -1471,7 +1520,7 @@ Bally Sports Southeast&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/11200
 Bally Sports Southwest&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112007.m3u8
 Bally Sports Sun&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112009.m3u8
 Bally Sports West&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112011.m3u8
-Bally Sports Wisconsin&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112012.m3u8
+Bally Sports Wisconsin &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112012.m3u8
 (AR) FOX SPORTS 1&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112087.m3u8
 (AR) FOX SPORTS 2&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112088.m3u8
 (AR) FOX SPORTS 3&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112089.m3u8
@@ -1498,7 +1547,7 @@ Bally Sports Wisconsin&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/11201
 (VN) FOX SPORTS 3&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112111.m3u8
 ACC Network&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112491.m3u8
 ACC Network Extra&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112492.m3u8
-Altitude Sports&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112493.m3u8
+Altitude Sports &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112493.m3u8
 Altitude Sports 2&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/135123.m3u8
 AT&T SportsNet Pittsburgh&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112494.m3u8
 AT&T Sportsnet Rocky Mountain&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112495.m3u8
@@ -1553,8 +1602,8 @@ PAC12 Washington&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112541.m3u8
 Premier League Tv&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/119568.m3u8
 Red Bull Tv&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112542.m3u8
 SEC Network&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112543.m3u8
-Spectrum SportsNet LA&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112544.m3u8
-Spectrum SportsNet&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112545.m3u8
+Spectrum SportsNet LA &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112544.m3u8
+Spectrum SportsNet &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112545.m3u8
 SportsNet NY&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112546.m3u8
 Stadium&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112547.m3u8
 Stadium 2&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112548.m3u8
@@ -1567,7 +1616,7 @@ Willow Cricket&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112556.m3u8
 Willow Cricket Extra&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112557.m3u8
 WWE&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112558.m3u8
 (AU) ESPN&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111636.m3u8
-(AU) ESPN 2&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111637.m3u8
+(AU) ESPN 2 &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111637.m3u8
 (DE) DAZN 01:&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112839.m3u8
 (DE) DAZN 02:&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112840.m3u8
 (DE) DAZN 01: Bar&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/112841.m3u8
@@ -1593,14 +1642,14 @@ Sky Sport Bundesliga 04&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/1135
 Sky Sport Bundesliga 05&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/113546.m3u8
 Sky Sport Bundesliga 06&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/113547.m3u8
 Sky Sport Bundesliga 07&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/113548.m3u8
-Sky Sport Bundesliga 08&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/113549.m3u8
+Sky Sport Bundesliga 08 &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/113549.m3u8
 Sky Sport Bundesliga 09&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/113550.m3u8
 Sky Sport Bundesliga 10&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/113551.m3u8
 DAZN 1 (HD)&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/143034.m3u8
 DAZN 1 (FHD)&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/143035.m3u8
-Eurosport 1&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/110498.m3u8
-Eurosport 2&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/110499.m3u8
-Freesports&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/110500.m3u8
+Eurosport 1 &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/110498.m3u8
+Eurosport 2 &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/110499.m3u8
+Freesports &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/110500.m3u8
 LaLiga TV&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/134808.m3u8
 LFC TV (FHD)&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111150.m3u8
 LFC TV (HD)&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/123293.m3u8
@@ -1664,7 +1713,7 @@ TNT Sports 3 (FHD)&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/114520.m3
 TNT Sports 4 (SD)&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/114521.m3u8
 TNT Sports 4 (HD)&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/114522.m3u8
 TNT Sports 4 (FHD)&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/114523.m3u8
-TNT SPORTS 5&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/113333.m3u8
+TNT  SPORTS 5&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/113333.m3u8
 TNT SPORTS 8&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/113336.m3u8
 TNT SPORTS 9&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/113337.m3u8
 TNT SPORTS 10&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/113338.m3u8
@@ -1676,7 +1725,7 @@ Viaplay Sports 2 (HD)&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/148305
 Viaplay Sports 2 (FHD)&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/148307.m3u8
 Viaplay xtra (SD)&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/143044.m3u8
 Viaplay Xtra (HD)&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/148304.m3u8
-Viaplay Xtra (FHD)&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/148308.m3u8
+Viaplay Xtra  (FHD)&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/148308.m3u8
 (HK) Now Sports 1&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/114565.m3u8
 (HK) Now Sports 2&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/114566.m3u8
 (HK) Now Sports 3&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/114567.m3u8
@@ -1722,23 +1771,23 @@ Rugby League 07 ;&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/118022.m3u
 Rugby League 08:&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/118023.m3u8
 Rugby League 09:&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/118024.m3u8
 Rugby League 10:&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/118025.m3u8
-MLB 01:&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/119284.m3u8
-MLB 02:&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/119285.m3u8
-MLB 03:&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/119286.m3u8
-MLB 04:&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/119287.m3u8
+MLB 01: &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/119284.m3u8
+MLB 02: &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/119285.m3u8
+MLB 03: &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/119286.m3u8
+MLB 04: &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/119287.m3u8
 MLB 05:&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/119288.m3u8
-MLB 06:&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/119289.m3u8
-MLB 07:&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/119290.m3u8
-MLB 08:&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/119291.m3u8
-MLB 09:&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/119292.m3u8
-MLB 10:&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/119293.m3u8
-MLB 11:&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/119294.m3u8
-MLB 12:&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/119295.m3u8
-MLB 13:&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/119296.m3u8
+MLB 06: &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/119289.m3u8
+MLB 07: &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/119290.m3u8
+MLB 08: &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/119291.m3u8
+MLB 09: &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/119292.m3u8
+MLB 10: &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/119293.m3u8
+MLB 11: &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/119294.m3u8
+MLB 12: &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/119295.m3u8
+MLB 13: &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/119296.m3u8
 MLB 14:&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/119297.m3u8
-MLB 15:&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/119298.m3u8
-MLB 16:&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/119361.m3u8
-MLB 17:&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/119362.m3u8
+MLB 15: &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/119298.m3u8
+MLB 16: &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/119361.m3u8
+MLB 17: &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/119362.m3u8
 GAA GO 00:&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111164.m3u8
 GAA GO 01:&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111155.m3u8
 GAA GO 02:&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111156.m3u8
@@ -1752,7 +1801,7 @@ GAA GO 09:&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/111163.m3u8
 GAA GO 10:&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/141262.m3u8
 GAA GO 11:&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/141263.m3u8
 GAA GO 12:&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/141264.m3u8
-MLB 18:&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/122773.m3u8
+MLB 18: &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/122773.m3u8
 LFCTV&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/123239.m3u8
 ***NHL CHANNELS GUIDE***&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/123725.m3u8
 NHL 01&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/123726.m3u8
@@ -1785,10 +1834,10 @@ Astro SuperSport Events 03:&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/
 Astro SuperSport Events 04:&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/123804.m3u8
 Astro SuperSport Events 05:&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/123805.m3u8
 Astro SuperSport Events 06:&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/123806.m3u8
-Flow Champions League 1&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/124028.m3u8
-Flow Champions League 2&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/124029.m3u8
-Flow Champions League 3&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/124030.m3u8
-Flow Champions League 4&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/124031.m3u8
+Flow Champions League 1 &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/124028.m3u8
+Flow  Champions League 2&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/124029.m3u8
+Flow  Champions League 3 &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/124030.m3u8
+Flow  Champions League 4 &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/124031.m3u8
 MLS 01:&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/124205.m3u8
 MLS 02:&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/124206.m3u8
 MLS 03:&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/124207.m3u8
@@ -1931,7 +1980,7 @@ SIS Two&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/132418.m3u8
 William Hill TV 1&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/132421.m3u8
 William Hill TV 2&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/132422.m3u8
 Racing Tv&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/132423.m3u8
-Sky Racing&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/132424.m3u8
+Sky Racing &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/132424.m3u8
 ECB 1&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/132425.m3u8
 ECB 2&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/132426.m3u8
 ECB 3&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/132427.m3u8
@@ -1942,10 +1991,10 @@ ECB 7&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/132431.m3u8
 ECB 8&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/132432.m3u8
 ECB 9&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/132433.m3u8
 ECB 10&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/132434.m3u8
-BBC 4K EVENT 1:&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/133431.m3u8
-BBC 4K EVENT 2:&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/133432.m3u8
-BBC4K EVENT 3:&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/133433.m3u8
-BBC4K EVENT 4:&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/133434.m3u8
+BBC 4K EVENT 1: &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/133431.m3u8
+BBC 4K EVENT 2: &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/133432.m3u8
+BBC4K EVENT 3: &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/133433.m3u8
+BBC4K  EVENT 4: &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/133434.m3u8
 BBC 4K EVENT 5:&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/133435.m3u8
 DAZN (CA) 01&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/141113.m3u8
 DAZN (CA) 02&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/141114.m3u8
@@ -1999,15 +2048,15 @@ DAZN (IT) 12:&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/133557.m3u8
 DAZN (IT) 13:&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/133558.m3u8
 DAZN (IT) 14:&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/133559.m3u8
 DAZN (IT) 15:&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/133560.m3u8
-Hub Premier 1&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/134235.m3u8
-Hub Premier 2&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/134236.m3u8
-Hub Premier 3&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/134237.m3u8
-Hub Premier 4&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/134238.m3u8
-Hub Premier 5&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/134239.m3u8
+Hub Premier 1 &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/134235.m3u8
+Hub Premier 2 &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/134236.m3u8
+Hub Premier 3 &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/134237.m3u8
+Hub Premier 4 &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/134238.m3u8
+Hub Premier 5 &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/134239.m3u8
 Hub Premier 6&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/134240.m3u8
-Hub Premier 7&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/134241.m3u8
+Hub Premier 7 &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/134241.m3u8
 Hub Premier 8&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/134242.m3u8
-Hub Premier 9&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/134243.m3u8
+Hub Premier 9 &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/134243.m3u8
 Talksport&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/141093.m3u8
 Reserved 1&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/141098.m3u8
 Reserved 3&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/141100.m3u8
@@ -2108,7 +2157,7 @@ Amazon League1 FR: 7 FHD&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/141
 Amazon League1 FR: 7 HD+&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/141684.m3u8
 Amazon League1 FR: 8 FHD&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/141685.m3u8
 Amazon League1 FR: 8 HD+&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/141686.m3u8
-Amazon League1 FR: MULTIPLEX FHD&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/141687.m3u8
+Amazon League1 FR: MULTIPLEX  FHD&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/141687.m3u8
 Amazon League1 FR: MULTIPLEX HD+&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/141688.m3u8
 SPFL 01:&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/141787.m3u8
 SPFL 02:&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/141788.m3u8
@@ -2437,8 +2486,8 @@ Peacock | Event 19&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/143087.m3
 Peacock | Event 20&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/143088.m3u8
 Hub Premier 11&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/143092.m3u8
 Hub Premier 10&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/143091.m3u8
-Ultimate Pool | Event 1&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/143097.m3u8
-Ultimate Pool | Event 2&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/143098.m3u8
+Ultimate Pool | Event  1&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/143097.m3u8
+Ultimate Pool |  Event 2&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/143098.m3u8
 Ultimate Pool | Event 3&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/143099.m3u8
 Ultimate Pool | Event 4&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/143100.m3u8
 Ultimate Pool | Event 5&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/143101.m3u8
@@ -2547,7 +2596,7 @@ Brentford (2)&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/146744.m3u8
 Brighton&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/146709.m3u8
 Brighton (2)&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/146745.m3u8
 Burnley&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/146710.m3u8
-Burnley (2)&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/146746.m3u8
+Burnley  (2)&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/146746.m3u8
 Chelsea&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/146711.m3u8
 Chelsea (2)&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/146747.m3u8
 Crystal Palace&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/146712.m3u8
@@ -2557,7 +2606,7 @@ Everton (2)&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/146749.m3u8
 Fulham&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/146714.m3u8
 Fulham (2)&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/146750.m3u8
 Luton Town&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/146715.m3u8
-Luton Town (2)&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/146751.m3u8
+Luton Town  (2)&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/146751.m3u8
 Liverpool&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/146716.m3u8
 Liverpool (2)&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/146760.m3u8
 Manchester City&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/146717.m3u8
@@ -2569,7 +2618,7 @@ Newcastle Utd (2)&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/146754.m3u
 Nottingham Forest&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/146720.m3u8
 Nottingham Forest (2)&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/146755.m3u8
 Sheffield United&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/146721.m3u8
-Sheffield United (2)&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/146756.m3u8
+Sheffield United  (2)&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/146756.m3u8
 Tottenham&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/146722.m3u8
 Tottenham (2)&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/146757.m3u8
 West Ham United&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/146723.m3u8
@@ -2592,6 +2641,7 @@ NFL Game Pass 13&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/146738.m3u8
 NFL Game Pass 14&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/146739.m3u8
 NFL Game Pass 15&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/146740.m3u8
 NFL Game Pass 16&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/146725.m3u8
+National League | Event 15&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/146761.m3u8
 National League | Event 16&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/146762.m3u8
 National League | Event 17&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/146763.m3u8
 National League | Event 18&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/146764.m3u8
@@ -2764,10 +2814,10 @@ BBC Radio 5 Live Sports Extra&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5M
 CBS Sports 1430 AM&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/110573.m3u8
 CBS Sports Radio 105.3&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/110574.m3u8
 CBS Sports Radio on AM 1500&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/110575.m3u8
-~Sportsnet 960~ Calgary, AB&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/110576.m3u8
-Sportsnet 650~ Richmond, BC&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/110577.m3u8
+"Sportsnet 960" Calgary, AB&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/110576.m3u8
+Sportsnet 650" Richmond, BC&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/110577.m3u8
 Sportsnet 590 The Fan&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/110578.m3u8
-Fox Sports Indianapolis&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/110579.m3u8
+Fox Sports  Indianapolis&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/110579.m3u8
 Fox Sports Cincinnatti&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/110580.m3u8
 Fox Sports Tuscon&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/110581.m3u8
 Fox Sports Palm Beach&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/110582.m3u8
@@ -2796,7 +2846,7 @@ VPlay UK | Event 13&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/148322.m
 VPlay UK | Event 14&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/148323.m3u8
 VPlay UK | Event 15&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/148324.m3u8
 IRE Virgin Media 4&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/148325.m3u8
-UK Fight Sports&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/148364.m3u8
+UK Fight Sports &&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/148364.m3u8
 VIDIO 01&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/148394.m3u8
 VIDIO 02&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/148395.m3u8
 VIDIO 03&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/148396.m3u8
@@ -2943,3 +2993,152 @@ AFCON 2&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/148699.m3u8
 AFCON 3&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/148700.m3u8
 AFCON 4&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/148701.m3u8
 UFC 24/7&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/148702.m3u8
+Triller TV | 24/7&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/148729.m3u8
+Triller TV | Event 1&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/148730.m3u8
+Triller TV | Event 2&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/148731.m3u8
+Triller TV | Event 3&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/148732.m3u8
+Triller TV | Event 4&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/148733.m3u8
+Triller TV | Event 5&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/148734.m3u8
+Triller TV | Event 6&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/148735.m3u8
+Triller TV | Event 7&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/148736.m3u8
+Triller TV | Event 8&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/148737.m3u8
+Triller TV | Event 9&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/148738.m3u8
+Triller TV | Event 10&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/148739.m3u8
+Triller TV | Event 11&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/148740.m3u8
+Triller TV | Event 12&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/148741.m3u8
+Triller TV | Event 13&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/148742.m3u8
+Triller TV | Event 14&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/148743.m3u8
+Arsenal Replay&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/149891.m3u8
+Aston Villa Replay&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/149892.m3u8
+Bournemouth Replay&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/149893.m3u8
+Brentford Replay&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/149894.m3u8
+Brighton Replay&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/149895.m3u8
+Burnley Replay&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/149896.m3u8
+Chelsea Replay&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/149897.m3u8
+Crystal Palace Replay&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/149898.m3u8
+Everton Replay&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/149899.m3u8
+Fulham Replay&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/149900.m3u8
+Liverpool Replay&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/149901.m3u8
+Luton Replay&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/149902.m3u8
+Manchester City Replay&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/149903.m3u8
+Manchester United Replay&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/149904.m3u8
+Newcastle Replay&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/149905.m3u8
+Nottingham Forest Replay&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/149906.m3u8
+Sheffield United Replay&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/149907.m3u8
+Tottenham Replay&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/149908.m3u8
+West Ham Replay&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/149909.m3u8
+Wolves Replay&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/149910.m3u8
+Super League + 01&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/149933.m3u8
+Super League + 02&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/149934.m3u8
+Super League + 03&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/149935.m3u8
+Super League + 04&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/149936.m3u8
+Super League + 05&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/149937.m3u8
+Super League + 06&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/149938.m3u8
+Florugby 00&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/149939.m3u8
+Florugby 01&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/149940.m3u8
+Florugby 02&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/149941.m3u8
+Florugby 03&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/149942.m3u8
+Florugby 04&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/149943.m3u8
+Florugby 05&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/149944.m3u8
+Florugby 06&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/149945.m3u8
+Florugby 07&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/149946.m3u8
+flosports.tv 00&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/149947.m3u8
+flosports.tv 01&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/149948.m3u8
+flosports.tv 02&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/149949.m3u8
+flosports.tv 03&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/149950.m3u8
+flosports.tv 04&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/149951.m3u8
+flosports.tv 05&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/149952.m3u8
+flosports.tv 06&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/149953.m3u8
+flosports.tv 07&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/149954.m3u8
+flosports.tv 08&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/149955.m3u8
+flosports.tv 09&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/149956.m3u8
+flosports.tv 10&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/149957.m3u8
+flosports.tv 11&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/149958.m3u8
+flosports.tv 12&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/149959.m3u8
+flosports.tv 13&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/149960.m3u8
+flosports.tv 14&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/149961.m3u8
+flosports.tv 15&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/149962.m3u8
+flosports.tv 16&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/149963.m3u8
+flosports.tv 17&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/149964.m3u8
+flosports.tv 18&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/149965.m3u8
+flosports.tv 19&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/149966.m3u8
+flosports.tv 20&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/149967.m3u8
+flosports.tv 21&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/149968.m3u8
+flosports.tv 22&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/149969.m3u8
+flosports.tv 23&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/149970.m3u8
+flosports.tv 24&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/149971.m3u8
+flosports.tv 25&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/149972.m3u8
+flosports.tv 26&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/149973.m3u8
+flosports.tv 27&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/149974.m3u8
+flosports.tv 28&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/149975.m3u8
+flosports.tv 29&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/149976.m3u8
+flosports.tv 30&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/149977.m3u8
+flosports.tv 31&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/149978.m3u8
+flosports.tv 32&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/149979.m3u8
+flosports.tv 33&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/149980.m3u8
+flosports.tv 34&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/149981.m3u8
+flosports.tv 35&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/149982.m3u8
+flosports.tv 36&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/149983.m3u8
+flosports.tv 37&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/149984.m3u8
+flosports.tv 38&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/149985.m3u8
+flosports.tv 39&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/149986.m3u8
+flosports.tv 40&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/149987.m3u8
+flosports.tv 41&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/149988.m3u8
+flosports.tv 42&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/149989.m3u8
+flosports.tv 43&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/149990.m3u8
+flosports.tv 44&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/149991.m3u8
+flosports.tv 45&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/149992.m3u8
+flosports.tv 46&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/149993.m3u8
+flosports.tv 47&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/149994.m3u8
+flosports.tv 48&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/149995.m3u8
+flosports.tv 49&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/149996.m3u8
+flosports.tv 50&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/149997.m3u8
+flosports.tv 51&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/149998.m3u8
+flosports.tv 52&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/149999.m3u8
+flosports.tv 53&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/150000.m3u8
+flosports.tv 54&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/150001.m3u8
+flosports.tv 55&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/150002.m3u8
+flosports.tv 56&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/150003.m3u8
+flosports.tv 57&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/150004.m3u8
+flosports.tv 58&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/150005.m3u8
+flosports.tv 59&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/150006.m3u8
+Sportsnet Event 1&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/150007.m3u8
+Sportsnet Event 10&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/150008.m3u8
+Sportsnet Event 11&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/150009.m3u8
+Sportsnet Event 12&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/150010.m3u8
+Sportsnet Event 13&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/150011.m3u8
+Sportsnet Event 14&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/150012.m3u8
+Sportsnet Event 15&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/150013.m3u8
+Sportsnet Event 16&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/150014.m3u8
+Sportsnet Event 2&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/150015.m3u8
+Sportsnet Event 3&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/150016.m3u8
+Sportsnet Event 4&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/150017.m3u8
+Sportsnet Event 5&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/150018.m3u8
+Sportsnet Event 6&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/150019.m3u8
+Sportsnet Event 7&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/150020.m3u8
+Sportsnet Event 8&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/150021.m3u8
+Sportsnet Event 9&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/150022.m3u8
+F1-TV FHD&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/150023.m3u8
+F1-DATA&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/150024.m3u8
+F1-PIT-LANE&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/150025.m3u8
+F1-TRACKER&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/150026.m3u8
+F1-ALB-Albon-Williams&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/150027.m3u8
+F1-ALO-Alonso-Aston-Martin&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/150028.m3u8
+F1-BOT-Bottas-AlfaRomeo&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/150029.m3u8
+F1-GAS-Gasly-Alpine&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/150030.m3u8
+F1-HAM-Hamilton-Mercedes&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/150031.m3u8
+F1-HUL-Hulkenberg-HaasF1Team&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/150032.m3u8
+F1-LEC-Leclerc-Ferrari&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/150033.m3u8
+F1-MAG-Magnussen-HaasF1Team&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/150034.m3u8
+F1-NOR-Norris-McLaren&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/150035.m3u8
+F1-OCO-Ocon-Alpine&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/150036.m3u8
+F1-PER-Perez-RedBullRacing&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/150037.m3u8
+F1-PIA-Piastri-McLaren&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/150038.m3u8
+F1-RIC-Ricciardo-RB&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/150039.m3u8
+F1-RUS-Russell-Mercedes&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/150040.m3u8
+F1-SAI-Sainz-Ferrari&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/150041.m3u8
+F1-SAR-Sargeant-Williams&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/150042.m3u8
+F1-STR-Stroll-AstonMartin&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/150043.m3u8
+F1-TSU-Tsunoda-RB&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/150044.m3u8
+F1-VER-Verstappen-RedBullRacing&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/150045.m3u8
+F1-ZHO-Zhou-AlfaRomeo&&http://imedia.click:7777/live/vUg8cXuC9/z3g4s8M5Md/150046.m3u8
