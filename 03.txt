@@ -1,0 +1,145 @@
+AE  Dubai TV&&http://210.210.155.35/uq2663/h/h152/index2.m3u8
+CH  My Cinema Europe&&http://210.210.155.35/uq2663/h/h18/index.m3u8
+ES  TVE Internacional Asia-Oceania&&http://210.210.155.35/uq2663/h/h158/index2.m3u8
+UK  Mr. Bean&&http://51.159.104.29:8080/mrbean/index.m3u8
+AR  Fox Kids&&https://stmv1.srvif.com/emlsilva/emlsilva/playlist.m3u8
+AR  Urban Kids&&http://200.194.238.229:8383/live/urbankids/playlist.m3u8
+HK  Celestial Movies [Indonesian Sub]&&https://raw.githubusercontent.com/mimipipi22/lalajo/main/celestialmovies.m3u8
+HK  Phoenix Chinese&&http://210.210.155.35/uq2663/h/h157/index2.m3u8
+JP  Sony GEM [Indonesian Sub]&&https://raw.githubusercontent.com/mimipipi22/lalajo/main/gem.m3u8
+SG  Motorsports&&http://210.210.155.35/uq2663/h/h09/index.m3u8
+UA  Freedom&&http://210.210.155.35/uq2663/h/h101/index.m3u8
+US  MTV 90s&&http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch241)/index.m3u8
+US  W Sport&&http://210.210.155.35/uq2663/h/h26/index.m3u8
+ID  BNTV&&http://210.210.155.35/uq2663/h/h39/index.m3u8
+ID  Garuda TV&&http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch45)/index.m3u8
+ID  Magna Channel&&http://210.210.155.35/uq2663/h/h24/index.m3u8
+ID  Metro Globe Network&&http://210.210.155.35/uq2663/h/h35/index.m3u8
+ID  DFC Dens Food Channel&&http://210.210.155.35/x6bnqe/s/s50/live.m3u8
+ID  Citra Bioskop&&https://raw.githubusercontent.com/kusnadipepenk/campeign/master/citbiosk.m3u8
+US  History [Indonesian Sub]&&https://raw.githubusercontent.com/kusnadipepenk/campeign/master/histo.m3u8
+US  Hits [Indonesian Sub]&&https://raw.githubusercontent.com/kusnadipepenk/campeign/master/hit.m3u8
+ID  Horee!&&https://raw.githubusercontent.com/kusnadipepenk/campeign/master/hore.m3u8
+ID  IDX&&https://raw.githubusercontent.com/kusnadipepenk/campeign/master/idx.m3u8
+ID  Indosiar&&https://raw.githubusercontent.com/kusnadipepenk/campeign/master/indos.m3u8
+KR  K Plus [Indonesian Sub]&&https://raw.githubusercontent.com/kusnadipepenk/campeign/master/kplus.m3u8?c
+US  Paramount&&https://raw.githubusercontent.com/kusnadipepenk/campeign/master/prmont.m3u8
+US  Toonami AfterMath East&&http://api.toonamiaftermath.com:3000/est/playlist.m3u8
+KR  tvN [Indonesian Sub]&&https://raw.githubusercontent.com/kusnadipepenk/campeign/master/tvn.m3u8
+KR  tvN Movies [Indonesian Sub]&&https://raw.githubusercontent.com/kusnadipepenk/campeign/master/tvnmovies.m3u8
+US  AXN [Indonesian Sub]&&https://raw.githubusercontent.com/kusnadipepenk/ntn/master/axn.m3u8
+US  CartooNito&&https://raw.githubusercontent.com/kusnadipepenk/ntn/master/boom.m3u8
+US  Cartoon Network&&https://raw.githubusercontent.com/kusnadipepenk/ntn/master/cn.m3u8
+US  Discovery Asia [Indonesian Sub]&&https://raw.githubusercontent.com/kusnadipepenk/ntn/master/discasia.m3u8
+US  MTV&&https://raw.githubusercontent.com/kusnadipepenk/ntn/master/emtv.m3u8
+US  Movie Now&&https://raw.githubusercontent.com/kusnadipepenk/ntn/master/mnow.m3u8?c
+KR  Spo TV 1&&https://raw.githubusercontent.com/kusnadipepenk/ntn/master/spotv1.m3u8
+KR  Spo TV 2&&https://raw.githubusercontent.com/kusnadipepenk/ntn/master/spotv2.m3u8
+US  &Flix&&http://89.187.177.137:8081/&FLIX/index.m3u8
+US  &Prive&&http://89.187.177.137:8081/&PRIVE/index.m3u8
+A&E&&http://168.227.22.18:1935/live/mobile-158/playlist.m3u8
+A3 Cine&&http://168.227.22.18:1935/live/mobile-028/playlist.m3u8
+A3 Series Int&&http://168.227.22.18:1935/live/mobile-047/playlist.m3u8
+AMC&&http://168.227.22.18:1935/live/mobile-079/playlist.m3u8
+Animal Planet&&http://168.227.22.18:1935/live/mobile-068/playlist.m3u8
+Antena 3 Int&&http://168.227.22.18:1935/live/mobile-008/playlist.m3u8
+AXN&&http://168.227.22.18:1935/live/mobile-048/playlist.m3u8
+Azteca Int&&http://168.227.22.18:1935/live/mobile-117/playlist.m3u8
+Baby TV&&http://168.227.22.18:1935/live/mobile-060/playlist.m3u8
+C10&&http://168.227.22.18:1935/live/mobile-037/playlist.m3u8
+Canal 11&&http://168.227.22.18:1935/live/mobile-132/playlist.m3u8
+Canal 12 SV&&http://168.227.22.18:1935/live/mobile-082/playlist.m3u8
+Canal 2&&http://168.227.22.18:1935/live/mobile-110/playlist.m3u8
+Canal 21&&http://168.227.22.18:1935/live/mobile-049/playlist.m3u8
+Canal 3&&http://168.227.22.18:1935/live/mobile-114/playlist.m3u8
+Canal 7&&http://168.227.22.18:1935/live/mobile-131/playlist.m3u8
+Canal D&&http://168.227.22.18:1935/live/mobile-097/playlist.m3u8
+Canal Movie&&http://168.227.22.18:1935/live/mobile-115/playlist.m3u8
+Canal TRV&&http://168.227.22.18:1935/live/mobile-150/playlist.m3u8
+Cartoon Network&&http://168.227.22.18:1935/live/mobile-029/playlist.m3u8
+Cartoonito&&http://168.227.22.18:1935/live/mobile-055/playlist.m3u8
+Classic Cinema&&http://168.227.22.18:1935/live/mobile-120/playlist.m3u8
+Cli&&http://168.227.22.18:1935/live/mobile-119/playlist.m3u8
+CNBC&&http://168.227.22.18:1935/live/mobile-098/playlist.m3u8
+CNN&&http://168.227.22.18:1935/live/mobile-061/playlist.m3u8
+Comedy Central&&http://168.227.22.18:1935/live/mobile-001/playlist.m3u8
+Corazon&&http://168.227.22.18:1935/live/mobile-118/playlist.m3u8
+Disc Turbo&&http://168.227.22.18:1935/live/mobile-109/playlist.m3u8
+Discovery&&http://168.227.22.18:1935/live/mobile-006/playlist.m3u8
+Dreamworks&&http://168.227.22.18:1935/live/mobile-099/playlist.m3u8
+E!&&http://168.227.22.18:1935/live/mobile-156/playlist.m3u8
+ENI&&http://168.227.22.18:1935/live/mobile-067/playlist.m3u8
+ES NE&&http://168.227.22.18:1935/live/mobile-124/playlist.m3u8
+ESPN 1 MX&&http://168.227.22.18:1935/live/mobile-032/playlist.m3u8
+ESPN 2 MX&&http://168.227.22.18:1935/live/mobile-033/playlist.m3u8
+ESPN 3 MX&&http://168.227.22.18:1935/live/mobile-121/playlist.m3u8
+Film & Arts&&http://168.227.22.18:1935/live/mobile-142/playlist.m3u8
+Fox Deportes&&http://168.227.22.18:1935/live/mobile-104/playlist.m3u8
+Fox Sports 1 MX&&http://168.227.22.18:1935/live/mobile-010/playlist.m3u8
+Fox Sports 2 MX&&http://168.227.22.18:1935/live/mobile-031/playlist.m3u8
+Fox Sports 3 MX&&http://168.227.22.18:1935/live/mobile-108/playlist.m3u8
+Frente A Frente&&http://168.227.22.18:1935/live/mobile-111/playlist.m3u8
+FX&&http://168.227.22.18:1935/live/mobile-123/playlist.m3u8
+Golden&&http://168.227.22.18:1935/live/mobile-141/playlist.m3u8
+Guate Vision&&http://168.227.22.18:1935/live/mobile-149/playlist.m3u8
+H&H&&http://168.227.22.18:1935/live/mobile-107/playlist.m3u8
+HBO 2&&http://168.227.22.18:1935/live/mobile-094/playlist.m3u8
+Hinspan TV&&http://168.227.22.18:1935/live/mobile-147/playlist.m3u8
+History 2&&http://168.227.22.18:1935/live/mobile-157/playlist.m3u8
+History&&http://168.227.22.18:1935/live/mobile-058/playlist.m3u8
+Hola TV&&http://168.227.22.18:1935/live/mobile-013/playlist.m3u8
+IVC&&http://168.227.22.18:1935/live/mobile-153/playlist.m3u8
+LaLiga TV&&http://168.227.22.18:1935/live/mobile-017/playlist.m3u8
+Lifetime&&http://168.227.22.18:1935/live/mobile-154/playlist.m3u8
+Mas CHiC&&http://168.227.22.18:1935/live/mobile-146/playlist.m3u8
+MC&&http://168.227.22.18:1935/live/mobile-044/playlist.m3u8
+Modo Cine&&http://168.227.22.18:1935/live/mobile-140/playlist.m3u8
+MTV&&http://168.227.22.18:1935/live/mobile-063/playlist.m3u8
+MultiPremier&&http://168.227.22.18:1935/live/mobile-021/playlist.m3u8
+National Geographic&&http://168.227.22.18:1935/live/mobile-091/playlist.m3u8
+Nick Jr&&http://168.227.22.18:1935/live/mobile-011/playlist.m3u8
+Nick Music&&http://168.227.22.18:1935/live/mobile-039/playlist.m3u8
+Nick&&http://168.227.22.18:1935/live/mobile-112/playlist.m3u8
+Paramount&&http://168.227.22.18:1935/live/mobile-004/playlist.m3u8
+Pasiones&&http://168.227.22.18:1935/live/mobile-014/playlist.m3u8
+RCN Int&&http://168.227.22.18:1935/live/mobile-072/playlist.m3u8
+RCN Novelas&&http://168.227.22.18:1935/live/mobile-066/playlist.m3u8
+RTVE.ES&&http://168.227.22.18:1935/live/mobile-100/playlist.m3u8
+Russia Today&&http://168.227.22.18:1935/live/mobile-009/playlist.m3u8
+Sony Channel&&http://168.227.22.18:1935/live/mobile-035/playlist.m3u8
+Sony Movies&&http://168.227.22.18:1935/live/mobile-034/playlist.m3u8
+Space&&http://168.227.22.18:1935/live/mobile-003/playlist.m3u8
+Star Channel&&http://168.227.22.18:1935/live/mobile-057/playlist.m3u8
+Star TVE&&http://168.227.22.18:1935/live/mobile-129/playlist.m3u8
+Starz&&http://168.227.22.18:1935/live/mobile-015/playlist.m3u8
+Studio Universal&&http://168.227.22.18:1935/live/mobile-026/playlist.m3u8
+SYFY USA&&http://168.227.22.18:1935/live/mobile-059/playlist.m3u8
+TCS+&&http://168.227.22.18:1935/live/mobile-135/playlist.m3u8
+Telemundo Int&&http://168.227.22.18:1935/live/mobile-152/playlist.m3u8
+Telemundo&&http://168.227.22.18:1935/live/mobile-040/playlist.m3u8
+Telesur&&http://168.227.22.18:1935/live/mobile-116/playlist.m3u8
+TN 23&&http://168.227.22.18:1935/live/mobile-130/playlist.m3u8
+TNT Series&&http://168.227.22.18:1935/live/mobile-046/playlist.m3u8
+TNT Sports CH&&http://168.227.22.18:1935/live/mobile-143/playlist.m3u8
+TNT&&http://168.227.22.18:1935/live/mobile-074/playlist.m3u8
+Tooncast&&http://168.227.22.18:1935/live/mobile-002/playlist.m3u8
+TV Azteca Guate&&http://168.227.22.18:1935/live/mobile-148/playlist.m3u8
+TVE&&http://168.227.22.18:1935/live/mobile-128/playlist.m3u8
+TVO&&http://168.227.22.18:1935/live/mobile-071/playlist.m3u8
+TVU El Savador&&http://168.227.22.18:1935/live/mobile-113/playlist.m3u8
+TyC Sports&&http://168.227.22.18:1935/live/mobile-005/playlist.m3u8
+Universal TV&&http://168.227.22.18:1935/live/mobile-064/playlist.m3u8
+Universo&&http://168.227.22.18:1935/live/mobile-065/playlist.m3u8
+Univision 4&&http://168.227.22.18:1935/live/mobile-036/playlist.m3u8
+Univision&&http://168.227.22.18:1935/live/mobile-045/playlist.m3u8
+WB TV&&http://168.227.22.18:1935/live/mobile-030/playlist.m3u8
+Win+&&http://168.227.22.18:1935/live/mobile-062/playlist.m3u8
+ZooMoo&&http://168.227.22.18:1935/live/mobile-069/playlist.m3u8
+ID  Radar Tasikmalaya TV&&http://103.140.188.211:1935/radartv/myStream/playlist.m3u8
+ID  Jogja Istimewa TV&&http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
+ID  TVKU&&http://103.30.1.14:8080/hls/live.m3u8
+ID  Semarang TV&&http://116.254.112.74/hls/cakralive.m3u8
+ID  Batu TV&&http://117.103.69.219:8080/live/streaming/index.m3u8
+ID  Bandung TV&&http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
+ID  Jek TV&&http://61.8.64.138:1935/jektv/myStream/playlist.m3u8
+ID  Tegar TV Lampung&&http://wms.klikhost.com:1935/tegartv/tegartv/playlist.m3u8
