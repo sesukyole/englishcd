@@ -2,8 +2,8 @@ DAZN F1&&https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/cqb
 EuroSport 1&&https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Eurosport_HD/index.m3u8/S!d2EISU9TX0xpdmUSBkPIS1XDVP7...8BFgyf/Level(1200000)
 EuroSport 2&&https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Eurosport_2_HD/index.m3u8/S!d2EISU9TX0xpdmUSBkPIS1XDVP7...8BFgyf/Level(2100000)
 Redbull TV&&https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-DAZN 1 ES&&https://corsproxy.pro/ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd``44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
-DAZN 2 ES&&https://corsproxy.pro/ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/xnk4m9bnxt/out/v1/4ced7b7329a54652b9bb0521ed38bd4d/cenc.mpd``0eab5a3f3e3b4ba5d42d40ca30d17571:f3f061ded9b70e8160590d5802ecda6d
+DAZN 1 ES&&https://cors-proxy.elfsight.com/ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd``44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
+DAZN 2 ES&&https://cors-proxy.elfsight.com/ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/xnk4m9bnxt/out/v1/4ced7b7329a54652b9bb0521ed38bd4d/cenc.mpd``0eab5a3f3e3b4ba5d42d40ca30d17571:f3f061ded9b70e8160590d5802ecda6d
 DAZN 3 ES&&https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/zy1ee5sshp/out/v1/bdcffa69fa3b4f3bb3569c9c73ee1c01/cenc.mpd``bad8efff688c0dbb3711e4a7114c22a3:6ba800673b20776c0c850130d45e1920
 DAZN 4 ES&&https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/up7qpwch9b/out/v1/a6d5d1a1287b4893b859c2d6ccf2c65d/cenc.mpd``d27104d427e4f87e75b19395a9f8796b:723593c70e2d4c4862754398e80168f8
 LaLiga TV HyperMotion&&https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/woujvkfnmn/out/v1/141b52f08a1e4e97850219729ee48dc8/cenc.mpd``0b1fdeaee3ffc51e9a66cf1938d57aaf:28e3cb88ab7b476b81ab8aa0624c4d71
@@ -44,12 +44,12 @@ Sky Sports 251&&https://linear311-it-dash1-prd-akp2.cdn13.skycdp.com/31917/FHD/s
 Sky Sports 255&&https://linear311-it-dash1-prd-ll.cdn13.skycdp.com/32910/FHD/skysport255/master.mpd``0036b781a22ebb0c20c16ac27d5d1448:f309b94acfda720bf1ed5741489f8967
 Sky Sports 256&&https://linear312-it-dash1-prd-akg0.cdn13.skycdp.com/31912/FHD/skysport256/master.mpd``00366f263859fc1cc82d2c4da6a66ef6:754ae922d113c54349002cd9a88694a4
 Sky Sports 258&&https://linear312-it-dash1-prd-ll.cdn13.skycdp.com/32772/skysport258/master.mpd``0036fd8ccfddba47c8b40aeff63a797c:dfd5c9d0f4ac6f3a1bd89803399e7026
-Sky Sports 24&&https://corsproxy.pro/linear301-it-dash1-prd.selector.skycdn.it/31035/FHD/skysport24/master_stereo.mpd``003618ccd7be22b6367207ed8d64d505:36e97f29ec5ea6126077cc040cc2ceeb
-Sky Sports NBA&&https://corsproxy.pro/linear301-it-dash1-prd.selector.skycdn.it/31764/FHD/skysportnba/master_stereo.mpd``0036c4e453ae2a044f4c861ed73b560a:ea5626c0aa092c382ca58151b5f4b208
-Sky Sports MotoGP&&https://corsproxy.pro/linear306-it-dash1-prd.selector.skycdn.it/31483/FHD/skysportmotogp/master.mpd``0036ea2e908d4cc20ef08595da9ff991:08e1ae9fa0ee4d9ec2b194c4908613ae
-Sky Sports 254&&https://corsproxy.pro/linear312-it-dash1-prd.selector.skycdn.it/016a/31234/FHD/skysport254/master.mpd``00369c14c20b78aadb1ec0e3c0e74979:e768767e2c7238d8069887bb36aed7fa
-Sky Sports 257&&https://corsproxy.pro/linear311-it-dash1-prd.selector.skycdn.it/016a/31775/FHD/skysport257/master.mpd``0036faeace9872d3ceeb8b1b63f0baa3:dbd41ee944243307d39b7b27f16615a8
-Sky Sports 259&&https://corsproxy.pro/linear311-it-dash1-prd.selector.skycdn.it/016a/31613/skysport259/master.mpd``0036644f7699f43e401f88d920dc385c:e5b0cebdc3edd7996d283041535fce9c
+Sky Sports 24&&https://cors-proxy.elfsight.com/linear301-it-dash1-prd.selector.skycdn.it/31035/FHD/skysport24/master_stereo.mpd``003618ccd7be22b6367207ed8d64d505:36e97f29ec5ea6126077cc040cc2ceeb
+Sky Sports NBA&&https://cors-proxy.elfsight.com/linear301-it-dash1-prd.selector.skycdn.it/31764/FHD/skysportnba/master_stereo.mpd``0036c4e453ae2a044f4c861ed73b560a:ea5626c0aa092c382ca58151b5f4b208
+Sky Sports MotoGP&&https://cors-proxy.elfsight.com/linear306-it-dash1-prd.selector.skycdn.it/31483/FHD/skysportmotogp/master.mpd``0036ea2e908d4cc20ef08595da9ff991:08e1ae9fa0ee4d9ec2b194c4908613ae
+Sky Sports 254&&https://cors-proxy.elfsight.com/linear312-it-dash1-prd.selector.skycdn.it/016a/31234/FHD/skysport254/master.mpd``00369c14c20b78aadb1ec0e3c0e74979:e768767e2c7238d8069887bb36aed7fa
+Sky Sports 257&&https://cors-proxy.elfsight.com/linear311-it-dash1-prd.selector.skycdn.it/016a/31775/FHD/skysport257/master.mpd``0036faeace9872d3ceeb8b1b63f0baa3:dbd41ee944243307d39b7b27f16615a8
+Sky Sports 259&&https://cors-proxy.elfsight.com/linear311-it-dash1-prd.selector.skycdn.it/016a/31613/skysport259/master.mpd``0036644f7699f43e401f88d920dc385c:e5b0cebdc3edd7996d283041535fce9c
 Arena Sport 1&&https://webtvstream.bhtelecom.ba/hls6/arena1.mpd``c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 Arena Sport 2&&https://webtvstream.bhtelecom.ba/hls6/arena2.mpd``c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 Arena Sport 3&&https://webtvstream.bhtelecom.ba/hls6/arena3.mpd``c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
@@ -156,13 +156,13 @@ SSC Sport Extra 2&&https://ssc-extra2-ak.akamaized.net/out/v1/8b70de2b70d447ba8a
 SSC Sport Extra 3&&https://ssc-extra3-ak.akamaized.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/index.mpd``98cfd6fd4812497fb24dc75f7545f2ee:d3006ee69e77b25939728ebf30d3180a
 SSC News&&https://ssc-news-live-ak.akamaized.net/out/v1/ef466f43623c4bbaa3f905b566ec35ea/index.mpd``3d04975236a44f62857d181597705ee6:362133e9cb13189ad4fe095ced216f60
 Alkass 5&&https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass5xtgb/master.m3u8
-Astro Arena Bola 1&&https://corsproxy.pro/d1fk7kbmz4il3.cloudfront.net/CH1/masterCH1.mpd``7481d3e3738c46768f138e208fee9076:e1d428c7f1ca82339a6cfa1d0757428e
-Astro Arena Bola 2&&https://corsproxy.pro/d1fk7kbmz4il3.cloudfront.net/CH5/masterCH5.mpd``99685545491d40b493b3a4b263c7245e:7939e335bf8cbbd6882f9f5c9cdebe19
-Astro Premier League&&https://corsproxy.pro/d1fk7kbmz4il3.cloudfront.net/CH3/masterCH3.mpd``ca4f5ff4e4694d54bdfdc9bd34384290:1100fe297146f7d024b59944f09e6d1a
-Astro Supersport 1&&https://corsproxy.pro/d3j4fjrwclc3o8.cloudfront.net/CH1/masterCH1.mpd``b3ccf73a7a664f85ae7411367ffb2fa7:9687d91b7fd647a88183d0a4cc925f77
-Astro Supersport 2&&https://corsproxy.pro/d3j4fjrwclc3o8.cloudfront.net/CH4/masterCH4.mpd``8f1da399325247eca6acdd7bafb95fa2:41f234fb88590af3b0d224111a61bf71
-Astro Supersport 3&&https://corsproxy.pro/d3j4fjrwclc3o8.cloudfront.net/CH5/masterCH5.mpd``0d6d2a1ac8d14e19b17455650770cd99:ff65174f8ec5d4c88e8d8a21968563cf
-Astro Supersport 4&&https://corsproxy.pro/d3j4fjrwclc3o8.cloudfront.net/CH2/masterCH2.mpd``bda7f74b842f4f0eb142395dadd91f07:fb12f661d640e4ebdf38e312302260eb
+Astro Arena Bola 1&&https://cors-proxy.elfsight.com/d1fk7kbmz4il3.cloudfront.net/CH1/masterCH1.mpd``7481d3e3738c46768f138e208fee9076:e1d428c7f1ca82339a6cfa1d0757428e
+Astro Arena Bola 2&&https://cors-proxy.elfsight.com/d1fk7kbmz4il3.cloudfront.net/CH5/masterCH5.mpd``99685545491d40b493b3a4b263c7245e:7939e335bf8cbbd6882f9f5c9cdebe19
+Astro Premier League&&https://cors-proxy.elfsight.com/d1fk7kbmz4il3.cloudfront.net/CH3/masterCH3.mpd``ca4f5ff4e4694d54bdfdc9bd34384290:1100fe297146f7d024b59944f09e6d1a
+Astro Supersport 1&&https://cors-proxy.elfsight.com/d3j4fjrwclc3o8.cloudfront.net/CH1/masterCH1.mpd``b3ccf73a7a664f85ae7411367ffb2fa7:9687d91b7fd647a88183d0a4cc925f77
+Astro Supersport 2&&https://cors-proxy.elfsight.com/d3j4fjrwclc3o8.cloudfront.net/CH4/masterCH4.mpd``8f1da399325247eca6acdd7bafb95fa2:41f234fb88590af3b0d224111a61bf71
+Astro Supersport 3&&https://cors-proxy.elfsight.com/d3j4fjrwclc3o8.cloudfront.net/CH5/masterCH5.mpd``0d6d2a1ac8d14e19b17455650770cd99:ff65174f8ec5d4c88e8d8a21968563cf
+Astro Supersport 4&&https://cors-proxy.elfsight.com/d3j4fjrwclc3o8.cloudfront.net/CH2/masterCH2.mpd``bda7f74b842f4f0eb142395dadd91f07:fb12f661d640e4ebdf38e312302260eb
 DAZN Fast+&&https://dcj-ak-livedazn.akamaized.net/dash/dazn-linear-504/stream.mpd``cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
 DAZN Rise&&https://dcj-ak-livedazn.akamaized.net/dash/dazn-linear-501/stream.mpd``cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
 DAZN Women`s Football&&https://dcj-ak-livedazn.akamaized.net/dash/dazn-linear-503/stream.mpd``cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
@@ -181,11 +181,11 @@ Sony Sports 3&&https://jiotv.rftv.wtf/live/sl892.m3u8
 Sony Sports 4&&https://jiotv.rftv.wtf/live/sl1772.m3u8
 Sony Sports 5&&https://jiotv.rftv.wtf/live/sl155.m3u8
 TVP Canal 7&&https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/DASH_DASH_FK/Live/channel(TV_PUBLICA)/master.mpd``f887375d1c7f007fb10447e84581be70:8183007932359a3cf145198b5129119c
-TNT Sports 1&&https://corsproxy.pro/ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd``ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
-TNT Sports 2&&https://corsproxy.pro/ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd``6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
-TNT Sports 3&&https://corsproxy.pro/ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd``4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
-TNT Sports 4&&https://corsproxy.pro/ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd``e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729
-TNT Sports 5&&https://corsproxy.pro/ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/gesdwrdncn/out/v1/79e752f1eccd4e18b6a8904a0bc01f2d/cenc.mpd``60c0d9b41475e01db4ffb91ed557fbcc:36ee40e58948ca15e3caba8d47b8f34b
+TNT Sports 1&&https://cors-proxy.elfsight.com/ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd``ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
+TNT Sports 2&&https://cors-proxy.elfsight.com/ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd``6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
+TNT Sports 3&&https://cors-proxy.elfsight.com/ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd``4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
+TNT Sports 4&&https://cors-proxy.elfsight.com/ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd``e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729
+TNT Sports 5&&https://cors-proxy.elfsight.com/ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/gesdwrdncn/out/v1/79e752f1eccd4e18b6a8904a0bc01f2d/cenc.mpd``60c0d9b41475e01db4ffb91ed557fbcc:36ee40e58948ca15e3caba8d47b8f34b
 Astro Arena 1&&https://kutilkuda.adventureoryx.workers.dev/dash-wv/linear/2604/default.mpd``efda647dad723563b625be8c05ee6110:6776985938b332164b97b81fe566a34a
 Astro Arena 2&&https://kutilkuda.adventureoryx.workers.dev/dash-wv/linear/5057/default.mpd``ead0335d60401225727a6d531e9c2710:1ee3b252227c5c2ec9378c833d2e14ff
 beIN Sports 1&&https://kutilkuda.adventureoryx.workers.dev/dash-wv/linear/408/default.mpd``1a655189ab5c49eb235308c2b1a9e710:3c4508af348844107f5e026a4fd6b16e
