@@ -53,7 +53,7 @@ UK  Eman Channel&&https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8
 UK  British Muslim TV&&https://api.visionip.tv/live/ASHTTP/visiontvuk-international-britishmuslimtv-hsslive-25f-16x9-MB/playlist.m3u8
 UK  Iqraa TV&&https://ap02.iqplay.tv:8082/iqb8002/iq6a7k/chunks.m3u8
 UK  Iqraa EU&&https://jmc-live.ercdn.net/iqraaeurope/iqraaeurope.m3u8
-Accion Mexicana&&https://stream.ads.ottera.tv/playlist.m3u8?network_id=1153
+MX  Accion Mexicana&&https://stream.ads.ottera.tv/playlist.m3u8?network_id=1153
 Canela Clasicos&&https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
 Canela Hits&&https://stream.ads.ottera.tv/playlist.m3u8?network_id=1058
 Canela Kids&&https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
@@ -67,12 +67,12 @@ Flou Cine&&https://amg01768-flou-flou-canelatv-yri41.amagi.tv/playlist/amg01768-
 Flow Caribe&&https://stream.ads.ottera.tv/playlist.m3u8?network_id=1083
 Haz Clic!&&https://stream.ads.ottera.tv/playlist.m3u8?network_id=4310
 ITV Deportes&&https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010
-Mundo Pequeño&&https://stream.ads.ottera.tv/playlist.m3u8?network_id=3366
+ES  Mundo Pequeño&&https://stream.ads.ottera.tv/playlist.m3u8?network_id=3366
 Novelas Turcas&&https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088
 Novelisima&&https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
 Planeta de Aventuras&&https://stream.ads.ottera.tv/playlist.m3u8?network_id=4311
 Puro Romance&&https://stream.ads.ottera.tv/playlist.m3u8?network_id=1082
-Regional MX&&https://stream.ads.ottera.tv/playlist.m3u8?network_id=1084
+M  Regional MX&&https://stream.ads.ottera.tv/playlist.m3u8?network_id=1084
 Ritmos Inolvidables&&https://stream.ads.ottera.tv/playlist.m3u8?network_id=1081
 Sony Canal Novelas&&https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
 Tierra De Amor y Venganza&&https://stream.ads.ottera.tv/playlist.m3u8?network_id=1080
@@ -158,7 +158,7 @@ KR  EBS Plus 2 TV&&https://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/play
 KR  KBS World TV&&https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 KR  MBC America TV&&https://dacastmmd.mmdlive.lldns.net/dacastmmd/1c94dc9f1c08487a97995571800b9667/index.m3u8
 KR  MBC TV&&https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
-KR  TBS TV&&https://cdntv.tbs.seoul.kr/tbs/_definst_/tbs_tv_web_720.smil/playlist.m3u8
+KR  TBS TV&&https://cdntv.tbs.seoul.kr/tbs/_definst_/tbs_tv_web.smil/playlist.m3u8
 KR  tvN&&https://d32khooduen8y3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p170vbjf0s68a-ssai-prd/2e874342_9a2c_48e9_9066_7ab3a3284a80/hls/playlist.m3u8
 KR  K-Drama&&https://stream.ads.ottera.tv/playlist.m3u8?network_id=425
 KR  K-Movies&&https://bd281c27a16f4a7fb4a88260378e8082.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewMovies/playlist.m3u8
@@ -201,7 +201,7 @@ Sony Crackle&&https://crackle-plex.amagi.tv/playlist.m3u8?c
 TLC&&https://raw.githubusercontent.com/mimipipi22/lalajo/main/tlc.m3u8
 TRT World&&https://raw.githubusercontent.com/mimipipi22/lalajo/main/trtworld.m3u8
 Trvl Channel&&https://raw.githubusercontent.com/mimipipi22/lalajo/main/trvlchannel.m3u8
-VOA&&https://raw.githubusercontent.com/mimipipi22/lalajo/main/voa.m3u8
+US  VOA&&https://raw.githubusercontent.com/mimipipi22/lalajo/main/voa.m3u8
 Hallmark Drama&&https://frndlymsl.akamaized.net/hls/live/2006424/hallmarkdmsl/hallmarkdmsl/playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07
 Hallmark Movies & Mysteries&&https://frndlymsl.akamaized.net/hls/live/2006424/hallmarkmmsl/hallmarkmmsl/playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07
 Hallmark Channel&&https://frndlymsl.akamaized.net/hls/live/2006424/hallmarkmsl/hallmarkmsl/playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07
@@ -228,7 +228,6 @@ China Movies&&https://cors-proxy.cluster.fun/https://edge1.laotv.la/live/ChinaMo
 Cinemax&&https://cors-proxy.cluster.fun/https://edge1.laotv.la/live/Cinemax/manifest.mpd
 CNBC&&https://cors-proxy.cluster.fun/https://edge1.laotv.la/live/CNBC/manifest.mpd
 CNN&&https://cors-proxy.cluster.fun/https://edge1.laotv.la/live/CNN/manifest.mpd
-Discovery&&https://cors-proxy.cluster.fun/https://edge1.laotv.la/live/Discovery/manifest.mpd
 Dongsen Foreign Movie&&https://cors-proxy.cluster.fun/https://edge1.laotv.la/live/DongsenForeignMovie/manifest.mpd
 EBC Movies&&https://cors-proxy.cluster.fun/https://edge1.laotv.la/live/DongsenMovie/manifest.mpd
 DW&&https://cors-proxy.cluster.fun/https://edge1.laotv.la/live/DW/manifest.mpd
@@ -357,3 +356,245 @@ CN  CCTV 8&&https://cors-proxy.cluster.fun/https://edge1.laotv.la/live/CCTV8/man
 CN  CCTV 14&&https://cors-proxy.cluster.fun/https://edge1.laotv.la/live/CCTV14/manifest.mpd
 CN  CCTV 15&&https://cors-proxy.cluster.fun/https://edge1.laotv.la/live/CCTV15/manifest.mpd
 CN  CCTV Golf&&https://cors-proxy.cluster.fun/https://edge1.laotv.la/live/BosiGolf/manifest.mpd
+BE  Club 1&&https://origin2-rtlbe.live.6cloud.fr/pool_z6h2o6qd/clubrtl/rtlbesd/dash_short_cenc10_clubrtl/index.mpd``b53316f32fc93b51a61ba6fdf0bce6c1:d752d66843a48a6fed64eed8f87adc3e
+BR  SBT&&https://0006-bbc.dtvott.com/dash_live_0035/manifest.mpd``3ad3dca103185934acff7a0e9000c112:3f396659d841a55cd1381e6735ecfa1d
+Canal 5&&https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
+CBS News&&https://live.ll.ww.aiv-cdn.net/OTTB/IAD/clients/dash/enc/pnaau3vieh/out/v1/f0ef46aca0a44511a9137f442a8c425a/cenc.mpd``883c3fe70347d4b647d45b8c9b430f8a:d45b8fcb7f415395e789a3f6a6646a8e
+HRT 2&&https://cdn1oiv.akamaized.net/hrtliveorigin/hrt2.smil/1/manifest.mpd``994c79af863838109e7f3503bcd2aff9:d2c19650ad2a2ac77a95453b941a6f0e
+IT  Canale 1 Mediaset&&https://live03p-seg.msf.cdn.mediaset.net/live/ch-i1/i1-dash-widevine.isml/manifest.mpd``00f9f3c0783536b8ee91704e23b78016:bfd04d6f544c9cc4d35cb13ab6778587
+IT  Canale 5 Mediaset&&https://live03p-seg.msf.cdn.mediaset.net/live/ch-c5/c5-dash-widevine.isml/manifest.mpd``00f9f3c0783536b8ce4a30a01a52e082:e926f7d45af4f7d154c990eae6a2d937
+UK  ITV&&https://corsproxy.pro/wp2-obc1112-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV09212/manifest.mpd``5d9937d586414096948337ac314d79c1:22ca2e250b729982c97209e0ff3f7e9b
+USA Net East&&https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd``882c9f5613b43b47adc70aa968a308ce:de534ef8914bfe62ba3cdd6bdb9e1c04
+USA Net West&&https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd``252a671825ba31ec8433f978c32ccf6d:ee560759ecc8d2274df2e63fcef56915
+Adult Swim (Samurai Jack Marathon)&&https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream.m3u8
+AR  Garage TV 🇦🇷&&https://stream1.sersat.com/hls/garagetv.m3u8
+Autentic Travelᴴᴰ 🟤&&https://autentic-autentictravel-1-gb.lg.wurl.tv/playlist.m3u8
+BO  GogoPlay 🇧🇴&&https://cageu.bozztv.com/ssh101/ssh101/gogoplay/playlist.m3u8
+BR  4 POR 4 🇧🇷&&https://video01.soultv.com.br/programa4por4/programa4por4/playlist.m3u8
+BR  Antena1ᴴᴰ 🇧🇷&&https://21qcxjbzwr.singularcdn.net.br/antena1/ngrp:live_all/playlist.m3u8
+BR  Avança Brasilᴴᴰ 🇧🇷&&https://video01.soultv.com.br/avancabrasil/avancabrasil/playlist.m3u8
+BR  BAND Newsᴴᴰ 🇧🇷&&https://cdn2.connectbr.com.br/Band-News/tracks-v1a1/mono.m3u8
+BR  BANDᴴᴰ 🇧🇷&&https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist.m3u8
+BR  BraziTV 🇧🇷&&https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
+BR  Canal UOLᴴᴰ 🇧🇷 🟤&&https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-07et6wc1z29gv/index.m3u8
+BR  CNN Brasilᴴᴰ 🇧🇷&&https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
+BR  D+ TV 🇧🇷&&https://stmv1.samcast.com.br/demaistv6503/demaistv6503/chunklist.m3u8
+BR  Dark Matterᴴᴰ 🇧🇷 🟤&&https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_br_darkmatter_002.m3u8
+BR  DreamWorksᴴᴰ 🇧🇷&&https://cdn-3.nxplay.com.br/DREAMWORKS/tracks-v2a1/mono.m3u8
+BR  Europa Play Filmes Nacionaisᴴᴰ 🇧🇷&&https://cdn-2.nxplay.com.br/europaplay/tracks-v1a1/mono.m3u8
+BR  Fish TV 🇧🇷&&https://cdn-1.nxplay.com.br/FISH_TV_NX_TK/index.m3u8
+BR  Geekdotᴴᴰ 🇧🇷&&https://stream.ichibantv.com:3764/hybrid/play.m3u8
+BR  Globo GE Esporte 🇧🇷ᴴᴰ 🟤&&https://dxmy6u2c9ad0l.cloudfront.net/03.m3u8
+BR  HomeFullᴴᴰ 🇧🇷 🟤&&https://cc-9flatd4lam6vc.akamaized.net/5.m3u8
+BR  Master Show tv 🇧🇷&&https://mastershowtv.videovox.pw/master6123/master6123/chunklist.m3u8
+BR  Mega Fatos 🇧🇷&&https://59f1cbe63db89.streamlock.net:1443/mundotv2/_definst_/mundotv2/chunklist.m3u8
+BR  New Brasilᴴᴰ 🇧🇷&&https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7pakstinpyajo/playlist.m3u8
+BR  Record Newsᴴᴰ 🇧🇷&&https://livestream.zazerconer.workers.dev/channel/UCuiLR4p6wQ3xLEm15pEn1Xw.m3u8
+BR  Record tv sᴘᴴᴰ 🇧🇷&&https://cdn-1.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/tracks-v1a1/mono.m3u8
+BR  RedeTV ᴘʀᴴᴰ 🇧🇷&&https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
+BR  RedeTV! Tocantinsᴴᴰ 🇧🇷&&https://59f1cbe63db89.streamlock.net:1443/redetvro/redetvro/chunklist.m3u8
+BR  Resumo da Ópera 🇧🇷&&https://011news.akamaized.net/011news/011news/chunklist.m3u8
+BR  Runtime Actionᴴᴰ 🇧🇷 🟤&&https://d3vx6kwn4pkd9t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fj2q06aizeppd-prod/run/rt_ra/rt_ra.m3u8
+BR  Runtimeᴴᴰ 🇧🇷 🟤&&https://d3vx6kwn4pkd9t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fj2q06aizeppd-prod/run/rt_br/rt_br.m3u8
+BR  Soul Cine Clube 🇧🇷&&https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
+BR  Trace Brasil 🟤&&https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ccfvktkgxl5qg/playlist.m3u8
+BR  Tv Escola sᴅ 🇧🇷&&https://5c483b9d1019c.streamlock.net/8054/8054/chunklist.m3u8
+BR  Tv Gazetaᴴᴰ 🇧🇷&&https://video02.logicahost.com.br/tvc21/tvc21/playlist.m3u8
+BR  Tv Nova Play 🇧🇷&&https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist.m3u8
+BR  TV Zynᴴᴰ 🇧🇷&&https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5w3mfvzg9saoi/playlist.m3u8
+BR  Vintage tv 🇧🇷&&https://video01.kshost.com.br:4443/rogerio7271/rogerio7271/playlist.m3u8
+BR  Viva wᴇʙ 🇧🇷&&https://video01.kshost.com.br/cypriano46326/cypriano46326/chunklist.m3u8
+BR  Zoom tv 🇧🇷&&https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/chunklist.m3u8
+BR Lloading TVᴴᴰ 🇧🇷&&https://stmv1.srvif.com/loadingtv/loadingtv/chunklist.m3u8
+CA  The Weather Network 🇺🇸🇨🇦 🟤&&https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01442-pelmorexcorp-theweathernetwork-lgca/playlist.m3u8
+CL  Fitmaxx TV 🇨🇱&&https://marine2.miplay.cl/fitmaxx/playlist.m3u8
+CL  Ladies TV 🇨🇱&&https://panel.miplay.cl:8081/ladies/index.m3u8
+CL  On Tour Channel 🇨🇱&&https://marine2.miplay.cl/ontour/playlist.m3u8
+CL  Sport Ext 🇨🇱&&https://marine2.miplay.cl/sportext/playlist.m3u8
+Clubbing tvᴴᴰ 🟤&&https://clubbingtv-lg-au.amagi.tv/playlist.m3u8
+CZ  Premier Sport 1ᴴᴰ 🇨🇿&&https://olam.telka.uk/premiersport_JnD4eF8ALBI4HWrUOpDMUj9sqakB/playlist.m3u8
+ES  3/24 🇪🇸&&https://directes-tv-int.ccma.cat/live-content/canal324-hls/master.m3u8
+ES  8 La Marina sᴅ 🇪🇸&&https://streaming005.gestec-video.com/hls/canal24.m3u8
+ES  A3Player Clasicosᴴᴰ 🇪🇸&&https://fast-channels.atresmedia.com/648ef12c2bfab0e4507e0d61/648ef12c2bfab0e4507e0d61/5.m3u8
+ES  A3Player Comediaᴴᴰ 🇪🇸&&https://fast-channels.atresmedia.com/648ef23d2bfab0e4557e0d61/648ef23d2bfab0e4557e0d61/5.m3u8
+ES  A3Player Equipo Investigacionᴴᴰ 🇪🇸&&https://fast-channels.atresmedia.com/648ef5551756b0e429af83cc/648ef5551756b0e429af83cc/1.m3u8
+ES  A3Player Mentes Inquietasᴴᴰ 🇪🇸&&https://fast-channels.atresmedia.com/648ef3162bfab0e4587e0d61/648ef3162bfab0e4587e0d61.m3u8
+ES  A3Player Multicineᴴᴰ 🇪🇸&&https://fast-channels.atresmedia.com/648ef18c1756b0e41daf83cc/648ef18c1756b0e41daf83cc/1.m3u8
+ES  Andalucia Cocina 🇪🇸&&https://cloud.fastchannel.es/mic/manifiest/hls/acocina/acocina.m3u8
+ES  BBC Dramaᴴᴰ 🇪🇸 🟤&&https://bbceu-bbcdrama-3-es.rakuten.wurl.tv/playlist.m3u8
+ES  betevéᴴᴰ 🇪🇸&&https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_n6442jz0/format/applehttp/.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0
+ES  CGTN Espanhol sᴅ 🇪🇸&&https://livees.cgtn.com/1000e/prog_index.m3u8
+ES  CÑN 🇪🇸 🟤&&https://dsuub0ebctcrw.cloudfront.net/dist/samsungtv/358/hls/master/playlist.m3u8
+ES  Duck tvᴴᴰ 🇪🇸 🟤&&https://dlir9brl2ge8j.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9u2v4ro40jww6-ssai-prd/playlist.m3u8
+ES  Horrorfy 🇪🇸 🟤&&https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
+ES  Kidz 🇪🇸&&https://fast-channels.atresmedia.com/648c271d2bfab0e4177a0d61/648c271d2bfab0e4177a0d61/1.m3u8
+ES  La Otra sᴅ 🇪🇸&&https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:3_HD.smil/manifest.m3u8
+ES  Mundo Náuticaᴴᴰ 🇪🇸&&https://cloud.fastchannel.es/mic/manifiest/hls/mundonautica/mundonautica.m3u8
+ES  Pocoyóᴴᴰ 🇪🇸&&https://d2ljog9n0w576q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qca6wh0s76e45-ssai-prd/fast-channel-pocoyo.m3u8
+ES  Toon Goggles 🇪🇸&&https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=514
+ES  TV3CATᴴᴰ 🇪🇸&&https://directes-tv-int.ccma.cat/live-origin/tvi-hls/master.m3u8
+ETB 1&&https://multimedia.eitb.eus/live-content/etb1hd-hls/index.m3u8
+ETB 2&&https://multimedia.eitb.eus/live-content/etb2hd-hls/index.m3u8
+Eurosport 1 🇵🇱🇺🇸ᴴᴰ&&https://bkm.beetv.kz/btv/live/hls/000002478.m3u8
+Eurosport 2 🇵🇱🇺🇸ᴴᴰ&&https://bkm.beetv.kz/btv/live/hls/000002479.m3u8
+Food Networkᴴᴰ 🇺🇸🇮🇳&&https://raw.githubusercontent.com/inspirationlinks/m3u/live/Streams/foodNet.m3u8
+FR  L`Equipe 🇫🇷ᴴᴰ&&https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/eqpe/equipe.m3u8
+FR  Museum TV 🇫🇷&&https://live2.creacast.com/museum-france/smil:museum-france.smil/master.m3u8
+FR  Nature Time 🇫🇷 🟤&&https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8
+FR  NRJ12 🇫🇷&&https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8
+FR  Popcornᴴᴰ 🇫🇷 🟤&&https://dyc8bdiow0oz1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qique82ecf5q8/pcorn.m3u8
+FR  RTL Play 🇫🇷&&https://raw.githubusercontent.com/inspirationlinks/m3u/live/Streams/RTLPlay.m3u8
+FR  RTL Plug 🇫🇷&&https://raw.githubusercontent.com/inspirationlinks/m3u/live/Streams/RTLPlag.m3u8
+FR  RTL TVi 🇫🇷&&https://raw.githubusercontent.com/inspirationlinks/m3u/live/Streams/RTLTvi.m3u8
+FR  Secret Storyᴴᴰ 🇫🇷 🟤&&https://d3c70waf14qui9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qt977i5mpmr0b-ssai-prd/master.m3u8
+FR  Téva 🇫🇷&&https://raw.githubusercontent.com/Sphinxroot/HSL/main/teva.m3u8
+FR  TV Monaco 🇫🇷&&https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/2025/media.m3u8
+FR  Tv5 Monde Info 🇫🇷&&https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
+Gaming Ubisoft 🟤&&https://ov.ottera.tv/channels/medialive_ubl_ut/master1400000.m3u8;session=medialive_ubl_ut
+IT  Bikeᴴᴰ 🇮🇹&&https://62becaa5a1e2f.streamlock.net/BIKE/BIKE/playlist.m3u8
+IT  Got Gameᴴᴰ 🇮🇹 🟤&&https://gghubsrl-gotgame-1-eu.rakuten.wurl.tv/playlist.m3u8
+JP Newsᴴᴰ 🇧🇷&&https://d9tard1jbwri9.cloudfront.net/playlist1080p.m3u8
+Motor1 TV 🇮🇹🇺🇸 🟤&&https://motorsportnetwork-motor1tv-1-it.samsung.wurl.tv/3000.m3u8
+MovieSphereᴴᴰ 🇵🇹🇧🇷 🟤&&https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01264-vidaausainc-moviesperebr-vidaa/playlist.m3u8
+MX  Azteca Internacional 7ᴴᴰ 🇲🇽 🟤&&https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8
+MX  Estrellas tvᴴᴰ 🇲🇽&&https://estrellatv-plex.amagi.tv/playlist.m3u8
+MX  Rakuten vikiᴴᴰ 🇲🇽🇰🇷 🟤&&https://newidco-rakutenviki-3-mx.lg.wurl.tv/playlist.m3u8
+MX  Univisión Latinoaméricaᴴᴰ 🇲🇽&&https://linear-424.frequency.stream/mt/studio/424/hls/master/playlist.m3u8
+My Time Movie networkᴴᴰ 🇵🇹🇧🇷 🟤&&https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+NI  La Rock 22ᴴᴰ 🇳🇮&&https://cootv.cootel.com.ni:8095/Canal22_CooTel/playlist.m3u8
+PE  FunBox 🇵🇪&&https://live-evg4.tv360.bitel.com.pe/bitel/funbox/playlist.m3u8
+Press TV&&https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/playlist.m3u8
+PT  ARTVᴴᴰ 🇵🇹&&https://playout175.livextend.cloud/livenlin4/_definst_/2liveartvpub2/playlist.m3u8
+PT  Kuriakos Kidsᴴᴰ 🇵🇹&&https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
+PT  NPC TV 🇵🇹&&https://stmv5.samcast.com.br/nasciparacantartv/nasciparacantartv/chunklist.m3u8
+PT  ONFM 🇵🇹&&https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
+PT  Porto Canalᴴᴰ 🇵🇹&&https://bcovlive-a.akamaihd.net/34ec8f209dcc48dda853aca054c97ab2/eu-west-1/6415811594001/profile_0/chunklist.m3u8
+PT  Rádio Sines 🇵🇹&&https://streamer-a01.videos.sapo.pt/live/radiosinesdireto/index.m3u8
+PT  Rakuten Famíliaᴴᴰ 🇵🇹 🟤&&https://rakuten-family-14-pt.samsung.wurl.tv/playlist.m3u8
+PT  RTP 1ᴴᴰ 🇵🇹&&https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
+PT  RTP 2ᴴᴰ 🇵🇹&&https://streaming-live.rtp.pt/liverepeater/smil:rtp2HD.smil/playlist.m3u8
+PT  RTP 3ᴴᴰ 🇵🇹&&https://streaming-live.rtp.pt/liverepeater/smil:rtpnHD.smil/inspiration.m3u8
+PT  RTP Açoresᴴᴰ 🇵🇹&&https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/inspiration.m3u8
+PT  RTP África ѕᴅ 🇵🇹&&https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/inspiration.m3u8
+PT  RTP Internacional ѕᴅ 🇵🇹 ⚽️&&https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/chunklist.m3u8
+PT  RTP Memoria ѕᴅ 🇵🇹&&https://streaming-live.rtp.pt/liverepeater/smil:estudoemcasa.smil/inspiration.m3u8
+PT  Santuário de Fátimaᴴᴰ 🇵🇹&&https://streamer-a01.videos.sapo.pt/live/santuario/chunklist.m3u8
+PT  SIC Alta Definiçãoᴴᴰ 🇵🇹&&https://production-fast-sic.content.okast.tv/fa2e8c4385712f9a863b1c5e7e32550b/channels/d9070446-8448-455e-8075-773b1ba12562/fc831b20-f252-4e7d-8cc5-2d05f4d43c1c/media_.m3u8
+PT  SIC Noticiasᴴᴰ 🇵🇹 (Geoblocked)&&https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index.m3u8
+PT  SIC Novelasᴴᴰ 🇵🇹 ❌&&https://fast.live.impresa.pt/out/v1/b5be42c4a68d4ee18461a7156bb8ecf2/sic-novelas.m3u8
+PT  SIC Replayᴴᴰ 🇵🇹&&https://production-fast-sic.content.okast.tv/fa2e8c4385712f9a32a3b6cc344dbd6c/channels/d9070446-8448-455e-8075-773b1ba12562/d47eae0f-ad77-414a-9a1d-2a6628ba18c3/media_.m3u8
+PT  SICᴴᴰ 🇵🇹&&https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
+PT  TVI Internacional sᴅ 🇵🇹&&https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tviint.m3u8
+PT  TVIᴴᴰ 🇵🇹&&https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tvi.m3u8
+Qwest Jazzᴴᴰ 🟤&&https://qwest-jazz-plex.amagi.tv/playlist720_p.m3u8
+Qwest tvᴴᴰ 🟤&&https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwesttv-samsungbr/playlist.m3u8
+RAI Italia Asia&&https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC7/index.m3u8
+Rakuten Documentariesᴴᴰ 🇵🇹🇧🇷 🟤&&https://rakuten-documentaries-14-pt.samsung.wurl.tv/3000.m3u8
+Rakuten vikiᴴᴰ 🇺🇸🇰🇷 🟤&&https://newidco-rakutenviki-2-us.lg.wurl.tv/playlist.m3u8
+RU  Старт 🇷🇺&&https://strm.yandex.ru/kal/start/start0.m3u8
+TG Junior Kids 🟤&&https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=31
+Trace Latina 🟤&&https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinaes-samsungspain/playlist.m3u8
+Trace Urban ² 🟤&&https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
+UK  4 Emergencyᴴᴰ 🇬🇧 🟤&&https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,4Emergency.m3u8
+UK  BEON Travel Channelᴴᴰ 🇬🇧 🟤&&https://amg01450-lgimedia-beon-localnow-qf17a.amagi.tv/playlist.m3u8
+UK  BritBox Mysteriesᴴᴰ 🇬🇧 🟤&&https://d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/playlist.m3u8?ads.xumo_channelId=99951213
+UK  Emergency!ᴴᴰ 🇬🇧 🟤&&https://rightsboosterltd-emergency-1-us.tcl.wurl.tv/playlist.m3u8
+UK  Homes Under the Hammer 🇬🇧 🟤&&https://all3media-homes-under-the-hammer-1-gb.vidaa.wurl.tv/playlist.m3u8
+UK  Horse and Countryᴴᴰ 🇬🇧 🟤&&https://amg00810-hctvltd-hncfree-localnow-t4eey.amagi.tv/playlist.m3u8
+UK  Mtrspt1 🇬🇧 🟤&&https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-lges/playlist.m3u8
+UK  Real Storiesᴴᴰ 🇬🇧 🟤&&https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realstories-lgnl/playlist.m3u8
+UK  Sky Newsᴴᴰ 🇬🇧 🟤&&https://d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99951223
+UK  The ChatShowᴴᴰ 🇬🇧 🟤&&https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-thechatshow-samsungnz/playlist.m3u8
+UK  Trace UK 🟤&&https://d2u040elo6umri.cloudfront.net/trace_urban_gb.m3u8
+US  Accu Weather 🇺🇸 🟤&&https://accuweatherx-lg.amagi.tv/playlist.m3u8
+US  Adult Swim 🇺🇸 (Rick and Morty Marathon)&&https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
+US  África News 🇺🇸 🟤&&https://rakuten-africanews-1-pt.samsung.wurl.tv/manifest/playlist.m3u8
+US  Alfred Hitchcock Presents 🇺🇸 🟤&&https://d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99951256
+US  Alien Nation 🇺🇸 🟤&&https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00219-gunpowdersky-dustintlnz-samsungnz/playlist.m3u8
+US  AMC East 🇺🇸&&https://bcovlive-a.akamaihd.net/94e1185924514d0694019d24cfca7121/us-east-1/6240731308001/playlist.m3u8
+US  AMC Thrillers 🇺🇸 🟤&&https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RushByAMC/playlist.m3u8
+US  AMC 🇺🇸 🟤&&https://5def33c73f084e11a19ca77697d6b413.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AMCPresents/playlist.m3u8
+US  AMC+ East 🇺🇸&&https://bcovlive-a.akamaihd.net/ba853de442c140b7b3dc020001597c0a/us-east-1/6245817279001/playlist.m3u8
+US  Autentic History 🇺🇸 🟤&&https://autentic-autentichistory-1-gb.lg.wurl.tv/playlist.m3u8
+US  AWE 🇺🇸 🟤&&https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00450-herringnetwork-awe-lgau/playlist.m3u8
+US  BBC América East 🇺🇸&&https://bcovlive-a.akamaihd.net/cde8d9416f6d4f1da0a4e8cfde6e8b2c/us-east-1/6240731308001/playlist.m3u8
+US  BelAiR tvᴴᴰ 🇺🇸 🟤&&https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtven-tcl/playlist.m3u8
+US  Billiard TV ² 🇺🇸 🟤&&https://newidco-billiardstv-1-eu.xiaomi.wurl.tv/playlist.m3u8
+US  Billiard TV 🇺🇸 🟤&&https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
+US  Blues tv 🇺🇸&&https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8
+US  California Music Channel 🇺🇸&&https://cmc-ono.amagi.tv/playlist.m3u8
+US  Canal tv Motor 🇺🇸&&https://digicom.hls.iptvdc.com/motorstv/tracks-v1a1/mono.m3u8
+US  CGTN Documentary 🇺🇸 🟤&&https://livedoc.cgtn.com/1000d/prog_index.m3u8
+US  CNN Fast 🇺🇸 🟤&&https://dxfcdu0nbk5gp.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qrbspx9wrgvoc/master.m3u8?
+US  CNN 🇺🇸 🟤&&https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+US  Crime Timeᴴᴰ 🇺🇸 🟤&&https://bamca-crimetime-lg.amagi.tv/playlist.m3u8
+US  Curiosity Now 🇺🇸 🟤&&https://curiosity-curiosity-now-2-us.tcl.wurl.tv/playlist.m3u8
+US  Darcizzle Offshore Fishingᴴᴰ 🇺🇸&&https://30a-tv.com/darcizzle.m3u8
+US  Doc+ᴴᴰ 🇺🇸 🟤&&https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991638
+US  Earth Touch tv 🇺🇸 🟤&&https://autentic-adventure-earth-1-gb.lg.wurl.tv/playlist.m3u8
+US  Edge Sportᴴᴰ 🇺🇸 🟤&&https://edgesports-row-rakuten.amagi.tv/playlist1080p.m3u8
+US  ESR 24x7 eSports Network 🇺🇸&&https://eyeonesports.com/720/ESR-002SCTE35.m3u8
+US  ET Live Entertainment Tonightᴴᴰ 🇺🇸 🟤&&https://dai.google.com/linear/hls/event/xrVrJYTmTfitfXBQfeZByQ/master.m3u8
+US  FailArmy Internacionalᴴᴰ 🇺🇸 🟤&&https://jukin-failarmy-international-1-eu.vidaa.wurl.tv/playlist.m3u8
+US  FailArmyᴴᴰ² 🇺🇸 🟤&&https://linear-46.frequency.stream/dist/localnow/46/hls/master/playlist.m3u8
+US  Fox News Nowᴴᴰ 🇺🇸 🟤&&https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
+US  Fox Weather 🇺🇸 🟤&&https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Fox-Weather.m3u8
+US  Fuel TVᴴᴰ 🇺🇸 🟤&&https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvemeaen-lggb/playlist.m3u8
+US  Game Revolution 🇺🇸 🟤&&https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=71
+US  Ghost Hunters Channel 🇺🇸 🟤&&https://6aba28ce.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VmlkYWEtYXVfR2hvc3RIdW50ZXJzX0hMUw/playlist.m3u8
+US  GoUSAᴴᴰ 🇺🇸 🟤&&https://brandusa-gousa-1-in.samsung.wurl.tv/3000.m3u8
+US  GQᴴᴰ 🇺🇸 🟤&&https://amg00255-condenast-gq-localnow-5sme3.amagi.tv/playlist.m3u8
+US  Hard Knock Fighting 🇺🇸 🟤&&https://d3uyzhwvmemdyf.cloudfront.net/scheduler/scheduleMaster/109/variant/22099396/8d216b41-1,96b-49d2-afb2-46cb9916f903.m3u8
+US  Haunt TV 🇺🇸 🟤&&https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-haunttvus-vidaa/playlist.m3u8
+US  Her Sphere by Lionsgate 🇺🇸 🟤&&https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-hersphere-lgus/playlist.m3u8
+US  HomeFulᴴᴰ 🇺🇸 🟤&&https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01515-blueskyeenterta-homefulusa-vizious/playlist.m3u8
+US  Horizon Sportsᴴᴰ 🇺🇸 🟤&&https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/bb03cb18-c54e-11ec-967f-401ac48a6867/0/master.m3u8?profile=inspirationFreetv.m3u8&ads%3Aamznbrmid&ads%3Aamznregion&ads%3Aamznslots&ads%3Aapp_bundle=com.rakuten.tv&ads%3Aapp_version&ads%3Abrand_name&ads%3Acontent_classification=7&ads%3Adevice_type=web&ads%3Adevice_year=1970&ads%3Afunke_channel_id=RAKB0021&ads%3Alanguage=eng&ads%3Amarket=uk&ads%3Aos_language&ads%3Aplayer_height=1080&ads%3Aplayer_width=1920&ads%3Apod_type=playerpage_midroll&ads%3Artv_content_id=4260&ads%3Astreaming_id=4bb04afc-6447-4a76-895a-c1f117394c95&ads%3Atcf&ads%3Ativo_devcountry&ads%3Ativo_devmakedate&ads%3Ativo_mvpd&ads%3Ativo_platform&ads%3Ativo_usid&ads%3Ativo_uxloc&ads%3Auser_type=visitor&country=gb&optout=0&uid=e3dd2658-e93a-4cee-9d4b-27200826a904&vendor=rakuten
+US  Horror Machine 🇺🇸 🟤&&https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/horrormachine/playlist.m3u8
+US  Hunt Channel 🇺🇸&&https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/tracks-v1a1/mono.m3u8
+US  IFC Eastᴴᴰ 🇺🇸🇸&&https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/12733.m3u8
+US  Impact! Wrestling 🇺🇸 🟤&&https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
+US  Impact! Wrestling 🇺🇸 🟤&&https://d2tuwvs0ja335j.cloudfront.net/hls/1080p/playlist.m3u8
+US  Inwonder TVᴴᴰ 🇺🇸 🟤&&https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-inwonderhd-xiaomi/playlist.m3u8
+US  ITSF 🇺🇸ᴴᴰ 🟤&&https://g-mana.sofast.tv/media/8f2e7ae7-54e8-4ca2-b9f1-93c8416fdb4f/mainManifest.m3u8
+US  Life Minute TV 🇺🇸 🟤&&https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01468-lifeminutetv-lifeminutetv-lgau/playlist.m3u8
+US  Love Magazine Trailersᴴᴰ 🇺🇸 🟤&&https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovemagazineuk-lggb/playlist.m3u8
+US  MFight Network 🇺🇸 🟤&&https://stream.ads.ottera.tv/playlist.m3u8?network_id=778
+US  MHz Nowᴴᴰ 🇺🇸 🟤&&https://9cd9410130db4466b2fc456b6885dfc8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-ca_MHz/playlist.m3u8
+US  MLB 🇺🇸ᴴᴰ 🟤&&https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,MLB2.m3u8
+US  MotoAmerica 🇺🇸 🟤&&https://1422977263.rsc.cdn77.org/HLS/MOTOAMERICA_SCTE_Max.m3u8
+US  Motorvision 🇺🇸 🟤&&https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01329-otterainc-motorvisionnz-samsungnz/playlist.m3u8
+US  MovieDome 🇺🇸 🟤&&https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00771-kochfilmsgerman-moviedomeuk-tcl/playlist.m3u8
+US  MovieSphere by Lionsgate 🇺🇸 🟤&&https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,MovieSphere.m3u8
+US  Nature Time 🇺🇸 🟤&&https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01576-blueskyeenterta-naturetimeemea-lgdk/playlist.m3u8
+US  NBC Lx Home 🇺🇸 🟤&&https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991651
+US  NBC NHL 🇺🇸ᴴᴰ 🟤&&https://nhl-firetv.amagi.tv/playlist.m3u8
+US  NFL 🇺🇸ᴴᴰ 🟤&&https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,NFL2.m3u8
+US  NHRA tvᴴᴰ 🇺🇸 🟤&&https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,NHRA.m3u8
+US  Outdoor Channelᴴᴰ 🇺🇸 🟤&&https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoorchannel-lgau/playlist.m3u8
+US  Popstar! TV 🇺🇸 🟤&&https://linear-10.frequency.stream/dist/zype/10/hls/master/playlist.m3u8
+US  Racing America 🇺🇸 🟤&&https://racingamerica-plex.amagi.tv/playlist1080p.m3u8
+US  Skateboardingᴴᴰ 🇺🇸 🟤&&https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg13231-actve-skateboarding-ono/playlist.m3u8
+US  Ski TV 🇺🇸 🟤&&https://d2xeo83q8fcni6.cloudfront.net/scheduler/scheduleMaster/193.m3u8
+US  Snowboarder tvᴴᴰ 🇺🇸 🟤&&https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg13231-actve-snowboarder-ono/playlist.m3u8
+US  Snowy Mountains Tv 🇺🇸 🟤&&https://185043-castr.akamaized.net/62dc75c81d350f50023a3d01/live_2a10d2606c3711edbc96a96176a0fe35/index.m3u8
+US  Stadium 🇺🇸ᴴᴰ 🟤&&https://stadium-gracenote-us.roku.wurl.tv/playlist.m3u8
+US  Super Yacht TVᴴᴰ 🇺🇸&&https://sy.wns.live/hls/stream.m3u8
+US  Tastemade Travelᴴᴰ 🇺🇸 🟤&&https://tastemadetravel-vizio.amagi.tv/playlist720_p.m3u8
+US  The Bob Ross Channelᴴᴰ 🇺🇸 🟤&&https://dai.google.com/linear/hls/event/3dbJrQmVT_-psb-KBYuKQA/master.m3u8
+US  This Old Houseᴴᴰ 🇺🇸 🟤&&https://d22xc95vfbu1qn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-j93gtbl1whg1w-prod/amgthisoldhouse/playlist.m3u8
+US  Total Crimeᴴᴰ 🇺🇸 🟤&&https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01446-blueantmediacan-totalcrime-tablo/playlist.m3u8
+US  Trace Sports 🇺🇸 🟤&&https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
+US  Travelxp 🇺🇸 🟤&&https://travelxp-travelxp-1-gb.lg.wurl.tv/playlist.m3u8
+US  UnXplained Zone 🇺🇸 🟤&&https://a6d374d4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZ19VblhwbGFpbmVkWm9uZV9ITFM/playlist.m3u8
+US  Vogue 🇺🇸 🟤&&https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991138
+US  Waypoint TVᴴᴰ 🇺🇸 🟤&&https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Waypoint.m3u8
+US  WeatherNation TV 🇺🇸 🟤&&https://weathernation-1-us.roku.wurl.tv/playlist.m3u8
+US  Wedo Big Doc ᴴᴰ 🇺🇸 🟤&&https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00735-videosolutionsa-wedobigdocs-lggb/playlist.m3u8
+US  Wedo Big Stories ᴴᴰ 🇺🇸 🟤&&https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00735-videosolutionsa-wedobigstories-vidaa/playlist.m3u8
+US  Wildlife tvᴴᴰ 🇺🇸 🟤&&https://d1vp12yk4i8ou5.cloudfront.net/playlist720p.m3u8
+US  XFC MMA 🇺🇸 🟤&&https://b81ea6a237a99f732a8a56c17e6e1733.7wzuvg.channel-assembly.mediatailor.us-east-1.amazonaws.com/v1/channel/XFC_TV/index-xfctv.m3u8
+US  Young Hollywood TVᴴᴰ 🇺🇸 🟤&&https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00143-younghollywood-younghollywood-vidaa/playlist.m3u8
+VE  TeleSurᴴᴰ 🇬🇧🇻🇪&&https://cdnenmain.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
+VE  TeleSurᴴᴰ 🇻🇪&&https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+Vivaldiᴴᴰ 🟤&&https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01297-mezzo-vivalditv-xiaomi/playlist.m3u8
+Wild Earthᴴᴰ 🇺🇸🇧🇷 🟤&&https://wildearth-roku.amagi.tv/masterR720P.m3u8
