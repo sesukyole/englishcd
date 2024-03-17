@@ -1,4 +1,5 @@
 Plays1be&&`0https://go.now.net.eu.org/yos512/live?embed=plays1be&type=m
+Plays1be&&`0https://embed.now.net.eu.org/yos512/mlive?id=plays1be&type=m
 FRANCE 2HD&&http://144.76.100.187:5436/bossna/testiptvvv/10099
 FRANCE 3HD&&http://144.76.100.187:5436/bossna/testiptvvv/10100
 FRANCE 4HD&&http://144.76.100.187:5436/bossna/testiptvvv/10101
