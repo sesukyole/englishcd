@@ -201,3 +201,46 @@ Astro Champions League&&https://kutilkuda.adventureoryx.workers.dev/dash-wv/line
 Astro Supersport Plus&&https://kutilkuda.adventureoryx.workers.dev/dash-wv/linear/5076/default.mpd``89c10c7ef0af145be7d6e88dec090b10:80558606a13a99d2c543872d8899ced0
 Astro Go Live Event 1&&https://kutilkuda.adventureoryx.workers.dev/dash-wv/linear/9986/default.mpd``cb18945925e65d411fbb986d72531010:15ff74ae1064c5f2fb00d2995fa88955
 Astro Go Live Event 2&&https://kutilkuda.adventureoryx.workers.dev/dash-wv/linear/9988/default.mpd``8ab014de03c31a84a835583c348a5e10:5ed727c3f28bac59aa3e5914f5ad455c
+BE  PlaySports 1&&`0https://go.now.net.eu.org/yos512/live?embed=plays1be&type=m
+BE  PlaySports 2&&`0https://go.now.net.eu.org/yos512/live?embed=plays2be&type=m
+BE  PlaySports 3&&`0https://go.now.net.eu.org/yos512/live?embed=plays3be&type=m
+BE  Eleven Sports EPL&&`0https://go.now.net.eu.org/yos512/live?embed=epl1be&type=m
+DE  EuroSports 1&&`0https://go.now.net.eu.org/yos512/live?embed=euro1de&type=m
+DE  EuroSports 2&&`0https://go.now.net.eu.org/yos512/live?embed=euro2de&type=m
+DE  DAZN 1&&`0https://go.now.net.eu.org/yos512/live?embed=dazn1de&type=m
+DE  DAZN 2&&`0https://go.now.net.eu.org/yos512/live?embed=dazn2de&type=m
+DE  SportDigital FussBall&&`0https://go.now.net.eu.org/yos512/live?embed=digital&type=m
+IT  Zona DAZN&&`0https://go.now.net.eu.org/yos512/live?embed=zonait&type=m
+IT  Inter TV&&`0https://go.now.net.eu.org/yos512/live?embed=intertv&type=m
+IT  Milan TV&&`0https://go.now.net.eu.org/yos512/live?embed=milantv&type=m
+PT  Eleven Sports 1&&`0https://go.now.net.eu.org/yos512/live?embed=eleven1pt&type=m
+PT  Eleven Sports 2&&`0https://go.now.net.eu.org/yos512/live?embed=eleven2pt&type=m
+PT  Eleven Sports 3&&`0https://go.now.net.eu.org/yos512/live?embed=eleven3pt&type=m
+PT  Eleven Sports 4&&`0https://go.now.net.eu.org/yos512/live?embed=eleven4pt&type=m
+PT  Eleven Sports 5&&`0https://go.now.net.eu.org/yos512/live?embed=eleven5pt&type=m
+PT  Eleven Sports 6&&`0https://go.now.net.eu.org/yos512/live?embed=eleven6pt&type=m
+ES  EuroSports 1&&`0https://go.now.net.eu.org/yos512/live?embed=euro1es&type=m
+ES  EuroSports 2&&`0https://go.now.net.eu.org/yos512/live?embed=euro2es&type=m
+ES  DAZN 1&&`0https://go.now.net.eu.org/yos512/live?embed=dazn1es&type=m
+ES  DAZN 2&&`0https://go.now.net.eu.org/yos512/live?embed=dazn2es&type=m
+US  DAZN NBA&&`0https://go.now.net.eu.org/yos512/live?embed=daznnba&type=m
+US  DAZN NFL&&`0https://go.now.net.eu.org/yos512/live?embed=daznnfl&type=m
+US  DAZN MLB&&`0https://go.now.net.eu.org/yos512/live?embed=daznmlb&type=m
+FR  beINSports 1&&`0https://go.now.net.eu.org/yos512/live?embed=bein1fr&type=m
+FR  beINSports 2&&`0https://go.now.net.eu.org/yos512/live?embed=bein2fr&type=m
+FR  beINSports 3&&`0https://go.now.net.eu.org/yos512/live?embed=bein3fr&type=m
+FR  beINSports Max 4&&`0https://go.now.net.eu.org/yos512/live?embed=beinmax4fr&type=m
+FR  beINSports Max 5&&`0https://go.now.net.eu.org/yos512/live?embed=beinmax5fr&type=m
+FR  beINSports Max 6&&`0https://go.now.net.eu.org/yos512/live?embed=beinmax6fr&type=m
+FR  beINSports Max 7&&`0https://go.now.net.eu.org/yos512/live?embed=beinmax7fr&type=m
+FR  beINSports Max 8&&`0https://go.now.net.eu.org/yos512/live?embed=beinmax8fr&type=m
+FR  beINSports Max 9&&`0https://go.now.net.eu.org/yos512/live?embed=beinmax9fr&type=m
+FR  beINSports Max 10&&`0https://go.now.net.eu.org/yos512/live?embed=beinmax10fr&type=m
+MY  beINSports Uni 1&&`0https://go.now.net.eu.org/yos512/live?embed=bein1uni&type=m
+MY  beINSports Uni 2&&`0https://go.now.net.eu.org/yos512/live?embed=bein2uni&type=m
+MY  beINSports Uni 3&&`0https://go.now.net.eu.org/yos512/live?embed=bein3uni&type=m
+MY  beINSports Uni 4&&`0https://go.now.net.eu.org/yos512/live?embed=bein4uni&type=m
+ES  DAZN LaLiga&&`0https://go.now.net.eu.org/yos512/live?embed=laligaes&type=m
+ES  DAZN LaLiga HyperMotion&&`0https://go.now.net.eu.org/yos512/live?embed=laligah&type=m
+ES  DAZN F1&&`0https://go.now.net.eu.org/yos512/live?embed=daznf1&type=m
+US  DAZN RedBull&&`0https://go.now.net.eu.org/yos512/live?embed=redbull&type=m
