@@ -226,20 +226,20 @@ ES  DAZN 2&&`0https://go.now.net.eu.org/yos512/live?embed=dazn2es&type=m
 US  DAZN NBA&&`0https://go.now.net.eu.org/yos512/live?embed=daznnba&type=m
 US  DAZN NFL&&`0https://go.now.net.eu.org/yos512/live?embed=daznnfl&type=m
 US  DAZN MLB&&`0https://go.now.net.eu.org/yos512/live?embed=daznmlb&type=m
-FR  beINSports 1&&`0https://go.now.net.eu.org/yos512/live?embed=bein1fr&type=m
-FR  beINSports 2&&`0https://go.now.net.eu.org/yos512/live?embed=bein2fr&type=m
-FR  beINSports 3&&`0https://go.now.net.eu.org/yos512/live?embed=bein3fr&type=m
-FR  beINSports Max 4&&`0https://go.now.net.eu.org/yos512/live?embed=beinmax4fr&type=m
-FR  beINSports Max 5&&`0https://go.now.net.eu.org/yos512/live?embed=beinmax5fr&type=m
-FR  beINSports Max 6&&`0https://go.now.net.eu.org/yos512/live?embed=beinmax6fr&type=m
-FR  beINSports Max 7&&`0https://go.now.net.eu.org/yos512/live?embed=beinmax7fr&type=m
-FR  beINSports Max 8&&`0https://go.now.net.eu.org/yos512/live?embed=beinmax8fr&type=m
-FR  beINSports Max 9&&`0https://go.now.net.eu.org/yos512/live?embed=beinmax9fr&type=m
-FR  beINSports Max 10&&`0https://go.now.net.eu.org/yos512/live?embed=beinmax10fr&type=m
-MY  beINSports Uni 1&&`0https://go.now.net.eu.org/yos512/live?embed=bein1uni&type=m
-MY  beINSports Uni 2&&`0https://go.now.net.eu.org/yos512/live?embed=bein2uni&type=m
-MY  beINSports Uni 3&&`0https://go.now.net.eu.org/yos512/live?embed=bein3uni&type=m
-MY  beINSports Uni 4&&`0https://go.now.net.eu.org/yos512/live?embed=bein4uni&type=m
+FR  beIN Sports 1&&`0https://go.now.net.eu.org/yos512/live?embed=bein1fr&type=m
+FR  beIN Sports 2&&`0https://go.now.net.eu.org/yos512/live?embed=bein2fr&type=m
+FR  beIN Sports 3&&`0https://go.now.net.eu.org/yos512/live?embed=bein3fr&type=m
+FR  beIN Sports Max 4&&`0https://go.now.net.eu.org/yos512/live?embed=beinmax4fr&type=m
+FR  beIN Sports Max 5&&`0https://go.now.net.eu.org/yos512/live?embed=beinmax5fr&type=m
+FR  beIN Sports Max 6&&`0https://go.now.net.eu.org/yos512/live?embed=beinmax6fr&type=m
+FR  beIN Sports Max 7&&`0https://go.now.net.eu.org/yos512/live?embed=beinmax7fr&type=m
+FR  beIN Sports Max 8&&`0https://go.now.net.eu.org/yos512/live?embed=beinmax8fr&type=m
+FR  beIN Sports Max 9&&`0https://go.now.net.eu.org/yos512/live?embed=beinmax9fr&type=m
+FR  beIN Sports Max 10&&`0https://go.now.net.eu.org/yos512/live?embed=beinmax10fr&type=m
+MY  beIN Sports Uni 1&&`0https://go.now.net.eu.org/yos512/live?embed=bein1uni&type=m
+MY  beIN Sports Uni 2&&`0https://go.now.net.eu.org/yos512/live?embed=bein2uni&type=m
+MY  beIN Sports Uni 3&&`0https://go.now.net.eu.org/yos512/live?embed=bein3uni&type=m
+MY  beIN Sports Uni 4&&`0https://go.now.net.eu.org/yos512/live?embed=bein4uni&type=m
 ES  DAZN LaLiga&&`0https://go.now.net.eu.org/yos512/live?embed=laligaes&type=m
 ES  DAZN LaLiga HyperMotion&&`0https://go.now.net.eu.org/yos512/live?embed=laligah&type=m
 ES  DAZN F1&&`0https://go.now.net.eu.org/yos512/live?embed=daznf1&type=m
