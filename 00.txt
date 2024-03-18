@@ -82,7 +82,8 @@ ES  Real Madrid ENG&&https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/mas
 TR  Galatasaray TV&&https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist.m3u8
 UK  MUTV&&https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 UK  ITV 1&&https://wp2-obc1112-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV09212/manifest.mpd``5d9937d586414096948337ac314d79c1:22ca2e250b729982c97209e0ff3f7e9b
-Tennis Channel&&https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
+Tennis Channel 1&&https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
+Tennis Channel 2&&https://d3qg0hadt0dkov.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3sfgyrfz9zduo-prod/7a7b571f-5fd4-446f-96a2-f8f7b90e19fe/3.m3u8
 Afro Sports&&https://newproxy3.vidivu.tv/vidivu_afrosport/index.m3u8
 Sport en France&&https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
 beIN Sports TV 1&&https://cors-proxy.cluster.fun/https://edge1.laotv.la/live/Bsport1/manifest.mpd
