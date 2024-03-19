@@ -168,21 +168,6 @@ Astro Champions League&&https://kutilkuda.adventureoryx.workers.dev/dash-wv/line
 Astro Supersport&&https://kutilkuda.adventureoryx.workers.dev/dash-wv/linear/9986/default.mpd``cb18945925e65d411fbb986d72531010:15ff74ae1064c5f2fb00d2995fa88955
 Astro Go Live Event&&https://kutilkuda.adventureoryx.workers.dev/dash-wv/linear/9988/default.mpd``8ab014de03c31a84a835583c348a5e10:5ed727c3f28bac59aa3e5914f5ad455c
 EuroSports 1&&https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:43_HD.smil/manifest.mpd
-A Sports&&https://mhdtvsports.net/crichd/stream.php?id=asportshd
-DD Sports&&https://otttv.co.in/nexgtv/live.php?id=784
-SuperSport Premier League&&https://mhdtvsports.net/crichd/stream.php?id=superpremier
-SuperSport LaLiga&&https://mhdtvsports.net/crichd/stream.php?id=superlaliga
-SuperSport Cricket&&https://mhdtvsports.net/crichd/stream.php?id=supergolf
-SuperSport Rugby&&https://mhdtvsports.net/crichd/stream.php?id=supersrugby
-SuperSport Tennis&&https://mhdtvsports.net/crichd/stream.php?id=supertennis
-SuperSport Action&&https://mhdtvsports.net/crichd/stream.php?id=superactions
-SuperSport Football&&https://mhdtvsports.net/crichd/stream.php?id=superfotball
-SuperSport Maximo&&https://mhdtvsports.net/crichd/stream.php?id=supermeximo
-SuperSport Grandstand&&https://mhdtvsports.net/crichd/stream.php?id=supergrandstand
-SuperSport Variety 1&&https://mhdtvsports.net/crichd/stream.php?id=hdchnl6
-SuperSport Variety 2&&https://mhdtvsports.net/crichd/stream.php?id=hdchnl7
-SuperSport Variety 3&&https://mhdtvsports.net/crichd/stream.php?id=hdchnl8
-SuperSport Variety 4&&https://mhdtvsports.net/crichd/stream.php?id=hdchnl9
 BE  PlaySports 1&&`0https://go.now.net.eu.org/yos512/live?embed=plays1be&type=m
 BE  PlaySports 2&&`0https://go.now.net.eu.org/yos512/live?embed=plays2be&type=m
 BE  PlaySports 3&&`0https://go.now.net.eu.org/yos512/live?embed=plays3be&type=m
