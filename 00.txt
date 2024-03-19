@@ -165,25 +165,24 @@ TNT Sports 3&&https://cors-proxy.elfsight.com/ottb.live.cf.ww.aiv-cdn.net/lhr-ni
 TNT Sports 4&&https://cors-proxy.elfsight.com/ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd``e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729
 TNT Sports 5&&https://cors-proxy.elfsight.com/ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/gesdwrdncn/out/v1/79e752f1eccd4e18b6a8904a0bc01f2d/cenc.mpd``60c0d9b41475e01db4ffb91ed557fbcc:36ee40e58948ca15e3caba8d47b8f34b
 Astro Champions League&&https://kutilkuda.adventureoryx.workers.dev/dash-wv/linear/5085/default.mpd``34b831a974501d106f6545e9f93de010:c31ef8e8ac1139b985ac3673002b7014
-Astro Colors&&https://kutilkuda.adventureoryx.workers.dev/dash-wv/linear/5076/default.mpd``89c10c7ef0af145be7d6e88dec090b10:80558606a13a99d2c543872d8899ced0
 Astro Supersport&&https://kutilkuda.adventureoryx.workers.dev/dash-wv/linear/9986/default.mpd``cb18945925e65d411fbb986d72531010:15ff74ae1064c5f2fb00d2995fa88955
 Astro Go Live Event&&https://kutilkuda.adventureoryx.workers.dev/dash-wv/linear/9988/default.mpd``8ab014de03c31a84a835583c348a5e10:5ed727c3f28bac59aa3e5914f5ad455c
-A Sports&&https://mhdtvsports.net/crichd/stream.php?id=asportshd&e=.m3u8
 EuroSports 1&&https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:43_HD.smil/manifest.mpd
-DD Sports&&https://otttv.co.in/nexgtv/live.php?id=784&e=.m3u8
-SuperSport Premier League&&https://mhdtvsports.net/crichd/stream.php?id=superpremier&e=.m3u8
-SuperSport LaLiga&&https://mhdtvsports.net/crichd/stream.php?id=superlaliga&e=.m3u8
-SuperSport Cricket&&https://mhdtvsports.net/crichd/stream.php?id=supergolf&e=.m3u8
-SuperSport Rugby&&https://mhdtvsports.net/crichd/stream.php?id=supersrugby&e=.m3u8
-SuperSport Tennis&&https://mhdtvsports.net/crichd/stream.php?id=supertennis&e=.m3u8
-SuperSport Action&&https://mhdtvsports.net/crichd/stream.php?id=superactions&e=.m3u8
-SuperSport Football&&https://mhdtvsports.net/crichd/stream.php?id=superfotball&e=.m3u8
-SuperSport Maximo&&https://mhdtvsports.net/crichd/stream.php?id=supermeximo&e=.m3u8
-SuperSport Grandstand&&https://mhdtvsports.net/crichd/stream.php?id=supergrandstand&e=.m3u8
-SuperSport Variety 1&&https://mhdtvsports.net/crichd/stream.php?id=hdchnl6&e=.m3u8
-SuperSport Variety 2&&https://mhdtvsports.net/crichd/stream.php?id=hdchnl7&e=.m3u8
-SuperSport Variety 3&&https://mhdtvsports.net/crichd/stream.php?id=hdchnl8&e=.m3u8
-SuperSport Variety 4&&https://mhdtvsports.net/crichd/stream.php?id=hdchnl9&e=.m3u8
+A Sports&&https://mhdtvsports.net/crichd/stream.php?id=asportshd
+DD Sports&&https://otttv.co.in/nexgtv/live.php?id=784
+SuperSport Premier League&&https://mhdtvsports.net/crichd/stream.php?id=superpremier
+SuperSport LaLiga&&https://mhdtvsports.net/crichd/stream.php?id=superlaliga
+SuperSport Cricket&&https://mhdtvsports.net/crichd/stream.php?id=supergolf
+SuperSport Rugby&&https://mhdtvsports.net/crichd/stream.php?id=supersrugby
+SuperSport Tennis&&https://mhdtvsports.net/crichd/stream.php?id=supertennis
+SuperSport Action&&https://mhdtvsports.net/crichd/stream.php?id=superactions
+SuperSport Football&&https://mhdtvsports.net/crichd/stream.php?id=superfotball
+SuperSport Maximo&&https://mhdtvsports.net/crichd/stream.php?id=supermeximo
+SuperSport Grandstand&&https://mhdtvsports.net/crichd/stream.php?id=supergrandstand
+SuperSport Variety 1&&https://mhdtvsports.net/crichd/stream.php?id=hdchnl6
+SuperSport Variety 2&&https://mhdtvsports.net/crichd/stream.php?id=hdchnl7
+SuperSport Variety 3&&https://mhdtvsports.net/crichd/stream.php?id=hdchnl8
+SuperSport Variety 4&&https://mhdtvsports.net/crichd/stream.php?id=hdchnl9
 BE  PlaySports 1&&`0https://go.now.net.eu.org/yos512/live?embed=plays1be&type=m
 BE  PlaySports 2&&`0https://go.now.net.eu.org/yos512/live?embed=plays2be&type=m
 BE  PlaySports 3&&`0https://go.now.net.eu.org/yos512/live?embed=plays3be&type=m
@@ -235,13 +234,13 @@ Orange Sports 1&&https://ott1.cyberhost.ro/sdash/LIVE$DolceSportHD/index.mpd/Man
 Orange Sports 2&&https://ott1.cyberhost.ro/sdash/LIVE$DolceSport2HD/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC``f75302cdb04a09e43f153095bcacd123:307bf889d92969ffd3014dddb67999f6
 Orange Sports 3&&https://ott1.cyberhost.ro/sdash/LIVE$DolceSport3/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC``b87857ba74ce03f9fa2866f1e086d05d:1cd289ac71ce5fb306a5e7653192ce3a
 Orange Sports 4&&https://ott1.cyberhost.ro/sdash/LIVE$DolceSport4/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC``202a927cd913101de765b0e5bb3f500f:cdd399869057bc34c827f257f562643a
+Ziggo Sports&&https://carmeltv.live/EXCHANGEukmed/QHZ5pjF7UdKx/53710.m3u8
+Ziggo Tennis&&https://carmeltv.live/EXCHANGEukmed/QHZ5pjF7UdKx/53711.m3u8
 Infinity Sports 1&&https://live03p-seg.msf.cdn.mediaset.net/live/ch-u1/u1-dash-widevine.isml/manifest.mpd``00f9f3c0783536b832a8f0326fbdc02e:ade0533ba667bb7e9847d8f215f03076
 Infinity Sports 2&&https://live03p-seg.msf.cdn.mediaset.net/live/ch-u2/u2-dash-widevine.isml/manifest.mpd``00f9f3c0783536b834b0f0c2bfee80ac:76b3afbf163f9c3feb6204b8fcf0ff53
 FS 1&&https://keralamaxtv.com/sp24/live.m3u8?id=fs1-86
 FS 2&&https://keralamaxtv.com/sp24/live.m3u8?id=fs2-87
 CBS Sports Network&&https://keralamaxtv.com/sp24/live.m3u8?id=cbs-sports-network-70
-Ziggo Sports&&https://carmeltv.live/EXCHANGEukmed/QHZ5pjF7UdKx/53710.m3u8
-Ziggo Tennis&&https://carmeltv.live/EXCHANGEukmed/QHZ5pjF7UdKx/53711.m3u8
 beIN Sports Live 1&&https://bein-apac-live.akamaized.net/bein/indo_bein_sports_01/indo_bein_sports_01.isml/playlist.mpd?hdnts=st=1586822400~exp=1710646356~acl=/*~id=VID_vLIyDaLxovdrNeywE5JL1UFRoC0E~hmac=8f95d4ba500d060acfccb5e6a2785f15c3e36250c52cb1a0e774b4990fe31b75``9b364399ebb9a118f63b048fae023341:7bb6fd9b5e2db5941b2734ced0a7c495
 beIN Sports Live 3&&https://bein-apac-live.akamaized.net/bein/indo_bein_sports_03/indo_bein_sports_03.isml/playlist.mpd?hdnts=st=1586822400~exp=1710646356~acl=/*~id=VID_vLIyDaLxovdrNeywE5JL1UFRoC0E~hmac=8f95d4ba500d060acfccb5e6a2785f15c3e36250c52cb1a0e774b4990fe31b75``d887254c10f866f65427c4f651b71c7c:231a9d9b02041e9ed576afaffb6b8356
 Polsat Sport&&https://cdn-main.lolokoko.tv/Polsatsport.stream/playlist.m3u8
