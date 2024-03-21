@@ -8,10 +8,10 @@ MX  DreamWorks sᴅ 🇲🇽&&http://45.189.148.24:8000/play/a00m/index.m3u8
 US  Duck TV&&http://iptv.prosto.tv:7000/ch209/video.m3u8
 US  GameToonᴴᴰ 🇺🇸&&http://iptv.prosto.tv:7000/ch256/video.m3u8
 US  Tortues Ninja 🇺🇸 🟤&&http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d0c16d686454ead733d08f8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-Badminton Court 1&&https://wakacha.github.io/c1.m3u8
-Badminton Court 2&&https://wakacha.github.io/c2.m3u8
-Badminton Court 3&&https://wakacha.github.io/c3.m3u8
-Badminton Court 4&&https://wakacha.github.io/c4.m3u8
+Badminton Court 1&&http://43.175.46.76/play.cbalive.weibisai.com/live/3535141703456061_AiSD.m3u8?txSecret=bd1f0789a92f938cc1417c32819c9372&txTime=65FD4890
+Badminton Court 2&&http://43.175.46.76/play.cbalive.weibisai.com/live/3535141917048061_AiSD.m3u8?txSecret=c080f76f141316e39724e249cf5e0940&txTime=65FD4890
+Badminton Court 3&&http://43.175.46.76/play.cbalive.weibisai.com/live/3535142176278061_AiSD.m3u8?txSecret=5f50b217f856ea3c625c2d8beddce93e&txTime=65FD4890
+Badminton Court 4&&http://43.175.46.76/play.cbalive.weibisai.com/live/3535142386652061_AiSD.m3u8?txSecret=fa898f00d21480eebcd1264f5d6704a2&txTime=65FD4890
 24h News FHD&&http://cdn.connectbr.com.br/24_news/index.m3u8
 AE  Dubai TV&&http://210.210.155.35/uq2663/h/h152/index2.m3u8
 AL  RTSH Sport 🇦🇱ᴴᴰ&&http://tibotv.s.llnwi.net/dvr1file/yWbXvr1S/rtshsport_720p/playlist.m3u8
