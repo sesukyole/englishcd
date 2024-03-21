@@ -1,7 +1,7 @@
 UK  English Club TVᴴᴰ 🇬🇧&&http://iptv.prosto.tv:7000/ch206/video.m3u8
 UK  Mr. Bean&&http://51.159.104.29:8080/mrbean/index.m3u8
 US  Tom & Jerry 🇺🇸&&http://24hrs.homelinux.com/24H-tom-e-jerry/video.m3u8
-AR  Fox Kids&&https://stmv1.srvif.com/emlsilva/emlsilva/playlist.m3u8
+AR  Fox Kids&&http://stmv1.srvif.com/emlsilva/emlsilva/playlist.m3u8
 AR  Urban Kids&&http://200.194.238.229:8383/live/urbankids/playlist.m3u8
 BR  Cartoonito 🇧🇷&&http://199.127.60.83:14682/cartoonito.m3u8
 MX  DreamWorks sᴅ 🇲🇽&&http://45.189.148.24:8000/play/a00m/index.m3u8

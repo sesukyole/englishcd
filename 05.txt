@@ -1,17 +1,13 @@
 UK  English Club TVᴴᴰ 🇬🇧&&http://iptv.prosto.tv:7000/ch206/video.m3u8
 UK  Mr. Bean&&http://51.159.104.29:8080/mrbean/index.m3u8
 US  Tom & Jerry 🇺🇸&&http://24hrs.homelinux.com/24H-tom-e-jerry/video.m3u8
-AR  Fox Kids&&https://stmv1.srvif.com/emlsilva/emlsilva/playlist.m3u8
+AR  Fox Kids&&http://stmv1.srvif.com/emlsilva/emlsilva/playlist.m3u8
 AR  Urban Kids&&http://200.194.238.229:8383/live/urbankids/playlist.m3u8
 BR  Cartoonito 🇧🇷&&http://199.127.60.83:14682/cartoonito.m3u8
 MX  DreamWorks sᴅ 🇲🇽&&http://45.189.148.24:8000/play/a00m/index.m3u8
 US  Duck TV&&http://iptv.prosto.tv:7000/ch209/video.m3u8
 US  GameToonᴴᴰ 🇺🇸&&http://iptv.prosto.tv:7000/ch256/video.m3u8
 US  Tortues Ninja 🇺🇸 🟤&&http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d0c16d686454ead733d08f8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-Badminton Court 1&&http://43.175.46.76/play.cbalive.weibisai.com/live/3535141703456061_AiSD.m3u8?txSecret=bd1f0789a92f938cc1417c32819c9372&txTime=65FD4890
-Badminton Court 2&&http://43.175.46.76/play.cbalive.weibisai.com/live/3535141917048061_AiSD.m3u8?txSecret=c080f76f141316e39724e249cf5e0940&txTime=65FD4890
-Badminton Court 3&&http://43.175.46.76/play.cbalive.weibisai.com/live/3535142176278061_AiSD.m3u8?txSecret=5f50b217f856ea3c625c2d8beddce93e&txTime=65FD4890
-Badminton Court 4&&http://43.175.46.76/play.cbalive.weibisai.com/live/3535142386652061_AiSD.m3u8?txSecret=fa898f00d21480eebcd1264f5d6704a2&txTime=65FD4890
 24h News FHD&&http://cdn.connectbr.com.br/24_news/index.m3u8
 AE  Dubai TV&&http://210.210.155.35/uq2663/h/h152/index2.m3u8
 AL  RTSH Sport 🇦🇱ᴴᴰ&&http://tibotv.s.llnwi.net/dvr1file/yWbXvr1S/rtshsport_720p/playlist.m3u8
@@ -204,12 +200,16 @@ ID  Radar Tasikmalaya TV&&http://103.140.188.211:1935/radartv/myStream/playlist.
 ID  Semarang TV&&http://116.254.112.74/hls/cakralive.m3u8
 ID  Tegar TV Lampung&&http://wms.klikhost.com:1935/tegartv/tegartv/playlist.m3u8
 ID  TVKU&&http://103.30.1.14:8080/hls/live.m3u8
-ID  ANTV&&https://raw.githubusercontent.com/mimipipi22/lalajo/main/dens/antv
-ID  Indosiar&&https://raw.githubusercontent.com/mimipipi22/lalajo/main/dens/indosiar
-ID  Kompas TV&&https://raw.githubusercontent.com/mimipipi22/lalajo/main/dens/kompastv
-ID  Metro TV&&https://raw.githubusercontent.com/mimipipi22/lalajo/main/dens/metrotv
-ID  Net TV&&https://raw.githubusercontent.com/mimipipi22/lalajo/main/dens/nettv
-ID  RTV&&https://raw.githubusercontent.com/mimipipi22/lalajo/main/dens/rtv
-ID  SCTV&&https://raw.githubusercontent.com/mimipipi22/lalajo/main/dens/sctv
-ID  TVOne&&https://raw.githubusercontent.com/mimipipi22/lalajo/main/dens/tvone
-ID  TVRI&&https://raw.githubusercontent.com/mimipipi22/lalajo/main/dens/tvri
+ANTV&&http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
+Indosiar&&http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
+Kompas Tv&&http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
+Metro Tv&&http://op-group1-swiftservehd-1.dens.tv/h/h211/02.m3u8
+Net Tv&&http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
+RTV&&http://210.210.155.37/uq2663/h/h10/02.m3u8
+SCTV&&http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
+TvOne&&http://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
+TVRI&&http://op-group1-swiftservehd-1.dens.tv/h/h237/02.m3u8
+Badminton Court 1&&https://raw.githubusercontent.com/wakacha/wakacha.github.io/main/c1.m3u8?c
+Badminton Court 2&&https://raw.githubusercontent.com/wakacha/wakacha.github.io/main/c2.m3u8?c
+Badminton Court 3&&https://raw.githubusercontent.com/wakacha/wakacha.github.io/main/c3.m3u8?c
+Badminton Court 4&&https://raw.githubusercontent.com/wakacha/wakacha.github.io/main/c4.m3u8?c
