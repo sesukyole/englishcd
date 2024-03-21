@@ -200,15 +200,15 @@ ID  Radar Tasikmalaya TV&&http://103.140.188.211:1935/radartv/myStream/playlist.
 ID  Semarang TV&&http://116.254.112.74/hls/cakralive.m3u8
 ID  Tegar TV Lampung&&http://wms.klikhost.com:1935/tegartv/tegartv/playlist.m3u8
 ID  TVKU&&http://103.30.1.14:8080/hls/live.m3u8
-ID  ANTV&&https://raw.githubusercontent.com/mimipipi22/lalajo/main/dens/antv
-ID  Indosiar&&https://raw.githubusercontent.com/mimipipi22/lalajo/main/dens/indosiar
-ID  Kompas TV&&https://raw.githubusercontent.com/mimipipi22/lalajo/main/dens/kompastv
-ID  Metro TV&&https://raw.githubusercontent.com/mimipipi22/lalajo/main/dens/metrotv
-ID  Net TV&&https://raw.githubusercontent.com/mimipipi22/lalajo/main/dens/nettv
-ID  RTV&&https://raw.githubusercontent.com/mimipipi22/lalajo/main/dens/rtv
-ID  SCTV&&https://raw.githubusercontent.com/mimipipi22/lalajo/main/dens/sctv
-ID  TVOne&&https://raw.githubusercontent.com/mimipipi22/lalajo/main/dens/tvone
-ID  TVRI&&https://raw.githubusercontent.com/mimipipi22/lalajo/main/dens/tvri
+ID  ANTV&&https://raw.githubusercontent.com/mimipipi22/lalajo/main/dens/antv?8?c
+ID  Indosiar&&https://raw.githubusercontent.com/mimipipi22/lalajo/main/dens/indosiar?8?c
+ID  Kompas TV&&https://raw.githubusercontent.com/mimipipi22/lalajo/main/dens/kompastv?8?c
+ID  Metro TV&&https://raw.githubusercontent.com/mimipipi22/lalajo/main/dens/metrotv?8?c
+ID  Net TV&&https://raw.githubusercontent.com/mimipipi22/lalajo/main/dens/nettv?8?c
+ID  RTV&&https://raw.githubusercontent.com/mimipipi22/lalajo/main/dens/rtv?8?c
+ID  SCTV&&https://raw.githubusercontent.com/mimipipi22/lalajo/main/dens/sctv?8?c
+ID  TVOne&&https://raw.githubusercontent.com/mimipipi22/lalajo/main/dens/tvone?8?c
+ID  TVRI&&https://raw.githubusercontent.com/mimipipi22/lalajo/main/dens/tvri?8?c
 Badminton Court 1&&https://raw.githubusercontent.com/wakacha/wakacha.github.io/main/c1.m3u8?c
 Badminton Court 2&&https://raw.githubusercontent.com/wakacha/wakacha.github.io/main/c2.m3u8?c
 Badminton Court 3&&https://raw.githubusercontent.com/wakacha/wakacha.github.io/main/c3.m3u8?c
