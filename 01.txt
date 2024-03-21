@@ -107,3 +107,6 @@ CNBC.id&&https://cempedak-live-cdn.mncnow.id/live/eds/CNBC/sa_dash_vmx/CNBC.mpd
 Euro-News.id&&https://cempedak-live-cdn.mncnow.id/live/eds/EuroNews/sa_dash_vmx/EuroNews.mpd
 Fight-Sports.id&&https://cempedak-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 Fox-News.id&&https://cempedak-live-cdn.mncnow.id/live/eds/FoxNews/sa_dash_vmx/FoxNews.mpd
+SS Action&&https://kebdi.iptvfreemium.com/gdp/dd/premium420.txt?token=T20yM1BWL0I3dVVHSTJQRjR5YkVjckZsM1c5blNZTFNxQXhlSW9BZEVIYWphRnI4Q1E4bXlDcTU0VmU2aEdSNDo6jmbPWgyMFulkZXQ8U3b1hw%3D%3D
+Astro iQiyi&&https://kebdi.iptvfreemium.com/gdp/restreams/astiq.txt?token=cVZFNXBZVlZBZE5yQ2E2VmxYY2NIeVhnNmF1T20yam5iMzUxRUlYbzhNbDlETzJXdXdpUDZWem55MkI5S3VXTjo6A9gxN24jxTvX6RteHHnq5w%3D%3D
+Mentari TV&&https://idx3.iptvfreemium.com/cdn08jtedgeindihometvcom/dassdvr/134/mentaritv/manifest.mpd
