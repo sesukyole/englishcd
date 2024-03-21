@@ -209,7 +209,7 @@ RTV&&http://210.210.155.37/uq2663/h/h10/02.m3u8
 SCTV&&http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 TvOne&&http://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
 TVRI&&http://op-group1-swiftservehd-1.dens.tv/h/h237/02.m3u8
-Badminton Court 1&&https://raw.githubusercontent.com/wakacha/wakacha.github.io/main/c1.m3u8?c
-Badminton Court 2&&https://raw.githubusercontent.com/wakacha/wakacha.github.io/main/c2.m3u8?c
-Badminton Court 3&&https://raw.githubusercontent.com/wakacha/wakacha.github.io/main/c3.m3u8?c
-Badminton Court 4&&https://raw.githubusercontent.com/wakacha/wakacha.github.io/main/c4.m3u8?c
+Badminton Court 1&&`0https://www.youtube.com/embed/BKLakc-QLkA?si=9n4dfRCHtEsJjrAG
+Badminton Court 2&&`0https://www.youtube.com/embed/pY4hwfO8acE?si=qgN9wAeNOf74gRvR
+Badminton Court 3&&`0https://www.youtube.com/embed/SPwE__nt4iE?si=QLYU-a4pTtdmxqUo
+Badminton Court 4&&`0https://www.youtube.com/embed/jgLCuQ6dNL0?si=PeRCLwTMuON8e2LT
