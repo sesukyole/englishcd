@@ -209,7 +209,7 @@ ID  RTV&&https://raw.githubusercontent.com/mimipipi22/lalajo/main/dens/rtv
 ID  SCTV&&https://raw.githubusercontent.com/mimipipi22/lalajo/main/dens/sctv
 ID  TVOne&&https://raw.githubusercontent.com/mimipipi22/lalajo/main/dens/tvone
 ID  TVRI&&https://raw.githubusercontent.com/mimipipi22/lalajo/main/dens/tvri
-Badminton Court 1&&https://raw.githubusercontent.com/wakacha/wakacha.github.io/main/c1.m3u8
-Badminton Court 2&&https://raw.githubusercontent.com/wakacha/wakacha.github.io/main/c2.m3u8
-Badminton Court 3&&https://raw.githubusercontent.com/wakacha/wakacha.github.io/main/c3.m3u8
-Badminton Court 4&&https://raw.githubusercontent.com/wakacha/wakacha.github.io/main/c4.m3u8
+Badminton Court 1&&https://raw.githubusercontent.com/wakacha/wakacha.github.io/main/c1.m3u8?c
+Badminton Court 2&&https://raw.githubusercontent.com/wakacha/wakacha.github.io/main/c2.m3u8?c
+Badminton Court 3&&https://raw.githubusercontent.com/wakacha/wakacha.github.io/main/c3.m3u8?c
+Badminton Court 4&&https://raw.githubusercontent.com/wakacha/wakacha.github.io/main/c4.m3u8?c
