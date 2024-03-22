@@ -45,6 +45,7 @@ ES  101TV Malaga&&https://limited38.todostreaming.es/live/101tv-web101tv.m3u8
 ES  24h Canarias&&https://cors-proxy.cluster.fun/https://ztnr.rtve.es/ztnr/5473142.m3u8
 ES  Alcarria&&https://cls.alcarria.tv/live/alcarriatv-livestream.m3u8
 ES  Aragon&&https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
+ES  Cine Clasico&&https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:2_HD.smil/index.m3u8
 ES  La 1&&https://rtvelivestreamv3.akamaized.net/rtvesec/la1/la1_main.m3u8
 ES  La 2 ES-IP&&https://rtvelivestreamv3.akamaized.net/rtvesec/la2/la2_main.m3u8
 ES  Pequeradio&&https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
@@ -98,6 +99,7 @@ MY  TV1&&https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 MY  TV2&&https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 MY  TV6&&https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 MY  TVS&&https://stream.smg.my/live/tvs.m3u8
+Astro Colors&&https://kutilkuda.adventureoryx.workers.dev/dash-wv/linear/5076/default.mpd``89c10c7ef0af145be7d6e88dec090b10:80558606a13a99d2c543872d8899ced0
 MY  Boo&&https://kutilkuda.adventureoryx.workers.dev/dash-wv/linear/2407/default.mpd``ea4d51ade01bbf3946e0de973051ba10:f3266bec607f25879f48640f30f1c888
 MY  TVB Magic&&https://kutilkuda.adventureoryx.workers.dev/dash-wv/linear/5107/default.mpd``49a10d0610e700b4b20dd1c91a2fc310:eb5b2cec485514216f7c25d102ab8a13
 MY  8TV&&https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/live.isml/4.m3u8
@@ -433,8 +435,9 @@ ES  Mundo Náuticaᴴᴰ 🇪🇸&&https://cloud.fastchannel.es/mic/manifiest/hl
 ES  Pocoyóᴴᴰ 🇪🇸&&https://d2ljog9n0w576q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qca6wh0s76e45-ssai-prd/fast-channel-pocoyo.m3u8
 ES  Toon Goggles 🇪🇸&&https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=514
 ES  TV3CATᴴᴰ 🇪🇸&&https://directes-tv-int.ccma.cat/live-origin/tvi-hls/master.m3u8
-ETB 1&&https://multimedia.eitb.eus/live-content/etb1hd-hls/index.m3u8
-ETB 2&&https://multimedia.eitb.eus/live-content/etb2hd-hls/index.m3u8
+ES  ETB 1 🇪🇸&&https://multimedia.eitb.eus/live-content/etb1hd-hls/index.m3u8
+ES  ETB 2 🇪🇸&&https://multimedia.eitb.eus/live-content/etb2hd-hls/index.m3u8
+ES  ETB 3 🇪🇸&&https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:98_HD.smil/manifest.mpd
 Eurosport 1 🇵🇱🇺🇸ᴴᴰ&&https://bkm.beetv.kz/btv/live/hls/000002478.m3u8
 Eurosport 2 🇵🇱🇺🇸ᴴᴰ&&https://bkm.beetv.kz/btv/live/hls/000002479.m3u8
 Food Networkᴴᴰ 🇺🇸🇮🇳&&https://raw.githubusercontent.com/inspirationlinks/m3u/live/Streams/foodNet.m3u8
@@ -598,3 +601,4 @@ VE  TeleSurᴴᴰ 🇬🇧🇻🇪&&https://cdnenmain.telesur.ultrabase.net/mbli
 VE  TeleSurᴴᴰ 🇻🇪&&https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 Vivaldiᴴᴰ 🟤&&https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01297-mezzo-vivalditv-xiaomi/playlist.m3u8
 Wild Earthᴴᴰ 🇺🇸🇧🇷 🟤&&https://wildearth-roku.amagi.tv/masterR720P.m3u8
+Sony PIX&&https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8

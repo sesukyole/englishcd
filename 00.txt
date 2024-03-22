@@ -66,7 +66,6 @@ ES  Real Madrid ESP&&https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/mas
 ES  Real Madrid ENG&&https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
 TR  Galatasaray TV&&https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist.m3u8
 UK  MUTV&&https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
-UK  ITV 1&&https://wp2-obc1112-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV09212/manifest.mpd``5d9937d586414096948337ac314d79c1:22ca2e250b729982c97209e0ff3f7e9b
 SportItalia&&https://di-j16ei4yq.vo.lswcdn.net/sportitalia/smil:sihd.smil/chunklist.m3u8
 Tennis Channel 1&&https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 Tennis Channel 2&&https://d3qg0hadt0dkov.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3sfgyrfz9zduo-prod/7a7b571f-5fd4-446f-96a2-f8f7b90e19fe/3.m3u8
@@ -141,20 +140,16 @@ NFL Sports&&https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(l
 NBC Golf Sport&&https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc124phhny)/master.mpd``0020212a47511b226f7cc9d030aa171b:323c16315e1cb8d7c821facc3c1778a4
 NBC Sports&&https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc122ycnuy)/master.mpd``0020d88a6713159839743f655c5da7de:ba9f34226301f69a4f0f13f65a1f92ec
 WWE&&https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc106wh3yw)/master.mpd``00208c93f4358213b52220898b962385:8ae6063167228e350dd132d4a1573102
-Sony Sports 1&&https://jiotv.rftv.wtf/live/sl162.m3u8
-Sony Sports 2&&https://jiotv.rftv.wtf/live/sl891.m3u8
-Sony Sports 3&&https://jiotv.rftv.wtf/live/sl892.m3u8
-Sony Sports 4&&https://jiotv.rftv.wtf/live/sl1772.m3u8
-Sony Sports 5&&https://jiotv.rftv.wtf/live/sl155.m3u8
-TVP Canal 7&&https://edge-live16-sl.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc/Canal7.mpd``cc8c82ac2ec7e9799527c29db7354e81:cc4aae173dd2ef17ae26be3f7ae87662
+Sony Sports 1&&https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
+Sony Sports 2&&https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
+Sony Sports 3&&https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
+Sony Sports 4&&https://pubads.g.doubleclick.net/ssai/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
+Sony Sports 5&&https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
 TNT Sports 1&&https://cors-proxy.elfsight.com/ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd``ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
 TNT Sports 2&&https://cors-proxy.elfsight.com/ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd``6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
 TNT Sports 3&&https://cors-proxy.elfsight.com/ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd``4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
 TNT Sports 4&&https://cors-proxy.elfsight.com/ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd``e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729
 TNT Sports 5&&https://cors-proxy.elfsight.com/ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/gesdwrdncn/out/v1/79e752f1eccd4e18b6a8904a0bc01f2d/cenc.mpd``60c0d9b41475e01db4ffb91ed557fbcc:36ee40e58948ca15e3caba8d47b8f34b
-Astro Champions League&&https://kutilkuda.adventureoryx.workers.dev/dash-wv/linear/5085/default.mpd``34b831a974501d106f6545e9f93de010:c31ef8e8ac1139b985ac3673002b7014
-Astro Supersport&&https://kutilkuda.adventureoryx.workers.dev/dash-wv/linear/9986/default.mpd``cb18945925e65d411fbb986d72531010:15ff74ae1064c5f2fb00d2995fa88955
-Astro Go Live Event&&https://kutilkuda.adventureoryx.workers.dev/dash-wv/linear/9988/default.mpd``8ab014de03c31a84a835583c348a5e10:5ed727c3f28bac59aa3e5914f5ad455c
 EuroSports 1&&https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:43_HD.smil/manifest.mpd
 BE  PlaySports 1&&`0https://go.now.net.eu.org/yos512/live?embed=plays1be&type=m
 BE  PlaySports 2&&`0https://go.now.net.eu.org/yos512/live?embed=plays2be&type=m
@@ -207,53 +202,18 @@ Orange Sports 1&&https://ott1.cyberhost.ro/sdash/LIVE$DolceSportHD/index.mpd/Man
 Orange Sports 2&&https://ott1.cyberhost.ro/sdash/LIVE$DolceSport2HD/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC``f75302cdb04a09e43f153095bcacd123:307bf889d92969ffd3014dddb67999f6
 Orange Sports 3&&https://ott1.cyberhost.ro/sdash/LIVE$DolceSport3/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC``b87857ba74ce03f9fa2866f1e086d05d:1cd289ac71ce5fb306a5e7653192ce3a
 Orange Sports 4&&https://ott1.cyberhost.ro/sdash/LIVE$DolceSport4/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC``202a927cd913101de765b0e5bb3f500f:cdd399869057bc34c827f257f562643a
-Ziggo Sports&&https://carmeltv.live/EXCHANGEukmed/QHZ5pjF7UdKx/53710.m3u8
+Ziggo Sport&&https://carmeltv.live/EXCHANGEukmed/QHZ5pjF7UdKx/53710.m3u8
 Ziggo Tennis&&https://carmeltv.live/EXCHANGEukmed/QHZ5pjF7UdKx/53711.m3u8
 Badminton Court 1&&`0https://www.youtube.com/embed/BKLakc-QLkA?si=9n4dfRCHtEsJjrAG
 Badminton Court 2&&`0https://www.youtube.com/embed/pY4hwfO8acE?si=qgN9wAeNOf74gRvR
 Badminton Court 3&&`0https://www.youtube.com/embed/SPwE__nt4iE?si=QLYU-a4pTtdmxqUo
 Badminton Court 4&&`0https://www.youtube.com/embed/jgLCuQ6dNL0?si=PeRCLwTMuON8e2LT
-Infinity Sports 1&&https://live03p-seg.msf.cdn.mediaset.net/live/ch-u1/u1-dash-widevine.isml/manifest.mpd``00f9f3c0783536b832a8f0326fbdc02e:ade0533ba667bb7e9847d8f215f03076
-Infinity Sports 2&&https://live03p-seg.msf.cdn.mediaset.net/live/ch-u2/u2-dash-widevine.isml/manifest.mpd``00f9f3c0783536b834b0f0c2bfee80ac:76b3afbf163f9c3feb6204b8fcf0ff53
-EuroSport 1&&https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Eurosport_HD/index.m3u8/S!d2EISU9TX0xpdmUSBkPIS1XDVP7...8BFgyf/Level(1200000)
-EuroSport 2&&https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Eurosport_2_HD/index.m3u8/S!d2EISU9TX0xpdmUSBkPIS1XDVP7...8BFgyf/Level(2100000)
-DAZN Eleven 1&&https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Eleven_Sports_1_HD/index.m3u8/S!d2EJVFZPU19MaXZlEgJU.v...wEWBJ8_/Level(5242880)
-DAZN Eleven 2&&https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Eleven_Sports_2_HD/index.m3u8/S!d2EISU9TX0xpdmUSBkPIS1XDVP7...8BFgyf/Level(1200000)
-DAZN Eleven 3&&https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Eleven_Sports_3_HD/index.m3u8/S!d2EISU9TX0xpdmUSBkPIS1XDVP7...8BFgyf/Level(1200000)
-DAZN Eleven 4&&https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Eleven_Sports_4_HD/index.m3u8/S!d2EJVFZPU19MaXZlEgJU.v...wEWBJ8_/Level(3000000)
-DAZN Eleven 5&&https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Eleven_Sports_5_HD/index.m3u8/S!d2EJVFZPU19MaXZlEgJU.v...wEWBJ8_/Level(3000000)
-DAZN Eleven 6&&https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Eleven_Sports_6_HD/index.m3u8/S!d2EJVFZPU19MaXZlEgJU.v...wEWBJ8_/Level(3000000)
-SportTV 1&&https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SPORTTV1_HD/index.m3u8/S!d2EISU9TX0xpdmUSBkPIS1XDVP7...8BFgyf/Level(3000000)
-SportTV 2&&https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SPORTTV2_HD/index.m3u8/S!d2EISU9TX0xpdmUSBkPIS1XDVP7...8BFgyf/Level(3000000)
-SportTV 3&&https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SPORTTV3_HD/index.m3u8/S!d2EISU9TX0xpdmUSBkPIS1XDVP7...8BFgyf/Level(3000000)
-SportTV 4&&https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SPORTTVLive_HD/index.m3u8/S!d2EISU9TX0xpdmUSBkPIS1XDVP7...8BFgyf/Level(3000000)
-SportTV 5&&https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SPORTTV_GOLFE_HD/index.m3u8/S!d2EISU9TX0xpdmUSBkPIS1XDVP7...8BFgyf/Level(3000000)
-SportTV 6&&https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SPORTTV6_HD/index.m3u8/S!d2EISU9TX0xpdmUSBkPIS1XDVP7...8BFgyf/Level(3000000)
-PT  Canal 11&&https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$C11_HD/index.m3u8/S!d2EISU9TX0xpdmUSBkPIS1XDVP7...8BFgyf/Level(3000000)
-FS 1&&https://keralamaxtv.com/sp24/live.m3u8?id=fs1-86
-FS 2&&https://keralamaxtv.com/sp24/live.m3u8?id=fs2-87
-CBS Sports Network&&https://keralamaxtv.com/sp24/live.m3u8?id=cbs-sports-network-70
-beIN Sports Live 1&&https://bein-apac-live.akamaized.net/bein/indo_bein_sports_01/indo_bein_sports_01.isml/playlist.mpd?hdnts=st=1586822400~exp=1710646356~acl=/*~id=VID_vLIyDaLxovdrNeywE5JL1UFRoC0E~hmac=8f95d4ba500d060acfccb5e6a2785f15c3e36250c52cb1a0e774b4990fe31b75``9b364399ebb9a118f63b048fae023341:7bb6fd9b5e2db5941b2734ced0a7c495
-beIN Sports Live 3&&https://bein-apac-live.akamaized.net/bein/indo_bein_sports_03/indo_bein_sports_03.isml/playlist.mpd?hdnts=st=1586822400~exp=1710646356~acl=/*~id=VID_vLIyDaLxovdrNeywE5JL1UFRoC0E~hmac=8f95d4ba500d060acfccb5e6a2785f15c3e36250c52cb1a0e774b4990fe31b75``d887254c10f866f65427c4f651b71c7c:231a9d9b02041e9ed576afaffb6b8356
-Polsat Sport&&https://cdn-main.lolokoko.tv/Polsatsport.stream/playlist.m3u8
-Polsat Sport Extra&&https://cdn-main.lolokoko.tv/Polsatsportextra.stream/playlist.m3u8
-Alkass 5&&https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass5xtgb/master.m3u8
-Astro Arena Bola 1&&https://cors-proxy.elfsight.com/d1fk7kbmz4il3.cloudfront.net/CH1/masterCH1.mpd``7481d3e3738c46768f138e208fee9076:e1d428c7f1ca82339a6cfa1d0757428e
-Astro Arena Bola 2&&https://cors-proxy.elfsight.com/d1fk7kbmz4il3.cloudfront.net/CH5/masterCH5.mpd``99685545491d40b493b3a4b263c7245e:7939e335bf8cbbd6882f9f5c9cdebe19
-Astro Premier League&&https://cors-proxy.elfsight.com/d1fk7kbmz4il3.cloudfront.net/CH3/masterCH3.mpd``ca4f5ff4e4694d54bdfdc9bd34384290:1100fe297146f7d024b59944f09e6d1a
-Astro Supersport 1&&https://cors-proxy.elfsight.com/d3j4fjrwclc3o8.cloudfront.net/CH1/masterCH1.mpd``b3ccf73a7a664f85ae7411367ffb2fa7:9687d91b7fd647a88183d0a4cc925f77
-Astro Supersport 2&&https://cors-proxy.elfsight.com/d3j4fjrwclc3o8.cloudfront.net/CH4/masterCH4.mpd``8f1da399325247eca6acdd7bafb95fa2:41f234fb88590af3b0d224111a61bf71
-Astro Supersport 3&&https://cors-proxy.elfsight.com/d3j4fjrwclc3o8.cloudfront.net/CH5/masterCH5.mpd``0d6d2a1ac8d14e19b17455650770cd99:ff65174f8ec5d4c88e8d8a21968563cf
-Astro Supersport 4&&https://cors-proxy.elfsight.com/d3j4fjrwclc3o8.cloudfront.net/CH2/masterCH2.mpd``bda7f74b842f4f0eb142395dadd91f07:fb12f661d640e4ebdf38e312302260eb
-Star Sports 1&&https://liveb.streamready.in/starsports1/smil:common.smil/manifest.mpd``13756f83e26a3f2a957a2022f1cc2886:11b0ef8d4b099f09167ff514d14c53c9
-Star Sports 2&&https://liveb.streamready.in/starsports2/smil:common.smil/manifest.mpd``e7a7f7e0941a3ee7839b241b39977394:71cbb1943651e4e38ac07dbd9d3ebb2d
-Star Sports Select 1&&https://liveb.streamready.in/starsportsselect1/smil:common.smil/manifest.mpd``80fd009ededd3fbda3808dd627fc1693:5e63bd38e1d5a8852f35a5d492ec0279
-Star Sports Select 2&&https://liveb.streamready.in/starsportsselect2/smil:common.smil/manifest.mpd``df96756d26e6393697a1aa8821378e2a:1c2eb0f472874cdcd9e3f2615f677315
-Astro Arena 1&&https://kutilkuda.adventureoryx.workers.dev/dash-wv/linear/2604/default.mpd``efda647dad723563b625be8c05ee6110:6776985938b332164b97b81fe566a34a
-Astro Arena 2&&https://kutilkuda.adventureoryx.workers.dev/dash-wv/linear/5057/default.mpd``ead0335d60401225727a6d531e9c2710:1ee3b252227c5c2ec9378c833d2e14ff
-beIN Sports 1&&https://kutilkuda.adventureoryx.workers.dev/dash-wv/linear/408/default.mpd``1a655189ab5c49eb235308c2b1a9e710:3c4508af348844107f5e026a4fd6b16e
-beIN Sports 2&&https://kutilkuda.adventureoryx.workers.dev/dash-wv/linear/5066/default.mpd``39c175581e237eff9559607eb9b23c10:5102b12aac7756c65dcb46a101d960d3
-beIN Sports 3&&https://kutilkuda.adventureoryx.workers.dev/dash-wv/linear/2705/default.mpd``20c884ef8ed26b2762f8b1a78f2d1910:042a21bf236ca729b1e343ed6e0a6337
-W Sport&&https://kutilkuda.adventureoryx.workers.dev/dash-wv/linear/5060/default.mpd``010cbb9cf1a01ead38070730d38bc710:9cd5c0d1e54c22e035d88dd3c1dfc84c
-Astro Cricket&&https://kutilkuda.adventureoryx.workers.dev/dash-wv/linear/2504/default.mpd``03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4c
-Golf Channel&&https://kutilkuda.adventureoryx.workers.dev/dash-wv/linear/1003/default.mpd``705bab5e645b6d7c95588b29520f8110:28639bcfb5cbee8ff9ca398fcf5bfcd0
+RMC Sport 1&&`0https://keralamaxtv.com/sp24/?play=rmc-sport-1-13
+RMC Sport 2&&`0https://keralamaxtv.com/sp24/?play=rmc-sport-2-14
+Sky Sports News&&`0https://keralamaxtv.com/sp24/?play=sky-sports-news-115
+UK  ITV 1&&`0https://keralamaxtv.com/sp24/?play=itv-1-104
+UK  ITV 2&&`0https://keralamaxtv.com/sp24/?play=itv-2-105
+US  FS 1&&`0https://keralamaxtv.com/sp24/?play=fs1-86
+US  FS 2&&`0https://keralamaxtv.com/sp24/?play=fs2-87
+US  CBS Sports Network&&`0https://keralamaxtv.com/sp24/?play=cbs-sports-network-70
+US  NBA TV&&`0https://keralamaxtv.com/sp24/?play=nba-tv-43
