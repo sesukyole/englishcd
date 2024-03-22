@@ -121,7 +121,9 @@ Dubai Racing 3&&https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimuba
 FIFA 1&&https://4b92bb6a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1hdF9GSUZBUGx1c19ITFM/playlist.m3u8
 FIFA 2&&https://38ca3c9c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c19ITFM/playlist.m3u8
 FIFA Plusᴴᴰ 🇵🇹🇧🇷 🟤&&https://6953b888.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctcHRfRklGQVBsdXNfSExT/playlist.m3u8
-Football&&https://play2nm.hnyongshun.cn/live/sd-y39mp1hzpepkmoj.m3u8
+TH  Football 1&&https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/TL001/HLS/TL001.m3u8
+TH  Football 2&&https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/TL002/HLS/TL002.m3u8
+TH  Football 3&&https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/TL003/HLS/TL003.m3u8
 SSC Sport 1&&https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd``d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
 SSC Sport 2&&https://ssc2-ak.akamaized.net/out/v1/a16db2ec338a445a82d9c541cc9293f9/index.mpd``8bcfc55359e24bd7ad1c5560a96ddd3c:b5dcf721ab522af92a9d3bf0bd55b596
 SSC Sport 3&&https://ssc3-ak.akamaized.net/out/v1/42e86125555242aaa2a12056832e7814/index.mpd``7de5dd08ad8041d586c2f16ccc9490a1:5e1503f3398b34f5099933fedab847ef
