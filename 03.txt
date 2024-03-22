@@ -26,14 +26,7 @@ ES  TVE Internacional Asia-Oceania&&http://210.210.155.35/uq2663/h/h158/index2.m
 FR  InfoSport 🇫🇷&&http://212.102.60.80/Infosport/index.m3u8
 FR  TF1 🇫🇷&&http://212.102.60.80/TF1/index.m3u8
 FR  TF1 🇫🇷&&http://45.153.35.210:8000/play/FR_tf1_HD/index.m3u8
-HK  Celestial Movies [Indonesian Sub]&&https://raw.githubusercontent.com/mimipipi22/lalajo/main/celestialmovies.m3u8
 HK  Phoenix Chinese&&http://210.210.155.35/uq2663/h/h157/index2.m3u8
-JP  Sony GEM [Indonesian Sub]&&https://raw.githubusercontent.com/mimipipi22/lalajo/main/gem.m3u8
-KR  K Plus [Indonesian Sub]&&https://raw.githubusercontent.com/kusnadipepenk/campeign/master/kplus.m3u8?c
-KR  Spo TV 1&&https://raw.githubusercontent.com/kusnadipepenk/ntn/master/spotv1.m3u8
-KR  Spo TV 2&&https://raw.githubusercontent.com/kusnadipepenk/ntn/master/spotv2.m3u8
-KR  TVN [Indonesian Sub]&&https://raw.githubusercontent.com/kusnadipepenk/campeign/master/tvn.m3u8
-KR  TVN Movies [Indonesian Sub]&&https://raw.githubusercontent.com/kusnadipepenk/campeign/master/tvnmovies.m3u8
 MX  Discovery Turboᴴᴰ 🇲🇽&&http://livex.pop-app.live/s4n/poplive/ch556/playlist.m3u8
 MX  ESPN 2ᴴᴰ 🇲🇽&&http://livex.pop-app.live/s4n/poplive/ch542/playlist.m3u8
 MX  ESPN 3ᴴᴰ 🇲🇽&&http://livex.pop-app.live/s4n/poplive/ch320/playlist.m3u8
@@ -54,22 +47,14 @@ UK  BBC First 🇬🇧🇵🇱&&http://124.29.225.205:8000/play/a05f/index.m3u8
 UK  BBC News 🇬🇧&&http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/545/19176/index.m3u8
 US  &Flix&&http://89.187.177.137:8081/&FLIX/index.m3u8
 US  &Prive&&http://89.187.177.137:8081/&PRIVE/index.m3u8
-US  AXN [Indonesian Sub]&&https://raw.githubusercontent.com/kusnadipepenk/ntn/master/axn.m3u8
 US  Bein SportXtra 🇺🇸ᴴᴰ 🟤&&http://136.175.8.181:18000/c25390e50e2b4849bc34ed742f92175a/hls/playlist.m3u8
 US  Bosi Golf 🇨🇳&&http://198.16.100.90:8278/bosigolf1_twn/playlist.m3u8?tid=MD5D3832704238327042&ct=18393&tsum=cbf3bf749c9b0bf4828ab19efff1c5b0
-US  Cartoon Network&&https://raw.githubusercontent.com/kusnadipepenk/ntn/master/cn.m3u8
-US  CartooNito&&https://raw.githubusercontent.com/kusnadipepenk/ntn/master/boom.m3u8
 US  CineMaxᴴᴰ 🇺🇸&&http://170.254.18.106/CINEMAX/index.m3u8
-US  Discovery Asia [Indonesian Sub]&&https://raw.githubusercontent.com/kusnadipepenk/ntn/master/discasia.m3u8
 US  DW 🇺🇸&&http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDIxIDEyOjQ3OjU3IFBNJmhhc2hfdmFsdWU9ZkJ0QTd3enJhWUtYSGsrZHFieUZodz09JnZhbGlkbWludXRlcz00ODA=
 US  FXxᴴᴰ 🇺🇸&&http://livex.pop-app.live/s4n/poplive/ch523/playlist.m3u8
 US  HBO 2 🇺🇸🇮🇳&&http://170.254.18.106/HBO2/index.m3u8
 US  HBO Mundi 🇺🇸🇮🇳&&http://170.254.18.106/HBO_MUNDI/index.m3u8
-US  History [Indonesian Sub]&&https://raw.githubusercontent.com/kusnadipepenk/campeign/master/histo.m3u8
-US  Hits [Indonesian Sub]&&https://raw.githubusercontent.com/kusnadipepenk/campeign/master/hit.m3u8
 US  Lifetimeᴴᴰ 🇺🇸&&http://livex.pop-app.live/s4n/poplive/ch567/playlist.m3u8
-US  Movie Now&&https://raw.githubusercontent.com/kusnadipepenk/ntn/master/mnow.m3u8?c
-US  MTV&&https://raw.githubusercontent.com/kusnadipepenk/ntn/master/emtv.m3u8
 US  MTV 90s&&http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch241)/index.m3u8
 US  NBA TV 🇺🇸&&http://livex.pop-app.live/s4n/poplive/ch310/playlist.m3u8
 US  NBC Golf 🇺🇸&&http://livex.pop-app.live/s4n/poplive/ch335/playlist.m3u8
@@ -77,7 +62,6 @@ US  Netflix Action 🇺🇸🇮🇳&&http://77.137.35.165:8000/play/a079/index.m
 US  Netflix Horror 🇺🇸🇮🇳&&http://77.137.35.165:8000/play/a08l/index.m3u8
 US  One Golf 🇺🇸&&http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8
 US  Oxygen True Crimeᴴᴰ 🇺🇸&&http://livex.pop-app.live/s4n/poplive/ch560/playlist.m3u8
-US  Paramount&&https://raw.githubusercontent.com/kusnadipepenk/campeign/master/prmont.m3u8
 US  Red Bull TVᴴᴰ 🇺🇸&&http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 US  Tennis Channel 🇺🇸&&http://livex.pop-app.live/s4n/poplive/ch330/playlist.m3u8
 US  Toonami AfterMath East&&http://api.toonamiaftermath.com:3000/est/playlist.m3u8
@@ -184,14 +168,12 @@ Univision 4&&http://168.227.22.18:1935/live/mobile-036/playlist.m3u8
 WB TV&&http://168.227.22.18:1935/live/mobile-030/playlist.m3u8
 Win+&&http://168.227.22.18:1935/live/mobile-062/playlist.m3u8
 ZooMoo&&http://168.227.22.18:1935/live/mobile-069/playlist.m3u8
+MY  Astro Citra&&http://50.7.234.10:8278/Citra/playlist.m3u8
 ID  Bandung TV&&http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
 ID  Batu TV&&http://117.103.69.219:8080/live/streaming/index.m3u8
 ID  BNTV&&http://210.210.155.35/uq2663/h/h39/index.m3u8
-ID  Citra Bioskop&&https://raw.githubusercontent.com/kusnadipepenk/campeign/master/citbiosk.m3u8
 ID  DFC Dens Food Channel&&http://210.210.155.35/x6bnqe/s/s50/live.m3u8
 ID  Garuda TV&&http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch45)/index.m3u8
-ID  Horee!&&https://raw.githubusercontent.com/kusnadipepenk/campeign/master/hore.m3u8
-ID  IDX&&https://raw.githubusercontent.com/kusnadipepenk/campeign/master/idx.m3u8
 ID  Jek TV&&http://61.8.64.138:1935/jektv/myStream/playlist.m3u8
 ID  Jogja Istimewa TV&&http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
 ID  Magna Channel&&http://210.210.155.35/uq2663/h/h24/index.m3u8
@@ -200,16 +182,12 @@ ID  Radar Tasikmalaya TV&&http://103.140.188.211:1935/radartv/myStream/playlist.
 ID  Semarang TV&&http://116.254.112.74/hls/cakralive.m3u8
 ID  Tegar TV Lampung&&http://wms.klikhost.com:1935/tegartv/tegartv/playlist.m3u8
 ID  TVKU&&http://103.30.1.14:8080/hls/live.m3u8
-ANTV&&http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
-Indosiar&&http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
-Kompas Tv&&http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
-Metro Tv&&http://op-group1-swiftservehd-1.dens.tv/h/h211/02.m3u8
-Net Tv&&http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
-RTV&&http://210.210.155.37/uq2663/h/h10/02.m3u8
-SCTV&&http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
-TvOne&&http://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
-TVRI&&http://op-group1-swiftservehd-1.dens.tv/h/h237/02.m3u8
-Badminton Court 1&&`0https://www.youtube.com/embed/BKLakc-QLkA?si=9n4dfRCHtEsJjrAG
-Badminton Court 2&&`0https://www.youtube.com/embed/pY4hwfO8acE?si=qgN9wAeNOf74gRvR
-Badminton Court 3&&`0https://www.youtube.com/embed/SPwE__nt4iE?si=QLYU-a4pTtdmxqUo
-Badminton Court 4&&`0https://www.youtube.com/embed/jgLCuQ6dNL0?si=PeRCLwTMuON8e2LT
+ID  ANTV&&http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
+ID  Indosiar&&http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
+ID  Kompas TV&&http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
+ID  Metro TV&&http://op-group1-swiftservehd-1.dens.tv/h/h211/02.m3u8
+ID  Net TV&&http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
+ID  RTV&&http://210.210.155.37/uq2663/h/h10/02.m3u8
+ID  SCTV&&http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
+ID  TVOne&&http://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
+ID  TVRI&&http://op-group1-swiftservehd-1.dens.tv/h/h237/02.m3u8

@@ -1,214 +1,22 @@
-UK  English Club TVᴴᴰ 🇬🇧&&http://iptv.prosto.tv:7000/ch206/video.m3u8
-UK  Mr. Bean&&http://51.159.104.29:8080/mrbean/index.m3u8
-US  Tom & Jerry 🇺🇸&&http://24hrs.homelinux.com/24H-tom-e-jerry/video.m3u8
-AR  Fox Kids&&http://stmv1.srvif.com/emlsilva/emlsilva/playlist.m3u8
-AR  Urban Kids&&http://200.194.238.229:8383/live/urbankids/playlist.m3u8
-BR  Cartoonito 🇧🇷&&http://199.127.60.83:14682/cartoonito.m3u8
-MX  DreamWorks sᴅ 🇲🇽&&http://45.189.148.24:8000/play/a00m/index.m3u8
-US  Duck TV&&http://iptv.prosto.tv:7000/ch209/video.m3u8
-US  GameToonᴴᴰ 🇺🇸&&http://iptv.prosto.tv:7000/ch256/video.m3u8
-US  Tortues Ninja 🇺🇸 🟤&&http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d0c16d686454ead733d08f8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-24h News FHD&&http://cdn.connectbr.com.br/24_news/index.m3u8
-AE  Dubai TV&&http://210.210.155.35/uq2663/h/h152/index2.m3u8
-AL  RTSH Sport 🇦🇱ᴴᴰ&&http://tibotv.s.llnwi.net/dvr1file/yWbXvr1S/rtshsport_720p/playlist.m3u8
-BR  Discovery Turboᴴᴰ 🇧🇷&&http://170.82.200.35/discovery_turbo/tracks-v1a1/mono.m3u8
-BR  TVE 🇧🇷&&http://streaming.procergs.com.br:1935/tve/stve/chunklist.m3u8
-CA  Fight Network 🇨🇦&&http://livex.pop-app.live/s4n/poplive/ch534/playlist.m3u8
-CH  My Cinema Europe&&http://210.210.155.35/uq2663/h/h18/index.m3u8
-CN  Discovery Asiaᴴᴰ 🇺🇸🇨🇳&&http://198.16.100.90:8278/discoverytwn_twn/playlist.m3u8?tid=MB1B4014431840144318&ct=19254&tsum=a72e8caa6986ef92c4d6cb743e22a78f
-CN  HBO Family 🇺🇸🇨🇳&&http://198.16.100.90:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21abab0a5912afb0ebc01db111e59f
-EC  Goltv 🇪🇨&&http://157.245.117.238:8000/play/a0ur/index.m3u8
-ES  ¡Hola!ᴴᴰ TV 🇪🇸&&http://190.105.128.198:8000/play/a054/index.m3u8
-ES  Galicia Americaᴴᴰ 🇪🇸&&http://america-crtvg.flumotion.com/crtvg/america_high/chunks.m3u8
-ES  Galicia Europaᴴᴰ 🇪🇸&&http://europa-crtvg.flumotion.com/crtvg/europa_high/chunks.m3u8
-ES  Sky Sports LaLigaᴴᴰ 🇪🇸🇬🇧&&http://45.5.119.155:8090/play/a04e/index.m3u8
-ES  TVE Internacional Asia-Oceania&&http://210.210.155.35/uq2663/h/h158/index2.m3u8
-FR  InfoSport 🇫🇷&&http://212.102.60.80/Infosport/index.m3u8
-FR  TF1 🇫🇷&&http://212.102.60.80/TF1/index.m3u8
-FR  TF1 🇫🇷&&http://45.153.35.210:8000/play/FR_tf1_HD/index.m3u8
 HK  Celestial Movies [Indonesian Sub]&&https://raw.githubusercontent.com/mimipipi22/lalajo/main/celestialmovies.m3u8
-HK  Phoenix Chinese&&http://210.210.155.35/uq2663/h/h157/index2.m3u8
 JP  Sony GEM [Indonesian Sub]&&https://raw.githubusercontent.com/mimipipi22/lalajo/main/gem.m3u8
 KR  K Plus [Indonesian Sub]&&https://raw.githubusercontent.com/kusnadipepenk/campeign/master/kplus.m3u8?c
 KR  Spo TV 1&&https://raw.githubusercontent.com/kusnadipepenk/ntn/master/spotv1.m3u8
 KR  Spo TV 2&&https://raw.githubusercontent.com/kusnadipepenk/ntn/master/spotv2.m3u8
 KR  TVN [Indonesian Sub]&&https://raw.githubusercontent.com/kusnadipepenk/campeign/master/tvn.m3u8
 KR  TVN Movies [Indonesian Sub]&&https://raw.githubusercontent.com/kusnadipepenk/campeign/master/tvnmovies.m3u8
-MX  Discovery Turboᴴᴰ 🇲🇽&&http://livex.pop-app.live/s4n/poplive/ch556/playlist.m3u8
-MX  ESPN 2ᴴᴰ 🇲🇽&&http://livex.pop-app.live/s4n/poplive/ch542/playlist.m3u8
-MX  ESPN 3ᴴᴰ 🇲🇽&&http://livex.pop-app.live/s4n/poplive/ch320/playlist.m3u8
-MX  ESPN 4 sᴅ 🇲🇽&&http://168.227.22.18:1935/live/mobile-205/playlist.m3u8
-MX  Fox Sport 1 🇲🇽&&http://livex.pop-app.live/s4n/poplive/ch321/playlist.m3u8
-MX  Fox Sport 2 🇲🇽&&http://livex.pop-app.live/s4n/poplive/ch322/playlist.m3u8
-MX  Fox Sport 3 🇲🇽&&http://livex.pop-app.live/s4n/poplive/ch338/playlist.m3u8
-MX  Fox Sport 3 🇲🇽&&http://stream.flynetwifi.com:1935/live/mobile-108/playlist.m3u8
-MX  Mas Chic TV 🇲🇽&&http://livex.pop-app.live/s4n/poplive/ch519/playlist.m3u8
-PE  ESPN 4 🇵🇪&&http://bantel.iptvperu.tv:1935/transcoderip/espnextrabk_t2.stream/playlist.m3u8
-RU  CHD TV Rock 🇷🇺&&http://194.26.229.213/chdtv_rock/index.m3u8
-SG  Motorsports&&http://210.210.155.35/uq2663/h/h09/index.m3u8
-TR  Türkmenistan Sport 🇹🇷 sᴅ&&http://217.174.225.146/hls/ch004_720/index.m3u8
-UA  Freedom&&http://210.210.155.35/uq2663/h/h101/index.m3u8
-UK  Arena Premium Liga 🇬🇧ᴴᴰ&&http://91.132.74.4:7374/play/a00k/index.m3u8
-UK  Automoto 🇬🇧&&http://100automoto.tv:1935/bgtv1/autotv/chunklist_w783411174.m3u8
-UK  BBC First 🇬🇧🇵🇱&&http://124.29.225.205:8000/play/a05f/index.m3u8
-UK  BBC News 🇬🇧&&http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/545/19176/index.m3u8
-US  &Flix&&http://89.187.177.137:8081/&FLIX/index.m3u8
-US  &Prive&&http://89.187.177.137:8081/&PRIVE/index.m3u8
 US  AXN [Indonesian Sub]&&https://raw.githubusercontent.com/kusnadipepenk/ntn/master/axn.m3u8
-US  Bein SportXtra 🇺🇸ᴴᴰ 🟤&&http://136.175.8.181:18000/c25390e50e2b4849bc34ed742f92175a/hls/playlist.m3u8
-US  Bosi Golf 🇨🇳&&http://198.16.100.90:8278/bosigolf1_twn/playlist.m3u8?tid=MD5D3832704238327042&ct=18393&tsum=cbf3bf749c9b0bf4828ab19efff1c5b0
 US  Cartoon Network&&https://raw.githubusercontent.com/kusnadipepenk/ntn/master/cn.m3u8
 US  CartooNito&&https://raw.githubusercontent.com/kusnadipepenk/ntn/master/boom.m3u8
-US  CineMaxᴴᴰ 🇺🇸&&http://170.254.18.106/CINEMAX/index.m3u8
 US  Discovery Asia [Indonesian Sub]&&https://raw.githubusercontent.com/kusnadipepenk/ntn/master/discasia.m3u8
-US  DW 🇺🇸&&http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDIxIDEyOjQ3OjU3IFBNJmhhc2hfdmFsdWU9ZkJ0QTd3enJhWUtYSGsrZHFieUZodz09JnZhbGlkbWludXRlcz00ODA=
-US  FXxᴴᴰ 🇺🇸&&http://livex.pop-app.live/s4n/poplive/ch523/playlist.m3u8
-US  HBO 2 🇺🇸🇮🇳&&http://170.254.18.106/HBO2/index.m3u8
-US  HBO Mundi 🇺🇸🇮🇳&&http://170.254.18.106/HBO_MUNDI/index.m3u8
 US  History [Indonesian Sub]&&https://raw.githubusercontent.com/kusnadipepenk/campeign/master/histo.m3u8
 US  Hits [Indonesian Sub]&&https://raw.githubusercontent.com/kusnadipepenk/campeign/master/hit.m3u8
-US  Lifetimeᴴᴰ 🇺🇸&&http://livex.pop-app.live/s4n/poplive/ch567/playlist.m3u8
 US  Movie Now&&https://raw.githubusercontent.com/kusnadipepenk/ntn/master/mnow.m3u8?c
 US  MTV&&https://raw.githubusercontent.com/kusnadipepenk/ntn/master/emtv.m3u8
-US  MTV 90s&&http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch241)/index.m3u8
-US  NBA TV 🇺🇸&&http://livex.pop-app.live/s4n/poplive/ch310/playlist.m3u8
-US  NBC Golf 🇺🇸&&http://livex.pop-app.live/s4n/poplive/ch335/playlist.m3u8
-US  Netflix Action 🇺🇸🇮🇳&&http://77.137.35.165:8000/play/a079/index.m3u8
-US  Netflix Horror 🇺🇸🇮🇳&&http://77.137.35.165:8000/play/a08l/index.m3u8
-US  One Golf 🇺🇸&&http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8
-US  Oxygen True Crimeᴴᴰ 🇺🇸&&http://livex.pop-app.live/s4n/poplive/ch560/playlist.m3u8
 US  Paramount&&https://raw.githubusercontent.com/kusnadipepenk/campeign/master/prmont.m3u8
-US  Red Bull TVᴴᴰ 🇺🇸&&http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-US  Tennis Channel 🇺🇸&&http://livex.pop-app.live/s4n/poplive/ch330/playlist.m3u8
-US  Toonami AfterMath East&&http://api.toonamiaftermath.com:3000/est/playlist.m3u8
-US  Trips Marterᴴᴰ 🇺🇸&&http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist.m3u8
-US  W Sport&&http://210.210.155.35/uq2663/h/h26/index.m3u8
-BBLACK! Africaᴴᴰ&&http://livevideo.vedge.infomaniak.com/livecast/ik:bblackafrica/manifest.m3u8
-eSports Max&&http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
-Eurosport 1 🇵🇱🇺🇸ᴴᴰ&&http://54.39.17.6:8080/eurosport/playlist.m3u8
-A&E&&http://168.227.22.18:1935/live/mobile-158/playlist.m3u8
-A3 Cine&&http://168.227.22.18:1935/live/mobile-028/playlist.m3u8
-A3 Series Int&&http://168.227.22.18:1935/live/mobile-047/playlist.m3u8
-AMC&&http://168.227.22.18:1935/live/mobile-079/playlist.m3u8
-Animal Planet&&http://168.227.22.18:1935/live/mobile-068/playlist.m3u8
-Antena 3 Int&&http://168.227.22.18:1935/live/mobile-008/playlist.m3u8
-AXN&&http://168.227.22.18:1935/live/mobile-048/playlist.m3u8
-Azteca Int&&http://168.227.22.18:1935/live/mobile-117/playlist.m3u8
-Baby TV&&http://168.227.22.18:1935/live/mobile-060/playlist.m3u8
-C10&&http://168.227.22.18:1935/live/mobile-037/playlist.m3u8
-Canal 11&&http://168.227.22.18:1935/live/mobile-132/playlist.m3u8
-Canal 12 SV&&http://168.227.22.18:1935/live/mobile-082/playlist.m3u8
-Canal 2&&http://168.227.22.18:1935/live/mobile-110/playlist.m3u8
-Canal 21&&http://168.227.22.18:1935/live/mobile-049/playlist.m3u8
-Canal 3&&http://168.227.22.18:1935/live/mobile-114/playlist.m3u8
-Canal 7&&http://168.227.22.18:1935/live/mobile-131/playlist.m3u8
-Canal D&&http://168.227.22.18:1935/live/mobile-097/playlist.m3u8
-Canal Movie&&http://168.227.22.18:1935/live/mobile-115/playlist.m3u8
-Canal TRV&&http://168.227.22.18:1935/live/mobile-150/playlist.m3u8
-Cartoon Network&&http://168.227.22.18:1935/live/mobile-029/playlist.m3u8
-Cartoonito&&http://168.227.22.18:1935/live/mobile-055/playlist.m3u8
-Classic Cinema&&http://168.227.22.18:1935/live/mobile-120/playlist.m3u8
-Cli&&http://168.227.22.18:1935/live/mobile-119/playlist.m3u8
-CNBC&&http://168.227.22.18:1935/live/mobile-098/playlist.m3u8
-CNN&&http://168.227.22.18:1935/live/mobile-061/playlist.m3u8
-Comedy Central&&http://168.227.22.18:1935/live/mobile-001/playlist.m3u8
-Corazon&&http://168.227.22.18:1935/live/mobile-118/playlist.m3u8
-Disc Turbo&&http://168.227.22.18:1935/live/mobile-109/playlist.m3u8
-Discovery&&http://168.227.22.18:1935/live/mobile-006/playlist.m3u8
-Dreamworks&&http://168.227.22.18:1935/live/mobile-099/playlist.m3u8
-E!&&http://168.227.22.18:1935/live/mobile-156/playlist.m3u8
-ENI&&http://168.227.22.18:1935/live/mobile-067/playlist.m3u8
-ES NE&&http://168.227.22.18:1935/live/mobile-124/playlist.m3u8
-ESPN 1 MX&&http://168.227.22.18:1935/live/mobile-032/playlist.m3u8
-ESPN 2 MX&&http://168.227.22.18:1935/live/mobile-033/playlist.m3u8
-ESPN 3 MX&&http://168.227.22.18:1935/live/mobile-121/playlist.m3u8
-Film & Arts&&http://168.227.22.18:1935/live/mobile-142/playlist.m3u8
-Fox Deportes&&http://168.227.22.18:1935/live/mobile-104/playlist.m3u8
-Fox Sports 1 MX&&http://168.227.22.18:1935/live/mobile-010/playlist.m3u8
-Fox Sports 2 MX&&http://168.227.22.18:1935/live/mobile-031/playlist.m3u8
-Fox Sports 3 MX&&http://168.227.22.18:1935/live/mobile-108/playlist.m3u8
-Frente A Frente&&http://168.227.22.18:1935/live/mobile-111/playlist.m3u8
-FX&&http://168.227.22.18:1935/live/mobile-123/playlist.m3u8
-Golden&&http://168.227.22.18:1935/live/mobile-141/playlist.m3u8
-Guate Vision&&http://168.227.22.18:1935/live/mobile-149/playlist.m3u8
-H&H&&http://168.227.22.18:1935/live/mobile-107/playlist.m3u8
-HBO 2&&http://168.227.22.18:1935/live/mobile-094/playlist.m3u8
-Hinspan TV&&http://168.227.22.18:1935/live/mobile-147/playlist.m3u8
-History&&http://168.227.22.18:1935/live/mobile-058/playlist.m3u8
-History 2&&http://168.227.22.18:1935/live/mobile-157/playlist.m3u8
-Hola TV&&http://168.227.22.18:1935/live/mobile-013/playlist.m3u8
-IVC&&http://168.227.22.18:1935/live/mobile-153/playlist.m3u8
-LaLiga TV&&http://168.227.22.18:1935/live/mobile-017/playlist.m3u8
-Lifetime&&http://168.227.22.18:1935/live/mobile-154/playlist.m3u8
-Mas CHiC&&http://168.227.22.18:1935/live/mobile-146/playlist.m3u8
-MC&&http://168.227.22.18:1935/live/mobile-044/playlist.m3u8
-Modo Cine&&http://168.227.22.18:1935/live/mobile-140/playlist.m3u8
-MTV&&http://168.227.22.18:1935/live/mobile-063/playlist.m3u8
-MultiPremier&&http://168.227.22.18:1935/live/mobile-021/playlist.m3u8
-National Geographic&&http://168.227.22.18:1935/live/mobile-091/playlist.m3u8
-Nick&&http://168.227.22.18:1935/live/mobile-112/playlist.m3u8
-Nick Jr&&http://168.227.22.18:1935/live/mobile-011/playlist.m3u8
-Nick Music&&http://168.227.22.18:1935/live/mobile-039/playlist.m3u8
-Paramount&&http://168.227.22.18:1935/live/mobile-004/playlist.m3u8
-Pasiones&&http://168.227.22.18:1935/live/mobile-014/playlist.m3u8
-RCN Int&&http://168.227.22.18:1935/live/mobile-072/playlist.m3u8
-RCN Novelas&&http://168.227.22.18:1935/live/mobile-066/playlist.m3u8
-RTVE.ES&&http://168.227.22.18:1935/live/mobile-100/playlist.m3u8
-Russia Today&&http://168.227.22.18:1935/live/mobile-009/playlist.m3u8
-Sony Channel&&http://168.227.22.18:1935/live/mobile-035/playlist.m3u8
-Sony Movies&&http://168.227.22.18:1935/live/mobile-034/playlist.m3u8
-Space&&http://168.227.22.18:1935/live/mobile-003/playlist.m3u8
-Star Channel&&http://168.227.22.18:1935/live/mobile-057/playlist.m3u8
-Star TVE&&http://168.227.22.18:1935/live/mobile-129/playlist.m3u8
-Starz&&http://168.227.22.18:1935/live/mobile-015/playlist.m3u8
-Studio Universal&&http://168.227.22.18:1935/live/mobile-026/playlist.m3u8
-SYFY USA&&http://168.227.22.18:1935/live/mobile-059/playlist.m3u8
-TCS+&&http://168.227.22.18:1935/live/mobile-135/playlist.m3u8
-Telemundo&&http://168.227.22.18:1935/live/mobile-040/playlist.m3u8
-Telemundo Int&&http://168.227.22.18:1935/live/mobile-152/playlist.m3u8
-Telesur&&http://168.227.22.18:1935/live/mobile-116/playlist.m3u8
-TN 23&&http://168.227.22.18:1935/live/mobile-130/playlist.m3u8
-TNT&&http://168.227.22.18:1935/live/mobile-074/playlist.m3u8
-TNT Series&&http://168.227.22.18:1935/live/mobile-046/playlist.m3u8
-TNT Sports CH&&http://168.227.22.18:1935/live/mobile-143/playlist.m3u8
-Tooncast&&http://168.227.22.18:1935/live/mobile-002/playlist.m3u8
-TV Azteca Guate&&http://168.227.22.18:1935/live/mobile-148/playlist.m3u8
-TVE&&http://168.227.22.18:1935/live/mobile-128/playlist.m3u8
-TVO&&http://168.227.22.18:1935/live/mobile-071/playlist.m3u8
-TVU El Savador&&http://168.227.22.18:1935/live/mobile-113/playlist.m3u8
-TyC Sports&&http://168.227.22.18:1935/live/mobile-005/playlist.m3u8
-Universal TV&&http://168.227.22.18:1935/live/mobile-064/playlist.m3u8
-Universo&&http://168.227.22.18:1935/live/mobile-065/playlist.m3u8
-Univision&&http://168.227.22.18:1935/live/mobile-045/playlist.m3u8
-Univision 4&&http://168.227.22.18:1935/live/mobile-036/playlist.m3u8
-WB TV&&http://168.227.22.18:1935/live/mobile-030/playlist.m3u8
-Win+&&http://168.227.22.18:1935/live/mobile-062/playlist.m3u8
-ZooMoo&&http://168.227.22.18:1935/live/mobile-069/playlist.m3u8
-ID  Bandung TV&&http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
-ID  Batu TV&&http://117.103.69.219:8080/live/streaming/index.m3u8
-ID  BNTV&&http://210.210.155.35/uq2663/h/h39/index.m3u8
 ID  Citra Bioskop&&https://raw.githubusercontent.com/kusnadipepenk/campeign/master/citbiosk.m3u8
-ID  DFC Dens Food Channel&&http://210.210.155.35/x6bnqe/s/s50/live.m3u8
-ID  Garuda TV&&http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch45)/index.m3u8
 ID  Horee!&&https://raw.githubusercontent.com/kusnadipepenk/campeign/master/hore.m3u8
 ID  IDX&&https://raw.githubusercontent.com/kusnadipepenk/campeign/master/idx.m3u8
-ID  Jek TV&&http://61.8.64.138:1935/jektv/myStream/playlist.m3u8
-ID  Jogja Istimewa TV&&http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
-ID  Magna Channel&&http://210.210.155.35/uq2663/h/h24/index.m3u8
-ID  Metro Globe Network&&http://210.210.155.35/uq2663/h/h35/index.m3u8
-ID  Radar Tasikmalaya TV&&http://103.140.188.211:1935/radartv/myStream/playlist.m3u8
-ID  Semarang TV&&http://116.254.112.74/hls/cakralive.m3u8
-ID  Tegar TV Lampung&&http://wms.klikhost.com:1935/tegartv/tegartv/playlist.m3u8
-ID  TVKU&&http://103.30.1.14:8080/hls/live.m3u8
-ANTV&&http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
-Indosiar&&http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
-Kompas Tv&&http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
-Metro Tv&&http://op-group1-swiftservehd-1.dens.tv/h/h211/02.m3u8
-Net Tv&&http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
-RTV&&http://210.210.155.37/uq2663/h/h10/02.m3u8
-SCTV&&http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
-TvOne&&http://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
-TVRI&&http://op-group1-swiftservehd-1.dens.tv/h/h237/02.m3u8
 Badminton Court 1&&`0https://www.youtube.com/embed/BKLakc-QLkA?si=9n4dfRCHtEsJjrAG
 Badminton Court 2&&`0https://www.youtube.com/embed/pY4hwfO8acE?si=qgN9wAeNOf74gRvR
 Badminton Court 3&&`0https://www.youtube.com/embed/SPwE__nt4iE?si=QLYU-a4pTtdmxqUo
