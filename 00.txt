@@ -204,9 +204,9 @@ Orange Sports 3&&https://ott1.cyberhost.ro/sdash/LIVE$DolceSport3/index.mpd/Mani
 Orange Sports 4&&https://ott1.cyberhost.ro/sdash/LIVE$DolceSport4/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC``202a927cd913101de765b0e5bb3f500f:cdd399869057bc34c827f257f562643a
 Ziggo Sport&&https://carmeltv.live/EXCHANGEukmed/QHZ5pjF7UdKx/53710.m3u8
 Ziggo Tennis&&https://carmeltv.live/EXCHANGEukmed/QHZ5pjF7UdKx/53711.m3u8
-Badminton Court 1&&`0https://www.youtube.com/embed/sV0w72ibagc?si=9n4dfRCHtEsJjrAG
-Badminton Court 2&&`0https://www.youtube.com/embed/asj4o7zyQ9Y?si=qgN9wAeNOf74gRvR
-Badminton Court 3&&`0https://www.youtube.com/embed/lCp10kDd3I8?si=QLYU-a4pTtdmxqUo
+Badminton Court 1&&`0https://www.youtube.com/embed/BKLakc-QLkA?si=9n4dfRCHtEsJjrAG
+Badminton Court 2&&`0https://www.youtube.com/embed/asj4o7zyQ9Y?si=HECmzmp76RZ4cq3r
+Badminton Court 3&&`0https://www.youtube.com/embed/SPwE__nt4iE?si=QLYU-a4pTtdmxqUo
 Badminton Court 4&&`0https://www.youtube.com/embed/jgLCuQ6dNL0?si=PeRCLwTMuON8e2LT
 RMC Sport 1&&`0https://keralamaxtv.com/sp24/?play=rmc-sport-1-13
 RMC Sport 2&&`0https://keralamaxtv.com/sp24/?play=rmc-sport-2-14
