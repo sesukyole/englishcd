@@ -219,5 +219,5 @@ US  CBS Sports Network&&`0https://keralamaxtv.com/sp24/?play=cbs-sports-network-
 US  NBA TV&&`0https://keralamaxtv.com/sp24/?play=nba-tv-43
 PL  Eleven Sports 1&&`0https://live.sportsnews.id/p/eleven1.html
 PL  Eleven Sports 2&&`0https://live.sportsnews.id/p/eleven2.html
-PL  Eleven Sports 3&&`0https://live.sportsnews.id/p/eleven3.html
 PL  Eleven Sports 4&&`0https://live.sportsnews.id/p/eleven4.html
+PL  Eleven Sports 3&&`0https://live.sportsnews.id/p/eleven3.html
