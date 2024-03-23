@@ -17,7 +17,15 @@ US  Paramount&&https://raw.githubusercontent.com/kusnadipepenk/campeign/master/p
 ID  Citra Bioskop&&https://raw.githubusercontent.com/kusnadipepenk/campeign/master/citbiosk.m3u8
 ID  Horee!&&https://raw.githubusercontent.com/kusnadipepenk/campeign/master/hore.m3u8
 ID  IDX&&https://raw.githubusercontent.com/kusnadipepenk/campeign/master/idx.m3u8
-Badminton Court 1&&`0https://www.youtube.com/embed/BKLakc-QLkA?si=9n4dfRCHtEsJjrAG
-Badminton Court 2&&`0https://www.youtube.com/embed/pY4hwfO8acE?si=qgN9wAeNOf74gRvR
-Badminton Court 3&&`0https://www.youtube.com/embed/SPwE__nt4iE?si=QLYU-a4pTtdmxqUo
-Badminton Court 4&&`0https://www.youtube.com/embed/jgLCuQ6dNL0?si=PeRCLwTMuON8e2LT
+Episode A World War 1 The Russian Revolution & Woodrow Willson&&https://seed191.bitchute.com/P7Kloe3hUF0E/cDIVK7al8S3Z.mp4
+Episode B 1920-1940 Roosevelt Hitler Stalin The Battle of Ideas&&https://seed191.bitchute.com/P7Kloe3hUF0E/a1uksr57dUau.mp4
+Chapter 1 World War Two&&https://seed151.bitchute.com/9GID61VDD3ne/IHeMXTe0aeZP.mp4
+Chapter 2 Roosevelt Truman & Wallace&&https://seed191.bitchute.com/9GID61VDD3ne/HzfYqaAWZBMg.mp4
+Chapter 3 The Bomb&&https://seed151.bitchute.com/ncN5ictFfvMQ/UhYl1LZaVYLO.mp4
+Chapter 4 The Cold War 1945-1950&&https://seed151.bitchute.com/9GID61VDD3ne/ukNnzYV8RiDt.mp4
+Chapter 5 The 50s: Eisenhower the Bomb & The Third World&&https://seed131.bitchute.com/9GID61VDD3ne/1nOucGj4KqAP.mp4
+Chapter 6 JFK To the Brink&&https://seed131.bitchute.com/9GID61VDD3ne/EPEppwugokit.mp4
+Chapter 7 Johnson Nixon & Vietnam: Reversal Of Fortune&&https://seed131.bitchute.com/9GID61VDD3ne/t8Z2ZZ0R1Mtk.mp4
+Chapter 8 Reagan Gorbachev & Third World Rise of the Right&&https://seed131.bitchute.com/9GID61VDD3ne/hhGingAYxSV1.mp4
+Chapter 9 Bush & Clinton-Squandered Peace-New World Order&&https://seed131.bitchute.com/9GID61VDD3ne/JxLa0VKiCZA1.mp4
+Chapter 10 Bush & Obama-Age of Terror&&https://seed131.bitchute.com/9GID61VDD3ne/su0qq9pLCcTk.mp4
