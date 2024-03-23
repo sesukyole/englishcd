@@ -217,3 +217,7 @@ US  FS 1&&`0https://keralamaxtv.com/sp24/?play=fs1-86
 US  FS 2&&`0https://keralamaxtv.com/sp24/?play=fs2-87
 US  CBS Sports Network&&`0https://keralamaxtv.com/sp24/?play=cbs-sports-network-70
 US  NBA TV&&`0https://keralamaxtv.com/sp24/?play=nba-tv-43
+PL  Eleven Sports 1&&`0https://live.sportsnews.id/p/eleven1.html
+PL  Eleven Sports 2&&`0https://live.sportsnews.id/p/eleven2.html
+PL  Eleven Sports 3&&`0https://live.sportsnews.id/p/eleven3.html
+PL  Eleven Sports 4&&`0https://live.sportsnews.id/p/eleven4.html
