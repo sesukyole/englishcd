@@ -1,22 +1,5 @@
-HK  Celestial Movies [Indonesian Sub]&&https://raw.githubusercontent.com/mimipipi22/lalajo/main/celestialmovies.m3u8
-JP  Sony GEM [Indonesian Sub]&&https://raw.githubusercontent.com/mimipipi22/lalajo/main/gem.m3u8
 KR  K Plus [Indonesian Sub]&&https://raw.githubusercontent.com/kusnadipepenk/campeign/master/kplus.m3u8?c
-KR  Spo TV 1&&https://raw.githubusercontent.com/kusnadipepenk/ntn/master/spotv1.m3u8
-KR  Spo TV 2&&https://raw.githubusercontent.com/kusnadipepenk/ntn/master/spotv2.m3u8
-KR  TVN [Indonesian Sub]&&https://raw.githubusercontent.com/kusnadipepenk/campeign/master/tvn.m3u8
-KR  TVN Movies [Indonesian Sub]&&https://raw.githubusercontent.com/kusnadipepenk/campeign/master/tvnmovies.m3u8
-US  AXN [Indonesian Sub]&&https://raw.githubusercontent.com/kusnadipepenk/ntn/master/axn.m3u8
-US  Cartoon Network&&https://raw.githubusercontent.com/kusnadipepenk/ntn/master/cn.m3u8
-US  CartooNito&&https://raw.githubusercontent.com/kusnadipepenk/ntn/master/boom.m3u8
-US  Discovery Asia [Indonesian Sub]&&https://raw.githubusercontent.com/kusnadipepenk/ntn/master/discasia.m3u8
-US  History [Indonesian Sub]&&https://raw.githubusercontent.com/kusnadipepenk/campeign/master/histo.m3u8
-US  Hits [Indonesian Sub]&&https://raw.githubusercontent.com/kusnadipepenk/campeign/master/hit.m3u8
 US  Movie Now&&https://raw.githubusercontent.com/kusnadipepenk/ntn/master/mnow.m3u8?c
-US  MTV&&https://raw.githubusercontent.com/kusnadipepenk/ntn/master/emtv.m3u8
-US  Paramount&&https://raw.githubusercontent.com/kusnadipepenk/campeign/master/prmont.m3u8
-ID  Citra Bioskop&&https://raw.githubusercontent.com/kusnadipepenk/campeign/master/citbiosk.m3u8
-ID  Horee!&&https://raw.githubusercontent.com/kusnadipepenk/campeign/master/hore.m3u8
-ID  IDX&&https://raw.githubusercontent.com/kusnadipepenk/campeign/master/idx.m3u8
 Episode A World War 1 The Russian Revolution & Woodrow Willson&&https://seed191.bitchute.com/P7Kloe3hUF0E/cDIVK7al8S3Z.mp4
 Episode B 1920-1940 Roosevelt Hitler Stalin The Battle of Ideas&&https://seed191.bitchute.com/P7Kloe3hUF0E/a1uksr57dUau.mp4
 Chapter 1 World War Two&&https://seed151.bitchute.com/9GID61VDD3ne/IHeMXTe0aeZP.mp4
