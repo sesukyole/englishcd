@@ -219,30 +219,30 @@ PL  Eleven Sports 2&&`0https://live.sportsnews.id/p/eleven2.html
 PL  Eleven Sports 4&&`0https://live.sportsnews.id/p/eleven4.html
 PL  Eleven Sports 3&&`0https://live.sportsnews.id/p/eleven3.html
 PT  Benefica&&`0https://sportsonline.si/channels/pt/btv.php
+PT  Eleven 1&&`0https://sportsonline.si/channels/pt/eleven1.php
+PT  Eleven 2&&`0https://sportsonline.si/channels/pt/eleven2.php
+PT  Eleven 3&&`0https://sportsonline.si/channels/pt/eleven3.php
 PT  Sport TV 1&&`0https://sportsonline.si/channels/pt/sporttv1.php
 PT  Sport TV 2&&`0https://sportsonline.si/channels/pt/sporttv2.php
 PT  Sport TV 3&&`0https://sportsonline.si/channels/pt/sporttv3.php
 PT  Sport TV 4&&`0https://sportsonline.si/channels/pt/sporttv4.php
 PT  Sport TV 5&&`0https://sportsonline.si/channels/pt/sporttv5.php
-BR  sportv 1&&`0https://sportsonline.si/channels/bra/br1.php
-BR  sportv 2&&`0https://sportsonline.si/channels/bra/br4.php
-BR  sportv 3&&`0https://sportsonline.si/channels/bra/br5.php
-7Maxx&&`0https://sportsonline.si/channels/hd/hd3.php
-A TV&&`0https://sportsonline.si/channels/hd/hd11.php
-Channel 4&&`0https://sportsonline.si/channels/hd/hd1.php
-ES  TVE 1&&`0https://sportsonline.si/channels/hd/hd6.php
-FR  TFI&&`0https://sportsonline.si/channels/hd/hd4.php
-IT  Rai 2&&`0https://sportsonline.si/channels/hd/hd8.php
-SuperSport Football&&`0https://sportsonline.si/channels/hd/hd2.php
-ViaPlay 1&&`0https://sportsonline.si/channels/hd/hd5.php
-ViaPlay 2&&`0https://sportsonline.si/channels/hd/hd10.php
-PT  Eleven 1&&`0https://sportsonline.si/channels/pt/eleven1.php
-PT  Eleven 2&&`0https://sportsonline.si/channels/pt/eleven2.php
-PT  Eleven 3&&`0https://sportsonline.si/channels/pt/eleven3.php
-SA  SSC 1&&`0https://sportsonline.si/channels/hd/hd9.php
+HD 1&&`0https://sportsonline.si/channels/hd/hd1.php
+HD 2&&`0https://sportsonline.si/channels/hd/hd2.php
+HD 3&&`0https://sportsonline.si/channels/hd/hd3.php
+HD 4&&`0https://sportsonline.si/channels/hd/hd4.php
+HD 5&&`0https://sportsonline.si/channels/hd/hd5.php
+HD 6&&`0https://sportsonline.si/channels/hd/hd6.php
 HD 7&&`0https://sportsonline.si/channels/hd/hd7.php
-BR  2&&`0https://sportsonline.si/channels/bra/br2.php
-BR  3&&`0https://sportsonline.si/channels/bra/br3.php
-BR  6&&`0https://sportsonline.si/channels/bra/br6.php
-BR  7&&`0https://sportsonline.si/channels/bra/br7.php
-BR  8&&`0https://sportsonline.si/channels/bra/br8.php
+HD 8&&`0https://sportsonline.si/channels/hd/hd8.php
+HD 9&&`0https://sportsonline.si/channels/hd/hd9.php
+HD 10&&`0https://sportsonline.si/channels/hd/hd10.php
+HD 11&&`0https://sportsonline.si/channels/hd/hd11.php
+BR 1&&`0https://sportsonline.si/channels/bra/br1.php
+BR 2&&`0https://sportsonline.si/channels/bra/br2.php
+BR 3&&`0https://sportsonline.si/channels/bra/br3.php
+BR 4&&`0https://sportsonline.si/channels/bra/br4.php
+BR 5&&`0https://sportsonline.si/channels/bra/br5.php
+BR 6&&`0https://sportsonline.si/channels/bra/br6.php
+BR 7&&`0https://sportsonline.si/channels/bra/br7.php
+BR 8&&`0https://sportsonline.si/channels/bra/br8.php
