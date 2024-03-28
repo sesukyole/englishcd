@@ -184,6 +184,11 @@ MY  beIN Sports Uni 1&&`0https://go.now.net.eu.org/yos512/live?embed=bein1uni&ty
 MY  beIN Sports Uni 2&&`0https://go.now.net.eu.org/yos512/live?embed=bein2uni&type=m
 MY  beIN Sports Uni 3&&`0https://go.now.net.eu.org/yos512/live?embed=bein3uni&type=m
 MY  beIN Sports Uni 4&&`0https://go.now.net.eu.org/yos512/live?embed=bein4uni&type=m
+MY  Premier League&&`0https://go.now.net.eu.org/yos512/lol/live?embed=bein4my&type=m
+MY  Astro SuperSport 2&&`0https://go.now.net.eu.org/yos512/lol/live?embed=assp2&type=m
+MY  Astro SuperSport 4&&`0https://go.now.net.eu.org/yos512/lol/live?embed=assp4&type=m
+MY  SpoTV 1&&`0https://go.now.net.eu.org/yos512/live?embed=spotv1my&type=m
+MY  SpoTV 2&&`0https://go.now.net.eu.org/yos512/live?embed=spotv2my&type=m
 PT  Eleven Sports 1&&`0https://go.now.net.eu.org/yos512/live?embed=eleven1pt&type=m
 PT  Eleven Sports 2&&`0https://go.now.net.eu.org/yos512/live?embed=eleven2pt&type=m
 PT  Eleven Sports 3&&`0https://go.now.net.eu.org/yos512/live?embed=eleven3pt&type=m
