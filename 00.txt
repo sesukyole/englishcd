@@ -209,15 +209,6 @@ Badminton Court 1&&`0https://www.youtube.com/embed/BKLakc-QLkA?si=9n4dfRCHtEsJjr
 Badminton Court 2&&`0https://www.youtube.com/embed/asj4o7zyQ9Y?si=HECmzmp76RZ4cq3r
 Badminton Court 3&&`0https://www.youtube.com/embed/SPwE__nt4iE?si=QLYU-a4pTtdmxqUo
 Badminton Court 4&&`0https://www.youtube.com/embed/jgLCuQ6dNL0?si=PeRCLwTMuON8e2LT
-RMC Sport 1&&`0https://keralamaxtv.com/sp24/?play=rmc-sport-1-13
-RMC Sport 2&&`0https://keralamaxtv.com/sp24/?play=rmc-sport-2-14
-Sky Sports News&&`0https://keralamaxtv.com/sp24/?play=sky-sports-news-115
-UK  ITV 1&&`0https://keralamaxtv.com/sp24/?play=itv-1-104
-UK  ITV 2&&`0https://keralamaxtv.com/sp24/?play=itv-2-105
-US  FS 1&&`0https://keralamaxtv.com/sp24/?play=fs1-86
-US  FS 2&&`0https://keralamaxtv.com/sp24/?play=fs2-87
-US  CBS Sports Network&&`0https://keralamaxtv.com/sp24/?play=cbs-sports-network-70
-US  NBA TV&&`0https://keralamaxtv.com/sp24/?play=nba-tv-43
 PL  Eleven Sports 1&&`0https://live.sportsnews.id/p/eleven1.html
 PL  Eleven Sports 2&&`0https://live.sportsnews.id/p/eleven2.html
 PL  Eleven Sports 4&&`0https://live.sportsnews.id/p/eleven4.html
@@ -240,3 +231,13 @@ IT  Rai 2&&`0https://sportsonline.si/channels/hd/hd8.php
 SuperSport Football&&`0https://sportsonline.si/channels/hd/hd2.php
 ViaPlay 1&&`0https://sportsonline.si/channels/hd/hd5.php
 ViaPlay 2&&`0https://sportsonline.si/channels/hd/hd10.php
+PT  Eleven 1&&`0https://sportsonline.si/channels/pt/eleven1.php
+PT  Eleven 2&&`0https://sportsonline.si/channels/pt/eleven2.php
+PT  Eleven 3&&`0https://sportsonline.si/channels/pt/eleven3.php
+SA  SSC 1&&`0https://sportsonline.si/channels/hd/hd9.php
+HD 7&&`0https://sportsonline.si/channels/hd/hd7.php
+BR  2&&`0https://sportsonline.si/channels/bra/br2.php
+BR  3&&`0https://sportsonline.si/channels/bra/br3.php
+BR  6&&`0https://sportsonline.si/channels/bra/br6.php
+BR  7&&`0https://sportsonline.si/channels/bra/br7.php
+BR  8&&`0https://sportsonline.si/channels/bra/br8.php

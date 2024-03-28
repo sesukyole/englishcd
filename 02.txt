@@ -24,8 +24,6 @@ Moonbug Kids&&https://moonbug-rokuus.amagi.tv/playlist.m3u8
 Spacetoon&&https://raw.githubusercontent.com/mimipipi22/lalajo/main/spacetoon.m3u8
 Universal Kids&&https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv/master_en.m3u8
 ZooMoo&&https://zoomoo-samsungau.amagi.tv/playlist.m3u8
-KR  K Plus [Indonesian Sub]&&https://raw.githubusercontent.com/kusnadipepenk/campeign/master/kplus.m3u8?c
-US  Movie Now&&https://raw.githubusercontent.com/kusnadipepenk/ntn/master/mnow.m3u8?c
 ID  Moji&&https://op-group1-swiftservesd-1.dens.tv/s/s41/index.m3u8
 ID  Indosiar&&https://op-group1-swiftservesd-1.dens.tv/s/s04/index.m3u8
 ID  NET. TV&&https://op-group1-swiftservehd-1.dens.tv/h/h223/01.m3u8
@@ -370,6 +368,7 @@ IT  Canale 5 Mediaset&&https://live03p-seg.msf.cdn.mediaset.net/live/ch-c5/c5-da
 UK  ITV&&https://cors-proxy.elfsight.com/wp2-obc1112-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV09212/manifest.mpd``5d9937d586414096948337ac314d79c1:22ca2e250b729982c97209e0ff3f7e9b
 USA Net East&&https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd``882c9f5613b43b47adc70aa968a308ce:de534ef8914bfe62ba3cdd6bdb9e1c04
 USA Net West&&https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd``252a671825ba31ec8433f978c32ccf6d:ee560759ecc8d2274df2e63fcef56915
+US  Movie Now&&https://raw.githubusercontent.com/kusnadipepenk/ntn/master/mnow.m3u8?c
 Adult Swim (Samurai Jack Marathon)&&https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream.m3u8
 AR  Garage TV 🇦🇷&&https://stream1.sersat.com/hls/garagetv.m3u8
 Autentic Travelᴴᴰ 🟤&&https://autentic-autentictravel-1-gb.lg.wurl.tv/playlist.m3u8
