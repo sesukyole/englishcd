@@ -173,26 +173,16 @@ ID  TVOne&&http://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
 ID  TVRI&&http://op-group1-swiftservehd-1.dens.tv/h/h237/02.m3u8
 ID  BBC News Asia Pacific&&http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
 ID  Kanal 10 Asia&&http://cdn-kanal10.crossnet.net:1935/kanal10/kanal10asia/playlist.m3u8
-ID  Biznet Adventure&&http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
-ID  Biznet Kids&&http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
-ID  Biznet Lifestyle&&http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist_w109806785_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1qZ0RLUGNsY0dkWmZ2cklEeGZNZHBUN3Zfc3JNV0NidWJudEdvOWNDWVdwY0JCUWFsTWxMUXhIc3dtNDNQYlZS.m3u8
-ID  CCTV-4 Asia&&http://210.210.155.37/qwr9ew/s/s19/index.m3u8
-ID  Celestial Classic Movies&&http://210.210.155.37/qwr9ew/s/s31/index.m3u8
-ID  CinemaWorld&&http://210.210.155.37/dr9445/h/h04/index.m3u8
-ID  HITS&&http://210.210.155.37/dr9445/h/h37/index.m3u8
 ID  K+&&http://210.210.155.37/uq2663/h/h08/index.m3u8
 ID  Kix&&http://210.210.155.37/dr9445/h/h07/index.m3u8
 ID  My Cinema&&http://210.210.155.37/uq2663/h/h192/index.m3u8
 ID  My Cinema Asia&&http://210.210.155.37/uq2663/h/h193/index.m3u8
 ID  My Family Channel&&http://210.210.155.37/uq2663/h/h194/index.m3u8
 ID  My Kidz&&http://210.210.155.37/uq2663/h/h191/index.m3u8
-ID  One TV Asia&&http://210.210.155.37/uq2663/h/h143/index.m3u8
-ID  RAI Italia Asia&&http://210.210.155.37/x6bnqe/s/s63/index2.m3u8
 ID  ROCK Action&&http://210.210.155.37/dr9445/h/h15/index.m3u8
 ID  ROCK Entertainment&&http://210.210.155.37/dr9445/h/h16/index.m3u8
-ID  RTP Internacional Asia&&http://210.210.155.37/qwr9ew/s/s38/index.m3u8
-ID  SPOTV2&&http://202.150.161.68/spotv2/index.m3u8
 ID  SPOTV1&&http://202.150.161.68/spotv1/index.m3u8
+ID  SPOTV2&&http://202.150.161.68/spotv2/index.m3u8
 ID  tvN Movies&&http://210.210.155.37/dr9445/h/h21/index.m3u8
 ID  TVRI Aceh&&http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIACEH)/index.m3u8
 ID  TVRI Bali&&http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIBALI)/index.m3u8
