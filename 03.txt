@@ -171,7 +171,6 @@ ID  SCTV&&http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 ID  TVOne&&http://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
 ID  TVRI&&http://op-group1-swiftservehd-1.dens.tv/h/h237/02.m3u8
 ID  BBC News Asia Pacific&&http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
-ID  Kanal 10 Asia&&http://cdn-kanal10.crossnet.net:1935/kanal10/kanal10asia/playlist.m3u8
 ID  K+&&http://210.210.155.37/uq2663/h/h08/index.m3u8
 ID  Kix&&http://210.210.155.37/dr9445/h/h07/index.m3u8
 ID  My Cinema&&http://210.210.155.37/uq2663/h/h192/index.m3u8
