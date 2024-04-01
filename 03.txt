@@ -6,7 +6,6 @@ AR  Urban Kids&&http://200.194.238.229:8383/live/urbankids/playlist.m3u8
 MX  DreamWorks sᴅ 🇲🇽&&http://45.189.148.24:8000/play/a00m/index.m3u8
 US  Duck TV&&http://iptv.prosto.tv:7000/ch209/video.m3u8
 US  GameToonᴴᴰ 🇺🇸&&http://iptv.prosto.tv:7000/ch256/video.m3u8
-US  Tortues Ninja 🇺🇸 🟤&&http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d0c16d686454ead733d08f8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 24h News FHD&&http://cdn.connectbr.com.br/24_news/index.m3u8
 AE  Dubai TV&&http://210.210.155.35/uq2663/h/h152/index2.m3u8
 BR  Discovery Turboᴴᴰ 🇧🇷&&http://170.82.200.35/discovery_turbo/tracks-v1a1/mono.m3u8
@@ -14,7 +13,6 @@ BR  TVE 🇧🇷&&http://streaming.procergs.com.br:1935/tve/stve/chunklist.m3u8
 CH  My Cinema Europe&&http://210.210.155.35/uq2663/h/h18/index.m3u8
 CN  Discovery Asiaᴴᴰ 🇺🇸🇨🇳&&http://198.16.100.90:8278/discoverytwn_twn/playlist.m3u8?tid=MB1B4014431840144318&ct=19254&tsum=a72e8caa6986ef92c4d6cb743e22a78f
 EC  Goltv 🇪🇨&&http://157.245.117.238:8000/play/a0ur/index.m3u8
-ES  ¡Hola!ᴴᴰ TV 🇪🇸&&http://190.105.128.198:8000/play/a054/index.m3u8
 ES  Galicia Americaᴴᴰ 🇪🇸&&http://america-crtvg.flumotion.com/crtvg/america_high/chunks.m3u8
 ES  Galicia Europaᴴᴰ 🇪🇸&&http://europa-crtvg.flumotion.com/crtvg/europa_high/chunks.m3u8
 ES  TVE Internacional Asia-Oceania&&http://210.210.155.35/uq2663/h/h158/index2.m3u8
