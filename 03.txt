@@ -174,35 +174,6 @@ ID  ROCK Entertainment&&http://210.210.155.37/dr9445/h/h16/index.m3u8
 ID  SPOTV1&&http://202.150.161.68/spotv1/index.m3u8
 ID  SPOTV2&&http://202.150.161.68/spotv2/index.m3u8
 ID  tvN Movies&&http://210.210.155.37/dr9445/h/h21/index.m3u8
-|SHAHID| SHAHID LIVE&&https://shls-live-ak.akamaized.net/out/v1/8e2419c6c7494dbba478be025af490ee/index_1.m3u8
-|SHAHID| BOLLYWOOD CLASSIC&&https://shls-live-ak.akamaized.net/out/v1/485100a2150e4f69a338a5c99ca5648e/index_5.m3u8
-|SHAHID| WIFI&&https://shls-live-ak.akamaized.net/out/v1/22a1fb00da8a4b1fb15cbd70b8b59856/index_2.m3u8
-|SHAHID| BOLLYWOOD HD&&https://shls-live-ak.akamaized.net/out/v1/fb7b452f58f2412a9ae26b22dd30bd6b/index_2.m3u8
-|SHAHID| ALHOSN&&https://shls-live-ak.akamaized.net/out/v1/e09d6e88de95452fa5566a839ca5ed5c/index_9.m3u8
-|SHAHID| AFLAM&&https://shls-live-ak.akamaized.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index_2.m3u8
-|SHAHID| MOVIES&&https://shls-live-ak.akamaized.net/out/v1/90143f040feb40589d18c57863d9e829/index_2.m3u8
-|SHAHID| MOVIES THRILLER&&https://shls-live-ak.akamaized.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index_2.m3u8
-|SHAHID| MOVIES ACTION&&https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index_2.m3u8
-|SHAHID| RAMEZ&&https://shls-live-ak.akamaized.net/out/v1/ea4275b6dc0840c198c17f6dc6f1ec49/index_2.m3u8
-|SHAHID| AL KABEER AWI&&https://shls-live-ak.akamaized.net/out/v1/5f5de4f9efe24f758f1364dde5e2a45c/index_2.m3u8
-|SHAHID| TASH&&https://shls-live-ak.akamaized.net/out/v1/e34e3ac9d2534543a13b44c2b458b0c2/index_2.m3u8
-|SHAHID| AL ASOUF&&https://shls-live-ak.akamaized.net/out/v1/0afd546fcb5342f69d6bfff2dd1596e9/index_19.m3u8
-|SHAHID| AL LEABA&&https://shls-live-ak.akamaized.net/out/v1/d6e1fdee781f4506a6ac147fee5ba715/index_2.m3u8
-|SHAHID| BAB AL HARA&&https://shls-live-ak.akamaized.net/out/v1/948c54279b594944adde578c95f1d7d1/index_2.m3u8
-|SHAHID| MASRAH MASR&&https://shls-live-ak.akamaized.net/out/v1/8fae48b64942450cb5d60b3fb6910de0/index_2.m3u8
-|SHAHID| SELFIE&&https://shls-live-ak.akamaized.net/out/v1/2a0f4768f7fa42ed813674628b487e95/index_2.m3u8
-|SHAHID| NASER AL QASSABY&&https://shls-live-ak.akamaized.net/out/v1/20e003242d244710bfe9ca0fd2b94d00/index_2.m3u8
-|SHAHID| SPACETOON&&https://spacetoon-prod-dub-ak.akamaized.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index_2.m3u8
-|SHAHID| GULLI BIL ARABI&&https://gulli-bil-arabi-prod-dub-ak.akamaized.net/out/v1/5454d215afba410c90b233f400730958/index_2.m3u8
-|SHAHID| TIJI&&https://tiji-tv-prod-dub-ak.akamaized.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976/index_2.m3u8
-|SHAHID| FASHION TV&&https://mbc1-enc.edgenextcdn.net/out/v1/61474465407042c896d3d27685175891/index_3.m3u8
-|SHAHID| AL THAQAFEYA&&https://thaqafeyyah-ak.akamaized.net/out/v1/f6851f68ada94f82ae6b64a441eb5ab1/index_3.m3u8
-|SHAHID| ROYAA&&https://shls-live-ak.akamaized.net/out/v1/f1d7243984224a7e94bc34ff60d9fd53/index_14.m3u8
-|SHAHID| ALAAN TV&&https://shls-live-ak.akamaized.net/out/v1/dfbdea4c1bf149629764e58c6ff314c8/index_1.m3u8
-|SHAHID| TOP GEAR&&https://shls-live-ak.akamaized.net/out/v1/07a6ab2d57b2453a91bbdd2d46b5865a/index_2.m3u8
-|SHAHID| MARAYA&&https://shls-live-ak.akamaized.net/out/v1/a4a39d8e92e34b0780ca602270a59512/index_2.m3u8
-|SHAHID| RASHED AL-MAJED&&https://rashed-almajed-ak.akamaized.net/out/v1/77b0946130344d1388e5cd34afdcb772/index_19.m3u8
-|SHAHID| MUHAMMAD ABDO&&https://mohammed-abdou-ak.akamaized.net/out/v1/3b57275cf54747cda4cda03ecf146f92/index_19.m3u8
 INFO EVENTI&&00`d0039395.m3u8
 RAI ITALIA&&00`d0026060.m3u8
 RAI 1  4K HEVC H265&&00`d005322.m3u8
