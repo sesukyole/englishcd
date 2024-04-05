@@ -184,9 +184,6 @@ MY  beIN Sports Uni 1&&`0https://go.now.net.eu.org/yos512/live?embed=bein1uni&ty
 MY  beIN Sports Uni 2&&`0https://go.now.net.eu.org/yos512/live?embed=bein2uni&type=m
 MY  beIN Sports Uni 3&&`0https://go.now.net.eu.org/yos512/live?embed=bein3uni&type=m
 MY  beIN Sports Uni 4&&`0https://go.now.net.eu.org/yos512/live?embed=bein4uni&type=m
-MY  Premier League&&`0https://go.now.net.eu.org/yos512/lol/live?embed=bein4my&type=m
-MY  Astro SuperSport 2&&`0https://go.now.net.eu.org/yos512/lol/live?embed=assp2&type=m
-MY  Astro SuperSport 4&&`0https://go.now.net.eu.org/yos512/lol/live?embed=assp4&type=m
 MY  SpoTV 1&&`0https://go.now.net.eu.org/yos512/live?embed=spotv1my&type=m
 MY  SpoTV 2&&`0https://go.now.net.eu.org/yos512/live?embed=spotv2my&type=m
 PT  Eleven Sports 1&&`0https://go.now.net.eu.org/yos512/live?embed=eleven1pt&type=m
@@ -208,16 +205,7 @@ Orange Sports 1&&https://ott1.cyberhost.ro/sdash/LIVE$DolceSportHD/index.mpd/Man
 Orange Sports 2&&https://ott1.cyberhost.ro/sdash/LIVE$DolceSport2HD/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC``f75302cdb04a09e43f153095bcacd123:307bf889d92969ffd3014dddb67999f6
 Orange Sports 3&&https://ott1.cyberhost.ro/sdash/LIVE$DolceSport3/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC``b87857ba74ce03f9fa2866f1e086d05d:1cd289ac71ce5fb306a5e7653192ce3a
 Orange Sports 4&&https://ott1.cyberhost.ro/sdash/LIVE$DolceSport4/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC``202a927cd913101de765b0e5bb3f500f:cdd399869057bc34c827f257f562643a
-Ziggo Sport&&https://carmeltv.live/EXCHANGEukmed/QHZ5pjF7UdKx/53710.m3u8
 Ziggo Tennis&&https://carmeltv.live/EXCHANGEukmed/QHZ5pjF7UdKx/53711.m3u8
-Badminton Court 1&&`0https://www.youtube.com/embed/BKLakc-QLkA?si=9n4dfRCHtEsJjrAG
-Badminton Court 2&&`0https://www.youtube.com/embed/asj4o7zyQ9Y?si=HECmzmp76RZ4cq3r
-Badminton Court 3&&`0https://www.youtube.com/embed/SPwE__nt4iE?si=QLYU-a4pTtdmxqUo
-Badminton Court 4&&`0https://www.youtube.com/embed/jgLCuQ6dNL0?si=PeRCLwTMuON8e2LT
-PL  Eleven Sports 1&&`0https://live.sportsnews.id/p/eleven1.html
-PL  Eleven Sports 2&&`0https://live.sportsnews.id/p/eleven2.html
-PL  Eleven Sports 4&&`0https://live.sportsnews.id/p/eleven4.html
-PL  Eleven Sports 3&&`0https://live.sportsnews.id/p/eleven3.html
 PT  Benefica&&`0https://sportsonline.si/channels/pt/btv.php
 PT  Eleven 1&&`0https://sportsonline.si/channels/pt/eleven1.php
 PT  Eleven 2&&`0https://sportsonline.si/channels/pt/eleven2.php
@@ -246,3 +234,15 @@ BR 5&&`0https://sportsonline.si/channels/bra/br5.php
 BR 6&&`0https://sportsonline.si/channels/bra/br6.php
 BR 7&&`0https://sportsonline.si/channels/bra/br7.php
 BR 8&&`0https://sportsonline.si/channels/bra/br8.php
+Ziggo Sport&&https://carmeltv.live/EXCHANGEukmed/QHZ5pjF7UdKx/53710.m3u8
+Badminton Court 1&&`0https://www.youtube.com/embed/BKLakc-QLkA?si=9n4dfRCHtEsJjrAG
+Badminton Court 3&&`0https://www.youtube.com/embed/SPwE__nt4iE?si=QLYU-a4pTtdmxqUo
+Badminton Court 4&&`0https://www.youtube.com/embed/jgLCuQ6dNL0?si=PeRCLwTMuON8e2LT
+Badminton Court 2&&`0https://www.youtube.com/embed/asj4o7zyQ9Y?si=HECmzmp76RZ4cq3r
+MY  Premier League&&`0https://go.now.net.eu.org/yos512/lol/live?embed=bein4my&type=m
+MY  Astro SuperSport 2&&`0https://go.now.net.eu.org/yos512/lol/live?embed=assp2&type=m
+MY  Astro SuperSport 4&&`0https://go.now.net.eu.org/yos512/lol/live?embed=assp4&type=m
+PL  Eleven Sports 1&&`0https://live.sportsnews.id/p/eleven1.html
+PL  Eleven Sports 2&&`0https://live.sportsnews.id/p/eleven2.html
+PL  Eleven Sports 4&&`0https://live.sportsnews.id/p/eleven4.html
+PL  Eleven Sports 3&&`0https://live.sportsnews.id/p/eleven3.html
