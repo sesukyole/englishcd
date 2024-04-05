@@ -31,17 +31,12 @@ UK  Arena Premium Liga 🇬🇧ᴴᴰ&&http://91.132.74.4:7374/play/a00k/index.m
 UK  Automoto 🇬🇧&&http://100automoto.tv:1935/bgtv1/autotv/chunklist_w783411174.m3u8
 UK  BBC First 🇬🇧🇵🇱&&http://124.29.225.205:8000/play/a05f/index.m3u8
 UK  BBC News 🇬🇧&&http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/545/19176/index.m3u8
-US  &Flix&&http://89.187.177.137:8081/&FLIX/index.m3u8
-US  &Prive&&http://89.187.177.137:8081/&PRIVE/index.m3u8
-US  Bein SportXtra 🇺🇸ᴴᴰ 🟤&&http://136.175.8.181:18000/c25390e50e2b4849bc34ed742f92175a/hls/playlist.m3u8
 US  Bosi Golf 🇨🇳&&http://198.16.100.90:8278/bosigolf1_twn/playlist.m3u8?tid=MD5D3832704238327042&ct=18393&tsum=cbf3bf749c9b0bf4828ab19efff1c5b0
 US  CineMaxᴴᴰ 🇺🇸&&http://170.254.18.106/CINEMAX/index.m3u8
 US  DW 🇺🇸&&http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDIxIDEyOjQ3OjU3IFBNJmhhc2hfdmFsdWU9ZkJ0QTd3enJhWUtYSGsrZHFieUZodz09JnZhbGlkbWludXRlcz00ODA=
 US  HBO 2 🇺🇸🇮🇳&&http://170.254.18.106/HBO2/index.m3u8
 US  HBO Mundi 🇺🇸🇮🇳&&http://170.254.18.106/HBO_MUNDI/index.m3u8
 US  MTV 90s&&http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch241)/index.m3u8
-US  Netflix Action 🇺🇸🇮🇳&&http://77.137.35.165:8000/play/a079/index.m3u8
-US  Netflix Horror 🇺🇸🇮🇳&&http://77.137.35.165:8000/play/a08l/index.m3u8
 US  One Golf 🇺🇸&&http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8
 US  Red Bull TVᴴᴰ 🇺🇸&&http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 US  Toonami AfterMath East&&http://api.toonamiaftermath.com:3000/est/playlist.m3u8
@@ -151,12 +146,10 @@ ID  Bandung TV&&http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
 ID  Batu TV&&http://117.103.69.219:8080/live/streaming/index.m3u8
 ID  BNTV&&http://210.210.155.35/uq2663/h/h39/index.m3u8
 ID  DFC Dens Food Channel&&http://210.210.155.35/x6bnqe/s/s50/live.m3u8
-ID  Jek TV&&http://61.8.64.138:1935/jektv/myStream/playlist.m3u8
 ID  Jogja Istimewa TV&&http://103.255.15.222:1935/tv/jitv/playlist.m3u8
 ID  Magna Channel&&http://210.210.155.35/uq2663/h/h24/index.m3u8
 ID  Metro Globe Network&&http://210.210.155.35/uq2663/h/h35/index.m3u8
 ID  Radar Tasikmalaya TV&&http://103.140.188.211:1935/radartv/myStream/playlist.m3u8
-ID  Semarang TV&&http://116.254.112.74/hls/cakralive.m3u8
 ID  Tegar TV Lampung&&http://wms.klikhost.com:1935/tegartv/tegartv/playlist.m3u8
 ID  TVKU&&http://103.30.1.14:8080/hls/live.m3u8
 ID  ANTV&&http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
@@ -181,6 +174,35 @@ ID  ROCK Entertainment&&http://210.210.155.37/dr9445/h/h16/index.m3u8
 ID  SPOTV1&&http://202.150.161.68/spotv1/index.m3u8
 ID  SPOTV2&&http://202.150.161.68/spotv2/index.m3u8
 ID  tvN Movies&&http://210.210.155.37/dr9445/h/h21/index.m3u8
+|SHAHID| SHAHID LIVE&&https://shls-live-ak.akamaized.net/out/v1/8e2419c6c7494dbba478be025af490ee/index_1.m3u8
+|SHAHID| BOLLYWOOD CLASSIC&&https://shls-live-ak.akamaized.net/out/v1/485100a2150e4f69a338a5c99ca5648e/index_5.m3u8
+|SHAHID| WIFI&&https://shls-live-ak.akamaized.net/out/v1/22a1fb00da8a4b1fb15cbd70b8b59856/index_2.m3u8
+|SHAHID| BOLLYWOOD HD&&https://shls-live-ak.akamaized.net/out/v1/fb7b452f58f2412a9ae26b22dd30bd6b/index_2.m3u8
+|SHAHID| ALHOSN&&https://shls-live-ak.akamaized.net/out/v1/e09d6e88de95452fa5566a839ca5ed5c/index_9.m3u8
+|SHAHID| AFLAM&&https://shls-live-ak.akamaized.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index_2.m3u8
+|SHAHID| MOVIES&&https://shls-live-ak.akamaized.net/out/v1/90143f040feb40589d18c57863d9e829/index_2.m3u8
+|SHAHID| MOVIES THRILLER&&https://shls-live-ak.akamaized.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index_2.m3u8
+|SHAHID| MOVIES ACTION&&https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index_2.m3u8
+|SHAHID| RAMEZ&&https://shls-live-ak.akamaized.net/out/v1/ea4275b6dc0840c198c17f6dc6f1ec49/index_2.m3u8
+|SHAHID| AL KABEER AWI&&https://shls-live-ak.akamaized.net/out/v1/5f5de4f9efe24f758f1364dde5e2a45c/index_2.m3u8
+|SHAHID| TASH&&https://shls-live-ak.akamaized.net/out/v1/e34e3ac9d2534543a13b44c2b458b0c2/index_2.m3u8
+|SHAHID| AL ASOUF&&https://shls-live-ak.akamaized.net/out/v1/0afd546fcb5342f69d6bfff2dd1596e9/index_19.m3u8
+|SHAHID| AL LEABA&&https://shls-live-ak.akamaized.net/out/v1/d6e1fdee781f4506a6ac147fee5ba715/index_2.m3u8
+|SHAHID| BAB AL HARA&&https://shls-live-ak.akamaized.net/out/v1/948c54279b594944adde578c95f1d7d1/index_2.m3u8
+|SHAHID| MASRAH MASR&&https://shls-live-ak.akamaized.net/out/v1/8fae48b64942450cb5d60b3fb6910de0/index_2.m3u8
+|SHAHID| SELFIE&&https://shls-live-ak.akamaized.net/out/v1/2a0f4768f7fa42ed813674628b487e95/index_2.m3u8
+|SHAHID| NASER AL QASSABY&&https://shls-live-ak.akamaized.net/out/v1/20e003242d244710bfe9ca0fd2b94d00/index_2.m3u8
+|SHAHID| SPACETOON&&https://spacetoon-prod-dub-ak.akamaized.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index_2.m3u8
+|SHAHID| GULLI BIL ARABI&&https://gulli-bil-arabi-prod-dub-ak.akamaized.net/out/v1/5454d215afba410c90b233f400730958/index_2.m3u8
+|SHAHID| TIJI&&https://tiji-tv-prod-dub-ak.akamaized.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976/index_2.m3u8
+|SHAHID| FASHION TV&&https://mbc1-enc.edgenextcdn.net/out/v1/61474465407042c896d3d27685175891/index_3.m3u8
+|SHAHID| AL THAQAFEYA&&https://thaqafeyyah-ak.akamaized.net/out/v1/f6851f68ada94f82ae6b64a441eb5ab1/index_3.m3u8
+|SHAHID| ROYAA&&https://shls-live-ak.akamaized.net/out/v1/f1d7243984224a7e94bc34ff60d9fd53/index_14.m3u8
+|SHAHID| ALAAN TV&&https://shls-live-ak.akamaized.net/out/v1/dfbdea4c1bf149629764e58c6ff314c8/index_1.m3u8
+|SHAHID| TOP GEAR&&https://shls-live-ak.akamaized.net/out/v1/07a6ab2d57b2453a91bbdd2d46b5865a/index_2.m3u8
+|SHAHID| MARAYA&&https://shls-live-ak.akamaized.net/out/v1/a4a39d8e92e34b0780ca602270a59512/index_2.m3u8
+|SHAHID| RASHED AL-MAJED&&https://rashed-almajed-ak.akamaized.net/out/v1/77b0946130344d1388e5cd34afdcb772/index_19.m3u8
+|SHAHID| MUHAMMAD ABDO&&https://mohammed-abdou-ak.akamaized.net/out/v1/3b57275cf54747cda4cda03ecf146f92/index_19.m3u8
 INFO EVENTI&&00`d0039395.m3u8
 RAI ITALIA&&00`d0026060.m3u8
 RAI 1  4K HEVC H265&&00`d005322.m3u8
@@ -610,7 +632,6 @@ SUPER TENNIS HD&&00`d0019.m3u8
 KISS KISS NAPOLI TV&&00`d0040204.m3u8
 TOP PLANET &&00`d0033567.m3u8
 MOTOR TREND&&00`d00293.m3u8
-[S+]  SUPER TENNIS HD&&00`d0038694.m3u8
 [S+] SPORT ITALIA HD&&00`d0038695.m3u8
 [S+] MOTORTREND&&00`d0038959.m3u8
 MOTOR TV&&00`d0038303.m3u8
@@ -992,332 +1013,6 @@ ATP TENNIS PASS LIVE 2&&00`d0032758.m3u8
 ATP TENNIS PASS LIVE 3&&00`d0032759.m3u8
 ATP TENNIS PASS LIVE 4&&00`d0038392.m3u8
 ATP TENNIS PASS LIVE 5&&00`d0038393.m3u8
-LA - DEPORTES HD&&00`c0058573.m3u8
-US - 5 Star Max&&00`c0072614.m3u8
-US - ABC 13 KTRK HOUSTON&&00`c0072624.m3u8
-US - ABC Action News&&00`c0058468.m3u8
-US - ABC durham&&00`c0065848.m3u8
-US - ABC EAST&&00`c0072623.m3u8
-US - ABC Los Angeles&&00`c0065843.m3u8
-US - ABC Philadelphia&&00`c0065845.m3u8
-US - ABC San Francisco&&00`c0065844.m3u8
-US - ANTENNA TV&&00`c0059841.m3u8
-US - Baby First&&00`c0065662.m3u8
-US - Baby TV&&00`c0057175.m3u8
-US - BBC America&&00`c0065663.m3u8
-US - CARTOON NETWORK&&00`c0058484.m3u8
-US - CBS&&00`c0065675.m3u8
-US - CBS 12 Cincinnati&&00`c0072633.m3u8
-US - CBS 2 WBBM (Chicago)&&00`c0072631.m3u8
-US - CBS 8 Knoxville TN HD&&00`c0072630.m3u8
-US - CBS DALLAS TX KTVT&&00`c0072627.m3u8
-US - CBS Eleven Sports Network&&00`c0065734.m3u8
-US - CBS HARTFORD&&00`c0065730.m3u8
-US - CBS Jacksonville&&00`c0065746.m3u8
-US - CBS ORLANDO FL WKMG&&00`c0072629.m3u8
-US - CBS Pittsburgh&&00`c0065758.m3u8
-US - CBSN HD&&00`c0072632.m3u8
-US - CMT HD&&00`c0058498.m3u8
-US - CNBC HD&&00`c0058494.m3u8
-US - CW East Philadelphia UHD&&00`c0072616.m3u8
-US - CW11 (KSTW) Seattle&&00`c0072618.m3u8
-US - CW19 (WPCW) Pittsburgh&&00`c0072619.m3u8
-US - CW69 (WUPA) Atlanta&&00`c0072620.m3u8
-US - DAZN&&00`c0064732.m3u8
-US - DESTINATION AMERICA&&00`c0058473.m3u8
-US - E! Network HD&&00`c0058577.m3u8
-US - Eleven&&00`c0065680.m3u8
-US - Epix&&00`c0068723.m3u8
-US - EPIX DRIVE IN&&00`c0072617.m3u8
-US - Epix Hits&&00`c0068724.m3u8
-US - EPIX2&&00`c0072603.m3u8
-US - Espn News HD&&00`c0057189.m3u8
-US - Fight Network&&00`c0058503.m3u8
-US - Fox Altanta&&00`c0065688.m3u8
-US - FOX Green Bay&&00`c0065779.m3u8
-US - FOX LOS ANGELES CA KTTV&&00`c0065785.m3u8
-US - FOX Milwaukee&&00`c0065787.m3u8
-US - FOX Nashville&&00`c0065789.m3u8
-US - FOX New York&&00`c0065791.m3u8
-US - FOX Ocala&&00`c0065792.m3u8
-US - FOX Philadelphia&&00`c0065794.m3u8
-US - FOX Phoenix&&00`c0065795.m3u8
-US - FOX Pittsburgh&&00`c0065796.m3u8
-US - FOX Salt Lake City&&00`c0065798.m3u8
-US - FOX Soccer Plus HD&&00`c0058613.m3u8
-US - FOX SOCCER SUN HD&&00`c0058508.m3u8
-US - Fox Sports West&&00`c0065697.m3u8
-US - FS 2&&00`c0057182.m3u8
-US - Fubo Sports Network&&00`c0065712.m3u8
-US - FUSE&&00`c0065713.m3u8
-US - FX HD&&00`c0058511.m3u8
-US - FYI&&00`c0065687.m3u8
-US - GAME SHOW NETWORK&&00`c0059839.m3u8
-US - Game Show Network&&00`c0065717.m3u8
-US - Golf Channel&&00`c0065719.m3u8
-US - Got&&00`c0065720.m3u8
-US - Hallmark Channel&&00`c0057173.m3u8
-US - HBO EAST&&00`c0072613.m3u8
-US - HBO WEST&&00`c0072612.m3u8
-US - LIFETIME HD&&00`c0058585.m3u8
-US - Lifetime Movies&&00`c0059834.m3u8
-US - Moremax&&00`c0062768.m3u8
-US - MSG 2&&00`c0066785.m3u8
-US - MY50&&00`c0072622.m3u8
-US - Nat Geo Mundo&&00`c0057471.m3u8
-US - NBC Austin&&00`c0065728.m3u8
-US - NBC Boston&&00`c0065808.m3u8
-US - NBC Pittsburgh&&00`c0065833.m3u8
-US - NBC Raleigh&&00`c0065835.m3u8
-US - NBC Salt Lake City&&00`c0065837.m3u8
-US - NBCSN HD&&00`c0058596.m3u8
-US - NESN Boston&&00`c0057435.m3u8
-US - NESN HD&&00`c0058625.m3u8
-US - NFL Now&&00`c0058530.m3u8
-US - Nick Jr&&00`c0065657.m3u8
-US - RedBull TV&&00`c0066507.m3u8
-US - Retro Plex&&00`c0066786.m3u8
-US - SEC Network&&00`c0059846.m3u8
-US - Showtime East&&00`c0062747.m3u8
-US - SHOWTIME FAMILY ZONE&&00`c0072611.m3u8
-US - Showtime West&&00`c0062746.m3u8
-US - SHOWTIME WOMEN&&00`c0072610.m3u8
-US - Sportsman Channel&&00`c0066021.m3u8
-US - SPORTSNET PACIFIC&&00`c0058607.m3u8
-US - SPORTSNET WORLD&&00`c0058609.m3u8
-US - STARZ ENCORE ACTION&&00`c0067885.m3u8
-US - Starz Encore East&&00`c0058556.m3u8
-US - STARZ IN BLACK&&00`c0072609.m3u8
-US - Starz Kids & Family&&00`c0062729.m3u8
-US - Starz West&&00`c0058558.m3u8
-US - STARZENCORE ACTION&&00`c0072608.m3u8
-US - STARZENCORE CLASSIC&&00`c0072607.m3u8
-US - STARZENCORE FAMILY&&00`c0072606.m3u8
-US - STARZENCORE SUSPENSE&&00`c0072605.m3u8
-US - STARZENCORE WESTERNS&&00`c0072604.m3u8
-US - TCM&&00`c0057194.m3u8
-US - TNT HD&&00`c0058560.m3u8
-US - TUDN&&00`c0065653.m3u8
-US - TVG 2&&00`c0067329.m3u8
-US - Unimas Miami&&00`c0065644.m3u8
-US - Universal Kids&&00`c0065646.m3u8
-US - Univision Atlanta&&00`c0062682.m3u8
-US - Univision Dallas&&00`c0062680.m3u8
-US - Univision New York&&00`c0062678.m3u8
-US - US - CW_WTOG&&00`c0072615.m3u8
-US - VH1 Classic&&00`c0058569.m3u8
-USA - A&E HD&&00`c0058467.m3u8
-USA - ABC Kansas City&&00`c0065876.m3u8
-USA - ABC Milwaukee&&00`c0065877.m3u8
-USA - ABC New York&&00`c0065846.m3u8
-USA - ABC News&&00`c0058471.m3u8
-USA - ACC NETWORK&&00`c0060968.m3u8
-USA - Adult Swim&&00`c0058519.m3u8
-USA - AHC&&00`c0058597.m3u8
-USA - AMC HD&&00`c0057187.m3u8
-USA - AMC+&&00`c0058472.m3u8
-USA - American Heros&&00`c0058488.m3u8
-USA - ANIMAL PLANET&&00`c0058474.m3u8
-USA - ASPIRE TV | HD&&00`c0066075.m3u8
-USA - AXS TV&&00`c0062378.m3u8
-USA - BBC America HD&&00`c0057204.m3u8
-USA - Bein Sports English&&00`c0065664.m3u8
-USA - BEIN SPORTS US&&00`c0058476.m3u8
-USA - Bet Jams&&00`c0059832.m3u8
-USA - Bet Soul&&00`c0059833.m3u8
-USA - Big Ten Network HD&&00`c0058477.m3u8
-USA - Boomerang&&00`c0058610.m3u8
-USA - Bounce Tv&&00`c0058628.m3u8
-USA - Bravo HD&&00`c0058479.m3u8
-USA - Buzzer&&00`c0062374.m3u8
-USA - CAPITAL TV&&00`c0058483.m3u8
-USA - Cartoon Network Pacific&&00`c0057234.m3u8
-USA - CBS Atlanta&&00`c0065732.m3u8
-USA - CBS Baltimore&&00`c0065735.m3u8
-USA - CBS Boston&&00`c0065736.m3u8
-USA - CBS Charlotte&&00`c0065737.m3u8
-USA - CBS Chicago&&00`c0065738.m3u8
-USA - CBS Cleveland&&00`c0065739.m3u8
-USA - CBS Dallas&&00`c0065741.m3u8
-USA - CBS Denver&&00`c0065742.m3u8
-USA - CBS Detroit&&00`c0065743.m3u8
-USA - CBS HD&&00`c0058485.m3u8
-USA - CBS Houston&&00`c0065745.m3u8
-USA - CBS Kansas City&&00`c0065747.m3u8
-USA - CBS Los Angeles&&00`c0065748.m3u8
-USA - CBS Miami&&00`c0065749.m3u8
-USA - CBS Milwaukee&&00`c0065751.m3u8
-USA - CBS Minneapolis&&00`c0065750.m3u8
-USA - CBS Nashville&&00`c0065752.m3u8
-USA - CBS New Orleans&&00`c0065753.m3u8
-USA - CBS New York&&00`c0065674.m3u8
-USA - CBS News&&00`c0058486.m3u8
-USA - CBS Orlando&&00`c0065755.m3u8
-USA - CBS Philadelphia&&00`c0065756.m3u8
-USA - CBS Phoenix&&00`c0065757.m3u8
-USA - CBS Sacramento&&00`c0065759.m3u8
-USA - CBS San Antonio&&00`c0065760.m3u8
-USA - CBS San Diego&&00`c0065761.m3u8
-USA - CBS San Francisco&&00`c0065762.m3u8
-USA - CBS Seattle&&00`c0065763.m3u8
-USA - CBS Sports Network&&00`c0057209.m3u8
-USA - CBS St Louis&&00`c0065764.m3u8
-USA - CBS Washington&&00`c0065766.m3u8
-USA - Cheddar&&00`c0057503.m3u8
-USA - Cinemax West&&00`c0057211.m3u8
-USA - CNBC HD&&00`c0057212.m3u8
-USA - CNN&&00`c0057214.m3u8
-USA - COMEDY CENTRAL&&00`c0058496.m3u8
-USA - Cozi TV&&00`c0057216.m3u8
-USA - CW HD&&00`c0058506.m3u8
-USA - DESTINATION AMERICA HD&&00`c0057418.m3u8
-USA - Discovery Channel&&00`c0057409.m3u8
-USA - Discovery Family&&00`c0057408.m3u8
-USA - Discovery Life&&00`c0057410.m3u8
-USA - Discovery TLC&&00`c0057416.m3u8
-USA - Discovery Velocity&&00`c0057419.m3u8
-USA - Disney Channel&&00`c0057183.m3u8
-USA - Disney JR&&00`c0057516.m3u8
-USA - DISNEY JR HD&&00`c0058576.m3u8
-USA - Disney XD&&00`c0057232.m3u8
-USA - Diy&&00`c0057382.m3u8
-USA - Eleven Sport&&00`c0059840.m3u8
-USA - ESPN 2&&00`c0057222.m3u8
-USA - ESPN 2 HD&&00`c0058500.m3u8
-USA - ESPN NEWS&&00`c0058502.m3u8
-USA - Fishing Network&&00`c0058489.m3u8
-USA - FOOD NETWORK&&00`c0058578.m3u8
-USA - FOOD NETWORK HD&&00`c0057229.m3u8
-USA - FOX Atlanta&&00`c0065767.m3u8
-USA - FOX Austin&&00`c0065768.m3u8
-USA - FOX Boston&&00`c0065771.m3u8
-USA - FOX Buffalo&&00`c0065772.m3u8
-USA - FOX Chicago&&00`c0065773.m3u8
-USA - FOX Columbus&&00`c0065776.m3u8
-USA - FOX Denver&&00`c0065777.m3u8
-USA - FOX Detroit&&00`c0065778.m3u8
-USA - FOX Jacksonville&&00`c0065783.m3u8
-USA - FOX Miami&&00`c0065786.m3u8
-USA - FOX Minneapolis&&00`c0065788.m3u8
-USA - FOX New Orleans&&00`c0065790.m3u8
-USA - FOX Orlando&&00`c0065793.m3u8
-USA - FOX Sacramento&&00`c0065797.m3u8
-USA - FOX San Diego&&00`c0065800.m3u8
-USA - FOX San Francisco&&00`c0065801.m3u8
-USA - Fox Soccer Plus&&00`c0057443.m3u8
-USA - FOX SPORTS ARIZONA | HD&&00`c0066040.m3u8
-USA - FOX SPORTS Detroit&&00`c0058579.m3u8
-USA - FOX SPORTS FLORIDA | HD&&00`c0066044.m3u8
-USA - FOX SPORTS HOUSTON | HD&&00`c0066045.m3u8
-USA - FOX SPORTS NORTH CAROLINA | HD&&00`c0066041.m3u8
-USA - FOX SPORTS OKLAHOMA | HD&&00`c0066065.m3u8
-USA - FOX SPORTS PRIME TICKET | HD&&00`c0066051.m3u8
-USA - FOX Sports San Diego&&00`c0057452.m3u8
-USA - Fox Sports South&&00`c0065895.m3u8
-USA - FOX SPORTS SOUTHWEST PLUS | HD&&00`c0066054.m3u8
-USA - FOX SPORTS SPORTSTIME OHIO | HD&&00`c0066056.m3u8
-USA - FOX SPORTS SUN | HD&&00`c0066058.m3u8
-USA - FOX SPORTS TWO HD&&00`c0058510.m3u8
-USA - FOX SPORTS WEST | HD&&00`c0066059.m3u8
-USA - Freeform&&00`c0057202.m3u8
-USA - FreeForm&&00`c0062375.m3u8
-USA - Freeform HD&&00`c0057462.m3u8
-USA - FS 1&&00`c0057181.m3u8
-USA - FX HD&&00`c0057385.m3u8
-USA - FXM HD&&00`c0057386.m3u8
-USA - Ginxsports&&00`c0065718.m3u8
-USA - GRIT TV&&00`c0060060.m3u8
-USA - GSN TV&&00`c0058512.m3u8
-USA - Hallmark Drama&&00`c0057508.m3u8
-USA - Hallmark Drama&&00`c0065723.m3u8
-USA - HBO&&00`c0057235.m3u8
-USA - HBO COMEDY HD&&00`c0058514.m3u8
-USA - HBO SIGNATURE&&00`c0058517.m3u8
-USA - HGTV&&00`c0057480.m3u8
-USA - HISTORY HD&&00`c0058518.m3u8
-USA - HLN HD&&00`c0057437.m3u8
-USA - IFC&&00`c0057509.m3u8
-USA - INSP TV&&00`c0059844.m3u8
-USA - Investigation Discovery HD&&00`c0057412.m3u8
-USA - ION TV&&00`c0058629.m3u8
-USA - Lifetime&&00`c0065729.m3u8
-USA - MSG&&00`c0059835.m3u8
-USA - MTV HD&&00`c0058588.m3u8
-USA - MTV LIVE HD&&00`c0058589.m3u8
-USA - NASA TV HD&&00`c0058591.m3u8
-USA - Nat Geo&&00`c0057470.m3u8
-USA - NAT GEO HD&&00`c0058592.m3u8
-USA - NBC Atlanta&&00`c0065806.m3u8
-USA - NBC Baltimore&&00`c0065807.m3u8
-USA - NBC Cincinnati&&00`c0065812.m3u8
-USA - NBC Dallas&&00`c0065814.m3u8
-USA - NBC Denver&&00`c0065815.m3u8
-USA - NBC Detroit&&00`c0065816.m3u8
-USA - NBC GOLF&&00`c0058594.m3u8
-USA - NBC Hartford&&00`c0065818.m3u8
-USA - NBC HD&&00`c0058595.m3u8
-USA - NBC Indianapolis&&00`c0065820.m3u8
-USA - NBC Los Angeles&&00`c0065823.m3u8
-USA - NBC Miami&&00`c0065824.m3u8
-USA - NBC Milwaukee&&00`c0065825.m3u8
-USA - NBC Nashville&&00`c0065827.m3u8
-USA - NBC New York&&00`c0065829.m3u8
-USA - NBC Philadelphia&&00`c0065831.m3u8
-USA - NBC Phoenix&&00`c0065832.m3u8
-USA - NBC Portland&&00`c0065834.m3u8
-USA - NBC Sports NorthWest&&00`c0057467.m3u8
-USA - NBC St Louis&&00`c0065841.m3u8
-USA - NBC Washington&&00`c0065842.m3u8
-USA - NFL Network HD&&00`c0058598.m3u8
-USA - NHL NETWORK&&00`c0058533.m3u8
-USA - NICKELODEON&&00`c0058535.m3u8
-USA - Nickelodeon&&00`c0065652.m3u8
-USA - NICKTOONS&&00`c0058536.m3u8
-USA - OUTDOOR CHANNEL&&00`c0059836.m3u8
-USA - OWN HD&&00`c0058538.m3u8
-USA - PBS Kids&&00`c0058539.m3u8
-USA - Showtime Pacific HD&&00`c0058547.m3u8
-USA - Smithsonian Channel&&00`c0057513.m3u8
-USA - SPIKE TV&&00`c0058551.m3u8
-USA - SPORTSNET 360&&00`c0058603.m3u8
-USA - SPORTSNET EAST&&00`c0058604.m3u8
-USA - SPORTSNET ONE&&00`c0058605.m3u8
-USA - SPORTSNET ONTARIO&&00`c0058606.m3u8
-USA - SPORTSNET WEST&&00`c0058608.m3u8
-USA - Starz Cinema&&00`c0058552.m3u8
-USA - Starz East&&00`c0058554.m3u8
-USA - Starz Encore HD&&00`c0058557.m3u8
-USA - TBS&&00`c0057429.m3u8
-USA - TBS HD&&00`c0058601.m3u8
-USA - Telemundo Boston&&00`c0065879.m3u8
-USA - Telemundo Chicago&&00`c0065880.m3u8
-USA - Telemundo Dallas&&00`c0065881.m3u8
-USA - Telemundo Fresno&&00`c0065883.m3u8
-USA - Telemundo Houston&&00`c0065885.m3u8
-USA - Telemundo Los Angeles&&00`c0065887.m3u8
-USA - Telemundo Miami&&00`c0065888.m3u8
-USA - Telemundo Phoenix&&00`c0065891.m3u8
-USA - Telemundo Tucson&&00`c0065894.m3u8
-USA - The Weather Channel&&00`c0058562.m3u8
-USA - TLC&&00`c0058563.m3u8
-USA - TNT Pacific&&00`c0057198.m3u8
-USA - TRU TV&&00`c0058566.m3u8
-USA - TSN 1&&00`c0061554.m3u8
-USA - TSN 2&&00`c0061555.m3u8
-USA - TSN 3&&00`c0061556.m3u8
-USA - TSN 4&&00`c0061557.m3u8
-USA - TV LAND&&00`c0058581.m3u8
-USA - TV ONE&&00`c0060972.m3u8
-USA - Univision&&00`c0058627.m3u8
-USA - VH1&&00`c0058602.m3u8
-USA - WE TV&&00`c0059845.m3u8
-USA - We TV HD&&00`c0057192.m3u8
-USA - WGN America&&00`c0058493.m3u8
-USA - WGN America&&00`c0061361.m3u8
-USA - World Fishing Network&&00`c0062377.m3u8
-USA - WWE Network&&00`c0058571.m3u8
-USA - YES HD&&00`c0058626.m3u8
-USA- TENNIS HD&&00`c0058561.m3u8
 [REG] 111 Tv&&00`d0039883.m3u8
 [REG] 12 Tv Parma&&00`d0039884.m3u8
 [REG] 696 Tv&&00`d0039885.m3u8
