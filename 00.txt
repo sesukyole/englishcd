@@ -75,9 +75,6 @@ beIN Sports TV 2&&https://cors-proxy.elfsight.com/https://edge1.laotv.la/live/Bs
 V Sports 1&&https://live-aws-scalstrm-cdn.rikstv.no/live/rikstv/644bb6e91dbc891fd422efc9/manifest.mpd``4d808f2b9a74536cadbd95be141888ed:9dd89f67b8885dc65721a8b1fbeae700
 V Sports 2&&https://live-aws-scalstrm-cdn.rikstv.no/live/rikstv/644bb6e91dbc891fd422efef/manifest.mpd``0d3ff38c34985fdd81a37567646322b9:6b4504297769acefae2e50920b7c8a77
 V Sports 3&&https://live-aws-scalstrm-cdn.rikstv.no/live/rikstv/644bb6ea1dbc891fd422f01e/manifest.mpd``fdcb8ee4623458e5832a92801fc723b1:634a67c44b7b7030872043df95c1a55e
-ViaPlay Sports 1&&https://cors-proxy.elfsight.com/https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/vpsports1uk/vpsports1uk.isml/index.mpd``4d4ace310f235981bef56897fe94e766:06383cd4cdcc92bb3e83d8ea49245472
-ViaPlay Sports 2&&https://cors-proxy.elfsight.com/https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/vpsports2uk/vpsports2uk.isml/index.mpd``6fe6d9cf50835945881cb56a38839fce:213ad868126fd2cb352b189b07b25421
-ViaPlay Sports Premium&&https://cors-proxy.elfsight.com/https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/vssp/vssp.isml/index.mpd``d8d0506523d95fc082d6caef60e84979:69992fd2d7b9211d41ecc2243803e87c
 True Premier Football 1&&https://cors-proxy.elfsight.com/https://edge1.laotv.la/live/TSport1/sc-gaFECQ/v1/manifest.mpd
 True Premier Football 2&&https://cors-proxy.elfsight.com/https://edge1.laotv.la/live/TSport2/sc-gaFECQ/v1/manifest.mpd
 True Sports 1&&https://cors-proxy.elfsight.com/https://edge1.laotv.la/live/TrueSport6/manifest.mpd
