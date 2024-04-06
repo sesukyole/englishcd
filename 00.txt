@@ -81,6 +81,7 @@ True Sports 1&&https://cors-proxy.elfsight.com/https://edge1.laotv.la/live/TrueS
 True Sports 2&&https://cors-proxy.elfsight.com/https://edge1.laotv.la/live/TrueSport2/manifest.mpd
 True Sports 3&&https://cors-proxy.elfsight.com/https://edge1.laotv.la/live/TrueSport3/manifest.mpd
 True Sports 7&&https://cors-proxy.elfsight.com/https://edge1.laotv.la/live/THD7/manifest.mpd
+TyC Sports&&https://bvsat02.cdn.rcs.net.ar/mnp/tyc/output.mpd
 ESPN 1&&https://bvsat02.cdn.rcs.net.ar/mnp/espn/output.mpd
 ESPN 2&&https://bvsat02.cdn.rcs.net.ar/mnp/espn2/output.mpd
 ESPN 3&&https://bvsat02.cdn.rcs.net.ar/mnp/espn3/output.mpd
