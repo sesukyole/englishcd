@@ -69,22 +69,21 @@ UK  MUTV&&https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-w
 SportItalia&&https://di-j16ei4yq.vo.lswcdn.net/sportitalia/smil:sihd.smil/chunklist.m3u8
 Tennis Channel 1&&https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 Tennis Channel 2&&https://d3qg0hadt0dkov.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3sfgyrfz9zduo-prod/7a7b571f-5fd4-446f-96a2-f8f7b90e19fe/3.m3u8
-Afro Sports&&https://newproxy3.vidivu.tv/vidivu_afrosport/index.m3u8
 Sport en France&&https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
-beIN Sports TV 1&&https://cors-proxy.cluster.fun/https://edge1.laotv.la/live/Bsport1/manifest.mpd
-beIN Sports TV 2&&https://cors-proxy.cluster.fun/https://edge1.laotv.la/live/Bsport2/manifest.mpd
+beIN Sports TV 1&&https://cors-proxy.elfsight.com/https://edge1.laotv.la/live/Bsport1/manifest.mpd
+beIN Sports TV 2&&https://cors-proxy.elfsight.com/https://edge1.laotv.la/live/Bsport2/manifest.mpd
 V Sports 1&&https://live-aws-scalstrm-cdn.rikstv.no/live/rikstv/644bb6e91dbc891fd422efc9/manifest.mpd``4d808f2b9a74536cadbd95be141888ed:9dd89f67b8885dc65721a8b1fbeae700
 V Sports 2&&https://live-aws-scalstrm-cdn.rikstv.no/live/rikstv/644bb6e91dbc891fd422efef/manifest.mpd``0d3ff38c34985fdd81a37567646322b9:6b4504297769acefae2e50920b7c8a77
 V Sports 3&&https://live-aws-scalstrm-cdn.rikstv.no/live/rikstv/644bb6ea1dbc891fd422f01e/manifest.mpd``fdcb8ee4623458e5832a92801fc723b1:634a67c44b7b7030872043df95c1a55e
-ViaPlay Sports 1&&https://cors-proxy.cluster.fun/https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/vpsports1uk/vpsports1uk.isml/index.mpd``4d4ace310f235981bef56897fe94e766:06383cd4cdcc92bb3e83d8ea49245472
-ViaPlay Sports 2&&https://cors-proxy.cluster.fun/https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/vpsports2uk/vpsports2uk.isml/index.mpd``6fe6d9cf50835945881cb56a38839fce:213ad868126fd2cb352b189b07b25421
-ViaPlay Sports Premium&&https://cors-proxy.cluster.fun/https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/vssp/vssp.isml/index.mpd``d8d0506523d95fc082d6caef60e84979:69992fd2d7b9211d41ecc2243803e87c
-True Premier Football 1&&https://cors-proxy.cluster.fun/https://edge1.laotv.la/live/TSport1/sc-gaFECQ/v1/manifest.mpd
-True Premier Football 2&&https://cors-proxy.cluster.fun/https://edge1.laotv.la/live/TSport2/sc-gaFECQ/v1/manifest.mpd
-True Sports 1&&https://cors-proxy.cluster.fun/https://edge1.laotv.la/live/TrueSport6/manifest.mpd
-True Sports 2&&https://cors-proxy.cluster.fun/https://edge1.laotv.la/live/TrueSport2/manifest.mpd
-True Sports 3&&https://cors-proxy.cluster.fun/https://edge1.laotv.la/live/TrueSport3/manifest.mpd
-True Sports 7&&https://cors-proxy.cluster.fun/https://edge1.laotv.la/live/THD7/manifest.mpd
+ViaPlay Sports 1&&https://cors-proxy.elfsight.com/https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/vpsports1uk/vpsports1uk.isml/index.mpd``4d4ace310f235981bef56897fe94e766:06383cd4cdcc92bb3e83d8ea49245472
+ViaPlay Sports 2&&https://cors-proxy.elfsight.com/https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/vpsports2uk/vpsports2uk.isml/index.mpd``6fe6d9cf50835945881cb56a38839fce:213ad868126fd2cb352b189b07b25421
+ViaPlay Sports Premium&&https://cors-proxy.elfsight.com/https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/vssp/vssp.isml/index.mpd``d8d0506523d95fc082d6caef60e84979:69992fd2d7b9211d41ecc2243803e87c
+True Premier Football 1&&https://cors-proxy.elfsight.com/https://edge1.laotv.la/live/TSport1/sc-gaFECQ/v1/manifest.mpd
+True Premier Football 2&&https://cors-proxy.elfsight.com/https://edge1.laotv.la/live/TSport2/sc-gaFECQ/v1/manifest.mpd
+True Sports 1&&https://cors-proxy.elfsight.com/https://edge1.laotv.la/live/TrueSport6/manifest.mpd
+True Sports 2&&https://cors-proxy.elfsight.com/https://edge1.laotv.la/live/TrueSport2/manifest.mpd
+True Sports 3&&https://cors-proxy.elfsight.com/https://edge1.laotv.la/live/TrueSport3/manifest.mpd
+True Sports 7&&https://cors-proxy.elfsight.com/https://edge1.laotv.la/live/THD7/manifest.mpd
 ESPN 1&&https://bvsat02.cdn.rcs.net.ar/mnp/espn/output.mpd
 ESPN 2&&https://bvsat02.cdn.rcs.net.ar/mnp/espn2/output.mpd
 ESPN 3&&https://bvsat02.cdn.rcs.net.ar/mnp/espn3/output.mpd
@@ -98,7 +97,6 @@ Fox Sports 1&&https://bvsat02.cdn.rcs.net.ar/mnp/fox_sport/output.mpd
 Fox Sports 2&&https://bvsat02.cdn.rcs.net.ar/mnp/fox_sport2/output.mpd
 Fox Sports 3&&https://bvsat02.cdn.rcs.net.ar/mnp/fox_sport3/output.mpd
 Fox Deportes&&https://linear.stvacdn.spectrum.com/LIVE/1106/dash/cenc/FXDEPHD/manifest.mpd``c9231d5e7a99429382e6a5c2e588e141:ca08ab407ab9393a814d720f1f41c6cf
-TyC Sports&&https://edge-live15-hr.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_Live_dash_enc/TyC_Internacional.mpd``58e1ebe75d944f6a98ea67b1c7c0a572:1c311b069dbce31ce8e62a6e7e2433eb
 TUDN&&https://linear.stvacdn.spectrum.com/LIVE/1131/dash/cenc/TUDNUH_8283/manifest.mpd``85c8956b207c44a693d89984803c908b:8d8ff21c464506ef396356dd761f5ccd
 Sky Open&&https://linear-p.media.skyone.co.nz/primeplus1.clear.m3u8
 Premier Sports 1&&https://linear001-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_30/Live/channel(premiersports1)/manifest_720.mpd``00052a8b8b89655fe5c72f61970fc45b:0aa687336a8329962a9affd5af46300c
@@ -238,7 +236,7 @@ Ziggo Sport&&https://carmeltv.live/EXCHANGEukmed/QHZ5pjF7UdKx/53710.m3u8
 Badminton Court 1&&`0https://www.youtube.com/embed/BKLakc-QLkA?si=9n4dfRCHtEsJjrAG
 Badminton Court 3&&`0https://www.youtube.com/embed/SPwE__nt4iE?si=QLYU-a4pTtdmxqUo
 Badminton Court 4&&`0https://www.youtube.com/embed/jgLCuQ6dNL0?si=PeRCLwTMuON8e2LT
-Badminton Court 2&&`0https://www.youtube.com/embed/asj4o7zyQ9Y?si=HECmzmp76RZ4cq3r
+Badminton Court 2&&`0https://www.youtube.com/embed/pY4hwfO8acE?si=qgN9wAeNOf74gRvR
 MY  Premier League&&`0https://go.now.net.eu.org/yos512/lol/live?embed=bein4my&type=m
 MY  Astro SuperSport 2&&`0https://go.now.net.eu.org/yos512/lol/live?embed=assp2&type=m
 MY  Astro SuperSport 4&&`0https://go.now.net.eu.org/yos512/lol/live?embed=assp4&type=m
