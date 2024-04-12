@@ -20,8 +20,6 @@ beIN Sports 5&&https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0005/DASH/S
 beIN Sports 6&&https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0006/DASH/S0006.mpd``ceac4607562049abb9d1b0309d9cd6f3:d396d277a364fab00d0193d25b700847
 beIN Sports 7&&https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0007/DASH/S0007.mpd``94a28a75b3891e92a97efbe76f941095:7b39cd0e318ee481b98c36a125c540fb
 beIN Sports Extra&&https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df975e2b27cf5000921c102/master.m3u8?c&deviceType=0&deviceMake=0&deviceModel=0&deviceVersion=0&appVersion=0&deviceLat=0&deviceLon=0&deviceDNT=0&deviceId=0&advertisingId=0&us_privacy=0&samsung_app_domain=0&samsung_app_name=0&profileLimit=&profileFloor=&embedPartner=0
-beIN Sports TV 1&&https://cors-proxy.elfsight.com/https://edge1.laotv.la/live/Bsport1/manifest.mpd
-beIN Sports TV 2&&https://cors-proxy.elfsight.com/https://edge1.laotv.la/live/Bsport2/manifest.mpd
 BR  BandSports&&https://0055-jbc.dtvott.com/dash_live_0054/manifest.mpd``bd1af42db82f5a17a0d75246f25f5201:a9edd4e2c410923e9cbcb261102e5008
 CR  Tigo Sports&&https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
 DAZN F1&&01`01a1601`01b
@@ -166,12 +164,6 @@ TNT Sports 3&&https://cors-proxy.elfsight.com/ottb.live.cf.ww.aiv-cdn.net/lhr-ni
 TNT Sports 4&&https://cors-proxy.elfsight.com/ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd``e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729
 TNT Sports 5&&https://cors-proxy.elfsight.com/ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/gesdwrdncn/out/v1/79e752f1eccd4e18b6a8904a0bc01f2d/cenc.mpd``60c0d9b41475e01db4ffb91ed557fbcc:36ee40e58948ca15e3caba8d47b8f34b
 TR  Galatasaray TV&&https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist.m3u8
-True Premier Football 1&&https://cors-proxy.elfsight.com/https://edge1.laotv.la/live/TSport1/sc-gaFECQ/v1/manifest.mpd
-True Premier Football 2&&https://cors-proxy.elfsight.com/https://edge1.laotv.la/live/TSport2/sc-gaFECQ/v1/manifest.mpd
-True Sports 1&&https://cors-proxy.elfsight.com/https://edge1.laotv.la/live/TrueSport6/manifest.mpd
-True Sports 2&&https://cors-proxy.elfsight.com/https://edge1.laotv.la/live/TrueSport2/manifest.mpd
-True Sports 3&&https://cors-proxy.elfsight.com/https://edge1.laotv.la/live/TrueSport3/manifest.mpd
-True Sports 7&&https://cors-proxy.elfsight.com/https://edge1.laotv.la/live/THD7/manifest.mpd
 TSN 1&&https://live-ctv.video.9c9media.com/f/TSN/TSN1/manifest.mpd``dea83ced0141424e983e1afe463b4b0d:c00dd5dd17b0799aa4013f365a1393ce
 TSN 2&&https://live-ctv.video.9c9media.com/f/TSN/TSN2/manifest.mpd``ddc52c88e2c24d38a5bc8dda8a2acb61:ad5ea485464a13eec7dda3249c556446
 TSN 3&&https://live-ctv.video.9c9media.com/f/TSN/TSN3/manifest.mpd``c0f378ad54e14a9c85a3d8c986d2a51f:5e1d040743ff78715e464ffb905e68a9
@@ -187,7 +179,6 @@ V Sports 1&&https://live-aws-scalstrm-cdn.rikstv.no/live/rikstv/644bb6e91dbc891f
 V Sports 2&&https://live-aws-scalstrm-cdn.rikstv.no/live/rikstv/644bb6e91dbc891fd422efef/manifest.mpd``0d3ff38c34985fdd81a37567646322b9:6b4504297769acefae2e50920b7c8a77
 V Sports 3&&https://live-aws-scalstrm-cdn.rikstv.no/live/rikstv/644bb6ea1dbc891fd422f01e/manifest.mpd``fdcb8ee4623458e5832a92801fc723b1:634a67c44b7b7030872043df95c1a55e
 WWE&&https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc106wh3yw)/master.mpd``00208c93f4358213b52220898b962385:8ae6063167228e350dd132d4a1573102
-Ziggo Sport&&https://carmeltv.live/EXCHANGEukmed/QHZ5pjF7UdKx/53710.m3u8
 Ziggo Tennis&&https://carmeltv.live/EXCHANGEukmed/QHZ5pjF7UdKx/53711.m3u8
 BE  Eleven Sports EPL&&`0https://go.now.net.eu.org/yos512/live?embed=epl1be&type=m
 FR  beIN Sports 1&&`0https://go.now.net.eu.org/yos512/live?embed=bein1fr&type=m
@@ -245,3 +236,12 @@ PL  Eleven Sports 1&&`0https://live.sportsnews.id/p/eleven1.html
 PL  Eleven Sports 2&&`0https://live.sportsnews.id/p/eleven2.html
 PL  Eleven Sports 4&&`0https://live.sportsnews.id/p/eleven4.html
 PL  Eleven Sports 3&&`0https://live.sportsnews.id/p/eleven3.html
+beIN Sports TV 1&&https://cors-proxy.elfsight.com/https://edge1.laotv.la/live/Bsport1/manifest.mpd
+beIN Sports TV 2&&https://cors-proxy.elfsight.com/https://edge1.laotv.la/live/Bsport2/manifest.mpd
+True Premier Football 1&&https://cors-proxy.elfsight.com/https://edge1.laotv.la/live/TSport1/sc-gaFECQ/v1/manifest.mpd
+True Premier Football 2&&https://cors-proxy.elfsight.com/https://edge1.laotv.la/live/TSport2/sc-gaFECQ/v1/manifest.mpd
+True Sports 1&&https://cors-proxy.elfsight.com/https://edge1.laotv.la/live/TrueSport6/manifest.mpd
+True Sports 2&&https://cors-proxy.elfsight.com/https://edge1.laotv.la/live/TrueSport2/manifest.mpd
+True Sports 3&&https://cors-proxy.elfsight.com/https://edge1.laotv.la/live/TrueSport3/manifest.mpd
+True Sports 7&&https://cors-proxy.elfsight.com/https://edge1.laotv.la/live/THD7/manifest.mpd
+Ziggo Sport&&https://carmeltv.live/EXCHANGEukmed/QHZ5pjF7UdKx/53710.m3u8
