@@ -31,6 +31,8 @@ UK  Arena Premium Liga 🇬🇧ᴴᴰ&&http://91.132.74.4:7374/play/a00k/index.m
 UK  Automoto 🇬🇧&&http://100automoto.tv:1935/bgtv1/autotv/chunklist_w783411174.m3u8
 UK  BBC First 🇬🇧🇵🇱&&http://124.29.225.205:8000/play/a05f/index.m3u8
 UK  BBC News 🇬🇧&&http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/545/19176/index.m3u8
+US&Flix&&http://89.187.177.137:8081/%26FLIX/index.m3u8
+US&Prive&&http://89.187.177.137:8081/%26PRIVE/index.m3u8
 US  Bosi Golf 🇨🇳&&http://198.16.100.90:8278/bosigolf1_twn/playlist.m3u8?tid=MD5D3832704238327042&ct=18393&tsum=cbf3bf749c9b0bf4828ab19efff1c5b0
 US  CineMaxᴴᴰ 🇺🇸&&http://170.254.18.106/CINEMAX/index.m3u8
 US  DW 🇺🇸&&http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDIxIDEyOjQ3OjU3IFBNJmhhc2hfdmFsdWU9ZkJ0QTd3enJhWUtYSGsrZHFieUZodz09JnZhbGlkbWludXRlcz00ODA=
@@ -146,6 +148,7 @@ ID  Bandung TV&&http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
 ID  Batu TV&&http://117.103.69.219:8080/live/streaming/index.m3u8
 ID  BNTV&&http://210.210.155.35/uq2663/h/h39/index.m3u8
 ID  DFC Dens Food Channel&&http://210.210.155.35/x6bnqe/s/s50/live.m3u8
+ID  Jek TV&&http://61.8.64.138:1935/jektv/myStream/playlist.m3u8
 ID  Jogja Istimewa TV&&http://103.255.15.222:1935/tv/jitv/playlist.m3u8
 ID  Magna Channel&&http://210.210.155.35/uq2663/h/h24/index.m3u8
 ID  Metro Globe Network&&http://210.210.155.35/uq2663/h/h35/index.m3u8
@@ -162,7 +165,6 @@ ID  SCTV&&http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 ID  TVOne&&http://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
 ID  TVRI&&http://op-group1-swiftservehd-1.dens.tv/h/h237/02.m3u8
 ID  BBC News Asia Pacific&&http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
-ID  Kanal 10 Asia&&http://cdn-kanal10.crossnet.net:1935/kanal10/kanal10asia/playlist.m3u8
 ID  K+&&http://210.210.155.37/uq2663/h/h08/index.m3u8
 ID  Kix&&http://210.210.155.37/dr9445/h/h07/index.m3u8
 ID  My Cinema&&http://210.210.155.37/uq2663/h/h192/index.m3u8
