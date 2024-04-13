@@ -17,6 +17,32 @@ beIN Sports 5&&https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0005/DASH/S
 beIN Sports 6&&https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0006/DASH/S0006.mpd``ceac4607562049abb9d1b0309d9cd6f3:d396d277a364fab00d0193d25b700847
 beIN Sports 7&&https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0007/DASH/S0007.mpd``94a28a75b3891e92a97efbe76f941095:7b39cd0e318ee481b98c36a125c540fb
 beIN Sports Extra&&https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df975e2b27cf5000921c102/master.m3u8?c&deviceType=0&deviceMake=0&deviceModel=0&deviceVersion=0&appVersion=0&deviceLat=0&deviceLon=0&deviceDNT=0&deviceId=0&advertisingId=0&us_privacy=0&samsung_app_domain=0&samsung_app_name=0&profileLimit=&profileFloor=&embedPartner=0
+Sky Sports Action&&https://linear018-gb-dash1-prd-ll.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skysportsaction)/manifest_720.mpd``0003b57625e371b38e5bc521c31c8b73:a0ae6a685272e8a04487b9fec0f38665
+Sky Sports Arena&&https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/31024/FHD/skysportarena/master.mpd``00364ee1c777f44a74e4df12f3095503:77dee68a39366663755beb8fa62dcc1e
+Sky Sports Calcio&&https://linear302-it-dash1-prd-ll.cdn13.skycdp.com/31209/FHD/skysportseriea/master.mpd``0036e5d0e88dfb087f1791da6150ced9:0bc653d830837dceb13bd17169f0f8e2
+Sky Sports Cricket&&https://linear014-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skysportscricket)/manifest_720.mpd``000543c0dc49b43c0e816c2a404249de:836c311dd132a49dbed1049d92800304
+Sky Sports F1&&https://linear034-gb-dash1-prd-ll.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skysportsf1)/manifest_720.mpd``0005b57b9b4712e29641ac981ba8d3c2:ca13cdd1b96bf1877d2c7ad9ee37d52e
+Sky Sports Football&&https://linear014-gb-dash1-prd-ll.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skysportsfootball)/manifest_720.mpd``0005598a4d0f91328444c6fcdea04acb:ab03caec7a18da1fa6a8f306d91715a1
+Sky Sports Golf&&https://linear018-gb-dash1-prd-ll.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skysportsgolf)/manifest_720.mpd``000506039e623144c5d5185b2abab5f1:1d9d6af28efaf8e835c66979004798e8
+Sky Sports Main Event&&https://linear011-gb-dash1-prd-ll.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skysportsmainevent)/manifest_720.mpd``0005fad32eb7fe7f488093e851d71c5f:6342118978914afbc5fec26e93168b64
+Sky Sports Max&&https://linear305-it-dash1-prd-ll.cdn13.skycdp.com/31248/FHD/skysportmax/master.mpd``0036ae9248d939e4e1cd2198d2593a42:efc6699e1756403916b0280ea63f4c28
+Sky Sports Mix&&https://linear018-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skysportsmix)/manifest_720.mpd``00052def539f4c65b1ddeb5ea4ea9003:4af118364d041875a8137c5839381cce
+Sky Sports MotoGP&&https://cors-proxy.elfsight.com/linear306-it-dash1-prd.selector.skycdn.it/31483/FHD/skysportmotogp/master.mpd``0036ea2e908d4cc20ef08595da9ff991:08e1ae9fa0ee4d9ec2b194c4908613ae
+Sky Sports NBA&&https://cors-proxy.elfsight.com/linear301-it-dash1-prd.selector.skycdn.it/31764/FHD/skysportnba/master_stereo.mpd``0036c4e453ae2a044f4c861ed73b560a:ea5626c0aa092c382ca58151b5f4b208
+Sky Sports Premier League&&https://linear015-gb-dash1-prd-ll.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skysportspremierleague)/manifest_720.mpd``0005f05c21a77f9475e05b177e70111a:ca009f546f9348a3659d877e3f67ee19
+Sky Sports Racing&&https://linear013-gb-dash1-prd-ll.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skysportsracing)/manifest_720.mpd``0005a8a51c6828dce3b85b65e62a15f6:aac8ca91db8dabf7df9393a41ff0758a
+Sky Sports Tennis&&https://linear014-gb-dash1-prd-ll.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skysportstennis)/manifest_720.mpd``00031e6287c6dcf1a92cc7450d43f9b8:1ca909f079b6732c00d65f59d19b8d46
+Sky Sports Uno&&https://linear301-it-dash1-prd-ll.cdn13.skycdp.com/31023/FHD/skysportuno/master_stereo.mpd``00362452ed102000ccea64c311921dc2:02f27bd6caab7633d3083b94d3958b1c
+Sky Sports 24&&https://cors-proxy.elfsight.com/linear301-it-dash1-prd.selector.skycdn.it/31035/FHD/skysport24/master_stereo.mpd``003618ccd7be22b6367207ed8d64d505:36e97f29ec5ea6126077cc040cc2ceeb
+Sky Sports 251&&https://linear311-it-dash1-prd-akp2.cdn13.skycdp.com/31917/FHD/skysport251/master.mpd``00368000eaecbeeafd84c05b3b8243af:8f84185910e18ae0ca8a45004625a000
+Sky Sports 253&&https://linear311-it-dash1-prd-akg0.cdn13.skycdp.com/32233/FHD/skysport253/master.mpd``00365b169a077daac5081277c3fd0c28:f68ab32a552e13509a8ee1c4d96204bc
+Sky Sports 254&&https://cors-proxy.elfsight.com/linear312-it-dash1-prd.selector.skycdn.it/016a/31234/FHD/skysport254/master.mpd``00369c14c20b78aadb1ec0e3c0e74979:e768767e2c7238d8069887bb36aed7fa
+Sky Sports 255&&https://linear311-it-dash1-prd-ll.cdn13.skycdp.com/32910/FHD/skysport255/master.mpd``0036b781a22ebb0c20c16ac27d5d1448:f309b94acfda720bf1ed5741489f8967
+Sky Sports 256&&https://linear312-it-dash1-prd-akg0.cdn13.skycdp.com/31912/FHD/skysport256/master.mpd``00366f263859fc1cc82d2c4da6a66ef6:754ae922d113c54349002cd9a88694a4
+Sky Sports 257&&https://cors-proxy.elfsight.com/linear311-it-dash1-prd.selector.skycdn.it/016a/31775/FHD/skysport257/master.mpd``0036faeace9872d3ceeb8b1b63f0baa3:dbd41ee944243307d39b7b27f16615a8
+Sky Sports 258&&https://linear312-it-dash1-prd-ll.cdn13.skycdp.com/32772/skysport258/master.mpd``0036fd8ccfddba47c8b40aeff63a797c:dfd5c9d0f4ac6f3a1bd89803399e7026
+Sky Sports 259&&https://cors-proxy.elfsight.com/linear311-it-dash1-prd.selector.skycdn.it/016a/31613/skysport259/master.mpd``0036644f7699f43e401f88d920dc385c:e5b0cebdc3edd7996d283041535fce9c
+Sky Open&&https://linear-p.media.skyone.co.nz/primeplus1.clear.m3u8
 AR  TNT Sports&&https://bvsat02.cdn.rcs.net.ar/mnp/tntsports/output.mpd
 BR  BandSports&&https://0055-jbc.dtvott.com/dash_live_0054/manifest.mpd``bd1af42db82f5a17a0d75246f25f5201:a9edd4e2c410923e9cbcb261102e5008
 CR  Tigo Sports&&https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
@@ -80,32 +106,6 @@ Prima Sports 4&&https://ott.cyberhost.ro/sdash/LIVE$LookSport2HD/index.mpd/Manif
 QAZ Sport Premium&&https://gameslive.akamaized.net/hls/live-97eee134-2b19-4781-b794-04d3490229e4_720p2800kbs/index.m3u8
 Setanta Sports 1&&https://qi7fj3gzx1w.a.trbcdn.net/livemaster/glmi9_live-jj1n4gjcyeq.smil/playlist.m3u8
 Setanta Sports 2&&https://qi7fj3gzx1w.a.trbcdn.net/livemaster/x1ecc_live-n8t1vjjlihm.smil/playlist.m3u8
-Sky Open&&https://linear-p.media.skyone.co.nz/primeplus1.clear.m3u8
-Sky Sports 24&&https://cors-proxy.elfsight.com/linear301-it-dash1-prd.selector.skycdn.it/31035/FHD/skysport24/master_stereo.mpd``003618ccd7be22b6367207ed8d64d505:36e97f29ec5ea6126077cc040cc2ceeb
-Sky Sports 251&&https://linear311-it-dash1-prd-akp2.cdn13.skycdp.com/31917/FHD/skysport251/master.mpd``00368000eaecbeeafd84c05b3b8243af:8f84185910e18ae0ca8a45004625a000
-Sky Sports 253&&https://linear311-it-dash1-prd-akg0.cdn13.skycdp.com/32233/FHD/skysport253/master.mpd``00365b169a077daac5081277c3fd0c28:f68ab32a552e13509a8ee1c4d96204bc
-Sky Sports 254&&https://cors-proxy.elfsight.com/linear312-it-dash1-prd.selector.skycdn.it/016a/31234/FHD/skysport254/master.mpd``00369c14c20b78aadb1ec0e3c0e74979:e768767e2c7238d8069887bb36aed7fa
-Sky Sports 255&&https://linear311-it-dash1-prd-ll.cdn13.skycdp.com/32910/FHD/skysport255/master.mpd``0036b781a22ebb0c20c16ac27d5d1448:f309b94acfda720bf1ed5741489f8967
-Sky Sports 256&&https://linear312-it-dash1-prd-akg0.cdn13.skycdp.com/31912/FHD/skysport256/master.mpd``00366f263859fc1cc82d2c4da6a66ef6:754ae922d113c54349002cd9a88694a4
-Sky Sports 257&&https://cors-proxy.elfsight.com/linear311-it-dash1-prd.selector.skycdn.it/016a/31775/FHD/skysport257/master.mpd``0036faeace9872d3ceeb8b1b63f0baa3:dbd41ee944243307d39b7b27f16615a8
-Sky Sports 258&&https://linear312-it-dash1-prd-ll.cdn13.skycdp.com/32772/skysport258/master.mpd``0036fd8ccfddba47c8b40aeff63a797c:dfd5c9d0f4ac6f3a1bd89803399e7026
-Sky Sports 259&&https://cors-proxy.elfsight.com/linear311-it-dash1-prd.selector.skycdn.it/016a/31613/skysport259/master.mpd``0036644f7699f43e401f88d920dc385c:e5b0cebdc3edd7996d283041535fce9c
-Sky Sports Action&&https://linear018-gb-dash1-prd-ll.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skysportsaction)/manifest_720.mpd``0003b57625e371b38e5bc521c31c8b73:a0ae6a685272e8a04487b9fec0f38665
-Sky Sports Arena&&https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/31024/FHD/skysportarena/master.mpd``00364ee1c777f44a74e4df12f3095503:77dee68a39366663755beb8fa62dcc1e
-Sky Sports Calcio&&https://linear302-it-dash1-prd-ll.cdn13.skycdp.com/31209/FHD/skysportseriea/master.mpd``0036e5d0e88dfb087f1791da6150ced9:0bc653d830837dceb13bd17169f0f8e2
-Sky Sports Cricket&&https://linear014-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skysportscricket)/manifest_720.mpd``000543c0dc49b43c0e816c2a404249de:836c311dd132a49dbed1049d92800304
-Sky Sports F1&&https://linear034-gb-dash1-prd-ll.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skysportsf1)/manifest_720.mpd``0005b57b9b4712e29641ac981ba8d3c2:ca13cdd1b96bf1877d2c7ad9ee37d52e
-Sky Sports Football&&https://linear014-gb-dash1-prd-ll.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skysportsfootball)/manifest_720.mpd``0005598a4d0f91328444c6fcdea04acb:ab03caec7a18da1fa6a8f306d91715a1
-Sky Sports Golf&&https://linear018-gb-dash1-prd-ll.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skysportsgolf)/manifest_720.mpd``000506039e623144c5d5185b2abab5f1:1d9d6af28efaf8e835c66979004798e8
-Sky Sports Main Event&&https://linear011-gb-dash1-prd-ll.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skysportsmainevent)/manifest_720.mpd``0005fad32eb7fe7f488093e851d71c5f:6342118978914afbc5fec26e93168b64
-Sky Sports Max&&https://linear305-it-dash1-prd-ll.cdn13.skycdp.com/31248/FHD/skysportmax/master.mpd``0036ae9248d939e4e1cd2198d2593a42:efc6699e1756403916b0280ea63f4c28
-Sky Sports Mix&&https://linear018-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skysportsmix)/manifest_720.mpd``00052def539f4c65b1ddeb5ea4ea9003:4af118364d041875a8137c5839381cce
-Sky Sports MotoGP&&https://cors-proxy.elfsight.com/linear306-it-dash1-prd.selector.skycdn.it/31483/FHD/skysportmotogp/master.mpd``0036ea2e908d4cc20ef08595da9ff991:08e1ae9fa0ee4d9ec2b194c4908613ae
-Sky Sports NBA&&https://cors-proxy.elfsight.com/linear301-it-dash1-prd.selector.skycdn.it/31764/FHD/skysportnba/master_stereo.mpd``0036c4e453ae2a044f4c861ed73b560a:ea5626c0aa092c382ca58151b5f4b208
-Sky Sports Premier League&&https://linear015-gb-dash1-prd-ll.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skysportspremierleague)/manifest_720.mpd``0005f05c21a77f9475e05b177e70111a:ca009f546f9348a3659d877e3f67ee19
-Sky Sports Racing&&https://linear013-gb-dash1-prd-ll.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skysportsracing)/manifest_720.mpd``0005a8a51c6828dce3b85b65e62a15f6:aac8ca91db8dabf7df9393a41ff0758a
-Sky Sports Tennis&&https://linear014-gb-dash1-prd-ll.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skysportstennis)/manifest_720.mpd``00031e6287c6dcf1a92cc7450d43f9b8:1ca909f079b6732c00d65f59d19b8d46
-Sky Sports Uno&&https://linear301-it-dash1-prd-ll.cdn13.skycdp.com/31023/FHD/skysportuno/master_stereo.mpd``00362452ed102000ccea64c311921dc2:02f27bd6caab7633d3083b94d3958b1c
 Sony Sports 1&&https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
 Sony Sports 2&&https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
 Sony Sports 3&&https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
