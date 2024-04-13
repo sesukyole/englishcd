@@ -222,6 +222,14 @@ PT  Eleven Sports 3&&`0https://go.now.net.eu.org/yos512/live?embed=eleven3pt&typ
 PT  Eleven Sports 4&&`0https://go.now.net.eu.org/yos512/live?embed=eleven4pt&type=m
 PT  Eleven Sports 5&&`0https://go.now.net.eu.org/yos512/live?embed=eleven5pt&type=m
 PT  Eleven Sports 6&&`0https://go.now.net.eu.org/yos512/live?embed=eleven6pt&type=m
+beIN Sports TV 1&&https://cors-proxy.elfsight.com/https://edge1.laotv.la/live/Bsport1/manifest.mpd
+beIN Sports TV 2&&https://cors-proxy.elfsight.com/https://edge1.laotv.la/live/Bsport2/manifest.mpd
+True Premier Football 1&&https://cors-proxy.elfsight.com/https://edge1.laotv.la/live/TSport1/sc-gaFECQ/v1/manifest.mpd
+True Premier Football 2&&https://cors-proxy.elfsight.com/https://edge1.laotv.la/live/TSport2/sc-gaFECQ/v1/manifest.mpd
+True Sports 1&&https://cors-proxy.elfsight.com/https://edge1.laotv.la/live/TrueSport6/manifest.mpd
+True Sports 2&&https://cors-proxy.elfsight.com/https://edge1.laotv.la/live/TrueSport2/manifest.mpd
+True Sports 3&&https://cors-proxy.elfsight.com/https://edge1.laotv.la/live/TrueSport3/manifest.mpd
+True Sports 7&&https://cors-proxy.elfsight.com/https://edge1.laotv.la/live/THD7/manifest.mpd
 Badminton Court 1&&`0https://www.youtube.com/embed/BKLakc-QLkA?si=9n4dfRCHtEsJjrAG
 Badminton Court 3&&`0https://www.youtube.com/embed/SPwE__nt4iE?si=QLYU-a4pTtdmxqUo
 Badminton Court 4&&`0https://www.youtube.com/embed/jgLCuQ6dNL0?si=PeRCLwTMuON8e2LT
@@ -270,12 +278,4 @@ PL  Eleven Sports 1&&`0https://live.sportsnews.id/p/eleven1.html
 PL  Eleven Sports 2&&`0https://live.sportsnews.id/p/eleven2.html
 PL  Eleven Sports 4&&`0https://live.sportsnews.id/p/eleven4.html
 PL  Eleven Sports 3&&`0https://live.sportsnews.id/p/eleven3.html
-beIN Sports TV 1&&https://cors-proxy.elfsight.com/https://edge1.laotv.la/live/Bsport1/manifest.mpd
-beIN Sports TV 2&&https://cors-proxy.elfsight.com/https://edge1.laotv.la/live/Bsport2/manifest.mpd
-True Premier Football 1&&https://cors-proxy.elfsight.com/https://edge1.laotv.la/live/TSport1/sc-gaFECQ/v1/manifest.mpd
-True Premier Football 2&&https://cors-proxy.elfsight.com/https://edge1.laotv.la/live/TSport2/sc-gaFECQ/v1/manifest.mpd
-True Sports 1&&https://cors-proxy.elfsight.com/https://edge1.laotv.la/live/TrueSport6/manifest.mpd
-True Sports 2&&https://cors-proxy.elfsight.com/https://edge1.laotv.la/live/TrueSport2/manifest.mpd
-True Sports 3&&https://cors-proxy.elfsight.com/https://edge1.laotv.la/live/TrueSport3/manifest.mpd
-True Sports 7&&https://cors-proxy.elfsight.com/https://edge1.laotv.la/live/THD7/manifest.mpd
 Ziggo Sport&&https://carmeltv.live/EXCHANGEukmed/QHZ5pjF7UdKx/53710.m3u8
