@@ -194,6 +194,38 @@ BR 5&&`0https://sportsonline.si/channels/bra/br5.php
 BR 6&&`0https://sportsonline.si/channels/bra/br6.php
 BR 7&&`0https://sportsonline.si/channels/bra/br7.php
 BR 8&&`0https://sportsonline.si/channels/bra/br8.php
+ES  DAZN F1&&`0https://go.now.net.eu.org/yos512/live?embed=daznf1&type=m
+DE  DAZN 1&&`0https://go.now.net.eu.org/yos512/live?embed=dazn1de&type=m
+DE  DAZN 2&&`0https://go.now.net.eu.org/yos512/live?embed=dazn2de&type=m
+DE  SportDigital FussBall&&`0https://go.now.net.eu.org/yos512/live?embed=digital&type=m
+US  DAZN NFL&&`0https://go.now.net.eu.org/yos512/live?embed=daznnfl&type=m
+IT  Zona DAZN&&`0https://go.now.net.eu.org/yos512/live?embed=zonait&type=m
+IT  Milan TV&&`0https://go.now.net.eu.org/yos512/live?embed=milantv&type=m
+US  DAZN MLB&&`0https://go.now.net.eu.org/yos512/live?embed=daznmlb&type=m
+DE  EuroSports 1&&`0https://go.now.net.eu.org/yos512/live?embed=euro1de&type=m
+DE  EuroSports 2&&`0https://go.now.net.eu.org/yos512/live?embed=euro2de&type=m
+ES  EuroSports 1&&`0https://go.now.net.eu.org/yos512/live?embed=euro1es&type=m
+ES  EuroSports 2&&`0https://go.now.net.eu.org/yos512/live?embed=euro2es&type=m
+IT  Inter TV&&`0https://go.now.net.eu.org/yos512/live?embed=intertv&type=m
+US  DAZN NBA&&`0https://go.now.net.eu.org/yos512/live?embed=daznnba&type=m
+US  DAZN RedBull&&`0https://go.now.net.eu.org/yos512/live?embed=redbull&type=m
+ES  DAZN 1&&`0https://go.now.net.eu.org/yos512/live?embed=dazn1es&type=m
+ES  DAZN 2&&`0https://go.now.net.eu.org/yos512/live?embed=dazn2es&type=m
+ES  DAZN LaLiga HyperMotion&&`0https://go.now.net.eu.org/yos512/live?embed=laligah&type=m
+ES  DAZN LaLiga&&`0https://go.now.net.eu.org/yos512/live?embed=laligaes&type=m
+BE  PlaySports 1&&`0https://go.now.net.eu.org/yos512/live?embed=plays1be&type=m
+BE  PlaySports 2&&`0https://go.now.net.eu.org/yos512/live?embed=plays2be&type=m
+BE  PlaySports 3&&`0https://go.now.net.eu.org/yos512/live?embed=plays3be&type=m
+PT  Eleven Sports 1&&`0https://go.now.net.eu.org/yos512/live?embed=eleven1pt&type=m
+PT  Eleven Sports 2&&`0https://go.now.net.eu.org/yos512/live?embed=eleven2pt&type=m
+PT  Eleven Sports 3&&`0https://go.now.net.eu.org/yos512/live?embed=eleven3pt&type=m
+PT  Eleven Sports 4&&`0https://go.now.net.eu.org/yos512/live?embed=eleven4pt&type=m
+PT  Eleven Sports 5&&`0https://go.now.net.eu.org/yos512/live?embed=eleven5pt&type=m
+PT  Eleven Sports 6&&`0https://go.now.net.eu.org/yos512/live?embed=eleven6pt&type=m
+Badminton Court 1&&`0https://www.youtube.com/embed/BKLakc-QLkA?si=9n4dfRCHtEsJjrAG
+Badminton Court 3&&`0https://www.youtube.com/embed/SPwE__nt4iE?si=QLYU-a4pTtdmxqUo
+Badminton Court 4&&`0https://www.youtube.com/embed/jgLCuQ6dNL0?si=PeRCLwTMuON8e2LT
+Badminton Court 2&&`0https://www.youtube.com/embed/pY4hwfO8acE?si=qgN9wAeNOf74gRvR
 DAZN F1&&01`01a1601`01b
 DAZN 1 DE&&01`01a1701`01b
 DAZN 2 DE&&01`01a1801`01b
@@ -231,38 +263,6 @@ DAZN Eleven 3&&01`01a5601`01b
 DAZN Eleven 4&&01`01a5701`01b
 DAZN Eleven 5&&01`01a5801`01b
 DAZN Eleven 6&&01`01a5901`01b
-Badminton Court 1&&`0https://www.youtube.com/embed/BKLakc-QLkA?si=9n4dfRCHtEsJjrAG
-Badminton Court 3&&`0https://www.youtube.com/embed/SPwE__nt4iE?si=QLYU-a4pTtdmxqUo
-Badminton Court 4&&`0https://www.youtube.com/embed/jgLCuQ6dNL0?si=PeRCLwTMuON8e2LT
-Badminton Court 2&&`0https://www.youtube.com/embed/pY4hwfO8acE?si=qgN9wAeNOf74gRvR
-ES  DAZN F1&&`0https://go.now.net.eu.org/yos512/live?embed=daznf1&type=m
-DE  DAZN 1&&`0https://go.now.net.eu.org/yos512/live?embed=dazn1de&type=m
-DE  DAZN 2&&`0https://go.now.net.eu.org/yos512/live?embed=dazn2de&type=m
-DE  SportDigital FussBall&&`0https://go.now.net.eu.org/yos512/live?embed=digital&type=m
-US  DAZN NFL&&`0https://go.now.net.eu.org/yos512/live?embed=daznnfl&type=m
-IT  Zona DAZN&&`0https://go.now.net.eu.org/yos512/live?embed=zonait&type=m
-IT  Milan TV&&`0https://go.now.net.eu.org/yos512/live?embed=milantv&type=m
-US  DAZN MLB&&`0https://go.now.net.eu.org/yos512/live?embed=daznmlb&type=m
-DE  EuroSports 1&&`0https://go.now.net.eu.org/yos512/live?embed=euro1de&type=m
-DE  EuroSports 2&&`0https://go.now.net.eu.org/yos512/live?embed=euro2de&type=m
-ES  EuroSports 1&&`0https://go.now.net.eu.org/yos512/live?embed=euro1es&type=m
-ES  EuroSports 2&&`0https://go.now.net.eu.org/yos512/live?embed=euro2es&type=m
-IT  Inter TV&&`0https://go.now.net.eu.org/yos512/live?embed=intertv&type=m
-US  DAZN NBA&&`0https://go.now.net.eu.org/yos512/live?embed=daznnba&type=m
-US  DAZN RedBull&&`0https://go.now.net.eu.org/yos512/live?embed=redbull&type=m
-ES  DAZN 1&&`0https://go.now.net.eu.org/yos512/live?embed=dazn1es&type=m
-ES  DAZN 2&&`0https://go.now.net.eu.org/yos512/live?embed=dazn2es&type=m
-ES  DAZN LaLiga HyperMotion&&`0https://go.now.net.eu.org/yos512/live?embed=laligah&type=m
-ES  DAZN LaLiga&&`0https://go.now.net.eu.org/yos512/live?embed=laligaes&type=m
-BE  PlaySports 1&&`0https://go.now.net.eu.org/yos512/live?embed=plays1be&type=m
-BE  PlaySports 2&&`0https://go.now.net.eu.org/yos512/live?embed=plays2be&type=m
-BE  PlaySports 3&&`0https://go.now.net.eu.org/yos512/live?embed=plays3be&type=m
-PT  Eleven Sports 1&&`0https://go.now.net.eu.org/yos512/live?embed=eleven1pt&type=m
-PT  Eleven Sports 2&&`0https://go.now.net.eu.org/yos512/live?embed=eleven2pt&type=m
-PT  Eleven Sports 3&&`0https://go.now.net.eu.org/yos512/live?embed=eleven3pt&type=m
-PT  Eleven Sports 4&&`0https://go.now.net.eu.org/yos512/live?embed=eleven4pt&type=m
-PT  Eleven Sports 5&&`0https://go.now.net.eu.org/yos512/live?embed=eleven5pt&type=m
-PT  Eleven Sports 6&&`0https://go.now.net.eu.org/yos512/live?embed=eleven6pt&type=m
 MY  Premier League&&`0https://go.now.net.eu.org/yos512/lol/live?embed=bein4my&type=m
 MY  Astro SuperSport 2&&`0https://go.now.net.eu.org/yos512/lol/live?embed=assp2&type=m
 MY  Astro SuperSport 4&&`0https://go.now.net.eu.org/yos512/lol/live?embed=assp4&type=m
