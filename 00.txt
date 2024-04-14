@@ -17,43 +17,6 @@ beIN Sports 5&&https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0005/DASH/S
 beIN Sports 6&&https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0006/DASH/S0006.mpd``ceac4607562049abb9d1b0309d9cd6f3:d396d277a364fab00d0193d25b700847
 beIN Sports 7&&https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0007/DASH/S0007.mpd``94a28a75b3891e92a97efbe76f941095:7b39cd0e318ee481b98c36a125c540fb
 beIN Sports Extra&&https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df975e2b27cf5000921c102/master.m3u8?c&deviceType=0&deviceMake=0&deviceModel=0&deviceVersion=0&appVersion=0&deviceLat=0&deviceLon=0&deviceDNT=0&deviceId=0&advertisingId=0&us_privacy=0&samsung_app_domain=0&samsung_app_name=0&profileLimit=&profileFloor=&embedPartner=0
-DAZN F1&&01`01a1601`01b
-DAZN 1 DE&&01`01a1701`01b
-DAZN 2 DE&&01`01a1801`01b
-SportDigital Fussball&&01`01a2201`01b
-NFL&&01`01a2301`01b
-Zona DAZN&&01`01a2401`01b
-Milan TV&&01`01a2501`01b
-MLB&&01`01a2601`01b
-EuroSport 1 DE&&01`01a2701`01b
-EuroSport 2 DE&&01`01a2801`01b
-EuroSport 1 IT&&01`01a2901`01b
-EuroSport 2 IT&&01`01a3001`01b
-EuroSport 1 ES&&01`01a3101`01b
-EuroSport 2 ES&&01`01a3201`01b
-Inter TV&&01`01a3301`01b
-DAZN NBA&&01`01a3501`01b
-Redbull TV&&01`01a3601`01b
-DAZN 1 ES&&01`01a3701`01b
-DAZN 2 ES&&01`01a3801`01b
-LaLiga Live HyperMotion&&01`01a4001`01b
-DAZN LaLiga&&01`01a4301`01b
-Unbeaten&&01`01a4401`01b
-DAZN 1 US&&01`01a4501`01b
-Canal+ Ligue1 Uber Eats&&01`01a4601`01b
-DAZN Eleven 1 ES&&01`01a4701`01b
-DAZN Eleven 1 ES&&01`01a4801`01b
-DAZN Eleven 01&&01`01a4901`01b
-DAZN Eleven 01&&01`01a5001`01b
-PlaySports 1&&01`01a5101`01b
-PlaySports 2&&01`01a5201`01b
-PlaySports 3&&01`01a5301`01b
-DAZN Eleven 1&&01`01a5401`01b
-DAZN Eleven 2&&01`01a5501`01b
-DAZN Eleven 3&&01`01a5601`01b
-DAZN Eleven 4&&01`01a5701`01b
-DAZN Eleven 5&&01`01a5801`01b
-DAZN Eleven 6&&01`01a5901`01b
 Sky Sports Action&&https://linear018-gb-dash1-prd-ll.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skysportsaction)/manifest_720.mpd``0003b57625e371b38e5bc521c31c8b73:a0ae6a685272e8a04487b9fec0f38665
 Sky Sports Arena&&https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/31024/FHD/skysportarena/master.mpd``00364ee1c777f44a74e4df12f3095503:77dee68a39366663755beb8fa62dcc1e
 Sky Sports Calcio&&https://linear302-it-dash1-prd-ll.cdn13.skycdp.com/31209/FHD/skysportseriea/master.mpd``0036e5d0e88dfb087f1791da6150ced9:0bc653d830837dceb13bd17169f0f8e2
@@ -270,6 +233,43 @@ Badminton Court 1&&`0https://www.youtube.com/embed/BKLakc-QLkA?si=9n4dfRCHtEsJjr
 Badminton Court 3&&`0https://www.youtube.com/embed/SPwE__nt4iE?si=QLYU-a4pTtdmxqUo
 Badminton Court 4&&`0https://www.youtube.com/embed/jgLCuQ6dNL0?si=PeRCLwTMuON8e2LT
 Badminton Court 2&&`0https://www.youtube.com/embed/pY4hwfO8acE?si=qgN9wAeNOf74gRvR
+DAZN F1&&01`01a1601`01b
+DAZN 1 DE&&01`01a1701`01b
+DAZN 2 DE&&01`01a1801`01b
+SportDigital Fussball&&01`01a2201`01b
+NFL&&01`01a2301`01b
+Zona DAZN&&01`01a2401`01b
+Milan TV&&01`01a2501`01b
+MLB&&01`01a2601`01b
+EuroSport 1 DE&&01`01a2701`01b
+EuroSport 2 DE&&01`01a2801`01b
+EuroSport 1 IT&&01`01a2901`01b
+EuroSport 2 IT&&01`01a3001`01b
+EuroSport 1 ES&&01`01a3101`01b
+EuroSport 2 ES&&01`01a3201`01b
+Inter TV&&01`01a3301`01b
+DAZN NBA&&01`01a3501`01b
+Redbull TV&&01`01a3601`01b
+DAZN 1 ES&&01`01a3701`01b
+DAZN 2 ES&&01`01a3801`01b
+LaLiga Live HyperMotion&&01`01a4001`01b
+DAZN LaLiga&&01`01a4301`01b
+Unbeaten&&01`01a4401`01b
+DAZN 1 US&&01`01a4501`01b
+Canal+ Ligue1 Uber Eats&&01`01a4601`01b
+DAZN Eleven 1 ES&&01`01a4701`01b
+DAZN Eleven 1 ES&&01`01a4801`01b
+DAZN Eleven 01&&01`01a4901`01b
+DAZN Eleven 01&&01`01a5001`01b
+PlaySports 1&&01`01a5101`01b
+PlaySports 2&&01`01a5201`01b
+PlaySports 3&&01`01a5301`01b
+DAZN Eleven 1&&01`01a5401`01b
+DAZN Eleven 2&&01`01a5501`01b
+DAZN Eleven 3&&01`01a5601`01b
+DAZN Eleven 4&&01`01a5701`01b
+DAZN Eleven 5&&01`01a5801`01b
+DAZN Eleven 6&&01`01a5901`01b
 MY  Premier League&&`0https://go.now.net.eu.org/yos512/lol/live?embed=bein4my&type=m
 MY  Astro SuperSport 2&&`0https://go.now.net.eu.org/yos512/lol/live?embed=assp2&type=m
 MY  Astro SuperSport 4&&`0https://go.now.net.eu.org/yos512/lol/live?embed=assp4&type=m
