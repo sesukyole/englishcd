@@ -148,7 +148,6 @@ V Sports 1&&https://live-aws-scalstrm-cdn.rikstv.no/live/rikstv/644bb6e91dbc891f
 V Sports 2&&https://live-aws-scalstrm-cdn.rikstv.no/live/rikstv/644bb6e91dbc891fd422efef/manifest.mpd``0d3ff38c34985fdd81a37567646322b9:6b4504297769acefae2e50920b7c8a77
 V Sports 3&&https://live-aws-scalstrm-cdn.rikstv.no/live/rikstv/644bb6ea1dbc891fd422f01e/manifest.mpd``fdcb8ee4623458e5832a92801fc723b1:634a67c44b7b7030872043df95c1a55e
 WWE&&https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc106wh3yw)/master.mpd``00208c93f4358213b52220898b962385:8ae6063167228e350dd132d4a1573102
-Ziggo Tennis&&https://carmeltv.live/EXCHANGEukmed/QHZ5pjF7UdKx/53711.m3u8
 BE  Eleven Sports EPL&&`0https://go.now.net.eu.org/yos512/live?embed=epl1be&type=m
 FR  beIN Sports 1&&`0https://go.now.net.eu.org/yos512/live?embed=bein1fr&type=m
 FR  beIN Sports 2&&`0https://go.now.net.eu.org/yos512/live?embed=bein2fr&type=m
@@ -230,10 +229,6 @@ True Sports 1&&https://cors-proxy.elfsight.com/https://edge1.laotv.la/live/TrueS
 True Sports 2&&https://cors-proxy.elfsight.com/https://edge1.laotv.la/live/TrueSport2/manifest.mpd
 True Sports 3&&https://cors-proxy.elfsight.com/https://edge1.laotv.la/live/TrueSport3/manifest.mpd
 True Sports 7&&https://cors-proxy.elfsight.com/https://edge1.laotv.la/live/THD7/manifest.mpd
-Badminton Court 1&&`0https://www.youtube.com/embed/BKLakc-QLkA?si=9n4dfRCHtEsJjrAG
-Badminton Court 3&&`0https://www.youtube.com/embed/SPwE__nt4iE?si=QLYU-a4pTtdmxqUo
-Badminton Court 4&&`0https://www.youtube.com/embed/jgLCuQ6dNL0?si=PeRCLwTMuON8e2LT
-Badminton Court 2&&`0https://www.youtube.com/embed/pY4hwfO8acE?si=qgN9wAeNOf74gRvR
 DAZN F1&&01`01a1601`01b
 DAZN 1 DE&&01`01a1701`01b
 DAZN 2 DE&&01`01a1801`01b
@@ -271,6 +266,10 @@ DAZN Eleven 3&&01`01a5601`01b
 DAZN Eleven 4&&01`01a5701`01b
 DAZN Eleven 5&&01`01a5801`01b
 DAZN Eleven 6&&01`01a5901`01b
+Badminton Court 1&&`0https://www.youtube.com/embed/BKLakc-QLkA?si=9n4dfRCHtEsJjrAG
+Badminton Court 3&&`0https://www.youtube.com/embed/SPwE__nt4iE?si=QLYU-a4pTtdmxqUo
+Badminton Court 4&&`0https://www.youtube.com/embed/jgLCuQ6dNL0?si=PeRCLwTMuON8e2LT
+Badminton Court 2&&`0https://www.youtube.com/embed/pY4hwfO8acE?si=qgN9wAeNOf74gRvR
 MY  Premier League&&`0https://go.now.net.eu.org/yos512/lol/live?embed=bein4my&type=m
 MY  Astro SuperSport 2&&`0https://go.now.net.eu.org/yos512/lol/live?embed=assp2&type=m
 MY  Astro SuperSport 4&&`0https://go.now.net.eu.org/yos512/lol/live?embed=assp4&type=m
@@ -279,3 +278,4 @@ PL  Eleven Sports 2&&`0https://live.sportsnews.id/p/eleven2.html
 PL  Eleven Sports 4&&`0https://live.sportsnews.id/p/eleven4.html
 PL  Eleven Sports 3&&`0https://live.sportsnews.id/p/eleven3.html
 Ziggo Sport&&https://carmeltv.live/EXCHANGEukmed/QHZ5pjF7UdKx/53710.m3u8
+Ziggo Tennis&&https://carmeltv.live/EXCHANGEukmed/QHZ5pjF7UdKx/53711.m3u8
