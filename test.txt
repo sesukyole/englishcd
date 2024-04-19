@@ -1,3 +1,5 @@
+AFC-1&&https://pull.bzssnkeji.com/live/4793007_lhd.flv?auth_info=qOZNkcdYMmk2tXz45YmGPuFUmsKitEaQRVKjTJj76WjFM%2BeNTXyIVX7jFz1SRssT.72454d58794d5a674c64485a525a6544
+AFC-2&&https://pull.bzssnkeji.com/live/4792947_lhd.flv?auth_info=ABGQ2V8yUyK52J5SIx4x4RdcHaO%2BlY7YozZAlR2T2WZt%2BOex%2F5HJM6SriTi%2Bhyjy.4d58475967637270797755664a787072
 MakkahTV.id&&01`02aAlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd``67fe3ac3ca111c9bdd6e8480091dc13c:7d05fb1ff7705c1e452ff7e1b841a1b8
 Spo1.id&&01`02aSPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd``57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
 Spo2.id&&01`02aSPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd``57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
