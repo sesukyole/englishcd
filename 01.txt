@@ -2,7 +2,7 @@ MakkahTV.id&&https://cempedak-live-cdn.mncnow.id/live/eds/AlQuranAlKareem/sa_das
 Spo1.id&&https://play.now.net.eu.org/live/TVECnyLp/index.m3u8?auth=1713535490-28043dc9534f46d2a467df19f647344f
 Spo2.id&&https://play.now.net.eu.org/live/aQjLyXGu/index.m3u8?auth=1713535604-15d614ce09d624fdf9e1999113f9a1ab
 Sport1.id&&https://play.now.net.eu.org/live/T7DR2Azc/index.m3u8?auth=1713535659-19e5175505c8bbc25c5e8725ef50c916
-Sport2.id&&https://play.now.net.eu.org/live/mE5IQvGa/index.m3u8?auth=1713535093-78a7bcb78b2bb1cf090f323cfc9331ba
+Sport2.id&&https://play.now.net.eu.org/live/mE5IQvGa/index.m3u8?auth=1713537031-4a573042a5653591e391d045b25a1f61
 Sport3.id&&https://play.now.net.eu.org/live/q4PPiz7o/index.m3u8?auth=1713535796-732b44b811662c199cc111fbca408c44
 Sport4.id&&https://play.now.net.eu.org/live/Bi3ZkECy/index.m3u8?auth=1713535847-05cefd9216f573d730bb820bd75c3c87
 Soccer.id&&https://play.now.net.eu.org/live/ww1n6Ha5/index.m3u8?auth=1713535933-d30604275fb644daad5c72f809e9b246
