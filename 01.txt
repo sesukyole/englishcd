@@ -1,6 +1,11 @@
 MakkahTV.id&&https://cempedak-live-cdn.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd``67fe3ac3ca111c9bdd6e8480091dc13c:7d05fb1ff7705c1e452ff7e1b841a1b8
-Spo1.id&&https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd``57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
-Spo2.id&&https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd``57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
+Spo1.id&&https://play.now.net.eu.org/live/TVECnyLp/index.m3u8?auth=1713535490-28043dc9534f46d2a467df19f647344f
+Spo2.id&&https://play.now.net.eu.org/live/aQjLyXGu/index.m3u8?auth=1713535604-15d614ce09d624fdf9e1999113f9a1ab
+Sport1.id&&https://play.now.net.eu.org/live/T7DR2Azc/index.m3u8?auth=1713535659-19e5175505c8bbc25c5e8725ef50c916
+Sport2.id&&https://play.now.net.eu.org/live/mE5IQvGa/index.m3u8?auth=1713535093-78a7bcb78b2bb1cf090f323cfc9331ba
+Sport3.id&&https://play.now.net.eu.org/live/q4PPiz7o/index.m3u8?auth=1713535796-732b44b811662c199cc111fbca408c44
+Sport4.id&&https://play.now.net.eu.org/live/Bi3ZkECy/index.m3u8?auth=1713535847-05cefd9216f573d730bb820bd75c3c87
+Soccer.id&&https://play.now.net.eu.org/live/ww1n6Ha5/index.m3u8?auth=1713535933-d30604275fb644daad5c72f809e9b246
 Nickelodeon.id&&https://cempedak-live-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd``785024598882dc751652cea2bce44b8e:56a40e58acd59965e865947dd719108d
 Trans7.id&&https://cempedak-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd``26bd60e03bbed7819eea0b27075a1897:d221ba6a6ab66e3083c001d2c4a3e5c5
 TransTV.id&&https://cempedak-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd``334950781f60a66f5e58324b70ac675d:73caca97be8999ce9cfeb3babad8669d
@@ -17,8 +22,6 @@ MyFamily.id&&https://cempedak-live-cdn.mncnow.id/live/eds/MyFamily/sa_dash_vmx/M
 GTV.id&&https://cempedak-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd``88f6c7cbd793374cb5f12d7e26dcd63b:e82daa7c7bfb03d99327463fdbd37336
 ANTV.id&&https://cempedak-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd``4310edb8b9ffe79abb40bacafa778ec3:aebb7e86d8a336d9a93d3dd8a41153cf
 Muslim.id&&https://cempedak-live-cdn.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd``eefa1c34afba72f8fe902b061632528f:334cde07f6ebe092c0ae0521591d73cf
-Sport1.id&&https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd``531c6d50e3e9f9ba66446f624f492289:d769d9ae238bdd424f8bcdcdc9a3801f
-Sport2.id&&https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd``45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
 Animax.id&&https://cempedak-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd``6344a8272809245e3fa9d926099528c3:93b6c4ff420c6864a6294f6d223d9b2c
 CBeebies.id&&https://cempedak-live-cdn.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd``194891b41223a5f1ec2beff1c95e2f53:eeb1fb2ec011f9563653495f9ac427b1
 CinemaChiKids.id&&https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemachi-Kids-HD.mpd``ebe6190a3cfbbed4ec34e4d9c7a30e1e:d161b1f737e2aee9501149406c8abe9e
@@ -58,9 +61,6 @@ History.id&&https://cempedak-live-cdn.mncnow.id/live/eds/History/sa_dash_vmx/His
 TVRI.id&&https://cempedak-live-cdn.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd``ca65af90adc5e3ddb180e16426bb67da:b6f87a3a128dbd75ead036f596edeae7
 MyCinema.id&&https://cempedak-live-cdn.mncnow.id/live/eds/MyCinema/sa_dash_vmx/MyCinema.mpd``4310edb8b9ffe79abb40bacafa778ec3:aebb7e86d8a336d9a93d3dd8a41153cf
 MyCinemaAsia.id&&https://cempedak-live-cdn.mncnow.id/live/eds/MyCinema-Asia/sa_dash_vmx/MyCinema-Asia.mpd``4310edb8b9ffe79abb40bacafa778ec3:aebb7e86d8a336d9a93d3dd8a41153cf
-Soccer.id&&https://cempedak-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd``4d38060bf41b3c29df0ec950ece6b5da:7ee9506b13480491d79b71c062ab5366
-Sport3.id&&https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd``fadd2720deff5925ab86df0819cd7775:f67ff08c7ebc779f6a6fcfc83835f65b
-Sport4.id&&https://cempedak-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd``b81b1942c65f35547ced1bff074206a5:a07dc4d86f51db7195f4b7e2abe9d9e8
 CinemaWorld.id&&https://cempedak-live-cdn.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd``958df746f24f371dffc95e7cd714fbd7:fbd6e4540b9a917a27da8be01542f53f
 NatGeo.id&&https://cempedak-live-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd``05457a5e16a76fe666a22cc7ae2c6548:626e37901bfb985e994d714e9f9de1b5
 NatGeoWild.id&&https://cempedak-live-cdn.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd``c3066eaa0984588f78d12dcdb75ef88b:4e98eb4927941bff51ea526d223fa16d
