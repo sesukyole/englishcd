@@ -1,3 +1,5 @@
+EN  beIN Sports 1&&https://donelfantastic.github.io/webiptv/web/qa/qwertyuiop1.m3u8
+EN  beIN Sports 2&&https://donelfantastic.github.io/webiptv/web/qa/qwertyuiop12.m3u8
 TV 2 Sport 1&&https://live-aws-scalstrm-cdn.rikstv.no/live/rikstv/64393bf81dbc891fd41f53ac/manifest.mpd``0c6212056d2f51fcbf569f9a1a8517d1:d07b404deb7c958347d742e6d1d2f3f9
 TV 2 Sport Premium&&https://ch11-hls-live.akamaized.net/out/u/433127.mpd``d12e4c9dc52f4cbab7ac9b2278317e47:a7987e5b6ec42db68a25486e108ca9f2
 Arena Sport Premium 1&&https://webtvstream.bhtelecom.ba/hls6/as_premium1.mpd``c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
@@ -53,6 +55,7 @@ Sky Sports 256&&https://linear312-it-dash1-prd-akg0.cdn13.skycdp.com/31912/FHD/s
 Sky Sports 257&&https://cors-proxy.cooks.fyi/https://linear311-it-dash1-prd.selector.skycdn.it/016a/31775/FHD/skysport257/master.mpd``0036faeace9872d3ceeb8b1b63f0baa3:dbd41ee944243307d39b7b27f16615a8
 Sky Sports 258&&https://linear312-it-dash1-prd-ll.cdn13.skycdp.com/32772/skysport258/master.mpd``0036fd8ccfddba47c8b40aeff63a797c:dfd5c9d0f4ac6f3a1bd89803399e7026
 Sky Sports 259&&https://cors-proxy.cooks.fyi/https://linear311-it-dash1-prd.selector.skycdn.it/016a/31613/skysport259/master.mpd``0036644f7699f43e401f88d920dc385c:e5b0cebdc3edd7996d283041535fce9c
+Sky Sports Tennis&&https://donelfantastic.github.io/webiptv/web/qa/qwertyuiop123.m3u8
 Sky Open&&https://linear-p.media.skyone.co.nz/primeplus1.clear.m3u8
 Sky Sports Action&&https://linear018-gb-dash1-prd-ll.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skysportsaction)/manifest_720.mpd``0003b57625e371b38e5bc521c31c8b73:a0ae6a685272e8a04487b9fec0f38665
 Sky Sports Cricket&&https://linear014-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skysportscricket)/manifest_720.mpd``000543c0dc49b43c0e816c2a404249de:836c311dd132a49dbed1049d92800304
@@ -63,7 +66,6 @@ Sky Sports Main Event&&https://linear011-gb-dash1-prd-ll.cdn.skycdp.com/Content/
 Sky Sports Mix&&https://linear018-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skysportsmix)/manifest_720.mpd``00052def539f4c65b1ddeb5ea4ea9003:4af118364d041875a8137c5839381cce
 Sky Sports Premier League&&https://linear015-gb-dash1-prd-ll.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skysportspremierleague)/manifest_720.mpd``0005f05c21a77f9475e05b177e70111a:ca009f546f9348a3659d877e3f67ee19
 Sky Sports Racing&&https://linear013-gb-dash1-prd-ll.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skysportsracing)/manifest_720.mpd``0005a8a51c6828dce3b85b65e62a15f6:aac8ca91db8dabf7df9393a41ff0758a
-Sky Sports Tennis&&https://linear014-gb-dash1-prd-ll.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skysportstennis)/manifest_720.mpd``00031e6287c6dcf1a92cc7450d43f9b8:1ca909f079b6732c00d65f59d19b8d46
 AR  TNT Sports&&https://bvsat02.cdn.rcs.net.ar/mnp/tntsports/output.mpd
 BR  BandSports&&https://0055-jbc.dtvott.com/dash_live_0054/manifest.mpd``bd1af42db82f5a17a0d75246f25f5201:a9edd4e2c410923e9cbcb261102e5008
 CR  Tigo Sports&&https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
