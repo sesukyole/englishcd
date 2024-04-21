@@ -32,15 +32,15 @@ TNT Sports 2&&https://cors-proxy.pulsesoftware.com/https://ottb.live.cf.ww.aiv-c
 TNT Sports 3&&https://cors-proxy.pulsesoftware.com/https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd``4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
 TNT Sports 4&&https://cors-proxy.pulsesoftware.com/https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd``e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729
 TNT Sports 5&&https://cors-proxy.pulsesoftware.com/https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/gesdwrdncn/out/v1/79e752f1eccd4e18b6a8904a0bc01f2d/cenc.mpd``60c0d9b41475e01db4ffb91ed557fbcc:36ee40e58948ca15e3caba8d47b8f34b
-Orange Sports 1&&https://cors-proxy.cooks.fyi/https://ott1.cyberhost.ro/sdash/LIVE$DolceSportHD/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC``b11517de312fcab5cba06be35e482138:806573a74789a69651c162da4dbb5526
-Orange Sports 2&&https://cors-proxy.cooks.fyi/https://ott1.cyberhost.ro/sdash/LIVE$DolceSport2HD/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC``f75302cdb04a09e43f153095bcacd123:307bf889d92969ffd3014dddb67999f6
-Orange Sports 3&&https://cors-proxy.cooks.fyi/https://ott1.cyberhost.ro/sdash/LIVE$DolceSport3/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC``b87857ba74ce03f9fa2866f1e086d05d:1cd289ac71ce5fb306a5e7653192ce3a
-Orange Sports 4&&https://cors-proxy.cooks.fyi/https://ott1.cyberhost.ro/sdash/LIVE$DolceSport4/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC``202a927cd913101de765b0e5bb3f500f:cdd399869057bc34c827f257f562643a
+Orange Sports 1&&https://cors-proxy.pulsesoftware.com/https://ott1.cyberhost.ro/sdash/LIVE$DolceSportHD/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC``b11517de312fcab5cba06be35e482138:806573a74789a69651c162da4dbb5526
+Orange Sports 2&&https://cors-proxy.pulsesoftware.com/https://ott1.cyberhost.ro/sdash/LIVE$DolceSport2HD/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC``f75302cdb04a09e43f153095bcacd123:307bf889d92969ffd3014dddb67999f6
+Orange Sports 3&&https://cors-proxy.pulsesoftware.com/https://ott1.cyberhost.ro/sdash/LIVE$DolceSport3/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC``b87857ba74ce03f9fa2866f1e086d05d:1cd289ac71ce5fb306a5e7653192ce3a
+Orange Sports 4&&https://cors-proxy.pulsesoftware.com/https://ott1.cyberhost.ro/sdash/LIVE$DolceSport4/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC``202a927cd913101de765b0e5bb3f500f:cdd399869057bc34c827f257f562643a
 Premier League&&https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd``002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
-Prima Sports 1&&https://cors-proxy.cooks.fyi/https://ott.cyberhost.ro/sdash/LIVE$LookPlus/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC``49e2aa7ed50fc98b895023c87a32a183:57062665c1ef8481911e68e17655c8ec
-Prima Sports 2&&https://cors-proxy.cooks.fyi/https://ott.cyberhost.ro/sdash/LIVE$LookTVHD/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC``96c311676c08545ea6aae37668e4a0df:64fca4a48c14d2b32afcd53971cfa62c
-Prima Sports 3&&https://cors-proxy.cooks.fyi/https://ott1.cyberhost.ro/sdash/LIVE$LookSport3HD/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC``9404e7ae27dce22d69d41ffc29197cef:a6177128238fe775d5c74803e15ac175
-Prima Sports 4&&https://cors-proxy.cooks.fyi/https://ott.cyberhost.ro/sdash/LIVE$LookSport2HD/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC``c68ec2e525d8406b6c3cedbac72debae:a0f28f93fb9834d331df3ddedeb8a565
+Prima Sports 1&&https://cors-proxy.pulsesoftware.com/https://ott.cyberhost.ro/sdash/LIVE$LookPlus/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC``49e2aa7ed50fc98b895023c87a32a183:57062665c1ef8481911e68e17655c8ec
+Prima Sports 2&&https://cors-proxy.pulsesoftware.com/https://ott.cyberhost.ro/sdash/LIVE$LookTVHD/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC``96c311676c08545ea6aae37668e4a0df:64fca4a48c14d2b32afcd53971cfa62c
+Prima Sports 3&&https://cors-proxy.pulsesoftware.com/https://ott1.cyberhost.ro/sdash/LIVE$LookSport3HD/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC``9404e7ae27dce22d69d41ffc29197cef:a6177128238fe775d5c74803e15ac175
+Prima Sports 4&&https://cors-proxy.pulsesoftware.com/https://ott.cyberhost.ro/sdash/LIVE$LookSport2HD/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC``c68ec2e525d8406b6c3cedbac72debae:a0f28f93fb9834d331df3ddedeb8a565
 Abu Dhabi Sports 1&&https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8?c
 Abu Dhabi Sports 2&&https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8?c
 SSC Sport 1&&https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd``d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
@@ -102,7 +102,7 @@ Edge Sport&&https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8
 ES  beIN Sports Xtra&&https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
 ES  Real Madrid ENG&&https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
 ES  Real Madrid ESP&&https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
-ESPN Deportes&&https://cors-proxy.cooks.fyi/https://linear.stvacdn.spectrum.com/LIVE/1166/dash/cenc/ESPNDHD_13667/manifest.mpd``be65e5985fa04a49af310f0a92a0260a:1acb5ff7b0dbfdf19c4dca1aabfaaa11
+ESPN Deportes&&https://cors-proxy.pulsesoftware.com/https://linear.stvacdn.spectrum.com/LIVE/1166/dash/cenc/ESPNDHD_13667/manifest.mpd``be65e5985fa04a49af310f0a92a0260a:1acb5ff7b0dbfdf19c4dca1aabfaaa11
 ESPN Premium&&https://tvfuego.cdn.rcs.net.ar/mnp/espnpremium/output.mpd
 ESPN 1&&https://tvfuego.cdn.rcs.net.ar/mnp/espn/output.mpd
 ESPN 3&&https://tvfuego.cdn.rcs.net.ar/mnp/espn3/output.mpd
@@ -112,10 +112,10 @@ EuroSports 1&&https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:4
 FIFA 1&&https://4b92bb6a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1hdF9GSUZBUGx1c19ITFM/playlist.m3u8
 FIFA 2&&https://38ca3c9c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c19ITFM/playlist.m3u8
 FIFA Plusᴴᴰ 🇵🇹🇧🇷 🟤&&https://6953b888.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctcHRfRklGQVBsdXNfSExT/playlist.m3u8
-Fox Deportes&&https://cors-proxy.cooks.fyi/https://linear.stvacdn.spectrum.com/LIVE/1106/dash/cenc/FXDEPHD/manifest.mpd``c9231d5e7a99429382e6a5c2e588e141:ca08ab407ab9393a814d720f1f41c6cf
-Fox Sports 1&&https://cors-proxy.cooks.fyi/https://linear-novi.stvacdn.spectrum.com/LIVE/1166/dash/cenc/SPEEDHD/manifest.mpd``4aa03f4ba0b54774accf43d15af7be70:843a421b633ae576f7ad62872d0d71b1
-Fox Sports 2&&https://cors-proxy.cooks.fyi/https://linear-novi.stvacdn.spectrum.com/LIVE/1108/dash/cenc/FS2HD_00564/manifest.mpd``426b95e246774cb798a8c845fe6333d6:91e511fd8c290134b28c36ee1c386ea9
-Fox Sports 3&&https://cors-proxy.cooks.fyi/https://linear.stvacdn.spectrum.com/LIVE/1143/dash/cenc/FSCPLHD/manifest.mpd``260465aba18e40329932d47e9c7aa20b:2b79020e3f3ddc94ba84943ba72d898c
+Fox Deportes&&https://cors-proxy.pulsesoftware.com/https://linear.stvacdn.spectrum.com/LIVE/1106/dash/cenc/FXDEPHD/manifest.mpd``c9231d5e7a99429382e6a5c2e588e141:ca08ab407ab9393a814d720f1f41c6cf
+Fox Sports 1&&https://cors-proxy.pulsesoftware.com/https://linear-novi.stvacdn.spectrum.com/LIVE/1166/dash/cenc/SPEEDHD/manifest.mpd``4aa03f4ba0b54774accf43d15af7be70:843a421b633ae576f7ad62872d0d71b1
+Fox Sports 2&&https://cors-proxy.pulsesoftware.com/https://linear-novi.stvacdn.spectrum.com/LIVE/1108/dash/cenc/FS2HD_00564/manifest.mpd``426b95e246774cb798a8c845fe6333d6:91e511fd8c290134b28c36ee1c386ea9
+Fox Sports 3&&https://cors-proxy.pulsesoftware.com/https://linear.stvacdn.spectrum.com/LIVE/1143/dash/cenc/FSCPLHD/manifest.mpd``260465aba18e40329932d47e9c7aa20b:2b79020e3f3ddc94ba84943ba72d898c
 FUTV&&https://cdn02.teletica.com/StreamFutv/Streamfutv04122023/playlist.m3u8
 LaLiga HyperMotion&&https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/woujvkfnmn/out/v1/141b52f08a1e4e97850219729ee48dc8/cenc.mpd``0b1fdeaee3ffc51e9a66cf1938d57aaf:28e3cb88ab7b476b81ab8aa0624c4d71
 LaLiga Plus&&https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdgeVX/smil:272_HD.smil/manifest.mpd``aa724943787320593f5563048c90032d:a039276254f53769b040199a4eca8c2c
