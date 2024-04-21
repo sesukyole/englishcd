@@ -10,8 +10,7 @@ Sky Action&&`0https://go.now.net.eu.org/p/live?embed=skyaction&type=m
 Sky Cricket&&`0https://go.now.net.eu.org/p/live?embed=skycricket&type=m
 Sky Golf&&`0https://go.now.net.eu.org/p/live?embed=skygolf&type=m
 Sky Racing&&`0https://go.now.net.eu.org/p/live?embed=skyracing&type=m
-Sky News&&`0https://go.now.net.eu.org/p/live?embed=skyracing&type=m
-Flik&&https://cors-proxy.elfsight.com/https://idx1.freemiumiptv.top/cdn08jtedgeindihometvcom/dassdvr/133/flik/manifest.mpd``69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+Flik&&https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd``69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 MakkahTV.id&&01`02aAlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd``67fe3ac3ca111c9bdd6e8480091dc13c:7d05fb1ff7705c1e452ff7e1b841a1b8
 Spo1.id&&01`02aSPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd``57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
 Spo2.id&&01`02aSPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd``57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
