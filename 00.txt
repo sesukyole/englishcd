@@ -160,16 +160,6 @@ True Sports 2&&https://cors-proxy.pulsesoftware.com/https://edge1.laotv.la/live/
 True Sports 3&&https://cors-proxy.pulsesoftware.com/https://edge1.laotv.la/live/TrueSport3/manifest.mpd
 True Sports 7&&https://cors-proxy.pulsesoftware.com/https://edge1.laotv.la/live/THD7/manifest.mpd
 BE  Eleven Sports EPL&&`0https://go.now.net.eu.org/yos512/live?embed=epl1be&type=m
-FR  beIN Sports 1&&`0https://go.now.net.eu.org/yos512/live?embed=bein1fr&type=m
-FR  beIN Sports 2&&`0https://go.now.net.eu.org/yos512/live?embed=bein2fr&type=m
-FR  beIN Sports 3&&`0https://go.now.net.eu.org/yos512/live?embed=bein3fr&type=m
-FR  beIN Sports Max 4&&`0https://go.now.net.eu.org/yos512/live?embed=beinmax4fr&type=m
-FR  beIN Sports Max 5&&`0https://go.now.net.eu.org/yos512/live?embed=beinmax5fr&type=m
-FR  beIN Sports Max 6&&`0https://go.now.net.eu.org/yos512/live?embed=beinmax6fr&type=m
-FR  beIN Sports Max 7&&`0https://go.now.net.eu.org/yos512/live?embed=beinmax7fr&type=m
-FR  beIN Sports Max 8&&`0https://go.now.net.eu.org/yos512/live?embed=beinmax8fr&type=m
-FR  beIN Sports Max 9&&`0https://go.now.net.eu.org/yos512/live?embed=beinmax9fr&type=m
-FR  beIN Sports Max 10&&`0https://go.now.net.eu.org/yos512/live?embed=beinmax10fr&type=m
 MY  beIN Sports Uni 1&&`0https://go.now.net.eu.org/yos512/live?embed=bein1uni&type=m
 MY  beIN Sports Uni 2&&`0https://go.now.net.eu.org/yos512/live?embed=bein2uni&type=m
 MY  beIN Sports Uni 3&&`0https://go.now.net.eu.org/yos512/live?embed=bein3uni&type=m
@@ -232,6 +222,16 @@ BR 5&&`0https://sportsonline.si/channels/bra/br5.php
 BR 6&&`0https://sportsonline.si/channels/bra/br6.php
 BR 7&&`0https://sportsonline.si/channels/bra/br7.php
 BR 8&&`0https://sportsonline.si/channels/bra/br8.php
+FR  beIN Sports 1&&`0https://go.now.net.eu.org/yos512/live?embed=bein1fr&type=m
+FR  beIN Sports 2&&`0https://go.now.net.eu.org/yos512/live?embed=bein2fr&type=m
+FR  beIN Sports 3&&`0https://go.now.net.eu.org/yos512/live?embed=bein3fr&type=m
+FR  beIN Sports Max 4&&`0https://go.now.net.eu.org/yos512/live?embed=beinmax4fr&type=m
+FR  beIN Sports Max 5&&`0https://go.now.net.eu.org/yos512/live?embed=beinmax5fr&type=m
+FR  beIN Sports Max 6&&`0https://go.now.net.eu.org/yos512/live?embed=beinmax6fr&type=m
+FR  beIN Sports Max 7&&`0https://go.now.net.eu.org/yos512/live?embed=beinmax7fr&type=m
+FR  beIN Sports Max 8&&`0https://go.now.net.eu.org/yos512/live?embed=beinmax8fr&type=m
+FR  beIN Sports Max 9&&`0https://go.now.net.eu.org/yos512/live?embed=beinmax9fr&type=m
+FR  beIN Sports Max 10&&`0https://go.now.net.eu.org/yos512/live?embed=beinmax10fr&type=m
 Badminton Court 1&&`0https://www.youtube.com/embed/BKLakc-QLkA?si=9n4dfRCHtEsJjrAG
 Badminton Court 3&&`0https://www.youtube.com/embed/SPwE__nt4iE?si=QLYU-a4pTtdmxqUo
 Badminton Court 4&&`0https://www.youtube.com/embed/jgLCuQ6dNL0?si=PeRCLwTMuON8e2LT
