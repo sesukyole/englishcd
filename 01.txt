@@ -1,6 +1,3 @@
-beIN Sports 1 TV Indonesia&&`1https://en.freewatchtv.top/embed/bein-sports-1/
-beIN Sports 3 TV Indonesia&&`1https://en.freewatchtv.top/embed/bein-sports-3/
-Moji TV&&`1https://en.freewatchtv.top/embed/moji-tv/
 Soccer Channel TV&&`1https://en.freewatchtv.top/embed/soccer-channel/
 SportStars 1 TV&&`1https://en.freewatchtv.top/embed/sportstars-tv/
 SportStars 2 TV&&`1https://en.freewatchtv.top/embed/sportstars2-tv/
@@ -10,6 +7,9 @@ SPOTV1&&`1https://en.freewatchtv.top/embed/spotv/
 SPOTV2&&`1https://en.freewatchtv.top/embed/spotv2/
 Usee Sports 1 TV&&`1https://en.freewatchtv.top/embed/usee-sports/
 Usee Sports 2 TV&&`1https://en.freewatchtv.top/embed/usee-sports-2/
+Moji TV&&`1https://en.freewatchtv.top/embed/moji-tv/
+beIN Sports 3 TV Indonesia&&`1https://en.freewatchtv.top/embed/bein-sports-3/
+beIN Sports 1 TV Indonesia&&`1https://en.freewatchtv.top/embed/bein-sports-1/
 Animax TV Indonesia&&`1https://en.freewatchtv.top/embed/animax/
 AniPlus Indonesia&&`1https://en.freewatchtv.top/embed/aniplus/
 BabyTV&&`1https://en.freewatchtv.top/embed/babytv/
