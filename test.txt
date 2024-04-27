@@ -25,6 +25,33 @@ tvMu&&`101`00c743801`00d
 Tv9&&`101`00c373801`00d
 Bandung&&`101`00c3513201`00d
 Bali&&`101`00c283901`00d
+Makkah&&`1https://useetvwv.visionplus.id/playing/channels/36545
+DW&&`1https://useetvwv.visionplus.id/playing/channels/32452
+SEA Today&&`1https://useetvwv.visionplus.id/playing/channels/337614
+DAAI&&`1https://useetvwv.visionplus.id/playing/channels/32827
+RCTI&&`1https://useetvwv.visionplus.id/playing/channels/32
+iNews&&`1https://useetvwv.visionplus.id/playing/channels/35
+GTV&&`1https://useetvwv.visionplus.id/playing/channels/33
+Metro&&`1https://useetvwv.visionplus.id/playing/channels/310
+MNC&&`1https://useetvwv.visionplus.id/playing/channels/34
+ANTV&&`1https://useetvwv.visionplus.id/playing/channels/312
+Trans TV&&`1https://useetvwv.visionplus.id/playing/channels/36
+Trans 7&&`1https://useetvwv.visionplus.id/playing/channels/311
+RTV&&`1https://useetvwv.visionplus.id/playing/channels/32901
+Kompas&&`1https://useetvwv.visionplus.id/playing/channels/32909
+Jak TV&&`1https://useetvwv.visionplus.id/playing/channels/32767
+Net.&&`1https://useetvwv.visionplus.id/playing/channels/32830
+tv One&&`1https://useetvwv.visionplus.id/playing/channels/38
+BTV&&`1https://useetvwv.visionplus.id/playing/channels/32746
+IDX&&`1https://useetvwv.visionplus.id/playing/channels/362
+JTV&&`1https://useetvwv.visionplus.id/playing/channels/32836
+TVRI&&`1https://useetvwv.visionplus.id/playing/channels/313
+Tawaf&&`1https://useetvwv.visionplus.id/playing/channels/319613
+Muslim&&`1https://useetvwv.visionplus.id/playing/channels/352
+tvMu&&`1https://useetvwv.visionplus.id/playing/channels/37438
+Tv9&&`1https://useetvwv.visionplus.id/playing/channels/33738
+Bandung&&`1https://useetvwv.visionplus.id/playing/channels/335132
+Bali&&`1https://useetvwv.visionplus.id/playing/channels/32839
 AFC-1&&https://pull.bzssnkeji.com/live/4793007_lhd.flv?auth_info=qOZNkcdYMmk2tXz45YmGPuFUmsKitEaQRVKjTJj76WjFM%2BeNTXyIVX7jFz1SRssT.72454d58794d5a674c64485a525a6544
 AFC-2&&https://pull.bzssnkeji.com/live/4792947_lhd.flv?auth_info=ABGQ2V8yUyK52J5SIx4x4RdcHaO%2BlY7YozZAlR2T2WZt%2BOex%2F5HJM6SriTi%2Bhyjy.4d58475967637270797755664a787072
 SportStar 1&&`0https://go.now.net.eu.org/p/live?embed=id_48&type=h
