@@ -93,24 +93,24 @@ MY  8TV&&https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9
 MY  Drama Hebat&&https://ce2388031147403ca25a81e56607a193.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_1_Ad/dash.mpd
 MY  Drama HotPot&&https://770c1b3657e94bc4b76ecd3e12882bcc.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_4_Ad/dash.mpd
 MY  Filem Mantap&&https://78470390525b4b03b023113696878114.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_2_Ad/dash.mpd
-AisPlay Cinemax&&https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0118/DASH/V0118.mpd``b541612bcb4598f60c4efc1733b5d8c9:7e6d2819c0912a204fd5478f8a60d1b5
-AisPlay HBO&&https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0114/DASH/V0114.mpd``da901f885137d1f274dc7592762611ab:4d3536a7f0d996d6b013fc3dc1de7a3d
-AisPlay HBO Family&&https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0115/DASH/V0115.mpd``96af42ae402ccc9b3f92a8e99ec8f5aa:6a0991ae3f06f76a010afa5515f67ac6
-AisPlay HBO Hits&&https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0116/DASH/V0116.mpd``56c2717c2c6431c75ac1fbf64a997cb6:d4544ffd929b2da1f6101705e74facee
-AisPlay HBO Signature&&https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0117/DASH/V0117.mpd``97c1c27765dae9b95ee04ea6e8f50c34:7db57b354d4d9cdb22e256c2a7500956
-AisPlay Paramount&&https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0185/DASH/V0185.mpd``25bf32f14fa2141acb7d008c0c438bc8:e8b12304c39c113f97de330a27887b31
+AisPlay Cinemax&&https://cors-proxy.pulsesoftware.com/https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0118/DASH/V0118.mpd``b541612bcb4598f60c4efc1733b5d8c9:7e6d2819c0912a204fd5478f8a60d1b5
+AisPlay HBO&&https://cors-proxy.pulsesoftware.com/https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0114/DASH/V0114.mpd``da901f885137d1f274dc7592762611ab:4d3536a7f0d996d6b013fc3dc1de7a3d
+AisPlay HBO Family&&https://cors-proxy.pulsesoftware.com/https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0115/DASH/V0115.mpd``96af42ae402ccc9b3f92a8e99ec8f5aa:6a0991ae3f06f76a010afa5515f67ac6
+AisPlay HBO Hits&&https://cors-proxy.pulsesoftware.com/https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0116/DASH/V0116.mpd``56c2717c2c6431c75ac1fbf64a997cb6:d4544ffd929b2da1f6101705e74facee
+AisPlay HBO Signature&&https://cors-proxy.pulsesoftware.com/https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0117/DASH/V0117.mpd``97c1c27765dae9b95ee04ea6e8f50c34:7db57b354d4d9cdb22e256c2a7500956
+AisPlay Paramount&&https://cors-proxy.pulsesoftware.com/https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0185/DASH/V0185.mpd``25bf32f14fa2141acb7d008c0c438bc8:e8b12304c39c113f97de330a27887b31
 TH  ALTV4&&https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
-TH  Cool&&https://edge1.laotv.la/live/COOL/manifest.mpd
-TH  Hit&&https://edge1.laotv.la/live/Hit/manifest.mpd
-TH  LNTV3&&https://edge1.laotv.la/live/LNTV3/manifest.mpd
-TH  MChannel&&https://edge1.laotv.la/live/MChannel/manifest.mpd
-TH  Mono29&&https://edge1.laotv.la/live/Mono29/manifest.mpd
-TH  MVTV&&https://edge1.laotv.la/live/MVTV/manifest.mpd
-TH  News1&&https://edge1.laotv.la/live/News1/manifest.mpd
-TH  PNN&&https://edge1.laotv.la/live/PNN/manifest.mpd
-TH  SunTV&&https://edge1.laotv.la/live/SunTV/manifest.mpd
-TH  True4U&&https://edge1.laotv.la/live/True4U/manifest.mpd
-TH  WishChannel&&https://edge1.laotv.la/live/WishChannel/manifest.mpd
+TH  Cool&&https://cors-proxy.pulsesoftware.com/https://edge1.laotv.la/live/COOL/manifest.mpd
+TH  Hit&&https://cors-proxy.pulsesoftware.com/https://edge1.laotv.la/live/Hit/manifest.mpd
+TH  LNTV3&&https://cors-proxy.pulsesoftware.com/https://edge1.laotv.la/live/LNTV3/manifest.mpd
+TH  MChannel&&https://cors-proxy.pulsesoftware.com/https://edge1.laotv.la/live/MChannel/manifest.mpd
+TH  Mono29&&https://cors-proxy.pulsesoftware.com/https://edge1.laotv.la/live/Mono29/manifest.mpd
+TH  MVTV&&https://cors-proxy.pulsesoftware.com/https://edge1.laotv.la/live/MVTV/manifest.mpd
+TH  News1&&https://cors-proxy.pulsesoftware.com/https://edge1.laotv.la/live/News1/manifest.mpd
+TH  PNN&&https://cors-proxy.pulsesoftware.com/https://edge1.laotv.la/live/PNN/manifest.mpd
+TH  SunTV&&https://cors-proxy.pulsesoftware.com/https://edge1.laotv.la/live/SunTV/manifest.mpd
+TH  True4U&&https://cors-proxy.pulsesoftware.com/https://edge1.laotv.la/live/True4U/manifest.mpd
+TH  WishChannel&&https://cors-proxy.pulsesoftware.com/https://edge1.laotv.la/live/WishChannel/manifest.mpd
 TH  HBO&&https://cnt1-streamer9.cdn.3bbtv.com:8443/3bb/live/103/103.mpd``9c5735afb4fd402580360aed8364469c:128d55d9ac2b47ad85f86b5d08320179
 TH  HBO Family&&https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/106/106.mpd``07b138f30ad3441ca5a2f476e550af25:826ee4deef4b45cfafd5f79a591b15c6
 TH  HBO Hits&&https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/105/105.mpd``7c04b8e7aa524afea879b2ed1aef8242:91e72b75fcb94c3bb36cceb741afd621
@@ -158,9 +158,9 @@ AU  ABC News TV&&https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987
 CN  Wion&&https://op-group1-swiftservehd-1.dens.tv/h/h91/index.m3u8
 CN  CGTN Documentary TV&&https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 CN  CGTN TV&&https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
-CN  Lotus Macau&&https://edge1.laotv.la/live/AomenLotus/manifest.mpd
-CN  Hunan&&https://edge1.laotv.la/live/Hunan/manifest.mpd
-CN  Longxiang&&https://edge1.laotv.la/live/Longxiang/manifest.mpd
+CN  Lotus Macau&&https://cors-proxy.pulsesoftware.com/https://edge1.laotv.la/live/AomenLotus/manifest.mpd
+CN  Hunan&&https://cors-proxy.pulsesoftware.com/https://edge1.laotv.la/live/Hunan/manifest.mpd
+CN  Longxiang&&https://cors-proxy.pulsesoftware.com/https://edge1.laotv.la/live/Longxiang/manifest.mpd
 HK TVB Jade&&https://raw.githubusercontent.com/mimipipi22/lalajo/main/tvbjade.m3u8
 Global Fashion Channel&&https://gfcomnimedia-globalfashionchannel-1-eu.xiaomi.wurl.tv/playlist.m3u8
 FR  FashionTV&&https://fashs043.cloudycdn.services/scte/pg18/playlist.m3u8
@@ -205,26 +205,26 @@ Best Action&&https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413
 Best Thriller&&https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/anyaott4_sofast/60917caa-de31-4fed-9e63-bafffb5f5a7e_0_HLS/manifest.m3u8
 Xplore&&https://xlpore-samsungus.amagi.tv/playlist.m3u8
 Animal Planet&&https://raw.githubusercontent.com/mimipipi22/lalajo/main/animalplanet.m3u8
-Animal Show&&https://edge1.laotv.la/live/AnimalShow/manifest.mpd
-Cartoon Network&&https://edge1.laotv.la/live/CartoonNetwork/manifest.mpd
-Celestial Movies&&https://edge1.laotv.la/live/CHCA/manifest.mpd
-China Movies&&https://edge1.laotv.la/live/ChinaMovie/manifest.mpd
-Cinemax&&https://edge1.laotv.la/live/Cinemax/manifest.mpd
-CNBC&&https://edge1.laotv.la/live/CNBC/manifest.mpd
-CNN&&https://edge1.laotv.la/live/CNN/manifest.mpd
-Dongsen Foreign Movie&&https://edge1.laotv.la/live/DongsenForeignMovie/manifest.mpd
-EBC Movies&&https://edge1.laotv.la/live/DongsenMovie/manifest.mpd
-DW&&https://edge1.laotv.la/live/DW/manifest.mpd
-HBO&&https://edge1.laotv.la/live/HBO/manifest.mpd
-KBS&&https://edge1.laotv.la/live/KBS/manifest.mpd
-NHK&&https://edge1.laotv.la/live/NHK/manifest.mpd
-Phoenix News&&https://edge1.laotv.la/live/PhoenixNews/manifest.mpd
-Phoenix TV&&https://edge1.laotv.la/live/PhxChinese/manifest.mpd
-SkyWorld&&https://edge1.laotv.la/live/SkyWorld/manifest.mpd
-Asian Movies&&https://edge1.laotv.la/live/TSHD/manifest.mpd
-True Film&&https://edge1.laotv.la/live/TureFilm/manifest.mpd
-StarMovies&&https://edge1.laotv.la/live/StarMovie/manifest.mpd
-VTC 3&&https://edge1.laotv.la/live/ABCA/manifest.mpd
+Animal Show&&https://cors-proxy.pulsesoftware.com/https://edge1.laotv.la/live/AnimalShow/manifest.mpd
+Cartoon Network&&https://cors-proxy.pulsesoftware.com/https://edge1.laotv.la/live/CartoonNetwork/manifest.mpd
+Celestial Movies&&https://cors-proxy.pulsesoftware.com/https://edge1.laotv.la/live/CHCA/manifest.mpd
+China Movies&&https://cors-proxy.pulsesoftware.com/https://edge1.laotv.la/live/ChinaMovie/manifest.mpd
+Cinemax&&https://cors-proxy.pulsesoftware.com/https://edge1.laotv.la/live/Cinemax/manifest.mpd
+CNBC&&https://cors-proxy.pulsesoftware.com/https://edge1.laotv.la/live/CNBC/manifest.mpd
+CNN&&https://cors-proxy.pulsesoftware.com/https://edge1.laotv.la/live/CNN/manifest.mpd
+Dongsen Foreign Movie&&https://cors-proxy.pulsesoftware.com/https://edge1.laotv.la/live/DongsenForeignMovie/manifest.mpd
+EBC Movies&&https://cors-proxy.pulsesoftware.com/https://edge1.laotv.la/live/DongsenMovie/manifest.mpd
+DW&&https://cors-proxy.pulsesoftware.com/https://edge1.laotv.la/live/DW/manifest.mpd
+HBO&&https://cors-proxy.pulsesoftware.com/https://edge1.laotv.la/live/HBO/manifest.mpd
+KBS&&https://cors-proxy.pulsesoftware.com/https://edge1.laotv.la/live/KBS/manifest.mpd
+NHK&&https://cors-proxy.pulsesoftware.com/https://edge1.laotv.la/live/NHK/manifest.mpd
+Phoenix News&&https://cors-proxy.pulsesoftware.com/https://edge1.laotv.la/live/PhoenixNews/manifest.mpd
+Phoenix TV&&https://cors-proxy.pulsesoftware.com/https://edge1.laotv.la/live/PhxChinese/manifest.mpd
+SkyWorld&&https://cors-proxy.pulsesoftware.com/https://edge1.laotv.la/live/SkyWorld/manifest.mpd
+Asian Movies&&https://cors-proxy.pulsesoftware.com/https://edge1.laotv.la/live/TSHD/manifest.mpd
+True Film&&https://cors-proxy.pulsesoftware.com/https://edge1.laotv.la/live/TureFilm/manifest.mpd
+StarMovies&&https://cors-proxy.pulsesoftware.com/https://edge1.laotv.la/live/StarMovie/manifest.mpd
+VTC 3&&https://cors-proxy.pulsesoftware.com/https://edge1.laotv.la/live/ABCA/manifest.mpd
 Highway Thru Channel&&https://linear-120.frequency.stream/dist/localnow/120/hls/master/playlist.m3u8
 Local Now Zen&&https://linear-125.frequency.stream/dist/localnow/125/hls/master/playlist.m3u8
 Weather Gone Viral&&https://linear-128.frequency.stream/dist/localnow/128/hls/master/playlist.m3u8
@@ -320,16 +320,16 @@ JP  BS Tsuri Vision&&https://stream01.willfonk.com/live_playlist.m3u8?cid=BS241&
 JP  BS TV Tokyo&&https://stream01.willfonk.com/live_playlist.m3u8?cid=BS161&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 JP  Channel Neco&&https://stream01.willfonk.com/live_playlist.m3u8?cid=BS251&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 JP  Toei Channel&&https://stream01.willfonk.com/live_playlist.m3u8?cid=BS171&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-CN  CCTV 1&&https://edge1.laotv.la/live/CCTV1/manifest.mpd
-CN  CCTV 2&&https://edge1.laotv.la/live/CCTV2/manifest.mpd
-CN  CCTV 3&&https://edge1.laotv.la/live/CCTV3/manifest.mpd
-CN  CCTV 4&&https://edge1.laotv.la/live/CCTV4A/manifest.mpd
-CN  CCTV 5&&https://edge1.laotv.la/live/CCTV5+/manifest.mpd
-CN  CCTV 7&&https://edge1.laotv.la/live/CCTV7/manifest.mpd
-CN  CCTV 8&&https://edge1.laotv.la/live/CCTV8/manifest.mpd
-CN  CCTV 14&&https://edge1.laotv.la/live/CCTV14/manifest.mpd
-CN  CCTV 15&&https://edge1.laotv.la/live/CCTV15/manifest.mpd
-CN  CCTV Golf&&https://edge1.laotv.la/live/BosiGolf/manifest.mpd
+CN  CCTV 1&&https://cors-proxy.pulsesoftware.com/https://edge1.laotv.la/live/CCTV1/manifest.mpd
+CN  CCTV 2&&https://cors-proxy.pulsesoftware.com/https://edge1.laotv.la/live/CCTV2/manifest.mpd
+CN  CCTV 3&&https://cors-proxy.pulsesoftware.com/https://edge1.laotv.la/live/CCTV3/manifest.mpd
+CN  CCTV 4&&https://cors-proxy.pulsesoftware.com/https://edge1.laotv.la/live/CCTV4A/manifest.mpd
+CN  CCTV 5&&https://cors-proxy.pulsesoftware.com/https://edge1.laotv.la/live/CCTV5+/manifest.mpd
+CN  CCTV 7&&https://cors-proxy.pulsesoftware.com/https://edge1.laotv.la/live/CCTV7/manifest.mpd
+CN  CCTV 8&&https://cors-proxy.pulsesoftware.com/https://edge1.laotv.la/live/CCTV8/manifest.mpd
+CN  CCTV 14&&https://cors-proxy.pulsesoftware.com/https://edge1.laotv.la/live/CCTV14/manifest.mpd
+CN  CCTV 15&&https://cors-proxy.pulsesoftware.com/https://edge1.laotv.la/live/CCTV15/manifest.mpd
+CN  CCTV Golf&&https://cors-proxy.pulsesoftware.com/https://edge1.laotv.la/live/BosiGolf/manifest.mpd
 BE  Club 1&&https://origin2-rtlbe.live.6cloud.fr/pool_z6h2o6qd/clubrtl/rtlbesd/dash_short_cenc10_clubrtl/index.mpd``b53316f32fc93b51a61ba6fdf0bce6c1:d752d66843a48a6fed64eed8f87adc3e
 BR  SBT&&https://0006-bbc.dtvott.com/dash_live_0035/manifest.mpd``3ad3dca103185934acff7a0e9000c112:3f396659d841a55cd1381e6735ecfa1d
 Canal 5&&https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
@@ -581,7 +581,7 @@ IDiscovery 🇮🇳🇺🇸&&https://denver1769.pages.dev/Discovery/id_hd_englis
 IDiscovery 🇮🇳🇺🇸&&https://raw.githubusercontent.com/inspirationlinks/m3u/live/Streams/DiscID.m3u8
 HGTVᴴᴰ 🇮🇳🇺🇸&&https://raw.githubusercontent.com/inspirationlinks/m3u/live/Streams/AGTV.m3u8
 HGTVᴴᴰ 🇮🇳🇺🇸&&https://denver1769.pages.dev/Discovery/hgtv_hd_english.m3u8
-Discovery&&https://edge1.laotv.la/live/Discovery/manifest.mpd
+Discovery&&https://cors-proxy.pulsesoftware.com/https://edge1.laotv.la/live/Discovery/manifest.mpd
 Discovery HD 🇮🇳🇺🇸&&https://raw.githubusercontent.com/inspirationlinks/m3u/live/Streams/Disc.m3u8
 Discovery HD 🇮🇳🇺🇸&&https://denver1769.pages.dev/Discovery/discovery_hd_english.m3u8
 DMAX 🇮🇳🇺🇸&&https://raw.githubusercontent.com/inspirationlinks/m3u/live/Streams/Dmax.m3u8
@@ -602,7 +602,7 @@ LE FIGARO LIVE&&https://d358c6mfrono1y.cloudfront.net/v1/manifest/3722c60a815c19
 I24 NEWS FR&&https://bcovlive-a.akamaihd.net/cc8266d36bb5469b8b4a3097497e06e6/eu-central-1/5377161796001/playlist-all.m3u8
 CGTN FRANÇAIS&&https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
 RDI CANADA&&https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
-AFRICA 24&&https://edge12.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
+AFRICA 24&&https://cors-proxy.pulsesoftware.com/https://edge12.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
 BFM BUSINESS&&https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&end=END
 BFM ALPES&&https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_DICI_ALPESDUSUD/index.m3u8?start=LIVE&end=END
 BFM ALSACE&&https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_ALSACE/index.m3u8?start=LIVE&end=END
