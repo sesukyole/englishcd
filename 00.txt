@@ -76,6 +76,7 @@ Arena Sport 4&&https://cors-proxy.pulsesoftware.com/https://webtvstream.bhteleco
 Arena Sport 5&&https://cors-proxy.pulsesoftware.com/https://webtvstream.bhtelecom.ba/hls6/arena5.mpd``c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 Arena Sport 6&&https://cors-proxy.pulsesoftware.com/https://webtvstream.bhtelecom.ba/hls6/arena6.mpd``c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 RU Match!&&https://livetv.mylifeisgood.net.ru/channels/matchhd_nocensored.m3u8
+Tipik Premium&&https://daiconnect.com/live/dash/rtbf/tipik-premium-drm-2/.mpd``2f794d3c19854f4fa6f0183b993b86fa:37077d010758ce2cb85ca46720884b01
 Abu Dhabi Sports 1&&https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8?c
 Abu Dhabi Sports 2&&https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8?c
 AR  TNT Sports&&https://bvsat02.cdn.rcs.net.ar/mnp/tntsports/output.mpd
@@ -141,34 +142,43 @@ PT  Sport TV 2&&`0https://sportsonline.si/channels/pt/sporttv2.php
 PT  Sport TV 3&&`0https://sportsonline.si/channels/pt/sporttv3.php
 PT  Sport TV 4&&`0https://sportsonline.si/channels/pt/sporttv4.php
 PT  Sport TV 5&&`0https://sportsonline.si/channels/pt/sporttv5.php
-ES  DAZN F1&&`0https://go.now.net.eu.org/p/live?embed=daznf1&type=m
-DE  DAZN 1&&`0https://go.now.net.eu.org/p/live?embed=dazn1de&type=m
-DE  DAZN 2&&`0https://go.now.net.eu.org/p/live?embed=dazn2de&type=m
-DE  SportDigital FussBall&&`0https://go.now.net.eu.org/p/live?embed=digital&type=m
-US  DAZN NFL&&`0https://go.now.net.eu.org/p/live?embed=daznnfl&type=m
-IT  Zona DAZN&&`0https://go.now.net.eu.org/p/live?embed=zonait&type=m
-IT  Milan TV&&`0https://go.now.net.eu.org/p/live?embed=milantv&type=m
-US  DAZN MLB&&`0https://go.now.net.eu.org/p/live?embed=daznmlb&type=m
-DE  EuroSports 1&&`0https://go.now.net.eu.org/p/live?embed=euro1de&type=m
-DE  EuroSports 2&&`0https://go.now.net.eu.org/p/live?embed=euro2de&type=m
-ES  EuroSports 1&&`0https://go.now.net.eu.org/p/live?embed=euro1es&type=m
-ES  EuroSports 2&&`0https://go.now.net.eu.org/p/live?embed=euro2es&type=m
-IT  Inter TV&&`0https://go.now.net.eu.org/p/live?embed=intertv&type=m
-US  DAZN NBA&&`0https://go.now.net.eu.org/p/live?embed=daznnba&type=m
-US  DAZN RedBull&&`0https://go.now.net.eu.org/p/live?embed=redbull&type=m
-ES  DAZN 1&&`0https://go.now.net.eu.org/p/live?embed=dazn1es&type=m
-ES  DAZN 2&&`0https://go.now.net.eu.org/p/live?embed=dazn2es&type=m
-ES  DAZN LaLiga HyperMotion&&`0https://go.now.net.eu.org/p/live?embed=laligah&type=m
-ES  DAZN LaLiga&&`0https://go.now.net.eu.org/p/live?embed=laligaes&type=m
-BE  PlaySports 1&&`0https://go.now.net.eu.org/p/live?embed=plays1be&type=m
-BE  PlaySports 2&&`0https://go.now.net.eu.org/p/live?embed=plays2be&type=m
-BE  PlaySports 3&&`0https://go.now.net.eu.org/p/live?embed=plays3be&type=m
-PT  Eleven Sports 1&&`0https://go.now.net.eu.org/p/live?embed=eleven1pt&type=m
-PT  Eleven Sports 2&&`0https://go.now.net.eu.org/p/live?embed=eleven2pt&type=m
-PT  Eleven Sports 3&&`0https://go.now.net.eu.org/p/live?embed=eleven3pt&type=m
-PT  Eleven Sports 4&&`0https://go.now.net.eu.org/p/live?embed=eleven4pt&type=m
-PT  Eleven Sports 5&&`0https://go.now.net.eu.org/p/live?embed=eleven5pt&type=m
-PT  Eleven Sports 6&&`0https://go.now.net.eu.org/p/live?embed=eleven6pt&type=m
+DAZN F1&&01`01a1601`01b
+DAZN 1 DE&&01`01a1701`01b
+DAZN 2 DE&&01`01a1801`01b
+SportDigital Fussball&&01`01a2201`01b
+NFL&&01`01a2301`01b
+Zona DAZN&&01`01a2401`01b
+Milan TV&&01`01a2501`01b
+MLB&&01`01a2601`01b
+EuroSport 1 DE&&01`01a2701`01b
+EuroSport 2 DE&&01`01a2801`01b
+EuroSport 1 IT&&01`01a2901`01b
+EuroSport 2 IT&&01`01a3001`01b
+EuroSport 1 ES&&01`01a3101`01b
+EuroSport 2 ES&&01`01a3201`01b
+Inter TV&&01`01a3301`01b
+DAZN NBA&&01`01a3501`01b
+Redbull TV&&01`01a3601`01b
+DAZN 1 ES&&01`01a3701`01b
+DAZN 2 ES&&01`01a3801`01b
+LaLiga Live HyperMotion&&01`01a4001`01b
+DAZN LaLiga&&01`01a4301`01b
+Unbeaten&&01`01a4401`01b
+DAZN 1 US&&01`01a4501`01b
+Canal+ Ligue1 Uber Eats&&01`01a4601`01b
+DAZN Eleven 1 ES&&01`01a4701`01b
+DAZN Eleven 1 ES&&01`01a4801`01b
+DAZN Eleven 01&&01`01a4901`01b
+DAZN Eleven 01&&01`01a5001`01b
+PlaySports 1&&01`01a5101`01b
+PlaySports 2&&01`01a5201`01b
+PlaySports 3&&01`01a5301`01b
+DAZN Eleven 1&&01`01a5401`01b
+DAZN Eleven 2&&01`01a5501`01b
+DAZN Eleven 3&&01`01a5601`01b
+DAZN Eleven 4&&01`01a5701`01b
+DAZN Eleven 5&&01`01a5801`01b
+DAZN Eleven 6&&01`01a5901`01b
 Oman Sport&&https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
 QAZ Sport Premium&&https://gameslive.akamaized.net/hls/live-97eee134-2b19-4781-b794-04d3490229e4_720p2800kbs/index.m3u8
 Setanta Sports 1&&https://bkm.beetv.kz/btv/live/hls/000006998.m3u8
@@ -242,6 +252,34 @@ FR  beIN Sports Max 7&&`0https://go.now.net.eu.org/p/live?embed=beinmax7fr&type=
 FR  beIN Sports Max 8&&`0https://go.now.net.eu.org/p/live?embed=beinmax8fr&type=m
 FR  beIN Sports Max 9&&`0https://go.now.net.eu.org/p/live?embed=beinmax9fr&type=m
 FR  beIN Sports Max 10&&`0https://go.now.net.eu.org/p/live?embed=beinmax10fr&type=m
+ES  DAZN F1&&`0https://go.now.net.eu.org/p/live?embed=daznf1&type=m
+DE  DAZN 1&&`0https://go.now.net.eu.org/p/live?embed=dazn1de&type=m
+DE  DAZN 2&&`0https://go.now.net.eu.org/p/live?embed=dazn2de&type=m
+DE  SportDigital FussBall&&`0https://go.now.net.eu.org/p/live?embed=digital&type=m
+US  DAZN NFL&&`0https://go.now.net.eu.org/p/live?embed=daznnfl&type=m
+IT  Zona DAZN&&`0https://go.now.net.eu.org/p/live?embed=zonait&type=m
+IT  Milan TV&&`0https://go.now.net.eu.org/p/live?embed=milantv&type=m
+US  DAZN MLB&&`0https://go.now.net.eu.org/p/live?embed=daznmlb&type=m
+DE  EuroSports 1&&`0https://go.now.net.eu.org/p/live?embed=euro1de&type=m
+DE  EuroSports 2&&`0https://go.now.net.eu.org/p/live?embed=euro2de&type=m
+ES  EuroSports 1&&`0https://go.now.net.eu.org/p/live?embed=euro1es&type=m
+ES  EuroSports 2&&`0https://go.now.net.eu.org/p/live?embed=euro2es&type=m
+IT  Inter TV&&`0https://go.now.net.eu.org/p/live?embed=intertv&type=m
+US  DAZN NBA&&`0https://go.now.net.eu.org/p/live?embed=daznnba&type=m
+US  DAZN RedBull&&`0https://go.now.net.eu.org/p/live?embed=redbull&type=m
+ES  DAZN 1&&`0https://go.now.net.eu.org/p/live?embed=dazn1es&type=m
+ES  DAZN 2&&`0https://go.now.net.eu.org/p/live?embed=dazn2es&type=m
+ES  DAZN LaLiga HyperMotion&&`0https://go.now.net.eu.org/p/live?embed=laligah&type=m
+ES  DAZN LaLiga&&`0https://go.now.net.eu.org/p/live?embed=laligaes&type=m
+BE  PlaySports 1&&`0https://go.now.net.eu.org/p/live?embed=plays1be&type=m
+BE  PlaySports 2&&`0https://go.now.net.eu.org/p/live?embed=plays2be&type=m
+BE  PlaySports 3&&`0https://go.now.net.eu.org/p/live?embed=plays3be&type=m
+PT  Eleven Sports 1&&`0https://go.now.net.eu.org/p/live?embed=eleven1pt&type=m
+PT  Eleven Sports 2&&`0https://go.now.net.eu.org/p/live?embed=eleven2pt&type=m
+PT  Eleven Sports 3&&`0https://go.now.net.eu.org/p/live?embed=eleven3pt&type=m
+PT  Eleven Sports 4&&`0https://go.now.net.eu.org/p/live?embed=eleven4pt&type=m
+PT  Eleven Sports 5&&`0https://go.now.net.eu.org/p/live?embed=eleven5pt&type=m
+PT  Eleven Sports 6&&`0https://go.now.net.eu.org/p/live?embed=eleven6pt&type=m
 Badminton Court 1&&`0https://www.youtube.com/embed/BKLakc-QLkA?si=9n4dfRCHtEsJjrAG
 Badminton Court 3&&`0https://www.youtube.com/embed/SPwE__nt4iE?si=QLYU-a4pTtdmxqUo
 Badminton Court 4&&`0https://www.youtube.com/embed/jgLCuQ6dNL0?si=PeRCLwTMuON8e2LT
