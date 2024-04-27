@@ -1,6 +1,14 @@
 AFC U23 SSC Sport Extra 1&&https://ssc-extra1-ak.akamaized.net/out/v1/647c58693f1d46af92bd7e69f17912cb/index.mpd``ecbc9e6fe6b145efb6658fb5cf7427f8:03c17e28911f71221acbc0b11f900401
 AFC U23 SSC Sport Extra 2&&https://ssc-extra2-ak.akamaized.net/out/v1/8b70de2b70d447ba8a7450ba90926a2d/index.mpd``4d89249bd4ca4ebc9e70443265f9507d:cf074ffd2646c9c2f8513b47fa57bc30
 AFC U23 SSC Sport Extra 3&&https://ssc-extra3-ak.akamaized.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/index.mpd``98cfd6fd4812497fb24dc75f7545f2ee:d3006ee69e77b25939728ebf30d3180a
+DE  Sport Plus&&https://ac-009.live.p7s1video.net/c5c609cf/t_009/sport1plus-de-hd/cenc-default.mpd``c1c11c3844b0dffdb9d9831900f1a1da:a2c31e15346f339ca2b47bdd8591553f
+BE  Eleven Sports EPL&&https://raw.githubusercontent.com/uploadplaylist/clon/main/eleven2BE.m3u8
+Arena Sport HR 1&&https://raw.githubusercontent.com/uploadplaylist/clon/main/arenasportHR1.m3u8
+Arena Sport HR 2&&https://raw.githubusercontent.com/uploadplaylist/clon/main/arenasportHR2.m3u8
+Arena Sport HR 3&&https://raw.githubusercontent.com/uploadplaylist/clon/main/arenasportHR3.m3u8
+Arena Sport HR 4&&https://raw.githubusercontent.com/uploadplaylist/clon/main/arenasportHR4.m3u8
+RMC Sport 1&&https://raw.githubusercontent.com/uploadplaylist/clon/main/rmcsport1.m3u8
+RMC Sport 2&&https://raw.githubusercontent.com/uploadplaylist/clon/main/rmcsport2.m3u8
 TV 2 Sport 1&&https://cors-proxy.pulsesoftware.com/https://live-aws-scalstrm-cdn.rikstv.no/live/rikstv/64393bf81dbc891fd41f53ac/manifest.mpd``0c6212056d2f51fcbf569f9a1a8517d1:d07b404deb7c958347d742e6d1d2f3f9
 TV 2 Sport Premium&&https://cors-proxy.pulsesoftware.com/https://ch11-hls-live.akamaized.net/out/u/433127.mpd``d12e4c9dc52f4cbab7ac9b2278317e47:a7987e5b6ec42db68a25486e108ca9f2
 beIN Sports 1&&https://cors-proxy.pulsesoftware.com/https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0001/DASH/S0001.mpd``3fd52d1e9ba4b180aec12c9295b62c0f:bb274e33da0c709e62c55d0cba911889
@@ -28,15 +36,16 @@ beIN Sports Extra&&https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d
 TH  Football 1&&https://cors-proxy.pulsesoftware.com/https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/TL001/HLS/TL001.m3u8
 TH  Football 2&&https://cors-proxy.pulsesoftware.com/https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/TL002/HLS/TL002.m3u8
 TH  Football 3&&https://cors-proxy.pulsesoftware.com/https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/TL003/HLS/TL003.m3u8
-Sky Sports Arena&&https://cors-proxy.pulsesoftware.com/https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/31024/FHD/skysportarena/master.mpd``00364ee1c777f44a74e4df12f3095503:77dee68a39366663755beb8fa62dcc1e
+Sky Sports Arena&&https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/31024/FHD/skysportarena/master.mpd``00364ee1c777f44a74e4df12f3095503:77dee68a39366663755beb8fa62dcc1e
 Sky Sports Calcio&&https://cors-proxy.pulsesoftware.com/https://linear302-it-dash1-prd-ll.cdn13.skycdp.com/31209/FHD/skysportseriea/master.mpd``0036e5d0e88dfb087f1791da6150ced9:0bc653d830837dceb13bd17169f0f8e2
 Sky Sports Max&&https://cors-proxy.pulsesoftware.com/https://linear305-it-dash1-prd-ll.cdn13.skycdp.com/31248/FHD/skysportmax/master.mpd``0036ae9248d939e4e1cd2198d2593a42:efc6699e1756403916b0280ea63f4c28
 Sky Sports MotoGP&&https://cors-proxy.pulsesoftware.com/https://linear306-it-dash1-prd.selector.skycdn.it/31483/FHD/skysportmotogp/master.mpd``0036ea2e908d4cc20ef08595da9ff991:08e1ae9fa0ee4d9ec2b194c4908613ae
 Sky Sports NBA&&https://cors-proxy.pulsesoftware.com/https://linear301-it-dash1-prd.selector.skycdn.it/31764/FHD/skysportnba/master_stereo.mpd``0036c4e453ae2a044f4c861ed73b560a:ea5626c0aa092c382ca58151b5f4b208
 Sky Sports Uno&&https://cors-proxy.pulsesoftware.com/https://linear301-it-dash1-prd-ll.cdn13.skycdp.com/31023/FHD/skysportuno/master_stereo.mpd``00362452ed102000ccea64c311921dc2:02f27bd6caab7633d3083b94d3958b1c
-Sky Sports F1&&https://cors-proxy.pulsesoftware.com/https://linear034-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportsf1)/manifest_720.mpd``0005c9fd8524e7b541a0a2a96837db67:9ab65cd67318c3ebe1649d26e8e2395d
+Sky Sports F1&&https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/31478/FHD/skysportf1/master.mpd``00366649eb2eb82ee172e1bd310e4136:27e85c17d97722288ffa5970389d8baf
 Sky Sports Football&&https://cors-proxy.pulsesoftware.com/https://linear014-gb-dash1-prd-ll.cdn.skycdp.com/Content/DASH_003_720_120/Live/channel(skysportsfootball)/manifest_720.mpd``00058250a3379de8bc837253d41fb434:f0dfa2c26f12eaf2c9b3c5a4a4f15a86
 Sky Sports Premier League&&https://cors-proxy.pulsesoftware.com/https://linear015-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportspremierleague)/manifest_720.mpd``0005e6237bc7c7a273c82a1b86b457c8:0783c788b5a8b7be6c77b13525a10eb8
+Sky Sports 252 PL&&https://linear311-it-dash1-prd-akg0.cdn13.skycdp.com/016a/32951/FHD/skysport252/master.mpd``0036c4797608fc64296d437bc6f8b790:1689af84b23f514005f9bb854da7667f
 Sky Sports Main Event&&https://cors-proxy.pulsesoftware.com/https://linear015-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportsmainevent)/manifest_720.mpd``0005403920c26e3aa0c4d81338d2690e:0931a3d1d36ae95a7fb7e08111aab4b3
 Sky Sports Mix&&`0https://go.now.net.eu.org/p/live?embed=skymix&type=m
 Sky Sports Action&&`0https://go.now.net.eu.org/p/live?embed=skyaction&type=m
@@ -66,12 +75,12 @@ Arena Sport 3&&https://cors-proxy.pulsesoftware.com/https://webtvstream.bhteleco
 Arena Sport 4&&https://cors-proxy.pulsesoftware.com/https://webtvstream.bhtelecom.ba/hls6/arena4.mpd``c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 Arena Sport 5&&https://cors-proxy.pulsesoftware.com/https://webtvstream.bhtelecom.ba/hls6/arena5.mpd``c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 Arena Sport 6&&https://cors-proxy.pulsesoftware.com/https://webtvstream.bhtelecom.ba/hls6/arena6.mpd``c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+RU Match!&&https://livetv.mylifeisgood.net.ru/channels/matchhd_nocensored.m3u8
 Abu Dhabi Sports 1&&https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8?c
 Abu Dhabi Sports 2&&https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8?c
 AR  TNT Sports&&https://bvsat02.cdn.rcs.net.ar/mnp/tntsports/output.mpd
 BR  BandSports&&https://0055-jbc.dtvott.com/dash_live_0054/manifest.mpd``bd1af42db82f5a17a0d75246f25f5201:a9edd4e2c410923e9cbcb261102e5008
 CR  Tigo Sports&&https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
-DE  Sport Plus&&https://ac-009.live.p7s1video.net/c5c609cf/t_009/sport1plus-de-hd/cenc-default.mpd``c1c11c3844b0dffdb9d9831900f1a1da:a2c31e15346f339ca2b47bdd8591553f
 Edge Sport&&https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8
 ES  beIN Sports Xtra&&https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
 ES  Real Madrid ENG&&https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
@@ -93,6 +102,7 @@ Fox Sports 3&&https://cors-proxy.cooks.fyi/https://linear.stvacdn.spectrum.com/L
 FUTV&&https://cdn02.teletica.com/StreamFutv/Streamfutv04122023/playlist.m3u8
 LaLiga HyperMotion&&https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/woujvkfnmn/out/v1/141b52f08a1e4e97850219729ee48dc8/cenc.mpd``0b1fdeaee3ffc51e9a66cf1938d57aaf:28e3cb88ab7b476b81ab8aa0624c4d71
 LaLiga Plus&&https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdgeVX/smil:272_HD.smil/manifest.mpd``aa724943787320593f5563048c90032d:a039276254f53769b040199a4eca8c2c
+USA East&&https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd``882c9f5613b43b47adc70aa968a308ce:de534ef8914bfe62ba3cdd6bdb9e1c04
 NBC Golf Sport&&https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc124phhny)/master.mpd``0020212a47511b226f7cc9d030aa171b:323c16315e1cb8d7c821facc3c1778a4
 NBC Sports&&https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc122ycnuy)/master.mpd``0020d88a6713159839743f655c5da7de:ba9f34226301f69a4f0f13f65a1f92ec
 NFL Sports&&https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(lc107a1ddy)/master.mpd``002007110c69a23803173b50eab05f23:590d6e8f4ca81319f9bb29104f571990
@@ -122,7 +132,6 @@ True Sports 1&&https://cors-proxy.pulsesoftware.com/https://edge1.laotv.la/live/
 True Sports 2&&https://cors-proxy.pulsesoftware.com/https://edge1.laotv.la/live/TrueSport2/manifest.mpd
 True Sports 3&&https://cors-proxy.pulsesoftware.com/https://edge1.laotv.la/live/TrueSport3/manifest.mpd
 True Sports 7&&https://cors-proxy.pulsesoftware.com/https://edge1.laotv.la/live/THD7/manifest.mpd
-BE  Eleven Sports EPL&&`0https://go.now.net.eu.org/p/live?embed=epl1be&type=m
 PT  Benefica&&`0https://sportsonline.si/channels/pt/btv.php
 PT  Eleven 1&&`0https://sportsonline.si/channels/pt/eleven1.php
 PT  Eleven 2&&`0https://sportsonline.si/channels/pt/eleven2.php
