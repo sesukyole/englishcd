@@ -1,6 +1,12 @@
 AFC U23 SSC Sport Extra 1&&https://ssc-extra1-ak.akamaized.net/out/v1/647c58693f1d46af92bd7e69f17912cb/index.mpd``ecbc9e6fe6b145efb6658fb5cf7427f8:03c17e28911f71221acbc0b11f900401
 AFC U23 SSC Sport Extra 2&&https://ssc-extra2-ak.akamaized.net/out/v1/8b70de2b70d447ba8a7450ba90926a2d/index.mpd``4d89249bd4ca4ebc9e70443265f9507d:cf074ffd2646c9c2f8513b47fa57bc30
 AFC U23 SSC Sport Extra 3&&https://ssc-extra3-ak.akamaized.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/index.mpd``98cfd6fd4812497fb24dc75f7545f2ee:d3006ee69e77b25939728ebf30d3180a
+MY  beIN Sports Uni 1&&`0https://go.now.net.eu.org/p/live?embed=bein1uni&type=m
+MY  beIN Sports Uni 2&&`0https://go.now.net.eu.org/p/live?embed=bein2uni&type=m
+MY  beIN Sports Uni 3&&`0https://go.now.net.eu.org/p/live?embed=bein3uni&type=m
+MY  beIN Sports Uni 4&&`0https://go.now.net.eu.org/p/live?embed=bein4uni&type=m
+MY  SpoTV 1&&`0https://go.now.net.eu.org/p/live?embed=spotv1my&type=m
+MY  SpoTV 2&&`0https://go.now.net.eu.org/p/live?embed=spotv2my&type=m
 DE  Sport Plus&&https://ac-009.live.p7s1video.net/c5c609cf/t_009/sport1plus-de-hd/cenc-default.mpd``c1c11c3844b0dffdb9d9831900f1a1da:a2c31e15346f339ca2b47bdd8591553f
 TV 2 Sport 1&&https://cors-proxy.pulsesoftware.com/https://live-aws-scalstrm-cdn.rikstv.no/live/rikstv/64393bf81dbc891fd41f53ac/manifest.mpd``0c6212056d2f51fcbf569f9a1a8517d1:d07b404deb7c958347d742e6d1d2f3f9
 TV 2 Sport Premium&&https://cors-proxy.pulsesoftware.com/https://ch11-hls-live.akamaized.net/out/u/433127.mpd``d12e4c9dc52f4cbab7ac9b2278317e47:a7987e5b6ec42db68a25486e108ca9f2
@@ -68,14 +74,9 @@ Arena Sport 3&&https://cors-proxy.pulsesoftware.com/https://webtvstream.bhteleco
 Arena Sport 4&&https://cors-proxy.pulsesoftware.com/https://webtvstream.bhtelecom.ba/hls6/arena4.mpd``c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 Arena Sport 5&&https://cors-proxy.pulsesoftware.com/https://webtvstream.bhtelecom.ba/hls6/arena5.mpd``c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 Arena Sport 6&&https://cors-proxy.pulsesoftware.com/https://webtvstream.bhtelecom.ba/hls6/arena6.mpd``c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-RU Match!&&https://livetv.mylifeisgood.net.ru/channels/matchhd_nocensored.m3u8
 Tipik Premium&&https://daiconnect.com/live/dash/rtbf/tipik-premium-drm-2/.mpd``2f794d3c19854f4fa6f0183b993b86fa:37077d010758ce2cb85ca46720884b01
 Abu Dhabi Sports 1&&https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8?c
 Abu Dhabi Sports 2&&https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8?c
-AR  TNT Sports&&https://bvsat02.cdn.rcs.net.ar/mnp/tntsports/output.mpd
-BR  BandSports&&https://0055-jbc.dtvott.com/dash_live_0054/manifest.mpd``bd1af42db82f5a17a0d75246f25f5201:a9edd4e2c410923e9cbcb261102e5008
-CR  Tigo Sports&&https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
-Edge Sport&&https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8
 ES  beIN Sports Xtra&&https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
 ES  Real Madrid ENG&&https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
 ES  Real Madrid ESP&&https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
@@ -112,7 +113,6 @@ TSN 3&&https://live-ctv.video.9c9media.com/f/TSN/TSN3/manifest.mpd``c0f378ad54e1
 TSN 4&&https://live-ctv.video.9c9media.com/f/TSN/TSN4/manifest.mpd``f0a2efd11e0643c3a45d6f67d02f1a97:85bf4469003bd28f01ea4fefedd5a431
 TSN 5&&https://live-ctv.video.9c9media.com/f/TSN/TSN5/manifest.mpd``cb57741a1cee422690c6294a06eb1320:7a0cfd493df6ef7cc0d0bb3ad95cec8c
 TUDN&&https://linear.stvacdn.spectrum.com/LIVE/1131/dash/cenc/TUDNUH_8283/manifest.mpd``85c8956b207c44a693d89984803c908b:8d8ff21c464506ef396356dd761f5ccd
-TyC Sports&&https://bvsat02.cdn.rcs.net.ar/mnp/tyc/output.mpd
 UK  MUTV&&https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 US  Willow&&https://linear-novi.stvacdn.spectrum.com/LIVE/1131/dash/cenc/WLLOHD_10364/manifest.mpd``6653c05e42fc4fac8f49d7cbf99498fe:3b88f2cff3affef20b265c840bafc0cc
 V Sports 1&&https://cors-proxy.pulsesoftware.com/https://live-aws-scalstrm-cdn.rikstv.no/live/rikstv/644bb6e91dbc891fd422efc9/manifest.mpd``4d808f2b9a74536cadbd95be141888ed:9dd89f67b8885dc65721a8b1fbeae700
@@ -215,6 +215,8 @@ HD 8&&`0https://sportsonline.si/channels/hd/hd8.php
 HD 9&&`0https://sportsonline.si/channels/hd/hd9.php
 HD 10&&`0https://sportsonline.si/channels/hd/hd10.php
 HD 11&&`0https://sportsonline.si/channels/hd/hd11.php
+Setanta Sports 1&&https://bkm.beetv.kz/btv/live/hls/000006998.m3u8
+Setanta Sports 2&&https://bkm.beetv.kz/btv/live/hls/000006899.m3u8
 BR 1&&`0https://sportsonline.si/channels/bra/br1.php
 BR 2&&`0https://sportsonline.si/channels/bra/br2.php
 BR 3&&`0https://sportsonline.si/channels/bra/br3.php
@@ -224,12 +226,6 @@ BR 6&&`0https://sportsonline.si/channels/bra/br6.php
 BR 7&&`0https://sportsonline.si/channels/bra/br7.php
 BR 8&&`0https://sportsonline.si/channels/bra/br8.php
 AFC U23 Sport 4&&`0https://go.now.net.eu.org/p/live?embed=h1&type=h
-MY  beIN Sports Uni 1&&`0https://go.now.net.eu.org/p/live?embed=bein1uni&type=m
-MY  beIN Sports Uni 2&&`0https://go.now.net.eu.org/p/live?embed=bein2uni&type=m
-MY  beIN Sports Uni 3&&`0https://go.now.net.eu.org/p/live?embed=bein3uni&type=m
-MY  beIN Sports Uni 4&&`0https://go.now.net.eu.org/p/live?embed=bein4uni&type=m
-MY  SpoTV 1&&`0https://go.now.net.eu.org/p/live?embed=spotv1my&type=m
-MY  SpoTV 2&&`0https://go.now.net.eu.org/p/live?embed=spotv2my&type=m
 Premier Sports 1&&https://cors-proxy.pulsesoftware.com/https://linear001-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(premiersports1)/manifest_720.mpd``0005c39c431ca0c67e42e3b09e5552a6:f71223934ebbc7290e6dfc05988d47d2
 Premier Sports 2&&https://cors-proxy.pulsesoftware.com/https://linear006-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(premiersports2)/manifest_720.mpd``00051b444166784a94fd9880e2f112da:def3adcb16de2daa9eaa8f20557fb1c1
 EN  beIN Sports 1&&https://donelfantastic.github.io/webiptv/web/qa/qwertyuiop1.m3u8
@@ -272,12 +268,13 @@ PT  Eleven Sports 3&&`0https://go.now.net.eu.org/p/live?embed=eleven3pt&type=m
 PT  Eleven Sports 4&&`0https://go.now.net.eu.org/p/live?embed=eleven4pt&type=m
 PT  Eleven Sports 5&&`0https://go.now.net.eu.org/p/live?embed=eleven5pt&type=m
 PT  Eleven Sports 6&&`0https://go.now.net.eu.org/p/live?embed=eleven6pt&type=m
-Setanta Sports 1&&https://bkm.beetv.kz/btv/live/hls/000006998.m3u8
-Setanta Sports 2&&https://bkm.beetv.kz/btv/live/hls/000006899.m3u8
 Badminton Court 1&&`0https://www.youtube.com/embed/BKLakc-QLkA?si=9n4dfRCHtEsJjrAG
-Badminton Court 3&&`0https://www.youtube.com/embed/SPwE__nt4iE?si=QLYU-a4pTtdmxqUo
-Badminton Court 4&&`0https://www.youtube.com/embed/jgLCuQ6dNL0?si=PeRCLwTMuON8e2LT
-Badminton Court 2&&`0https://www.youtube.com/embed/pY4hwfO8acE?si=qgN9wAeNOf74gRvR
+Badminton Court 2&&`0https://www.youtube.com/embed/jgLCuQ6dNL0?si=PeRCLwTMuON8e2LT
+TyC Sports&&https://bvsat02.cdn.rcs.net.ar/mnp/tyc/output.mpd
+AR  TNT Sports&&https://bvsat02.cdn.rcs.net.ar/mnp/tntsports/output.mpd
+BR  BandSports&&https://0055-jbc.dtvott.com/dash_live_0054/manifest.mpd``bd1af42db82f5a17a0d75246f25f5201:a9edd4e2c410923e9cbcb261102e5008
+CR  Tigo Sports&&https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
+Edge Sport&&https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8
 MY  Premier League&&`0https://go.now.net.eu.org/p/lol/live?embed=bein4my&type=m
 MY  Astro SuperSport 2&&`0https://go.now.net.eu.org/p/lol/live?embed=assp2&type=m
 MY  Astro SuperSport 4&&`0https://go.now.net.eu.org/p/lol/live?embed=assp4&type=m
