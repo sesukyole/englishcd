@@ -89,7 +89,7 @@ TRT-World.id&&01`02aTRTWorld/sa_dash_vmx/TRTWorld.mpd
 Channel-News-Asia.id&&01`02aChannelNewsAsia/sa_dash_vmx/ChannelNewsAsia.mpd
 France24.id&&01`02aFrance24/sa_dash_vmx/France24.mpd
 LifeStyleFashion.id&&01`02aLifeStyleFashion/sa_dash_vmx/LifeStyleFashion.mpd
-MTV&&01`02aMrBein1/sa_dash_vmx/MrBein1.mpd
+MTV&&01`02aMTV/sa_dash_vmx/MTV.mpd
 MTV-90-HD&&01`02aMTV-90-HD/sa_dash_vmx/MTV-90-HD.mpd
 Anhui.id&&01`02aAnhuiTV/sa_dash_vmx/AnhuiTV.mpd
 Hunan.id&&01`02aHunanTV/sa_dash_vmx/HunanTV.mpd
