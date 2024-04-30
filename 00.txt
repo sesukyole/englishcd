@@ -4,6 +4,12 @@ Premier Sports 2&&https://linear006-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/
 DE  Sport Plus&&https://ac-009.live.p7s1video.net/c5c609cf/t_009/sport1plus-de-hd/cenc-default.mpd``c1c11c3844b0dffdb9d9831900f1a1da:a2c31e15346f339ca2b47bdd8591553f
 TV 2 Sport 1&&https://cors-proxy.pulsesoftware.com/https://live-aws-scalstrm-cdn.rikstv.no/live/rikstv/64393bf81dbc891fd41f53ac/manifest.mpd``0c6212056d2f51fcbf569f9a1a8517d1:d07b404deb7c958347d742e6d1d2f3f9
 TV 2 Sport Premium&&https://cors-proxy.pulsesoftware.com/https://ch11-hls-live.akamaized.net/out/u/433127.mpd``d12e4c9dc52f4cbab7ac9b2278317e47:a7987e5b6ec42db68a25486e108ca9f2
+MY  beIN Sports Uni 1&&`0https://go.now.net.eu.org/p/live?embed=bein1uni&type=m
+MY  beIN Sports Uni 2&&`0https://go.now.net.eu.org/p/live?embed=bein2uni&type=m
+MY  beIN Sports Uni 3&&`0https://go.now.net.eu.org/p/live?embed=bein3uni&type=m
+MY  beIN Sports Uni 4&&`0https://go.now.net.eu.org/p/live?embed=bein4uni&type=m
+MY  SpoTV 1&&`0https://go.now.net.eu.org/p/live?embed=spotv1my&type=m
+MY  SpoTV 2&&`0https://go.now.net.eu.org/p/live?embed=spotv2my&type=m
 beIN Sports 1&&https://cors-proxy.pulsesoftware.com/https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0001/DASH/S0001.mpd``3fd52d1e9ba4b180aec12c9295b62c0f:bb274e33da0c709e62c55d0cba911889
 beIN Sports 2&&https://cors-proxy.pulsesoftware.com/https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0002/DASH/S0002.mpd``30c11587a1686b72f115f34b0bf1c383:1e3a6af2408cdd78347b722728560c3b
 beIN Sports 3&&https://cors-proxy.pulsesoftware.com/https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0003/DASH/S0003.mpd``aa724943787320593f5563048c90032d:a039276254f53769b040199a4eca8c2c
@@ -37,6 +43,7 @@ AFC U23 SSC Sport Extra 3&&https://ssc-extra3-ak.akamaized.net/out/v1/8f1c6c3f05
 AFC U23 CCTV 4&&https://op-group1-swiftservesd-1.dens.tv/s/s19/index.m3u8
 AFC U23 CCTV 5&&https://node3.olelive.com:6443/live/CCTV5HD/hls.m3u8
 AFC U23 CCTV 5+&&https://node3.olelive.com:6443/live/CCTV5PHD/hls.m3u8
+AFC U23 CCTV 16&&https://node3.olelive.com:6443/live/CCTV16HD/hls.m3u8?token=fbe8c255a3dbe03f0e3f50d6a1767573
 TH  Football 1&&https://cors-proxy.pulsesoftware.com/https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/TL001/HLS/TL001.m3u8
 TH  Football 2&&https://cors-proxy.pulsesoftware.com/https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/TL002/HLS/TL002.m3u8
 TH  Football 3&&https://cors-proxy.pulsesoftware.com/https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/TL003/HLS/TL003.m3u8
@@ -226,12 +233,6 @@ BR 6&&`0https://sportsonline.si/channels/bra/br6.php
 BR 7&&`0https://sportsonline.si/channels/bra/br7.php
 BR 8&&`0https://sportsonline.si/channels/bra/br8.php
 AFC U23 Sport 4&&`0https://go.now.net.eu.org/p/live?embed=h1&type=h
-MY  beIN Sports Uni 1&&`0https://go.now.net.eu.org/p/live?embed=bein1uni&type=m
-MY  beIN Sports Uni 2&&`0https://go.now.net.eu.org/p/live?embed=bein2uni&type=m
-MY  beIN Sports Uni 3&&`0https://go.now.net.eu.org/p/live?embed=bein3uni&type=m
-MY  beIN Sports Uni 4&&`0https://go.now.net.eu.org/p/live?embed=bein4uni&type=m
-MY  SpoTV 1&&`0https://go.now.net.eu.org/p/live?embed=spotv1my&type=m
-MY  SpoTV 2&&`0https://go.now.net.eu.org/p/live?embed=spotv2my&type=m
 EN  beIN Sports 1&&https://donelfantastic.github.io/webiptv/web/qa/qwertyuiop1.m3u8
 EN  beIN Sports 2&&https://donelfantastic.github.io/webiptv/web/qa/qwertyuiop12.m3u8
 FR  beIN Sports 1&&`0https://go.now.net.eu.org/p/live?embed=bein1fr&type=m
