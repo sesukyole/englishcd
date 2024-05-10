@@ -45,8 +45,6 @@ DAZN Combat&&https://dcj-ak-livedazn.akamaized.net/dash/dazn-linear-502/stream.m
 DAZN Fast+&&https://dcj-ak-livedazn.akamaized.net/dash/dazn-linear-504/stream.mpd``cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
 DAZN Rise&&https://dcj-ak-livedazn.akamaized.net/dash/dazn-linear-501/stream.mpd``cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
 DAZN Women`s Football&&https://dcj-ak-livedazn.akamaized.net/dash/dazn-linear-503/stream.mpd``cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
-TNT Sports Premium&&https://cors-proxy.cooks.fyi/https://clbpktstvdash-1.clarovideo.com/bpk-tv/TNTSPHD/dash_fk/index.mpd``eb9b87786bf9905fd14cbf1ac572d3d1:050a5d1da667693dbb327351b2f60c08
-TNT Sports AR&&https://cors-proxy.cooks.fyi/https://clbpktstvdash-1.clarovideo.com/bpk-tv/TNTSP3HD/dash_fk/index.mpd``046af5c1b08fcc86435ba97f119c9ada:fdd13d5b0151b1165d556c04d03a46fc
 USA East&&https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd``882c9f5613b43b47adc70aa968a308ce:de534ef8914bfe62ba3cdd6bdb9e1c04
 USA West&&https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd``252a671825ba31ec8433f978c32ccf6d:ee560759ecc8d2274df2e63fcef56915
 WWE&&https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc106wh3yw)/master.mpd``00208c93f4358213b52220898b962385:8ae6063167228e350dd132d4a1573102
@@ -284,6 +282,8 @@ V Sports 2&&https://cors-proxy.cooks.fyi/https://live-aws-scalstrm-cdn.rikstv.no
 V Sports 3&&https://cors-proxy.cooks.fyi/https://live-aws-scalstrm-cdn.rikstv.no/live/rikstv/644bb6ea1dbc891fd422f01e/manifest.mpd``fdcb8ee4623458e5832a92801fc723b1:634a67c44b7b7030872043df95c1a55e
 TyC Sports&&https://bvsat02.cdn.rcs.net.ar/mnp/tyc/output.mpd
 AR  TNT Sports&&https://bvsat02.cdn.rcs.net.ar/mnp/tntsports/output.mpd
+TNT Sports Premium&&https://cors-proxy.cooks.fyi/https://clbpktstvdash-1.clarovideo.com/bpk-tv/TNTSPHD/dash_fk/index.mpd``eb9b87786bf9905fd14cbf1ac572d3d1:050a5d1da667693dbb327351b2f60c08
+TNT Sports AR&&https://cors-proxy.cooks.fyi/https://clbpktstvdash-1.clarovideo.com/bpk-tv/TNTSP3HD/dash_fk/index.mpd``046af5c1b08fcc86435ba97f119c9ada:fdd13d5b0151b1165d556c04d03a46fc
 BR  BandSports&&https://0055-jbc.dtvott.com/dash_live_0054/manifest.mpd``bd1af42db82f5a17a0d75246f25f5201:a9edd4e2c410923e9cbcb261102e5008
 CR  Tigo Sports&&https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
 Edge Sport&&https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8
