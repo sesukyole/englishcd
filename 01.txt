@@ -672,3 +672,4 @@ TV5MONDE STYLE [geo-area]&&https://ott.tv5monde.com/Content/HLS/Live/channel(sty
 |SHAHID| MARAYA&&https://shls-live-ak.akamaized.net/out/v1/a4a39d8e92e34b0780ca602270a59512/index_2.m3u8
 |SHAHID| RASHED AL-MAJED&&https://rashed-almajed-ak.akamaized.net/out/v1/77b0946130344d1388e5cd34afdcb772/index_19.m3u8
 |SHAHID| MUHAMMAD ABDO&&https://mohammed-abdou-ak.akamaized.net/out/v1/3b57275cf54747cda4cda03ecf146f92/index_19.m3u8
+002 Radio TV&&https://cdn.002radio.com:3909/live/radio002live.m3u8

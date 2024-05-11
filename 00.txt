@@ -53,6 +53,8 @@ NBC Sports&&https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(v
 NFL Sports&&https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(lc107a1ddy)/master.mpd``002007110c69a23803173b50eab05f23:590d6e8f4ca81319f9bb29104f571990
 CBS Sports Network&&https://cors-proxy.cooks.fyi/https://linear.stvacdn.spectrum.com/LIVE/1105/dash/cenc/CBSSNHD_00500/manifest.mpd``c311b264f25748039736aa0dc64008d6:86055797afa5cb24feb2bc764b7a1813
 US  Willow&&https://cors-proxy.cooks.fyi/https://linear.stvacdn.spectrum.com/LIVE/1131/dash/cenc/WLLOHD_10364/manifest.mpd``6653c05e42fc4fac8f49d7cbf99498fe:3b88f2cff3affef20b265c840bafc0cc
+ESPN Deportes&&https://cors-proxy.cooks.fyi/https://linear.stvacdn.spectrum.com/LIVE/1166/dash/cenc/ESPNDHD_13667/manifest.mpd``be65e5985fa04a49af310f0a92a0260a:1acb5ff7b0dbfdf19c4dca1aabfaaa11
+Fox Deportes&&https://cors-proxy.cooks.fyi/https://linear.stvacdn.spectrum.com/LIVE/1106/dash/cenc/FXDEPHD/manifest.mpd``c9231d5e7a99429382e6a5c2e588e141:ca08ab407ab9393a814d720f1f41c6cf
 Ziggo Voetbal&&https://da-d436234620010b88000103020000000000000008.id.cdn.upcbroadband.com/wp/wp2-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000095_019371/_shared_cc010062b17300c4504b6ab5681b5417/NL_000095_019371.mpd``16bf72dc22743d929c4318e193408373:eae51a1e3904124963074cbf432c7c8e
 Ziggo Sport&&https://da-d436236920010b8800010303000000000000000b.id.cdn.upcbroadband.com/wp/wp7-vxtoken-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000014_019661/_shared_6a89db18ec4202bae4d424e84c1f46a2/NL_000014_019661.mpd``0be3d503dba13fc9a9c8ad4b89f599e6:578c2231c526c5e9eb415411e36871bf
 Ziggo Select&&https://da-d436236720010b88000103030000000000000009.id.cdn.upcbroadband.com/wp/wp1-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000094_019321/_shared_cc010062b17300c4504b6ab5681b5417/NL_000094_019321.mpd``16bf72dc22743d929c4318e193408373:eae51a1e3904124963074cbf432c7c8e
@@ -82,6 +84,8 @@ Arena Sport 6&&https://cors-proxy.cooks.fyi/https://webtvstream.bhtelecom.ba/hls
 ES  beIN Sports Xtra&&https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
 ES  Real Madrid ENG&&https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
 ES  Real Madrid ESP&&https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+ES  EuroSports 1&&https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:43_HD.smil/manifest.m3u8
+ES  EuroSports 2&&https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:59_HD.smil/manifest.m3u8
 Tipik Premium&&https://daiconnect.com/live/dash/rtbf/tipik-premium-drm-2/.mpd``2f794d3c19854f4fa6f0183b993b86fa:37077d010758ce2cb85ca46720884b01
 Prima Sport 1&&https://cors-proxy.cooks.fyi/https://ott.cyberhost.ro/sdash/LIVE$LookPlus/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC``49e2aa7ed50fc98b895023c87a32a183:57062665c1ef8481911e68e17655c8ec
 Prima Sport 2&&https://cors-proxy.cooks.fyi/https://ott.cyberhost.ro/sdash/LIVE$LookTVHD/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC``96c311676c08545ea6aae37668e4a0df:64fca4a48c14d2b32afcd53971cfa62c
@@ -92,14 +96,12 @@ Orange Sport 2&&https://cors-proxy.cooks.fyi/https://ott1.cyberhost.ro/sdash/LIV
 Orange Sport 3&&https://cors-proxy.cooks.fyi/https://ott1.cyberhost.ro/sdash/LIVE$DolceSport3/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC``b87857ba74ce03f9fa2866f1e086d05d:1cd289ac71ce5fb306a5e7653192ce3a
 Orange Sport 4&&https://cors-proxy.cooks.fyi/https://ott1.cyberhost.ro/sdash/LIVE$DolceSport4/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC``202a927cd913101de765b0e5bb3f500f:cdd399869057bc34c827f257f562643a
 beIN Sports Extra&&https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df975e2b27cf5000921c102/master.m3u8?c&deviceType=0&deviceMake=0&deviceModel=0&deviceVersion=0&appVersion=0&deviceLat=0&deviceLon=0&deviceDNT=0&deviceId=0&advertisingId=0&us_privacy=0&samsung_app_domain=0&samsung_app_name=0&profileLimit=&profileFloor=&embedPartner=0
-ESPN Deportes&&https://cors-proxy.cooks.fyi/https://linear.stvacdn.spectrum.com/LIVE/1166/dash/cenc/ESPNDHD_13667/manifest.mpd``be65e5985fa04a49af310f0a92a0260a:1acb5ff7b0dbfdf19c4dca1aabfaaa11
 ESPN Premium&&https://cors-proxy.cooks.fyi/https://tvfuego.cdn.rcs.net.ar/mnp/espnpremium/output.mpd
 ESPN 1&&https://cors-proxy.cooks.fyi/https://tvfuego.cdn.rcs.net.ar/mnp/espn/output.mpd
 ESPN 3&&https://cors-proxy.cooks.fyi/https://tvfuego.cdn.rcs.net.ar/mnp/espn3/output.mpd
 ESPN 4&&https://cors-proxy.cooks.fyi/https://tvfuego.cdn.rcs.net.ar/mnp/espn_extra/output.mpd
 ESPN 2&&https://cors-proxy.cooks.fyi/https://tvfuego.cdn.rcs.net.ar/mnp/espn2/output.mpd
 EuroSports 1&&https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:43_HD.smil/manifest.mpd
-Fox Deportes&&https://cors-proxy.cooks.fyi/https://linear.stvacdn.spectrum.com/LIVE/1106/dash/cenc/FXDEPHD/manifest.mpd``c9231d5e7a99429382e6a5c2e588e141:ca08ab407ab9393a814d720f1f41c6cf
 Fox Sports 1&&https://cors-proxy.cooks.fyi/https://linear.stvacdn.spectrum.com/LIVE/1166/dash/cenc/SPEEDHD/manifest.mpd``4aa03f4ba0b54774accf43d15af7be70:843a421b633ae576f7ad62872d0d71b1
 Fox Sports 2&&https://cors-proxy.cooks.fyi/https://linear.stvacdn.spectrum.com/LIVE/1108/dash/cenc/FS2HD_00564/manifest.mpd``426b95e246774cb798a8c845fe6333d6:91e511fd8c290134b28c36ee1c386ea9
 Fox Sports 3&&https://cors-proxy.cooks.fyi/https://linear.stvacdn.spectrum.com/LIVE/1143/dash/cenc/FSCPLHD/manifest.mpd``260465aba18e40329932d47e9c7aa20b:2b79020e3f3ddc94ba84943ba72d898c
@@ -123,8 +125,6 @@ IT  Zona DAZN&&`0https://go.now.net.eu.org/p/live?embed=zonait&type=m
 IT  Milan TV&&`0https://go.now.net.eu.org/p/live?embed=milantv&type=m
 DE  EuroSports 1&&`0https://go.now.net.eu.org/p/live?embed=euro1de&type=m
 DE  EuroSports 2&&`0https://go.now.net.eu.org/p/live?embed=euro2de&type=m
-ES  EuroSports 1&&`0https://go.now.net.eu.org/p/live?embed=euro1es&type=m
-ES  EuroSports 2&&`0https://go.now.net.eu.org/p/live?embed=euro2es&type=m
 IT  Inter TV&&`0https://go.now.net.eu.org/p/live?embed=intertv&type=m
 ES  DAZN 1&&`0https://go.now.net.eu.org/p/live?embed=dazn1es&type=m
 ES  DAZN 2&&`0https://go.now.net.eu.org/p/live?embed=dazn2es&type=m
@@ -305,3 +305,4 @@ PL  Eleven Sports 1&&`0https://live.sportsnews.id/p/eleven1.html
 PL  Eleven Sports 2&&`0https://live.sportsnews.id/p/eleven2.html
 PL  Eleven Sports 4&&`0https://live.sportsnews.id/p/eleven4.html
 PL  Eleven Sports 3&&`0https://live.sportsnews.id/p/eleven3.html
+Canal 4 Elsalvador&&https://telecorporacion-es.cdn.vustreams.com/live/65b52a0a-415d-4686-8ef5-7a0b07b83992/live.isml/live/live-audio_0=64000-video=2000000.m3u8

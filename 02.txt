@@ -682,18 +682,6 @@ WOWOW Plus TV&&`1https://eng.freewatchtv.top/live-tv/wowow-plus/?embed=1
 Yomiuri TV (YTV)&&`1https://eng.freewatchtv.top/live-tv/ytv/?embed=1
 YTN 2 TV&&`1https://eng.freewatchtv.top/live-tv/ytn2/?embed=1
 YTN dmb TV&&`1https://eng.freewatchtv.top/live-tv/ytn-dmb/?embed=1
-Episode A World War 1 The Russian Revolution & Woodrow Willson&&https://seed191.bitchute.com/P7Kloe3hUF0E/cDIVK7al8S3Z.mp4
-Episode B 1920-1940 Roosevelt Hitler Stalin The Battle of Ideas&&https://seed191.bitchute.com/P7Kloe3hUF0E/a1uksr57dUau.mp4
-Chapter 1 World War Two&&https://seed151.bitchute.com/9GID61VDD3ne/IHeMXTe0aeZP.mp4
-Chapter 2 Roosevelt Truman & Wallace&&https://seed191.bitchute.com/9GID61VDD3ne/HzfYqaAWZBMg.mp4
-Chapter 3 The Bomb&&https://seed151.bitchute.com/ncN5ictFfvMQ/UhYl1LZaVYLO.mp4
-Chapter 4 The Cold War 1945-1950&&https://seed151.bitchute.com/9GID61VDD3ne/ukNnzYV8RiDt.mp4
-Chapter 5 The 50s: Eisenhower the Bomb & The Third World&&https://seed131.bitchute.com/9GID61VDD3ne/1nOucGj4KqAP.mp4
-Chapter 6 JFK To the Brink&&https://seed131.bitchute.com/9GID61VDD3ne/EPEppwugokit.mp4
-Chapter 7 Johnson Nixon & Vietnam: Reversal Of Fortune&&https://seed131.bitchute.com/9GID61VDD3ne/t8Z2ZZ0R1Mtk.mp4
-Chapter 8 Reagan Gorbachev & Third World Rise of the Right&&https://seed131.bitchute.com/9GID61VDD3ne/hhGingAYxSV1.mp4
-Chapter 9 Bush & Clinton-Squandered Peace-New World Order&&https://seed131.bitchute.com/9GID61VDD3ne/JxLa0VKiCZA1.mp4
-Chapter 10 Bush & Obama-Age of Terror&&https://seed131.bitchute.com/9GID61VDD3ne/su0qq9pLCcTk.mp4
 MakkahTV.id&&01`02aAlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd``67fe3ac3ca111c9bdd6e8480091dc13c:7d05fb1ff7705c1e452ff7e1b841a1b8
 Soccer.id&&01`02asoccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd``4d38060bf41b3c29df0ec950ece6b5da:7ee9506b13480491d79b71c062ab5366
 Sport1.id&&01`02aMNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd``531c6d50e3e9f9ba66446f624f492289:d769d9ae238bdd424f8bcdcdc9a3801f
