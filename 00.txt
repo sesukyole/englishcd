@@ -288,8 +288,8 @@ BR  BandSports&&https://0055-jbc.dtvott.com/dash_live_0054/manifest.mpd``bd1af42
 CR  Tigo Sports&&https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
 Edge Sport&&https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8
 Sky Sports Top Event&&https://donelfantastic.github.io/webiptv/web/de/skysp0rtsTE.m3u8
-EN  beIN Sports 1&&https://donelfantastic.github.io/webiptv/web/qa/qwertyuiop1.m3u8
-EN  beIN Sports 2&&https://donelfantastic.github.io/webiptv/web/qa/qwertyuiop12.m3u8
+EN  beIN Sports 1&&https://xxx.freemiumiptv.top/cdn08jtedgeindihometvcom/dassdvr/133/beib1/manifest.mpd``69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+EN  beIN Sports 3&&https://xxx.freemiumiptv.top/cdn08jtedgeindihometvcom/dassdvr/133/beib2/manifest.mpd``69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 beIN Sports TV 1&&https://cors-proxy.cooks.fyi/https://edge1.laotv.la/live/Bsport1/manifest.mpd
 beIN Sports TV 2&&https://cors-proxy.cooks.fyi/https://edge1.laotv.la/live/Bsport2/manifest.mpd
 True Premier Football 1&&https://cors-proxy.cooks.fyi/https://edge1.laotv.la/live/TSport1/sc-gaFECQ/v1/manifest.mpd
