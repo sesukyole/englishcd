@@ -254,16 +254,16 @@ DAZN Eleven 3&&01`01a5601`01b
 DAZN Eleven 4&&01`01a5701`01b
 DAZN Eleven 5&&01`01a5801`01b
 DAZN Eleven 6&&01`01a5901`01b
-beIN Sports 1&&https://cors-proxy.elfsight.com/https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0001/DASH/S0001.mpd``3fd52d1e9ba4b180aec12c9295b62c0f:bb274e33da0c709e62c55d0cba911889
-beIN Sports 2&&https://cors-proxy.elfsight.com/https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0002/DASH/S0002.mpd``30c11587a1686b72f115f34b0bf1c383:1e3a6af2408cdd78347b722728560c3b
-beIN Sports 3&&https://cors-proxy.elfsight.com/https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0003/DASH/S0003.mpd``aa724943787320593f5563048c90032d:a039276254f53769b040199a4eca8c2c
-beIN Sports 4&&https://cors-proxy.elfsight.com/https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0004/DASH/S0004.mpd``cb419fa5f5498e2c6cbc39363248ddd7:b5853b51f2060025a822e62973154556
-beIN Sports 5&&https://cors-proxy.elfsight.com/https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0005/DASH/S0005.mpd``3a165f923cd49e616f173fc6c341cc56:4cb96186d69f1a63c40218812a6f6910
-beIN Sports 6&&https://cors-proxy.elfsight.com/https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0006/DASH/S0006.mpd``ceac4607562049abb9d1b0309d9cd6f3:d396d277a364fab00d0193d25b700847
-beIN Sports 7&&https://cors-proxy.elfsight.com/https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0007/DASH/S0007.mpd``94a28a75b3891e92a97efbe76f941095:7b39cd0e318ee481b98c36a125c540fb
-TH  Football 1&&https://cors-proxy.elfsight.com/https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/TL001/HLS/TL001.m3u8
-TH  Football 2&&https://cors-proxy.elfsight.com/https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/TL002/HLS/TL002.m3u8
-TH  Football 3&&https://cors-proxy.elfsight.com/https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/TL003/HLS/TL003.m3u8
+beIN Sports 1&&https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0001/DASH/S0001.mpd``3fd52d1e9ba4b180aec12c9295b62c0f:bb274e33da0c709e62c55d0cba911889
+beIN Sports 2&&https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0002/DASH/S0002.mpd``30c11587a1686b72f115f34b0bf1c383:1e3a6af2408cdd78347b722728560c3b
+beIN Sports 3&&https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0003/DASH/S0003.mpd``aa724943787320593f5563048c90032d:a039276254f53769b040199a4eca8c2c
+beIN Sports 4&&https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0004/DASH/S0004.mpd``cb419fa5f5498e2c6cbc39363248ddd7:b5853b51f2060025a822e62973154556
+beIN Sports 5&&https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0005/DASH/S0005.mpd``3a165f923cd49e616f173fc6c341cc56:4cb96186d69f1a63c40218812a6f6910
+beIN Sports 6&&https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0006/DASH/S0006.mpd``ceac4607562049abb9d1b0309d9cd6f3:d396d277a364fab00d0193d25b700847
+beIN Sports 7&&https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0007/DASH/S0007.mpd``94a28a75b3891e92a97efbe76f941095:7b39cd0e318ee481b98c36a125c540fb
+TH  Football 1&&https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/TL001/HLS/TL001.m3u8
+TH  Football 2&&https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/TL002/HLS/TL002.m3u8
+TH  Football 3&&https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/TL003/HLS/TL003.m3u8
 FR  beIN Sports 1&&`0https://go.now.net.eu.org/p/live?embed=bein1fr&type=m
 FR  beIN Sports 2&&`0https://go.now.net.eu.org/p/live?embed=bein2fr&type=m
 FR  beIN Sports 3&&`0https://go.now.net.eu.org/p/live?embed=bein3fr&type=m
@@ -276,28 +276,28 @@ FR  beIN Sports Max 9&&`0https://go.now.net.eu.org/p/live?embed=beinmax9fr&type=
 FR  beIN Sports Max 10&&`0https://go.now.net.eu.org/p/live?embed=beinmax10fr&type=m
 Badminton Court 1&&`0https://www.youtube.com/embed/BKLakc-QLkA?si=9n4dfRCHtEsJjrAG
 Badminton Court 2&&`0https://www.youtube.com/embed/jgLCuQ6dNL0?si=PeRCLwTMuON8e2LT
-TV 2 Sport 1&&https://cors-proxy.elfsight.com/https://live-aws-scalstrm-cdn.rikstv.no/live/rikstv/64393bf81dbc891fd41f53ac/manifest.mpd``0c6212056d2f51fcbf569f9a1a8517d1:d07b404deb7c958347d742e6d1d2f3f9
-V Sports 1&&https://cors-proxy.elfsight.com/https://live-aws-scalstrm-cdn.rikstv.no/live/rikstv/644bb6e91dbc891fd422efc9/manifest.mpd``4d808f2b9a74536cadbd95be141888ed:9dd89f67b8885dc65721a8b1fbeae700
-V Sports 2&&https://cors-proxy.elfsight.com/https://live-aws-scalstrm-cdn.rikstv.no/live/rikstv/644bb6e91dbc891fd422efef/manifest.mpd``0d3ff38c34985fdd81a37567646322b9:6b4504297769acefae2e50920b7c8a77
-V Sports 3&&https://cors-proxy.elfsight.com/https://live-aws-scalstrm-cdn.rikstv.no/live/rikstv/644bb6ea1dbc891fd422f01e/manifest.mpd``fdcb8ee4623458e5832a92801fc723b1:634a67c44b7b7030872043df95c1a55e
+TV 2 Sport 1&&https://live-aws-scalstrm-cdn.rikstv.no/live/rikstv/64393bf81dbc891fd41f53ac/manifest.mpd``0c6212056d2f51fcbf569f9a1a8517d1:d07b404deb7c958347d742e6d1d2f3f9
+V Sports 1&&https://live-aws-scalstrm-cdn.rikstv.no/live/rikstv/644bb6e91dbc891fd422efc9/manifest.mpd``4d808f2b9a74536cadbd95be141888ed:9dd89f67b8885dc65721a8b1fbeae700
+V Sports 2&&https://live-aws-scalstrm-cdn.rikstv.no/live/rikstv/644bb6e91dbc891fd422efef/manifest.mpd``0d3ff38c34985fdd81a37567646322b9:6b4504297769acefae2e50920b7c8a77
+V Sports 3&&https://live-aws-scalstrm-cdn.rikstv.no/live/rikstv/644bb6ea1dbc891fd422f01e/manifest.mpd``fdcb8ee4623458e5832a92801fc723b1:634a67c44b7b7030872043df95c1a55e
 TyC Sports&&https://bvsat02.cdn.rcs.net.ar/mnp/tyc/output.mpd
 AR  TNT Sports&&https://bvsat02.cdn.rcs.net.ar/mnp/tntsports/output.mpd
-TNT Sports Premium&&https://cors-proxy.elfsight.com/https://clbpktstvdash-1.clarovideo.com/bpk-tv/TNTSPHD/dash_fk/index.mpd``eb9b87786bf9905fd14cbf1ac572d3d1:050a5d1da667693dbb327351b2f60c08
-TNT Sports AR&&https://cors-proxy.elfsight.com/https://clbpktstvdash-1.clarovideo.com/bpk-tv/TNTSP3HD/dash_fk/index.mpd``046af5c1b08fcc86435ba97f119c9ada:fdd13d5b0151b1165d556c04d03a46fc
+TNT Sports Premium&&https://clbpktstvdash-1.clarovideo.com/bpk-tv/TNTSPHD/dash_fk/index.mpd``eb9b87786bf9905fd14cbf1ac572d3d1:050a5d1da667693dbb327351b2f60c08
+TNT Sports AR&&https://clbpktstvdash-1.clarovideo.com/bpk-tv/TNTSP3HD/dash_fk/index.mpd``046af5c1b08fcc86435ba97f119c9ada:fdd13d5b0151b1165d556c04d03a46fc
 BR  BandSports&&https://0055-jbc.dtvott.com/dash_live_0054/manifest.mpd``bd1af42db82f5a17a0d75246f25f5201:a9edd4e2c410923e9cbcb261102e5008
 CR  Tigo Sports&&https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
 Edge Sport&&https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8
 Sky Sports Top Event&&https://donelfantastic.github.io/webiptv/web/de/skysp0rtsTE.m3u8
 EN  beIN Sports 1&&https://xxx.freemiumiptv.top/cdn08jtedgeindihometvcom/dassdvr/133/beib1/manifest.mpd``69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 EN  beIN Sports 3&&https://xxx.freemiumiptv.top/cdn08jtedgeindihometvcom/dassdvr/133/beib2/manifest.mpd``69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-beIN Sports TV 1&&https://cors-proxy.elfsight.com/https://edge1.laotv.la/live/Bsport1/manifest.mpd
-beIN Sports TV 2&&https://cors-proxy.elfsight.com/https://edge1.laotv.la/live/Bsport2/manifest.mpd
-True Premier Football 1&&https://cors-proxy.elfsight.com/https://edge1.laotv.la/live/TSport1/sc-gaFECQ/v1/manifest.mpd
-True Premier Football 2&&https://cors-proxy.elfsight.com/https://edge1.laotv.la/live/TSport2/sc-gaFECQ/v1/manifest.mpd
-True Sports 1&&https://cors-proxy.elfsight.com/https://edge1.laotv.la/live/TrueSport6/manifest.mpd
-True Sports 2&&https://cors-proxy.elfsight.com/https://edge1.laotv.la/live/TrueSport2/manifest.mpd
-True Sports 3&&https://cors-proxy.elfsight.com/https://edge1.laotv.la/live/TrueSport3/manifest.mpd
-True Sports 7&&https://cors-proxy.elfsight.com/https://edge1.laotv.la/live/THD7/manifest.mpd
+beIN Sports TV 1&&https://edge1.laotv.la/live/Bsport1/manifest.mpd
+beIN Sports TV 2&&https://edge1.laotv.la/live/Bsport2/manifest.mpd
+True Premier Football 1&&https://edge1.laotv.la/live/TSport1/sc-gaFECQ/v1/manifest.mpd
+True Premier Football 2&&https://edge1.laotv.la/live/TSport2/sc-gaFECQ/v1/manifest.mpd
+True Sports 1&&https://edge1.laotv.la/live/TrueSport6/manifest.mpd
+True Sports 2&&https://edge1.laotv.la/live/TrueSport2/manifest.mpd
+True Sports 3&&https://edge1.laotv.la/live/TrueSport3/manifest.mpd
+True Sports 7&&https://edge1.laotv.la/live/THD7/manifest.mpd
 MY  Premier League&&`0https://go.now.net.eu.org/p/lol/live?embed=bein4my&type=m
 MY  Astro SuperSport 2&&`0https://go.now.net.eu.org/p/lol/live?embed=assp2&type=m
 MY  Astro SuperSport 4&&`0https://go.now.net.eu.org/p/lol/live?embed=assp4&type=m
