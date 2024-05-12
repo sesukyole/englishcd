@@ -39,7 +39,7 @@ TSN 2&&https://live-ctv.video.9c9media.com/f/TSN/TSN2/manifest.mpd``ddc52c88e2c2
 TSN 3&&https://live-ctv.video.9c9media.com/f/TSN/TSN3/manifest.mpd``c0f378ad54e14a9c85a3d8c986d2a51f:5e1d040743ff78715e464ffb905e68a9
 TSN 4&&https://live-ctv.video.9c9media.com/f/TSN/TSN4/manifest.mpd``f0a2efd11e0643c3a45d6f67d02f1a97:85bf4469003bd28f01ea4fefedd5a431
 TSN 5&&https://live-ctv.video.9c9media.com/f/TSN/TSN5/manifest.mpd``cb57741a1cee422690c6294a06eb1320:7a0cfd493df6ef7cc0d0bb3ad95cec8c
-TUDN&&https://linear.stvacdn.spectrum.com/LIVE/1131/dash/cenc/TUDNUH_8283/manifest.mpd``85c8956b207c44a693d89984803c908b:8d8ff21c464506ef396356dd761f5ccd
+TUDN&&https://cors-proxy.cooks.fyi/https://linear.stvacdn.spectrum.com/LIVE/1131/dash/cenc/TUDNUH_8283/manifest.mpd``85c8956b207c44a693d89984803c908b:8d8ff21c464506ef396356dd761f5ccd
 UK  MUTV&&https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 DAZN Combat&&https://dcj-ak-livedazn.akamaized.net/dash/dazn-linear-502/stream.mpd``cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
 DAZN Fast+&&https://dcj-ak-livedazn.akamaized.net/dash/dazn-linear-504/stream.mpd``cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
@@ -51,10 +51,10 @@ WWE&&https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc106wh3
 NBC Golf Sport&&https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc124phhny)/master.mpd``0020212a47511b226f7cc9d030aa171b:323c16315e1cb8d7c821facc3c1778a4
 NBC Sports&&https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc122ycnuy)/master.mpd``0020d88a6713159839743f655c5da7de:ba9f34226301f69a4f0f13f65a1f92ec
 NFL Sports&&https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(lc107a1ddy)/master.mpd``002007110c69a23803173b50eab05f23:590d6e8f4ca81319f9bb29104f571990
-CBS Sports Network&&https://linear.stvacdn.spectrum.com/LIVE/1105/dash/cenc/CBSSNHD_00500/manifest.mpd``c311b264f25748039736aa0dc64008d6:86055797afa5cb24feb2bc764b7a1813
-US  Willow&&https://linear.stvacdn.spectrum.com/LIVE/1131/dash/cenc/WLLOHD_10364/manifest.mpd``6653c05e42fc4fac8f49d7cbf99498fe:3b88f2cff3affef20b265c840bafc0cc
-ESPN Deportes&&https://linear.stvacdn.spectrum.com/LIVE/1166/dash/cenc/ESPNDHD_13667/manifest.mpd``be65e5985fa04a49af310f0a92a0260a:1acb5ff7b0dbfdf19c4dca1aabfaaa11
-Fox Deportes&&https://linear.stvacdn.spectrum.com/LIVE/1106/dash/cenc/FXDEPHD/manifest.mpd``c9231d5e7a99429382e6a5c2e588e141:ca08ab407ab9393a814d720f1f41c6cf
+CBS Sports Network&&https://cors-proxy.cooks.fyi/https://linear.stvacdn.spectrum.com/LIVE/1105/dash/cenc/CBSSNHD_00500/manifest.mpd``c311b264f25748039736aa0dc64008d6:86055797afa5cb24feb2bc764b7a1813
+US  Willow&&https://cors-proxy.cooks.fyi/https://linear.stvacdn.spectrum.com/LIVE/1131/dash/cenc/WLLOHD_10364/manifest.mpd``6653c05e42fc4fac8f49d7cbf99498fe:3b88f2cff3affef20b265c840bafc0cc
+ESPN Deportes&&https://cors-proxy.cooks.fyi/https://linear.stvacdn.spectrum.com/LIVE/1166/dash/cenc/ESPNDHD_13667/manifest.mpd``be65e5985fa04a49af310f0a92a0260a:1acb5ff7b0dbfdf19c4dca1aabfaaa11
+Fox Deportes&&https://cors-proxy.cooks.fyi/https://linear.stvacdn.spectrum.com/LIVE/1106/dash/cenc/FXDEPHD/manifest.mpd``c9231d5e7a99429382e6a5c2e588e141:ca08ab407ab9393a814d720f1f41c6cf
 Ziggo Voetbal&&https://da-d436234620010b88000103020000000000000008.id.cdn.upcbroadband.com/wp/wp2-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000095_019371/_shared_cc010062b17300c4504b6ab5681b5417/NL_000095_019371.mpd``16bf72dc22743d929c4318e193408373:eae51a1e3904124963074cbf432c7c8e
 Ziggo Sport&&https://da-d436236920010b8800010303000000000000000b.id.cdn.upcbroadband.com/wp/wp7-vxtoken-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000014_019661/_shared_6a89db18ec4202bae4d424e84c1f46a2/NL_000014_019661.mpd``0be3d503dba13fc9a9c8ad4b89f599e6:578c2231c526c5e9eb415411e36871bf
 Ziggo Select&&https://da-d436236720010b88000103030000000000000009.id.cdn.upcbroadband.com/wp/wp1-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000094_019321/_shared_cc010062b17300c4504b6ab5681b5417/NL_000094_019321.mpd``16bf72dc22743d929c4318e193408373:eae51a1e3904124963074cbf432c7c8e
@@ -102,9 +102,9 @@ ESPN 3&&https://cors-proxy.cooks.fyi/https://tvfuego.cdn.rcs.net.ar/mnp/espn3/ou
 ESPN 4&&https://cors-proxy.cooks.fyi/https://tvfuego.cdn.rcs.net.ar/mnp/espn_extra/output.mpd
 ESPN 2&&https://cors-proxy.cooks.fyi/https://tvfuego.cdn.rcs.net.ar/mnp/espn2/output.mpd
 EuroSports 1&&https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:43_HD.smil/manifest.mpd
-Fox Sports 1&&https://linear.stvacdn.spectrum.com/LIVE/1166/dash/cenc/SPEEDHD/manifest.mpd``4aa03f4ba0b54774accf43d15af7be70:843a421b633ae576f7ad62872d0d71b1
-Fox Sports 2&&https://linear.stvacdn.spectrum.com/LIVE/1108/dash/cenc/FS2HD_00564/manifest.mpd``426b95e246774cb798a8c845fe6333d6:91e511fd8c290134b28c36ee1c386ea9
-Fox Sports 3&&https://linear.stvacdn.spectrum.com/LIVE/1143/dash/cenc/FSCPLHD/manifest.mpd``260465aba18e40329932d47e9c7aa20b:2b79020e3f3ddc94ba84943ba72d898c
+Fox Sports 1&&https://cors-proxy.cooks.fyi/https://linear.stvacdn.spectrum.com/LIVE/1166/dash/cenc/SPEEDHD/manifest.mpd``4aa03f4ba0b54774accf43d15af7be70:843a421b633ae576f7ad62872d0d71b1
+Fox Sports 2&&https://cors-proxy.cooks.fyi/https://linear.stvacdn.spectrum.com/LIVE/1108/dash/cenc/FS2HD_00564/manifest.mpd``426b95e246774cb798a8c845fe6333d6:91e511fd8c290134b28c36ee1c386ea9
+Fox Sports 3&&https://cors-proxy.cooks.fyi/https://linear.stvacdn.spectrum.com/LIVE/1143/dash/cenc/FSCPLHD/manifest.mpd``260465aba18e40329932d47e9c7aa20b:2b79020e3f3ddc94ba84943ba72d898c
 FUTV&&https://cdn02.teletica.com/StreamFutv/Streamfutv04122023/playlist.m3u8
 LaLiga HyperMotion&&https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/woujvkfnmn/out/v1/141b52f08a1e4e97850219729ee48dc8/cenc.mpd``0b1fdeaee3ffc51e9a66cf1938d57aaf:28e3cb88ab7b476b81ab8aa0624c4d71
 LaLiga Plus&&https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdgeVX/smil:272_HD.smil/manifest.mpd``aa724943787320593f5563048c90032d:a039276254f53769b040199a4eca8c2c
