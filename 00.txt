@@ -128,6 +128,9 @@ EuroSports 1&&https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:4
 Fox Sports 1&&https://cors-proxy.cooks.fyi/https://linear.stvacdn.spectrum.com/LIVE/1166/dash/cenc/SPEEDHD/manifest.mpd``4aa03f4ba0b54774accf43d15af7be70:843a421b633ae576f7ad62872d0d71b1
 Fox Sports 2&&https://cors-proxy.cooks.fyi/https://linear.stvacdn.spectrum.com/LIVE/1108/dash/cenc/FS2HD_00564/manifest.mpd``426b95e246774cb798a8c845fe6333d6:91e511fd8c290134b28c36ee1c386ea9
 Fox Sports 3&&https://cors-proxy.cooks.fyi/https://linear.stvacdn.spectrum.com/LIVE/1143/dash/cenc/FSCPLHD/manifest.mpd``260465aba18e40329932d47e9c7aa20b:2b79020e3f3ddc94ba84943ba72d898c
+ESPN 1&&`0https://live.sportsnews.id/p/espn1.html
+ESPN 2&&`0https://live.sportsnews.id/p/espn2.html
+ESPN 3&&`0https://live.sportsnews.id/p/espn3.html
 FUTV&&https://cdn02.teletica.com/StreamFutv/Streamfutv04122023/playlist.m3u8
 LaLiga HyperMotion&&https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/woujvkfnmn/out/v1/141b52f08a1e4e97850219729ee48dc8/cenc.mpd``0b1fdeaee3ffc51e9a66cf1938d57aaf:28e3cb88ab7b476b81ab8aa0624c4d71
 LaLiga Plus&&https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdgeVX/smil:272_HD.smil/manifest.mpd``aa724943787320593f5563048c90032d:a039276254f53769b040199a4eca8c2c
@@ -218,10 +221,7 @@ Badminton 4&&`0https://www.hlsplayer.org/play?url=https://play1nm.hnyongshun.cn/
 EN  beIN Sports 1&&https://xxx.freemiumiptv.top/cdn08jtedgeindihometvcom/dassdvr/133/beib1/manifest.mpd``69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 EN  beIN Sports 3&&https://xxx.freemiumiptv.top/cdn08jtedgeindihometvcom/dassdvr/133/beib2/manifest.mpd``69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 ESPN Premium&&https://tvfuego.cdn.rcs.net.ar/mnp/espnpremium/output.mpd
-ESPN 1&&https://tvfuego.cdn.rcs.net.ar/mnp/espn/output.mpd
-ESPN 3&&https://tvfuego.cdn.rcs.net.ar/mnp/espn3/output.mpd
 ESPN 4&&https://tvfuego.cdn.rcs.net.ar/mnp/espn_extra/output.mpd
-ESPN 2&&https://tvfuego.cdn.rcs.net.ar/mnp/espn2/output.mpd
 Sony Sports 1&&https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
 Sony Sports 2&&https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
 Sony Sports 3&&https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
