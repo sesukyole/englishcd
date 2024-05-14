@@ -9,6 +9,10 @@ Live Sports HD 8&&`0https://sportsonline.si/channels/hd/hd8.php
 Live Sports HD 9&&`0https://sportsonline.si/channels/hd/hd9.php
 Live Sports HD 10&&`0https://sportsonline.si/channels/hd/hd10.php
 Live Sports HD 11&&`0https://sportsonline.si/channels/hd/hd11.php
+Badminton 1&&`0https://news.trendingpie.com/?ftm=https://play1nm.hnyongshun.cn/live/ballbar_24130.m3u8
+Badminton 2&&`0https://news.trendingpie.com/?ftm=https://play1nm.hnyongshun.cn/live/ballbar_17760.m3u8
+Badminton 3&&`0https://news.trendingpie.com/?ftm=https://play1nm.hnyongshun.cn/live/ballbar_22670.m3u8
+Badminton 4&&`0https://news.trendingpie.com/?ftm=https://play1nm.hnyongshun.cn/live/ballbar_20870.m3u8
 Live Sports 1&&`0https://sportsonline.si/channels/bra/br1.php
 Live Sports 2&&`0https://sportsonline.si/channels/bra/br2.php
 Live Sports 3&&`0https://sportsonline.si/channels/bra/br3.php
