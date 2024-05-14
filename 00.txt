@@ -9,10 +9,6 @@ Live Sports HD 8&&`0https://sportsonline.si/channels/hd/hd8.php
 Live Sports HD 9&&`0https://sportsonline.si/channels/hd/hd9.php
 Live Sports HD 10&&`0https://sportsonline.si/channels/hd/hd10.php
 Live Sports HD 11&&`0https://sportsonline.si/channels/hd/hd11.php
-Badminton 1&&`0https://news.trendingpie.com/?ftm=https://play1nm.hnyongshun.cn/live/ballbar_24130.m3u8
-Badminton 2&&`0https://news.trendingpie.com/?ftm=https://play1nm.hnyongshun.cn/live/ballbar_17760.m3u8
-Badminton 3&&`0https://news.trendingpie.com/?ftm=https://play1nm.hnyongshun.cn/live/ballbar_22670.m3u8
-Badminton 4&&`0https://news.trendingpie.com/?ftm=https://play1nm.hnyongshun.cn/live/ballbar_20870.m3u8
 Live Sports 1&&`0https://sportsonline.si/channels/bra/br1.php
 Live Sports 2&&`0https://sportsonline.si/channels/bra/br2.php
 Live Sports 3&&`0https://sportsonline.si/channels/bra/br3.php
@@ -213,6 +209,12 @@ Dubai Sports 3&&https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisp
 Dubai Racing 1&&https://dmisvthvll.cdn.mgmlcdn.com/events/smil:events.stream.smil/playlist.m3u8
 Dubai Racing 2&&https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8
 Dubai Racing 3&&https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
+Badminton Court 1&&`0https://www.youtube.com/embed/BKLakc-QLkA?si=9n4dfRCHtEsJjrAG
+Badminton Court 2&&`0https://www.youtube.com/embed/jgLCuQ6dNL0?si=PeRCLwTMuON8e2LT
+Badminton 1&&`0https://www.hlsplayer.org/play?url=https://play1nm.hnyongshun.cn/live/ballbar_24130.m3u8
+Badminton 2&&`0https://www.hlsplayer.org/play?url=https://play1nm.hnyongshun.cn/live/ballbar_17760.m3u8
+Badminton 3&&`0https://www.hlsplayer.org/play?url=https://play1nm.hnyongshun.cn/live/ballbar_22670.m3u8
+Badminton 4&&`0https://www.hlsplayer.org/play?url=https://play1nm.hnyongshun.cn/live/ballbar_20870.m3u8
 EN  beIN Sports 1&&https://xxx.freemiumiptv.top/cdn08jtedgeindihometvcom/dassdvr/133/beib1/manifest.mpd``69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 EN  beIN Sports 3&&https://xxx.freemiumiptv.top/cdn08jtedgeindihometvcom/dassdvr/133/beib2/manifest.mpd``69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 ESPN Premium&&https://tvfuego.cdn.rcs.net.ar/mnp/espnpremium/output.mpd

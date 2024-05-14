@@ -1,7 +1,7 @@
-Badminton 1&&`0https://news.trendingpie.com/?ftm=https://play1nm.hnyongshun.cn/live/ballbar_24130.m3u8
-Badminton 2&&`0https://news.trendingpie.com/?ftm=https://play1nm.hnyongshun.cn/live/ballbar_17760.m3u8
-Badminton 3&&`0https://news.trendingpie.com/?ftm=https://play1nm.hnyongshun.cn/live/ballbar_22670.m3u8
-Badminton 4&&`0https://news.trendingpie.com/?ftm=https://play1nm.hnyongshun.cn/live/ballbar_20870.m3u8
+Badminton 1&&`0https://www.hlsplayer.org/play?url=https://play1nm.hnyongshun.cn/live/ballbar_24130.m3u8
+Badminton 2&&`0https://www.hlsplayer.org/play?url=https://play1nm.hnyongshun.cn/live/ballbar_17760.m3u8
+Badminton 3&&`0https://www.hlsplayer.org/play?url=https://play1nm.hnyongshun.cn/live/ballbar_22670.m3u8
+Badminton 4&&`0https://www.hlsplayer.org/play?url=https://play1nm.hnyongshun.cn/live/ballbar_20870.m3u8
 Badminton Court 1&&`0https://www.youtube.com/embed/BKLakc-QLkA?si=9n4dfRCHtEsJjrAG
 Badminton Court 2&&`0https://www.youtube.com/embed/jgLCuQ6dNL0?si=PeRCLwTMuON8e2LT
 SCTV&&https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
