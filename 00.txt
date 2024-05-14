@@ -62,6 +62,10 @@ Sky Sports 257&&https://linear311-it-dash1-prd.selector.skycdn.it/016a/31775/FHD
 Sky Sports 258&&https://linear312-it-dash1-prd-ll.cdn13.skycdp.com/32772/skysport258/master.mpd``0036fd8ccfddba47c8b40aeff63a797c:dfd5c9d0f4ac6f3a1bd89803399e7026
 Sky Sports 259&&https://linear311-it-dash1-prd.selector.skycdn.it/016a/31613/skysport259/master.mpd``0036644f7699f43e401f88d920dc385c:e5b0cebdc3edd7996d283041535fce9c
 Sky Open&&https://linear-p.media.skyone.co.nz/primeplus1.clear.m3u8
+Badminton 1&&`0https://news.trendingpie.com/?ftm=https://play1nm.hnyongshun.cn/live/ballbar_24130.m3u8
+Badminton 2&&`0https://news.trendingpie.com/?ftm=https://play1nm.hnyongshun.cn/live/ballbar_17760.m3u8
+Badminton 3&&`0https://news.trendingpie.com/?ftm=https://play1nm.hnyongshun.cn/live/ballbar_22670.m3u8
+Badminton 4&&`0https://news.trendingpie.com/?ftm=https://play1nm.hnyongshun.cn/live/ballbar_20870.m3u8
 MY  beIN Sports Uni 1&&`0https://go.now.net.eu.org/p/live?embed=bein1uni&type=m
 MY  beIN Sports Uni 2&&`0https://go.now.net.eu.org/p/live?embed=bein2uni&type=m
 MY  beIN Sports Uni 3&&`0https://go.now.net.eu.org/p/live?embed=bein3uni&type=m
@@ -241,8 +245,6 @@ FR  beIN Sports Max 7&&`0https://go.now.net.eu.org/p/live?embed=beinmax7fr&type=
 FR  beIN Sports Max 8&&`0https://go.now.net.eu.org/p/live?embed=beinmax8fr&type=m
 FR  beIN Sports Max 9&&`0https://go.now.net.eu.org/p/live?embed=beinmax9fr&type=m
 FR  beIN Sports Max 10&&`0https://go.now.net.eu.org/p/live?embed=beinmax10fr&type=m
-Badminton Court 1&&`0https://www.youtube.com/embed/BKLakc-QLkA?si=9n4dfRCHtEsJjrAG
-Badminton Court 2&&`0https://www.youtube.com/embed/jgLCuQ6dNL0?si=PeRCLwTMuON8e2LT
 TV 2 Sport 1&&https://live-aws-scalstrm-cdn.rikstv.no/live/rikstv/64393bf81dbc891fd41f53ac/manifest.mpd``0c6212056d2f51fcbf569f9a1a8517d1:d07b404deb7c958347d742e6d1d2f3f9
 V Sports 1&&https://live-aws-scalstrm-cdn.rikstv.no/live/rikstv/644bb6e91dbc891fd422efc9/manifest.mpd``4d808f2b9a74536cadbd95be141888ed:9dd89f67b8885dc65721a8b1fbeae700
 V Sports 2&&https://live-aws-scalstrm-cdn.rikstv.no/live/rikstv/644bb6e91dbc891fd422efef/manifest.mpd``0d3ff38c34985fdd81a37567646322b9:6b4504297769acefae2e50920b7c8a77
