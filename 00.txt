@@ -1,31 +1,3 @@
-Live Sports HD 1&&`0https://sportsonline.si/channels/hd/hd1.php
-Live Sports HD 2&&`0https://sportsonline.si/channels/hd/hd2.php
-Live Sports HD 3&&`0https://sportsonline.si/channels/hd/hd3.php
-Live Sports HD 4&&`0https://sportsonline.si/channels/hd/hd4.php
-Live Sports HD 5&&`0https://sportsonline.si/channels/hd/hd5.php
-Live Sports HD 6&&`0https://sportsonline.si/channels/hd/hd6.php
-Live Sports HD 7&&`0https://sportsonline.si/channels/hd/hd7.php
-Live Sports HD 8&&`0https://sportsonline.si/channels/hd/hd8.php
-Live Sports HD 9&&`0https://sportsonline.si/channels/hd/hd9.php
-Live Sports HD 10&&`0https://sportsonline.si/channels/hd/hd10.php
-Live Sports HD 11&&`0https://sportsonline.si/channels/hd/hd11.php
-Live Sports 1&&`0https://sportsonline.si/channels/bra/br1.php
-Live Sports 2&&`0https://sportsonline.si/channels/bra/br2.php
-Live Sports 3&&`0https://sportsonline.si/channels/bra/br3.php
-Live Sports 4&&`0https://sportsonline.si/channels/bra/br4.php
-Live Sports 5&&`0https://sportsonline.si/channels/bra/br5.php
-Live Sports 6&&`0https://sportsonline.si/channels/bra/br6.php
-Live Sports 7&&`0https://sportsonline.si/channels/bra/br7.php
-Live Sports 8&&`0https://sportsonline.si/channels/bra/br8.php
-PT  Benefica&&`0https://sportsonline.si/channels/pt/btv.php
-PT  Eleven 1&&`0https://sportsonline.si/channels/pt/eleven1.php
-PT  Eleven 2&&`0https://sportsonline.si/channels/pt/eleven2.php
-PT  Eleven 3&&`0https://sportsonline.si/channels/pt/eleven3.php
-PT  Sport TV 1&&`0https://sportsonline.si/channels/pt/sporttv1.php
-PT  Sport TV 2&&`0https://sportsonline.si/channels/pt/sporttv2.php
-PT  Sport TV 3&&`0https://sportsonline.si/channels/pt/sporttv3.php
-PT  Sport TV 4&&`0https://sportsonline.si/channels/pt/sporttv4.php
-PT  Sport TV 5&&`0https://sportsonline.si/channels/pt/sporttv5.php
 Premier Sports 1&&https://linear001-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(premiersports1)/manifest_720.mpd``0005b3dba78ae0fe7a9288022d3b3736:d2827df80dd7e9243ba6b5bbda5dfa82
 Premier Sports 2&&https://linear006-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(premiersports2)/manifest_720.mpd``0005d61a0ac86aca28176591b21ae2d9:f87ad1430a7a38fd0ac248fc9a8389b1
 Premier League&&https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd``002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
@@ -62,6 +34,15 @@ Sky Sports 257&&https://linear311-it-dash1-prd.selector.skycdn.it/016a/31775/FHD
 Sky Sports 258&&https://linear312-it-dash1-prd-ll.cdn13.skycdp.com/32772/skysport258/master.mpd``0036fd8ccfddba47c8b40aeff63a797c:dfd5c9d0f4ac6f3a1bd89803399e7026
 Sky Sports 259&&https://linear311-it-dash1-prd.selector.skycdn.it/016a/31613/skysport259/master.mpd``0036644f7699f43e401f88d920dc385c:e5b0cebdc3edd7996d283041535fce9c
 Sky Open&&https://linear-p.media.skyone.co.nz/primeplus1.clear.m3u8
+PT  Benefica&&`0https://sportsonline.si/channels/pt/btv.php
+PT  Eleven 1&&`0https://sportsonline.si/channels/pt/eleven1.php
+PT  Eleven 2&&`0https://sportsonline.si/channels/pt/eleven2.php
+PT  Eleven 3&&`0https://sportsonline.si/channels/pt/eleven3.php
+PT  Sport TV 1&&`0https://sportsonline.si/channels/pt/sporttv1.php
+PT  Sport TV 2&&`0https://sportsonline.si/channels/pt/sporttv2.php
+PT  Sport TV 3&&`0https://sportsonline.si/channels/pt/sporttv3.php
+PT  Sport TV 4&&`0https://sportsonline.si/channels/pt/sporttv4.php
+PT  Sport TV 5&&`0https://sportsonline.si/channels/pt/sporttv5.php
 MY  beIN Sports Uni 1&&`0https://go.now.net.eu.org/p/live?embed=bein1uni&type=m
 MY  beIN Sports Uni 2&&`0https://go.now.net.eu.org/p/live?embed=bein2uni&type=m
 MY  beIN Sports Uni 3&&`0https://go.now.net.eu.org/p/live?embed=bein3uni&type=m
@@ -206,6 +187,25 @@ DAZN 1 ES&&https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/b
 DAZN 2 ES&&https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/xnk4m9bnxt/out/v1/4ced7b7329a54652b9bb0521ed38bd4d/cenc.mpd``0eab5a3f3e3b4ba5d42d40ca30d17571:f3f061ded9b70e8160590d5802ecda6d
 DAZN 3 ES&&https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/zy1ee5sshp/out/v1/bdcffa69fa3b4f3bb3569c9c73ee1c01/cenc.mpd``bad8efff688c0dbb3711e4a7114c22a3:6ba800673b20776c0c850130d45e1920
 DAZN 4 ES&&https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/up7qpwch9b/out/v1/a6d5d1a1287b4893b859c2d6ccf2c65d/cenc.mpd``d27104d427e4f87e75b19395a9f8796b:723593c70e2d4c4862754398e80168f8
+Live Sports HD 1&&`0https://sportsonline.si/channels/hd/hd1.php
+Live Sports HD 2&&`0https://sportsonline.si/channels/hd/hd2.php
+Live Sports HD 3&&`0https://sportsonline.si/channels/hd/hd3.php
+Live Sports HD 4&&`0https://sportsonline.si/channels/hd/hd4.php
+Live Sports HD 5&&`0https://sportsonline.si/channels/hd/hd5.php
+Live Sports HD 6&&`0https://sportsonline.si/channels/hd/hd6.php
+Live Sports HD 7&&`0https://sportsonline.si/channels/hd/hd7.php
+Live Sports HD 8&&`0https://sportsonline.si/channels/hd/hd8.php
+Live Sports HD 9&&`0https://sportsonline.si/channels/hd/hd9.php
+Live Sports HD 10&&`0https://sportsonline.si/channels/hd/hd10.php
+Live Sports HD 11&&`0https://sportsonline.si/channels/hd/hd11.php
+Live Sports 1&&`0https://sportsonline.si/channels/bra/br1.php
+Live Sports 2&&`0https://sportsonline.si/channels/bra/br2.php
+Live Sports 3&&`0https://sportsonline.si/channels/bra/br3.php
+Live Sports 4&&`0https://sportsonline.si/channels/bra/br4.php
+Live Sports 5&&`0https://sportsonline.si/channels/bra/br5.php
+Live Sports 6&&`0https://sportsonline.si/channels/bra/br6.php
+Live Sports 7&&`0https://sportsonline.si/channels/bra/br7.php
+Live Sports 8&&`0https://sportsonline.si/channels/bra/br8.php
 Dubai Sports 1&&https://dmitnthfr.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
 Dubai Sports 2&&https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
 Dubai Sports 3&&https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
