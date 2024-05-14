@@ -62,10 +62,6 @@ Sky Sports 257&&https://linear311-it-dash1-prd.selector.skycdn.it/016a/31775/FHD
 Sky Sports 258&&https://linear312-it-dash1-prd-ll.cdn13.skycdp.com/32772/skysport258/master.mpd``0036fd8ccfddba47c8b40aeff63a797c:dfd5c9d0f4ac6f3a1bd89803399e7026
 Sky Sports 259&&https://linear311-it-dash1-prd.selector.skycdn.it/016a/31613/skysport259/master.mpd``0036644f7699f43e401f88d920dc385c:e5b0cebdc3edd7996d283041535fce9c
 Sky Open&&https://linear-p.media.skyone.co.nz/primeplus1.clear.m3u8
-Badminton 1&&`0https://news.trendingpie.com/?ftm=https://play1nm.hnyongshun.cn/live/ballbar_24130.m3u8
-Badminton 2&&`0https://news.trendingpie.com/?ftm=https://play1nm.hnyongshun.cn/live/ballbar_17760.m3u8
-Badminton 3&&`0https://news.trendingpie.com/?ftm=https://play1nm.hnyongshun.cn/live/ballbar_22670.m3u8
-Badminton 4&&`0https://news.trendingpie.com/?ftm=https://play1nm.hnyongshun.cn/live/ballbar_20870.m3u8
 MY  beIN Sports Uni 1&&`0https://go.now.net.eu.org/p/live?embed=bein1uni&type=m
 MY  beIN Sports Uni 2&&`0https://go.now.net.eu.org/p/live?embed=bein2uni&type=m
 MY  beIN Sports Uni 3&&`0https://go.now.net.eu.org/p/live?embed=bein3uni&type=m
