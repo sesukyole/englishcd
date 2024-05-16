@@ -148,6 +148,7 @@ KR  tvN&&https://d32khooduen8y3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36
 KR  K-Drama&&https://stream.ads.ottera.tv/playlist.m3u8?network_id=425
 KR  K-Movies&&https://bd281c27a16f4a7fb4a88260378e8082.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewMovies/playlist.m3u8
 KR  CJ E&M&&https://d50a1g0nh14ou.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/CJ-ENM-prod/e91c6419_2e45_4f6c_a646_b912658d73b8/hls/playlist.m3u8
+KR  SBS TV&&https://newidco-sbs-1-eu.xiaomi.wurl.tv/playlist.m3u8
 KR  IDS&&https://8fd4e0b07d96480eb52382739cc8acce.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewKID/playlist.m3u8
 QA  Al Jazeera Arabic&&https://live-hls-web-aja.getaj.net/AJA/index.m3u8
 QA  Al Jazeera English&&https://live-hls-web-aje.getaj.net/AJE/index.m3u8

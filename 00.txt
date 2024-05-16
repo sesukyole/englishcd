@@ -4,7 +4,8 @@ Premier Sports 2&&https://linear006-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/
 Premier League&&https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd``002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
 Extreme Sports&&https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:153_HD.smil/manifest.mpd``8518dcac42e4cfeb420ae4b5a633e23:d87181be4661c2b67d518860e98438fd
 Moto Adv&&https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:68_HD.smil/manifest.mpd``ba07f96a90c24d9cab511c6698c79010:e4f8e87e4056ac60c577ac06ac0b02fd
-DE  Sport Plus&&https://ac-009.live.p7s1video.net/c5c609cf/t_009/sport1plus-de-hd/cenc-default.mpd``c1c11c3844b0dffdb9d9831900f1a1da:a2c31e15346f339ca2b47bdd8591553f
+Sport Plus&&https://ac-009.live.p7s1video.net/c5c609cf/t_009/sport1plus-de-hd/cenc-default.mpd``c1c11c3844b0dffdb9d9831900f1a1da:a2c31e15346f339ca2b47bdd8591553f
+Sportkanalen 4&&https://cors-proxy.cooks.fyi/https://director.streaming.telia.com/tvm-packager-prod/group3/60ae4bff1522bd2d466954df/manifest.mpd``a9e0ecea640959c6aec904a1f34934a5:284ea8e5fa0de4bc90c17c21148dbdea
 TNT Sports 1&&https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd``ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
 TNT Sports 2&&https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd``6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
 TNT Sports 3&&https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd``4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
@@ -92,6 +93,12 @@ Arena Sport 3&&https://webtvstream.bhtelecom.ba/hls6/arena3.mpd``c18b6aa739be4c0
 Arena Sport 4&&https://webtvstream.bhtelecom.ba/hls6/arena4.mpd``c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 Arena Sport 5&&https://webtvstream.bhtelecom.ba/hls6/arena5.mpd``c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 Arena Sport 6&&https://webtvstream.bhtelecom.ba/hls6/arena6.mpd``c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+UCL Infinity 1&&https://live03p-seg.msf.cdn.mediaset.net/live/ch-u1/u1-dash-widevine.isml/manifest.mpd``00f9f3c0783536b832a8f0326fbdc02e:ade0533ba667bb7e9847d8f215f03076
+UCL Infinity 2&&https://live03p-seg.msf.cdn.mediaset.net/live/ch-u2/u2-dash-widevine.isml/manifest.mpd``00f9f3c0783536b834b0f0c2bfee80ac:76b3afbf163f9c3feb6204b8fcf0ff53
+UCL Infinity 3&&https://live03p-seg.msf.cdn.mediaset.net/live/ch-u3/u3-dash-widevine.isml/manifest.mpd``00f9f3c0783536b8342d78d46c8c202a:8d2e953821d36c942161be09930d2bd4
+UCL Infinity 4&&https://live03p-seg.msf.cdn.mediaset.net/live/ch-u4/u4-dash-widevine.isml/manifest.mpd``00f9f3c0783536b834357864bc2ae0a8:ae7bec66e4ac23f3d243fa6e4d767a00
+UCL Infinity 5&&https://live03p-seg.msf.cdn.mediaset.net/live/ch-u5/u5-dash-widevine.isml/manifest.mpd``00f9f3c0783536b834b278760c5ba026:a9ab51a9e021da177f982de9b42eb0de
+UCL Infinity 6&&https://live03p-seg.msf.cdn.mediaset.net/live/ch-u6/u6-dash-widevine.isml/manifest.mpd``00f9f3c0783536b834ba7888b9f960a4:852ebe5446caa8fad99c440b86ad128c
 ES  beIN Sports Xtra&&https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
 ES  Real Madrid ENG&&https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
 ES  Real Madrid ESP&&https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
@@ -220,7 +227,10 @@ Dubai Racing 2&&https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing
 Dubai Racing 3&&https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
 Setanta Sports 1&&https://cors-proxy.elfsight.com/https://bkm.beetv.kz/btv/live/hls/000006998.m3u8
 Setanta Sports 2&&https://cors-proxy.elfsight.com/https://bkm.beetv.kz/btv/live/hls/000006899.m3u8
-RU  Match! TV&&https://tv.streams.baikal-telecom.net/MatchHD/tracks-v1a1/mono.m3u8
+RU  Match! TV&&https://livetv.mylifeisgood.net.ru/channels/matchhd_nocensored.m3u8
+RU  Match! Sport Arena&&https://cors-proxy.cooks.fyi/https://video.beeline.tv/live/d/channel512.isml/manifest-stb.mpd``9839b170b4fc384f243bffd8929b71a2:34cdd6f3e1bf6a9f9d54e9165abf8c09
+RU  Match! Football&&https://strm.yandex.ru/kal/match_football1_hd/manifest.mpd``5269ab07e6a6db7585324ae20542f191:dba0dccffba1b26f658ec85a616102e8
+RU  Match! 4&&https://cors-proxy.cooks.fyi/https://m7huvideolive.solocoo.tv/blueskylive2dash/bluedigisport1hu/Manifest.mpd``36d6377bb94b43a58af1c415ac686f4b:82fcba8160b4f88948cd3268bb330dbf
 US  MotoAmerica&&https://dcj-ak-livedazn.akamaized.net/dash/dazn-linear-507/stream.mpd``cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
 US  ACL Cornhole&&https://dcj-ak-livedazn.akamaized.net/dash/dazn-linear-508/stream.mpd``cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
 US  Boxing&&https://dcj-ak-livedazn.akamaized.net/dash/dazn-linear-509/stream.mpd``cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
@@ -237,8 +247,8 @@ Badminton 1&&`0https://www.hlsplayer.org/play?url=https://play1nm.hnyongshun.cn/
 Badminton 2&&`0https://www.hlsplayer.org/play?url=https://play1nm.hnyongshun.cn/live/ballbar_17760.m3u8
 Badminton 3&&`0https://www.hlsplayer.org/play?url=https://play1nm.hnyongshun.cn/live/ballbar_22670.m3u8
 Badminton 4&&`0https://www.hlsplayer.org/play?url=https://play1nm.hnyongshun.cn/live/ballbar_20870.m3u8
-EN  beIN Sports 1&&https://xxx.freemiumiptv.top/cdn08jtedgeindihometvcom/dassdvr/133/beib1/manifest.mpd``69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-EN  beIN Sports 3&&https://xxx.freemiumiptv.top/cdn08jtedgeindihometvcom/dassdvr/133/beib2/manifest.mpd``69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+Usee Sort 1 Max&&https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(d724a7d5-0773-43a6-bf5b-06da1883d520)/manifest.mpd
+Usee Sort 2 Max&&https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(6854467f-52fe-48ee-9822-00233c678709)/manifest.mpd
 ESPN Premium&&https://tvfuego.cdn.rcs.net.ar/mnp/espnpremium/output.mpd
 ESPN 4&&https://tvfuego.cdn.rcs.net.ar/mnp/espn_extra/output.mpd
 Sony Sports 1&&https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
