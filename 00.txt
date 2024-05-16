@@ -236,14 +236,15 @@ US  Matchroom 1&&https://dcj-ak-livedazn.akamaized.net/dash/dazn-linear-515/stre
 US  Matchroom 2&&https://dcj-ak-livedazn.akamaized.net/dash/dazn-linear-516/stream.mpd``cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
 US  Motor Stories&&https://dcj-ak-livedazn.akamaized.net/dash/dazn-linear-518/stream.mpd``cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
 US  SportStak&&https://dcj-ak-livedazn.akamaized.net/dash/dazn-linear-520/stream.mpd``cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
-Badminton Court 1&&`0https://www.youtube.com/embed/BKLakc-QLkA?si=9n4dfRCHtEsJjrAG
-Badminton Court 2&&`0https://www.youtube.com/embed/jgLCuQ6dNL0?si=PeRCLwTMuON8e2LT
-Badminton 1&&`0https://www.hlsplayer.org/play?url=https://play1nm.hnyongshun.cn/live/ballbar_24130.m3u8
-Badminton 2&&`0https://www.hlsplayer.org/play?url=https://play1nm.hnyongshun.cn/live/ballbar_17760.m3u8
-Badminton 3&&`0https://www.hlsplayer.org/play?url=https://play1nm.hnyongshun.cn/live/ballbar_22670.m3u8
-Badminton 4&&`0https://www.hlsplayer.org/play?url=https://play1nm.hnyongshun.cn/live/ballbar_20870.m3u8
-Usee Sort 1 Max&&https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(d724a7d5-0773-43a6-bf5b-06da1883d520)/manifest.mpd
-Usee Sort 2 Max&&https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(6854467f-52fe-48ee-9822-00233c678709)/manifest.mpd
+Badminton 1&&`0https://www.hlsplayer.org/play?url=https://play1nm.hnyongshun.cn/live/ballbar_31320.m3u8
+Badminton Court 1&&`0https://www.youtube.com/embed/cNsiTwGChtg?si=Rthu9WLfZ5KhcVJ-
+Badminton Court 2&&`0https://www.youtube.com/embed/nX-lUk3CC5A?si=Ai7mhJ5A1Mg4qgqz
+Badminton Court 3&&`0https://www.youtube.com/embed/DKDUdQW-W6U?si=VB3Ob-0XwP4EWy-k
+Badminton Court 4&&`0https://www.youtube.com/embed/sqZCicGeQds?si=tNePzqDoM6EQy3f-
+Badminton SW 1&&`0https://www.youtube.com/embed/BKLakc-QLkA?si=9n4dfRCHtEsJjrAG
+Badminton SW 2&&`0https://www.youtube.com/embed/jgLCuQ6dNL0?si=PeRCLwTMuON8e2LT
+ID  Usee Sport 1&&https://xxx.freemiumiptv.top/cdn08jtedgeindihometvcom/dassdvr/133/beib1/manifest.mpd``69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+ID  Usee Sport 3&&https://xxx.freemiumiptv.top/cdn08jtedgeindihometvcom/dassdvr/133/beib2/manifest.mpd``69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 TSN 1&&https://live-ctv.video.9c9media.com/f/TSN/TSN1/manifest.mpd``dea83ced0141424e983e1afe463b4b0d:c00dd5dd17b0799aa4013f365a1393ce
 TSN 2&&https://live-ctv.video.9c9media.com/f/TSN/TSN2/manifest.mpd``ddc52c88e2c24d38a5bc8dda8a2acb61:ad5ea485464a13eec7dda3249c556446
 TSN 3&&https://live-ctv.video.9c9media.com/f/TSN/TSN3/manifest.mpd``c0f378ad54e14a9c85a3d8c986d2a51f:5e1d040743ff78715e464ffb905e68a9
