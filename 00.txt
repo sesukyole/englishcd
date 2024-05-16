@@ -236,7 +236,7 @@ US  Matchroom 1&&https://dcj-ak-livedazn.akamaized.net/dash/dazn-linear-515/stre
 US  Matchroom 2&&https://dcj-ak-livedazn.akamaized.net/dash/dazn-linear-516/stream.mpd``cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
 US  Motor Stories&&https://dcj-ak-livedazn.akamaized.net/dash/dazn-linear-518/stream.mpd``cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
 US  SportStak&&https://dcj-ak-livedazn.akamaized.net/dash/dazn-linear-520/stream.mpd``cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
-Badminton 1&&`0https://www.hlsplayer.org/play?url=https://play1nm.hnyongshun.cn/live/ballbar_31320.m3u8
+Badminton 1&&`0https://hls.123movie.win/?ftm=https://play1nm.hnyongshun.cn/live/ballbar_31320.m3u8
 Badminton Court 1&&`0https://www.youtube.com/embed/cNsiTwGChtg?si=Rthu9WLfZ5KhcVJ-
 Badminton Court 2&&`0https://www.youtube.com/embed/nX-lUk3CC5A?si=Ai7mhJ5A1Mg4qgqz
 Badminton Court 3&&`0https://www.youtube.com/embed/DKDUdQW-W6U?si=VB3Ob-0XwP4EWy-k
