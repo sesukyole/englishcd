@@ -37,7 +37,6 @@ Sky Sports 257&&https://linear311-it-dash1-prd.selector.skycdn.it/016a/31775/FHD
 Sky Sports 258&&https://linear312-it-dash1-prd-ll.cdn13.skycdp.com/32772/skysport258/master.mpd``0036fd8ccfddba47c8b40aeff63a797c:dfd5c9d0f4ac6f3a1bd89803399e7026
 Sky Sports 259&&https://linear311-it-dash1-prd.selector.skycdn.it/016a/31613/skysport259/master.mpd``0036644f7699f43e401f88d920dc385c:e5b0cebdc3edd7996d283041535fce9c
 Sky Open&&https://linear-p.media.skyone.co.nz/primeplus1.clear.m3u8
-ID  SpoTV 1&&https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-spotv/sa_hls/rcti-spotv.m3u8
 ID  Sport 2&&https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar2/sa_hls/rcti-sportstar2.m3u8
 MY  beIN Sports Uni 1&&`0https://go.now.net.eu.org/p/live?embed=bein1uni&type=m
 MY  beIN Sports Uni 2&&`0https://go.now.net.eu.org/p/live?embed=bein2uni&type=m
@@ -88,12 +87,6 @@ Arena Sport 3&&https://webtvstream.bhtelecom.ba/hls6/arena3.mpd``c18b6aa739be4c0
 Arena Sport 4&&https://webtvstream.bhtelecom.ba/hls6/arena4.mpd``c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 Arena Sport 5&&https://webtvstream.bhtelecom.ba/hls6/arena5.mpd``c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 Arena Sport 6&&https://webtvstream.bhtelecom.ba/hls6/arena6.mpd``c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-UCL Infinity 1&&https://live03p-seg.msf.cdn.mediaset.net/live/ch-u1/u1-dash-widevine.isml/manifest.mpd``00f9f3c0783536b832a8f0326fbdc02e:ade0533ba667bb7e9847d8f215f03076
-UCL Infinity 2&&https://live03p-seg.msf.cdn.mediaset.net/live/ch-u2/u2-dash-widevine.isml/manifest.mpd``00f9f3c0783536b834b0f0c2bfee80ac:76b3afbf163f9c3feb6204b8fcf0ff53
-UCL Infinity 3&&https://live03p-seg.msf.cdn.mediaset.net/live/ch-u3/u3-dash-widevine.isml/manifest.mpd``00f9f3c0783536b8342d78d46c8c202a:8d2e953821d36c942161be09930d2bd4
-UCL Infinity 4&&https://live03p-seg.msf.cdn.mediaset.net/live/ch-u4/u4-dash-widevine.isml/manifest.mpd``00f9f3c0783536b834357864bc2ae0a8:ae7bec66e4ac23f3d243fa6e4d767a00
-UCL Infinity 5&&https://live03p-seg.msf.cdn.mediaset.net/live/ch-u5/u5-dash-widevine.isml/manifest.mpd``00f9f3c0783536b834b278760c5ba026:a9ab51a9e021da177f982de9b42eb0de
-UCL Infinity 6&&https://live03p-seg.msf.cdn.mediaset.net/live/ch-u6/u6-dash-widevine.isml/manifest.mpd``00f9f3c0783536b834ba7888b9f960a4:852ebe5446caa8fad99c440b86ad128c
 ES  beIN Sports Xtra&&https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
 ES  Real Madrid ENG&&https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
 ES  Real Madrid ESP&&https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
@@ -243,6 +236,12 @@ Badminton SW 1&&`0https://www.youtube.com/embed/BKLakc-QLkA?si=9n4dfRCHtEsJjrAG
 Badminton SW 2&&`0https://www.youtube.com/embed/jgLCuQ6dNL0?si=PeRCLwTMuON8e2LT
 ID  Usee Sport 1&&https://xxx.freemiumiptv.top/cdn08jtedgeindihometvcom/dassdvr/133/beib1/manifest.mpd``69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 ID  Usee Sport 3&&https://xxx.freemiumiptv.top/cdn08jtedgeindihometvcom/dassdvr/133/beib2/manifest.mpd``69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+UCL Infinity 1&&https://live03p-seg.msf.cdn.mediaset.net/live/ch-u1/u1-dash-widevine.isml/manifest.mpd``00f9f3c0783536b832a8f0326fbdc02e:ade0533ba667bb7e9847d8f215f03076
+UCL Infinity 2&&https://live03p-seg.msf.cdn.mediaset.net/live/ch-u2/u2-dash-widevine.isml/manifest.mpd``00f9f3c0783536b834b0f0c2bfee80ac:76b3afbf163f9c3feb6204b8fcf0ff53
+UCL Infinity 3&&https://live03p-seg.msf.cdn.mediaset.net/live/ch-u3/u3-dash-widevine.isml/manifest.mpd``00f9f3c0783536b8342d78d46c8c202a:8d2e953821d36c942161be09930d2bd4
+UCL Infinity 4&&https://live03p-seg.msf.cdn.mediaset.net/live/ch-u4/u4-dash-widevine.isml/manifest.mpd``00f9f3c0783536b834357864bc2ae0a8:ae7bec66e4ac23f3d243fa6e4d767a00
+UCL Infinity 5&&https://live03p-seg.msf.cdn.mediaset.net/live/ch-u5/u5-dash-widevine.isml/manifest.mpd``00f9f3c0783536b834b278760c5ba026:a9ab51a9e021da177f982de9b42eb0de
+UCL Infinity 6&&https://live03p-seg.msf.cdn.mediaset.net/live/ch-u6/u6-dash-widevine.isml/manifest.mpd``00f9f3c0783536b834ba7888b9f960a4:852ebe5446caa8fad99c440b86ad128c
 USA East&&https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd``882c9f5613b43b47adc70aa968a308ce:de534ef8914bfe62ba3cdd6bdb9e1c04
 USA West&&https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd``252a671825ba31ec8433f978c32ccf6d:ee560759ecc8d2274df2e63fcef56915
 TSN 1&&https://live-ctv.video.9c9media.com/f/TSN/TSN1/manifest.mpd``dea83ced0141424e983e1afe463b4b0d:c00dd5dd17b0799aa4013f365a1393ce
