@@ -1,5 +1,4 @@
 SA  Makkah&&https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
-PS  Palestine Today&&https://live.paltodaytv.com/paltv/live/playlist.m3u8
 DE  DW English&&https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 ZA  WildEarth&&https://wildearth-plex.amagi.tv/master.m3u8
 ID  DigiOne&&https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/index.m3u8
@@ -19,6 +18,8 @@ Moonbug Kids&&https://moonbug-rokuus.amagi.tv/playlist.m3u8
 Spacetoon&&https://raw.githubusercontent.com/mimipipi22/lalajo/main/spacetoon.m3u8
 Universal Kids&&https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv/master_en.m3u8
 ZooMoo&&https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+ID  Animax&&https://cdn09jtedge.indihometv.com/joss/130/animax/index.m3u8
+ID  RTV&&https://cdn09jtedge.indihometv.com/joss/130/rtv/index.m3u8
 ID  Moji&&https://op-group1-swiftservesd-1.dens.tv/s/s41/index.m3u8
 ID  Indosiar&&https://op-group1-swiftservesd-1.dens.tv/s/s04/index.m3u8
 ID  NET. TV&&https://op-group1-swiftservehd-1.dens.tv/h/h223/01.m3u8
