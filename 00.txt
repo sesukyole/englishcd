@@ -109,13 +109,9 @@ Orange Sport 2&&https://ott1.cyberhost.ro/sdash/LIVE$DolceSport2HD/index.mpd/Man
 Orange Sport 3&&https://ott1.cyberhost.ro/sdash/LIVE$DolceSport3/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC``b87857ba74ce03f9fa2866f1e086d05d:1cd289ac71ce5fb306a5e7653192ce3a
 Orange Sport 4&&https://ott1.cyberhost.ro/sdash/LIVE$DolceSport4/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC``202a927cd913101de765b0e5bb3f500f:cdd399869057bc34c827f257f562643a
 beIN Sports Extra&&https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df975e2b27cf5000921c102/master.m3u8?c&deviceType=0&deviceMake=0&deviceModel=0&deviceVersion=0&appVersion=0&deviceLat=0&deviceLon=0&deviceDNT=0&deviceId=0&advertisingId=0&us_privacy=0&samsung_app_domain=0&samsung_app_name=0&profileLimit=&profileFloor=&embedPartner=0
-EuroSports 1&&https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:43_HD.smil/manifest.mpd
 Fox Sports 1&&https://cors-proxy.cooks.fyi/https://linear.stvacdn.spectrum.com/LIVE/1166/dash/cenc/SPEEDHD/manifest.mpd``4aa03f4ba0b54774accf43d15af7be70:843a421b633ae576f7ad62872d0d71b1
 Fox Sports 2&&https://cors-proxy.cooks.fyi/https://linear.stvacdn.spectrum.com/LIVE/1108/dash/cenc/FS2HD_00564/manifest.mpd``426b95e246774cb798a8c845fe6333d6:91e511fd8c290134b28c36ee1c386ea9
 Fox Sports 3&&https://cors-proxy.cooks.fyi/https://linear.stvacdn.spectrum.com/LIVE/1143/dash/cenc/FSCPLHD/manifest.mpd``260465aba18e40329932d47e9c7aa20b:2b79020e3f3ddc94ba84943ba72d898c
-ESPN 1&&`0https://live.sportsnews.id/p/espn1.html
-ESPN 2&&`0https://live.sportsnews.id/p/espn2.html
-ESPN 3&&`0https://live.sportsnews.id/p/espn3.html
 FUTV&&https://cdn02.teletica.com/StreamFutv/Streamfutv04122023/playlist.m3u8
 LaLiga HyperMotion&&https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/woujvkfnmn/out/v1/141b52f08a1e4e97850219729ee48dc8/cenc.mpd``0b1fdeaee3ffc51e9a66cf1938d57aaf:28e3cb88ab7b476b81ab8aa0624c4d71
 SportItalia&&https://di-j16ei4yq.vo.lswcdn.net/sportitalia/smil:sihd.smil/chunklist.m3u8
@@ -236,7 +232,8 @@ US  Matchroom 1&&https://dcj-ak-livedazn.akamaized.net/dash/dazn-linear-515/stre
 US  Matchroom 2&&https://dcj-ak-livedazn.akamaized.net/dash/dazn-linear-516/stream.mpd``cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
 US  Motor Stories&&https://dcj-ak-livedazn.akamaized.net/dash/dazn-linear-518/stream.mpd``cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
 US  SportStak&&https://dcj-ak-livedazn.akamaized.net/dash/dazn-linear-520/stream.mpd``cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
-Badminton 1&&`0https://hls.123movie.win/?ftm=https://play1nm.hnyongshun.cn/live/ballbar_31320.m3u8
+Badminton 1&&`0https://hls.123movie.win/?ftm=https://lebo.huminbird.cn/live/ballbar_36470.m3u8
+Badminton 2&&`0https://hls.123movie.win/?ftm=https://lebo.huminbird.cn/live/ballbar_37900.m3u8
 Badminton Court 1&&`0https://www.youtube.com/embed/cNsiTwGChtg?si=Rthu9WLfZ5KhcVJ-
 Badminton Court 2&&`0https://www.youtube.com/embed/nX-lUk3CC5A?si=Ai7mhJ5A1Mg4qgqz
 Badminton Court 3&&`0https://www.youtube.com/embed/DKDUdQW-W6U?si=VB3Ob-0XwP4EWy-k
