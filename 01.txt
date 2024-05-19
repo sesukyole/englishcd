@@ -19,11 +19,15 @@ Spacetoon&&https://raw.githubusercontent.com/mimipipi22/lalajo/main/spacetoon.m3
 Universal Kids&&https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv/master_en.m3u8
 ZooMoo&&https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 ID  Animax&&https://cdn09jtedge.indihometv.com/joss/130/animax/index.m3u8
-ID  RTV&&https://cdn09jtedge.indihometv.com/joss/130/rtv/index.m3u8
+ID  Dreamworks&&https://cdn09jtedge.indihometv.com/joss/133/dreamworks/index.m3u8
 ID  beIN Sports 1&&https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
 ID  beIN Sports 2&&https://cdn09jtedge.indihometv.com/joss/133/beib2/index.m3u8
 ID  Bioskop Indonesia&&https://cdn09jtedge.indihometv.com/joss/133/bioskopindonesia/index.m3u8
 ID  Flik&&https://cdn09jtedge.indihometv.com/joss/133/flik/index.m3u8
+ID  Movie Channel&&https://cdn09jtedge.indihometv.com/joss/130/imc/index.m3u8
+ID  Galaxy Premium&&https://cdn09jtedge.indihometv.com/joss/133/galaxypremium/index.m3u8
+ID  Galaxy&&https://cdn09jtedge.indihometv.com/joss/133/galaxy/index.m3u8
+ID  RTV&&https://cdn09jtedge.indihometv.com/joss/130/rtv/index.m3u8
 ID  MaxStream &&https://cdn09jtedge.indihometv.com/joss/194/maxstream/index.m3u8
 ID  Moji&&https://op-group1-swiftservesd-1.dens.tv/s/s41/index.m3u8
 ID  Indosiar&&https://op-group1-swiftservesd-1.dens.tv/s/s04/index.m3u8
