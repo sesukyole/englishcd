@@ -20,6 +20,11 @@ Universal Kids&&https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a
 ZooMoo&&https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 ID  Animax&&https://cdn09jtedge.indihometv.com/joss/130/animax/index.m3u8
 ID  RTV&&https://cdn09jtedge.indihometv.com/joss/130/rtv/index.m3u8
+ID  beIN Sports 1&&https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
+ID  beIN Sports 2&&https://cdn09jtedge.indihometv.com/joss/133/beib2/index.m3u8
+ID  Bioskop Indonesia&&https://cdn09jtedge.indihometv.com/joss/133/bioskopindonesia/index.m3u8
+ID  Flik&&https://cdn09jtedge.indihometv.com/joss/133/flik/index.m3u8
+ID  MaxStream &&https://cdn09jtedge.indihometv.com/joss/194/maxstream/index.m3u8
 ID  Moji&&https://op-group1-swiftservesd-1.dens.tv/s/s41/index.m3u8
 ID  Indosiar&&https://op-group1-swiftservesd-1.dens.tv/s/s04/index.m3u8
 ID  NET. TV&&https://op-group1-swiftservehd-1.dens.tv/h/h223/01.m3u8
@@ -264,11 +269,6 @@ ID  UGTV&&https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
 ID  Wesal TV&&https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
 ID  TVRI Sport&&https://op-group1-swiftservesd-1.dens.tv/s/s107/index.m3u8
 ID  TV Kesehatan&&https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8
-ID  beIN Sports 1&&https://cdn08jtedge.indihometv.com/dassdvr/133/beib1/manifest.mpd``69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-ID  beIN Sports 2&&https://cdn08jtedge.indihometv.com/dassdvr/133/beib2/manifest.mpd``69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-ID  Bioskop Indonesia&&https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest.mpd``69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-ID  Flik&&https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd``69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-ID  MaxStream &&https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 US  Bloomberg Asia BTV&&https://www.bloomberg.com/media-manifest/streams/asia.m3u8
 US  Bloomberg Asia Live Event TV&&https://www.bloomberg.com/media-manifest/streams/asia-event.m3u8
 US  Bloomberg Australia BTV&&https://www.bloomberg.com/media-manifest/streams/aus.m3u8
