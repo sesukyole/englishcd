@@ -22,7 +22,7 @@ ID  Animax&&https://cdn09jtedge.indihometv.com/joss/130/animax/index.m3u8
 ID  Dreamworks&&https://cdn09jtedge.indihometv.com/joss/133/dreamworks/index.m3u8
 ID  beIN Sports 1&&https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
 ID  beIN Sports 2&&https://cdn09jtedge.indihometv.com/joss/133/beib2/index.m3u8
-ID  Bioskop Indonesia&&https://cdn09jtedge.indihometv.com/joss/133/bioskopindonesia/index.m3u8
+ID  Bioskop Indonesia&&https://cdn09jtedge.indihometv.com/joss/130/bioskopindonesia/index.m3u8
 ID  Flik&&https://cdn09jtedge.indihometv.com/joss/133/flik/index.m3u8
 ID  Movie Channel&&https://cdn09jtedge.indihometv.com/joss/130/imc/index.m3u8
 ID  Galaxy Premium&&https://cdn09jtedge.indihometv.com/joss/133/galaxypremium/index.m3u8
