@@ -38,6 +38,8 @@ Sky Sports 258&&https://linear312-it-dash1-prd-ll.cdn13.skycdp.com/32772/skyspor
 Sky Sports 259&&https://linear311-it-dash1-prd.selector.skycdn.it/016a/31613/skysport259/master.mpd``0036644f7699f43e401f88d920dc385c:e5b0cebdc3edd7996d283041535fce9c
 Sky Open&&https://linear-p.media.skyone.co.nz/primeplus1.clear.m3u8
 ID  Sport 2&&https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar2/sa_hls/rcti-sportstar2.m3u8
+ID  Sports 1&&https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
+ID  Sports 3&&https://cdn09jtedge.indihometv.com/joss/133/beib2/index.m3u8
 MY  beIN Sports Uni 1&&`0https://go.now.net.eu.org/p/live?embed=bein1uni&type=m
 MY  beIN Sports Uni 2&&`0https://go.now.net.eu.org/p/live?embed=bein2uni&type=m
 MY  beIN Sports Uni 3&&`0https://go.now.net.eu.org/p/live?embed=bein3uni&type=m
@@ -234,8 +236,6 @@ Badminton Court 3&&`0https://www.youtube.com/embed/DKDUdQW-W6U?si=VB3Ob-0XwP4EWy
 Badminton Court 4&&`0https://www.youtube.com/embed/sqZCicGeQds?si=tNePzqDoM6EQy3f-
 Badminton SW 1&&`0https://www.youtube.com/embed/BKLakc-QLkA?si=9n4dfRCHtEsJjrAG
 Badminton SW 2&&`0https://www.youtube.com/embed/jgLCuQ6dNL0?si=PeRCLwTMuON8e2LT
-ID  Usee Sport 1&&https://xxx.freemiumiptv.top/cdn08jtedgeindihometvcom/dassdvr/133/beib1/manifest.mpd``69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-ID  Usee Sport 3&&https://xxx.freemiumiptv.top/cdn08jtedgeindihometvcom/dassdvr/133/beib2/manifest.mpd``69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 UCL Infinity 1&&https://live03p-seg.msf.cdn.mediaset.net/live/ch-u1/u1-dash-widevine.isml/manifest.mpd``00f9f3c0783536b832a8f0326fbdc02e:ade0533ba667bb7e9847d8f215f03076
 UCL Infinity 2&&https://live03p-seg.msf.cdn.mediaset.net/live/ch-u2/u2-dash-widevine.isml/manifest.mpd``00f9f3c0783536b834b0f0c2bfee80ac:76b3afbf163f9c3feb6204b8fcf0ff53
 UCL Infinity 3&&https://live03p-seg.msf.cdn.mediaset.net/live/ch-u3/u3-dash-widevine.isml/manifest.mpd``00f9f3c0783536b8342d78d46c8c202a:8d2e953821d36c942161be09930d2bd4
