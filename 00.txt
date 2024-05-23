@@ -45,6 +45,7 @@ MY  beIN Sports Uni 3&&`0https://go.now.net.eu.org/p/live?embed=bein3uni&type=m
 MY  beIN Sports Uni 4&&`0https://go.now.net.eu.org/p/live?embed=bein4uni&type=m
 MY  SpoTV 1&&`0https://go.now.net.eu.org/p/live?embed=spotv1my&type=m
 MY  SpoTV 2&&`0https://go.now.net.eu.org/p/live?embed=spotv2my&type=m
+NO  TV 3&&https://aws-appeartv-cdn.rikstv.no/rikstv/708/2/dash/Viasat4/manifest.mpd``bc603bd4cbdaae7f9debc7accca10266:bb2ed19b76e7bd6cb8ad228b4a79827c
 PT  Benefica&&`0https://sportsonline.si/channels/pt/btv.php
 PT  Eleven 1&&`0https://sportsonline.si/channels/pt/eleven1.php
 PT  Eleven 2&&`0https://sportsonline.si/channels/pt/eleven2.php
@@ -225,6 +226,9 @@ US  Motor Stories&&https://dcj-ak-livedazn.akamaized.net/dash/dazn-linear-518/st
 US  SportStak&&https://dcj-ak-livedazn.akamaized.net/dash/dazn-linear-520/stream.mpd``cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
 Badminton 1&&`0https://hls.123movie.win/?ftm=https://lebo.huminbird.cn/live/ballbar_36470.m3u8
 Badminton 2&&`0https://hls.123movie.win/?ftm=https://lebo.huminbird.cn/live/ballbar_37900.m3u8
+MY  Masters 2024 Court 2&&`0https://www.youtube.com/embed/t6ALEwdpJ0c
+MY  Masters 2024 Court 3&&`0https://www.youtube.com/embed/1XfuEnVhfm8
+MY  Masters 2024 Court 4&&`0https://www.youtube.com/embed/UhJ6eUnKhn4
 Badminton Court 1&&`0https://www.youtube.com/embed/cNsiTwGChtg?si=Rthu9WLfZ5KhcVJ-
 Badminton Court 2&&`0https://www.youtube.com/embed/nX-lUk3CC5A?si=Ai7mhJ5A1Mg4qgqz
 Badminton Court 3&&`0https://www.youtube.com/embed/DKDUdQW-W6U?si=VB3Ob-0XwP4EWy-k
