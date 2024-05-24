@@ -159,12 +159,12 @@ MY  RTB SukmaIndera&&https://d1211whpimeups.cloudfront.net/smil:rtb1/chunklist.m
 MY  RTB Aneka Go&&https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
 MY  RTB Go Live&&https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
 MY  Didik TV&&https://unifi-live05.secureswiftcontent.com/UnifiHD/live06.mpd``47a1206b44822c89320e70916cf57b0c:e040ca2aa426df789ba384ba561891b4
-MY  Berita RTM TV&&https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
-MY  TV Okey&&https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
-MY  Sukan RTM TV&&https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
-MY  TV1&&https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
-MY  TV2&&https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
-MY  TV6&&https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
+MY  Berita RTM TV&&https://cors-proxy.cooks.fyi/https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
+MY  TV Okey&&https://cors-proxy.cooks.fyi/https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
+MY  Sukan RTM TV&&https://cors-proxy.cooks.fyi/https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
+MY  TV1&&https://cors-proxy.cooks.fyi/https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
+MY  TV2&&https://cors-proxy.cooks.fyi/https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
+MY  TV6&&https://cors-proxy.cooks.fyi/https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 MY  Siar&&https://unifi-live31.secureswiftcontent.com/UnifiHD/live31.mpd``fc23c442355854992a264931a28fc1c5:3a3368fa385a049695ff4de3c36809cd
 MY  8TV&&https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/live.isml/4.m3u8
 MY  Drama Hebat&&https://ce2388031147403ca25a81e56607a193.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_1_Ad/dash.mpd
