@@ -30,7 +30,7 @@ ID  Bioskop Indonesia&&01`00a130/bioskopindonesia/index.m3u8
 ID  Cartoon Network&&01`00a194/cartoonnetwork/index.m3u8
 ID  Citra Drama&&01`00a130/cdrama/index.m3u8
 ID  Celestial Movie&&01`00a130/celestialmovie/index.m3u8
-ID  ID  Chinese Drama&&01`00a130/chinesedrama/index.m3u8
+ID  Chinese Drama&&01`00a130/chinesedrama/index.m3u8
 ID  Cinema World&&01`00a134/cinemaworld/index.m3u8
 ID  Citra Dangdut&&01`00a130/citradangdut/index.m3u8
 ID  CNBC Asia&&01`00a134/cnbcasia/index.m3u8
