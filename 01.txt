@@ -71,6 +71,7 @@ ID  Love Nature&&01`00a194/lovenature/index.m3u8
 ID  MaxStream&&01`00a194/maxstream/index.m3u8
 ID  Mentari TV&&01`00a134/mentaritv/index.m3u8
 ID  Metro TV&&01`00a133/metrotv/index.m3u8
+ID  Moji TV&&01`00a134/ochannel/index.m3u8
 ID  MUI TV&&01`00a130/muitv/index.m3u8
 ID  Musik Indonesia&&01`00a134/musikindo/index.m3u8
 ID  My Cinema&&01`00a133/mycinema/index.m3u8
@@ -80,9 +81,8 @@ ID  Net TV&&01`00a133/net/index.m3u8
 ID  Channel News Asia&&01`00a134/newsasia/index.m3u8
 ID  NHK World&&01`00a130/nhkworld/index.m3u8
 ID  Nick Jr&&01`00a130/nickjr/index.m3u8
-ID  Moji TV&&01`00a134/ochannel/index.m3u8
-ID  Panda TV 01`00a130/pandatv/index.m3u8&&pandatv
-ID  Rodja TV 01`00a130/rodjatv/index.m3u8&&rodjatv
+ID  Panda TV&&01`00a130/pandatv/index.m3u8
+ID  Rodja TV&&01`00a130/rodjatv/index.m3u8
 ID  RTV&&01`00a130/rtv/index.m3u8
 ID  Seru&&01`00a134/seru/index.m3u8
 ID  GEM&&01`00a133/sgem/index.m3u8
