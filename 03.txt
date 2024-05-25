@@ -1,6 +1,5 @@
 UK  English Club TVᴴᴰ 🇬🇧&&http://iptv.prosto.tv:7000/ch206/video.m3u8
 UK  Mr. Bean&&http://51.159.104.29:8080/mrbean/index.m3u8
-US  Tom & Jerry 🇺🇸&&http://24hrs.homelinux.com/24H-tom-e-jerry/video.m3u8
 AR  Fox Kids&&http://stmv1.srvif.com/emlsilva/emlsilva/playlist.m3u8
 AR  Urban Kids&&http://200.194.238.229:8383/live/urbankids/playlist.m3u8
 MX  DreamWorks sᴅ 🇲🇽&&http://45.189.148.24:8000/play/a00m/index.m3u8
@@ -176,6 +175,7 @@ ID  ROCK Entertainment&&http://210.210.155.37/dr9445/h/h16/index.m3u8
 ID  SPOTV1&&http://202.150.161.68/spotv1/index.m3u8
 ID  SPOTV2&&http://202.150.161.68/spotv2/index.m3u8
 ID  tvN Movies&&http://210.210.155.37/dr9445/h/h21/index.m3u8
+US  Tom & Jerry 🇺🇸&&http://24hrs.homelinux.com/24H-tom-e-jerry/video.m3u8
 INFO EVENTI&&00`d0039395.m3u8
 RAI ITALIA&&00`d0026060.m3u8
 RAI 1  4K HEVC H265&&00`d005322.m3u8
