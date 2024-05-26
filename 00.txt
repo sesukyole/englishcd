@@ -34,7 +34,11 @@ Sky Sports Tennis&&`0https://go.now.net.eu.org/p/live?embed=skyracing&type=m
 Sky Sports Mix&&`0https://go.now.net.eu.org/p/live?embed=skymix&type=m
 Sky Sports Action&&`0https://go.now.net.eu.org/p/live?embed=skyaction&type=m
 Sky Sports Golf&&`0https://go.now.net.eu.org/p/live?embed=skygolf&type=m
+ID  SpoTV 1&&https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-spotv/sa_hls/rcti-spotv.m3u8
 ID  Sport 2&&https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar2/sa_hls/rcti-sportstar2.m3u8
+ID  Indosiar&&https://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
+ID  RCTI&&https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-2/sa_hls/rcti-2.m3u8
+ID  SCTV&&https://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
 ID  Sports 1&&https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
 ID  Sports 3&&https://cdn09jtedge.indihometv.com/joss/133/beib2/index.m3u8
 MY  beIN Sports Uni 1&&`0https://go.now.net.eu.org/p/live?embed=bein1uni&type=m
