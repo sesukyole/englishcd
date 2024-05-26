@@ -18,85 +18,85 @@ Moonbug Kids&&https://moonbug-rokuus.amagi.tv/playlist.m3u8
 Spacetoon&&https://raw.githubusercontent.com/mimipipi22/lalajo/main/spacetoon.m3u8
 Universal Kids&&https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv/master_en.m3u8
 ZooMoo&&https://zoomoo-samsungau.amagi.tv/playlist.m3u8
-ID  AFN&&01`00a133/afc/index.m3u8
-ID  Makkah TV&&01`00a130/alquran/index.m3u8
-ID  Animal Planet&&01`00a194/animalplanet/index.m3u8
-ID  AniMax&&01`00a130/animax/index.m3u8
-ID  ANTV&&01`00a130/antv/index.m3u8
-ID  Bali TV&&01`00a134/balitv/index.m3u8
-ID  Sports 1&&01`00a133/beib1/index.m3u8
-ID  Sports 3&&01`00a133/beib2/index.m3u8
-ID  Bioskop Indonesia&&01`00a130/bioskopindonesia/index.m3u8
-ID  Cartoon Network&&01`00a194/cartoonnetwork/index.m3u8
-ID  Citra Drama&&01`00a130/cdrama/index.m3u8
-ID  Celestial Movie&&01`00a130/celestialmovie/index.m3u8
-ID  Chinese Drama&&01`00a130/chinesedrama/index.m3u8
-ID  Cinema World&&01`00a134/cinemaworld/index.m3u8
-ID  Citra Dangdut&&01`00a130/citradangdut/index.m3u8
-ID  CNBC Asia&&01`00a134/cnbcasia/index.m3u8
-ID  CNN Indonesia&&01`00a133/cnnindonesia/index.m3u8
-ID  Crime Investigation&&01`00a133/crimeinvestigation/index.m3u8
-ID  Curiosity&&01`00a194/curiosity/index.m3u8
-ID  DAAI TV&&01`00a134/daaitv/index.m3u8
-ID  Davinci&&01`00a134/davinci/index.m3u8
-ID  Discovery Channel&&01`00a133/disco/index.m3u8
-ID  Discovery Asia&&01`00a194/discoveryasia/index.m3u8
-ID  Dreamworks&&01`00a133/dreamworks/index.m3u8
-ID  Dunia Anak&&01`00a130/duniaanak/index.m3u8
-ID  Dunia Lain&&01`00a130/dunialain/index.m3u8
-ID  DW TV&&01`00a134/dwtv/index.m3u8
-ID  Eat & Go&&01`00a134/eatgo/index.m3u8
-ID  Euro News&&01`00a134/euronews/index.m3u8
-ID  Fight Sport&&01`00a133/fightsport/index.m3u8
-ID  Flik&&01`00a133/flik/index.m3u8
-ID  Galaxy&&01`00a133/galaxy/index.m3u8
-ID  Galaxy Premium&&01`00a133/galaxypremium/index.m3u8
-ID  History&&01`00a133/history/index.m3u8
-ID  Hits&&01`00a133/hits/index.m3u8
-ID  Hits Movie&&01`00a133/hitsmovie/index.m3u8
-ID  Hits Now&&01`00a134/hitsnow/index.m3u8
-ID  Horee&&01`00a130/horee/index.m3u8
-ID  Horizon Sport&&01`00a133/horizonsport/index.m3u8
-ID  iKonser&&01`00a130/ikonser/index.m3u8
-ID  Movie Channel&&01`00a130/imc/index.m3u8
-ID  Fun Planet&&01`00a134/indikids/index.m3u8
-ID  Insert&&01`00a130/insert/index.m3u8
-ID  JTV&&01`00a134/jtv/index.m3u8
-ID  KiX&&01`00a133/kix/index.m3u8
-ID  Kompas TV&&01`00a133/kompastv/index.m3u8
-ID  Kungfu TV&&01`00a130/kungfutv/index.m3u8
-ID  Lifetime&&01`00a134/lifetime/index.m3u8
-ID  Lingua&&01`00a133/lingua/index.m3u8
-ID  Love Nature&&01`00a194/lovenature/index.m3u8
-ID  MaxStream&&01`00a194/maxstream/index.m3u8
-ID  Mentari TV&&01`00a134/mentaritv/index.m3u8
-ID  Metro TV&&01`00a133/metrotv/index.m3u8
-ID  Moji TV&&01`00a134/ochannel/index.m3u8
-ID  MUI TV&&01`00a130/muitv/index.m3u8
-ID  Musik Indonesia&&01`00a134/musikindo/index.m3u8
-ID  My Cinema&&01`00a133/mycinema/index.m3u8
-ID  My Cinema Asia&&01`00a133/mycinemaasia/index.m3u8
-ID  NBA&&01`00a133/nba/index.m3u8
-ID  Net TV&&01`00a133/net/index.m3u8
-ID  Channel News Asia&&01`00a134/newsasia/index.m3u8
-ID  NHK World&&01`00a130/nhkworld/index.m3u8
-ID  Nick Jr&&01`00a130/nickjr/index.m3u8
-ID  Panda TV&&01`00a130/pandatv/index.m3u8
-ID  Rodja TV&&01`00a130/rodjatv/index.m3u8
-ID  RTV&&01`00a130/rtv/index.m3u8
-ID  Seru&&01`00a134/seru/index.m3u8
-ID  GEM&&01`00a133/sgem/index.m3u8
-ID  One&&01`00a133/sone/index.m3u8
-ID  TechStorm&&01`00a133/techstorm/index.m3u8
-ID  TLC&&01`00a133/tlc/index.m3u8
-ID  Trans TV&&01`00a133/transtv/index.m3u8
-ID  TV9&&01`00a130/tv9/index.m3u8
-ID  tvN&&01`00a133/tvn/index.m3u8
-ID  tvN Movies&&01`00a133/tvnmovies/index.m3u8
-ID  Zhejiang&&01`00a130/zhejiang/index.m3u8
+ID  AFN&&01`00a133/afc/index.m3u8?c
+ID  Makkah TV&&01`00a130/alquran/index.m3u8?c
+ID  Animal Planet&&01`00a194/animalplanet/index.m3u8?c
+ID  AniMax&&01`00a130/animax/index.m3u8?c
+ID  ANTV&&01`00a130/antv/index.m3u8?c
+ID  Bali TV&&01`00a134/balitv/index.m3u8?c
+ID  Sports 1&&01`00a133/beib1/index.m3u8?c
+ID  Sports 3&&01`00a133/beib2/index.m3u8?c
+ID  Bioskop Indonesia&&01`00a130/bioskopindonesia/index.m3u8?c
+ID  Cartoon Network&&01`00a194/cartoonnetwork/index.m3u8?c
+ID  Citra Drama&&01`00a130/cdrama/index.m3u8?c
+ID  Celestial Movie&&01`00a130/celestialmovie/index.m3u8?c
+ID  Chinese Drama&&01`00a130/chinesedrama/index.m3u8?c
+ID  Cinema World&&01`00a134/cinemaworld/index.m3u8?c
+ID  Citra Dangdut&&01`00a130/citradangdut/index.m3u8?c
+ID  CNBC Asia&&01`00a134/cnbcasia/index.m3u8?c
+ID  CNN Indonesia&&01`00a133/cnnindonesia/index.m3u8?c
+ID  Crime Investigation&&01`00a133/crimeinvestigation/index.m3u8?c
+ID  Curiosity&&01`00a194/curiosity/index.m3u8?c
+ID  DAAI TV&&01`00a134/daaitv/index.m3u8?c
+ID  Davinci&&01`00a134/davinci/index.m3u8?c
+ID  Discovery Channel&&01`00a133/disco/index.m3u8?c
+ID  Discovery Asia&&01`00a194/discoveryasia/index.m3u8?c
+ID  Dreamworks&&01`00a133/dreamworks/index.m3u8?c
+ID  Dunia Anak&&01`00a130/duniaanak/index.m3u8?c
+ID  Dunia Lain&&01`00a130/dunialain/index.m3u8?c
+ID  DW TV&&01`00a134/dwtv/index.m3u8?c
+ID  Eat & Go&&01`00a134/eatgo/index.m3u8?c
+ID  Euro News&&01`00a134/euronews/index.m3u8?c
+ID  Fight Sport&&01`00a133/fightsport/index.m3u8?c
+ID  Flik&&01`00a133/flik/index.m3u8?c
+ID  Galaxy&&01`00a133/galaxy/index.m3u8?c
+ID  Galaxy Premium&&01`00a133/galaxypremium/index.m3u8?c
+ID  History&&01`00a133/history/index.m3u8?c
+ID  Hits&&01`00a133/hits/index.m3u8?c
+ID  Hits Movie&&01`00a133/hitsmovie/index.m3u8?c
+ID  Hits Now&&01`00a134/hitsnow/index.m3u8?c
+ID  Horee&&01`00a130/horee/index.m3u8?c
+ID  Horizon Sport&&01`00a133/horizonsport/index.m3u8?c
+ID  iKonser&&01`00a130/ikonser/index.m3u8?c
+ID  Movie Channel&&01`00a130/imc/index.m3u8?c
+ID  Fun Planet&&01`00a134/indikids/index.m3u8?c
+ID  Insert&&01`00a130/insert/index.m3u8?c
+ID  JTV&&01`00a134/jtv/index.m3u8?c
+ID  KiX&&01`00a133/kix/index.m3u8?c
+ID  Kompas TV&&01`00a133/kompastv/index.m3u8?c
+ID  Kungfu TV&&01`00a130/kungfutv/index.m3u8?c
+ID  Lifetime&&01`00a134/lifetime/index.m3u8?c
+ID  Lingua&&01`00a133/lingua/index.m3u8?c
+ID  Love Nature&&01`00a194/lovenature/index.m3u8?c
+ID  MaxStream&&01`00a194/maxstream/index.m3u8?c
+ID  Mentari TV&&01`00a134/mentaritv/index.m3u8?c
+ID  Metro TV&&01`00a133/metrotv/index.m3u8?c
+ID  Moji TV&&01`00a134/ochannel/index.m3u8?c
+ID  MUI TV&&01`00a130/muitv/index.m3u8?c
+ID  Musik Indonesia&&01`00a134/musikindo/index.m3u8?c
+ID  My Cinema&&01`00a133/mycinema/index.m3u8?c
+ID  My Cinema Asia&&01`00a133/mycinemaasia/index.m3u8?c
+ID  NBA&&01`00a133/nba/index.m3u8?c
+ID  Net TV&&01`00a133/net/index.m3u8?c
+ID  Channel News Asia&&01`00a134/newsasia/index.m3u8?c
+ID  NHK World&&01`00a130/nhkworld/index.m3u8?c
+ID  Nick Jr&&01`00a130/nickjr/index.m3u8?c
+ID  Panda TV&&01`00a130/pandatv/index.m3u8?c
+ID  Rodja TV&&01`00a130/rodjatv/index.m3u8?c
+ID  RTV&&01`00a130/rtv/index.m3u8?c
+ID  Seru&&01`00a134/seru/index.m3u8?c
+ID  GEM&&01`00a133/sgem/index.m3u8?c
+ID  One&&01`00a133/sone/index.m3u8?c
+ID  TechStorm&&01`00a133/techstorm/index.m3u8?c
+ID  TLC&&01`00a133/tlc/index.m3u8?c
+ID  Trans TV&&01`00a133/transtv/index.m3u8?c
+ID  TV9&&01`00a130/tv9/index.m3u8?c
+ID  tvN&&01`00a133/tvn/index.m3u8?c
+ID  tvN Movies&&01`00a133/tvnmovies/index.m3u8?c
+ID  Zhejiang&&01`00a130/zhejiang/index.m3u8?c
 ID  Moji&&https://op-group1-swiftservesd-1.dens.tv/s/s41/index.m3u8
 ID  Indosiar&&https://op-group1-swiftservesd-1.dens.tv/s/s04/index.m3u8
-ID  NET. TV&&https://op-group1-swiftservehd-1.dens.tv/h/h223/01.m3u8
+ID  NET. TV&&https://op-group1-swiftservehd-1.dens.tv/h/h223/index.m3u8
 ID  SCTV&&https://op-group1-swiftservehd-1.dens.tv/s/s03/index.m3u8
 ID  NTV&&https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
 ID  BeritaSatu World TV&&https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
@@ -105,7 +105,7 @@ ID  CNN Indonesia&&https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlis
 ID  CCTV 4&&https://op-group1-swiftservesd-1.dens.tv/s/s19/index.m3u8
 ID  K Plus&&https://op-group1-swiftservehd-1.dens.tv/h/h08/index.m3u8
 ID  Nadoo Korean&&https://op-group1-swiftservehd-1.dens.tv/h/h125/live.m3u8
-ID  My Cinema Europe&&https://op-group1-swiftservehd-1.dens.tv/h/h18/01.m3u8
+ID  My Cinema Europe&&https://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8
 ID  HBO Family&&https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(cec31cdd-d2ff-4c23-8a76-ad1c0ef025e2)/manifest.mpd``c97626ac21bf3c228acd8c917073cb23:e1607dfaa05a86417fb6b4bd95fc3493
 ID  HBO Hits&&https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7e3ac8f2-3380-461a-976b-30bca8d939a0)/manifest.mpd``5103bb74062d3e7b8d806328cf30294c:8eed273333e6a5e195788348146bcafa
 ID  HBO&&https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(92c7b96a-33fc-4899-a032-50ae0fbc9257)/manifest.mpd``b726367ce66d3de48ea51a789c07844e:a79401896a0d20127e1d89be24cad9a9

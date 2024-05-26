@@ -27,15 +27,15 @@ ID  Sport 2&&https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar2/sa_hl
 ID  Indosiar&&https://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
 ID  RCTI&&https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-2/sa_hls/rcti-2.m3u8?c
 ID  SCTV&&https://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
-ID  Sports 1&&https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8?c
-ID  Sports 3&&https://cdn09jtedge.indihometv.com/joss/133/beib2/index.m3u8?c
+ID  Sports 1&&01`00a133/beib1/index.m3u8?c
+ID  Sports 3&&01`00a133/beib2/index.m3u8?c
 MY  beIN Sports Uni 1&&`0https://go.now.net.eu.org/p/live?embed=bein1uni&type=m
 MY  beIN Sports Uni 2&&`0https://go.now.net.eu.org/p/live?embed=bein2uni&type=m
 MY  beIN Sports Uni 3&&`0https://go.now.net.eu.org/p/live?embed=bein3uni&type=m
 MY  beIN Sports Uni 4&&`0https://go.now.net.eu.org/p/live?embed=bein4uni&type=m
 MY  SpoTV 1&&`0https://go.now.net.eu.org/p/live?embed=spotv1my&type=m
 MY  SpoTV 2&&`0https://go.now.net.eu.org/p/live?embed=spotv2my&type=m
-NO  TV 3&&https://aws-appeartv-cdn.rikstv.no/rikstv/708/2/dash/Viasat4/manifest.mpd``bc603bd4cbdaae7f9debc7accca10266:bb2ed19b76e7bd6cb8ad228b4a79827c
+NO  TV 3 Plus&&https://aws-appeartv-cdn.rikstv.no/rikstv/708/2/dash/Viasat4/manifest.mpd``bc603bd4cbdaae7f9debc7accca10266:bb2ed19b76e7bd6cb8ad228b4a79827c
 IT  EuroSports 1&&https://linear311-it-dash1-prd-ll.cdn13.skycdp.com/313073/FHD/eurosport/master.mpd``0036bb3fa7e6f2c334d7cba5c28b6caf:217fa35739cd68e90b2cd23322c01312
 IT  EuroSports 2&&https://linear312-it-dash1-prd-ll.cdn13.skycdp.com/31150/FHD/eurosport2/master.mpd``003670a7034342a4a07c91173818c61c:7b90055c1a1ea34d9090e9ebf6c4db8a
 PT  Benefica&&`0https://sportsonline.si/channels/pt/btv.php
@@ -254,7 +254,7 @@ UCL Infinity 3&&https://live03p-seg.msf.cdn.mediaset.net/live/ch-u3/u3-dash-wide
 UCL Infinity 4&&https://live03p-seg.msf.cdn.mediaset.net/live/ch-u4/u4-dash-widevine.isml/manifest.mpd``00f9f3c0783536b834357864bc2ae0a8:ae7bec66e4ac23f3d243fa6e4d767a00
 UCL Infinity 5&&https://live03p-seg.msf.cdn.mediaset.net/live/ch-u5/u5-dash-widevine.isml/manifest.mpd``00f9f3c0783536b834b278760c5ba026:a9ab51a9e021da177f982de9b42eb0de
 UCL Infinity 6&&https://live03p-seg.msf.cdn.mediaset.net/live/ch-u6/u6-dash-widevine.isml/manifest.mpd``00f9f3c0783536b834ba7888b9f960a4:852ebe5446caa8fad99c440b86ad128c
-RU  Match! Football&&https://cors-proxy.cooks.fyi/https://strm.yandex.ru/kal/match_football1_hd/manifest.mpd``5269ab07e6a6db7585324ae20542f191:dba0dccffba1b26f658ec85a616102e8
+RU  Match! Football&&https://cors-proxy.elfsight.com/https://strm.yandex.ru/kal/match_football1_hd/manifest.mpd``5269ab07e6a6db7585324ae20542f191:dba0dccffba1b26f658ec85a616102e8
 USA East&&https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd``882c9f5613b43b47adc70aa968a308ce:de534ef8914bfe62ba3cdd6bdb9e1c04
 USA West&&https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd``252a671825ba31ec8433f978c32ccf6d:ee560759ecc8d2274df2e63fcef56915
 TSN 1&&https://live-ctv.video.9c9media.com/f/TSN/TSN1/manifest.mpd``dea83ced0141424e983e1afe463b4b0d:c00dd5dd17b0799aa4013f365a1393ce
