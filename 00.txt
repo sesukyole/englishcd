@@ -14,6 +14,15 @@ MY  SpoTV 1&&https://pop5clustera00de07172379a62d6189.hypp.tv:443/PLTV/88888888/
 MY  SpoTV 2&&https://pop5clustera00de07172379a62d6189.hypp.tv:443/PLTV/88888888/224/3221227726/3221227726.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawRjfkMvdAX9TZ5I%2BbsmfrUeOV6Zn1IaYCsVySN%2F6aTU0rcymHBIhx5oJP4jv2fPK0%3D%3A20230206102855%3AUTC%2C1003663983%2C115.164.187.20%2C20230206102855%2Curn:Huawei:liveTV:XTV100000162%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOwY6CMBiE36bHpi0I9tCTGxOTDbuJrFczhZ9KLNRt0cS3X1D2NpmZbzJTREOHD5PZwoqt0IXSXZ7JEnqWCp2WFhtlBUv0WwWjWAPv-9FVoV2w03F3loILrpTkUrF6mdt7uLVZ3QdL0WT_2JHio2_ItKnjDyQO5yI5TH0Y-bfH8yf6tcKoXq_JotwUWuSlyvOSTYtbI13nhF2QdmG4IVL7GdwLMB18InZDc4WjCgOZ8e79m_uK7fzmD_CkDoH0AAAA&tenantId=6001``7c67cb7de9465062c06ac94e8e065462:5931fc07f285ffe40eb98e130bb090f9
 Live Football HD&&https://pull.niues.live/live/stream-9912052_lhd.m3u8?auth_key=1712085969-0-0-0124ae5349e6dd0bfe4e1335c9e13445
 Live Football SD&&https://pull.niues.live/live/stream-9912052_lsd.m3u8?auth_key=1712085969-0-0-0124ae5349e6dd0bfe4e1335c9e13445
+Ziggo Sport&&https://da-d436236920010b8800010303000000000000000b.id.cdn.upcbroadband.com/wp/wp7-vxtoken-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000014_019661/_shared_6a89db18ec4202bae4d424e84c1f46a2/NL_000014_019661.mpd``0be3d503dba13fc9a9c8ad4b89f599e6:578c2231c526c5e9eb415411e36871bf
+Ziggo Select&&https://da-d436236720010b88000103030000000000000009.id.cdn.upcbroadband.com/wp/wp1-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000094_019321/_shared_cc010062b17300c4504b6ab5681b5417/NL_000094_019321.mpd``16bf72dc22743d929c4318e193408373:eae51a1e3904124963074cbf432c7c8e
+Ziggo Voetbal&&https://da-d436234620010b88000103020000000000000008.id.cdn.upcbroadband.com/wp/wp2-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000095_019371/_shared_cc010062b17300c4504b6ab5681b5417/NL_000095_019371.mpd``16bf72dc22743d929c4318e193408373:eae51a1e3904124963074cbf432c7c8e
+Ziggo Tennis&&https://da-d436236320010b88000103030000000000000005.id.cdn.upcbroadband.com/wp/wp6-vxtoken-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000099_019256/_shared_cc010062b17300c4504b6ab5681b5417/NL_000099_019256.mpd``16bf72dc22743d929c4318e193408373:eae51a1e3904124963074cbf432c7c8e
+Ziggo Docu&&https://da-d436236620010b88000103030000000000000008.id.cdn.upcbroadband.com/wp/wp5-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000098_019255/_shared_cc010062b17300c4504b6ab5681b5417/NL_000098_019255.mpd``16bf72dc22743d929c4318e193408373:eae51a1e3904124963074cbf432c7c8e
+ESPN 1 NL&&https://da-d436234320010b88000103020000000000000005.id.cdn.upcbroadband.com/wp/wp1-vxtoken-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000107_019441/_shared_05e8c13b39b3f30524c26012f903ed7f/NL_000107_019441.mpd``3e999e38253834baa63881ea451f2839:99b88d9cde1d8986decbc5985da87187
+ESPN 2 NL&&https://da-d436234420010b88000103020000000000000006.id.cdn.upcbroadband.com/wp/wp2-vxtoken-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000108_019561/_shared_05e8c13b39b3f30524c26012f903ed7f/NL_000108_019561.mpd``3e999e38253834baa63881ea451f2839:99b88d9cde1d8986decbc5985da87187
+ESPN 3 NL&&https://da-d436234320010b88000103020000000000000005.id.cdn.upcbroadband.com/wp/wp3-vxtoken-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000109_019464/_shared_05e8c13b39b3f30524c26012f903ed7f/NL_000109_019464.mpd``3e999e38253834baa63881ea451f2839:99b88d9cde1d8986decbc5985da87187
+ESPN 4 NL&&https://da-d436234b20010b8800010302000000000000000d.id.cdn.upcbroadband.com/wp/wp4-vxtoken-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000110_019562/_shared_05e8c13b39b3f30524c26012f903ed7f/NL_000110_019562.mpd``3e999e38253834baa63881ea451f2839:99b88d9cde1d8986decbc5985da87187
 PT  Eleven 1&&https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Eleven_Sports_1_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
 PT  Eleven 2&&https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Eleven_Sports_2_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
 PT  Eleven 3&&https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Eleven_Sports_3_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
@@ -23,15 +32,10 @@ PT  Eleven 6&&https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.p
 PT  Sport TV 1&&https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SPORTTV1_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
 PT  Sport TV 2&&https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SPORTTV2_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
 PT  Sport TV 3&&https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SPORTTV3_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
-PT  Sport TV 4&&https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SPORTTV4_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
-PT  Sport TV 5&&https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SPORTTV5_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+PT  Sport TV 4&&https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SPORTTVLive_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+PT  Sport TV 5+&&https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SPORTTV_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
 PT  Sport TV 6&&https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SPORTTV6_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
 PT  OneToro&&https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$MundotoroTV_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
-Ziggo Sport&&https://da-d436236920010b8800010303000000000000000b.id.cdn.upcbroadband.com/wp/wp7-vxtoken-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000014_019661/_shared_6a89db18ec4202bae4d424e84c1f46a2/NL_000014_019661.mpd``0be3d503dba13fc9a9c8ad4b89f599e6:578c2231c526c5e9eb415411e36871bf
-Ziggo Select&&https://da-d436236720010b88000103030000000000000009.id.cdn.upcbroadband.com/wp/wp1-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000094_019321/_shared_cc010062b17300c4504b6ab5681b5417/NL_000094_019321.mpd``16bf72dc22743d929c4318e193408373:eae51a1e3904124963074cbf432c7c8e
-Ziggo Voetbal&&https://da-d436234620010b88000103020000000000000008.id.cdn.upcbroadband.com/wp/wp2-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000095_019371/_shared_cc010062b17300c4504b6ab5681b5417/NL_000095_019371.mpd``16bf72dc22743d929c4318e193408373:eae51a1e3904124963074cbf432c7c8e
-Ziggo Tennis&&https://da-d436236320010b88000103030000000000000005.id.cdn.upcbroadband.com/wp/wp6-vxtoken-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000099_019256/_shared_cc010062b17300c4504b6ab5681b5417/NL_000099_019256.mpd``16bf72dc22743d929c4318e193408373:eae51a1e3904124963074cbf432c7c8e
-Ziggo Docu&&https://da-d436236620010b88000103030000000000000008.id.cdn.upcbroadband.com/wp/wp5-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000098_019255/_shared_cc010062b17300c4504b6ab5681b5417/NL_000098_019255.mpd``16bf72dc22743d929c4318e193408373:eae51a1e3904124963074cbf432c7c8e
 TNT Sports 1&&https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd``ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
 TNT Sports 2&&https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd``6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
 TNT Sports 3&&https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd``4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
@@ -72,10 +76,6 @@ WWE&&https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc106wh3
 NBC Golf Sport&&https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc124phhny)/master.mpd``0020212a47511b226f7cc9d030aa171b:323c16315e1cb8d7c821facc3c1778a4
 NBC Sports&&https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc122ycnuy)/master.mpd``0020d88a6713159839743f655c5da7de:ba9f34226301f69a4f0f13f65a1f92ec
 NFL Sports&&https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(lc107a1ddy)/master.mpd``002007110c69a23803173b50eab05f23:590d6e8f4ca81319f9bb29104f571990
-ESPN 1 NL&&https://da-d436234320010b88000103020000000000000005.id.cdn.upcbroadband.com/wp/wp1-vxtoken-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000107_019441/_shared_05e8c13b39b3f30524c26012f903ed7f/NL_000107_019441.mpd``3e999e38253834baa63881ea451f2839:99b88d9cde1d8986decbc5985da87187
-ESPN 2 NL&&https://da-d436234420010b88000103020000000000000006.id.cdn.upcbroadband.com/wp/wp2-vxtoken-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000108_019561/_shared_05e8c13b39b3f30524c26012f903ed7f/NL_000108_019561.mpd``3e999e38253834baa63881ea451f2839:99b88d9cde1d8986decbc5985da87187
-ESPN 3 NL&&https://da-d436234320010b88000103020000000000000005.id.cdn.upcbroadband.com/wp/wp3-vxtoken-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000109_019464/_shared_05e8c13b39b3f30524c26012f903ed7f/NL_000109_019464.mpd``3e999e38253834baa63881ea451f2839:99b88d9cde1d8986decbc5985da87187
-ESPN 4 NL&&https://da-d436234b20010b8800010302000000000000000d.id.cdn.upcbroadband.com/wp/wp4-vxtoken-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000110_019562/_shared_05e8c13b39b3f30524c26012f903ed7f/NL_000110_019562.mpd``3e999e38253834baa63881ea451f2839:99b88d9cde1d8986decbc5985da87187
 Sportkanalen 4&&https://cors-proxy.cooks.fyi/https://director.streaming.telia.com/tvm-packager-prod/group3/60ae4bff1522bd2d466954df/manifest.mpd``a9e0ecea640959c6aec904a1f34934a5:284ea8e5fa0de4bc90c17c21148dbdea
 V Sport Premium&&https://cors-proxy.cooks.fyi/https://director.streaming.telia.com/tvm-packager-prod/group1/60896c3647a23d7f115cd57a/manifest.mpd``eab13e69793756eda77d8d71fda90d5d:cd022e9bffa6a0d1523ee5d9fcda9ed4
 V Sport Ultra HD&&https://cors-proxy.cooks.fyi/https://director.streaming.telia.com/tvm-packager-prod/group3/60b76e87baa9d5ddc9262457/manifest.mpd``c02b1c0a644d5aa4b7176ae585c572dc:5a7799ea89ea65e3bac9a10684e616bc
@@ -184,10 +184,12 @@ Dubai Sports 3&&https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisp
 Dubai Racing 1&&https://dmisvthvll.cdn.mgmlcdn.com/events/smil:events.stream.smil/playlist.m3u8
 Dubai Racing 2&&https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8
 Dubai Racing 3&&https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
+BR  BandSports&&https://cdn2.connectbr.com.br/Band-Sports/index.m3u8
 TyC Sports 2&&https://d107yb993altze.cloudfront.net/out/v1/772e0b0193134726ad84693b7baca6c6/index.m3u8
 T Sports 7&&https://cors-proxy.elfsight.com/https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0129/HLS/B0129.m3u8
 Setanta Sports 1&&https://cors-proxy.elfsight.com/https://bkm.beetv.kz/btv/live/hls/000006998.m3u8
 Setanta Sports 2&&https://cors-proxy.elfsight.com/https://bkm.beetv.kz/btv/live/hls/000006899.m3u8
+RU  Match! TV&&https://cors-proxy.elfsight.com/https://video.beeline.tv/live/d/channel317.isml/manifest-stb.mpd``5e1c798b16d24dc8cbfc7819abf77b4d:4ba5d9aeba2239b425d1cf7b45474333
 RU  Match! Sport Arena&&https://cors-proxy.cooks.fyi/https://video.beeline.tv/live/d/channel512.isml/manifest-stb.mpd``9839b170b4fc384f243bffd8929b71a2:34cdd6f3e1bf6a9f9d54e9165abf8c09
 HU  Match 4&&https://cors-proxy.cooks.fyi/https://m7huvideolive.solocoo.tv/blueskylive2dash/bluedigisport1hu/Manifest.mpd``36d6377bb94b43a58af1c415ac686f4b:82fcba8160b4f88948cd3268bb330dbf
 Zigo Sport Golf&&https://cors-proxy.cooks.fyi/https://cdsvideolive3.solocoo.tv/blueskycdslive7dash/blueziggosportgolf/Manifest.mpd``bb4b78ef397646e3ae5f13bdb23d56ed:c1247a942c7126443a93214c67431fe8
@@ -297,7 +299,6 @@ TyC Sports&&https://bvsat02.cdn.rcs.net.ar/mnp/tyc/output.mpd
 AR  TNT Sports&&https://bvsat02.cdn.rcs.net.ar/mnp/tntsports/output.mpd
 TNT Sports Premium&&https://clbpktstvdash-1.clarovideo.com/bpk-tv/TNTSPHD/dash_fk/index.mpd``eb9b87786bf9905fd14cbf1ac572d3d1:050a5d1da667693dbb327351b2f60c08
 TNT Sports AR&&https://clbpktstvdash-1.clarovideo.com/bpk-tv/TNTSP3HD/dash_fk/index.mpd``046af5c1b08fcc86435ba97f119c9ada:fdd13d5b0151b1165d556c04d03a46fc
-BR  BandSports&&https://0055-jbc.dtvott.com/dash_live_0054/manifest.mpd``bd1af42db82f5a17a0d75246f25f5201:a9edd4e2c410923e9cbcb261102e5008
 CR  Tigo Sports&&https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
 Edge Sport&&https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8
 beIN Sports TV 1&&https://edge1.laotv.la/live/Bsport1/manifest.mpd
@@ -326,7 +327,6 @@ Canal 4 Elsalvador&&https://telecorporacion-es.cdn.vustreams.com/live/65b52a0a-4
 FUTV&&https://cdn02.teletica.com/StreamFutv/Streamfutv04122023/playlist.m3u8
 Extreme Sports&&https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:153_HD.smil/manifest.mpd``8518dcac42e4cfeb420ae4b5a633e23:d87181be4661c2b67d518860e98438fd
 Moto Adv&&https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:68_HD.smil/manifest.mpd``ba07f96a90c24d9cab511c6698c79010:e4f8e87e4056ac60c577ac06ac0b02fd
-RU  Match! TV&&https://livetv.mylifeisgood.net.ru/channels/matchhd_nocensored.m3u8
 Badminton 1&&`0https://hls.123movie.win/?ftm=https://lebo.huminbird.cn/live/ballbar_36470.m3u8
 Badminton 2&&`0https://hls.123movie.win/?ftm=https://lebo.huminbird.cn/live/ballbar_37900.m3u8
 US  DAZN NFL&&`0https://go.now.net.eu.org/p/live?embed=daznnfl&type=m
