@@ -152,6 +152,7 @@ Zona de Acción&&https://stream.ads.ottera.tv/playlist.m3u8?network_id=4312
 AE  Dubai One&&https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8
 AE  Dubai TV&&https://raw.githubusercontent.com/mimipipi22/lalajo/main/dubaitv.m3u8
 MY  Astro Awani&&https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
+MY  Boo&&https://cors-proxy.elfsight.com/https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/2407/default.mpd``ea4d51ade01bbf3946e0de973051ba10:f3266bec607f25879f48640f30f1c888
 MY  Maah TV&&https://hls.maahtv.live/hls/stream.m3u8
 MY  TV IKIM&&https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
 MY  Dunia Sinema&&https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
@@ -166,10 +167,11 @@ MY  TV1&&https://cors-proxy.cooks.fyi/https://d25tgymtnqzu8s.cloudfront.net/smil
 MY  TV2&&https://cors-proxy.cooks.fyi/https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 MY  TV6&&https://cors-proxy.cooks.fyi/https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 MY  Siar&&https://unifi-live31.secureswiftcontent.com/UnifiHD/live31.mpd``fc23c442355854992a264931a28fc1c5:3a3368fa385a049695ff4de3c36809cd
-MY  8TV&&https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/live.isml/4.m3u8
 MY  Drama Hebat&&https://ce2388031147403ca25a81e56607a193.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_1_Ad/dash.mpd
-MY  Drama HotPot&&https://770c1b3657e94bc4b76ecd3e12882bcc.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_4_Ad/dash.mpd
 MY  Filem Mantap&&https://78470390525b4b03b023113696878114.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_2_Ad/dash.mpd
+MY  Lawak Sentral&&https://4940c5f69db24a558151436f708d5a69.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_3_Ad/dash.mpd
+MY  Drama HotPot&&https://770c1b3657e94bc4b76ecd3e12882bcc.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_4_Ad/dash.mpd
+MY  Travel & Taste&&https://068877e598224108a60fb9cd5db3717f.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_5_Ad/dash.mpd
 TH  ALTV4&&https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
 TH  HBO&&https://cnt1-streamer9.cdn.3bbtv.com:8443/3bb/live/103/103.mpd``9c5735afb4fd402580360aed8364469c:128d55d9ac2b47ad85f86b5d08320179
 TH  HBO Family&&https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/106/106.mpd``07b138f30ad3441ca5a2f476e550af25:826ee4deef4b45cfafd5f79a591b15c6
@@ -335,45 +337,45 @@ JP  J Sports 1&&https://stream01.willfonk.com/live_playlist.m3u8?cid=BS242&r=HD&
 JP  J Sports 2&&https://stream01.willfonk.com/live_playlist.m3u8?cid=BS243&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 JP  J Sports 3&&https://stream01.willfonk.com/live_playlist.m3u8?cid=BS244&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 JP  J Sports 4&&https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-JP  Asahi TV&&https://stream01.willfonk.com/live_playlist.m3u8?cid=BS295&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+	JP  Asahi TV&&https://stream01.willfonk.com/live_playlist.m3u8?cid=BS295&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 JP  Channel Ginga&&https://stream01.willfonk.com/live_playlist.m3u8?cid=CS305&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 JP  Family Gekijo&&https://stream01.willfonk.com/live_playlist.m3u8?cid=CS223&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 JP  Fox Japan&&https://stream01.willfonk.com/live_playlist.m3u8?cid=CS293&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 JP  Fuji TV&&https://stream01.willfonk.com/live_playlist.m3u8?cid=CS312&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-JP  Gaora Sports&&https://stream01.willfonk.com/live_playlist.m3u8?cid=BS298&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+	JP  Gaora Sports&&https://stream01.willfonk.com/live_playlist.m3u8?cid=BS298&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 JP  Golf Network&&https://stream01.willfonk.com/live_playlist.m3u8?cid=CS254&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 JP  Jidaigeki Senmon Channel&&https://stream01.willfonk.com/live_playlist.m3u8?cid=CS262&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-JP  Kids Station&&https://stream01.willfonk.com/live_playlist.m3u8?cid=CS292&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+	JP  Kids Station&&https://stream01.willfonk.com/live_playlist.m3u8?cid=CS292&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 JP  Lala TV&&https://stream01.willfonk.com/live_playlist.m3u8?cid=CS330&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 JP  Movie Plus&&https://stream01.willfonk.com/live_playlist.m3u8?cid=CS314&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 JP  Music On! TV&&https://stream01.willfonk.com/live_playlist.m3u8?cid=CS240&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 JP  NHK BS Premium&&https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-JP  NHK BS1&&https://stream01.willfonk.com/live_playlist.m3u8?cid=BS103&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-JP  NHK Edu&&https://stream01.willfonk.com/live_playlist.m3u8?cid=BS101&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-JP  Nippon Eiga Senmon Channel&&https://stream01.willfonk.com/live_playlist.m3u8?cid=BS292&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+	JP  NHK BS1&&https://stream01.willfonk.com/live_playlist.m3u8?cid=BS103&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+	JP  NHK Edu&&https://stream01.willfonk.com/live_playlist.m3u8?cid=BS101&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+	JP  Nippon Eiga Senmon Channel&&https://stream01.willfonk.com/live_playlist.m3u8?cid=BS292&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 JP  Nippon TV&&https://stream01.willfonk.com/live_playlist.m3u8?cid=BS255&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-JP  Nittere G+&&https://stream01.willfonk.com/live_playlist.m3u8?cid=BS294&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-JP  Nittere News 24&&https://stream01.willfonk.com/live_playlist.m3u8?cid=CS257&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+	JP  Nittere G+&&https://stream01.willfonk.com/live_playlist.m3u8?cid=BS294&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+	JP  Nittere News 24&&https://stream01.willfonk.com/live_playlist.m3u8?cid=CS257&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 JP  Sky A&&https://stream01.willfonk.com/live_playlist.m3u8?cid=CS349&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 JP  Star Channel 1&&https://stream01.willfonk.com/live_playlist.m3u8?cid=CS250&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-JP  Star Channel 2&&https://stream01.willfonk.com/live_playlist.m3u8?cid=BS200&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-JP  Star Channel 3&&https://stream01.willfonk.com/live_playlist.m3u8?cid=BS201&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-JP  Super! Drama TV&&https://stream01.willfonk.com/live_playlist.m3u8?cid=BS202&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+	JP  Star Channel 2&&https://stream01.willfonk.com/live_playlist.m3u8?cid=BS200&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+	JP  Star Channel 3&&https://stream01.willfonk.com/live_playlist.m3u8?cid=BS201&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+	JP  Super! Drama TV&&https://stream01.willfonk.com/live_playlist.m3u8?cid=BS202&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 JP  TBS&&https://stream01.willfonk.com/live_playlist.m3u8?cid=CS310&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-JP  TV Tokyo&&https://stream01.willfonk.com/live_playlist.m3u8?cid=BS296&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+	JP  TV Tokyo&&https://stream01.willfonk.com/live_playlist.m3u8?cid=BS296&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 JP  Wowow Cinema&&https://stream01.willfonk.com/live_playlist.m3u8?cid=CS218&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-JP  Wowow Live&&https://stream01.willfonk.com/live_playlist.m3u8?cid=BS297&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+	JP  Wowow Live&&https://stream01.willfonk.com/live_playlist.m3u8?cid=BS297&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 JP  Wowow Prime&&https://stream01.willfonk.com/live_playlist.m3u8?cid=BS193&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 JP  BS Animax&&https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 JP  BS Asahi&&https://stream01.willfonk.com/live_playlist.m3u8?cid=BS191&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 JP  BS Fuji&&https://stream01.willfonk.com/live_playlist.m3u8?cid=BS236&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-JP  BS Nittere&&https://stream01.willfonk.com/live_playlist.m3u8?cid=BS151&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-JP  BS Sky PerfecTV!&&https://stream01.willfonk.com/live_playlist.m3u8?cid=BS181&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-JP  BS TBS&&https://stream01.willfonk.com/live_playlist.m3u8?cid=BS141&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+	JP  BS Nittere&&https://stream01.willfonk.com/live_playlist.m3u8?cid=BS151&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+	JP  BS Sky PerfecTV!&&https://stream01.willfonk.com/live_playlist.m3u8?cid=BS181&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+	JP  BS TBS&&https://stream01.willfonk.com/live_playlist.m3u8?cid=BS141&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 JP  BS Tsuri Vision&&https://stream01.willfonk.com/live_playlist.m3u8?cid=BS241&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-JP  BS TV Tokyo&&https://stream01.willfonk.com/live_playlist.m3u8?cid=BS161&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+	JP  BS TV Tokyo&&https://stream01.willfonk.com/live_playlist.m3u8?cid=BS161&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 JP  Channel Neco&&https://stream01.willfonk.com/live_playlist.m3u8?cid=BS251&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-JP  Toei Channel&&https://stream01.willfonk.com/live_playlist.m3u8?cid=BS171&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+	JP  Toei Channel&&https://stream01.willfonk.com/live_playlist.m3u8?cid=BS171&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 BE  Club 1&&https://origin2-rtlbe.live.6cloud.fr/pool_z6h2o6qd/clubrtl/rtlbesd/dash_short_cenc10_clubrtl/index.mpd``b53316f32fc93b51a61ba6fdf0bce6c1:d752d66843a48a6fed64eed8f87adc3e
 BR  SBT&&https://0006-bbc.dtvott.com/dash_live_0035/manifest.mpd``3ad3dca103185934acff7a0e9000c112:3f396659d841a55cd1381e6735ecfa1d
 Canal 5&&https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
@@ -721,54 +723,11 @@ TV5MONDE STYLE [geo-area]&&https://ott.tv5monde.com/Content/HLS/Live/channel(sty
 |SHAHID| RASHED AL-MAJED&&https://rashed-almajed-ak.akamaized.net/out/v1/77b0946130344d1388e5cd34afdcb772/index_19.m3u8
 |SHAHID| MUHAMMAD ABDO&&https://mohammed-abdou-ak.akamaized.net/out/v1/3b57275cf54747cda4cda03ecf146f92/index_19.m3u8
 002 Radio TV&&https://cdn.002radio.com:3909/live/radio002live.m3u8
-AisPlay Cinemax&&https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0118/DASH/V0118.mpd``b541612bcb4598f60c4efc1733b5d8c9:7e6d2819c0912a204fd5478f8a60d1b5
-AisPlay HBO&&https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0114/DASH/V0114.mpd``da901f885137d1f274dc7592762611ab:4d3536a7f0d996d6b013fc3dc1de7a3d
-AisPlay HBO Family&&https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0115/DASH/V0115.mpd``96af42ae402ccc9b3f92a8e99ec8f5aa:6a0991ae3f06f76a010afa5515f67ac6
-AisPlay HBO Hits&&https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0116/DASH/V0116.mpd``56c2717c2c6431c75ac1fbf64a997cb6:d4544ffd929b2da1f6101705e74facee
-AisPlay HBO Signature&&https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0117/DASH/V0117.mpd``97c1c27765dae9b95ee04ea6e8f50c34:7db57b354d4d9cdb22e256c2a7500956
-AisPlay Paramount&&https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0185/DASH/V0185.mpd``25bf32f14fa2141acb7d008c0c438bc8:e8b12304c39c113f97de330a27887b31
-TH  Cool&&https://edge1.laotv.la/live/COOL/manifest.mpd
-TH  Hit&&https://edge1.laotv.la/live/Hit/manifest.mpd
-TH  LNTV3&&https://edge1.laotv.la/live/LNTV3/manifest.mpd
-TH  MChannel&&https://edge1.laotv.la/live/MChannel/manifest.mpd
-TH  Mono29&&https://edge1.laotv.la/live/Mono29/manifest.mpd
-TH  MVTV&&https://edge1.laotv.la/live/MVTV/manifest.mpd
-TH  News1&&https://edge1.laotv.la/live/News1/manifest.mpd
-TH  PNN&&https://edge1.laotv.la/live/PNN/manifest.mpd
-TH  SunTV&&https://edge1.laotv.la/live/SunTV/manifest.mpd
-TH  True4U&&https://edge1.laotv.la/live/True4U/manifest.mpd
-TH  WishChannel&&https://edge1.laotv.la/live/WishChannel/manifest.mpd
-CN  Lotus Macau&&https://edge1.laotv.la/live/AomenLotus/manifest.mpd
-CN  Hunan&&https://edge1.laotv.la/live/Hunan/manifest.mpd
-CN  Longxiang&&https://edge1.laotv.la/live/Longxiang/manifest.mpd
-Animal Show&&https://edge1.laotv.la/live/AnimalShow/manifest.mpd
-Cartoon Network&&https://edge1.laotv.la/live/CartoonNetwork/manifest.mpd
-Celestial Movies&&https://edge1.laotv.la/live/CHCA/manifest.mpd
-China Movies&&https://edge1.laotv.la/live/ChinaMovie/manifest.mpd
-Cinemax&&https://edge1.laotv.la/live/Cinemax/manifest.mpd
-CNBC&&https://edge1.laotv.la/live/CNBC/manifest.mpd
-CNN&&https://edge1.laotv.la/live/CNN/manifest.mpd
-Dongsen Foreign Movie&&https://edge1.laotv.la/live/DongsenForeignMovie/manifest.mpd
-EBC Movies&&https://edge1.laotv.la/live/DongsenMovie/manifest.mpd
-DW&&https://edge1.laotv.la/live/DW/manifest.mpd
-HBO&&https://edge1.laotv.la/live/HBO/manifest.mpd
-KBS&&https://edge1.laotv.la/live/KBS/manifest.mpd
-NHK&&https://edge1.laotv.la/live/NHK/manifest.mpd
-Phoenix News&&https://edge1.laotv.la/live/PhoenixNews/manifest.mpd
-Phoenix TV&&https://edge1.laotv.la/live/PhxChinese/manifest.mpd
-SkyWorld&&https://edge1.laotv.la/live/SkyWorld/manifest.mpd
-Asian Movies&&https://edge1.laotv.la/live/TSHD/manifest.mpd
-True Film&&https://edge1.laotv.la/live/TureFilm/manifest.mpd
-StarMovies&&https://edge1.laotv.la/live/StarMovie/manifest.mpd
-VTC 3&&https://edge1.laotv.la/live/ABCA/manifest.mpd
-CN  CCTV 1&&https://edge1.laotv.la/live/CCTV1/manifest.mpd
-CN  CCTV 2&&https://edge1.laotv.la/live/CCTV2/manifest.mpd
-CN  CCTV 3&&https://edge1.laotv.la/live/CCTV3/manifest.mpd
-CN  CCTV 4&&https://edge1.laotv.la/live/CCTV4A/manifest.mpd
-CN  CCTV 5&&https://edge1.laotv.la/live/CCTV5+/manifest.mpd
-CN  CCTV 7&&https://edge1.laotv.la/live/CCTV7/manifest.mpd
-CN  CCTV 8&&https://edge1.laotv.la/live/CCTV8/manifest.mpd
-CN  CCTV 14&&https://edge1.laotv.la/live/CCTV14/manifest.mpd
-CN  CCTV 15&&https://edge1.laotv.la/live/CCTV15/manifest.mpd
-CN  CCTV Golf&&https://edge1.laotv.la/live/BosiGolf/manifest.mpd
-Discovery&&https://edge1.laotv.la/live/Discovery/manifest.mpd
+TH  NBT&&https://cors-proxy.elfsight.com/https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0001/HLS/B0001.m3u8
+TH  Ch 3&&https://cors-proxy.elfsight.com/https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0003/HLS/B0003.m3u8
+TH  nalau 27&&https://cors-proxy.elfsight.com/https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0006/HLS/V0006.m3u8
+TH  nnu 5&&https://cors-proxy.elfsight.com/https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0007/HLS/V0007.m3u8
+TH  MCOT 30&&https://cors-proxy.elfsight.com/https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0008/HLS/V0008.m3u8
+TH  Boomerang&&https://cors-proxy.elfsight.com/https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0104/HLS/V0104.m3u8
+TH  Animal Show&&https://cors-proxy.elfsight.com/https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0153/HLS/V0153.m3u8
+MY  8TV&&https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/live.isml/4.m3u8
