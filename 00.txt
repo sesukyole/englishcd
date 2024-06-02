@@ -1,3 +1,4 @@
+ID  Indosiar TV&&https://49c1f938208318cdf8288bc36b62472a.livehwc3.cn/pull-new.52bch.com/live/6962813_lhd.m3u8?user_session_id=6fb5de7c9be922740e27d60a9ea6abe2&sub_m3u8=true&auth_info=mrY72GTjWQRylB+KpurCufQxKhEzig4KNh9t84tN4TkjaFnOcK9EcK2ic9bZuq8u.7043313165447a4f6f616e6265683743&edge_slice=true
 ID  Indosiar SD&&https://pull.niues.live/live/stream-9912011_lsd.m3u8?auth_key=1717271804-0-0-f4de0b40edda67b6a3af2538d7050ea2
 ID  Indosiar HD&&https://pull.niues.live/live/stream-9912052_lhd.m3u8?auth_key=1712085969-0-0-0124ae5349e6dd0bfe4e1335c9e13445
 ID  RCTI&&https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-2/sa_hls/rcti-2.m3u8?c
