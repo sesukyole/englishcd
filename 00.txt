@@ -1,6 +1,6 @@
 ID  SpoTV 1&&https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-spotv/sa_hls/rcti-spotv.m3u8?c
 ID  Sport 2&&https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar2/sa_hls/rcti-sportstar2.m3u8?c
-ID  Indosiar&&https://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
+ID  Indosiar&&https://pull.niues.live/live/stream-9912011_lsd.m3u8?auth_key=1717271804-0-0-f4de0b40edda67b6a3af2538d7050ea2
 ID  RCTI&&https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-2/sa_hls/rcti-2.m3u8?c
 ID  SCTV&&https://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
 ID  Sports 1&&01`00a133/beib1/index.m3u8?c
@@ -392,3 +392,4 @@ DAZN Eleven 3&&01`01a5601`01b
 DAZN Eleven 4&&01`01a5701`01b
 DAZN Eleven 5&&01`01a5801`01b
 DAZN Eleven 6&&01`01a5901`01b
+ID  Indosiar&&https://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
