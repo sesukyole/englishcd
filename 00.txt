@@ -16,6 +16,7 @@ ID  Sport 3&&01`02aMNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd``fadd2720deff5925
 ID  Sport 4&&01`02aSportstar4/sa_dash_vmx/Sportstar4.mpd``b81b1942c65f35547ced1bff074206a5:a07dc4d86f51db7195f4b7e2abe9d9e8
 ID  Sports 1&&01`00a133/beib1/index.m3u8?c
 ID  Sports 3&&01`00a133/beib2/index.m3u8?c
+CCTV 4&&https://op-group1-swiftservesd-1.dens.tv/s/s19/index.m3u8
 Premier Sports 1&&https://linear001-ie-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_120/Live/channel(premiersports1)/manifest_720.mpd``0005b3dba78ae0fe7a9288022d3b3736:d2827df80dd7e9243ba6b5bbda5dfa82
 Premier Sports 2&&https://linear006-ie-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_120/Live/channel(premiersports2)/manifest_720.mpd``0005d61a0ac86aca28176591b21ae2d9:f87ad1430a7a38fd0ac248fc9a8389b1
 MY  SpoTV 1&&https://pop5clustera00de07172379a62d6189.hypp.tv:443/PLTV/88888888/224/3221227608/3221227608.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawWP5a6lzyDPJ57LXeuC05Cs44sM6v4Pb96oLcepTGODErcymHBIhx5oJP4jv2fPK0%3D%3A20230206101724%3AUTC%2C1003663983%2C115.164.187.20%2C20230206101724%2Curn:Huawei:liveTV:XTV100000161%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOy27CMBRE_8ZLK3YehIVXIKRKVahE6Laa2NcmihODHZD695A2bGfmjM4coeljr1B2dV7Zqsu1LeoS2EhRk611tu2MFYYlujVBSabhfT-5JpgF-z7tfkTGMy6l4EKydrk7eLh12dzHjqLK39iJ4qPXpEyy_IHE4Vwkh7kPE__y-D1Hv04YtauaqDZltc0KKQuZs3lJW6Th1bAL0i6MV0Qyn8H9AcrCJ2JX6AGOGoykprv3_9wxmpfNEzpVq7L0AAAA&tenantId=6001``7de0fa3c35f52f8a8517f1600dd11ed7:2d59cf94d10020aeee01a97cd0716eea
@@ -74,6 +75,34 @@ ESPN 1 NL&&https://da-d436234320010b88000103020000000000000005.id.cdn.upcbroadba
 ESPN 2 NL&&https://da-d436234420010b88000103020000000000000006.id.cdn.upcbroadband.com/wp/wp2-vxtoken-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000108_019561/_shared_05e8c13b39b3f30524c26012f903ed7f/NL_000108_019561.mpd``3e999e38253834baa63881ea451f2839:99b88d9cde1d8986decbc5985da87187
 ESPN 3 NL&&https://da-d436234320010b88000103020000000000000005.id.cdn.upcbroadband.com/wp/wp3-vxtoken-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000109_019464/_shared_05e8c13b39b3f30524c26012f903ed7f/NL_000109_019464.mpd``3e999e38253834baa63881ea451f2839:99b88d9cde1d8986decbc5985da87187
 ESPN 4 NL&&https://da-d436234b20010b8800010302000000000000000d.id.cdn.upcbroadband.com/wp/wp4-vxtoken-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000110_019562/_shared_05e8c13b39b3f30524c26012f903ed7f/NL_000110_019562.mpd``3e999e38253834baa63881ea451f2839:99b88d9cde1d8986decbc5985da87187
+US  DAZN NFL&&`0https://go.now.net.eu.org/p/live?embed=daznnfl&type=m
+US  DAZN MLB&&`0https://go.now.net.eu.org/p/live?embed=daznmlb&type=m
+US  DAZN NBA&&`0https://go.now.net.eu.org/p/live?embed=daznnba&type=m
+US  DAZN RedBull&&`0https://go.now.net.eu.org/p/live?embed=redbull&type=m
+ES  DAZN F1&&`0https://go.now.net.eu.org/p/live?embed=daznf1&type=m
+DE  DAZN 1&&`0https://go.now.net.eu.org/p/live?embed=dazn1de&type=m
+DE  DAZN 2&&`0https://go.now.net.eu.org/p/live?embed=dazn2de&type=m
+DE  SportDigital FussBall&&`0https://go.now.net.eu.org/p/live?embed=digital&type=m
+IT  Zona DAZN&&`0https://go.now.net.eu.org/p/live?embed=zonait&type=m
+IT  Milan TV&&`0https://go.now.net.eu.org/p/live?embed=milantv&type=m
+DE  EuroSports 1&&`0https://go.now.net.eu.org/p/live?embed=euro1de&type=m
+DE  EuroSports 2&&`0https://go.now.net.eu.org/p/live?embed=euro2de&type=m
+ES  EuroSports 1&&`0https://go.now.net.eu.org/p/live?embed=euro1es&type=m
+ES  EuroSports 2&&`0https://go.now.net.eu.org/p/live?embed=euro2es&type=m
+IT  Inter TV&&`0https://go.now.net.eu.org/p/live?embed=intertv&type=m
+ES  DAZN 1&&`0https://go.now.net.eu.org/p/live?embed=dazn1es&type=m
+ES  DAZN 2&&`0https://go.now.net.eu.org/p/live?embed=dazn2es&type=m
+ES  DAZN LaLiga HyperMotion&&`0https://go.now.net.eu.org/p/live?embed=laligah&type=m
+ES  DAZN LaLiga&&`0https://go.now.net.eu.org/p/live?embed=laligaes&type=m
+BE  PlaySports 1&&`0https://go.now.net.eu.org/p/live?embed=plays1be&type=m
+BE  PlaySports 2&&`0https://go.now.net.eu.org/p/live?embed=plays2be&type=m
+BE  PlaySports 3&&`0https://go.now.net.eu.org/p/live?embed=plays3be&type=m
+PT  Eleven Sports 1&&`0https://go.now.net.eu.org/p/live?embed=eleven1pt&type=m
+PT  Eleven Sports 2&&`0https://go.now.net.eu.org/p/live?embed=eleven2pt&type=m
+PT  Eleven Sports 3&&`0https://go.now.net.eu.org/p/live?embed=eleven3pt&type=m
+PT  Eleven Sports 4&&`0https://go.now.net.eu.org/p/live?embed=eleven4pt&type=m
+PT  Eleven Sports 5&&`0https://go.now.net.eu.org/p/live?embed=eleven5pt&type=m
+PT  Eleven Sports 6&&`0https://go.now.net.eu.org/p/live?embed=eleven6pt&type=m
 IT  EuroSports 1&&https://linear311-it-dash1-prd-ll.cdn13.skycdp.com/313073/FHD/eurosport/master.mpd``0036bb3fa7e6f2c334d7cba5c28b6caf:217fa35739cd68e90b2cd23322c01312
 IT  EuroSports 2&&https://linear312-it-dash1-prd-ll.cdn13.skycdp.com/31150/FHD/eurosport2/master.mpd``003670a7034342a4a07c91173818c61c:7b90055c1a1ea34d9090e9ebf6c4db8a
 UK  MUTV&&https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
@@ -133,7 +162,6 @@ FIFA Plus 1&&https://38ca3c9c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c6365632
 FIFA Plus 2&&https://6953b888.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctcHRfRklGQVBsdXNfSExT/playlist.m3u8
 FIFA Plus 3&&https://4b92bb6a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1hdF9GSUZBUGx1c19ITFM/playlist.m3u8
 FIFA Plus 4&&https://6d42a49f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1pdF9GSUZBUGx1c19ITFM/playlist.m3u8
-CCTV 4&&https://op-group1-swiftservesd-1.dens.tv/s/s19/index.m3u8
 Abu Dhabi Sports 1&&https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8?c
 Abu Dhabi Sports 2&&https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8?c
 SSC Sport 1&&https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd``d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
@@ -337,34 +365,6 @@ Extreme Sports&&https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:
 Moto Adv&&https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:68_HD.smil/manifest.mpd``ba07f96a90c24d9cab511c6698c79010:e4f8e87e4056ac60c577ac06ac0b02fd
 Badminton 1&&`0https://hls.123movie.win/?ftm=https://lebo.huminbird.cn/live/ballbar_36470.m3u8
 Badminton 2&&`0https://hls.123movie.win/?ftm=https://lebo.huminbird.cn/live/ballbar_37900.m3u8
-US  DAZN NFL&&`0https://go.now.net.eu.org/p/live?embed=daznnfl&type=m
-US  DAZN MLB&&`0https://go.now.net.eu.org/p/live?embed=daznmlb&type=m
-US  DAZN NBA&&`0https://go.now.net.eu.org/p/live?embed=daznnba&type=m
-US  DAZN RedBull&&`0https://go.now.net.eu.org/p/live?embed=redbull&type=m
-ES  DAZN F1&&`0https://go.now.net.eu.org/p/live?embed=daznf1&type=m
-DE  DAZN 1&&`0https://go.now.net.eu.org/p/live?embed=dazn1de&type=m
-DE  DAZN 2&&`0https://go.now.net.eu.org/p/live?embed=dazn2de&type=m
-DE  SportDigital FussBall&&`0https://go.now.net.eu.org/p/live?embed=digital&type=m
-IT  Zona DAZN&&`0https://go.now.net.eu.org/p/live?embed=zonait&type=m
-IT  Milan TV&&`0https://go.now.net.eu.org/p/live?embed=milantv&type=m
-DE  EuroSports 1&&`0https://go.now.net.eu.org/p/live?embed=euro1de&type=m
-DE  EuroSports 2&&`0https://go.now.net.eu.org/p/live?embed=euro2de&type=m
-ES  EuroSports 1&&`0https://go.now.net.eu.org/p/live?embed=euro1es&type=m
-ES  EuroSports 2&&`0https://go.now.net.eu.org/p/live?embed=euro2es&type=m
-IT  Inter TV&&`0https://go.now.net.eu.org/p/live?embed=intertv&type=m
-ES  DAZN 1&&`0https://go.now.net.eu.org/p/live?embed=dazn1es&type=m
-ES  DAZN 2&&`0https://go.now.net.eu.org/p/live?embed=dazn2es&type=m
-ES  DAZN LaLiga HyperMotion&&`0https://go.now.net.eu.org/p/live?embed=laligah&type=m
-ES  DAZN LaLiga&&`0https://go.now.net.eu.org/p/live?embed=laligaes&type=m
-BE  PlaySports 1&&`0https://go.now.net.eu.org/p/live?embed=plays1be&type=m
-BE  PlaySports 2&&`0https://go.now.net.eu.org/p/live?embed=plays2be&type=m
-BE  PlaySports 3&&`0https://go.now.net.eu.org/p/live?embed=plays3be&type=m
-PT  Eleven Sports 1&&`0https://go.now.net.eu.org/p/live?embed=eleven1pt&type=m
-PT  Eleven Sports 2&&`0https://go.now.net.eu.org/p/live?embed=eleven2pt&type=m
-PT  Eleven Sports 3&&`0https://go.now.net.eu.org/p/live?embed=eleven3pt&type=m
-PT  Eleven Sports 4&&`0https://go.now.net.eu.org/p/live?embed=eleven4pt&type=m
-PT  Eleven Sports 5&&`0https://go.now.net.eu.org/p/live?embed=eleven5pt&type=m
-PT  Eleven Sports 6&&`0https://go.now.net.eu.org/p/live?embed=eleven6pt&type=m
 DAZN F1&&01`01a1601`01b
 DAZN 1 DE&&01`01a1701`01b
 DAZN 2 DE&&01`01a1801`01b
