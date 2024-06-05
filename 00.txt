@@ -1,6 +1,5 @@
 ID  Indosiar 1&&https://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
-ID  Indosiar 2&&https://rck.freemiumiptv.top/gdp/live/indosiar/index.txt?token=bkllcmlEeVA0amxJR1dTM0t5Z1dWZz09OjoHU8AYOpBCQjr37imXkk34
-ID  Indosiar 3&&`1https://en.gdplayertv.to/live-tv/indosiar/?embed=true
+ID  Indosiar 2&&`1https://en.gdplayertv.to/live-tv/indosiar/?embed=true
 ID  RCTI&&https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-2/sa_hls/rcti-2.m3u8?c
 ID  SCTV&&https://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
 ID  SpoTV 1&&https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-spotv/sa_hls/rcti-spotv.m3u8?c
