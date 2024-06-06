@@ -1,5 +1,5 @@
-Toulon  1 Indonesia vs Panama&&https://cors-proxy.elfsight.com/https://wp1-obc1112-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV09103/manifest.mpd``8398533768ae49be862f458edc78f828:609273c26c31a4090310e3945c0db5df
-Toulon  2 Indonesia vs Panama&&`0https://play.2embed.pw/BgYk?id=j8
+French Toulon 1 Indonesia vs Panama&&https://channel-e3a5e184c3f5710d.live.sportall.media/IiANTo7nKemR.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjIwMjMwOTI4Xzk0YzZjNzQ0ODhlNTA3ODk1YjAxIn0.eyJpcCI6ZmFsc2UsImNvIjpmYWxzZSwiY3R5IjpmYWxzZSwicmVnIjpmYWxzZSwic3NuIjp0cnVlLCJleHAiOjE3MTc4NjE1MzAsImhlYWRlcnMiOltdLCJxcyI6W10sImludHNpZyI6IkFpZzFKRzkxYTc1UFZxUnFnUXBSSzFFM01ub2d4T3BtSzMzY2dyWG13bWsiLCJwYXRocyI6WyIvb3V0L3YxLzE4ZmUyY2VkYzc0ODQxZmU4NDVmZDAyYzk3ODBhOGUwLyJdLCJleGMiOlsiL3RtLyJdLCJuYmYiOjE2NDUwMDAwMDAsImlhdCI6MTcxNzY4ODczMH0.wVVFksvN4PVYUTs5bqgfzOaZhQtiz48dctMyhFHJ3T4/out/v1/18fe2cedc74841fe845fd02c9780a8e0/index_2.m3u8
+French Toulon 2 Indonesia vs Panama&&`0https://play.2embed.pw/BgYk?id=j8
 French Toulon&&https://channel-b5340f166c1838b7.live.sportall.media/5V6KUykxmRMm.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjIwMjMwOTI4Xzk0YzZjNzQ0ODhlNTA3ODk1YjAxIn0.eyJpcCI6ZmFsc2UsImNvIjpmYWxzZSwiY3R5IjpmYWxzZSwicmVnIjpmYWxzZSwic3NuIjp0cnVlLCJleHAiOjE3MTc4NTYxNTUsImhlYWRlcnMiOltdLCJxcyI6W10sImludHNpZyI6IjlHT0UteFdVbFVRRktYbUkxLXRhMXN4RUJnT2JLeWtkSENwODJzNUpMN3ciLCJwYXRocyI6WyIvb3V0L3YxLzdlMDhkMzBiZTUxZTQ0MGJhMjM5MjY4ODE5ZTNmOWJjLyJdLCJleGMiOlsiL3RtLyJdLCJuYmYiOjE2NDUwMDAwMDAsImlhdCI6MTcxNzY4MzM1NX0.2LeCh7BlmYGWXjGiBej_UdUv8332-zQ7XQSfmPqKLzc/out/v1/7e08d30be51e440ba239268819e3f9bc/index_5.m3u8?start=1717677880
 World Cup Qualification AFC&&https://lebo.huminbird.cn/live/live/ballbar_39130.m3u8
 Vietnam Phillippines&&`0https://www.youtube.com/embed/AQQA2g-HySo
@@ -8,6 +8,7 @@ VTV 5&&https://live-bd2.tv360.vn/bxepUdz9m4i2KFmyawByCQ/1717758363/manifest/VTV5
 SG  MeWatch 5&&https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd``607b7d22565c4bc3b95ff6c33ce65425:28cc5367df666c44be4382e64af64d57
 CCTV 5&&https://lebo.huminbird.cn/live/ballbar_18870.m3u8
 Iraq TV&&https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/imn/news1/chunks.m3u8
+IT  Rai 2&&https://cors-proxy.elfsight.com/https://wp1-obc1112-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV09103/manifest.mpd``8398533768ae49be862f458edc78f828:609273c26c31a4090310e3945c0db5df
 ID  Sports 1&&01`00a133/beib1/index.m3u8?c
 ID  Sports 3&&01`00a133/beib2/index.m3u8?c
 WBF 1&&https://cors-proxy.elfsight.com/116.153.46.92/play.cbalive.weibisai.com/live/3599786052200061_AiSD.m3u8?txSecret=8e34cbe549ae1756aa9fd5fe6bc3a277&txTime=66624D80
