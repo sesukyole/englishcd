@@ -1,4 +1,5 @@
-Indonesia vs Iraq&&https://206222.global.ssl.fastly.net/65045e4aba85cfe0025e4a60/live_c6c4040053cd11ee95b47153d2861736/tracks-v1/index.fmp4.m3u8
+Indonesia vs Iraq 1&&https://206222.global.ssl.fastly.net/65045e4aba85cfe0025e4a60/live_c6c4040053cd11ee95b47153d2861736/tracks-v1/index.fmp4.m3u8
+Indonesia vs Iraq 2&&https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/imn/news1/chunks.m3u8
 ID  Indosiar 1&&https://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
 ID  Indosiar 2&&https://op-group1-swiftservesd-1.dens.tv/s/s04/index.m3u8
 ID  Indosiar 3&&https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
