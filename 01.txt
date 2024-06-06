@@ -95,9 +95,9 @@ ID  tvN&&01`00a133/tvn/index.m3u8?c
 ID  tvN Movies&&01`00a133/tvnmovies/index.m3u8?c
 ID  Zhejiang&&01`00a130/zhejiang/index.m3u8?c
 ID  Moji&&https://op-group1-swiftservesd-1.dens.tv/s/s41/index.m3u8
-ID  Indosiar&&https://op-group1-swiftservesd-1.dens.tv/s/s04/index.m3u8
+ID  Indosiar 1&&https://op-group1-swiftservesd-1.dens.tv/s/s04/index.m3u8
 ID  NET. TV&&https://op-group1-swiftservehd-1.dens.tv/h/h223/index.m3u8
-ID  SCTV&&https://op-group1-swiftservehd-1.dens.tv/s/s03/index.m3u8
+ID  SCTV 1&&https://op-group1-swiftservehd-1.dens.tv/s/s03/index.m3u8
 ID  NTV&&https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
 ID  BeritaSatu World TV&&https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 ID  CNBC Indonesia&&https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
@@ -106,10 +106,17 @@ ID  CCTV 4&&https://op-group1-swiftservesd-1.dens.tv/s/s19/index.m3u8
 ID  K Plus&&https://op-group1-swiftservehd-1.dens.tv/h/h08/index.m3u8
 ID  Nadoo Korean&&https://op-group1-swiftservehd-1.dens.tv/h/h125/live.m3u8
 ID  My Cinema Europe&&https://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8
-ID  HBO Family&&https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(cec31cdd-d2ff-4c23-8a76-ad1c0ef025e2)/manifest.mpd``c97626ac21bf3c228acd8c917073cb23:e1607dfaa05a86417fb6b4bd95fc3493
-ID  HBO Hits&&https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7e3ac8f2-3380-461a-976b-30bca8d939a0)/manifest.mpd``5103bb74062d3e7b8d806328cf30294c:8eed273333e6a5e195788348146bcafa
-ID  HBO&&https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(92c7b96a-33fc-4899-a032-50ae0fbc9257)/manifest.mpd``b726367ce66d3de48ea51a789c07844e:a79401896a0d20127e1d89be24cad9a9
-ID  HBO Signature&&https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(774b9a1e-aa1a-425b-8f24-f90d48787777)/manifest.mpd``34b216cc360b32ba9fb4021c4df3315f:a641d4c6af470638fa7cca2c5d37cbd2
+ID  ATV&&https://streaming.indihometv.com/atm/DASH/atv/manifest.mpd
+ID  Cartoonito&&https://streaming.indihometv.com/atm/DASH/boomerang/manifest.mpd
+ID  Warner&&https://streaming.indihometv.com/atm/DASH/warner/manifest.mpd
+ID  Indosiar 2&&https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
+ID  SCTV 2&&https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
+ID  tvOne&&https://streaming.indihometv.com/atm/DASH/tvone/manifest.mpd
+ID  Jawapos&&https://streaming.indihometv.com/atm/DASH/jawapos/manifest.mpd
+ID  Cinemax&&https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(4b9c9228-73c1-cb85-94a9-7fa84858b877)/manifest.mpd``ad90306387ee369eb2a6de02869c7653:4b17755fdea3ca0277bb64a1e9fbecef
+ID  HBO Family&&https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(cec31cdd-d2ff-4c23-8a76-ad1c0ef025e2)/manifest.mpd``3e0b88044bbb3512a3d0027764314783:52843f20db4bbf45d594b6be310f81c1
+ID  HBO Hits&&https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7e3ac8f2-3380-461a-976b-30bca8d939a0)/manifest.mpd``a1e570be4c63326aa95ea53eb5be2699:f9d709f24054472ab7f53c758cf45c94
+ID  HBO&&https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(92c7b96a-33fc-4899-a032-50ae0fbc9257)/manifest.mpd``39a424d1b79e3b77bf6eaac3f3221f7e:7804e43828e094bd49e3d4df443eea11
 ES  101TV Malaga&&https://limited38.todostreaming.es/live/101tv-web101tv.m3u8
 ES  24h Canarias&&https://ztnr.rtve.es/ztnr/5473142.m3u8
 ES  Alcarria&&https://cls.alcarria.tv/live/alcarriatv-livestream.m3u8
@@ -172,6 +179,9 @@ MY  Filem Mantap&&https://78470390525b4b03b023113696878114.mediatailor.ap-southe
 MY  Lawak Sentral&&https://4940c5f69db24a558151436f708d5a69.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_3_Ad/dash.mpd
 MY  Drama HotPot&&https://770c1b3657e94bc4b76ecd3e12882bcc.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_4_Ad/dash.mpd
 MY  Travel & Taste&&https://068877e598224108a60fb9cd5db3717f.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_5_Ad/dash.mpd
+MY  Jom Ngaji&&https://068877e598224108a60fb9cd5db3717f.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_6_Ad/dash.mpd
+MY  Oh My Ceria&&https://068877e598224108a60fb9cd5db3717f.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_7_Ad/dash.mpd
+MY  Now Jelli&&https://pop5clustera00de07172379a62d6189.hypp.tv:443/PLTV/88888888/224/3221227559/3221227559.mpd?rrsip=web.hypp.tv&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=qD%2FGhg01YduJJVCux%2B5ixF6lBrrzvU1Q2%2B8sLqGChu40fF7WRczKep1ijxO3BzygK7IGCYvN70sbDo5pVRv846haXUJR5R32mBb1BUUaHHv17QezgK4lI66BNld%2BWvWSl1Gu6dfQIjZRtiMM1k%2B5qA%3D%3D%3A20230704185240%3AUTC%2C1004320541%2C14.1.254.135%2C20230704185240%2Curn:Huawei:liveTV:iptv28981%2C1004320541%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C3692854%2C0%2C2611154%2C2b9f924f-2e21-e330-87b4-2daffcd7b85b%2C%2C%2C2%2C1%2CEND&GuardEncType=2&tenantId=6003``489a7503db27114694ce416b0a032fc1:1ba9a24d9b92e5fe8e419b16616a9ae3
 TH  ALTV4&&https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
 TH  HBO&&https://cnt1-streamer9.cdn.3bbtv.com:8443/3bb/live/103/103.mpd``9c5735afb4fd402580360aed8364469c:128d55d9ac2b47ad85f86b5d08320179
 TH  HBO Family&&https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/106/106.mpd``07b138f30ad3441ca5a2f476e550af25:826ee4deef4b45cfafd5f79a591b15c6
@@ -384,10 +394,15 @@ HRT 2&&https://cdn1oiv.akamaized.net/hrtliveorigin/hrt2.smil/1/manifest.mpd``994
 IT  Canale 1 Mediaset&&https://live03p-seg.msf.cdn.mediaset.net/live/ch-i1/i1-dash-widevine.isml/manifest.mpd``00f9f3c0783536b8ee91704e23b78016:bfd04d6f544c9cc4d35cb13ab6778587
 IT  Canale 5 Mediaset&&https://live03p-seg.msf.cdn.mediaset.net/live/ch-c5/c5-dash-widevine.isml/manifest.mpd``00f9f3c0783536b8ce4a30a01a52e082:e926f7d45af4f7d154c990eae6a2d937
 UK  Sky Cinema Action&&https://linear401-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skycinemaaction)/manifest_720.mpd``0009a340cc0a79210aac42485474d01f:42ad18fa32d4001a1b0d196d194b4f82
+UK  Sky Cinema Premier&&https://linear407-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skycinemapremier)/manifest_720.mpd``00073338ff8073d4304f83c62a015923:097c82ec30a82545cfc1f9d66ba7bfa0
+UK  Sky Cinema Animation&&https://linear401-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skycinemaanimation)/manifest_720.mpd``0007cb3f3fe2ed34cc3a0dead47c2769:0a8bb5a04ab2fdf7b14af67b8ecf0867
 UK  Sky Cinema Family&&https://linear401-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skycinemafamily)/manifest_720.mpd``00092cba8f081f1f6711df263e0639a3:07a43faf140c8ce0313047c29883d270
 UK  Sky Cinema Hits&&https://linear406-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skycinemahits)/manifest_720.mpd``0009b55ec9440c27db869dd4efec5ff0:457c483c9606553d2461ccf27732f1c3
 UK  Sky Atlantic&&https://linear019-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skyatlantic)/manifest_720.mpd``000533bb655b97f89fef59db87f507ec:5f1c8bf427349228aa6469486a84c54b
+UK  Sky Comedy&&https://linear013-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skycomedy)/manifest_720.mpd``0005d8b36bdc21e2e5a3bc3278c162aa:720de28ad910e3ba91ffafc9d3226e19
 UK  Sky Max&&https://linear016-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skymax)/manifest_720.mpd``000350070546d852d30a328bc62fbeda:0789751fcfbc476469c302b1a174ebb8
+UK  Sky Crime&&https://linear013-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skycrime)/manifest_720.mpd``00035075b9471324ef3ef367f4e2f3e2:9623d9591c52f58bf18c0177ec58dc0b
+UK  Sky Showcase&&https://linear035-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skyshowcase)/manifest_720.mpd``0003c312fd726f0ed430816abd7bb735:a3b08d3438447fa93a53aa823a834d7e
 UK  ITV&&https://wp2-obc1112-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV09212/manifest.mpd``5d9937d586414096948337ac314d79c1:22ca2e250b729982c97209e0ff3f7e9b
 USA Net East&&https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd``882c9f5613b43b47adc70aa968a308ce:de534ef8914bfe62ba3cdd6bdb9e1c04
 USA Net West&&https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd``252a671825ba31ec8433f978c32ccf6d:ee560759ecc8d2274df2e63fcef56915
@@ -522,6 +537,8 @@ UK  Real Storiesᴴᴰ 🇬🇧 🟤&&https://cdn-uw2-prod.tsv2.amagi.tv/linear/
 UK  Sky Newsᴴᴰ 🇬🇧 🟤&&https://d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99951223
 UK  The ChatShowᴴᴰ 🇬🇧 🟤&&https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-thechatshow-samsungnz/playlist.m3u8
 UK  Trace UK 🟤&&https://d2u040elo6umri.cloudfront.net/trace_urban_gb.m3u8
+US  MTV Club&&https://webtvstream.bhtelecom.ba/hls19/club_mtv.mpd``c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+US  MTV Hits&&https://webtvstream.bhtelecom.ba/hls7/mtv_hits.mpd``c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 US  Accu Weather 🇺🇸 🟤&&https://accuweatherx-lg.amagi.tv/playlist.m3u8
 US  Movie Now&&https://raw.githubusercontent.com/kusnadipepenk/ntn/master/mnow.m3u8?c
 US  Adult Swim 🇺🇸 (Rick and Morty Marathon)&&https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
