@@ -1,4 +1,4 @@
-Indonesia vs Panama&&https://cors-proxy.cooks.fyi/https://wp1-obc1112-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV09103/manifest.mpd``8398533768ae49be862f458edc78f828:609273c26c31a4090310e3945c0db5df
+Indonesia vs Panama&&https://cors-proxy.elfsight.com/https://wp1-obc1112-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV09103/manifest.mpd``8398533768ae49be862f458edc78f828:609273c26c31a4090310e3945c0db5df
 Oman Sport&&https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
 VTV 5&&https://live-bd2.tv360.vn/bxepUdz9m4i2KFmyawByCQ/1717758363/manifest/VTV5_HD_50fps/master.m3u8?manifestfilter=video_bitrate:1-5767168&uid=221165677
 SG  MeWatch 5&&https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd``607b7d22565c4bc3b95ff6c33ce65425:28cc5367df666c44be4382e64af64d57
