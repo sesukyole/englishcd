@@ -1,9 +1,15 @@
-Indonesia vs Iraq 1&&https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/imn/news1/chunks.m3u8
-Indonesia vs Iraq 2&&https://vietcong1.starlive.workers.dev/live/live/stream-9912091_lsd.m3u8
-Indonesia vs Iraq 3&&https://lebo.huminbird.cn/live/live/ballbar_10110.m3u8
-Indonesia vs Iraq YT&&`0https://www.youtube.com/embed/tMRD5rbY4pw
-Indonesia vs Iraq 4&&`0https://prominton21.blogspot.com/2024/03/play.html?file=https://pull-new.52bch.com/live/6979051_lhd.flv?auth_info=LxHRoZbVIzdZo8FfDZ3YeVDJk4GYQxAixbuxqavV%2FIXiL3VUx0yy5j1SwDM%2BK%2FR0.54737070443179777638454332486874
-Indonesia vs Iraq 5&&`0https://prominton21.blogspot.com/2024/03/play.html?file=https://pull-new.52bch.com/live/6979113_lhd.flv?auth_info=xM1WR1Ij22PTD6OfxUdWkPodEWKVkQqcgbY0ATUHYYs6aE7T92VRh9E%2BFmd4z3oM.43506f6a65545952715177316c523061
+Oman Sport&&https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
+Iraq TV&&https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/imn/news1/chunks.m3u8
+ID  Sports 1&&01`00a133/beib1/index.m3u8?c
+ID  Sports 3&&01`00a133/beib2/index.m3u8?c
+CCTV 4&&https://op-group1-swiftservesd-1.dens.tv/s/s19/index.m3u8
+ID  SpoTV 1&&https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-spotv/sa_hls/rcti-spotv.m3u8?c
+ID  SpoTV 2&&01`02aSPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd``57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
+ID  Soccer&&01`02asoccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd``4d38060bf41b3c29df0ec950ece6b5da:7ee9506b13480491d79b71c062ab5366
+ID  Sport 1&&01`02aMNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd``531c6d50e3e9f9ba66446f624f492289:d769d9ae238bdd424f8bcdcdc9a3801f
+ID  Sport 2&&https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar2/sa_hls/rcti-sportstar2.m3u8?c
+ID  Sport 3&&01`02aMNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd``fadd2720deff5925ab86df0819cd7775:f67ff08c7ebc779f6a6fcfc83835f65b
+ID  Sport 4&&01`02aSportstar4/sa_dash_vmx/Sportstar4.mpd``b81b1942c65f35547ced1bff074206a5:a07dc4d86f51db7195f4b7e2abe9d9e8
 ID  Indosiar 1&&https://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
 ID  Indosiar 2&&https://op-group1-swiftservesd-1.dens.tv/s/s04/index.m3u8
 ID  Indosiar 3&&https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
@@ -15,17 +21,6 @@ ID  Net. 2&&01`00a133/net/index.m3u8?c
 ID  RCTI&&https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-2/sa_hls/rcti-2.m3u8?c
 ID  SCTV 1&&https://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
 ID  SCTV 2&&https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
-ID  SpoTV 1&&https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-spotv/sa_hls/rcti-spotv.m3u8?c
-ID  SpoTV 2&&01`02aSPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd``57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
-ID  Soccer&&01`02asoccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd``4d38060bf41b3c29df0ec950ece6b5da:7ee9506b13480491d79b71c062ab5366
-ID  Sport 1&&01`02aMNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd``531c6d50e3e9f9ba66446f624f492289:d769d9ae238bdd424f8bcdcdc9a3801f
-ID  Sport 2&&https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar2/sa_hls/rcti-sportstar2.m3u8?c
-ID  Sport 3&&01`02aMNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd``fadd2720deff5925ab86df0819cd7775:f67ff08c7ebc779f6a6fcfc83835f65b
-ID  Sport 4&&01`02aSportstar4/sa_dash_vmx/Sportstar4.mpd``b81b1942c65f35547ced1bff074206a5:a07dc4d86f51db7195f4b7e2abe9d9e8
-ID  Sports 1&&01`00a133/beib1/index.m3u8?c
-ID  Sports 3&&01`00a133/beib2/index.m3u8?c
-CCTV 4&&https://op-group1-swiftservesd-1.dens.tv/s/s19/index.m3u8
-Oman Sport&&https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
 Premier Sports 1&&https://linear001-ie-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_120/Live/channel(premiersports1)/manifest_720.mpd``0005b3dba78ae0fe7a9288022d3b3736:d2827df80dd7e9243ba6b5bbda5dfa82
 Premier Sports 2&&https://linear006-ie-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_120/Live/channel(premiersports2)/manifest_720.mpd``0005d61a0ac86aca28176591b21ae2d9:f87ad1430a7a38fd0ac248fc9a8389b1
 MY  SpoTV 1&&https://pop5clustera00de07172379a62d6189.hypp.tv:443/PLTV/88888888/224/3221227608/3221227608.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawWP5a6lzyDPJ57LXeuC05Cs44sM6v4Pb96oLcepTGODErcymHBIhx5oJP4jv2fPK0%3D%3A20230206101724%3AUTC%2C1003663983%2C115.164.187.20%2C20230206101724%2Curn:Huawei:liveTV:XTV100000161%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOy27CMBRE_8ZLK3YehIVXIKRKVahE6Laa2NcmihODHZD695A2bGfmjM4coeljr1B2dV7Zqsu1LeoS2EhRk611tu2MFYYlujVBSabhfT-5JpgF-z7tfkTGMy6l4EKydrk7eLh12dzHjqLK39iJ4qPXpEyy_IHE4Vwkh7kPE__y-D1Hv04YtauaqDZltc0KKQuZs3lJW6Th1bAL0i6MV0Qyn8H9AcrCJ2JX6AGOGoykprv3_9wxmpfNEzpVq7L0AAAA&tenantId=6001``7de0fa3c35f52f8a8517f1600dd11ed7:2d59cf94d10020aeee01a97cd0716eea
