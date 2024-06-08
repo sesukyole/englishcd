@@ -1,186 +1,121 @@
-ID| METRO TV HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/191798.m3u8
-ID| ALL SPORTS&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/191780.m3u8
-ID| BERITASATU HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/191783.m3u8
-ID| CHANNEL NEWS ASIA HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/191786.m3u8
-ID| CNBC INDONESIA HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/191789.m3u8
-ID| CNN INDONESIA HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/191790.m3u8
-ID| I AM CHANNEL HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/191793.m3u8
-ID| MUSIC TOP&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/191799.m3u8
-ID| RADIO 51 TV&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/191800.m3u8
-ID| INDONESIA CHANNEL HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400200745.m3u8
-ID| INEWS TV HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400200744.m3u8
-ID| REFORMED 21 HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/191801.m3u8
-ID| RRI NET HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/191802.m3u8
-ID| TRANS 7 HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/191804.m3u8
-ID| TRANS TV HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/191805.m3u8
-ID| TV IKIM&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/191806.m3u8
-ID| TVKU HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/191807.m3u8
-ID| TVRI NASIONAL&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/191810.m3u8
-ID| NET TV HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/111011.m3u8
-ID| ANIMAL PLANET HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/191811.m3u8
-ID| BERITASATU ENGLISH&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/191813.m3u8
-ID| CARTOON NETWORK HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/191815.m3u8
-ID| BLOOMBERG TV ASIA HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400200749.m3u8
-ID| CELESTIAL MOVIES HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400200748.m3u8
-ID| CHANNEL V HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400200747.m3u8
-ID| GTV HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400200746.m3u8
-ID| MNCTV HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400200743.m3u8
-ID| RCTI HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400200742.m3u8
-ID| TVRI HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400200741.m3u8
-ID| TVRI BANGKA BELITUNG HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400200738.m3u8
-ID| TVRI BENGKULU HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400200737.m3u8
-ID| TVRI JAKARTA HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400200732.m3u8
-ID| TVRI KALIMANTAN BARAT HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400200731.m3u8
-ID| TVRI PAPUA HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400200722.m3u8
-ID| TVRI SPORT HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400200711.m3u8
-ID| TVR PARLEMEN [ LIVE EVENTS ONLY ]&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400200776.m3u8
-ID| TVR PARLEMEN BADAN ANGGARAN [ LIVE EVENTS ONLY ]&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400200775.m3u8
-ID| TVR PARLEMEN BADAN LEGISLATIF [ LIVE EVENTS ONLY ]&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400200774.m3u8
-ID| TVR PARLEMEN BADAN MUSYAWARAH [ LIVE EVENTS ONLY ]&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400200773.m3u8
-ID| TVR PARLEMEN BAKN [ LIVE EVENTS ONLY ]&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400200772.m3u8
-ID| TVR PARLEMEN BKSAP [ LIVE EVENTS ONLY ]&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400200771.m3u8
-ID| TVR PARLEMEN KOMISI I [ LIVE EVENTS ONLY ]&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400200770.m3u8
-ID| TVR PARLEMEN KOMISI II [ LIVE EVENTS ONLY ]&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400200769.m3u8
-ID| TVR PARLEMEN KOMISI III [ LIVE EVENTS ONLY ]&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400200768.m3u8
-ID| TVR PARLEMEN KOMISI IV [ LIVE EVENTS ONLY ]&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400200767.m3u8
-ID| TVR PARLEMEN KOMISI IX [ LIVE EVENTS ONLY ]&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400200766.m3u8
-ID| TVR PARLEMEN KOMISI V [ LIVE EVENTS ONLY ]&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400200765.m3u8
-ID| TVR PARLEMEN KOMISI VI [ LIVE EVENTS ONLY ]&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400200764.m3u8
-ID| TVR PARLEMEN KOMISI VII [ LIVE EVENTS ONLY ]&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400200763.m3u8
-ID| TVR PARLEMEN KOMISI VIII [ LIVE EVENTS ONLY ]&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400200762.m3u8
-ID| TVR PARLEMEN KOMISI X [ LIVE EVENTS ONLY ]&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400200761.m3u8
-ID| TVR PARLEMEN KOMISI XI [ LIVE EVENTS ONLY ]&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400200760.m3u8
-ID| CGTN HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45000.m3u8
-ID| CGTN DOCUMENTARY HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45001.m3u8
-ID| MNC SHOP HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45002.m3u8
-ID| NHK WORLD PREMIUM HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45003.m3u8
-ID| SEA-CHANNEL HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45004.m3u8
-ID| ON-CHANNEL HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45005.m3u8
-ID| BANDUNGTV HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45006.m3u8
-ID| TV5 MONDE ASIE HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45007.m3u8
-ID| SCM HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45008.m3u8
-ID| FOX NEWS HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45009.m3u8
-ID| LIFESTYLE FASHION HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45010.m3u8
-ID| WARNERTV HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45011.m3u8
-ID| FIGHT SPORTS 1 HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45012.m3u8
-ID| LIFETIME HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45013.m3u8
-ID| DISCOVERY HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45014.m3u8
-ID| PEMERSATU BANGSA HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45015.m3u8
-ID| ANTV HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45016.m3u8
-ID| SOCCER CHANNEL HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45019.m3u8
-ID| SOCCER CHANNEL 2 HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45018.m3u8
-ID| MNC SPORTS 1 HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45020.m3u8
-ID| BEIN SPORTS 1 HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45022.m3u8
-ID| BEIN SPORTS 2 HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/34405.m3u8
-ID| BEIN SPORTS 3 HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45021.m3u8
-ID| AFN HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/34406.m3u8
-ID| CRIME INVESTIGATION HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45023.m3u8
-ID| HITS MOVIES HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45024.m3u8
-ID| ANHUI TV HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45025.m3u8
-ID| XING KONG TV HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45026.m3u8
-ID| SHANGHAI DRAGON TV HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45027.m3u8
-ID| HUNAN TV HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45028.m3u8
-ID| JIANGSU TV HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45029.m3u8
-ID| TVN MOVIES HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45030.m3u8
-ID| TRT WORLD HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45031.m3u8
-ID| DW HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45032.m3u8
-ID| FRANCE 24 HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45033.m3u8
-ID| RT ENGLISH HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45034.m3u8
-ID| ARIRANG HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45035.m3u8
-ID| AUSTRALIA PLUS HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45036.m3u8
-ID| EURONEWS HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45037.m3u8
-ID| BBC WORLD NEWS HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45038.m3u8
-ID| AL JAZEERA ENGLISH HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45039.m3u8
-ID| HISTORY HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45040.m3u8
-ID| NAT GEO WILD HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45041.m3u8
-ID| NAT GEO HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45042.m3u8
-ID| BBC EARTH HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45043.m3u8
-ID| NHK WORLD TV HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45044.m3u8
-ID| MNC SPORTS 2 HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45045.m3u8
-ID| IDX CHANNEL HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45046.m3u8
-ID| TLC HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45047.m3u8
-ID| HGTV HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45048.m3u8
-ID| MNC SHOP SMART HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45049.m3u8
-ID| MNC SHOP TRENDY HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45050.m3u8
-ID| MUHAMMADIYAH TV&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400370225.m3u8
-ID| ASIAN FOOD NETWORK HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45051.m3u8
-ID| INFOTAINMENT HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45052.m3u8
-ID| HITS HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45053.m3u8
-ID| TVN HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45054.m3u8
-ID| SET ONE HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45055.m3u8
-ID| KIX HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45056.m3u8
-ID| ANIMAX HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45057.m3u8
-ID| AXN HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45059.m3u8
-ID| CINEMAX HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45060.m3u8
-ID| HBO HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45061.m3u8
-ID| FMN HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45062.m3u8
-ID| MUSIC TV HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45063.m3u8
-ID| OK TV HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45064.m3u8
-ID| MNC ENTERTAINMENT HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45065.m3u8
-ID| MNC SPORTS 3 HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45066.m3u8
-ID| EWTN HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45067.m3u8
-ID| AL QURAN AL KAREEM HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45068.m3u8
-ID| TVMU HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45069.m3u8
-ID| TV9 HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45070.m3u8
-ID| VISION PRIME HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45094.m3u8
-ID| MNC NEWS HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45071.m3u8
-ID| LIFE HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45072.m3u8
-ID| TAWAF TV HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45073.m3u8
-ID| MNC MUSLIM TV HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45074.m3u8
-ID| BE SMART HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45075.m3u8
-ID| HBO SIGNATURE HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45077.m3u8
-ID| HBO FAMILY HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45078.m3u8
-ID| HBO HITS HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45079.m3u8
-ID| CBEEBIES HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45080.m3u8
-ID| BABY TV HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45081.m3u8
-ID| BOOMERANG HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45082.m3u8
-ID| MIAO MI HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45083.m3u8
-ID| NICKELODEON SD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/19215.m3u8
-ID| NICK JR. HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45084.m3u8
-ID| KIDS TV HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45085.m3u8
-ID| CINEMA WORLD HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45086.m3u8
-ID| ZEE BIOSKOP HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45087.m3u8
-ID| SONY ONE&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/157039.m3u8
-ID| ZEE CINEMA&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/157040.m3u8
-ID| &TVHD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/157041.m3u8
-ID| ZEETV&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/157042.m3u8
-ID| ZEE NEWS&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/157043.m3u8
-ID| CELESTIAL CLASSIC MOVIE HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45088.m3u8
-ID| THRILL HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45089.m3u8
-ID| DAAI TV HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45090.m3u8
-ID| BALI TV HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45091.m3u8
-ID| JTV HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45092.m3u8
-ID| JAK TV HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45093.m3u8
-ID| KOMPAS TV HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45096.m3u8
-ID| TVONE HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45097.m3u8
-ID| INDOSIAR HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45098.m3u8
-ID| SCTV HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45099.m3u8
-ID| CNN INTERNATIONAL HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/17380.m3u8
-ID| RTV HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45095.m3u8
-ID| TEGAR TV&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/191803.m3u8
-ID| TVRI JAWA BARAT&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/191809.m3u8
-ID| TVRI YOGYAKARTA HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400200712.m3u8
-ID| TVRI SUMATERA UTARA HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400200713.m3u8
-ID| TVRI SUMATERA SELATAN HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400200714.m3u8
-ID| TVRI SUMATERA BARAT HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400200715.m3u8
-ID| TVRI SULAWESI UTARA HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400200716.m3u8
-ID| TVRI SULAWESI TENGGARA HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400200717.m3u8
-ID| TVRI SULAWESI TENGAH HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400200718.m3u8
-ID| TVRI SULAWESI SELATAN HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400200719.m3u8
-ID| TVRI NUSA TENGGARA TIMUR HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400200723.m3u8
-ID| TVRI NUSA TENGGARA BARAT HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400200724.m3u8
-ID| TVRI MALUKU HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400200725.m3u8
-ID| TVRI LAMPUNG HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400200726.m3u8
-ID| TVRI KANAL 3 HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400200727.m3u8
-ID| TVRI KALIMANTAN TIMUR HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400200728.m3u8
-ID| TVRI KALIMANTAN TENGAH HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400200729.m3u8
-ID| TVRI KALIMANTAN SELATAN HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400200730.m3u8
-ID| TVRI JAWA TIMUR HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400200733.m3u8
-ID| TVRI JAWA TENGAH HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400200734.m3u8
-ID| TVRI JAMBI HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400200735.m3u8
-ID| TVRI GORONTALO HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400200736.m3u8
-ID| TVRI BALI HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400200739.m3u8
-ID| TVRI ACEH HD&&http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400200740.m3u8
+ID: ANIMAL PLANET&&http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/157532.m3u8
+ID: Animax&&http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/165081.m3u8
+ID: AniPlus&&http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/298504.m3u8
+ID: ANTV&&http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/165072.m3u8
+ID: Arirang&&http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/247447.m3u8
+ID: Asian Food Network&&http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/298503.m3u8
+ID: AXN&&http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/165079.m3u8
+ID: Balikpapan TV&&http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/166409.m3u8
+ID: BBC Earth&&http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/165106.m3u8
+ID: BBC Lifestyle&&http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/264747.m3u8
+ID: beIN Sports 3&&http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/298506.m3u8
+ID: Berita Satu&&http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/162513.m3u8
+ID: Bioskop Indonesia&&http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/264801.m3u8
+ID: Boomerang EN&&http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/298507.m3u8
+ID: CBeebies&&http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/247448.m3u8
+ID: Celestial Movies&&http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/165065.m3u8
+ID: CGTN&&http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/298510.m3u8
+ID: CGTN Documentary&&http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/298511.m3u8
+ID: Channel News Asia&&http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/157602.m3u8
+ID: Cinemax&&http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/197964.m3u8
+ID: Citra Dangdut&&http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/247446.m3u8
+ID: CNBC Indonesia&&http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/165062.m3u8
+ID: CNN Indonesia&&http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/162137.m3u8
+ID: Crime+ Investigation&&http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/165052.m3u8
+ID: Da Ai TV&&http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/165061.m3u8
+ID: Discovery Asia&&http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/197968.m3u8
+ID: Discovery World&&http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/157597.m3u8
+ID: Disney Channel&&http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/165075.m3u8
+ID: DreamWorks&&http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/157610.m3u8
+ID: Dunia Anak&&http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/264753.m3u8
+ID: Dunia Lain&&http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/298524.m3u8
+ID: Ent&&http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/157581.m3u8
+ID: Etv Bioskop&&http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/298526.m3u8
+ID: Etv Bioskop 02&&http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/298527.m3u8
+ID: Etv Bioskop 03&&http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/298528.m3u8
+ID: Etv Bioskop 04&&http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/298529.m3u8
+ID: FLIK&&http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/165095.m3u8
+ID: Galaxy&&http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/264773.m3u8
+ID: Galaxy Premium&&http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/264774.m3u8
+ID: GEM&&http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/298533.m3u8
+ID: GTV&&http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/157578.m3u8
+ID: HBO&&http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/197972.m3u8
+ID: HBO Family&&http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/197055.m3u8
+ID: HBO Hits&&http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/196480.m3u8
+ID: HBO Signature&&http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/221948.m3u8
+ID: HGTV&&http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/298535.m3u8
+ID: History&&http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/162519.m3u8
+ID: Hits&&http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/165085.m3u8
+ID: Hits Movies&&http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/221947.m3u8
+ID: Horee!&&http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/264750.m3u8
+ID: Huma Betang TV&&http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/299486.m3u8
+ID: Hunan TV&&http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/247443.m3u8
+ID: I Konser&&http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/264760.m3u8
+ID: IDX&&http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/157590.m3u8
+ID: IMC&&http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/264769.m3u8
+ID: Indi Kids&&http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/298539.m3u8
+ID: Indosiar&&http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/162138.m3u8
+ID: INews&&http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/157579.m3u8
+ID: Insert&&http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/264766.m3u8
+ID: Jak TV&&http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/157601.m3u8
+ID: JTV&&http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/165091.m3u8
+ID: KBS World&&http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/197053.m3u8
+ID: Kids TV&&http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/162505.m3u8
+ID: Kompas TV&&http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/165060.m3u8
+ID: Macau Lotus TV&&http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/304362.m3u8
+ID: Metro TV&&http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/165059.m3u8
+ID: MNC News&&http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/165058.m3u8
+ID: MNC Sports&&http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/157589.m3u8
+ID: MNC Sports 2&&http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/298548.m3u8
+ID: MNC Sports 3&&http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/298549.m3u8
+ID: MNC TV&&http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/165054.m3u8
+ID: Moji&&http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/298550.m3u8
+ID: MQTV&&http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/298551.m3u8
+ID: MTA 7 Asia&&http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/162522.m3u8
+ID: Music TV&&http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/165108.m3u8
+ID: My Cinema&&http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/298553.m3u8
+ID: My Cinema Asia&&http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/298554.m3u8
+ID: My Family&&http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/298555.m3u8
+ID: My Kidz&&http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/298556.m3u8
+ID: Net&&http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/80292.m3u8
+ID: NHK World&&http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/298560.m3u8
+ID: Nick Jr&&http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/165107.m3u8
+ID: nickelodeon&&http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/162510.m3u8
+ID: Nusantara TV&&http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/166410.m3u8
+ID: ONE&&http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/298563.m3u8
+ID: Padang TV&&http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/162140.m3u8
+ID: Prambors&&http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/264761.m3u8
+ID: Radar Cirebon TV&&http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/300662.m3u8
+ID: Radio 51&&http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/300846.m3u8
+ID: RCTI&&http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/157591.m3u8
+ID: Rock Action&&http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/298490.m3u8
+ID: Rock Entertaiment&&http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/298565.m3u8
+ID: Rodja TV&&http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/264758.m3u8
+ID: SCTV&&http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/162141.m3u8
+ID: SEA Today&&http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/298568.m3u8
+ID: Sindonews TV&&http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/299485.m3u8
+ID: Smithsonian Channel&&http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/264767.m3u8
+ID: SpoTV&&http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/298570.m3u8
+ID: SpoTV 2&&http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/298571.m3u8
+ID: Tech Storm&&http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/298572.m3u8
+ID: Thrill&&http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/157580.m3u8
+ID: TLC&&http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/165086.m3u8
+ID: Trans 7&&http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/162502.m3u8
+ID: Trans TV&&http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/162503.m3u8
+ID: TV 9 Nusantara&&http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/162509.m3u8
+ID: TV One&&http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/296214.m3u8
+ID: TVKU&&http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/166709.m3u8
+ID: TVN&&http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/197965.m3u8
+ID: TVN Movies&&http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/157596.m3u8
+ID: TVRI&&http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/162504.m3u8
+ID: TVRI 4&&http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/287433.m3u8
+ID: TVRI Sport&&http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/166686.m3u8
+ID: UG TV&&http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/304029.m3u8
+ID: Usee Sport 1&&http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/298577.m3u8
+ID: Vision Prime&&http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/197958.m3u8
+ID: Warner TV&&http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/157594.m3u8
+ID: Zee Bioskop&&http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/157584.m3u8
+ID: ZooMoo&&http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/264751.m3u8
 ID: Indosiar&&http://xtv.ooo:8080/live/Israr947/541974/350972.m3u8
 ID: Moji&&http://xtv.ooo:8080/live/Israr947/541974/350997.m3u8
 ID: RCTI&&https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-2/sa_hls/rcti-2.m3u8?c
