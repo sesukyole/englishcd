@@ -1,5 +1,6 @@
 Ravello Japan vs Indonesia 1&&https://cors-proxy.elfsight.com/116.153.46.92/livetx-rtmp.dongqiudi.com/live/sd-1-4132277.m3u8
-Ravello Japan vs Indonesia 2&&https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SPORTTV2_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+Ravello Japan vs Indonesia 2&&https://channel-b5340f166c1838b7.live.sportall.media/n9rwwsLNU2Ma.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjIwMjMwOTI4Xzk0YzZjNzQ0ODhlNTA3ODk1YjAxIn0.eyJpcCI6ZmFsc2UsImNvIjpmYWxzZSwiY3R5IjpmYWxzZSwicmVnIjpmYWxzZSwic3NuIjp0cnVlLCJleHAiOjE3MTgwMTk5MjgsImhlYWRlcnMiOltdLCJxcyI6W10sImludHNpZyI6IlpxTmY4em5va2xranB2S3VUU2JxSkY2aUQzUkF4TUw3UEtUNzBfakh6MXMiLCJwYXRocyI6WyIvb3V0L3YxLzJhYzJiNWI0ODYyNDQ3ODg5MDI4NTVkOWQ5NGY3NDE3LyJdLCJleGMiOlsiL3RtLyJdLCJuYmYiOjE2NDUwMDAwMDAsImlhdCI6MTcxNzg0NzEyOH0.7t5f285E3U8KxCElI1hwH1JYYTwXfj5BZC2RNoesTrE/out/v1/2ac2b5b486244788902855d9d94f7417/index.m3u8
+Ravello Japan vs Indonesia 3&&https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SPORTTV2_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
 CCTV 5&&https://cors-proxy.elfsight.com/https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 ID  Sports 1&&01`00a133/beib1/index.m3u8?c
 ID  Sports 3&&01`00a133/beib2/index.m3u8?c
