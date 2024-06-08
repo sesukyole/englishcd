@@ -1,3 +1,4 @@
+ID: Moji&&https://raw.githubusercontent.com/ikitv/ikimunutv/main/moji.m3u8
 ID  Indosiar&&https://raw.githubusercontent.com/englishcd/bahasainggris/master/indosiar.m3u8
 ID: ANIMAL PLANET&&http://aflaxtv.xyz:8080/live/F32962/7a3112d7/157532.m3u8
 ID: Animax&&http://aflaxtv.xyz:8080/live/F32962/7a3112d7/165081.m3u8

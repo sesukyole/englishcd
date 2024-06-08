@@ -17,8 +17,6 @@ ID  Net. 2&&01`00a133/net/index.m3u8?c
 ID  RCTI&&https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-2/sa_hls/rcti-2.m3u8?c
 ID  SCTV&&https://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
 CCTV 5&&https://cors-proxy.elfsight.com/https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
-BWF 1&&https://mobilelive-ds.ysp.cctv.cn/ysp/2023840701_hd.m3u8
-BWF 2&&https://pull.bztzhu.top/live/8700934_lhd.m3u8?edge_slice=true&user_session_id=7a39bdda83c0b2b43f19fc7ba36a199d&sub_m3u8=true&auth_info=8%2FM5RNJ7UR8fj6MKZlBy4C1eiXqT7e50WRr7qITNdE4Y5mR9T%2FnMFZDj6338FGHy.79334e4b6277585649737453696c7462
 IT  Rai 2&&https://cors-proxy.elfsight.com/https://wp1-obc1112-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV09103/manifest.mpd``8398533768ae49be862f458edc78f828:609273c26c31a4090310e3945c0db5df
 Oman Sport&&https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
 SG  MeWatch 5&&https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd``607b7d22565c4bc3b95ff6c33ce65425:28cc5367df666c44be4382e64af64d57
