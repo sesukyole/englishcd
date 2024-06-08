@@ -1,15 +1,15 @@
-ID  Indosiar&&http://xtv.ooo:8080/live/Israr947/541974/350972.m3u8
-ID  Moji&&http://xtv.ooo:8080/live/Israr947/541974/350997.m3u8
-ID  RCTI&&http://xtv.ooo:8080/live/Israr947/541974/351023.m3u8
-ID  SCTV&&http://xtv.ooo:8080/live/Israr947/541974/351030.m3u8
-ID  Sport 1&&http://xtv.ooo:8080/live/Israr947/541974/350993.m3u8
-ID  SpoTV 1&&http://xtv.ooo:8080/live/Israr947/541974/351034.m3u8
-ID  SpoTV 2&&http://xtv.ooo:8080/live/Israr947/541974/351035.m3u8
-ID  Usee Sport 1&&http://xtv.ooo:8080/live/Israr947/541974/351056.m3u8
-ID  Usee Sport 2&&http://xtv.ooo:8080/live/Israr947/541974/351057.m3u8
-ID  TVRI Sport&&http://xtv.ooo:8080/live/Israr947/541974/351052.m3u8
-ID  INews&&http://xtv.ooo:8080/live/Israr947/541974/350973.m3u8
-ID  Net&&http://xtv.ooo:8080/live/Israr947/541974/351010.m3u8
+ID  Indosiar&&01`00c350972.m3u8
+ID  Moji&&01`00c350997.m3u8
+ID  RCTI&&01`00c351023.m3u8
+ID  SCTV&&01`00c351030.m3u8
+ID  Sport 1&&01`00c350993.m3u8
+ID  SpoTV 1&&01`00c351034.m3u8
+ID  SpoTV 2&&01`00c351035.m3u8
+ID  Usee Sport 1&&01`00c351056.m3u8
+ID  Usee Sport 2&&01`00c351057.m3u8
+ID  TVRI Sport&&01`00c351052.m3u8
+ID  INews&&01`00c350973.m3u8
+ID  Net&&01`00c351010.m3u8
 UK  English Club TVᴴᴰ 🇬🇧&&http://iptv.prosto.tv:7000/ch206/video.m3u8
 UK  Mr. Bean&&http://51.159.104.29:8080/mrbean/index.m3u8
 AR  Fox Kids&&http://stmv1.srvif.com/emlsilva/emlsilva/playlist.m3u8
