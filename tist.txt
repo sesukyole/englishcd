@@ -1,6 +1,63 @@
 Indosiar&&http://45.11.57.74/live/Israr947/541974/350972.m3u8?.flv?token=GhMNBEZcR1gRXlEBBlcCUlUCBARQVgwDAVQFBgJZA1FWUANdAw0BA1FEGBoXEhZRBVtrXgVGAgNXVg4DARQUFhJUFzpcUEdYEVACD1BTVBZIFEBeDAEaClJKFURaXBRZQwJUUgQWSUBWHkBdFggFWDtSUUEIB10SWAhCWF8UFAwPbgEAWFULBhFcFglGSkZdF0YWDQ8RVFxORFVdR0pXFwQTXwtAWAlOEQVbTQoSFk1GDBZ+JUYUEgceQ1FdS18MDxNfR1gHEFoRShZRFzkWURdCRlIACV1CQFwVBBEUFA4ASToGWloLB1ASXVcKFUYORgcWG0MJV14LElhGbEhfB0MLR1YEAFNATg==
 ID: Moji&&https://raw.githubusercontent.com/ikitv/ikimunutv/main/moji.m3u8
 ID  Indosiar&&https://raw.githubusercontent.com/englishcd/bahasainggris/master/indosiar.m3u8
+AUS | Optus 1 HD&&http://b1g.ooo:80/live/suhel/suhel/35920.m3u8
+AUS | Optus 2 HD&&http://b1g.ooo:80/live/suhel/suhel/35919.m3u8
+AUS | Optus 3 HD&&http://b1g.ooo:80/live/suhel/suhel/35918.m3u8
+AUS | Optus 4 HD&&http://b1g.ooo:80/live/suhel/suhel/35917.m3u8
+AUS | Optus 5 HD&&http://b1g.ooo:80/live/suhel/suhel/35916.m3u8
+AUS | Optus 6 HD&&http://b1g.ooo:80/live/suhel/suhel/35907.m3u8
+AUS | Optus 7 HD&&http://b1g.ooo:80/live/suhel/suhel/35906.m3u8
+AUS | Optus 8 HD&&http://b1g.ooo:80/live/suhel/suhel/35905.m3u8
+AUS | Optus 9 HD&&http://b1g.ooo:80/live/suhel/suhel/35904.m3u8
+AUS | Optus 10 HD&&http://b1g.ooo:80/live/suhel/suhel/35903.m3u8
+AUS | Optus 11 HD&&http://b1g.ooo:80/live/suhel/suhel/35902.m3u8
+AUS | Optus 12 HD&&http://b1g.ooo:80/live/suhel/suhel/7526.m3u8
+NZ | Sky Sport 1&&http://b1g.ooo:80/live/suhel/suhel/696472.m3u8
+NZ | Sky Sport 2&&http://b1g.ooo:80/live/suhel/suhel/696473.m3u8
+NZ | Sky Sport 3&&http://b1g.ooo:80/live/suhel/suhel/696474.m3u8
+NZ | Sky Sport 4&&http://b1g.ooo:80/live/suhel/suhel/696475.m3u8
+NZ | Sky Sports 5&&http://b1g.ooo:80/live/suhel/suhel/696476.m3u8
+NZ | Sky Sports 6&&http://b1g.ooo:80/live/suhel/suhel/696477.m3u8
+NZ | Sky Sports 7&&http://b1g.ooo:80/live/suhel/suhel/696478.m3u8
+NZ | Sky Sports 8&&http://b1g.ooo:80/live/suhel/suhel/696479.m3u8
+NZ | Sky Sports 9&&http://b1g.ooo:80/live/suhel/suhel/696480.m3u8
+NZ | Sky Sports Select&&http://b1g.ooo:80/live/suhel/suhel/697715.m3u8
+MYS | Astro Cricket FHD&&http://b1g.ooo:80/live/suhel/suhel/57513.m3u8
+MY | Astro Cricket HD &&http://b1g.ooo:80/live/suhel/suhel/709264.m3u8
+MY | Astro SuperSport 1 FHD &&http://b1g.ooo:80/live/suhel/suhel/709263.m3u8
+MYS | Astro SuperSport 1 FHD&&http://b1g.ooo:80/live/suhel/suhel/57500.m3u8
+MY | Astro SuperSport 1 &&http://b1g.ooo:80/live/suhel/suhel/709262.m3u8
+MY | Astro SuperSport 2 FHD&&http://b1g.ooo:80/live/suhel/suhel/709261.m3u8
+MYS | Astro SuperSport 2 FHD&&http://b1g.ooo:80/live/suhel/suhel/57501.m3u8
+MY | Astro SuperSport 2 HD&&http://b1g.ooo:80/live/suhel/suhel/709260.m3u8
+MY | Astro SuperSport 3 FHD&&http://b1g.ooo:80/live/suhel/suhel/709259.m3u8
+MYS | Astro SuperSport 3 FHD&&http://b1g.ooo:80/live/suhel/suhel/57502.m3u8
+MY | Astro SuperSport 3 HD &&http://b1g.ooo:80/live/suhel/suhel/709258.m3u8
+MY | Astro SuperSport 4 FHD&&http://b1g.ooo:80/live/suhel/suhel/709257.m3u8
+MYS | Astro SuperSport 4 FHD&&http://b1g.ooo:80/live/suhel/suhel/57503.m3u8
+MY | Astro SuperSport 4 HD &&http://b1g.ooo:80/live/suhel/suhel/709256.m3u8
+MY | Astro Rugby Pass TV &&http://b1g.ooo:80/live/suhel/suhel/709252.m3u8
+MYS | W-Sport FHD&&http://b1g.ooo:80/live/suhel/suhel/57510.m3u8
+MY | Astro Ceria&&http://b1g.ooo:80/live/suhel/suhel/709265.m3u8
+MYS | Astro EPL 1 FHD&&http://b1g.ooo:80/live/suhel/suhel/57504.m3u8
+MYS | Astro EPL 2 FHD&&http://b1g.ooo:80/live/suhel/suhel/57505.m3u8
+MYS | Astro EPL 3 FHD&&http://b1g.ooo:80/live/suhel/suhel/57506.m3u8
+MYS | Astro WWE FHD&&http://b1g.ooo:80/live/suhel/suhel/57507.m3u8
+MY | WWE Network HD &&http://b1g.ooo:80/live/suhel/suhel/709248.m3u8
+MYS | Astro Golf FHD&&http://b1g.ooo:80/live/suhel/suhel/57509.m3u8
+MY | SkyNet Golf HD&&http://b1g.ooo:80/live/suhel/suhel/709249.m3u8
+MYS | Astro Fox Sports 1 FHD&&http://b1g.ooo:80/live/suhel/suhel/57512.m3u8
+MY | Fox Sports 1 &&http://b1g.ooo:80/live/suhel/suhel/709255.m3u8
+MYS | Astro Fox Sports 2 FHD&&http://b1g.ooo:80/live/suhel/suhel/57511.m3u8
+MY | Fox Sports 2&&http://b1g.ooo:80/live/suhel/suhel/709254.m3u8
+MYS | Astro beIN Sports FHD&&http://b1g.ooo:80/live/suhel/suhel/57514.m3u8
+MYS | Astro Arena 2 HD&&http://b1g.ooo:80/live/suhel/suhel/57508.m3u8
+MY | Astro Arena HD&&http://b1g.ooo:80/live/suhel/suhel/709266.m3u8
+MYS | Astro Arena FHD&&http://b1g.ooo:80/live/suhel/suhel/57515.m3u8
+MY | GNIX Sports HD&&http://b1g.ooo:80/live/suhel/suhel/709253.m3u8
+MY | MUTV HD&&http://b1g.ooo:80/live/suhel/suhel/709251.m3u8
+MY | Setanta Sports HD &&http://b1g.ooo:80/live/suhel/suhel/709250.m3u8
 ID: 01. ETV Live Event&&http://xtv.ooo:8080/live/2575376/47426736/350877.m3u8
 ID: 02. ETV Live Event 02&&http://xtv.ooo:8080/live/2575376/47426736/350878.m3u8
 ID: 24/7 Angry Birds Toons&&http://xtv.ooo:8080/live/2575376/47426736/350879.m3u8
