@@ -2,6 +2,109 @@ Moji 1	http://103.237.32.213:9981/stream/channelid/1756390848?profile=pass
 Moji 2	http://194.120.144.74:8070/b7c2ba83/b65f5b29/298550
 Moji 3	http://103.237.32.213:9981/stream/channelid/1756390848?profile=pass?.avi
 Moji 4	http://194.120.144.74:8070/b7c2ba83/b65f5b29/298550?.avi
+SCTV	https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=204&type=hls
+Indosiar	https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=205&type=hls
+Moji	https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=206&type=hls
+ID: SCTV	http://xtv.ooo:8080/live/2575376/47426736/351030.m3u8
+ID: Indosiar	http://xtv.ooo:8080/live/2575376/47426736/350972.m3u8
+ID: Moji	http://xtv.ooo:8080/live/2575376/47426736/350997.m3u8
+ID: RCTI	http://xtv.ooo:8080/live/2575376/47426736/351023.m3u8
+ID: INews	http://xtv.ooo:8080/live/2575376/47426736/350973.m3u8
+TRANS TV	https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=733&type=hls
+Trans7	https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=734&type=hls
+TVOne	https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=783&type=hls
+ANTV	https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=782&type=hls
+Metro TV	https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=777&type=hls
+Kompas TV	https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=874&type=hls
+RTV	https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=1561&type=hls
+TVRI	https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=6441&type=hls
+BTV	https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=6165&type=hls
+NET TV	https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=875&type=hls
+Jaktv	https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=5415&type=hls
+DAAI TV	https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=6482&type=hls
+Nusantara TV	https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=7432&type=hls
+JTV	https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=9713&type=hls
+JPM TV	https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=9714&type=hls
+Metro Globe Network	https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=8815&type=hls
+Bein 1	https://cuass-060172da4dc0.herokuapp.com/pid/index.mpd?id=6299&type=dash
+Bein 3	https://cuass-060172da4dc0.herokuapp.com/pid/index.mpd?id=6317&type=dash
+CTV 1	https://cuass-060172da4dc0.herokuapp.com/pid/index.mpd?id=6685&type=dash
+CTV 1 HLS	https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=6685&type=hls
+CTV 2	https://cuass-060172da4dc0.herokuapp.com/pid/index.mpd?id=6686&type=dash
+CTV 2 HLS	https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=6686&type=hls
+CTV 3	https://cuass-060172da4dc0.herokuapp.com/pid/index.mpd?id=6786&type=dash
+CTV 5	https://cuass-060172da4dc0.herokuapp.com/pid/index.mpd?id=9182&type=dash
+CTV 6	https://cuass-060172da4dc0.herokuapp.com/pid/index.mpd?id=9183&type=dash
+Premier League TV	https://cuass-060172da4dc0.herokuapp.com/pid/index.mpd?id=9353&type=dash
+NBA TV	https://cuass-060172da4dc0.herokuapp.com/pid/index.mpd?id=6717&type=dash
+Liverpool TV	https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=7916&type=hls
+TVN	https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=6362&type=hls
+MUSICA	https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=7619&type=hls
+Zee Bioskop	https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=6399&type=hls
+Fashion TV Midnight Secrets	https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=6504&type=hls
+Rock Action	https://cuass-060172da4dc0.herokuapp.com/pid/index.mpd?id=8121&type=dash
+Arirang	https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=6784&type=hls
+Fashion TV - Global	https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=6511&type=hls
+ROCK Entertainment	https://cuass-060172da4dc0.herokuapp.com/pid/index.mpd?id=8120&type=dash
+FashionTV L'Original	https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=6507&type=hls
+RANS Channel	https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=8241&type=hls
+Elshinta TV	https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=10975&type=hls
+Magna TV	https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=7230&type=hls
+Aljazeera	https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=6410&type=hls
+DW English	https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=5075&type=hls
+ABC Australia	https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=7150&type=hls
+NHK World Japan	https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=7968&type=hls
+News Asia	https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=6411&type=hls
+AFRICANEWS TV	https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=12784&type=hls
+SEA TODAY	https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=7687&type=hls
+Euro News	https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=6412&type=hls
+TV Tempo	https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=7946&type=hls
+Mentari TV	https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=8237&type=hls
+Zoomoo	https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=6533&type=hls
+Hip Hip Horee!	https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=7052&type=hls
+Horee	https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=6397&type=hls
+AJWA TV	https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=7464&type=hls
+Makkah TV	https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=6852&type=hls
+Tawaf TV	https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=12607&type=hls
+Reformed 21 TV	https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=6853&type=hls
+U-Channel TV	https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=6898&type=hls
+Prambors On Air	https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=7004&type=hls
+Delta FM	https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=7092&type=hls
+i-Radio	https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=7057&type=hls
+Gen FM Jakarta	https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=7443&type=hls
+Elshinta 90 FM	https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=7166&type=hls
+Kis FM	https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=7445&type=hls
+Jak FM	https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=7449&type=hls
+Hard Rock FM	https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=7053&type=hls
+Ardan Radio	https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=7184&type=hls
+Bahana FM	https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=7091&type=hls
+Female FM	https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=7130&type=hls
+Sonora Radio	https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=12237&type=hls
+Hot FM	https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=7448&type=hls
+Dahlia FM	https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=7242&type=hls
+SWARAGAMA FM Jogja !	https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=7248&type=hls
+Mustang FM	https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=7447&type=hls
+Brava Radio	https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=7054&type=hls
+Rama FM	https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=7684&type=hls
+ELGANGGA	https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=7169&type=hls
+TRAX	https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=7055&type=hls
+GAJAHMADA	https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=7284&type=hls
+Gen FM Surabaya	https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=7446&type=hls
+Motion Radio	https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=12238&type=hls
+Elfara FM Malang	https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=15670&type=hls
+Imelda FM	https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=7281&type=hls
+NAGASWARA RADIOTEMEN	https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=8638&type=hls
+Paramuda FM	https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=7685&type=hls
+Radio Cakra	https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=7297&type=hls
+Smart FM	https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=12239&type=hls
+Cosmopolitan Radio	https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=7056&type=hls
+ELMITRA	https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=7170&type=hls
+MGTRADIO	https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=7188&type=hls
+JIZ FM	https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=7792&type=hls
+SWARA SEMARANG	https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=7283&type=hls
+Most FM	https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=7450&type=hls
+CLASSY 103.4 FM	https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=9106&type=hls
+Sushi Radio	https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=7218&type=hls
 ID: 01. ETV Live Event	http://xtv.ooo:8080/live/2575376/47426736/350877.m3u8
 ID: 02. ETV Live Event 02	http://xtv.ooo:8080/live/2575376/47426736/350878.m3u8
 ID: 24/7 Angry Birds Toons	http://xtv.ooo:8080/live/2575376/47426736/350879.m3u8
@@ -259,3 +362,1119 @@ MYS | Astro Arena FHD	http://b1g.ooo:80/live/suhel/suhel/57515.m3u8
 MY | GNIX Sports HD	http://b1g.ooo:80/live/suhel/suhel/709253.m3u8
 MY | MUTV HD	http://b1g.ooo:80/live/suhel/suhel/709251.m3u8
 MY | Setanta Sports HD 	http://b1g.ooo:80/live/suhel/suhel/709250.m3u8
+24/7 Spider-Man	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223750.m3u8
+24/7 Resident Evil	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223751.m3u8
+24/7 Paranormal Activity	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223752.m3u8
+24/7 300	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223753.m3u8
+24/7 Alien	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223754.m3u8
+24/7 Alvin and the Chipmunks	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223755.m3u8
+24/7 Bad Boys	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223756.m3u8
+24/7 Bourne	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223757.m3u8
+24/7 Bridget Jones	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223758.m3u8
+24/7 Deadpool	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223759.m3u8
+24/7 Despicable Me	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223760.m3u8
+24/7 Friday the 13th	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223761.m3u8
+24/7 Ghost Rider	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223762.m3u8
+24/7 Goosebumps	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223763.m3u8
+24/7 Halloween	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223764.m3u8
+24/7 Hellboy	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223765.m3u8
+24/7 The Hunger Games	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223766.m3u8
+24/7 Ice Age	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223767.m3u8
+24/7 Indiana Jones	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223768.m3u8
+24/7 Madagascar	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223769.m3u8
+24/7 Matrix	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223770.m3u8
+24/7 Night at the Museum	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223771.m3u8
+24/7 Open Season	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223772.m3u8
+24/7 Quarantine	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223773.m3u8
+24/7 Scary Movie	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223774.m3u8
+24/7 Scream	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223775.m3u8
+24/7 Sex And The City	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223776.m3u8
+24/7 Shrek	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223777.m3u8
+24/7 Step Up	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223778.m3u8
+24/7 Terminator	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223779.m3u8
+24/7 Texas Chainsaw	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223780.m3u8
+24/7 The Conjuring	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223781.m3u8
+24/7 The Exorcist	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223782.m3u8
+24/7 Grown Ups	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223783.m3u8
+24/7 The Purge	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223784.m3u8
+24/7 The Smurfs	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223785.m3u8
+24/7 Twilight	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223786.m3u8
+24/7 Wrong Turn	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223787.m3u8
+24/7 Planet of the Apes	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223788.m3u8
+24/7 Arcane	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223789.m3u8
+24/7 Black Ink Crew Chicago	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223790.m3u8
+24/7 Black Ink Crew Compton	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223791.m3u8
+24/7 Chappelle's Show	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223792.m3u8
+24/7 Control Z	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223793.m3u8
+24/7 Cyberpunk: Edgerunners	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223794.m3u8
+24/7 Don't F**k with Cats: Hunting an Internet Killer	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223795.m3u8
+24/7 DOTA: Dragon's Blood	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223796.m3u8
+24/7 Downton Abbey	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223797.m3u8
+24/7 El Chapo	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223798.m3u8
+24/7 F is for Family	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223799.m3u8
+24/7 GLOW	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223800.m3u8
+24/7 Good Girls	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223801.m3u8
+24/7 Happy Days	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223802.m3u8
+24/7 In the Dark	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223803.m3u8
+24/7 Human Planet	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223804.m3u8
+24/7 It's Always Sunny in Philadelphia	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223805.m3u8
+24/7 Jane the Virgin	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223806.m3u8
+24/7 L.A.'s Finest	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223807.m3u8
+24/7 Legacies	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223808.m3u8
+24/7 Love, Death & Robots	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223809.m3u8
+24/7 Man Vs Bee	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223810.m3u8
+24/7 American Crime Story	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223811.m3u8
+24/7 Heartland	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223812.m3u8
+24/7 Claws	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223813.m3u8
+24/7 The Outlaws	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223814.m3u8
+24/7 Republic of Doyle	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223815.m3u8
+24/7 Mork & Mindy	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223816.m3u8
+24/7 Master of None	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223817.m3u8
+24/7 Mindhunter	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223818.m3u8
+24/7 Narcos: Mexico	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223819.m3u8
+24/7 Parks and Recreation	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223820.m3u8
+24/7 People Just Do Nothing	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223821.m3u8
+24/7 Poldark	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223822.m3u8
+24/7 Queen of the South	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223823.m3u8
+24/7 Russian Doll	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223824.m3u8
+24/7 Santa Clarita Diet	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223825.m3u8
+24/7 Slasher	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223826.m3u8
+24/7 The Bold Type	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223827.m3u8
+24/7 The End of the F***ing World	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223828.m3u8
+24/7 The Queen's Gambit	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223829.m3u8
+24/7 Victorious	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223830.m3u8
+24/7 When Calls the Heart	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223831.m3u8
+24/7 White Lines	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223832.m3u8
+24/7 Invincible	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223833.m3u8
+24/7 Auf Wiedersehen, Pet	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223834.m3u8
+24/7 Jackie Chan Adventures	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223835.m3u8
+24/7 Dexter's Laboratory	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223836.m3u8
+24/7 Cow and Chicken	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223837.m3u8
+24/7 Young Sheldon	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223838.m3u8
+24/7 Wonder Woman	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223839.m3u8
+24/7 Auf Wiedersehen, Pet	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223840.m3u8
+24/7 Tyler Perry's Sistas	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223841.m3u8
+24/7 Two and a Half Men	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223842.m3u8
+24/7 True Blood	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223843.m3u8
+24/7 Tom Clancy's Jack Ryan	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223844.m3u8
+24/7 The Summer I Turned Pretty	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223845.m3u8
+24/7 The Strain	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223846.m3u8
+24/7 The Outpost	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223847.m3u8
+24/7 The Originals	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223848.m3u8
+24/7 The O.C.	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223849.m3u8
+24/7 The Grand Tour	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223850.m3u8
+24/7 The Deuce	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223851.m3u8
+24/7 The Chi	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223852.m3u8
+24/7 The Americans	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223853.m3u8
+24/7 Superstore	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223854.m3u8
+24/7 Strike Back	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223855.m3u8
+24/7 Station 19	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223856.m3u8
+24/7 Spooks	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223857.m3u8
+24/7 Sons of Guns	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223858.m3u8
+24/7 Sons of Anarchy	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223859.m3u8
+24/7 Shooter	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223860.m3u8
+24/7 Sex and the City	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223861.m3u8
+24/7 Heroes	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223862.m3u8
+24/7 Harrow	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223863.m3u8
+24/7 Grey's Anatomy	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223864.m3u8
+24/7 Ghost Whisperer	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223865.m3u8
+24/7 Chuck	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223866.m3u8
+24/7 CSI: Miami	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223867.m3u8
+24/7 Below Deck Sailing Yacht	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223868.m3u8
+24/7 61st Street	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223869.m3u8
+24/7 Buffy the Vampire Slayer	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223870.m3u8
+24/7 Californication	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223871.m3u8
+24/7 Das Boot	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223872.m3u8
+24/7 Dickinson	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223873.m3u8
+24/7 Empire	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223874.m3u8
+24/7 First Wives Club	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223875.m3u8
+24/7 Fortitude	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223876.m3u8
+24/7 Ghostwriter	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223877.m3u8
+24/7 Him & Her	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223878.m3u8
+24/7 Home Before Dark	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223879.m3u8
+24/7 Invasion	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223880.m3u8
+24/7 Jamestown	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223881.m3u8
+24/7 Life's Too Short	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223882.m3u8
+24/7 Little America	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223883.m3u8
+24/7 Little Voice	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223884.m3u8
+24/7 Long Way Up	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223885.m3u8
+24/7 Losing Alice	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223886.m3u8
+24/7 Mad Men	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223887.m3u8
+24/7 Mr. Corman	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223888.m3u8
+24/7 My Wife and Kids	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223889.m3u8
+24/7 Mythic Quest	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223890.m3u8
+24/7 One Tree Hill	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223891.m3u8
+24/7 Pandora	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223892.m3u8
+24/7 Plebs	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223893.m3u8
+24/7 Red Dwarf	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223894.m3u8
+24/7 Rizzoli & Isles	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223895.m3u8
+24/7 Scream Queens	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223896.m3u8
+24/7 See	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223897.m3u8
+24/7 Shameless	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223898.m3u8
+24/7 Ted Lasso	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223899.m3u8
+24/7 The Fresh Prince of Bel-Air	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223900.m3u8
+24/7 The Good Wife	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223901.m3u8
+24/7 The Jinx: The Life and Deaths of Robert Durst	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223902.m3u8
+24/7 The Morning Show	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223903.m3u8
+24/7 Bad Girls	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223904.m3u8
+24/7 Bob's Burgers	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223905.m3u8
+24/7 Genius	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223906.m3u8
+24/7 Harley Quinn	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223907.m3u8
+24/7 Kickin' It	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223908.m3u8
+24/7 Life & Beth	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223909.m3u8
+24/7 Marvel's Agent Carter	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223910.m3u8
+24/7 Marvel's Agents of S.H.I.E.L.D.	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223911.m3u8
+24/7 Marvel's Cloak & Dagger	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223912.m3u8
+24/7 Marvel's Daredevil	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223913.m3u8
+24/7 Marvel's Iron Fist	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223914.m3u8
+24/7 Marvel's Luke Cage	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223915.m3u8
+24/7 Marvel's M.O.D.O.K.	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223916.m3u8
+24/7 Marvel's Spider-Man	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223917.m3u8
+24/7 Marvel's The Defenders	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223918.m3u8
+24/7 Marvel's The Punisher	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223919.m3u8
+24/7 Marvel's Ultimate Spider-Man	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223920.m3u8
+24/7 Night Sky	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223921.m3u8
+24/7 Peter Rabbit	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223922.m3u8
+24/7 Pistol	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223923.m3u8
+24/7 Reservation Dogs	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223924.m3u8
+24/7 Scooby-Doo and Guess Who?	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223925.m3u8
+24/7 Seven Worlds, One Planet	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223926.m3u8
+24/7 Spider-Man and His Amazing Friends	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223927.m3u8
+24/7 The Beatles: Get Back	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223928.m3u8
+24/7 The Essex Serpent	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223929.m3u8
+24/7 The Gifted	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223930.m3u8
+24/7 The Muppet Show	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223931.m3u8
+24/7 The Resident	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223932.m3u8
+24/7 Welcome to Earth	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223933.m3u8
+24/7 What If?	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223934.m3u8
+24/7 Y: The Last Man	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223935.m3u8
+24/7 Zenimation	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223936.m3u8
+24/7 The Ignorant Angels	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223937.m3u8
+24/7 Bar Rescue	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223938.m3u8
+24/7 The Curse of Oak Island	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223939.m3u8
+24/7 60 Days In	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223940.m3u8
+24/7 Gold Rush	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223941.m3u8
+24/7 Hardcore Pawn	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223942.m3u8
+24/7 Drugs, Inc.	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223943.m3u8
+24/7 Banged Up Abroad	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223944.m3u8
+24/7 Banged Up Abroad	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223945.m3u8
+24/7 Dr. Pimple Popper	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223946.m3u8
+24/7 Naked and Marooned with Ed Stafford	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223947.m3u8
+24/7 Gold Rush: Freddy Dodge's Mine Rescue	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223948.m3u8
+24/7 Finding Escobar's Millions	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223949.m3u8
+24/7 Winning Time: The Rise of the Lakers Dynasty	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223950.m3u8
+24/7 Hoffman Family Gold	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223951.m3u8
+24/7 WWE's Most Wanted Treasures	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223952.m3u8
+24/7 The Blue Planet	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223953.m3u8
+24/7 i, Sniper The Washington Killers	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223954.m3u8
+24/7 Blue Planet II	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223955.m3u8
+24/7 Biography: WWE Legends	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223956.m3u8
+24/7 9/11: One Day in America	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223957.m3u8
+24/7 McMillion$	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223958.m3u8
+24/7 The Trade	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223959.m3u8
+24/7 Atlanta's Missing and Murdered: The Lost Children	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223960.m3u8
+24/7 South Park	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223961.m3u8
+24/7 Hacks	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223962.m3u8
+24/7 Made For Love	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223963.m3u8
+24/7 We Own This City	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223964.m3u8
+24/7 100 Foot Wave	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223965.m3u8
+24/7 Chicago P.D.	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223966.m3u8
+24/7 Will & Grace	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223967.m3u8
+24/7 Prison Break	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223968.m3u8
+24/7 ThunderCats	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223969.m3u8
+24/7 Sister, Sister	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223970.m3u8
+24/7 Private Practice	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223971.m3u8
+24/7 My Name Is Earl	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223972.m3u8
+24/7 Justified	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223973.m3u8
+24/7 Peep Show	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223974.m3u8
+24/7 Doogie Howser, M.D.	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223975.m3u8
+24/7 Maggie	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223976.m3u8
+24/7 Motherland: Fort Salem	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223977.m3u8
+24/7 Miranda	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223978.m3u8
+24/7 Only Murders in the Building	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223979.m3u8
+24/7 SIX	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223980.m3u8
+24/7 The Bear	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223981.m3u8
+24/7 The Handmaid's Tale	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223982.m3u8
+24/7 Abbott Elementary	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223983.m3u8
+24/7 Strike	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223984.m3u8
+24/7 Single Drunk Female	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223985.m3u8
+24/7 Mrs. America	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223986.m3u8
+24/7 The Dropout	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223987.m3u8
+24/7 Becoming Elizabeth	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223988.m3u8
+24/7 Paris in Love	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223989.m3u8
+24/7 Hypothetical	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223990.m3u8
+24/7 An Idiot Abroad	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223991.m3u8
+24/7 The First Lady	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223992.m3u8
+24/7 Brassic	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223993.m3u8
+24/7 V	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223994.m3u8
+24/7 American Soul	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223995.m3u8
+24/7 The Moaning of Life	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223996.m3u8
+24/7 I Hate Suzie	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223997.m3u8
+24/7 The Tourist	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223998.m3u8
+24/7 The Undeclared War	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/223999.m3u8
+24/7 Mood	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224000.m3u8
+24/7 QI	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224001.m3u8
+24/7 Spitting Image	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224002.m3u8
+24/7 The Goodies	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224003.m3u8
+24/7 On the Buses	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224004.m3u8
+24/7 Only Fools and Horses	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224005.m3u8
+24/7 The Wilds	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224006.m3u8
+24/7 Gunsmoke	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224007.m3u8
+24/7 Bonanza	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224008.m3u8
+24/7 New Girl	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224009.m3u8
+24/7 America's Got Talent	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224010.m3u8
+24/7 Britain's Got Talent	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224011.m3u8
+24/7 Tyler Perry's Sistas	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224012.m3u8
+24/7 PAW Patrol	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224013.m3u8
+24/7 Pingu	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224014.m3u8
+24/7 Sonic Boom	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224015.m3u8
+24/7 Spider-Man and His Amazing Friends	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224016.m3u8
+24/7 X-Men	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224017.m3u8
+24/7 The Care Bears	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224018.m3u8
+24/7 Spirit Rangers	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224019.m3u8
+24/7 Sarah & Duck	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224020.m3u8
+24/7 Cow and Chicken	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224021.m3u8
+24/7 Charlie and Lola	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224022.m3u8
+24/7 Batfink	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224023.m3u8
+24/7 The Ren & Stimpy Show	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224024.m3u8
+24/7 Bubble Guppies	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224025.m3u8
+24/7 In the Night Garden	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224026.m3u8
+24/7 Wacky Races	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224027.m3u8
+24/7 Peter Rabbit	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224028.m3u8
+24/7 Scooby-Doo, Where Are You!	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224029.m3u8
+24/7 Marvel's M.O.D.O.K.	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224030.m3u8
+24/7 Zenimation	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224031.m3u8
+24/7 Baymax!	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224032.m3u8
+24/7 The Muppet Show	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224033.m3u8
+24/7 Marvel's Spider-Man	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224034.m3u8
+24/7 Adventure Time	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224035.m3u8
+24/7 Yu-Gi-Oh! Duel Monsters	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224036.m3u8
+24/7 Good Luck Charlie	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224037.m3u8
+24/7 Dog with a Blog	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224038.m3u8
+24/7 Liv and Maddie	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224039.m3u8
+24/7 BUNK'D	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224040.m3u8
+24/7 Shake It Up	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224041.m3u8
+24/7 Clarence	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224042.m3u8
+24/7 Danger Force	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224043.m3u8
+24/7 Full House	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224044.m3u8
+24/7 I Didn't Do It	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224045.m3u8
+24/7 Kirby Buckets	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224046.m3u8
+24/7: 1000-lb Best Friends	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224047.m3u8
+24/7: 13 Reasons Why	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224048.m3u8
+24/7: 20/20	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224049.m3u8
+24/7: 24	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224050.m3u8
+24/7: 3rd Rock from the Sun	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224051.m3u8
+24/7: 8 Simple Rules... for Dating My Teenage Daughter	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224052.m3u8
+24/7: 9-1-1	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224053.m3u8
+24/7: 90 Day Fiancé	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224054.m3u8
+24/7: 90 Day Fiancé: Before the 90 Days	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224055.m3u8
+24/7: 90210	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224056.m3u8
+24/7: A Different World	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224057.m3u8
+24/7: Absolutely Fabulous	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224058.m3u8
+24/7: Adam Ruins Everything	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224059.m3u8
+24/7: Adventures of Sonic the Hedgehog	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224060.m3u8
+24/7: Alan Partridge	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224061.m3u8
+24/7: ALF	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224062.m3u8
+24/7: All in the Family	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224063.m3u8
+24/7: American Crime Story	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224064.m3u8
+24/7: American Dad!	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224065.m3u8
+24/7: American Horror Story	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224066.m3u8
+24/7: An Idiot Abroad	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224067.m3u8
+24/7: Arrested Development	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224068.m3u8
+24/7: Atlanta	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224069.m3u8
+24/7: Babylon 5	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224070.m3u8
+24/7: Bad Girls	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224071.m3u8
+24/7: Ballers	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224072.m3u8
+24/7: BARGAIN BLOCK	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224073.m3u8
+24/7: Bates Motel	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224074.m3u8
+24/7: Batman (1966)	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224075.m3u8
+24/7: Batman 1966	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224076.m3u8
+24/7: Batman: The Animated Series	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224077.m3u8
+24/7: Baywatch	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224078.m3u8
+24/7: BBQ Pitmasters	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224079.m3u8
+24/7: Beavis and Butt-head	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224080.m3u8
+24/7: Becker	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224081.m3u8
+24/7: Benidorm	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224082.m3u8
+24/7: Better Call Saul	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224083.m3u8
+24/7: Billions	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224084.m3u8
+24/7: Billy Connolly Stand Up	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224085.m3u8
+24/7: black-ish	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224086.m3u8
+24/7: BLACK-ISH	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224087.m3u8
+24/7: BlackAdder	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224088.m3u8
+24/7: Blaze and the Monster Machines	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224089.m3u8
+24/7: Blossom	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224090.m3u8
+24/7: Blue Mountain State	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224091.m3u8
+24/7: Boardwalk Empire	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224092.m3u8
+24/7: Bob's Burgers	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224093.m3u8
+24/7: Bones	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224094.m3u8
+24/7: Bordertown	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224095.m3u8
+24/7: Bottom	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224096.m3u8
+24/7: Breaking Bad	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224097.m3u8
+24/7: Buffy the Vampire Slayer	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224098.m3u8
+24/7: Californication	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224099.m3u8
+24/7: Car 54, Where Are You	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224100.m3u8
+24/7: Chappelle's Show	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224101.m3u8
+24/7: Charmed	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224102.m3u8
+24/7: Chicago Fire	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224103.m3u8
+24/7: Chicago Med	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224104.m3u8
+24/7: Chicago P.D.	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224105.m3u8
+24/7: Chris Rock stand up	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224106.m3u8
+24/7: Cobra Kai	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224107.m3u8
+24/7: Conor McGregor	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224108.m3u8
+24/7: Cops	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224109.m3u8
+24/7: Court Cam	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224110.m3u8
+24/7: Crikey! It's the Irwins	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224111.m3u8
+24/7: Crime Scene Confidential	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224112.m3u8
+24/7: Crimes Gone Viral	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224113.m3u8
+24/7: Curb Your Enthusiasm	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224114.m3u8
+24/7: Cutthroat Kitchen	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224115.m3u8
+24/7: Dads Army	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224116.m3u8
+24/7: Darcey & Stacy	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224117.m3u8
+24/7: Daredevil	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224118.m3u8
+24/7: Dateline NBC	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224119.m3u8
+24/7: David Attenborough	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224120.m3u8
+24/7: Dawson's Creek	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224121.m3u8
+24/7: DC's Legends of Tomorrow	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224122.m3u8
+24/7: Desperate Housewives	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224123.m3u8
+24/7: Dexter	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224124.m3u8
+24/7: Diagnosis: Murder	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224125.m3u8
+24/7: Diff'rent Strokes	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224126.m3u8
+24/7: Diners, Drive-Ins and Dives	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224127.m3u8
+24/7: Dirty Jobs	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224128.m3u8
+24/7: DIVORCE COURT	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224129.m3u8
+24/7: Dog the Bounty Hunter	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224130.m3u8
+24/7: Doogie Howser, M.D.	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224131.m3u8
+24/7: Doubling Down with the Derricos	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224132.m3u8
+24/7: Dr Phil	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224133.m3u8
+24/7: Dr Who	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224134.m3u8
+24/7: Dr. G: Medical Examiner	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224135.m3u8
+24/7: Dr. Quinn, Medicine Woman	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224136.m3u8
+24/7: Duck Dynasty	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224137.m3u8
+24/7: Entourage	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224138.m3u8
+24/7: ER	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224139.m3u8
+24/7: Escaping Polygamy	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224140.m3u8
+24/7: Ever Decreasing Circles	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224141.m3u8
+24/7: Everybody Hates Chris	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224142.m3u8
+24/7: Everybody Loves Raymond	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224143.m3u8
+24/7: Family Guy	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224144.m3u8
+24/7: Family Matters	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224145.m3u8
+24/7: Fantasy Island	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224146.m3u8
+24/7: Fargo	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224147.m3u8
+24/7: Father Ted	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224148.m3u8
+24/7: Fawlty Towers	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224149.m3u8
+24/7: FBI	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224150.m3u8
+24/7: Fear Thy Neighbor	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224151.m3u8
+24/7: Final Destination	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224152.m3u8
+24/7: First Wives Club	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224153.m3u8
+24/7: Flipper	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224154.m3u8
+24/7: Footballers Wives	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224155.m3u8
+24/7: Forensic Files	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224156.m3u8
+24/7: Forensic Files II	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224157.m3u8
+24/7: Fort Boyard	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224158.m3u8
+24/7: Frasier	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224159.m3u8
+24/7: Full House	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224160.m3u8
+24/7: Fuller House	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224161.m3u8
+24/7: Futurama	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224162.m3u8
+24/7: Game1 of Thrones	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224163.m3u8
+24/7: Gangland	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224164.m3u8
+24/7: Gangland Undercover	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224165.m3u8
+24/7: Gavin And Stacey	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224166.m3u8
+24/7: Ghost Whisperer	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224167.m3u8
+24/7: Gilligan's Island	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224168.m3u8
+24/7: Gimme a Break!	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224169.m3u8
+24/7: Glow	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224170.m3u8
+24/7: Goliath	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224171.m3u8
+24/7: Gomer Pyle, U.S.M.C.	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224172.m3u8
+24/7: Good Bones	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224173.m3u8
+24/7: Good Times	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224174.m3u8
+24/7: Good Witch	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224175.m3u8
+24/7: Goodnight Sweetheart	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224176.m3u8
+24/7: Gossip Girl	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224177.m3u8
+24/7: Gotham	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224178.m3u8
+24/7: Grace Under Fire	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224179.m3u8
+24/7: Green Acres	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224180.m3u8
+24/7: Grey's Anatomy	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224181.m3u8
+24/7: Grown-ish	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224182.m3u8
+24/7: Halloween Baking Championship	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224183.m3u8
+24/7: Hangin' with Mr. Cooper	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224184.m3u8
+24/7: Hannah Montana	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224185.m3u8
+24/7: Happy Days	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224186.m3u8
+24/7: Hawaii Five-0	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224187.m3u8
+24/7: Hawaii Five-O (Original)	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224188.m3u8
+24/7: Heartland	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224189.m3u8
+24/7: Heathcliff	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224190.m3u8
+24/7: Hey Dude	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224191.m3u8
+24/7: Hogan's Heroes	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224192.m3u8
+24/7: Home Improvement	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224193.m3u8
+24/7: Homicide Hunter: Lt Joe Kenda	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224194.m3u8
+24/7: Hot in Cleveland	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224195.m3u8
+24/7: House	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224196.m3u8
+24/7: House of Cards	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224197.m3u8
+24/7: How I Caught My Killer	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224198.m3u8
+24/7: How I Met Your Mother	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224199.m3u8
+24/7: How It's Made	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224200.m3u8
+24/7: Human Resources	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224201.m3u8
+24/7: I (Almost) Got Away With It	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224202.m3u8
+24/7: I Dream of Jeannie	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224203.m3u8
+24/7: I Love Lucy	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224204.m3u8
+24/7: Impractical Jokers	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224205.m3u8
+24/7: In Pursuit with John Walsh	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224206.m3u8
+24/7: In the Heat of the Night	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224207.m3u8
+24/7: Ink Master	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224208.m3u8
+24/7: Insanity Workout	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224209.m3u8
+24/7: Iron Chef America	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224210.m3u8
+24/7: It's Showtime at the Apollo	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224211.m3u8
+24/7: iZombie	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224212.m3u8
+24/7: Jackass	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224213.m3u8
+24/7: James Bond - 007	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224214.m3u8
+24/7: Jem	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224215.m3u8
+24/7: Jerry Springer	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224216.m3u8
+24/7: Jimmy Carr Stand Up	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224217.m3u8
+24/7: JUDGE JUDY	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224218.m3u8
+24/7: Just Good Friends	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224219.m3u8
+24/7: Just Shoot Me!	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224220.m3u8
+24/7: Justified	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224221.m3u8
+24/7: Kenan	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224222.m3u8
+24/7: Kendra on Top	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224223.m3u8
+24/7: Kendra Sells Hollywood	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224224.m3u8
+24/7: Killer Siblings	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224225.m3u8
+24/7: King of the Hill	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224226.m3u8
+24/7: King Of The Hill	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224227.m3u8
+24/7: Knight Rider	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224228.m3u8
+24/7: Knots Landing	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224229.m3u8
+24/7: Last Man Standing	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224230.m3u8
+24/7: Law & Order: Special Victims Unit	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224231.m3u8
+24/7: League Of Gentlemen	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224232.m3u8
+24/7: Leave It to Beaver	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224233.m3u8
+24/7: Letterkenny	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224234.m3u8
+24/7: Life & Beth	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224235.m3u8
+24/7: Life Below Zero	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224236.m3u8
+24/7: Life On Mars	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224237.m3u8
+24/7: Lip Sync Battle	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224238.m3u8
+24/7: Little Britain	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224239.m3u8
+24/7: Little House on the Prairie	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224240.m3u8
+24/7: Living Single	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224241.m3u8
+24/7: Lizard Lick Towing	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224242.m3u8
+24/7: Locked Up Abroad	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224243.m3u8
+24/7: Lois & Clark: The New Adventures of Superman	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224244.m3u8
+24/7: Longmire	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224245.m3u8
+24/7: Louis Theroux	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224246.m3u8
+24/7: Love & Marriage Huntsville	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224247.m3u8
+24/7: Love After Lockup	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224248.m3u8
+24/7: Love Island (UK)	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224249.m3u8
+24/7: Love Thy Neighbor	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224250.m3u8
+24/7: Lucifer	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224251.m3u8
+24/7: M*A*S*H	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224252.m3u8
+24/7: MacGyver (1985)	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224253.m3u8
+24/7: MacGyver (2016)	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224254.m3u8
+24/7: Mad Men	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224255.m3u8
+24/7: MADtv	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224256.m3u8
+24/7: Magnum, P.I. (Original)	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224257.m3u8
+24/7: Major Dad	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224258.m3u8
+24/7: Malcolm in the Middle	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224259.m3u8
+24/7: Mama's Family	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224260.m3u8
+24/7: Marlon	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224261.m3u8
+24/7: Married With Children	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224262.m3u8
+24/7: Martin	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224263.m3u8
+24/7: Martin	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224264.m3u8
+24/7: Master Of None	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224265.m3u8
+24/7: Mayans M.C.	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224266.m3u8
+24/7: Melrose Place	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224267.m3u8
+24/7: Men Behaving Badly	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224268.m3u8
+24/7: Miami Vice	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224269.m3u8
+24/7: Michael Mcintyre Stand Up	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224270.m3u8
+24/7: Michael Moore	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224271.m3u8
+24/7: Micky Flanagan Stand Up	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224272.m3u8
+24/7: Minder	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224273.m3u8
+24/7: Mindhunter	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224274.m3u8
+24/7: Minute to Win It	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224275.m3u8
+24/7: Mister Ed	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224276.m3u8
+24/7: Mister Rogers' Neighborhood	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224277.m3u8
+24/7: Miz & Mrs	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224278.m3u8
+24/7: Mob Wives	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224279.m3u8
+24/7: Modern Family	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224280.m3u8
+24/7: Moesha	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224281.m3u8
+24/7: Mom	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224282.m3u8
+24/7: Monkey Magic	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224283.m3u8
+24/7: Moonshiners	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224284.m3u8
+24/7: Mork & Mindy	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224285.m3u8
+24/7: Mr Bean	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224286.m3u8
+24/7: Mr. D	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224287.m3u8
+24/7: Mr. Mayor	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224288.m3u8
+24/7: Mr. Robot	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224289.m3u8
+24/7: Mrs Browns Boys	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224290.m3u8
+24/7: Murder in the First	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224291.m3u8
+24/7: Murdoch Mysteries	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224292.m3u8
+24/7: My Cat from Hell	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224293.m3u8
+24/7: My Family	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224294.m3u8
+24/7: My Name Is Earl	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224295.m3u8
+24/7: My Strange Addiction	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224296.m3u8
+24/7: My Wife and Kids	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224297.m3u8
+24/7: Naked and Afraid	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224298.m3u8
+24/7: Narcos	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224299.m3u8
+24/7: Nash Bridges	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224300.m3u8
+24/7: NCIS	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224301.m3u8
+24/7: New York Undercover	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224302.m3u8
+24/7: Nick Cannon Presents: Wild 'N Out	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224303.m3u8
+24/7: Night Court	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224304.m3u8
+24/7: Nip/Tuck	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224305.m3u8
+24/7: Not Going Out	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224306.m3u8
+24/7: Nurse Jackie	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224307.m3u8
+24/7: On The Buses	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224308.m3u8
+24/7: One Foot In The Grave	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224309.m3u8
+24/7: One Tree Hill	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224310.m3u8
+24/7: Orange Is The New Black	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224311.m3u8
+24/7: Orange Is the New Black	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224312.m3u8
+24/7: Outlander	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224313.m3u8
+24/7: Ozark	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224314.m3u8
+24/7: Parking Wars	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224315.m3u8
+24/7: Peaky Blinders	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224316.m3u8
+24/7: Peep Show	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224317.m3u8
+24/7: People Magazine Investigates	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224318.m3u8
+24/7: Perfect Strangers	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224319.m3u8
+24/7: Peter Kay Stand Up	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224320.m3u8
+24/7: Peter Kay's Phoenix Nights	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224321.m3u8
+24/7: Petticoat Junction	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224322.m3u8
+24/7: Pit Bulls and Parolees	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224323.m3u8
+24/7: Poldark	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224324.m3u8
+24/7: Pool Kings	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224325.m3u8
+24/7: Popeye	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224326.m3u8
+24/7: Porridge	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224327.m3u8
+24/7: Power2	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224328.m3u8
+24/7: Prank Encounters	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224329.m3u8
+24/7: Pretty Hard Cases	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224330.m3u8
+24/7: Pretty Little Liars	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224331.m3u8
+24/7: Pretty Little Liars: Original Sin	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224332.m3u8
+24/7: Prison Break	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224333.m3u8
+24/7: Punk'd	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224334.m3u8
+24/7: Punky Brewster	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224335.m3u8
+24/7: Quantum Leap	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224336.m3u8
+24/7: Queen of the South	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224337.m3u8
+24/7: Ray Donovan	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224338.m3u8
+24/7: Red Dwarf	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224339.m3u8
+24/7: Reno 911!	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224340.m3u8
+24/7: Rescue 911	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224341.m3u8
+24/7: Rick And Morty	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224342.m3u8
+24/7: Ridiculousness	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224343.m3u8
+24/7: Rising Damp	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224344.m3u8
+24/7: Riverdale	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224345.m3u8
+24/7: Rizzoli & Isles	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224346.m3u8
+24/7: Robot Chicken	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224347.m3u8
+24/7: Roc	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224348.m3u8
+24/7: Rookie Blue	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224349.m3u8
+24/7: Roseanne	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224350.m3u8
+24/7: Run's House	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224351.m3u8
+24/7: Sabrina, the Teenage Witch	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224352.m3u8
+24/7: Saturday Night Live	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224353.m3u8
+24/7: Saved by the Bell	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224354.m3u8
+24/7: Say Yes to the Dress	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224355.m3u8
+24/7: Schitt's Creek	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224356.m3u8
+24/7: Scream Queens	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224357.m3u8
+24/7: Scrubs	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224358.m3u8
+24/7: SEAL Team	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224359.m3u8
+24/7: Secrets and Lies	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224360.m3u8
+24/7: Sex and the City	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224361.m3u8
+24/7: Sex In The City	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224362.m3u8
+24/7: Sgt Bilko	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224363.m3u8
+24/7: Shahs of Sunset	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224364.m3u8
+24/7: Shark Tank	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224365.m3u8
+24/7: Sherlock	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224366.m3u8
+24/7: Silicone Valley	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224367.m3u8
+24/7: Silver Spoons	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224368.m3u8
+24/7: Simpsons: Treehouse Of Horror	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224369.m3u8
+24/7: Sister Wives	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224370.m3u8
+24/7: Small Wonder	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224371.m3u8
+24/7: Smallville	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224372.m3u8
+24/7: Snowfall	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224373.m3u8
+24/7: Some Mothers Do Ave Em	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224374.m3u8
+24/7: Sons of Anarchy	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224375.m3u8
+24/7: South Park	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224376.m3u8
+24/7: Space: 1999	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224377.m3u8
+24/7: Spin City	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224378.m3u8
+24/7: Star Trek	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224379.m3u8
+24/7: Star Trek: Deep Space Nine	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224380.m3u8
+24/7: Star Trek: Discovery	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224381.m3u8
+24/7: Star Trek: Lower Decks	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224382.m3u8
+24/7: Star Trek: Picard	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224383.m3u8
+24/7: Star Trek: The Next Generation	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224384.m3u8
+24/7: Stargate SG-1	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224385.m3u8
+24/7: Station 19	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224386.m3u8
+24/7: Step by Step	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224387.m3u8
+24/7: Steptoe And Son	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224388.m3u8
+24/7: Stranger Things	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224389.m3u8
+24/7: Street Outlaws	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224390.m3u8
+24/7: Street Outlaws: No Prep Kings	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224391.m3u8
+24/7: Super Mario World	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224392.m3u8
+24/7: Super Why!	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224393.m3u8
+24/7: Supergirl	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224394.m3u8
+24/7: Superman: The Animated Series	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224395.m3u8
+24/7: Supernatural	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224396.m3u8
+24/7: Tacoma FD	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224397.m3u8
+24/7: Takeshi's Castle	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224398.m3u8
+24/7: Tales from the Crypt	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224399.m3u8
+24/7: Tanked	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224400.m3u8
+24/7: Taxi	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224401.m3u8
+24/7: Teen Mom 2	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224402.m3u8
+24/7: Teen Mom: Girls' Night In	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224403.m3u8
+24/7: Teen Mom: Young + Pregnant	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224404.m3u8
+24/7: That 70s Show	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224405.m3u8
+24/7: The A-Team	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224406.m3u8
+24/7: The Addams Family	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224407.m3u8
+24/7: The Andy Griffith Show	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224408.m3u8
+24/7: The Bernie Mac Show	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224409.m3u8
+24/7: The Beverly Hillbillies	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224410.m3u8
+24/7: The Big Bang Theory	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224411.m3u8
+24/7: The Big Family Cooking Showdown	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224412.m3u8
+24/7: The Blacklist	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224413.m3u8
+24/7: The Brady Bunch	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224414.m3u8
+24/7: The Carol Burnett Show	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224415.m3u8
+24/7: The Carol Burnett Show	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224416.m3u8
+24/7: The Circle	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224417.m3u8
+24/7: The Cleveland Show	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224418.m3u8
+24/7: The Cosby Show	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224419.m3u8
+24/7: The Courtship of Eddie's Father	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224420.m3u8
+24/7: The Drew Carey Show	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224421.m3u8
+24/7: The Facts of Life	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224422.m3u8
+24/7: The Family Chantel	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224423.m3u8
+24/7: The Flash	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224424.m3u8
+24/7: The Flintstones	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224425.m3u8
+24/7: The Fresh Prince of Bel-Air (1990)	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224426.m3u8
+24/7: The Girls Next Door	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224427.m3u8
+24/7: The Goldbergs	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224428.m3u8
+24/7: The Golden Girls	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224429.m3u8
+24/7: The Good Doctor	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224430.m3u8
+24/7: The Good Fight	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224431.m3u8
+24/7: The Good Place	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224432.m3u8
+24/7: The Great Food Truck Race	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224433.m3u8
+24/7: The Greatest American Hero	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224434.m3u8
+24/7: The Honeymooners	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224435.m3u8
+24/7: The Inbetweeners	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224436.m3u8
+24/7: The Incredible Dr. Pol	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224437.m3u8
+24/7: The IT Crowd	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224438.m3u8
+24/7: The Jamie Foxx Show	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224439.m3u8
+24/7: The Killing	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224440.m3u8
+24/7: The King of Queens	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224441.m3u8
+24/7: The Laurel & Hardy Show	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224442.m3u8
+24/7: The Likely Lads	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224443.m3u8
+24/7: The Little Mermaid Trilogy	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224444.m3u8
+24/7: The Love Boat	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224445.m3u8
+24/7: The Maury Show	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224446.m3u8
+24/7: The Monkees	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224447.m3u8
+24/7: The Munsters	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224448.m3u8
+24/7: The Nanny	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224449.m3u8
+24/7: The Office	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224450.m3u8
+24/7: The Office (UK)	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224451.m3u8
+24/7: The Office (USA)	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224452.m3u8
+24/7: The Office: Superfan Episodes	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224453.m3u8
+24/7: The Orville	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224454.m3u8
+24/7: The PJ's	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224455.m3u8
+24/7: The Practice	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224456.m3u8
+24/7: The Ranch	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224457.m3u8
+24/7: The Red Skelton Show	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224458.m3u8
+24/7: The Ren & Stimpy Show	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224459.m3u8
+24/7: The Rich & the Ruthless	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224460.m3u8
+24/7: The Rookie	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224461.m3u8
+24/7: The Royle Family	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224462.m3u8
+24/7: The Shield	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224463.m3u8
+24/7: The Six Million Dollar Man	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224464.m3u8
+24/7: The Smurfs	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224465.m3u8
+24/7: The Sopranos	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224466.m3u8
+24/7: The Sopranos	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224467.m3u8
+24/7: The Steve Wilkos Show	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224468.m3u8
+24/7: The Umbrella Academy	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224469.m3u8
+24/7: The Undoing	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224470.m3u8
+24/7: The Upshaws	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224471.m3u8
+24/7: The Vampire Diaries	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224472.m3u8
+24/7: The Vicar Of Dibley	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224473.m3u8
+24/7: The Walking Dead	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224474.m3u8
+24/7: The Watcher	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224475.m3u8
+24/7: The Wonder Years	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224476.m3u8
+24/7: The Wonder Years	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224477.m3u8
+24/7: The Wonderful World of Mickey Mouse	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224478.m3u8
+24/7: The X-Files	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224479.m3u8
+24/7: The Young Ones	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224480.m3u8
+24/7: This Is Life with Lisa Ling	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224481.m3u8
+24/7: This Is Us	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224482.m3u8
+24/7: Three's Company	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224483.m3u8
+24/7: Titans	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224484.m3u8
+24/7: Tom and Jerry Tales	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224485.m3u8
+24/7: Total Bellas	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224486.m3u8
+24/7: Total Divas	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224487.m3u8
+24/7: Trailer Park Boys	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224488.m3u8
+24/7: Travelers	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224489.m3u8
+24/7: True Blood	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224490.m3u8
+24/7: Two and a Half Men	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224491.m3u8
+24/7: Two Pints Of Lager And A Packet Of Crisps	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224492.m3u8
+24/7: Ugly Betty	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224493.m3u8
+24/7: UK Stand Up	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224494.m3u8
+24/7: Uncle Grandpa	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224495.m3u8
+24/7: Underworld Collection	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224496.m3u8
+24/7: Unsolved Mysteries w/ Robert Stack	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224497.m3u8
+24/7: US Stand Up	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224498.m3u8
+24/7: V	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224499.m3u8
+24/7: Vera	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224500.m3u8
+24/7: Very Scary People	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224501.m3u8
+24/7: Virgin River	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224502.m3u8
+24/7: Wahlburgers	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224503.m3u8
+24/7: Welcome to Plathville	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224504.m3u8
+24/7: What We Do in the Shadows	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224505.m3u8
+24/7: What's Happening!!	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224506.m3u8
+24/7: Who's the Boss?	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224507.m3u8
+24/7: Why Women Kill	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224508.m3u8
+24/7: Workin' Moms	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224509.m3u8
+24/7: X-Men	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224510.m3u8
+24/7: Y: The Last Man	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224511.m3u8
+24/7: Yes Minister/Prime Minister	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224512.m3u8
+24/7: Young Rock	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224513.m3u8
+24/7: Young Royals	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224514.m3u8
+24/7: Young Sheldon	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224515.m3u8
+24/7: Younger	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224516.m3u8
+24/7: A Charlie Brown Christmas (1965)	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224517.m3u8
+24/7: A Pentatonix Christmas Special	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224518.m3u8
+24/7: Christmas	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224519.m3u8
+24/7: Christmas Carol (2009)	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224520.m3u8
+24/7: Christmas Cartoons	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224521.m3u8
+24/7: Ernest Saves Christmas	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224522.m3u8
+24/7: Fireplace	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224523.m3u8
+24/7: How The Grinch Stole Christmas (2009)	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224524.m3u8
+24/7: The Polar Express	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224525.m3u8
+24/7: A Football Life	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224526.m3u8
+24/7: A House Divided	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224527.m3u8
+24/7: A Quiet Place I & II	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224528.m3u8
+24/7: All the Same… or Not	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224529.m3u8
+24/7: American Pie	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224530.m3u8
+24/7: And Just Like That…	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224531.m3u8
+24/7: Austin Powers Trilogy	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224532.m3u8
+24/7: Avatar: The Last Airbender	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224533.m3u8
+24/7: Back to the Future Trilogy	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224534.m3u8
+24/7: Bad Boys Trilogy	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224535.m3u8
+24/7: Bad Vegan: Fame. Fraud. Fugitives.	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224536.m3u8
+24/7: Band of Brothers	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224537.m3u8
+24/7: Beverly Hills Cop	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224538.m3u8
+24/7: Big Momma's House	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224539.m3u8
+24/7: Big Sky	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224540.m3u8
+24/7: Black Butterflies	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224541.m3u8
+24/7: Black Lightning	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224542.m3u8
+24/7: Blade Trilogy	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224543.m3u8
+24/7: Bosch	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224544.m3u8
+24/7: Burn Notice	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224545.m3u8
+24/7: Cars	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224546.m3u8
+24/7: Cartel Crew	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224547.m3u8
+24/7: Child's Play	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224548.m3u8
+24/7: Christmas with the Kranks	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224549.m3u8
+24/7: Chucky	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224550.m3u8
+24/7: Comedy	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224551.m3u8
+24/7: Crank Yankers	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224552.m3u8
+24/7: Dark Angel	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224553.m3u8
+24/7: Dead to Me	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224554.m3u8
+24/7: Deadly Women	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224555.m3u8
+24/7: Deuce Bigalow	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224556.m3u8
+24/7: Diary of a Wimpy Kid	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224557.m3u8
+24/7: Drumline	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224558.m3u8
+24/7: Easy (2016)	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224559.m3u8
+24/7: Elf	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224560.m3u8
+24/7: Evil Lives Here	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224561.m3u8
+24/7: Evil Lives Here: Shadows Of Death	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224562.m3u8
+24/7: F is for Family	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224563.m3u8
+24/7: Fantastic Four	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224564.m3u8
+24/7: Fast & Furious	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224565.m3u8
+24/7: John Wick	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224566.m3u8
+24/7: Jumanji	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224567.m3u8
+24/7: Jurassic Park	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224568.m3u8
+24/7: Legacy: The True Story of the LA Lakers	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224569.m3u8
+24/7: Locke & Key	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224570.m3u8
+24/7: Lord of the Rings (Extended Edition)	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224571.m3u8
+24/7: Love	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224572.m3u8
+24/7: Love in the Jungle	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224573.m3u8
+24/7: Mama June: From Not to Hot	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224574.m3u8
+24/7: Marvel Collection	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224575.m3u8
+24/7: Marvel's Hit-Monkey	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224576.m3u8
+24/7: Marvel's Luke Cage	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224577.m3u8
+24/7: Marvel's Spidey and His Amazing Friends	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224578.m3u8
+24/7: Marvel's The Punisher	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224579.m3u8
+24/7: Masters of the Universe: Revelation	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224580.m3u8
+24/7: Maverick Black Cinema	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224581.m3u8
+24/7: Max Headroom	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224582.m3u8
+24/7: Mayor of Kingstown	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224583.m3u8
+24/7: Menace II Society	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224584.m3u8
+24/7: Money Heist	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224585.m3u8
+24/7: Mortal Kombat	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224586.m3u8
+24/7: My Next Guest Needs No Introduction With David Letterman	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224587.m3u8
+24/7: National Lampoons	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224588.m3u8
+24/7: P-Valley	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224589.m3u8
+24/7: Parker Lewis Can't Lose	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224590.m3u8
+24/7: Paul Blart	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224591.m3u8
+24/7: Pirates of the Caribbean	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224592.m3u8
+24/7: Power	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224593.m3u8
+24/7: Power Book II: Ghost	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224594.m3u8
+24/7: Power Book IV: Force	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224595.m3u8
+24/7: Predator	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224596.m3u8
+24/7: Primal	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224597.m3u8
+24/7: Private Practice	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224598.m3u8
+24/7: Puppy Dog Pals	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224599.m3u8
+24/7: Raised by Wolves	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224600.m3u8
+24/7: Rambo	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224601.m3u8
+24/7: Rebel	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224602.m3u8
+24/7: Resident Alien	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224603.m3u8
+24/7: Rhythm + Flow	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224604.m3u8
+24/7: RoboCop	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224605.m3u8
+24/7: Rocky	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224606.m3u8
+24/7: Saints & Sinners	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224607.m3u8
+24/7: Saving Private Ryan (UHD)	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224608.m3u8
+24/7: Scary Movie	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224609.m3u8
+24/7: Sex Education	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224610.m3u8
+24/7: Siesta Key	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224611.m3u8
+24/7: Sister, Sister	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224612.m3u8
+24/7: Smokey and the Bandit	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224613.m3u8
+24/7: Space Jam	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224614.m3u8
+24/7: Species Movies	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224615.m3u8
+24/7: Spiderman Movies	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224616.m3u8
+24/7: Squidbillies	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224617.m3u8
+24/7: Star Wars	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224618.m3u8
+24/7: Star Wars Rebels	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224619.m3u8
+24/7: Star Wars: The Clone Wars	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224620.m3u8
+24/7: Super Troopers	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224621.m3u8
+24/7: Survivor's Remorse	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224622.m3u8
+24/7: Terminator Movies	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224623.m3u8
+24/7: The Best of All the Smoke with Matt Barnes and Stephen Jackson	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224624.m3u8
+24/7: The Book of Boba Fett	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224625.m3u8
+24/7: The Crow	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224626.m3u8
+24/7: The Equalizer	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224627.m3u8
+24/7: The Flash	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224628.m3u8
+24/7: The Flight Attendant	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224629.m3u8
+24/7: The Fly	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224630.m3u8
+24/7: The Gilded Age	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224631.m3u8
+24/7: The Head	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224632.m3u8
+24/7: The Last Kingdom	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224633.m3u8
+24/7: The Last O.G.	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224634.m3u8
+24/7: The Legend of Korra	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224635.m3u8
+24/7: The Marvelous Mrs. Maisel	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224636.m3u8
+24/7: The Matrix	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224637.m3u8
+24/7: The Mummy Collection	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224638.m3u8
+24/7: The Neverending Story	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224639.m3u8
+24/7: The Nutty Professor	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224640.m3u8
+24/7: The Nutty Professor (1963)	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224641.m3u8
+24/7: The Three Stooges Collection	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224642.m3u8
+24/7: Tom Clancy's Jack Ryan	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224643.m3u8
+24/7: Transformers	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224644.m3u8
+24/7: Transporter	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224645.m3u8
+24/7: Trolls Movies	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224646.m3u8
+24/7: Wayne's World	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224647.m3u8
+24/7: Wolverine	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224648.m3u8
+24/7: Young Guns	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224649.m3u8
+24/7: A Nightmare On Elm Street	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224650.m3u8
+24/7: Action Movies	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224651.m3u8
+24/7: Back To The Future	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224652.m3u8
+24/7: Bruce Lee	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224653.m3u8
+24/7: Crime Movies	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224654.m3u8
+24/7: Film Noir	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224655.m3u8
+24/7: Friday The 13th	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224656.m3u8
+24/7: Halloween	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224657.m3u8
+24/7: Hitchcock	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224658.m3u8
+24/7: Horror	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224659.m3u8
+24/7: James Bond	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224660.m3u8
+24/7: James Bond2	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224661.m3u8
+24/7: Jason Bourne	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224662.m3u8
+24/7: Matrix	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224663.m3u8
+24/7: Pirates Of The Carribbean	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224664.m3u8
+24/7: Planet Of The Apes	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224665.m3u8
+24/7: Schwarzenegger	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224666.m3u8
+24/7: Scifi Movies	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224667.m3u8
+24/7: Star Trek Movies	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224668.m3u8
+24/7: Star Wars	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224669.m3u8
+24/7: Superhero Movies	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224670.m3u8
+24/7: Thriller Movies	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224671.m3u8
+24/7: Underworld	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224672.m3u8
+24/7: Van Damme	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224673.m3u8
+24/7: Rush Hour Trilogy	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224674.m3u8
+24/7: Faces of Death	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224675.m3u8
+24/7: Aaahh!!! Real Monsters	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224676.m3u8
+24/7: Atypical	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224677.m3u8
+24/7: Bear in the Big Blue House	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224678.m3u8
+24/7: Bigger	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224679.m3u8
+24/7: Biker Mice from Mars	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224680.m3u8
+24/7: Butterbean's Café	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224681.m3u8
+24/7: Chip 'n' Dale Rescue Rangers	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224682.m3u8
+24/7: Danger Mouse (1981)	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224683.m3u8
+24/7: Dennis the Menace	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224684.m3u8
+24/7: Dinosaurs	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224685.m3u8
+24/7: Disney Movies	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224686.m3u8
+24/7: Disney's Adventures of the Gummi Bears	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224687.m3u8
+24/7: Dragon Ball Super	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224688.m3u8
+24/7: Dragons: Race to the Edge	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224689.m3u8
+24/7: Duck Dodgers	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224690.m3u8
+24/7: DuckTales	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224691.m3u8
+24/7: Garfield and Friends	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224692.m3u8
+24/7: Grizzy & the Lemmings	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224693.m3u8
+24/7: Handy Manny	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224694.m3u8
+24/7: Harvey Birdman, Attorney at Law	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224695.m3u8
+24/7: Hey Arnold!	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224696.m3u8
+24/7: iCarly	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224697.m3u8
+24/7: Inspector Gadget	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224698.m3u8
+24/7: Inspector Gadget	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224699.m3u8
+24/7: Jake and the Never Land Pirates	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224700.m3u8
+24/7: Johnny Test	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224701.m3u8
+24/7: Loo Loo Kids Johny & Friends Musical Adventure	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224702.m3u8
+24/7: Looney Tunes	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224703.m3u8
+24/7: Mickey and the Roadster Racers	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224704.m3u8
+24/7: Mickey Mouse Clubhouse	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224705.m3u8
+24/7: Motown Magic	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224706.m3u8
+24/7: Muppet Babies	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224707.m3u8
+24/7: Octonauts	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224708.m3u8
+24/7: Paradise PD	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224709.m3u8
+24/7: PAW Patrol	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224710.m3u8
+24/7: Pinky and the Brain	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224711.m3u8
+24/7: PJ Masks	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224712.m3u8
+24/7: Reading Rainbow	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224713.m3u8
+24/7: Rugrats	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224714.m3u8
+24/7: Scooby-Doo! Mystery Incorporated	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224715.m3u8
+24/7: Scooby-Doo, Where Are You?	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224716.m3u8
+24/7: Special Agent Oso	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224717.m3u8
+24/7: Spider-Man: The New Animated Series	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224718.m3u8
+24/7: Super Friends	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224719.m3u8
+24/7: SWAT Kats: The Radical Squadron	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224720.m3u8
+24/7: T.O.T.S.	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224721.m3u8
+24/7: TaleSpin	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224722.m3u8
+24/7: The Adventures of Rocky and Bullwinkle	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224723.m3u8
+24/7: The Adventures of Super Mario Bros. 3	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224724.m3u8
+24/7: The Fairly OddParents	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224725.m3u8
+24/7: The Incredibles	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224726.m3u8
+24/7: The Jetsons	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224727.m3u8
+24/7: The Little Mermaid	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224728.m3u8
+24/7: The Loud House	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224729.m3u8
+24/7: The Super Mario Bros. Super Show!	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224730.m3u8
+24/7: The Sylvester & Tweety Mysteries	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224731.m3u8
+24/7: Trolls: The Beat Goes On!	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224732.m3u8
+24/7: Trolls: TrollsTopia	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224733.m3u8
+24/7: Ultimate Spider-Man	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224734.m3u8
+24/7: Vampirina	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224735.m3u8
+24/7: Wacky Races	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224736.m3u8
+24/7: Asterix	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224737.m3u8
+24/7: Batman Brave And The Bold	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224738.m3u8
+24/7: Batman The Animated Series	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224739.m3u8
+24/7: Ben 10	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224740.m3u8
+24/7: Ben And Holly	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224741.m3u8
+24/7: Despicable Me	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224742.m3u8
+24/7: Disney Movies 2	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224743.m3u8
+24/7: Disney Movies 3	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224744.m3u8
+24/7: Doc Mcstuffins	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224745.m3u8
+24/7: Doc Mcstuffins	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224746.m3u8
+24/7: Doc Mcstuffins	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224747.m3u8
+24/7: Dora The Explorer	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224748.m3u8
+24/7: Dr Seuss	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224749.m3u8
+24/7: Dragonball Z	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224750.m3u8
+24/7: Drake And Josh	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224751.m3u8
+24/7: Dreamworks Animation	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224752.m3u8
+24/7: Fairly Odd Parents	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224753.m3u8
+24/7: Fancy Nancy	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224754.m3u8
+24/7: Fireman Sam	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224755.m3u8
+24/7: Gravity Falls	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224756.m3u8
+24/7: In The Night Garden	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224757.m3u8
+24/7: Johnny Bravo	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224758.m3u8
+24/7: Lego Movies	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224759.m3u8
+24/7: Lego Star Wars	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224760.m3u8
+24/7: Milly And Molly	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224761.m3u8
+24/7: Mr Bean Animated	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224762.m3u8
+24/7: Peppa Pig	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224763.m3u8
+24/7: Pokemon	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224764.m3u8
+24/7: Powerpuff Girls	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224765.m3u8
+24/7: Scooby Doo	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224766.m3u8
+24/7: Shaun The Sheep	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224767.m3u8
+24/7: Sofia The First	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224768.m3u8
+24/7: Spongebob Squarepants	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224769.m3u8
+24/7: Steven Universe	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224770.m3u8
+24/7: Teen Titans Go	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224771.m3u8
+24/7: The Batman	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224772.m3u8
+24/7: The Regular Show	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224773.m3u8
+24/7: The Spectacular Spiderman	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224774.m3u8
+24/7: Tom And Jerry	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224775.m3u8
+24/7: Top Cat	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224776.m3u8
+24/7: X-Men Cartoon	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224777.m3u8
+24/7: VEGGIETALES	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224778.m3u8
+24/7: Clifford the Big Red Dog	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224779.m3u8
+24/7: Halloween Movies	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224780.m3u8
+24/7: Doctor Who	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224781.m3u8
+24/7: CHiPs	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224782.m3u8
+24/7: Jessie	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224783.m3u8
+24/7: Phineas and Ferb	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224784.m3u8
+24/7 Star Trek: Voyager	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224785.m3u8
+24/7 Star Trek: Enterprise	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224786.m3u8
+24/7 Disney Gallery / Star Wars: The Mandalorian	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224787.m3u8
+24/7 Star Trek: Lower Decks	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224788.m3u8
+24/7 Star Trek: Prodigy	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224789.m3u8
+24/7 Star vs. the Forces of Evil	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224790.m3u8
+24/7 Star Wars Rebels	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224791.m3u8
+24/7 Star Wars: The Clone Wars	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224792.m3u8
+24/7 MacGyver	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224793.m3u8
+24/7 The Hangover	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/224794.m3u8
+24/7 OMAR AND HANNAH	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/243130.m3u8
+24/7 COCOMELON	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/243131.m3u8
+24/7 PAW PATROL	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/243132.m3u8
+24/7 BLUEY	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/243133.m3u8
+24/7 ANGRY BIRDS	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/243134.m3u8
+24/7 BABY SHARK	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/243135.m3u8
+24/7 BUGS BUNNY	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/243136.m3u8
+24/7 FLINTSTONES	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/243137.m3u8
+24/7 JOHNNY BRAVO	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/243138.m3u8
+24/7 MICKEY MOUSE CLUB HOUSE	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/243139.m3u8
+24/7 MIRA THE ROYAL DETECTIVE	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/243140.m3u8
+24/7 PEPPA PIG	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/243141.m3u8
+24/7 PINK PANTHER	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/243142.m3u8
+24/7 SONIC	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/243143.m3u8
+24/7 SPONGEBOB SQUARE PANTS	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/243144.m3u8
+24/7 THOMAS THE TRAIN	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/243145.m3u8
+24/7 TOM AND JERRY	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/243146.m3u8
+24/7 BLIPPI	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/243147.m3u8
+24/7 CURIOUS GEORGE	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/243148.m3u8
+24/7 LOONEY TUNES	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/243149.m3u8
+24/7 ODDBODS	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/243150.m3u8
+24/7 PJ MASK	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/243151.m3u8
+24/7 BUBBLE GUPPIES	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/243152.m3u8
+24/7 JETSONS	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/243153.m3u8
+24/7 Movies: 4K_movies_2022_2021_vol_2	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/121296.m3u8
+24/7 Movies: 4K_movies_2022_2021_vol_1	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/121297.m3u8
+24/7 Movies: Netflix_Action_Vol_6	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/121302.m3u8
+24/7 Movies: Netflix_Action_Vol_5	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/121303.m3u8
+Movies: Fast & Furious 24/7	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/121305.m3u8
+24/7 Movies: Netflix_Action_Vol_4	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/121308.m3u8
+24/7 Movies: Netflix_Action_Vol_3	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/121309.m3u8
+24/7 Movies: Netflix_Action_Vol_2	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/121310.m3u8
+24/7 Movies: Netflix_Action_Vol_1	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/121312.m3u8
+24/7 Movies: Fast and Furious Collection	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/121319.m3u8
+24/7 Series: The Witcher	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/121320.m3u8
+24/7 Series: Breaking Bad	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/121321.m3u8
+24/7 Series: Band Of Brothers	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/121322.m3u8
+24/7 Series: King Of Queens Seasons 1-5	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/121323.m3u8
+24/7 Series: King Of Queens Seasons 6-9	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/121324.m3u8
+24/7 Series: El Chapo	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/121325.m3u8
+24/7 Series: Money Heist	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/121326.m3u8
+24/7 Series: Narcos	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/121327.m3u8
+24/7 Series: Man Vs Bee	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/121331.m3u8
+24/7 Series: Money Heist	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/121332.m3u8
+24/7 Series: Money Heist  Korea	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/121333.m3u8
+24/7 Series: Squid Game	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/121334.m3u8
+24/7 Series: Viking Season 1-4	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/121341.m3u8
+24/7 Series: Viking Season 5-6	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/121342.m3u8
+24/7 Movies: Cyborg  + Blade	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/121344.m3u8
+24/7 Movies: Jeepers_creepes + Scream	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/121345.m3u8
+24/7 Movies: Jurassic World Colletion	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/121346.m3u8
+24/7 Movies: Oceans Complete Collection	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/121347.m3u8
+24/7 Movies: Rambo_collection	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/121348.m3u8
+24/7 Movies: Halloween + Jaws.	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/121366.m3u8
+24/7 Movies: John_wick+MiiB+Mortal_kombat	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/121367.m3u8
+24/7 Series: The Wire	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/121369.m3u8
+24/7 Movies: Bruce_lee+Underworld+godfather	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/121370.m3u8
+24/7 4k: 4K_movies_2022_2021_vol_3	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/121371.m3u8
+KIDS: Sonic 24/7	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/121290.m3u8
+24/7: Kids BooBa	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/121314.m3u8
+24/7 Kids: Rick And Morty	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/121329.m3u8
+24/7 Kids: Masha and the Bear	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/121337.m3u8
+24/7 Kids: Little Baby Bum	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/121339.m3u8
+24/7 Kids: The Boss Baby_ Back in Business	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/121340.m3u8
+24/7 Kids: Peppa Pig	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/121343.m3u8
+24/7 Kids: Blippi	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/121368.m3u8
+24/7 Kids: Kids: Gabby_s Dollhouse	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/121376.m3u8
+24/7 Doc: Our_Planet_&_Animal	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/121317.m3u8
+24/7 Doc: Cutest Animals_Dangerous Animals_ Asia_&_ Latin America	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/121318.m3u8
+24/7 Doc: Planet_earth_Season_1_&_2	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/121328.m3u8
+24/7 Doc: Absurd Planet_Night on Earth_Our Great National Parks	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/121338.m3u8
