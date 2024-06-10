@@ -1,1332 +1,1332 @@
-ID  Indosiar&&01`00c350972.m3u8
-ID  Moji&&01`00c350997.m3u8
-ID  RCTI&&01`00c351023.m3u8
-ID  SCTV&&01`00c351030.m3u8
-ID  Sport 1&&01`00c350993.m3u8
-ID  SpoTV 1&&01`00c351034.m3u8
-ID  SpoTV 2&&01`00c351035.m3u8
-ID  Usee Sport 1&&01`00c351056.m3u8
-ID  Usee Sport 2&&01`00c351057.m3u8
-ID  TVRI Sport&&01`00c351052.m3u8
-ID  INews&&01`00c350973.m3u8
-ID  Net&&01`00c351010.m3u8
-UK  English Club TVᴴᴰ 🇬🇧&&http://iptv.prosto.tv:7000/ch206/video.m3u8
-UK  Mr. Bean&&http://51.159.104.29:8080/mrbean/index.m3u8
-AR  Fox Kids&&http://stmv1.srvif.com/emlsilva/emlsilva/playlist.m3u8
-AR  Urban Kids&&http://200.194.238.229:8383/live/urbankids/playlist.m3u8
-MX  DreamWorks sᴅ 🇲🇽&&http://45.189.148.24:8000/play/a00m/index.m3u8
-US  Duck TV&&http://iptv.prosto.tv:7000/ch209/video.m3u8
-US  GameToonᴴᴰ 🇺🇸&&http://iptv.prosto.tv:7000/ch256/video.m3u8
-24h News FHD&&http://cdn.connectbr.com.br/24_news/index.m3u8
-AE  Dubai TV&&http://210.210.155.35/uq2663/h/h152/index2.m3u8
-BR  Discovery Turboᴴᴰ 🇧🇷&&http://170.82.200.35/discovery_turbo/tracks-v1a1/mono.m3u8
-BR  TVE 🇧🇷&&http://streaming.procergs.com.br:1935/tve/stve/chunklist.m3u8
-CH  My Cinema Europe&&http://210.210.155.35/uq2663/h/h18/index.m3u8
-CN  Discovery Asiaᴴᴰ 🇺🇸🇨🇳&&http://198.16.100.90:8278/discoverytwn_twn/playlist.m3u8?tid=MB1B4014431840144318&ct=19254&tsum=a72e8caa6986ef92c4d6cb743e22a78f
-EC  Goltv 🇪🇨&&http://157.245.117.238:8000/play/a0ur/index.m3u8
-ES  Galicia Americaᴴᴰ 🇪🇸&&http://america-crtvg.flumotion.com/crtvg/america_high/chunks.m3u8
-ES  Galicia Europaᴴᴰ 🇪🇸&&http://europa-crtvg.flumotion.com/crtvg/europa_high/chunks.m3u8
-ES  TVE Internacional Asia-Oceania&&http://210.210.155.35/uq2663/h/h158/index2.m3u8
-FR  InfoSport 🇫🇷&&http://212.102.60.80/Infosport/index.m3u8
-FR  TF1 🇫🇷&&http://212.102.60.80/TF1/index.m3u8
-FR  TF1 🇫🇷&&http://45.153.35.210:8000/play/FR_tf1_HD/index.m3u8
-HK  Phoenix Chinese&&http://210.210.155.35/uq2663/h/h157/index2.m3u8
-MX  ESPN 4 sᴅ 🇲🇽&&http://168.227.22.18:1935/live/mobile-205/playlist.m3u8
-MX  Fox Sport 3 🇲🇽&&http://stream.flynetwifi.com:1935/live/mobile-108/playlist.m3u8
-PE  ESPN 4 🇵🇪&&http://bantel.iptvperu.tv:1935/transcoderip/espnextrabk_t2.stream/playlist.m3u8
-RU  CHD TV Rock 🇷🇺&&http://194.26.229.213/chdtv_rock/index.m3u8
-SG  Motorsports&&http://210.210.155.35/uq2663/h/h09/index.m3u8
-TR  Türkmenistan Sport 🇹🇷 sᴅ&&http://217.174.225.146/hls/ch004_720/index.m3u8
-UA  Freedom&&http://210.210.155.35/uq2663/h/h101/index.m3u8
-UK  Arena Premium Liga 🇬🇧ᴴᴰ&&http://91.132.74.4:7374/play/a00k/index.m3u8
-UK  Automoto 🇬🇧&&http://100automoto.tv:1935/bgtv1/autotv/chunklist_w783411174.m3u8
-UK  BBC First 🇬🇧🇵🇱&&http://124.29.225.205:8000/play/a05f/index.m3u8
-UK  BBC News 🇬🇧&&http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/545/19176/index.m3u8
-US&Flix&&http://89.187.177.137:8081/%26FLIX/index.m3u8
-US&Prive&&http://89.187.177.137:8081/%26PRIVE/index.m3u8
-US  Bosi Golf 🇨🇳&&http://198.16.100.90:8278/bosigolf1_twn/playlist.m3u8?tid=MD5D3832704238327042&ct=18393&tsum=cbf3bf749c9b0bf4828ab19efff1c5b0
-US  CineMaxᴴᴰ 🇺🇸&&http://170.254.18.106/CINEMAX/index.m3u8
-US  DW 🇺🇸&&http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDIxIDEyOjQ3OjU3IFBNJmhhc2hfdmFsdWU9ZkJ0QTd3enJhWUtYSGsrZHFieUZodz09JnZhbGlkbWludXRlcz00ODA=
-US  HBO 2 🇺🇸🇮🇳&&http://170.254.18.106/HBO2/index.m3u8
-US  HBO Mundi 🇺🇸🇮🇳&&http://170.254.18.106/HBO_MUNDI/index.m3u8
-US  MTV 90s&&http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch241)/index.m3u8
-US  One Golf 🇺🇸&&http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8
-US  Red Bull TVᴴᴰ 🇺🇸&&http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-US  Toonami AfterMath East&&http://api.toonamiaftermath.com:3000/est/playlist.m3u8
-US  Trips Marterᴴᴰ 🇺🇸&&http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist.m3u8
-US  W Sport&&http://210.210.155.35/uq2663/h/h26/index.m3u8
-eSports Max&&http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
-Eurosport 1 🇵🇱🇺🇸ᴴᴰ&&http://54.39.17.6:8080/eurosport/playlist.m3u8
-A&E&&http://168.227.22.18:1935/live/mobile-158/playlist.m3u8
-A3 Cine&&http://168.227.22.18:1935/live/mobile-028/playlist.m3u8
-A3 Series Int&&http://168.227.22.18:1935/live/mobile-047/playlist.m3u8
-AMC&&http://168.227.22.18:1935/live/mobile-079/playlist.m3u8
-Animal Planet&&http://168.227.22.18:1935/live/mobile-068/playlist.m3u8
-Antena 3 Int&&http://168.227.22.18:1935/live/mobile-008/playlist.m3u8
-AXN&&http://168.227.22.18:1935/live/mobile-048/playlist.m3u8
-Azteca Int&&http://168.227.22.18:1935/live/mobile-117/playlist.m3u8
-Baby TV&&http://168.227.22.18:1935/live/mobile-060/playlist.m3u8
-C10&&http://168.227.22.18:1935/live/mobile-037/playlist.m3u8
-Canal 11&&http://168.227.22.18:1935/live/mobile-132/playlist.m3u8
-Canal 12 SV&&http://168.227.22.18:1935/live/mobile-082/playlist.m3u8
-Canal 2&&http://168.227.22.18:1935/live/mobile-110/playlist.m3u8
-Canal 21&&http://168.227.22.18:1935/live/mobile-049/playlist.m3u8
-Canal 3&&http://168.227.22.18:1935/live/mobile-114/playlist.m3u8
-Canal 7&&http://168.227.22.18:1935/live/mobile-131/playlist.m3u8
-Canal D&&http://168.227.22.18:1935/live/mobile-097/playlist.m3u8
-Canal Movie&&http://168.227.22.18:1935/live/mobile-115/playlist.m3u8
-Canal TRV&&http://168.227.22.18:1935/live/mobile-150/playlist.m3u8
-Cartoon Network&&http://168.227.22.18:1935/live/mobile-029/playlist.m3u8
-Cartoonito&&http://168.227.22.18:1935/live/mobile-055/playlist.m3u8
-Classic Cinema&&http://168.227.22.18:1935/live/mobile-120/playlist.m3u8
-Cli&&http://168.227.22.18:1935/live/mobile-119/playlist.m3u8
-CNBC&&http://168.227.22.18:1935/live/mobile-098/playlist.m3u8
-CNN&&http://168.227.22.18:1935/live/mobile-061/playlist.m3u8
-Comedy Central&&http://168.227.22.18:1935/live/mobile-001/playlist.m3u8
-Corazon&&http://168.227.22.18:1935/live/mobile-118/playlist.m3u8
-Disc Turbo&&http://168.227.22.18:1935/live/mobile-109/playlist.m3u8
-Discovery&&http://168.227.22.18:1935/live/mobile-006/playlist.m3u8
-Dreamworks&&http://168.227.22.18:1935/live/mobile-099/playlist.m3u8
-E!&&http://168.227.22.18:1935/live/mobile-156/playlist.m3u8
-ENI&&http://168.227.22.18:1935/live/mobile-067/playlist.m3u8
-ES NE&&http://168.227.22.18:1935/live/mobile-124/playlist.m3u8
-ESPN 1 MX&&http://168.227.22.18:1935/live/mobile-032/playlist.m3u8
-ESPN 2 MX&&http://168.227.22.18:1935/live/mobile-033/playlist.m3u8
-ESPN 3 MX&&http://168.227.22.18:1935/live/mobile-121/playlist.m3u8
-Film & Arts&&http://168.227.22.18:1935/live/mobile-142/playlist.m3u8
-Fox Deportes&&http://168.227.22.18:1935/live/mobile-104/playlist.m3u8
-Fox Sports 1 MX&&http://168.227.22.18:1935/live/mobile-010/playlist.m3u8
-Fox Sports 2 MX&&http://168.227.22.18:1935/live/mobile-031/playlist.m3u8
-Fox Sports 3 MX&&http://168.227.22.18:1935/live/mobile-108/playlist.m3u8
-Frente A Frente&&http://168.227.22.18:1935/live/mobile-111/playlist.m3u8
-FX&&http://168.227.22.18:1935/live/mobile-123/playlist.m3u8
-Golden&&http://168.227.22.18:1935/live/mobile-141/playlist.m3u8
-Guate Vision&&http://168.227.22.18:1935/live/mobile-149/playlist.m3u8
-H&H&&http://168.227.22.18:1935/live/mobile-107/playlist.m3u8
-HBO 2&&http://168.227.22.18:1935/live/mobile-094/playlist.m3u8
-Hinspan TV&&http://168.227.22.18:1935/live/mobile-147/playlist.m3u8
-History&&http://168.227.22.18:1935/live/mobile-058/playlist.m3u8
-History 2&&http://168.227.22.18:1935/live/mobile-157/playlist.m3u8
-Hola TV&&http://168.227.22.18:1935/live/mobile-013/playlist.m3u8
-IVC&&http://168.227.22.18:1935/live/mobile-153/playlist.m3u8
-LaLiga TV&&http://168.227.22.18:1935/live/mobile-017/playlist.m3u8
-Lifetime&&http://168.227.22.18:1935/live/mobile-154/playlist.m3u8
-Mas CHiC&&http://168.227.22.18:1935/live/mobile-146/playlist.m3u8
-MC&&http://168.227.22.18:1935/live/mobile-044/playlist.m3u8
-Modo Cine&&http://168.227.22.18:1935/live/mobile-140/playlist.m3u8
-MTV&&http://168.227.22.18:1935/live/mobile-063/playlist.m3u8
-MultiPremier&&http://168.227.22.18:1935/live/mobile-021/playlist.m3u8
-National Geographic&&http://168.227.22.18:1935/live/mobile-091/playlist.m3u8
-Nick&&http://168.227.22.18:1935/live/mobile-112/playlist.m3u8
-Nick Jr&&http://168.227.22.18:1935/live/mobile-011/playlist.m3u8
-Nick Music&&http://168.227.22.18:1935/live/mobile-039/playlist.m3u8
-Paramount&&http://168.227.22.18:1935/live/mobile-004/playlist.m3u8
-Pasiones&&http://168.227.22.18:1935/live/mobile-014/playlist.m3u8
-RCN Int&&http://168.227.22.18:1935/live/mobile-072/playlist.m3u8
-RCN Novelas&&http://168.227.22.18:1935/live/mobile-066/playlist.m3u8
-RTVE.ES&&http://168.227.22.18:1935/live/mobile-100/playlist.m3u8
-Russia Today&&http://168.227.22.18:1935/live/mobile-009/playlist.m3u8
-Sony Channel&&http://168.227.22.18:1935/live/mobile-035/playlist.m3u8
-Sony Movies&&http://168.227.22.18:1935/live/mobile-034/playlist.m3u8
-Space&&http://168.227.22.18:1935/live/mobile-003/playlist.m3u8
-Star Channel&&http://168.227.22.18:1935/live/mobile-057/playlist.m3u8
-Star TVE&&http://168.227.22.18:1935/live/mobile-129/playlist.m3u8
-Starz&&http://168.227.22.18:1935/live/mobile-015/playlist.m3u8
-Studio Universal&&http://168.227.22.18:1935/live/mobile-026/playlist.m3u8
-SYFY USA&&http://168.227.22.18:1935/live/mobile-059/playlist.m3u8
-TCS+&&http://168.227.22.18:1935/live/mobile-135/playlist.m3u8
-Telemundo&&http://168.227.22.18:1935/live/mobile-040/playlist.m3u8
-Telemundo Int&&http://168.227.22.18:1935/live/mobile-152/playlist.m3u8
-Telesur&&http://168.227.22.18:1935/live/mobile-116/playlist.m3u8
-TN 23&&http://168.227.22.18:1935/live/mobile-130/playlist.m3u8
-TNT&&http://168.227.22.18:1935/live/mobile-074/playlist.m3u8
-TNT Series&&http://168.227.22.18:1935/live/mobile-046/playlist.m3u8
-TNT Sports CH&&http://168.227.22.18:1935/live/mobile-143/playlist.m3u8
-Tooncast&&http://168.227.22.18:1935/live/mobile-002/playlist.m3u8
-TV Azteca Guate&&http://168.227.22.18:1935/live/mobile-148/playlist.m3u8
-TVE&&http://168.227.22.18:1935/live/mobile-128/playlist.m3u8
-TVO&&http://168.227.22.18:1935/live/mobile-071/playlist.m3u8
-TVU El Savador&&http://168.227.22.18:1935/live/mobile-113/playlist.m3u8
-TyC Sports&&http://168.227.22.18:1935/live/mobile-005/playlist.m3u8
-Universal TV&&http://168.227.22.18:1935/live/mobile-064/playlist.m3u8
-Universo&&http://168.227.22.18:1935/live/mobile-065/playlist.m3u8
-Univision&&http://168.227.22.18:1935/live/mobile-045/playlist.m3u8
-Univision 4&&http://168.227.22.18:1935/live/mobile-036/playlist.m3u8
-WB TV&&http://168.227.22.18:1935/live/mobile-030/playlist.m3u8
-Win+&&http://168.227.22.18:1935/live/mobile-062/playlist.m3u8
-ZooMoo&&http://168.227.22.18:1935/live/mobile-069/playlist.m3u8
-ID  Bandung TV&&http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
-ID  Batu TV&&http://117.103.69.219:8080/live/streaming/index.m3u8
-ID  BNTV&&http://210.210.155.35/uq2663/h/h39/index.m3u8
-ID  DFC Dens Food Channel&&http://210.210.155.35/x6bnqe/s/s50/live.m3u8
-ID  Jek TV&&http://61.8.64.138:1935/jektv/myStream/playlist.m3u8
-ID  Jogja Istimewa TV&&http://103.255.15.222:1935/tv/jitv/playlist.m3u8
-ID  Magna Channel&&http://210.210.155.35/uq2663/h/h24/index.m3u8
-ID  Metro Globe Network&&http://210.210.155.35/uq2663/h/h35/index.m3u8
-ID  Radar Tasikmalaya TV&&http://103.140.188.211:1935/radartv/myStream/playlist.m3u8
-ID  Tegar TV Lampung&&http://wms.klikhost.com:1935/tegartv/tegartv/playlist.m3u8
-ID  TVKU&&http://103.30.1.14:8080/hls/live.m3u8
-ID  ANTV&&http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
-ID  Indosiar&&http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
-ID  Kompas TV&&http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
-ID  Metro TV&&http://op-group1-swiftservehd-1.dens.tv/h/h211/02.m3u8
-ID  Net TV&&http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
-ID  RTV&&http://210.210.155.37/uq2663/h/h10/02.m3u8
-ID  SCTV&&http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
-ID  TVOne&&http://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
-ID  TVRI&&http://op-group1-swiftservehd-1.dens.tv/h/h237/02.m3u8
-ID  BBC News Asia Pacific&&http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
-ID  K+&&http://210.210.155.37/uq2663/h/h08/index.m3u8
-ID  Kix&&http://210.210.155.37/dr9445/h/h07/index.m3u8
-ID  My Cinema&&http://210.210.155.37/uq2663/h/h192/index.m3u8
-ID  My Cinema Asia&&http://210.210.155.37/uq2663/h/h193/index.m3u8
-ID  My Family Channel&&http://210.210.155.37/uq2663/h/h194/index.m3u8
-ID  My Kidz&&http://210.210.155.37/uq2663/h/h191/index.m3u8
-ID  ROCK Action&&http://210.210.155.37/dr9445/h/h15/index.m3u8
-ID  ROCK Entertainment&&http://210.210.155.37/dr9445/h/h16/index.m3u8
-ID  SPOTV1&&http://202.150.161.68/spotv1/index.m3u8
-ID  SPOTV2&&http://202.150.161.68/spotv2/index.m3u8
-ID  tvN Movies&&http://210.210.155.37/dr9445/h/h21/index.m3u8
-US  Tom & Jerry 🇺🇸&&http://24hrs.homelinux.com/24H-tom-e-jerry/video.m3u8
-INFO EVENTI&&00`d0039395.m3u8
-RAI ITALIA&&00`d0026060.m3u8
-RAI 1  4K HEVC H265&&00`d005322.m3u8
-RAI 1 FULL HD&&00`d00262.m3u8
-RAI 1 HD&&00`d00261.m3u8
-RAI 1 SD&&00`d00260.m3u8
-RAI 1 HD +1&&00`d005410.m3u8
-RAI 2  4K HEVC H265&&00`d005324.m3u8
-RAI 2 FULL HD&&00`d00259.m3u8
-RAI 2 HD&&00`d00258.m3u8
-RAI 2 SD&&00`d00257.m3u8
-RAI 2 HD +1&&00`d005411.m3u8
-RAI 3  4K HEVC H265&&00`d005326.m3u8
-RAI 3 FULL HD&&00`d00256.m3u8
-RAI 3 HD&&00`d00255.m3u8
-RAI 3 SD&&00`d00254.m3u8
-RAI 3 HD +1&&00`d005412.m3u8
-RETE 4 4K HEVC H265&&00`d005328.m3u8
-RETE 4 FULL HD&&00`d00230.m3u8
-RETE 4 HD&&00`d00229.m3u8
-RETE 4 SD&&00`d00228.m3u8
-RETE 4 HD +1&&00`d005413.m3u8
-CANALE 5  4K HEVC H265&&00`d005318.m3u8
-CANALE 5 FULL HD&&00`d00359.m3u8
-CANALE 5 HD&&00`d00358.m3u8
-CANALE 5 SD&&00`d00357.m3u8
-CANALE 5 HD +1&&00`d005414.m3u8
-ITALIA 1  4K HEVC H265&&00`d005320.m3u8
-ITALIA 1 FULL HD&&00`d00308.m3u8
-ITALIA 1 HD&&00`d00307.m3u8
-ITALIA 1 SD&&00`d00306.m3u8
-ITALIA 1 HD +1&&00`d0012728.m3u8
-LA 7 FULL HD&&00`d00300.m3u8
-LA 7 HD&&00`d00301.m3u8
-LA 7 +1&&00`d005416.m3u8
-BYOBLU24&&00`d005843.m3u8
-GOLD TV&&00`d0046825.m3u8
-Telelombardia&&00`d0046824.m3u8
-HGTV&&00`d0039064.m3u8
-RSI LA 1 HD&&00`d0026043.m3u8
-RSI LA 1 HD +1&&00`d0026045.m3u8
-RSI LA 2 HD&&00`d0026042.m3u8
-RSI LA 2 HD +1&&00`d0026046.m3u8
-LA 7D FULL HD&&00`d00298.m3u8
-LA 7D&&00`d00299.m3u8
-TV 8&&00`d0013.m3u8
-TV 8 +1&&00`d005417.m3u8
-NOVE FULL HD&&00`d00288.m3u8
-NOVE +1&&00`d005418.m3u8
-CINE 34&&00`d005280.m3u8
-CINE 34 +1&&00`d005419.m3u8
-RAI PREMIUM FULL HD&&00`d00244.m3u8
-RAI PREMIUM HD&&00`d00243.m3u8
-RAI PREMIUM HD +1&&00`d005420.m3u8
-RAI MOVIE FULL HD&&00`d00247.m3u8
-RAI MOVIE HD&&00`d00246.m3u8
-RAI MOVIE HD +1&&00`d005421.m3u8
-RAI 4 FULL HD&&00`d00253.m3u8
-RAI 4 HD&&00`d00252.m3u8
-RAI 4 HD +1&&00`d005423.m3u8
-RAI 5 FULL HD&&00`d00251.m3u8
-RAI 5 HD&&00`d00250.m3u8
-RAI 5 HD +1&&00`d005424.m3u8
-TV2000&&00`d0012.m3u8
-PADREPIO&&00`d00287.m3u8
-TOP CRIME&&00`d0014.m3u8
-TOP CRIME +1&&00`d005427.m3u8
-MEDIASET EXTRA&&00`d00295.m3u8
-MEDIASET EXTRA +1&&00`d005428.m3u8
-CANALE 20 FULL HD&&00`d00361.m3u8
-CANALE 20 HD&&00`d00360.m3u8
-CANALE 20 HD +1&&00`d005430.m3u8
-ITALIA 2&&00`d00305.m3u8
-ITALIA 2 +1&&00`d005431.m3u8
-LA 5&&00`d00302.m3u8
-LA 5 +1&&00`d005432.m3u8
-IRIS&&00`d00309.m3u8
-IRIS +1&&00`d005433.m3u8
-GIALLO&&00`d00318.m3u8
-GIALLO +1&&00`d005434.m3u8
-SKY RETE 7&&00`d0064.m3u8
-NASA TV UHD&&00`d00292.m3u8
-QVC FULL HD&&00`d00272.m3u8
-HSE 24 HD&&00`d00312.m3u8
-DONNA TV &&00`d00334.m3u8
-WarnerTV Italy FHD   &&00`d0044349.m3u8
-WarnerTV Italy HD &&00`d0044736.m3u8
-[S+] RAI 1 FULL HD&&00`d0038588.m3u8
-[S+] RAI 1 HD&&00`d0038589.m3u8
-[S+] RAI 2 FULL HD&&00`d0038590.m3u8
-[S+] RAI 2 HD&&00`d0038592.m3u8
-[S+] RAI 3 FULL HD&&00`d0038591.m3u8
-[S+] RAI 3 HD&&00`d0038593.m3u8
-[S+] RETE 4 FULL HD&&00`d0038594.m3u8
-[S+] RETE 4 HD&&00`d0038595.m3u8
-[S+] CANALE 5 FULL HD&&00`d0038596.m3u8
-[S+] CANALE 5 HD&&00`d0038597.m3u8
-[S+] ITALIA 1 FULL HD&&00`d0038598.m3u8
-[S+] ITALIA 1 HD&&00`d0038599.m3u8
-[S+] LA 7 FULL HD&&00`d0038600.m3u8
-[S+] LA 7 HD&&00`d0038601.m3u8
-[S+] RSI LA 1 FULL HD&&00`d0038602.m3u8
-[S+] RSI LA 2 FULL HD&&00`d0038603.m3u8
-[S+] LA 7D FULL HD&&00`d0038604.m3u8
-[S+] LA 7D HD&&00`d0038605.m3u8
-[S+] TV8 FULL HD&&00`d0038606.m3u8
-[S+] NOVE FULL HD&&00`d0038607.m3u8
-[S+] NOVE HD&&00`d0038608.m3u8
-[S+] CINE34 FULL HD&&00`d0038609.m3u8
-[S+] RAI PREMIUM FULL HD&&00`d0038610.m3u8
-[S+] RAI PREMIUM HD&&00`d0038611.m3u8
-[S+] RAI MOVIE FULL HD&&00`d0038612.m3u8
-[S+] RAI 4 FULL HD&&00`d0038614.m3u8
-[S+] RAI 4 HD&&00`d0038615.m3u8
-[S+] RAI 5 FULL HD&&00`d0038616.m3u8
-[S+] RAI 5 HD&&00`d0038617.m3u8
-[S+] TV2000 FULL HD&&00`d0038618.m3u8
-[S+] PADREPIO FULL HD&&00`d0038619.m3u8
-[S+] TOP CRIME FULL HD&&00`d0038620.m3u8
-[S+] MEDIA EXTRA FULL HD&&00`d0038621.m3u8
-[S+] CANALE 20 FULL HD&&00`d0038622.m3u8
-[S+] CANALE 20 HD&&00`d0038623.m3u8
-[S+] ITALIA 2 FULL HD&&00`d0038624.m3u8
-[S+] LA 5 FULL HD&&00`d0038625.m3u8
-[S+] IRIS FULL HD&&00`d0038626.m3u8
-[S+] NASATV FULL HD&&00`d0038630.m3u8
-[S+] FOOD NETWORK FULL HD&&00`d0038628.m3u8
-[S+] GIALLO FULL HD&&00`d0038627.m3u8
-[S+] QVC FULL HD&&00`d0038631.m3u8
-[S+] HSE24 FULL HD&&00`d0038632.m3u8
-[S+] RAI STORIA FULL HD&&00`d0038752.m3u8
-[S+] RAI STORIA HD&&00`d0038753.m3u8
-[S+] TV 2000 HD&&00`d0038636.m3u8
-SKY CINEMA UNO 4K HEVC H265&&00`d006651.m3u8
-SKY CINEMA UNO FULL HD&&00`d00161.m3u8
-SKY CINEMA UNO HD&&00`d00160.m3u8
-SKY CINEMA UNO SD&&00`d00159.m3u8
-SKY CINEMA UNO HD +1&&00`d005489.m3u8
-SKY CINEMA UNO 24 4K HEVC H265&&00`d006652.m3u8
-SKY CINEMA UNO  24 FULL HD&&00`d00163.m3u8
-SKY CINEMA UNO  24 HD&&00`d00162.m3u8
-SKY CINEMA UNO  24 SD&&00`d0033566.m3u8
-SKY CINEMA UNO  24 HD +1&&00`d005490.m3u8
-SKY CINEMA DUE 4K HEVC H265&&00`d006656.m3u8
-SKY CINEMA DUE FULL HD&&00`d00175.m3u8
-SKY CINEMA DUE HD&&00`d00174.m3u8
-SKY CINEMA DUE SD&&00`d00173.m3u8
-SKY CINEMA DUE HD +1&&00`d005491.m3u8
-SKY CINEMA DUE 24 4K HEVC H265&&00`d006657.m3u8
-SKY CINEMA DUE  24 FULL HD&&00`d00177.m3u8
-SKY CINEMA DUE  24 HD&&00`d00176.m3u8
-SKY CINEMA DUE  24 SD&&00`d0033565.m3u8
-SKY CINEMA DUE  24 HD +1&&00`d005492.m3u8
-SKY CINEMA COLLECTION 4K HEVC H265&&00`d006660.m3u8
-SKY CINEMA COLLECTION FULL HD&&00`d00186.m3u8
-SKY CINEMA COLLECTION HD&&00`d00185.m3u8
-SKY CINEMA COLLECTION SD&&00`d00184.m3u8
-SKY CINEMA COLLECTION HD +1&&00`d005493.m3u8
-SKY CINEMA FAMILY 4K HEVC H265&&00`d006655.m3u8
-SKY CINEMA FAMILY FULL HD&&00`d00172.m3u8
-SKY CINEMA FAMILY HD&&00`d00171.m3u8
-SKY CINEMA FAMILY SD&&00`d00170.m3u8
-SKY CINEMA FAMILY HD +1&&00`d005494.m3u8
-SKY CINEMA ACTION 4K HEVC H265&&00`d006661.m3u8
-SKY CINEMA ACTION FULL HD&&00`d00189.m3u8
-SKY CINEMA ACTION HD&&00`d00188.m3u8
-SKY CINEMA ACTION SD&&00`d00187.m3u8
-SKY CINEMA ACTION HD +1&&00`d005495.m3u8
-SKY CINEMA SUSPENSE 4K HEVC H265&&00`d006653.m3u8
-SKY CINEMA SUSPENSE FULL HD&&00`d00166.m3u8
-SKY CINEMA SUSPENSE HD&&00`d00165.m3u8
-SKY CINEMA SUSPENSE SD&&00`d00164.m3u8
-SKY CINEMA SUSPENSE HD +1&&00`d005496.m3u8
-SKY CINEMA ROMANCE 4K HEVC H265&&00`d006654.m3u8
-SKY CINEMA ROMANCE FULL HD&&00`d00169.m3u8
-SKY CINEMA ROMANCE HD&&00`d00168.m3u8
-SKY CINEMA ROMANCE SD&&00`d00167.m3u8
-SKY CINEMA ROMANCE HD +1&&00`d005497.m3u8
-SKY CINEMA DRAMA 4K HEVC H265&&00`d006658.m3u8
-SKY CINEMA DRAMA FULL HD&&00`d00180.m3u8
-SKY CINEMA DRAMA HD&&00`d00179.m3u8
-SKY CINEMA DRAMA SD&&00`d00178.m3u8
-SKY CINEMA DRAMA HD +1&&00`d005498.m3u8
-SKY CINEMA COMEDY 4K HEVC H265&&00`d006659.m3u8
-SKY CINEMA COMEDY FULL HD&&00`d00183.m3u8
-SKY CINEMA COMEDY HD&&00`d00182.m3u8
-SKY CINEMA COMEDY SD&&00`d00181.m3u8
-SKY CINEMA COMEDY HD +1&&00`d005499.m3u8
-[S+] SKY CINEMA UNO FULL HD&&00`d0038637.m3u8
-[S+] SKY CINEMA UNO HD&&00`d0038638.m3u8
-[S+] SKY CINEMA UNO24 FULL HD&&00`d0038639.m3u8
-[S+] SKY CINEMA UNO24 HD&&00`d0038640.m3u8
-[S+] SKY CINEMA DUE FULL HD&&00`d0038641.m3u8
-[S+] SKY CINEMA DUE HD&&00`d0038642.m3u8
-[S+] SKY CINEMA DUE24 FULL HD&&00`d0038643.m3u8
-[S+] SKY CINEMA DUE24 HD&&00`d0038644.m3u8
-[S+] SKY CINEMA COLLECTION HD&&00`d0038645.m3u8
-[S+] SKY CINEMA COLLECTION FULL HD&&00`d0038646.m3u8
-[S+] SKY CINEMA FAMILY FULL HD&&00`d0038647.m3u8
-[S+] SKY CINEMA FAMILY HD&&00`d0038648.m3u8
-[S+] SKY CINEMA ACTION FULL HD&&00`d0038649.m3u8
-[S+] SKY CINEMA ACTION HD&&00`d0038650.m3u8
-[S+] SKY CINEMA SUSPENSE FULL HD&&00`d0038651.m3u8
-[S+] SKY CINEMA SUSPENSE HD&&00`d0038652.m3u8
-[S+] SKY CINEMA ROMANCE FULL HD&&00`d0038653.m3u8
-[S+] SKY CINEMA ROMANCE HD&&00`d0038656.m3u8
-[S+] SKY CINEMA DRAMA FULL HD&&00`d0038654.m3u8
-[S+] SKY CINEMA DRAMA HD&&00`d0038655.m3u8
-[S+] SKY CINEMA COMEDY FULL HD&&00`d0038657.m3u8
-[S+] SKY CINEMA COMEDY HD&&00`d0038658.m3u8
-Vetrina Primafila Live&&00`d0048439.m3u8
-Primafila Live 1 - Trailer&&00`d0048440.m3u8
-Primafila Live 1&&00`d0048441.m3u8
-Primafila Live 2 - Trailer&&00`d0048442.m3u8
-Primafila Live 2&&00`d0048443.m3u8
-Primafila Live 3 - Trailer&&00`d0048444.m3u8
-Primafila Live 3&&00`d0048445.m3u8
-Primafila Live 4 - Trailer&&00`d0048446.m3u8
-Primafila Live 4&&00`d0048447.m3u8
-Primafila Live 5 - Trailer&&00`d0048448.m3u8
-Primafila Live 5&&00`d0048449.m3u8
-Primafila Live 6 - Trailer&&00`d0048450.m3u8
-Primafila Live 6&&00`d0048451.m3u8
-Primafila Live 7 - Trailer&&00`d0048452.m3u8
-Primafila Live 7&&00`d0048453.m3u8
-Primafila Live 8 - Trailer&&00`d0048454.m3u8
-Primafila Live 8&&00`d0048455.m3u8
-Primafila Live 9 - Trailer&&00`d0048456.m3u8
-Primafila Live 9&&00`d0048457.m3u8
-*I T: VETRINA SKY PRIMAFILA PREMIERE HD&&00`d0037720.m3u8
-*I T: SKY PRIMAFILA PREMIERE 1 FHD&&00`d0037721.m3u8
-*I T: SKY PRIMAFILA PREMIERE 2 FHD&&00`d0037722.m3u8
-*I T: SKY PRIMAFILA PREMIERE 3 FHD&&00`d0037723.m3u8
-*I T: SKY PRIMAFILA PREMIERE 4 FHD&&00`d0037724.m3u8
-*I T: SKY PRIMAFILA PREMIERE 5 FHD&&00`d0037725.m3u8
-*I T: SKY PRIMAFILA PREMIERE 6 FHD&&00`d0037726.m3u8
-*I T: SKY PRIMAFILA PREMIERE 7 FHD&&00`d0037727.m3u8
-*I T: SKY PRIMAFILA PREMIERE 8 FHD&&00`d0037728.m3u8
-*I T: SKY PRIMAFILA PREMIERE 9 FHD&&00`d0037729.m3u8
-*I T: SKY PRIMAFILA PREMIERE 10 FHD&&00`d0037730.m3u8
-*I T: SKY PRIMAFILA PREMIERE 11 FHD&&00`d0037731.m3u8
-*I T: SKY PRIMAFILA PREMIERE 12 FHD&&00`d0037732.m3u8
-*I T: SKY PRIMAFILA PREMIERE 13 FHD&&00`d0037733.m3u8
-*I T: SKY PRIMAFILA PREMIERE 14 FHD&&00`d0037734.m3u8
-*I T: SKY PRIMAFILA PREMIERE 15 FHD&&00`d0037735.m3u8
-*I T: SKY PRIMAFILA PREMIERE 16 FHD&&00`d0037736.m3u8
-*I T: SKY PRIMAFILA PREMIERE 17 FHD&&00`d0037737.m3u8
-*I T: SKY PRIMAFILA PREMIERE 18 FHD&&00`d0037738.m3u8
-*I T: VETRINA SKY PRIMAFILA4K HD&&00`d0037739.m3u8
-*I T: SKY PRIMAFILA 1 4K&&00`d0037740.m3u8
-*I T: SKY PRIMAFILA 2 4K&&00`d0037741.m3u8
-*I T: SKY PRIMAFILA 3 4K&&00`d0037742.m3u8
-*I T: SKY PRIMAFILA 4 4K&&00`d0037743.m3u8
-*I T: SKY PRIMAFILA 5 4K&&00`d0037744.m3u8
-*I T: SKY PRIMAFILA 6 4K&&00`d0037745.m3u8
-*I T: SKY PRIMAFILA 7 4K&&00`d0037746.m3u8
-*I T: SKY PRIMAFILA 8 4K&&00`d0037747.m3u8
-*I T: SKY PRIMAFILA 9 4K&&00`d0037748.m3u8
-[TEM] Eagle Tom e Jerry FHD&&00`d0045081.m3u8
-[TEM] Eagle Fantozzi Channel ᴴᴰ&&00`d0045083.m3u8
-[TEM] Scuola di Polizia Channel&&00`d0045084.m3u8
-[TEM] Disney Plus Film ᴴᴰ&&00`d0045085.m3u8
-[TEM] Disney Plus Animation ᴴᴰ&&00`d0045086.m3u8
-[TEM] Eagle Cinema Horror ꜰʜᴅ&&00`d0045087.m3u8
-[TEM] Eagle Cinema Drammatico ꜰʜᴅ&&00`d0045088.m3u8
-[TEM] Eagle Cinema Passione ꜰʜᴅ&&00`d0045089.m3u8
-[TEM] Eagle Cinema Storico ꜰʜᴅ&&00`d0045090.m3u8
-[TEM] Eagle Cinema Thriller ꜰʜᴅ&&00`d0045091.m3u8
-[TEM] Eagle Cinema Comico Cult ꜰʜᴅ&&00`d0045092.m3u8
-[TEM] Eagle Cinema Sorriso ꜰʜᴅ&&00`d0045093.m3u8
-[TEM] Eagle Cinema Commedia ꜰʜᴅ&&00`d0045094.m3u8
-[TEM] Eagle Cinema Fantastico ꜰʜᴅ&&00`d0045095.m3u8
-[TEM] Eagle Cinema Avventura ꜰʜᴅ&&00`d0045096.m3u8
-[TEM] Eagle Cinema Azione ꜰʜᴅ&&00`d0045097.m3u8
-[TEM] Eagle Cinema Prima Visione ꜰʜᴅ&&00`d0045098.m3u8
-[TEM] Eagle Cinema Animazione ꜰʜᴅ&&00`d0045099.m3u8
-[TEM] Eagle Cinema Film in Sala  ᴴᴰ (qualita camera)&&00`d0045100.m3u8
-[TEM] Eagle Cinema Mitologia ᴴᴰ&&00`d0045101.m3u8
-[TEM] Eagle Masha e Orso ꜰʜᴅ&&00`d0045103.m3u8
-[TEM] Eagle Peppa Pig ꜰʜᴅ&&00`d0045105.m3u8
-[TEM] Eagle Disney Topolino Paperino e Pippo ᴴᴰ&&00`d0045106.m3u8
-[TEM] Eagle Looney Toons ᴴᴰ&&00`d0045107.m3u8
-[TEM] Eagle Gomorra Stagione 1 ꜰʜᴅ HEVC&&00`d0045108.m3u8
-[TEM] Totò Channel ᴴᴰ&&00`d0045109.m3u8
-[TEM] Eagle Aldo Giovanni e Giacomo Channel&&00`d0045110.m3u8
-[TEM] EAGLE 4ᴷ ᵁᴴᴰ (IT-DE-EN-multilanguage)&&00`d0045111.m3u8
-[TEM] Eagle Cinema Religion ᴴᴰ&&00`d0045112.m3u8
-[TEM] Eagle Cinema Western ꜰʜᴅ&&00`d0045113.m3u8
-[TEM] Eagle Cinema Spaghetti Western ꜰʜᴅ&&00`d0045114.m3u8
-[TEM] Eagle Cinema 007 ꜰʜᴅ HEVC H265 (dual audio ITA/ENG)&&00`d0045115.m3u8
-[TEM] Eagle Cinema Bud Spencer ᴴᴰ&&00`d0045116.m3u8
-[TEM] La Casa di Topolino Channel&&00`d0045117.m3u8
-[TEM] Eagle Dragon Ball Z Channel ꜰʜᴅ  (Audio-1.ITA-2.ENG)&&00`d0045118.m3u8
-[TEM] Eagle Lupin III Channel&&00`d0045119.m3u8
-[TEM] Eagle Nature Discovery 4ᴷ ᵁᴴᴰ (double audio)&&00`d0045120.m3u8
-[TEM] Eagle Nature Explorer ꜰʜᴅ&&00`d0045121.m3u8
-[TEM] Eagle Brickleberry ꜰʜᴅ 24H&&00`d0045122.m3u8
-[TEM] Eagle American Dad 24H&&00`d0045123.m3u8
-[TEM] Eagle Peter Griffin 24H&&00`d0045124.m3u8
-[TEM] Eagle The Cleveland Show 24H&&00`d0045125.m3u8
-[TEM] Eagle Cinepanettone ᴴᴰ&&00`d0045126.m3u8
-[TEM] Eagle Cinema Biografico ꜰʜᴅ&&00`d0045127.m3u8
-[TEM] Eagle Cinema Famiglia ꜰʜᴅ&&00`d0045128.m3u8
-[TEM] Eagle Cinema Fantascienza ꜰʜᴅ&&00`d0045129.m3u8
-[TEM]  How i Met You Mother ꜰʜᴅ&&00`d0045130.m3u8
-[TEM] The Big Bang Theory ꜰʜᴅ&&00`d0045131.m3u8
-[TEM] Eagle Scooby-Doo ꜰʜᴅ&&00`d0045132.m3u8
-[TEM] Me-contro-Te Channel ᴴᴰ&&00`d0045133.m3u8
-[TEM] Ghost Adventures-Cacciatori di fantasmi channel&&00`d0045134.m3u8
-[TEM] Il Trono di Spade Channel ꜰʜᴅ&&00`d0045135.m3u8
-[TEM] Eagle 20thCenturyFox ꜰʜᴅ&&00`d0045136.m3u8
-[TEM] Eagle MARVEL ꜰʜᴅ&&00`d0045137.m3u8
-[TEM] Avengers Grimm Channel ꜰʜᴅ&&00`d0045138.m3u8
-[TEM] G.I.JOE Channel ꜰʜᴅ&&00`d0045139.m3u8
-[TEM] Harry Potter Channel ꜰʜᴅ&&00`d0045140.m3u8
-[TEM] Il Re Scorpione Channel ꜰʜᴅ&&00`d0045142.m3u8
-[TEM] IL Signore Degli Anelli Channel ꜰʜᴅ&&00`d0045143.m3u8
-[TEM] Indiana Jones Channel ꜰʜᴅ&&00`d0045144.m3u8
-[TEM] IP MAN Channel ꜰʜᴅ&&00`d0045145.m3u8
-[TEM] Karate Kid Channel ꜰʜᴅ&&00`d0045146.m3u8
-[TEM] Kung Fu Panda Film Channel ꜰʜᴅ&&00`d0045147.m3u8
-[TEM] Men in Black Channel ꜰʜᴅ&&00`d0045148.m3u8
-[TEM] Mission impossible Channel ꜰʜᴅ&&00`d0045149.m3u8
-[TEM] Eagle Cinema Comico Cult FHD&&00`d0045079.m3u8
-[TEM] Pirati dei Caraibi Channel ꜰʜᴅ&&00`d0045150.m3u8
-SKY UNO 4K HEVC H265&&00`d006667.m3u8
-SKY UNO FULL HD&&00`d0029.m3u8
-SKY UNO HD&&00`d0028.m3u8
-SKY UNO SD&&00`d0027.m3u8
-SKY UNO HD +1&&00`d005521.m3u8
-SKY INVESTIGATION HEVC&&00`d0039068.m3u8
-SKY INVESTIGATION FULL HD&&00`d0039067.m3u8
-SKY INVESTIGATION HD&&00`d0039066.m3u8
-SKY SERIE HEVC&&00`d0039071.m3u8
-SKY SERIE FULL HD&&00`d0039070.m3u8
-SKY SERIE HD&&00`d0039069.m3u8
-SKY ATLANTIC 4K HEVC H265&&00`d006644.m3u8
-SKY ATLANTIC FULL HD&&00`d00221.m3u8
-SKY ATLANTIC HD&&00`d00220.m3u8
-SKY ATLANTIC SD&&00`d00219.m3u8
-SKY COMEDY CENTRAL 4K HEVC H265&&00`d006645.m3u8
-SKY COMEDY CENTRAL FULL HD&&00`d00157.m3u8
-REALTIME 4K HEVC H265&&00`d006640.m3u8
-REALTIME FULL HD&&00`d0065.m3u8
-REALTIME&&00`d00232.m3u8
-SKY REALTIME +1&&00`d005531.m3u8
-CIELO FULL HD&&00`d00190.m3u8
-CIELO&&00`d00353.m3u8
-SKY CIELO +1&&00`d005532.m3u8
-SKY MTV FULL HD&&00`d0099.m3u8
-SKY MTV HD&&00`d0098.m3u8
-SKY MTV SD&&00`d0096.m3u8
-SKY MTV HD +1&&00`d005534.m3u8
-FOOD NETWORK HD&&00`d00324.m3u8
-FOOD NETWORK FULL HD&&00`d00126.m3u8
-FOOD NETWORK FULL HD +1&&00`d005536.m3u8
-MEDIASET TWENTYSEVEN FULL HD&&00`d0039838.m3u8
-MEDIASET TWENTYSEVEN HD&&00`d0039839.m3u8
-ITALIAN FISHING TV&&00`d00304.m3u8
-[S+] SKY UNO FULL HD&&00`d0038669.m3u8
-[S+] SKY UNO HD&&00`d0038670.m3u8
-[S+] SKY ATLANTIC FULL HD&&00`d0038671.m3u8
-[S+] SKY ATLANTIC HD&&00`d0038672.m3u8
-[S+] SKY COMEDY CENTRAL FULL HD&&00`d0038679.m3u8
-[S+] MTV  FULL HD&&00`d0038682.m3u8
-[S+] MTV HD&&00`d0038683.m3u8
-[S+] MEDIASET TWENTYSEVEN FULL HD&&00`d0039840.m3u8
-GRANDE FRATELLO - GF VIP PARTY&&00`d0033190.m3u8
-GRANDE FRATELLO - DIRETTA 1&&00`d00317.m3u8
-GRANDE FRATELLO VIP DIRETTA  1&&00`d00315.m3u8
-GRANDE FRATELLO VIP +1 UN`ORA FA&&00`d00314.m3u8
-GRANDE FRATELLO VIP DIRETTA 2&&00`d00313.m3u8
-GRANDE FRATELLO - DIRETTA 2&&00`d00316.m3u8
-The Pet Collective&&00`d0039576.m3u8
-FailArmy&&00`d0039577.m3u8
-IGN&&00`d0039578.m3u8
-World Poker Tour&&00`d0039579.m3u8
-People are Awesome&&00`d0039580.m3u8
-Pluto TV Real Life&&00`d0039581.m3u8
-Pluto TV Natura&&00`d0039582.m3u8
-Mutant X&&00`d0039583.m3u8
-Andromeda&&00`d0039584.m3u8
-Clubbing TV&&00`d0039585.m3u8
-Loupe&&00`d0039586.m3u8
-Pluto TV Sport&&00`d0039587.m3u8
-Pluto TV Anime&&00`d0039615.m3u8
-Pluto TV Serie&&00`d0039613.m3u8
-Pluto TV Film&&00`d0039588.m3u8
-Pluto TV Film Azione&&00`d0039589.m3u8
-Pluto TV Film Classici&&00`d0039590.m3u8
-Pluto TV Film Drama&&00`d0039591.m3u8
-Pluto TV Film Romantici&&00`d0039592.m3u8
-Pluto TV Film Commedia&&00`d0039593.m3u8
-Pluto TV Film Thriller&&00`d0039594.m3u8
-Pluto TV Crime&&00`d0039595.m3u8
-Pluto TV Cinema Italiano&&00`d0039596.m3u8
-Pluto TV Documentari&&00`d0039597.m3u8
-Just for Laughs&&00`d0039598.m3u8
-Super! Eroi&&00`d0039599.m3u8
-Super! Star&&00`d0039600.m3u8
-Super! Pop&&00`d0039601.m3u8
-Super! SpongeBob&&00`d0039602.m3u8
-Catfish&&00`d0039603.m3u8
-Super! iCarly&&00`d0039604.m3u8
-Scherzi e risate&&00`d0039605.m3u8
-Serie Teen&&00`d0039606.m3u8
-Dating&&00`d0039607.m3u8
-16 Anni e Incinta&&00`d0039608.m3u8
-Ex On The Beach&&00`d0039609.m3u8
-Le sorelle McLeod&&00`d0039610.m3u8
-Young & Fabulous&&00`d0039611.m3u8
-Consulenze Illegali&&00`d0039612.m3u8
-Il Banco dei Pugni&&00`d0039614.m3u8
-UFC TV PASS&&00`d0038267.m3u8
-UNIRESAT HD&&00`d0011.m3u8
-SPORT ITALIA&&00`d0025.m3u8
-SPORT ITALIA HD&&00`d0024.m3u8
-SPORT ITALIA LIVE 24&&00`d0023.m3u8
-SPORT ITALIA SOLO CALCIO&&00`d0022.m3u8
-ACI SPORT TV&&00`d0038399.m3u8
-MOLA TV 2&&00`d0052587.m3u8
-RAI SPORT   FULL HD&&00`d00240.m3u8
-RAI SPORT   HD&&00`d00239.m3u8
-TOP CALCIO 24&&00`d0015.m3u8
-SUPER TENNIS FULL HD&&00`d0020.m3u8
-SUPER TENNIS HD&&00`d0019.m3u8
-KISS KISS NAPOLI TV&&00`d0040204.m3u8
-TOP PLANET &&00`d0033567.m3u8
-MOTOR TREND&&00`d00293.m3u8
-[S+] SPORT ITALIA HD&&00`d0038695.m3u8
-[S+] MOTORTREND&&00`d0038959.m3u8
-MOTOR TV&&00`d0038303.m3u8
-EQUtv&&00`d0041333.m3u8
-MS MOTOR TV&&00`d0038306.m3u8
-INFO EVENTI SPORT&&00`d0039616.m3u8
-SKY SPORT 24 4K HEVC H265&&00`d006628.m3u8
-SKY SPORT 24 FULL HD&&00`d0062.m3u8
-SKY SPORT 24 HD&&00`d0061.m3u8
-SKY SPORT 24 SD&&00`d0060.m3u8
-SKY SPORT 24 HD +1&&00`d005565.m3u8
-SKY SPORT NBA 4K HEVC H265&&00`d006627.m3u8
-SKY SPORT NBA FULL HD&&00`d0043.m3u8
-SKY SPORT NBA HD&&00`d0042.m3u8
-SKY SPORT NBA SD&&00`d0041.m3u8
-SKY SPORT NBA HD +1&&00`d005566.m3u8
-SKY SPORT MAX FULL HD&&00`d0052567.m3u8
-SKY SPORT MAX HD&&00`d0052568.m3u8
-SKY SPORT MAX SD&&00`d0052569.m3u8
-SKY SPORT UNO 4K HEVC H265&&00`d006626.m3u8
-SKY SPORT UNO FULL HD&&00`d0037.m3u8
-SKY SPORT UNO HD&&00`d0036.m3u8
-SKY SPORT UNO SD&&00`d0035.m3u8
-SKY SPORT UNO HD +1&&00`d005567.m3u8
-SKY SPORT ARENA 4K HEVC H265&&00`d006624.m3u8
-SKY SPORT ARENA FULL HD&&00`d0059.m3u8
-SKY SPORT ARENA HD&&00`d0058.m3u8
-SKY SPORT ARENA SD&&00`d0057.m3u8
-SKY SPORT ARENA HD +1&&00`d005569.m3u8
-SKY SPORT GOLF HEVC H265&&00`d006671.m3u8
-SKY SPORT GOLF FULL HD&&00`d00121.m3u8
-SKY SPORT GOLF HD&&00`d00120.m3u8
-SKY SPORT GOLF SD&&00`d00321.m3u8
-SKY SPORT TENNIS 4K HEVC H265&&00`d006623.m3u8
-SKY SPORT TENNIS FULL HD&&00`d0049.m3u8
-SKY SPORT TENNIS HD&&00`d0048.m3u8
-SKY SPORT TENNIS SD&&00`d0047.m3u8
-SKY SPORT TENNIS HD +1&&00`d005570.m3u8
-SKY SPORT F1 4K HEVC H265&&00`d006622.m3u8
-SKY SPORT F1 FULL HD&&00`d0055.m3u8
-SKY SPORT F1 HD&&00`d0054.m3u8
-SKY SPORT F1 SD&&00`d0053.m3u8
-SKY SPORT F1 HD +1&&00`d005571.m3u8
-SKY SPORT MOTOGP 4K HEVC H265&&00`d006621.m3u8
-SKY SPORT MOTOGP FULL HD&&00`d0046.m3u8
-SKY SPORT MOTOGP HD&&00`d0045.m3u8
-SKY SPORT MOTOGP SD&&00`d0044.m3u8
-SKY SPORT MOTOGP HD +1&&00`d005572.m3u8
-SKY EUROSPORT1 4K HEVC H265&&00`d006620.m3u8
-SKY EUROSPORT 1 FULL HD&&00`d00130.m3u8
-SKY EUROSPORT 1 HD&&00`d00129.m3u8
-SKY EUROSPORT 1 HD +1&&00`d005573.m3u8
-SKY EUROSPORT2 4K HEVC H265&&00`d006619.m3u8
-SKY EUROSPORT 2 FULL HD&&00`d00128.m3u8
-SKY EUROSPORT 2 HD&&00`d00127.m3u8
-SKY EUROSPORT 2 HD +1&&00`d005574.m3u8
-HORSE TV FULL HD&&00`d00109.m3u8
-[S+] SKY SPORT 24 FULL HD&&00`d0038696.m3u8
-[S+] SKY SPORT 24 HD&&00`d0038697.m3u8
-[S+] SKY SPORT NBA FULL HD&&00`d0038698.m3u8
-[S+] SKY SPORT NBA HD&&00`d0038699.m3u8
-[S+] SKY SPORT UNO FULL HD&&00`d0038700.m3u8
-[S+] SKY SPORT UNO HD&&00`d0038701.m3u8
-[S+] SKY SPORT MAX FULL HD&&00`d0038702.m3u8
-[S+] SKY SPORT MAX HD&&00`d0038703.m3u8
-[S+] SKY SPORT ARENA FULL HD&&00`d0038704.m3u8
-[S+] SKY SPORT ARENA HD&&00`d0038705.m3u8
-[S+] SKY SPORT TENNIS FULL HD&&00`d0038706.m3u8
-[S+] SKY SPORT TENNIS HD&&00`d0038707.m3u8
-[S+] SKY SPORT F1 FULL HD&&00`d0038708.m3u8
-[S+] SKY SPORT F1 HD&&00`d0038709.m3u8
-[S+] SKY SPORT MOTOGP FULL HD&&00`d0038710.m3u8
-[S+] SKY SPORT MOTOGP HD&&00`d0038711.m3u8
-[S+] SKY EUROSPORT 1 FULL HD&&00`d0038712.m3u8
-[S+] SKY EUROSPORT 1 HD&&00`d0038713.m3u8
-[S+] SKY EUROSPORT 2 FULL HD&&00`d0038714.m3u8
-[S+] SKY EUROSPORT 2 HD&&00`d0038715.m3u8
-[S+] SKY CACCIA FULL HD&&00`d0038716.m3u8
-[S+] SKY PESCA FULL HD&&00`d0038717.m3u8
-INFO EVENTI CALCIO&&00`d0039617.m3u8
-SKY SPORT BAR UNO FULL HD (SERIE A)&&00`d0039290.m3u8
-SKY SPORT BAR UNO HD (SERIE A)&&00`d0039291.m3u8
-SKY SPORT BAR UNO SD (SERIE A)&&00`d0039292.m3u8
-SKY SPORT BAR DUE FULL HD (SERIE A)&&00`d0039293.m3u8
-SKY SPORT BAR DUE HD (SERIE A)&&00`d0039294.m3u8
-SKY SPORT BAR DUE SD (SERIE A)&&00`d0039295.m3u8
-SKY SPORT BAR PRIMEVIDEO FULL HD (CHAMPIONS LEAGUE)&&00`d0039296.m3u8
-SKY SPORT BAR PRIMEVIDEO SD (CHAMPIONS LEAGUE)&&00`d0039298.m3u8
-SKY SPORT BAR PRIMEVIDEO HD (CHAMPIONS LEAGUE)&&00`d0039297.m3u8
-SKY SPORT CALCIO 4K HEVC H265&&00`d008979.m3u8
-SKY SPORT CALCIO FULL HD&&00`d0040.m3u8
-SKY SPORT CALCIO HD&&00`d0039.m3u8
-SKY SPORT CALCIO SD&&00`d0038.m3u8
-SKY SPORT CALCIO HD +1&&00`d005580.m3u8
-SKY CALCIO 1 - 251 4K HEVC H265&&00`d008973.m3u8
-SKY CALCIO 1 - 251 FULL HD&&00`d00210.m3u8
-SKY CALCIO 1 - 251 HD&&00`d00209.m3u8
-SKY CALCIO 1 - 251 SD&&00`d00208.m3u8
-SKY CALCIO 1 - 251 HD +1&&00`d005581.m3u8
-SKY CALCIO 2 - 252 4K HEVC H265&&00`d008974.m3u8
-SKY CALCIO 2 - 252 FULL HD&&00`d00207.m3u8
-SKY CALCIO 2 - 252 HD&&00`d00206.m3u8
-SKY CALCIO 2 - 252 SD&&00`d00205.m3u8
-SKY CALCIO 2 - 252 HD +1&&00`d005582.m3u8
-SKY CALCIO 3 - 253 4K HEVC H265&&00`d008975.m3u8
-SKY CALCIO 3 - 253 FULL HD&&00`d00204.m3u8
-SKY CALCIO 3 - 253 HD&&00`d00203.m3u8
-SKY CALCIO 3 - 253 SD&&00`d00202.m3u8
-SKY CALCIO 3 - 253 HD +1&&00`d005583.m3u8
-SKY CALCIO 4 - 254 4K HEVC H265&&00`d008976.m3u8
-SKY CALCIO 4  - 254 FULL HD&&00`d00201.m3u8
-SKY CALCIO 4 - 254 HD&&00`d00200.m3u8
-SKY CALCIO 4 - 254 SD&&00`d00199.m3u8
-SKY CALCIO 4 - 254 HD +1&&00`d005584.m3u8
-SKY CALCIO 5 - 255 4K HEVC H265&&00`d008977.m3u8
-SKY CALCIO 5 - 255 FULL HD&&00`d00198.m3u8
-SKY CALCIO 5 - 255 HD&&00`d00197.m3u8
-SKY CALCIO 5 - 255 SD&&00`d0033214.m3u8
-SKY CALCIO 5 - 255 HD +1&&00`d005585.m3u8
-SKY CALCIO 6 - 256 4K HEVC H265&&00`d008978.m3u8
-SKY CALCIO 6 - 256 FULL HD&&00`d00196.m3u8
-SKY CALCIO 6 - 256 HD&&00`d00195.m3u8
-SKY CALCIO 6 - 256 HD +1&&00`d005586.m3u8
-SKY CALCIO 7 - 257 FULL HD&&00`d00194.m3u8
-SKY CALCIO 7 - 257 HD&&00`d00193.m3u8
-SKY CALCIO 8 - 258 FULL HD&&00`d0040206.m3u8
-SKY CALCIO 8 - 258 HD&&00`d0040205.m3u8
-SKY MILAN 4K HEVC H265&&00`d008972.m3u8
-SKY MILAN FULL HD&&00`d00100.m3u8
-SKY INTER 4K HEVC H265&&00`d008980.m3u8
-SKY INTER FULL HD&&00`d00108.m3u8
-SKY LAZIO FULL HD&&00`d00105.m3u8
-[S+] SKY SPORT CALCIO FULL HD&&00`d0038718.m3u8
-[S+] SKY SPORT CALCIO HD&&00`d0038719.m3u8
-[S+] SKY CALCIO 1 - 251 FULL HD&&00`d0038720.m3u8
-[S+] SKY CALCIO 1 - 251 HD&&00`d0038721.m3u8
-[S+] SKY CALCIO 2 - 252 FULL HD&&00`d0038722.m3u8
-[S+] SKY CALCIO 2 - 252 HD&&00`d0038723.m3u8
-[S+] SKY CALCIO 3 - 253 FULL HD&&00`d0038724.m3u8
-[S+] SKY CALCIO 3 - 253 HD&&00`d0038725.m3u8
-[S+] SKY CALCIO 4 - 254 FULL HD&&00`d0038726.m3u8
-[S+] SKY CALCIO 4 - 254 HD&&00`d0038947.m3u8
-[S+] SKY CALCIO 5 - 255 FULL HD&&00`d0038727.m3u8
-[S+] SKY CALCIO 5 - 255 HD&&00`d0038729.m3u8
-[S+] SKY CALCIO 6 - 256 FULL HD&&00`d0038728.m3u8
-[S+] SKY CALCIO 6 - 256 HD&&00`d0038730.m3u8
-[S+] SKY CALCIO 7 - 257 FULL HD&&00`d0038731.m3u8
-[S+] SKY CALCIO 7 - 257 HD&&00`d0038732.m3u8
-SKY CALCIO 9 - 259 FULL HD&&00`d0052473.m3u8
-SKY CALCIO 9 - 259 HD&&00`d0052474.m3u8
-SKY CALCIO 10 - 260 FULL HD&&00`d0052475.m3u8
-SKY CALCIO 10 - 260 HD&&00`d0052476.m3u8
-SKY CALCIO 11 - 261  HD&&00`d0052477.m3u8
-SKY CALCIO 11 - 261 FULL HD&&00`d0052478.m3u8
-[S+] SKY MILAN TV FULL HD&&00`d0038734.m3u8
-[S+] SKY INTER TV FULL HD&&00`d0038735.m3u8
-ZONA DAZN 4K HEVC H265&&00`d008981.m3u8
-ZONA DAZN FULL HD&&00`d00152.m3u8
-ZONA DAZN HD&&00`d00151.m3u8
-ZONA DAZN SD&&00`d00150.m3u8
-[FLUX] ZONA DAZN SERIE A 1 FHD&&00`d0046826.m3u8
-[FLUX] ZONA DAZN SERIE A 1 HD&&00`d0046827.m3u8
-[FLUX] ZONA DAZN SERIE A 1 SD&&00`d0046828.m3u8
-[FLUX] ZONA DAZN SERIE A 2 FHD&&00`d0046829.m3u8
-[FLUX] ZONA DAZN SERIE A 2 HD&&00`d0046830.m3u8
-[FLUX] ZONA DAZN SERIE A 2 SD&&00`d0046831.m3u8
-[FLUX] ZONA DAZN SERIE A 3 FHD&&00`d0046832.m3u8
-[FLUX] ZONA DAZN SERIE A 3 HD&&00`d0046833.m3u8
-[FLUX] ZONA DAZN SERIE A 3 SD&&00`d0046834.m3u8
-DAZN PGA TOUR FULL HD&&00`d0052614.m3u8
-DAZN PGA TOUR HD&&00`d0052615.m3u8
-DAZN PGA TOUR SD&&00`d0052616.m3u8
-NFL DAZN&&00`d0026951.m3u8
-VETRINA DAZN&&00`d0026077.m3u8
-DAZN DIRETTA GOL SERIE A FULL HD&&00`d0039393.m3u8
-DAZN DIRETTA GOL SERIE A HD&&00`d0039619.m3u8
-DAZN DIRETTA GOL SERIE A SD&&00`d0039620.m3u8
-DAZN DIRETTA GOL SERIE B FULL HD&&00`d0039394.m3u8
-DAZN DIRETTA GOL SERIE B HD&&00`d0039621.m3u8
-DAZN DIRETTA GOL SERIE B SD&&00`d0039622.m3u8
-DAZN DIRETTA GOL EUROPA LEAGUE FULL HD&&00`d0039396.m3u8
-DAZN DIRETTA GOL EUROPA LEAGUE HD&&00`d0039623.m3u8
-DAZN DIRETTA GOL EUROPA LEAGUE SD&&00`d0039624.m3u8
-DAZN WEB 1 FULL HD&&00`d00348.m3u8
-DAZN WEB 1 HD&&00`d0039625.m3u8
-DAZN WEB 1 SD&&00`d0039626.m3u8
-DAZN WEB 2 FULL HD&&00`d00346.m3u8
-DAZN WEB 2 HD&&00`d0039627.m3u8
-DAZN WEB 2 SD&&00`d0039628.m3u8
-DAZN WEB 3 FULL HD&&00`d00345.m3u8
-DAZN WEB 3 HD&&00`d0039629.m3u8
-DAZN WEB 3 SD&&00`d0039630.m3u8
-DAZN WEB 4 FULL HD&&00`d00344.m3u8
-DAZN WEB 4 HD&&00`d0039631.m3u8
-DAZN WEB 4 SD&&00`d0039632.m3u8
-DAZN WEB 5 FULL HD&&00`d00343.m3u8
-DAZN WEB 5 HD&&00`d0039633.m3u8
-DAZN WEB 5 SD&&00`d0039634.m3u8
-DAZN WEB 6 FULL HD&&00`d00342.m3u8
-DAZN WEB 6 HD&&00`d0039635.m3u8
-DAZN WEB 6 SD&&00`d0039636.m3u8
-DAZN WEB 7 FULL HD&&00`d00341.m3u8
-DAZN WEB 7 HD&&00`d0039637.m3u8
-DAZN WEB 7 SD&&00`d0039638.m3u8
-DAZN WEB 8 FULL HD&&00`d00340.m3u8
-DAZN WEB 8 HD&&00`d0039639.m3u8
-DAZN WEB 8 SD&&00`d0039640.m3u8
-DAZN WEB 9 FULL HD&&00`d00339.m3u8
-DAZN WEB 9 HD&&00`d0039641.m3u8
-DAZN WEB 9 SD&&00`d0039642.m3u8
-DAZN WEB 10 FULL HD&&00`d00347.m3u8
-DAZN WEB 10 HD&&00`d0039643.m3u8
-DAZN WEB 10 SD&&00`d0039644.m3u8
-DAZN WEB 11 FULL HD&&00`d0039870.m3u8
-DAZN WEB 11 HD&&00`d0039869.m3u8
-DAZN WEB 11 SD&&00`d0039868.m3u8
-DAZN WEB 12 FULL HD&&00`d0039873.m3u8
-DAZN WEB 12 HD&&00`d0039872.m3u8
-DAZN WEB 12 SD&&00`d0039871.m3u8
-DAZN WEB 13 FULL HD&&00`d0039876.m3u8
-DAZN WEB 13 HD&&00`d0039875.m3u8
-DAZN WEB 13 SD&&00`d0039874.m3u8
-DAZN WEB 14 FULL HD&&00`d0039879.m3u8
-DAZN WEB 14 HD&&00`d0039878.m3u8
-DAZN WEB 14 SD&&00`d0039877.m3u8
-DAZN WEB 15 FULL HD&&00`d0039882.m3u8
-DAZN WEB 15 HD&&00`d0039881.m3u8
-DAZN WEB 15 SD&&00`d0039880.m3u8
-[S+] ZONA DAZN FULL HD&&00`d0038738.m3u8
-[S+] ZONA DAZN HD&&00`d0038739.m3u8
-FIFA+ SAMSUNGTV+&&00`d0050470.m3u8
-SKY ARTE 4K HEVC H265&&00`d006629.m3u8
-SKY ARTE FULL HD&&00`d00223.m3u8
-SKY ARTE HD&&00`d00222.m3u8
-SKY ARTE HD +1&&00`d005621.m3u8
-SKY DISCOVERY 4K HEVC H265&&00`d006630.m3u8
-SKY DISCOVERY FULL HD&&00`d00145.m3u8
-SKY DISCOVERY HD&&00`d00144.m3u8
-SKY DISCOVERY HD +1&&00`d005626.m3u8
-SKY NATURE HEVC&&00`d0039077.m3u8
-SKY NATURE FULL HD&&00`d0039076.m3u8
-SKY NATURE HD&&00`d0039075.m3u8
-SKY DOCUMENTARIES HEVC&&00`d0039074.m3u8
-SKY DOCUMENTARIES FULL HD&&00`d0039073.m3u8
-SKY DOCUMENTARIES HD&&00`d0039072.m3u8
-SKY HISTORY 4K HEVC H265&&00`d006632.m3u8
-SKY HISTORY FULL HD&&00`d00111.m3u8
-SKY HISTORY HD&&00`d00110.m3u8
-SKY HISTORY HD +1&&00`d005629.m3u8
-SKY CRIME  4K HEVC H265&&00`d006641.m3u8
-SKY CRIME  FULL HD&&00`d00156.m3u8
-SKY CRIME  HD&&00`d00155.m3u8
-SKY CRIME  SD&&00`d00349.m3u8
-SKY CRIME  HD +1&&00`d005529.m3u8
-SKY CACCIA E PESCA FULL HD&&00`d00211.m3u8
-SKY PESCA E CACCIA FULL HD +1&&00`d005579.m3u8
-SKY PESCA E CACCIA FULL HD&&00`d0084.m3u8
-SKY EXPLORER TV FULL HD&&00`d0039846.m3u8
-SKY EXPLORER TV HD&&00`d0039847.m3u8
-RAI STORIA 4K HEVCH265&&00`d0012731.m3u8
-RAI STORIA FULL HD&&00`d00238.m3u8
-RAI STORIA HD&&00`d00237.m3u8
-RAI STORIA HD +1&&00`d0012734.m3u8
-RAI SCUOLA 4K HEVC H265&&00`d0012732.m3u8
-RAI SCUOLA FULL HD&&00`d00242.m3u8
-RAI SCUOLA HD&&00`d00241.m3u8
-RAI SCUOLA HD +1&&00`d0012733.m3u8
-DMAX FULL HD&&00`d00133.m3u8
-SKY DMAX&&00`d00336.m3u8
-SKY DMAX +1&&00`d005535.m3u8
-FOCUS HEVC H265&&00`d0026059.m3u8
-FOCUS&&00`d00325.m3u8
-FOCUS +1&&00`d005630.m3u8
-ALMA TV - ALICE & MARCOPOLO&&00`d0026044.m3u8
-Travel & Living&&00`d0048584.m3u8
-Lifestyle&&00`d0048585.m3u8
-CLASS TV MODA&&00`d00350.m3u8
-[S+] SKY  ARTE FULL HD&&00`d0038740.m3u8
-[S+] SKY  ARTE HD&&00`d0038741.m3u8
-[S+] SKY DISCOVERY  FULL HD&&00`d0038746.m3u8
-[S+] SKY DISCOVERY  HD&&00`d0038747.m3u8
-[S+] SKY DOCUMENTARIES FHD&&00`d0046838.m3u8
-[S+] SKY DOCUMENTARIES HD&&00`d0046837.m3u8
-[S+] SKY NATURE FHD&&00`d0046839.m3u8
-[S+] SKY NATURE HD&&00`d0046840.m3u8
-[S+] SKY  HISTORY FULL HD&&00`d0038750.m3u8
-[S+] SKY  HISTORY HD&&00`d0038751.m3u8
-[S+] SKY CRIME  FULL HD&&00`d0038677.m3u8
-[S+] SKY CRIME  HD&&00`d0038678.m3u8
-[S+] SKY EXPLORER FHD&&00`d0046836.m3u8
-[S+] SKY EXPLORER HD&&00`d0046835.m3u8
-[S+] DMAX FULL HD&&00`d0039300.m3u8
-[S+] DMAX HD&&00`d0039299.m3u8
-[S+] FOCUS FULL HD&&00`d0038945.m3u8
-[S+] FOCUS HD&&00`d0038946.m3u8
-[S+] RAI SCUOLA FULL HD&&00`d0038755.m3u8
-[S+] RAI SCUOLA HD&&00`d0038754.m3u8
-[S+] ALMA MARCOPOLO HD&&00`d0038756.m3u8
-SKY DEA KIDS FULL HD&&00`d00147.m3u8
-SKY DEA KIDS HD&&00`d00146.m3u8
-SKY NICK JR FULL HD&&00`d0089.m3u8
-SKY NICK JR HD&&00`d0088.m3u8
-NICK JR SD&&00`d00291.m3u8
-BOING&&00`d00364.m3u8
-BOING PLUS&&00`d00363.m3u8
-CARTOONITO&&00`d00356.m3u8
-K2&&00`d00303.m3u8
-NOVE&&00`d00289.m3u8
-FRISBEE MINI&&00`d00115.m3u8
-RAI GULP FULL HD&&00`d00249.m3u8
-RAI GULP HD&&00`d00248.m3u8
-RAI YOYO FULL HD&&00`d00236.m3u8
-RAI YOYO HD&&00`d00235.m3u8
-SUPER!&&00`d0018.m3u8
-SKY NICKELODEON FULL HD&&00`d0087.m3u8
-SKY NICKELODEON HD&&00`d0086.m3u8
-NICKELODEON SD&&00`d00290.m3u8
-SKY BOOMERANG FULL HD&&00`d00213.m3u8
-SKY BOOMERANG HD&&00`d00212.m3u8
-SKY CARTOON NETWORK FULL HD&&00`d00192.m3u8
-SKY CARTOON NETWORK HD&&00`d00191.m3u8
-SKY BABY TV FULL HD&&00`d00218.m3u8
-Yamato Animation&&00`d0039078.m3u8
-[S+] SKY  DEAKIDS FULL HD&&00`d0038760.m3u8
-[S+] SKY  DEAKIDS HD&&00`d0038761.m3u8
-[S+] SKY NICKJR FULL HD&&00`d0038762.m3u8
-[S+] SKY NICKJR HD&&00`d0038763.m3u8
-[S+] SKY NICKELODEON FULL HD&&00`d0038764.m3u8
-[S+] SKY NICKELODEON HD&&00`d0038765.m3u8
-[S+] SKY BOOMERANG FULL HD&&00`d0038766.m3u8
-[S+] SKY CARTOON NETWORK FULL HD&&00`d0038767.m3u8
-[S+] SKY CARTOON NETWORK HD&&00`d0038768.m3u8
-[S+] SKY BABY FULL HD&&00`d0038769.m3u8
-[S+] SKY BABY HD&&00`d0038770.m3u8
-[S+] BOING PLUS HD&&00`d0038771.m3u8
-[S+] RAI GULP FULL HD&&00`d0038948.m3u8
-[S+] RAI GULP HD&&00`d0038949.m3u8
-[S+] RAI YOYO FULL HD&&00`d0038950.m3u8
-[S+] RAI YOYO HD&&00`d0038951.m3u8
-[S+] BOING&&00`d0038952.m3u8
-[S+] cartoonito&&00`d0038953.m3u8
-[S+] K2&&00`d0038954.m3u8
-[S+] Frisbee&&00`d0038955.m3u8
-[S+] SUPER!&&00`d0038956.m3u8
-SKY TG 24 4K HEVC H265&&00`d006650.m3u8
-SKY TG24 FULL HD&&00`d0031.m3u8
-SKY TG 24 HD&&00`d0032.m3u8
-CN24 NAPOLI&&00`d0052479.m3u8
-RAI NEWS 24 HD&&00`d00245.m3u8
-TGCOM24&&00`d0016.m3u8
-EURONEWS ITALIA&&00`d005848.m3u8
-TG NORBA 24&&00`d0017.m3u8
-[S+] SKY TG24 FULL HD&&00`d0038774.m3u8
-[S+] RAI NEWS 24&&00`d0038958.m3u8
-[S+] EURONEWS ITA HD&&00`d0038772.m3u8
-[S+] TG NORBA 24&&00`d0038773.m3u8
-[S+] TGCOM24&&00`d0038957.m3u8
-[S+] SKY TG24 HD&&00`d0038775.m3u8
-EUROSPORT PLAYER LIVE 1&&00`d0033188.m3u8
-EUROSPORT PLAYER LIVE 2&&00`d0033189.m3u8
-EUROSPORT PLAYER LIVE 3&&00`d0026116.m3u8
-EUROSPORT PLAYER LIVE 4&&00`d0026117.m3u8
-EUROSPORT PLAYER LIVE 5&&00`d0026118.m3u8
-EUROSPORT PLAYER LIVE 6&&00`d0026119.m3u8
-EUROSPORT PLAYER LIVE 7&&00`d0026120.m3u8
-EUROSPORT PLAYER LIVE 8&&00`d0026121.m3u8
-EUROSPORT PLAYER LIVE 9&&00`d0026122.m3u8
-EUROSPORT PLAYER LIVE 10&&00`d0026123.m3u8
-EUROSPORT PLAYER LIVE 11&&00`d0032734.m3u8
-EUROSPORT PLAYER LIVE 12&&00`d0032735.m3u8
-EUROSPORT PLAYER LIVE 13&&00`d0032737.m3u8
-EUROSPORT PLAYER LIVE 14&&00`d0032736.m3u8
-EUROSPORT PLAYER LIVE 15&&00`d0032738.m3u8
-EUROSPORT PLAYER LIVE 16&&00`d0032739.m3u8
-EUROSPORT PLAYER LIVE 17&&00`d0039475.m3u8
-EUROSPORT PLAYER LIVE 18&&00`d0039476.m3u8
-ATP TENNIS PASS LIVE 1&&00`d0032757.m3u8
-ATP TENNIS PASS LIVE 2&&00`d0032758.m3u8
-ATP TENNIS PASS LIVE 3&&00`d0032759.m3u8
-ATP TENNIS PASS LIVE 4&&00`d0038392.m3u8
-ATP TENNIS PASS LIVE 5&&00`d0038393.m3u8
-[REG] 111 Tv&&00`d0039883.m3u8
-[REG] 12 Tv Parma&&00`d0039884.m3u8
-[REG] 696 Tv&&00`d0039885.m3u8
-[REG] 8 Video Calabria&&00`d0039886.m3u8
-[REG] AB Channel&&00`d0039887.m3u8
-[REG] Abc Tv&&00`d0039888.m3u8
-[REG] Alpa 1&&00`d0039889.m3u8
-[REG] Alto Adige Tv&&00`d0039890.m3u8
-[REG] Antenna 2 Bergamo&&00`d0039891.m3u8
-[REG] Antenna 3 Massa&&00`d0039892.m3u8
-[REG] Antenna 3 Veneto Nord Est&&00`d0039893.m3u8
-[REG] Antenna Sud 13&&00`d0039894.m3u8
-[REG] Antenna Sud 174&&00`d0039895.m3u8
-[REG] Antenna Sud 299&&00`d0039896.m3u8
-[REG] Antenna Sud 85&&00`d0039897.m3u8
-[REG] Antenna Sud 90&&00`d0039898.m3u8
-[REG] Apulia Web Tv&&00`d0039899.m3u8
-[REG] Aurora Arte&&00`d0039900.m3u8
-[REG] Azzurra Tv Vco&&00`d0039901.m3u8
-[REG] Basilicata 1 Tv&&00`d0039902.m3u8
-[REG] Bergamo Tv&&00`d0039903.m3u8
-[REG] BFC&&00`d0039904.m3u8
-[REG] BIKE&&00`d0039905.m3u8
-[REG] Byoblu Tv&&00`d0039906.m3u8
-[REG] Cafe Tv 24&&00`d0039907.m3u8
-[REG] Calabria Uno TV&&00`d0039908.m3u8
-[REG] Calabria tv&&00`d0039909.m3u8
-[REG] Canale 10&&00`d0039910.m3u8
-[REG] Canale 12 Sassari&&00`d0039911.m3u8
-[REG] Canale 16&&00`d0039912.m3u8
-[REG] Canale 18&&00`d0039913.m3u8
-[REG] Canale 2&&00`d0039914.m3u8
-[REG] Canale 21 Campania&&00`d0039915.m3u8
-[REG] Canale 21 Lazio&&00`d0039916.m3u8
-[REG] Canale 58&&00`d0039917.m3u8
-[REG] Canale 7&&00`d0039918.m3u8
-[REG] Canale 74 Sicilia&&00`d0039919.m3u8
-[REG] Canale 8&&00`d0039920.m3u8
-[REG] Canale Italia 83&&00`d0039921.m3u8
-[REG] Canale Uno Tivù&&00`d0039922.m3u8
-[REG] Carina Tv&&00`d0039923.m3u8
-[REG] Casa del Sole Tv&&00`d0039924.m3u8
-[REG] Casa Sanremo TV&&00`d0039925.m3u8
-[REG] Castrovillari Tv&&00`d0039926.m3u8
-[REG] Chiesa Tv&&00`d0039927.m3u8
-[REG] Ciao USA&&00`d0039928.m3u8
-[REG] Cilento Channel&&00`d0039929.m3u8
-[REG] Class CNBC&&00`d0039930.m3u8
-[REG] Cremona 1&&00`d0039931.m3u8
-[REG] Cusano Italia Tv&&00`d0039932.m3u8
-[REG] Di.Tv 90&&00`d0039933.m3u8
-[REG] Di.Tv 92&&00`d0039934.m3u8
-[REG] Digital Tv7 Benevento&&00`d0039935.m3u8
-[REG] Donna Shopping Tv&&00`d0039936.m3u8
-[REG] E`live Brescia Tv&&00`d0039937.m3u8
-[REG] Easy Tv&&00`d0039938.m3u8
-[REG] Explorer&&00`d0039939.m3u8
-[REG] Entella Tv&&00`d0039940.m3u8
-[REG] Espansione Tv&&00`d0039941.m3u8
-[REG] Esperia Tv&&00`d0039942.m3u8
-[REG] Etna Espresso Channel&&00`d0039943.m3u8
-[REG] Etv Marche&&00`d0039944.m3u8
-[REG] Etv Rete7&&00`d0039945.m3u8
-[REG] Euro Tv&&00`d0039946.m3u8
-[REG] FM Tv Marche&&00`d0039947.m3u8
-[REG] Fano Tv (Canale17)&&00`d0039948.m3u8
-[REG] GRP Televisione&&00`d0039949.m3u8
-[REG] Giornale Radio Tv&&00`d0039950.m3u8
-[REG] Giovanni Paolo Tv&&00`d0039951.m3u8
-[REG] Gold 78&&00`d0039952.m3u8
-[REG] Gold Tv&&00`d0039953.m3u8
-[REG] History Lab&&00`d0039954.m3u8
-[REG] HUB Tv&&00`d0039955.m3u8
-[REG] Icaro Tv Rimini&&00`d0039956.m3u8
-[REG] Idea Plus&&00`d0039957.m3u8
-[REG] IT Channel&&00`d0039958.m3u8
-[REG] Italia 2&&00`d0039959.m3u8
-[REG] Italia 7&&00`d0039960.m3u8
-[REG] Iunior Tv&&00`d0039961.m3u8
-[REG] L`Altro Corriere Tv&&00`d0039962.m3u8
-[REG] La Grande Italia&&00`d0039963.m3u8
-[REG] La Tua Tv&&00`d0039964.m3u8
-[REG] La tr3 Marsala&&00`d0039965.m3u8
-[REG] LaC News 24&&00`d0039966.m3u8
-[REG] LaC Tv Calabria&&00`d0039967.m3u8
-[REG] Lab Tv&&00`d0039968.m3u8
-[REG] Lazio Tv&&00`d0039969.m3u8
-[REG] Le Cronache Lucane Tv&&00`d0039970.m3u8
-[REG] Lira Tv&&00`d0039971.m3u8
-[REG] Lombardia Tv&&00`d0039972.m3u8
-[REG] Love in Venice&&00`d0039973.m3u8
-[REG] Lucania Tv&&00`d0039974.m3u8
-[REG] Made in BO&&00`d0039975.m3u8
-[REG] Mediterranea Tv&&00`d0039977.m3u8
-[REG] Medjugorje Italia Tv&&00`d0039978.m3u8
-[REG] Medjugorje Tv Puglia&&00`d0039979.m3u8
-[REG] Minformo Tv&&00`d0039980.m3u8
-[REG] NSL&&00`d0039981.m3u8
-[REG] NTI Canale 271&&00`d0039982.m3u8
-[REG] Napoli Nova Tv&&00`d0039983.m3u8
-[REG] New Signal Tv Genova&&00`d0039984.m3u8
-[REG] Nuova TV Nazionale&&00`d0039985.m3u8
-[REG] Nuova Tv 1&&00`d0039986.m3u8
-[REG] Nuova Tv 2&&00`d0039987.m3u8
-[REG] Odeon 24&&00`d0039988.m3u8
-[REG] Ofanto Tv&&00`d0039989.m3u8
-[REG] Onda Novara Tv&&00`d0039990.m3u8
-[REG] Onda Tv Sicilia&&00`d0039991.m3u8
-[REG] Onda Web Radio&&00`d0039992.m3u8
-[REG] One Tv E.R.&&00`d0039993.m3u8
-[REG] Ora Tv&&00`d0039994.m3u8
-[REG] Orler Tv&&00`d0039995.m3u8
-[REG] Padre Pio Tv&&00`d0039996.m3u8
-[REG] Paradise Tv&&00`d0039997.m3u8
-[REG] Parole di Vita&&00`d0039998.m3u8
-[REG] Partenope Tv&&00`d0039999.m3u8
-[REG] Passione Lotto Tv&&00`d0040000.m3u8
-[REG] Pop Tv&&00`d0040001.m3u8
-[REG] PrimAntenna TV&&00`d0040002.m3u8
-[REG] Prima Napoli Tv&&00`d0040003.m3u8
-[REG] Prima Tivvù&&00`d0040004.m3u8
-[REG] Prima Tv Sicilia&&00`d0040005.m3u8
-[REG] Primantenna Torino&&00`d0040006.m3u8
-[REG] Primocanale&&00`d0040007.m3u8
-[REG] Promovideo Tv&&00`d0040008.m3u8
-[REG] Quarto Canale Flegreo&&00`d0040009.m3u8
-[REG] R+Tv Abruzzo&&00`d0040010.m3u8
-[REG] R.T.C. Quarta Rete&&00`d0040011.m3u8
-[REG] R.T.C. Telecalabria&&00`d0040012.m3u8
-[REG] R.T.I. Calabria&&00`d0040013.m3u8
-[REG] RDE Tv&&00`d0040014.m3u8
-[REG] Radio Italia Cina Tv&&00`d0040016.m3u8
-[REG] Radio Libertà&&00`d0040017.m3u8
-[REG] Radio Monte Kronio Tv (R.M.K.)&&00`d0040018.m3u8
-[REG] Reggio Tv&&00`d0040019.m3u8
-[REG] Rete 55&&00`d0040020.m3u8
-[REG] Rete 7 Tv&&00`d0040021.m3u8
-[REG] Rete 8 Vga&&00`d0040022.m3u8
-[REG] Rete 8&&00`d0040023.m3u8
-[REG] Rete 8 Sport&&00`d0040024.m3u8
-[REG] Rete Biella&&00`d0040025.m3u8
-[REG] Rete Chiara&&00`d0040026.m3u8
-[REG] Rete Mia&&00`d0040027.m3u8
-[REG] Rete Oro Tv&&00`d0040028.m3u8
-[REG] Rete Sole (Lazio)&&00`d0040029.m3u8
-[REG] Rete Sole (Umbria)&&00`d0040030.m3u8
-[REG] Rete Tv Italia&&00`d0040031.m3u8
-[REG] Rete Veneta&&00`d0040032.m3u8
-[REG] Roma Ch 71&&00`d0040033.m3u8
-[REG] Rossini Tv&&00`d0040034.m3u8
-[REG] Rtc Targato Napoli&&00`d0040035.m3u8
-[REG] Rtp Tv&&00`d0040036.m3u8
-[REG] Rttr&&00`d0040037.m3u8
-[REG] Rtv 38 Toscana&&00`d0040038.m3u8
-[REG] Rtv Calabria&&00`d0040039.m3u8
-[REG] SL 48 Tv&&00`d0040040.m3u8
-[REG] ST Europe Channel&&00`d0040041.m3u8
-[REG] Sardegna 1&&00`d0040042.m3u8
-[REG] Set Tv Cilento&&00`d0040043.m3u8
-[REG] Sicilia Media&&00`d0040044.m3u8
-[REG] Sicilia Tv&&00`d0040045.m3u8
-[REG] Sienatv&&00`d0040046.m3u8
-[REG] Siracusa Live Tv&&00`d0040047.m3u8
-[REG] Sophia Tv&&00`d0040048.m3u8
-[REG] Sport2U&&00`d0040049.m3u8
-[REG] Stiletv&&00`d0040050.m3u8
-[REG] Studio 100&&00`d0040051.m3u8
-[REG] Super J Tv&&00`d0040052.m3u8
-[REG] Super Six&&00`d0040053.m3u8
-[REG] Supertv&&00`d0040054.m3u8
-[REG] T.R.L Tele Radio Leo&&00`d0040055.m3u8
-[REG] T.S.E. Uno (Tele Scout Europa)&&00`d0040056.m3u8
-[REG] T9&&00`d0040057.m3u8
-[REG] TRC Santeramo&&00`d0040058.m3u8
-[REG] TSD Tv Arezzo(Tele San Domenico)&&00`d0040059.m3u8
-[REG] TVL (TV Libera Pistoia)&&00`d0040060.m3u8
-[REG] Tcf Tv&&00`d0040061.m3u8
-[REG] Tci&&00`d0040062.m3u8
-[REG] Teatro Tv&&00`d0040063.m3u8
-[REG] Tele A&&00`d0040064.m3u8
-[REG] Tele Abruzzo Tv&&00`d0040065.m3u8
-[REG] Tele Acras&&00`d0040066.m3u8
-[REG] Tele Arena&&00`d0040067.m3u8
-[REG] Tele Argento/Magic Tv&&00`d0040068.m3u8
-[REG] Tele Bari&&00`d0040069.m3u8
-[REG] Tele Belluno&&00`d0040070.m3u8
-[REG] Tele Blu&&00`d0040071.m3u8
-[REG] Tele Boario&&00`d0040072.m3u8
-[REG] Tele Bruzzano&&00`d0040073.m3u8
-[REG] Tele Chiara&&00`d0040074.m3u8
-[REG] Tele Citta` Padova&&00`d0040075.m3u8
-[REG] Tele Club Italia&&00`d0040076.m3u8
-[REG] Tele Clusone Bergamo&&00`d0040077.m3u8
-[REG] Tele Color Lombardia&&00`d0040078.m3u8
-[REG] Tele Cupole&&00`d0040079.m3u8
-[REG] Tele Estense&&00`d0040080.m3u8
-[REG] Tele Foggia&&00`d0040081.m3u8
-[REG] Tele Friuli&&00`d0040082.m3u8
-[REG] Tele Gela&&00`d0040083.m3u8
-[REG] Tele Genova&&00`d0040084.m3u8
-[REG] Tele Granda&&00`d0040085.m3u8
-[REG] Tele Ischia&&00`d0040086.m3u8
-[REG] Tele Jonio&&00`d0040087.m3u8
-[REG] Tele Lazio Nord&&00`d0040088.m3u8
-[REG] Tele Liberta`&&00`d0040089.m3u8
-[REG] Tele Liguria Sud&&00`d0040090.m3u8
-[REG] Tele Mantova&&00`d0040091.m3u8
-[REG] Tele Mia Extra&&00`d0040092.m3u8
-[REG] Tele Mia&&00`d0040093.m3u8
-[REG] Tele Mistretta Life e Family&&00`d0040094.m3u8
-[REG] Tele Mistretta Radio&&00`d0040095.m3u8
-[REG] Tele Mistretta&&00`d0040096.m3u8
-[REG] Tele Molise&&00`d0040097.m3u8
-[REG] Tele Monteneve 3&&00`d0040098.m3u8
-[REG] Tele Norba (TG Norba 24 )&&00`d0040099.m3u8
-[REG] Tele Nord Est&&00`d0040100.m3u8
-[REG] Tele Nord Genova&&00`d0040101.m3u8
-[REG] Tele Nostra&&00`d0040102.m3u8
-[REG] Tele Occidente&&00`d0040103.m3u8
-[REG] Tele Oltre&&00`d0040104.m3u8
-[REG] Tele One&&00`d0040105.m3u8
-[REG] Tele Pace 1&&00`d0040106.m3u8
-[REG] Tele Pace 2&&00`d0040107.m3u8
-[REG] Tele Pace 3&&00`d0040108.m3u8
-[REG] Tele Pace 4&&00`d0040109.m3u8
-[REG] Tele Pace News&&00`d0040110.m3u8
-[REG] Tele Pace Roma&&00`d0040111.m3u8
-[REG] Tele Pace Trento&&00`d0040112.m3u8
-[REG] Tele Pace Verona&&00`d0040113.m3u8
-[REG] Tele Pavia&&00`d0040114.m3u8
-[REG] Tele Pegaso&&00`d0040115.m3u8
-[REG] Tele Piadena&&00`d0040116.m3u8
-[REG] Tele Pordenone&&00`d0040117.m3u8
-[REG] Tele Prima&&00`d0040118.m3u8
-[REG] Tele Quattro Trieste&&00`d0040119.m3u8
-[REG] Tele Radio Ercolano&&00`d0040120.m3u8
-[REG] Tele Radio Orte&&00`d0040121.m3u8
-[REG] Tele Radio Sciacca&&00`d0040122.m3u8
-[REG] Tele Radio Studio 5&&00`d0040123.m3u8
-[REG] Tele Rama&&00`d0040124.m3u8
-[REG] Tele Roma 1&&00`d0040125.m3u8
-[REG] Tele Romagna 24&&00`d0040126.m3u8
-[REG] Tele Romagna Lifestyle&&00`d0040127.m3u8
-[REG] Tele Romagna Mia&&00`d0040128.m3u8
-[REG] Tele Romagna&&00`d0040129.m3u8
-[REG] Tele Sirio&&00`d0040130.m3u8
-[REG] Tele Spazio Messina&&00`d0040131.m3u8
-[REG] Tele Star 1&&00`d0040132.m3u8
-[REG] Tele Sud Puglia&&00`d0040133.m3u8
-[REG] Tele Sveva News 24&&00`d0040134.m3u8
-[REG] Tele Tebe&&00`d0040135.m3u8
-[REG] Tele Terni&&00`d0040136.m3u8
-[REG] Tele Tricolore&&00`d0040137.m3u8
-[REG] Tele Tutto 2&&00`d0040138.m3u8
-[REG] Tele Tutto 24&&00`d0040139.m3u8
-[REG] Tele Tutto&&00`d0040140.m3u8
-[REG] Tele Venezia&&00`d0040141.m3u8
-[REG] Tele Video Agrigento (T.V.A.)&&00`d0040142.m3u8
-[REG] TeleAmbiente&&00`d0040143.m3u8
-[REG] TeleMajg&&00`d0040144.m3u8
-[REG] TeleRent 7Gold&&00`d0040145.m3u8
-[REG] Telesud Trapani&&00`d0040146.m3u8
-[REG] Teleuniverso&&00`d0040147.m3u8
-[REG] Televallo Trapani&&00`d0040148.m3u8
-[REG] Tevere Tv&&00`d0040149.m3u8
-[REG] TLT Molise&&00`d0040150.m3u8
-[REG] Touring Tv&&00`d0040151.m3u8
-[REG] Trentino Tv&&00`d0040152.m3u8
-[REG] Tris News&&00`d0040153.m3u8
-[REG] Tris Siracusa&&00`d0040154.m3u8
-[REG] Tsn Lecco&&00`d0040155.m3u8
-[REG] Tsn Tele Sondrio News&&00`d0040156.m3u8
-[REG] Tua Channel&&00`d0040157.m3u8
-[REG] Tuscia Sabina 2000Tv&&00`d0040158.m3u8
-[REG] Tv 6&&00`d0040159.m3u8
-[REG] Tv Campane 1&&00`d0040160.m3u8
-[REG] Tv Campania Streaming&&00`d0040161.m3u8
-[REG] Tv Luna Napoli&&00`d0040162.m3u8
-[REG] Tv Prato&&00`d0040163.m3u8
-[REG] Tv Qui Modena&&00`d0040164.m3u8
-[REG] Tv Uno&&00`d0040165.m3u8
-[REG] Tv Yes&&00`d0040166.m3u8
-[REG] Tv7 Azzurra&&00`d0040167.m3u8
-[REG] Tv7 News&&00`d0040168.m3u8
-[REG] Tv7 Triveneta&&00`d0040169.m3u8
-[REG] Tva Agrigento&&00`d0040170.m3u8
-[REG] Tva Vicenza&&00`d0040171.m3u8
-[REG] Tvr Xenon&&00`d0040172.m3u8
-[REG] Tvrs Tv&&00`d0040173.m3u8
-[REG] Umbria TV&&00`d0040174.m3u8
-[REG] Vera Tv&&00`d0040175.m3u8
-[REG] Video 33&&00`d0040176.m3u8
-[REG] Video Brescia&&00`d0040177.m3u8
-[REG] Video Mediterraneo&&00`d0040178.m3u8
-[REG] Video Nola&&00`d0040179.m3u8
-[REG] Video Star&&00`d0040180.m3u8
-[REG] Videolina&&00`d0040181.m3u8
-[REG] Videostar Tv Lombardia&&00`d0040182.m3u8
-[REG] Vintage Radio Tv&&00`d0040183.m3u8
-[REG] Vuemme Tv&&00`d0040184.m3u8
-[REG] Well Tv&&00`d0040185.m3u8
-[REG] Yvii Tv&&00`d0040186.m3u8
-[REG] Zerouno Tv News&&00`d0040187.m3u8
-ID  TVRI Aceh&&http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIACEH)/index.m3u8
-ID  TVRI Bali&&http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIBALI)/index.m3u8
-ID  TVRI Bangka Belitung&&http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIBABEL)/index.m3u8
-ID  TVRI Bengkulu&&http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIBENGKULU)/index.m3u8
-ID  TVRI DKI Jakarta&&http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIDKI)/index.m3u8
-ID  TVRI Gorontalo&&http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIGORONTALO)/index.m3u8
-ID  TVRI Jambi&&http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJAMBI)/index.m3u8
-ID  TVRI Jawa Barat&&http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/index.m3u8
-ID  TVRI Jawa Tengah&&http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJATENGSEMARANG)/index.m3u8
-ID  TVRI Jawa Timur&&http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJATIMSURABAYA)/index.m3u8
-ID  TVRI Kalimantan Barat&&http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKALBAR)/index.m3u8
-ID  TVRI Kalimantan Selatan&&http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKALSELBANJARMSN)/index.m3u8
-ID  TVRI Kalimantan Tengah&&http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKALTENG)/index.m3u8
-ID  TVRI Kalimantan Timur&&http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKALTIMSAMARINDA)/index.m3u8
-ID  TVRI Lampung&&http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRILAMPUNG)/index.m3u8
-ID  TVRI Maluku&&http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIMALUKUAMBON)/index.m3u8
-ID  TVRI Nasional&&http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
-ID  TVRI Nusa Tenggara Barat&&http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINTBMATARAM)/index.m3u8
-ID  TVRI Nusa Tenggara Timur&&http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINTTKUPANG)/index.m3u8
-ID  TVRI Papua&&http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIPAPUA)/index.m3u8
-ID  TVRI Riau&&http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIRIAU)/index.m3u8
-ID  TVRI Sport&&http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/index.m3u8
-ID  TVRI Sulawesi Barat&&http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISULBARMAJENE)/index.m3u8
-ID  TVRI Sulawesi Selatan&&http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISULSELMAKASAR)/index.m3u8
-ID  TVRI Sulawesi Tengah&&http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISULTENGPALU)/index.m3u8
-ID  TVRI Sulawesi Tenggara&&http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISULTRA)/index.m3u8
-ID  TVRI Sumatera Barat&&http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISUMBARPADANG)/index.m3u8
-ID  TVRI Sumatera Selatan&&http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISUMSEL)/index.m3u8
-ID  TVRI Yogyakarta&&http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/index.m3u8
+ID  Indosiar	01`00c350972.m3u8
+ID  Moji	01`00c350997.m3u8
+ID  RCTI	01`00c351023.m3u8
+ID  SCTV	01`00c351030.m3u8
+ID  Sport 1	01`00c350993.m3u8
+ID  SpoTV 1	01`00c351034.m3u8
+ID  SpoTV 2	01`00c351035.m3u8
+ID  Usee Sport 1	01`00c351056.m3u8
+ID  Usee Sport 2	01`00c351057.m3u8
+ID  TVRI Sport	01`00c351052.m3u8
+ID  INews	01`00c350973.m3u8
+ID  Net	01`00c351010.m3u8
+UK  English Club TVᴴᴰ 🇬🇧	http://iptv.prosto.tv:7000/ch206/video.m3u8
+UK  Mr. Bean	http://51.159.104.29:8080/mrbean/index.m3u8
+AR  Fox Kids	http://stmv1.srvif.com/emlsilva/emlsilva/playlist.m3u8
+AR  Urban Kids	http://200.194.238.229:8383/live/urbankids/playlist.m3u8
+MX  DreamWorks sᴅ 🇲🇽	http://45.189.148.24:8000/play/a00m/index.m3u8
+US  Duck TV	http://iptv.prosto.tv:7000/ch209/video.m3u8
+US  GameToonᴴᴰ 🇺🇸	http://iptv.prosto.tv:7000/ch256/video.m3u8
+24h News FHD	http://cdn.connectbr.com.br/24_news/index.m3u8
+AE  Dubai TV	http://210.210.155.35/uq2663/h/h152/index2.m3u8
+BR  Discovery Turboᴴᴰ 🇧🇷	http://170.82.200.35/discovery_turbo/tracks-v1a1/mono.m3u8
+BR  TVE 🇧🇷	http://streaming.procergs.com.br:1935/tve/stve/chunklist.m3u8
+CH  My Cinema Europe	http://210.210.155.35/uq2663/h/h18/index.m3u8
+CN  Discovery Asiaᴴᴰ 🇺🇸🇨🇳	http://198.16.100.90:8278/discoverytwn_twn/playlist.m3u8?tid=MB1B4014431840144318&ct=19254&tsum=a72e8caa6986ef92c4d6cb743e22a78f
+EC  Goltv 🇪🇨	http://157.245.117.238:8000/play/a0ur/index.m3u8
+ES  Galicia Americaᴴᴰ 🇪🇸	http://america-crtvg.flumotion.com/crtvg/america_high/chunks.m3u8
+ES  Galicia Europaᴴᴰ 🇪🇸	http://europa-crtvg.flumotion.com/crtvg/europa_high/chunks.m3u8
+ES  TVE Internacional Asia-Oceania	http://210.210.155.35/uq2663/h/h158/index2.m3u8
+FR  InfoSport 🇫🇷	http://212.102.60.80/Infosport/index.m3u8
+FR  TF1 🇫🇷	http://212.102.60.80/TF1/index.m3u8
+FR  TF1 🇫🇷	http://45.153.35.210:8000/play/FR_tf1_HD/index.m3u8
+HK  Phoenix Chinese	http://210.210.155.35/uq2663/h/h157/index2.m3u8
+MX  ESPN 4 sᴅ 🇲🇽	http://168.227.22.18:1935/live/mobile-205/playlist.m3u8
+MX  Fox Sport 3 🇲🇽	http://stream.flynetwifi.com:1935/live/mobile-108/playlist.m3u8
+PE  ESPN 4 🇵🇪	http://bantel.iptvperu.tv:1935/transcoderip/espnextrabk_t2.stream/playlist.m3u8
+RU  CHD TV Rock 🇷🇺	http://194.26.229.213/chdtv_rock/index.m3u8
+SG  Motorsports	http://210.210.155.35/uq2663/h/h09/index.m3u8
+TR  Türkmenistan Sport 🇹🇷 sᴅ	http://217.174.225.146/hls/ch004_720/index.m3u8
+UA  Freedom	http://210.210.155.35/uq2663/h/h101/index.m3u8
+UK  Arena Premium Liga 🇬🇧ᴴᴰ	http://91.132.74.4:7374/play/a00k/index.m3u8
+UK  Automoto 🇬🇧	http://100automoto.tv:1935/bgtv1/autotv/chunklist_w783411174.m3u8
+UK  BBC First 🇬🇧🇵🇱	http://124.29.225.205:8000/play/a05f/index.m3u8
+UK  BBC News 🇬🇧	http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/545/19176/index.m3u8
+US&Flix	http://89.187.177.137:8081/%26FLIX/index.m3u8
+US&Prive	http://89.187.177.137:8081/%26PRIVE/index.m3u8
+US  Bosi Golf 🇨🇳	http://198.16.100.90:8278/bosigolf1_twn/playlist.m3u8?tid=MD5D3832704238327042&ct=18393&tsum=cbf3bf749c9b0bf4828ab19efff1c5b0
+US  CineMaxᴴᴰ 🇺🇸	http://170.254.18.106/CINEMAX/index.m3u8
+US  DW 🇺🇸	http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDIxIDEyOjQ3OjU3IFBNJmhhc2hfdmFsdWU9ZkJ0QTd3enJhWUtYSGsrZHFieUZodz09JnZhbGlkbWludXRlcz00ODA=
+US  HBO 2 🇺🇸🇮🇳	http://170.254.18.106/HBO2/index.m3u8
+US  HBO Mundi 🇺🇸🇮🇳	http://170.254.18.106/HBO_MUNDI/index.m3u8
+US  MTV 90s	http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch241)/index.m3u8
+US  One Golf 🇺🇸	http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8
+US  Red Bull TVᴴᴰ 🇺🇸	http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+US  Toonami AfterMath East	http://api.toonamiaftermath.com:3000/est/playlist.m3u8
+US  Trips Marterᴴᴰ 🇺🇸	http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist.m3u8
+US  W Sport	http://210.210.155.35/uq2663/h/h26/index.m3u8
+eSports Max	http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
+Eurosport 1 🇵🇱🇺🇸ᴴᴰ	http://54.39.17.6:8080/eurosport/playlist.m3u8
+A&E	http://168.227.22.18:1935/live/mobile-158/playlist.m3u8
+A3 Cine	http://168.227.22.18:1935/live/mobile-028/playlist.m3u8
+A3 Series Int	http://168.227.22.18:1935/live/mobile-047/playlist.m3u8
+AMC	http://168.227.22.18:1935/live/mobile-079/playlist.m3u8
+Animal Planet	http://168.227.22.18:1935/live/mobile-068/playlist.m3u8
+Antena 3 Int	http://168.227.22.18:1935/live/mobile-008/playlist.m3u8
+AXN	http://168.227.22.18:1935/live/mobile-048/playlist.m3u8
+Azteca Int	http://168.227.22.18:1935/live/mobile-117/playlist.m3u8
+Baby TV	http://168.227.22.18:1935/live/mobile-060/playlist.m3u8
+C10	http://168.227.22.18:1935/live/mobile-037/playlist.m3u8
+Canal 11	http://168.227.22.18:1935/live/mobile-132/playlist.m3u8
+Canal 12 SV	http://168.227.22.18:1935/live/mobile-082/playlist.m3u8
+Canal 2	http://168.227.22.18:1935/live/mobile-110/playlist.m3u8
+Canal 21	http://168.227.22.18:1935/live/mobile-049/playlist.m3u8
+Canal 3	http://168.227.22.18:1935/live/mobile-114/playlist.m3u8
+Canal 7	http://168.227.22.18:1935/live/mobile-131/playlist.m3u8
+Canal D	http://168.227.22.18:1935/live/mobile-097/playlist.m3u8
+Canal Movie	http://168.227.22.18:1935/live/mobile-115/playlist.m3u8
+Canal TRV	http://168.227.22.18:1935/live/mobile-150/playlist.m3u8
+Cartoon Network	http://168.227.22.18:1935/live/mobile-029/playlist.m3u8
+Cartoonito	http://168.227.22.18:1935/live/mobile-055/playlist.m3u8
+Classic Cinema	http://168.227.22.18:1935/live/mobile-120/playlist.m3u8
+Cli	http://168.227.22.18:1935/live/mobile-119/playlist.m3u8
+CNBC	http://168.227.22.18:1935/live/mobile-098/playlist.m3u8
+CNN	http://168.227.22.18:1935/live/mobile-061/playlist.m3u8
+Comedy Central	http://168.227.22.18:1935/live/mobile-001/playlist.m3u8
+Corazon	http://168.227.22.18:1935/live/mobile-118/playlist.m3u8
+Disc Turbo	http://168.227.22.18:1935/live/mobile-109/playlist.m3u8
+Discovery	http://168.227.22.18:1935/live/mobile-006/playlist.m3u8
+Dreamworks	http://168.227.22.18:1935/live/mobile-099/playlist.m3u8
+E!	http://168.227.22.18:1935/live/mobile-156/playlist.m3u8
+ENI	http://168.227.22.18:1935/live/mobile-067/playlist.m3u8
+ES NE	http://168.227.22.18:1935/live/mobile-124/playlist.m3u8
+ESPN 1 MX	http://168.227.22.18:1935/live/mobile-032/playlist.m3u8
+ESPN 2 MX	http://168.227.22.18:1935/live/mobile-033/playlist.m3u8
+ESPN 3 MX	http://168.227.22.18:1935/live/mobile-121/playlist.m3u8
+Film & Arts	http://168.227.22.18:1935/live/mobile-142/playlist.m3u8
+Fox Deportes	http://168.227.22.18:1935/live/mobile-104/playlist.m3u8
+Fox Sports 1 MX	http://168.227.22.18:1935/live/mobile-010/playlist.m3u8
+Fox Sports 2 MX	http://168.227.22.18:1935/live/mobile-031/playlist.m3u8
+Fox Sports 3 MX	http://168.227.22.18:1935/live/mobile-108/playlist.m3u8
+Frente A Frente	http://168.227.22.18:1935/live/mobile-111/playlist.m3u8
+FX	http://168.227.22.18:1935/live/mobile-123/playlist.m3u8
+Golden	http://168.227.22.18:1935/live/mobile-141/playlist.m3u8
+Guate Vision	http://168.227.22.18:1935/live/mobile-149/playlist.m3u8
+H&H	http://168.227.22.18:1935/live/mobile-107/playlist.m3u8
+HBO 2	http://168.227.22.18:1935/live/mobile-094/playlist.m3u8
+Hinspan TV	http://168.227.22.18:1935/live/mobile-147/playlist.m3u8
+History	http://168.227.22.18:1935/live/mobile-058/playlist.m3u8
+History 2	http://168.227.22.18:1935/live/mobile-157/playlist.m3u8
+Hola TV	http://168.227.22.18:1935/live/mobile-013/playlist.m3u8
+IVC	http://168.227.22.18:1935/live/mobile-153/playlist.m3u8
+LaLiga TV	http://168.227.22.18:1935/live/mobile-017/playlist.m3u8
+Lifetime	http://168.227.22.18:1935/live/mobile-154/playlist.m3u8
+Mas CHiC	http://168.227.22.18:1935/live/mobile-146/playlist.m3u8
+MC	http://168.227.22.18:1935/live/mobile-044/playlist.m3u8
+Modo Cine	http://168.227.22.18:1935/live/mobile-140/playlist.m3u8
+MTV	http://168.227.22.18:1935/live/mobile-063/playlist.m3u8
+MultiPremier	http://168.227.22.18:1935/live/mobile-021/playlist.m3u8
+National Geographic	http://168.227.22.18:1935/live/mobile-091/playlist.m3u8
+Nick	http://168.227.22.18:1935/live/mobile-112/playlist.m3u8
+Nick Jr	http://168.227.22.18:1935/live/mobile-011/playlist.m3u8
+Nick Music	http://168.227.22.18:1935/live/mobile-039/playlist.m3u8
+Paramount	http://168.227.22.18:1935/live/mobile-004/playlist.m3u8
+Pasiones	http://168.227.22.18:1935/live/mobile-014/playlist.m3u8
+RCN Int	http://168.227.22.18:1935/live/mobile-072/playlist.m3u8
+RCN Novelas	http://168.227.22.18:1935/live/mobile-066/playlist.m3u8
+RTVE.ES	http://168.227.22.18:1935/live/mobile-100/playlist.m3u8
+Russia Today	http://168.227.22.18:1935/live/mobile-009/playlist.m3u8
+Sony Channel	http://168.227.22.18:1935/live/mobile-035/playlist.m3u8
+Sony Movies	http://168.227.22.18:1935/live/mobile-034/playlist.m3u8
+Space	http://168.227.22.18:1935/live/mobile-003/playlist.m3u8
+Star Channel	http://168.227.22.18:1935/live/mobile-057/playlist.m3u8
+Star TVE	http://168.227.22.18:1935/live/mobile-129/playlist.m3u8
+Starz	http://168.227.22.18:1935/live/mobile-015/playlist.m3u8
+Studio Universal	http://168.227.22.18:1935/live/mobile-026/playlist.m3u8
+SYFY USA	http://168.227.22.18:1935/live/mobile-059/playlist.m3u8
+TCS+	http://168.227.22.18:1935/live/mobile-135/playlist.m3u8
+Telemundo	http://168.227.22.18:1935/live/mobile-040/playlist.m3u8
+Telemundo Int	http://168.227.22.18:1935/live/mobile-152/playlist.m3u8
+Telesur	http://168.227.22.18:1935/live/mobile-116/playlist.m3u8
+TN 23	http://168.227.22.18:1935/live/mobile-130/playlist.m3u8
+TNT	http://168.227.22.18:1935/live/mobile-074/playlist.m3u8
+TNT Series	http://168.227.22.18:1935/live/mobile-046/playlist.m3u8
+TNT Sports CH	http://168.227.22.18:1935/live/mobile-143/playlist.m3u8
+Tooncast	http://168.227.22.18:1935/live/mobile-002/playlist.m3u8
+TV Azteca Guate	http://168.227.22.18:1935/live/mobile-148/playlist.m3u8
+TVE	http://168.227.22.18:1935/live/mobile-128/playlist.m3u8
+TVO	http://168.227.22.18:1935/live/mobile-071/playlist.m3u8
+TVU El Savador	http://168.227.22.18:1935/live/mobile-113/playlist.m3u8
+TyC Sports	http://168.227.22.18:1935/live/mobile-005/playlist.m3u8
+Universal TV	http://168.227.22.18:1935/live/mobile-064/playlist.m3u8
+Universo	http://168.227.22.18:1935/live/mobile-065/playlist.m3u8
+Univision	http://168.227.22.18:1935/live/mobile-045/playlist.m3u8
+Univision 4	http://168.227.22.18:1935/live/mobile-036/playlist.m3u8
+WB TV	http://168.227.22.18:1935/live/mobile-030/playlist.m3u8
+Win+	http://168.227.22.18:1935/live/mobile-062/playlist.m3u8
+ZooMoo	http://168.227.22.18:1935/live/mobile-069/playlist.m3u8
+ID  Bandung TV	http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
+ID  Batu TV	http://117.103.69.219:8080/live/streaming/index.m3u8
+ID  BNTV	http://210.210.155.35/uq2663/h/h39/index.m3u8
+ID  DFC Dens Food Channel	http://210.210.155.35/x6bnqe/s/s50/live.m3u8
+ID  Jek TV	http://61.8.64.138:1935/jektv/myStream/playlist.m3u8
+ID  Jogja Istimewa TV	http://103.255.15.222:1935/tv/jitv/playlist.m3u8
+ID  Magna Channel	http://210.210.155.35/uq2663/h/h24/index.m3u8
+ID  Metro Globe Network	http://210.210.155.35/uq2663/h/h35/index.m3u8
+ID  Radar Tasikmalaya TV	http://103.140.188.211:1935/radartv/myStream/playlist.m3u8
+ID  Tegar TV Lampung	http://wms.klikhost.com:1935/tegartv/tegartv/playlist.m3u8
+ID  TVKU	http://103.30.1.14:8080/hls/live.m3u8
+ID  ANTV	http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
+ID  Indosiar	http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
+ID  Kompas TV	http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
+ID  Metro TV	http://op-group1-swiftservehd-1.dens.tv/h/h211/02.m3u8
+ID  Net TV	http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
+ID  RTV	http://210.210.155.37/uq2663/h/h10/02.m3u8
+ID  SCTV	http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
+ID  TVOne	http://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
+ID  TVRI	http://op-group1-swiftservehd-1.dens.tv/h/h237/02.m3u8
+ID  BBC News Asia Pacific	http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
+ID  K+	http://210.210.155.37/uq2663/h/h08/index.m3u8
+ID  Kix	http://210.210.155.37/dr9445/h/h07/index.m3u8
+ID  My Cinema	http://210.210.155.37/uq2663/h/h192/index.m3u8
+ID  My Cinema Asia	http://210.210.155.37/uq2663/h/h193/index.m3u8
+ID  My Family Channel	http://210.210.155.37/uq2663/h/h194/index.m3u8
+ID  My Kidz	http://210.210.155.37/uq2663/h/h191/index.m3u8
+ID  ROCK Action	http://210.210.155.37/dr9445/h/h15/index.m3u8
+ID  ROCK Entertainment	http://210.210.155.37/dr9445/h/h16/index.m3u8
+ID  SPOTV1	http://202.150.161.68/spotv1/index.m3u8
+ID  SPOTV2	http://202.150.161.68/spotv2/index.m3u8
+ID  tvN Movies	http://210.210.155.37/dr9445/h/h21/index.m3u8
+US  Tom & Jerry 🇺🇸	http://24hrs.homelinux.com/24H-tom-e-jerry/video.m3u8
+INFO EVENTI	00`d0039395.m3u8
+RAI ITALIA	00`d0026060.m3u8
+RAI 1  4K HEVC H265	00`d005322.m3u8
+RAI 1 FULL HD	00`d00262.m3u8
+RAI 1 HD	00`d00261.m3u8
+RAI 1 SD	00`d00260.m3u8
+RAI 1 HD +1	00`d005410.m3u8
+RAI 2  4K HEVC H265	00`d005324.m3u8
+RAI 2 FULL HD	00`d00259.m3u8
+RAI 2 HD	00`d00258.m3u8
+RAI 2 SD	00`d00257.m3u8
+RAI 2 HD +1	00`d005411.m3u8
+RAI 3  4K HEVC H265	00`d005326.m3u8
+RAI 3 FULL HD	00`d00256.m3u8
+RAI 3 HD	00`d00255.m3u8
+RAI 3 SD	00`d00254.m3u8
+RAI 3 HD +1	00`d005412.m3u8
+RETE 4 4K HEVC H265	00`d005328.m3u8
+RETE 4 FULL HD	00`d00230.m3u8
+RETE 4 HD	00`d00229.m3u8
+RETE 4 SD	00`d00228.m3u8
+RETE 4 HD +1	00`d005413.m3u8
+CANALE 5  4K HEVC H265	00`d005318.m3u8
+CANALE 5 FULL HD	00`d00359.m3u8
+CANALE 5 HD	00`d00358.m3u8
+CANALE 5 SD	00`d00357.m3u8
+CANALE 5 HD +1	00`d005414.m3u8
+ITALIA 1  4K HEVC H265	00`d005320.m3u8
+ITALIA 1 FULL HD	00`d00308.m3u8
+ITALIA 1 HD	00`d00307.m3u8
+ITALIA 1 SD	00`d00306.m3u8
+ITALIA 1 HD +1	00`d0012728.m3u8
+LA 7 FULL HD	00`d00300.m3u8
+LA 7 HD	00`d00301.m3u8
+LA 7 +1	00`d005416.m3u8
+BYOBLU24	00`d005843.m3u8
+GOLD TV	00`d0046825.m3u8
+Telelombardia	00`d0046824.m3u8
+HGTV	00`d0039064.m3u8
+RSI LA 1 HD	00`d0026043.m3u8
+RSI LA 1 HD +1	00`d0026045.m3u8
+RSI LA 2 HD	00`d0026042.m3u8
+RSI LA 2 HD +1	00`d0026046.m3u8
+LA 7D FULL HD	00`d00298.m3u8
+LA 7D	00`d00299.m3u8
+TV 8	00`d0013.m3u8
+TV 8 +1	00`d005417.m3u8
+NOVE FULL HD	00`d00288.m3u8
+NOVE +1	00`d005418.m3u8
+CINE 34	00`d005280.m3u8
+CINE 34 +1	00`d005419.m3u8
+RAI PREMIUM FULL HD	00`d00244.m3u8
+RAI PREMIUM HD	00`d00243.m3u8
+RAI PREMIUM HD +1	00`d005420.m3u8
+RAI MOVIE FULL HD	00`d00247.m3u8
+RAI MOVIE HD	00`d00246.m3u8
+RAI MOVIE HD +1	00`d005421.m3u8
+RAI 4 FULL HD	00`d00253.m3u8
+RAI 4 HD	00`d00252.m3u8
+RAI 4 HD +1	00`d005423.m3u8
+RAI 5 FULL HD	00`d00251.m3u8
+RAI 5 HD	00`d00250.m3u8
+RAI 5 HD +1	00`d005424.m3u8
+TV2000	00`d0012.m3u8
+PADREPIO	00`d00287.m3u8
+TOP CRIME	00`d0014.m3u8
+TOP CRIME +1	00`d005427.m3u8
+MEDIASET EXTRA	00`d00295.m3u8
+MEDIASET EXTRA +1	00`d005428.m3u8
+CANALE 20 FULL HD	00`d00361.m3u8
+CANALE 20 HD	00`d00360.m3u8
+CANALE 20 HD +1	00`d005430.m3u8
+ITALIA 2	00`d00305.m3u8
+ITALIA 2 +1	00`d005431.m3u8
+LA 5	00`d00302.m3u8
+LA 5 +1	00`d005432.m3u8
+IRIS	00`d00309.m3u8
+IRIS +1	00`d005433.m3u8
+GIALLO	00`d00318.m3u8
+GIALLO +1	00`d005434.m3u8
+SKY RETE 7	00`d0064.m3u8
+NASA TV UHD	00`d00292.m3u8
+QVC FULL HD	00`d00272.m3u8
+HSE 24 HD	00`d00312.m3u8
+DONNA TV 	00`d00334.m3u8
+WarnerTV Italy FHD   	00`d0044349.m3u8
+WarnerTV Italy HD 	00`d0044736.m3u8
+[S+] RAI 1 FULL HD	00`d0038588.m3u8
+[S+] RAI 1 HD	00`d0038589.m3u8
+[S+] RAI 2 FULL HD	00`d0038590.m3u8
+[S+] RAI 2 HD	00`d0038592.m3u8
+[S+] RAI 3 FULL HD	00`d0038591.m3u8
+[S+] RAI 3 HD	00`d0038593.m3u8
+[S+] RETE 4 FULL HD	00`d0038594.m3u8
+[S+] RETE 4 HD	00`d0038595.m3u8
+[S+] CANALE 5 FULL HD	00`d0038596.m3u8
+[S+] CANALE 5 HD	00`d0038597.m3u8
+[S+] ITALIA 1 FULL HD	00`d0038598.m3u8
+[S+] ITALIA 1 HD	00`d0038599.m3u8
+[S+] LA 7 FULL HD	00`d0038600.m3u8
+[S+] LA 7 HD	00`d0038601.m3u8
+[S+] RSI LA 1 FULL HD	00`d0038602.m3u8
+[S+] RSI LA 2 FULL HD	00`d0038603.m3u8
+[S+] LA 7D FULL HD	00`d0038604.m3u8
+[S+] LA 7D HD	00`d0038605.m3u8
+[S+] TV8 FULL HD	00`d0038606.m3u8
+[S+] NOVE FULL HD	00`d0038607.m3u8
+[S+] NOVE HD	00`d0038608.m3u8
+[S+] CINE34 FULL HD	00`d0038609.m3u8
+[S+] RAI PREMIUM FULL HD	00`d0038610.m3u8
+[S+] RAI PREMIUM HD	00`d0038611.m3u8
+[S+] RAI MOVIE FULL HD	00`d0038612.m3u8
+[S+] RAI 4 FULL HD	00`d0038614.m3u8
+[S+] RAI 4 HD	00`d0038615.m3u8
+[S+] RAI 5 FULL HD	00`d0038616.m3u8
+[S+] RAI 5 HD	00`d0038617.m3u8
+[S+] TV2000 FULL HD	00`d0038618.m3u8
+[S+] PADREPIO FULL HD	00`d0038619.m3u8
+[S+] TOP CRIME FULL HD	00`d0038620.m3u8
+[S+] MEDIA EXTRA FULL HD	00`d0038621.m3u8
+[S+] CANALE 20 FULL HD	00`d0038622.m3u8
+[S+] CANALE 20 HD	00`d0038623.m3u8
+[S+] ITALIA 2 FULL HD	00`d0038624.m3u8
+[S+] LA 5 FULL HD	00`d0038625.m3u8
+[S+] IRIS FULL HD	00`d0038626.m3u8
+[S+] NASATV FULL HD	00`d0038630.m3u8
+[S+] FOOD NETWORK FULL HD	00`d0038628.m3u8
+[S+] GIALLO FULL HD	00`d0038627.m3u8
+[S+] QVC FULL HD	00`d0038631.m3u8
+[S+] HSE24 FULL HD	00`d0038632.m3u8
+[S+] RAI STORIA FULL HD	00`d0038752.m3u8
+[S+] RAI STORIA HD	00`d0038753.m3u8
+[S+] TV 2000 HD	00`d0038636.m3u8
+SKY CINEMA UNO 4K HEVC H265	00`d006651.m3u8
+SKY CINEMA UNO FULL HD	00`d00161.m3u8
+SKY CINEMA UNO HD	00`d00160.m3u8
+SKY CINEMA UNO SD	00`d00159.m3u8
+SKY CINEMA UNO HD +1	00`d005489.m3u8
+SKY CINEMA UNO 24 4K HEVC H265	00`d006652.m3u8
+SKY CINEMA UNO  24 FULL HD	00`d00163.m3u8
+SKY CINEMA UNO  24 HD	00`d00162.m3u8
+SKY CINEMA UNO  24 SD	00`d0033566.m3u8
+SKY CINEMA UNO  24 HD +1	00`d005490.m3u8
+SKY CINEMA DUE 4K HEVC H265	00`d006656.m3u8
+SKY CINEMA DUE FULL HD	00`d00175.m3u8
+SKY CINEMA DUE HD	00`d00174.m3u8
+SKY CINEMA DUE SD	00`d00173.m3u8
+SKY CINEMA DUE HD +1	00`d005491.m3u8
+SKY CINEMA DUE 24 4K HEVC H265	00`d006657.m3u8
+SKY CINEMA DUE  24 FULL HD	00`d00177.m3u8
+SKY CINEMA DUE  24 HD	00`d00176.m3u8
+SKY CINEMA DUE  24 SD	00`d0033565.m3u8
+SKY CINEMA DUE  24 HD +1	00`d005492.m3u8
+SKY CINEMA COLLECTION 4K HEVC H265	00`d006660.m3u8
+SKY CINEMA COLLECTION FULL HD	00`d00186.m3u8
+SKY CINEMA COLLECTION HD	00`d00185.m3u8
+SKY CINEMA COLLECTION SD	00`d00184.m3u8
+SKY CINEMA COLLECTION HD +1	00`d005493.m3u8
+SKY CINEMA FAMILY 4K HEVC H265	00`d006655.m3u8
+SKY CINEMA FAMILY FULL HD	00`d00172.m3u8
+SKY CINEMA FAMILY HD	00`d00171.m3u8
+SKY CINEMA FAMILY SD	00`d00170.m3u8
+SKY CINEMA FAMILY HD +1	00`d005494.m3u8
+SKY CINEMA ACTION 4K HEVC H265	00`d006661.m3u8
+SKY CINEMA ACTION FULL HD	00`d00189.m3u8
+SKY CINEMA ACTION HD	00`d00188.m3u8
+SKY CINEMA ACTION SD	00`d00187.m3u8
+SKY CINEMA ACTION HD +1	00`d005495.m3u8
+SKY CINEMA SUSPENSE 4K HEVC H265	00`d006653.m3u8
+SKY CINEMA SUSPENSE FULL HD	00`d00166.m3u8
+SKY CINEMA SUSPENSE HD	00`d00165.m3u8
+SKY CINEMA SUSPENSE SD	00`d00164.m3u8
+SKY CINEMA SUSPENSE HD +1	00`d005496.m3u8
+SKY CINEMA ROMANCE 4K HEVC H265	00`d006654.m3u8
+SKY CINEMA ROMANCE FULL HD	00`d00169.m3u8
+SKY CINEMA ROMANCE HD	00`d00168.m3u8
+SKY CINEMA ROMANCE SD	00`d00167.m3u8
+SKY CINEMA ROMANCE HD +1	00`d005497.m3u8
+SKY CINEMA DRAMA 4K HEVC H265	00`d006658.m3u8
+SKY CINEMA DRAMA FULL HD	00`d00180.m3u8
+SKY CINEMA DRAMA HD	00`d00179.m3u8
+SKY CINEMA DRAMA SD	00`d00178.m3u8
+SKY CINEMA DRAMA HD +1	00`d005498.m3u8
+SKY CINEMA COMEDY 4K HEVC H265	00`d006659.m3u8
+SKY CINEMA COMEDY FULL HD	00`d00183.m3u8
+SKY CINEMA COMEDY HD	00`d00182.m3u8
+SKY CINEMA COMEDY SD	00`d00181.m3u8
+SKY CINEMA COMEDY HD +1	00`d005499.m3u8
+[S+] SKY CINEMA UNO FULL HD	00`d0038637.m3u8
+[S+] SKY CINEMA UNO HD	00`d0038638.m3u8
+[S+] SKY CINEMA UNO24 FULL HD	00`d0038639.m3u8
+[S+] SKY CINEMA UNO24 HD	00`d0038640.m3u8
+[S+] SKY CINEMA DUE FULL HD	00`d0038641.m3u8
+[S+] SKY CINEMA DUE HD	00`d0038642.m3u8
+[S+] SKY CINEMA DUE24 FULL HD	00`d0038643.m3u8
+[S+] SKY CINEMA DUE24 HD	00`d0038644.m3u8
+[S+] SKY CINEMA COLLECTION HD	00`d0038645.m3u8
+[S+] SKY CINEMA COLLECTION FULL HD	00`d0038646.m3u8
+[S+] SKY CINEMA FAMILY FULL HD	00`d0038647.m3u8
+[S+] SKY CINEMA FAMILY HD	00`d0038648.m3u8
+[S+] SKY CINEMA ACTION FULL HD	00`d0038649.m3u8
+[S+] SKY CINEMA ACTION HD	00`d0038650.m3u8
+[S+] SKY CINEMA SUSPENSE FULL HD	00`d0038651.m3u8
+[S+] SKY CINEMA SUSPENSE HD	00`d0038652.m3u8
+[S+] SKY CINEMA ROMANCE FULL HD	00`d0038653.m3u8
+[S+] SKY CINEMA ROMANCE HD	00`d0038656.m3u8
+[S+] SKY CINEMA DRAMA FULL HD	00`d0038654.m3u8
+[S+] SKY CINEMA DRAMA HD	00`d0038655.m3u8
+[S+] SKY CINEMA COMEDY FULL HD	00`d0038657.m3u8
+[S+] SKY CINEMA COMEDY HD	00`d0038658.m3u8
+Vetrina Primafila Live	00`d0048439.m3u8
+Primafila Live 1 - Trailer	00`d0048440.m3u8
+Primafila Live 1	00`d0048441.m3u8
+Primafila Live 2 - Trailer	00`d0048442.m3u8
+Primafila Live 2	00`d0048443.m3u8
+Primafila Live 3 - Trailer	00`d0048444.m3u8
+Primafila Live 3	00`d0048445.m3u8
+Primafila Live 4 - Trailer	00`d0048446.m3u8
+Primafila Live 4	00`d0048447.m3u8
+Primafila Live 5 - Trailer	00`d0048448.m3u8
+Primafila Live 5	00`d0048449.m3u8
+Primafila Live 6 - Trailer	00`d0048450.m3u8
+Primafila Live 6	00`d0048451.m3u8
+Primafila Live 7 - Trailer	00`d0048452.m3u8
+Primafila Live 7	00`d0048453.m3u8
+Primafila Live 8 - Trailer	00`d0048454.m3u8
+Primafila Live 8	00`d0048455.m3u8
+Primafila Live 9 - Trailer	00`d0048456.m3u8
+Primafila Live 9	00`d0048457.m3u8
+*I T: VETRINA SKY PRIMAFILA PREMIERE HD	00`d0037720.m3u8
+*I T: SKY PRIMAFILA PREMIERE 1 FHD	00`d0037721.m3u8
+*I T: SKY PRIMAFILA PREMIERE 2 FHD	00`d0037722.m3u8
+*I T: SKY PRIMAFILA PREMIERE 3 FHD	00`d0037723.m3u8
+*I T: SKY PRIMAFILA PREMIERE 4 FHD	00`d0037724.m3u8
+*I T: SKY PRIMAFILA PREMIERE 5 FHD	00`d0037725.m3u8
+*I T: SKY PRIMAFILA PREMIERE 6 FHD	00`d0037726.m3u8
+*I T: SKY PRIMAFILA PREMIERE 7 FHD	00`d0037727.m3u8
+*I T: SKY PRIMAFILA PREMIERE 8 FHD	00`d0037728.m3u8
+*I T: SKY PRIMAFILA PREMIERE 9 FHD	00`d0037729.m3u8
+*I T: SKY PRIMAFILA PREMIERE 10 FHD	00`d0037730.m3u8
+*I T: SKY PRIMAFILA PREMIERE 11 FHD	00`d0037731.m3u8
+*I T: SKY PRIMAFILA PREMIERE 12 FHD	00`d0037732.m3u8
+*I T: SKY PRIMAFILA PREMIERE 13 FHD	00`d0037733.m3u8
+*I T: SKY PRIMAFILA PREMIERE 14 FHD	00`d0037734.m3u8
+*I T: SKY PRIMAFILA PREMIERE 15 FHD	00`d0037735.m3u8
+*I T: SKY PRIMAFILA PREMIERE 16 FHD	00`d0037736.m3u8
+*I T: SKY PRIMAFILA PREMIERE 17 FHD	00`d0037737.m3u8
+*I T: SKY PRIMAFILA PREMIERE 18 FHD	00`d0037738.m3u8
+*I T: VETRINA SKY PRIMAFILA4K HD	00`d0037739.m3u8
+*I T: SKY PRIMAFILA 1 4K	00`d0037740.m3u8
+*I T: SKY PRIMAFILA 2 4K	00`d0037741.m3u8
+*I T: SKY PRIMAFILA 3 4K	00`d0037742.m3u8
+*I T: SKY PRIMAFILA 4 4K	00`d0037743.m3u8
+*I T: SKY PRIMAFILA 5 4K	00`d0037744.m3u8
+*I T: SKY PRIMAFILA 6 4K	00`d0037745.m3u8
+*I T: SKY PRIMAFILA 7 4K	00`d0037746.m3u8
+*I T: SKY PRIMAFILA 8 4K	00`d0037747.m3u8
+*I T: SKY PRIMAFILA 9 4K	00`d0037748.m3u8
+[TEM] Eagle Tom e Jerry FHD	00`d0045081.m3u8
+[TEM] Eagle Fantozzi Channel ᴴᴰ	00`d0045083.m3u8
+[TEM] Scuola di Polizia Channel	00`d0045084.m3u8
+[TEM] Disney Plus Film ᴴᴰ	00`d0045085.m3u8
+[TEM] Disney Plus Animation ᴴᴰ	00`d0045086.m3u8
+[TEM] Eagle Cinema Horror ꜰʜᴅ	00`d0045087.m3u8
+[TEM] Eagle Cinema Drammatico ꜰʜᴅ	00`d0045088.m3u8
+[TEM] Eagle Cinema Passione ꜰʜᴅ	00`d0045089.m3u8
+[TEM] Eagle Cinema Storico ꜰʜᴅ	00`d0045090.m3u8
+[TEM] Eagle Cinema Thriller ꜰʜᴅ	00`d0045091.m3u8
+[TEM] Eagle Cinema Comico Cult ꜰʜᴅ	00`d0045092.m3u8
+[TEM] Eagle Cinema Sorriso ꜰʜᴅ	00`d0045093.m3u8
+[TEM] Eagle Cinema Commedia ꜰʜᴅ	00`d0045094.m3u8
+[TEM] Eagle Cinema Fantastico ꜰʜᴅ	00`d0045095.m3u8
+[TEM] Eagle Cinema Avventura ꜰʜᴅ	00`d0045096.m3u8
+[TEM] Eagle Cinema Azione ꜰʜᴅ	00`d0045097.m3u8
+[TEM] Eagle Cinema Prima Visione ꜰʜᴅ	00`d0045098.m3u8
+[TEM] Eagle Cinema Animazione ꜰʜᴅ	00`d0045099.m3u8
+[TEM] Eagle Cinema Film in Sala  ᴴᴰ (qualita camera)	00`d0045100.m3u8
+[TEM] Eagle Cinema Mitologia ᴴᴰ	00`d0045101.m3u8
+[TEM] Eagle Masha e Orso ꜰʜᴅ	00`d0045103.m3u8
+[TEM] Eagle Peppa Pig ꜰʜᴅ	00`d0045105.m3u8
+[TEM] Eagle Disney Topolino Paperino e Pippo ᴴᴰ	00`d0045106.m3u8
+[TEM] Eagle Looney Toons ᴴᴰ	00`d0045107.m3u8
+[TEM] Eagle Gomorra Stagione 1 ꜰʜᴅ HEVC	00`d0045108.m3u8
+[TEM] Totò Channel ᴴᴰ	00`d0045109.m3u8
+[TEM] Eagle Aldo Giovanni e Giacomo Channel	00`d0045110.m3u8
+[TEM] EAGLE 4ᴷ ᵁᴴᴰ (IT-DE-EN-multilanguage)	00`d0045111.m3u8
+[TEM] Eagle Cinema Religion ᴴᴰ	00`d0045112.m3u8
+[TEM] Eagle Cinema Western ꜰʜᴅ	00`d0045113.m3u8
+[TEM] Eagle Cinema Spaghetti Western ꜰʜᴅ	00`d0045114.m3u8
+[TEM] Eagle Cinema 007 ꜰʜᴅ HEVC H265 (dual audio ITA/ENG)	00`d0045115.m3u8
+[TEM] Eagle Cinema Bud Spencer ᴴᴰ	00`d0045116.m3u8
+[TEM] La Casa di Topolino Channel	00`d0045117.m3u8
+[TEM] Eagle Dragon Ball Z Channel ꜰʜᴅ  (Audio-1.ITA-2.ENG)	00`d0045118.m3u8
+[TEM] Eagle Lupin III Channel	00`d0045119.m3u8
+[TEM] Eagle Nature Discovery 4ᴷ ᵁᴴᴰ (double audio)	00`d0045120.m3u8
+[TEM] Eagle Nature Explorer ꜰʜᴅ	00`d0045121.m3u8
+[TEM] Eagle Brickleberry ꜰʜᴅ 24H	00`d0045122.m3u8
+[TEM] Eagle American Dad 24H	00`d0045123.m3u8
+[TEM] Eagle Peter Griffin 24H	00`d0045124.m3u8
+[TEM] Eagle The Cleveland Show 24H	00`d0045125.m3u8
+[TEM] Eagle Cinepanettone ᴴᴰ	00`d0045126.m3u8
+[TEM] Eagle Cinema Biografico ꜰʜᴅ	00`d0045127.m3u8
+[TEM] Eagle Cinema Famiglia ꜰʜᴅ	00`d0045128.m3u8
+[TEM] Eagle Cinema Fantascienza ꜰʜᴅ	00`d0045129.m3u8
+[TEM]  How i Met You Mother ꜰʜᴅ	00`d0045130.m3u8
+[TEM] The Big Bang Theory ꜰʜᴅ	00`d0045131.m3u8
+[TEM] Eagle Scooby-Doo ꜰʜᴅ	00`d0045132.m3u8
+[TEM] Me-contro-Te Channel ᴴᴰ	00`d0045133.m3u8
+[TEM] Ghost Adventures-Cacciatori di fantasmi channel	00`d0045134.m3u8
+[TEM] Il Trono di Spade Channel ꜰʜᴅ	00`d0045135.m3u8
+[TEM] Eagle 20thCenturyFox ꜰʜᴅ	00`d0045136.m3u8
+[TEM] Eagle MARVEL ꜰʜᴅ	00`d0045137.m3u8
+[TEM] Avengers Grimm Channel ꜰʜᴅ	00`d0045138.m3u8
+[TEM] G.I.JOE Channel ꜰʜᴅ	00`d0045139.m3u8
+[TEM] Harry Potter Channel ꜰʜᴅ	00`d0045140.m3u8
+[TEM] Il Re Scorpione Channel ꜰʜᴅ	00`d0045142.m3u8
+[TEM] IL Signore Degli Anelli Channel ꜰʜᴅ	00`d0045143.m3u8
+[TEM] Indiana Jones Channel ꜰʜᴅ	00`d0045144.m3u8
+[TEM] IP MAN Channel ꜰʜᴅ	00`d0045145.m3u8
+[TEM] Karate Kid Channel ꜰʜᴅ	00`d0045146.m3u8
+[TEM] Kung Fu Panda Film Channel ꜰʜᴅ	00`d0045147.m3u8
+[TEM] Men in Black Channel ꜰʜᴅ	00`d0045148.m3u8
+[TEM] Mission impossible Channel ꜰʜᴅ	00`d0045149.m3u8
+[TEM] Eagle Cinema Comico Cult FHD	00`d0045079.m3u8
+[TEM] Pirati dei Caraibi Channel ꜰʜᴅ	00`d0045150.m3u8
+SKY UNO 4K HEVC H265	00`d006667.m3u8
+SKY UNO FULL HD	00`d0029.m3u8
+SKY UNO HD	00`d0028.m3u8
+SKY UNO SD	00`d0027.m3u8
+SKY UNO HD +1	00`d005521.m3u8
+SKY INVESTIGATION HEVC	00`d0039068.m3u8
+SKY INVESTIGATION FULL HD	00`d0039067.m3u8
+SKY INVESTIGATION HD	00`d0039066.m3u8
+SKY SERIE HEVC	00`d0039071.m3u8
+SKY SERIE FULL HD	00`d0039070.m3u8
+SKY SERIE HD	00`d0039069.m3u8
+SKY ATLANTIC 4K HEVC H265	00`d006644.m3u8
+SKY ATLANTIC FULL HD	00`d00221.m3u8
+SKY ATLANTIC HD	00`d00220.m3u8
+SKY ATLANTIC SD	00`d00219.m3u8
+SKY COMEDY CENTRAL 4K HEVC H265	00`d006645.m3u8
+SKY COMEDY CENTRAL FULL HD	00`d00157.m3u8
+REALTIME 4K HEVC H265	00`d006640.m3u8
+REALTIME FULL HD	00`d0065.m3u8
+REALTIME	00`d00232.m3u8
+SKY REALTIME +1	00`d005531.m3u8
+CIELO FULL HD	00`d00190.m3u8
+CIELO	00`d00353.m3u8
+SKY CIELO +1	00`d005532.m3u8
+SKY MTV FULL HD	00`d0099.m3u8
+SKY MTV HD	00`d0098.m3u8
+SKY MTV SD	00`d0096.m3u8
+SKY MTV HD +1	00`d005534.m3u8
+FOOD NETWORK HD	00`d00324.m3u8
+FOOD NETWORK FULL HD	00`d00126.m3u8
+FOOD NETWORK FULL HD +1	00`d005536.m3u8
+MEDIASET TWENTYSEVEN FULL HD	00`d0039838.m3u8
+MEDIASET TWENTYSEVEN HD	00`d0039839.m3u8
+ITALIAN FISHING TV	00`d00304.m3u8
+[S+] SKY UNO FULL HD	00`d0038669.m3u8
+[S+] SKY UNO HD	00`d0038670.m3u8
+[S+] SKY ATLANTIC FULL HD	00`d0038671.m3u8
+[S+] SKY ATLANTIC HD	00`d0038672.m3u8
+[S+] SKY COMEDY CENTRAL FULL HD	00`d0038679.m3u8
+[S+] MTV  FULL HD	00`d0038682.m3u8
+[S+] MTV HD	00`d0038683.m3u8
+[S+] MEDIASET TWENTYSEVEN FULL HD	00`d0039840.m3u8
+GRANDE FRATELLO - GF VIP PARTY	00`d0033190.m3u8
+GRANDE FRATELLO - DIRETTA 1	00`d00317.m3u8
+GRANDE FRATELLO VIP DIRETTA  1	00`d00315.m3u8
+GRANDE FRATELLO VIP +1 UN`ORA FA	00`d00314.m3u8
+GRANDE FRATELLO VIP DIRETTA 2	00`d00313.m3u8
+GRANDE FRATELLO - DIRETTA 2	00`d00316.m3u8
+The Pet Collective	00`d0039576.m3u8
+FailArmy	00`d0039577.m3u8
+IGN	00`d0039578.m3u8
+World Poker Tour	00`d0039579.m3u8
+People are Awesome	00`d0039580.m3u8
+Pluto TV Real Life	00`d0039581.m3u8
+Pluto TV Natura	00`d0039582.m3u8
+Mutant X	00`d0039583.m3u8
+Andromeda	00`d0039584.m3u8
+Clubbing TV	00`d0039585.m3u8
+Loupe	00`d0039586.m3u8
+Pluto TV Sport	00`d0039587.m3u8
+Pluto TV Anime	00`d0039615.m3u8
+Pluto TV Serie	00`d0039613.m3u8
+Pluto TV Film	00`d0039588.m3u8
+Pluto TV Film Azione	00`d0039589.m3u8
+Pluto TV Film Classici	00`d0039590.m3u8
+Pluto TV Film Drama	00`d0039591.m3u8
+Pluto TV Film Romantici	00`d0039592.m3u8
+Pluto TV Film Commedia	00`d0039593.m3u8
+Pluto TV Film Thriller	00`d0039594.m3u8
+Pluto TV Crime	00`d0039595.m3u8
+Pluto TV Cinema Italiano	00`d0039596.m3u8
+Pluto TV Documentari	00`d0039597.m3u8
+Just for Laughs	00`d0039598.m3u8
+Super! Eroi	00`d0039599.m3u8
+Super! Star	00`d0039600.m3u8
+Super! Pop	00`d0039601.m3u8
+Super! SpongeBob	00`d0039602.m3u8
+Catfish	00`d0039603.m3u8
+Super! iCarly	00`d0039604.m3u8
+Scherzi e risate	00`d0039605.m3u8
+Serie Teen	00`d0039606.m3u8
+Dating	00`d0039607.m3u8
+16 Anni e Incinta	00`d0039608.m3u8
+Ex On The Beach	00`d0039609.m3u8
+Le sorelle McLeod	00`d0039610.m3u8
+Young & Fabulous	00`d0039611.m3u8
+Consulenze Illegali	00`d0039612.m3u8
+Il Banco dei Pugni	00`d0039614.m3u8
+UFC TV PASS	00`d0038267.m3u8
+UNIRESAT HD	00`d0011.m3u8
+SPORT ITALIA	00`d0025.m3u8
+SPORT ITALIA HD	00`d0024.m3u8
+SPORT ITALIA LIVE 24	00`d0023.m3u8
+SPORT ITALIA SOLO CALCIO	00`d0022.m3u8
+ACI SPORT TV	00`d0038399.m3u8
+MOLA TV 2	00`d0052587.m3u8
+RAI SPORT   FULL HD	00`d00240.m3u8
+RAI SPORT   HD	00`d00239.m3u8
+TOP CALCIO 24	00`d0015.m3u8
+SUPER TENNIS FULL HD	00`d0020.m3u8
+SUPER TENNIS HD	00`d0019.m3u8
+KISS KISS NAPOLI TV	00`d0040204.m3u8
+TOP PLANET 	00`d0033567.m3u8
+MOTOR TREND	00`d00293.m3u8
+[S+] SPORT ITALIA HD	00`d0038695.m3u8
+[S+] MOTORTREND	00`d0038959.m3u8
+MOTOR TV	00`d0038303.m3u8
+EQUtv	00`d0041333.m3u8
+MS MOTOR TV	00`d0038306.m3u8
+INFO EVENTI SPORT	00`d0039616.m3u8
+SKY SPORT 24 4K HEVC H265	00`d006628.m3u8
+SKY SPORT 24 FULL HD	00`d0062.m3u8
+SKY SPORT 24 HD	00`d0061.m3u8
+SKY SPORT 24 SD	00`d0060.m3u8
+SKY SPORT 24 HD +1	00`d005565.m3u8
+SKY SPORT NBA 4K HEVC H265	00`d006627.m3u8
+SKY SPORT NBA FULL HD	00`d0043.m3u8
+SKY SPORT NBA HD	00`d0042.m3u8
+SKY SPORT NBA SD	00`d0041.m3u8
+SKY SPORT NBA HD +1	00`d005566.m3u8
+SKY SPORT MAX FULL HD	00`d0052567.m3u8
+SKY SPORT MAX HD	00`d0052568.m3u8
+SKY SPORT MAX SD	00`d0052569.m3u8
+SKY SPORT UNO 4K HEVC H265	00`d006626.m3u8
+SKY SPORT UNO FULL HD	00`d0037.m3u8
+SKY SPORT UNO HD	00`d0036.m3u8
+SKY SPORT UNO SD	00`d0035.m3u8
+SKY SPORT UNO HD +1	00`d005567.m3u8
+SKY SPORT ARENA 4K HEVC H265	00`d006624.m3u8
+SKY SPORT ARENA FULL HD	00`d0059.m3u8
+SKY SPORT ARENA HD	00`d0058.m3u8
+SKY SPORT ARENA SD	00`d0057.m3u8
+SKY SPORT ARENA HD +1	00`d005569.m3u8
+SKY SPORT GOLF HEVC H265	00`d006671.m3u8
+SKY SPORT GOLF FULL HD	00`d00121.m3u8
+SKY SPORT GOLF HD	00`d00120.m3u8
+SKY SPORT GOLF SD	00`d00321.m3u8
+SKY SPORT TENNIS 4K HEVC H265	00`d006623.m3u8
+SKY SPORT TENNIS FULL HD	00`d0049.m3u8
+SKY SPORT TENNIS HD	00`d0048.m3u8
+SKY SPORT TENNIS SD	00`d0047.m3u8
+SKY SPORT TENNIS HD +1	00`d005570.m3u8
+SKY SPORT F1 4K HEVC H265	00`d006622.m3u8
+SKY SPORT F1 FULL HD	00`d0055.m3u8
+SKY SPORT F1 HD	00`d0054.m3u8
+SKY SPORT F1 SD	00`d0053.m3u8
+SKY SPORT F1 HD +1	00`d005571.m3u8
+SKY SPORT MOTOGP 4K HEVC H265	00`d006621.m3u8
+SKY SPORT MOTOGP FULL HD	00`d0046.m3u8
+SKY SPORT MOTOGP HD	00`d0045.m3u8
+SKY SPORT MOTOGP SD	00`d0044.m3u8
+SKY SPORT MOTOGP HD +1	00`d005572.m3u8
+SKY EUROSPORT1 4K HEVC H265	00`d006620.m3u8
+SKY EUROSPORT 1 FULL HD	00`d00130.m3u8
+SKY EUROSPORT 1 HD	00`d00129.m3u8
+SKY EUROSPORT 1 HD +1	00`d005573.m3u8
+SKY EUROSPORT2 4K HEVC H265	00`d006619.m3u8
+SKY EUROSPORT 2 FULL HD	00`d00128.m3u8
+SKY EUROSPORT 2 HD	00`d00127.m3u8
+SKY EUROSPORT 2 HD +1	00`d005574.m3u8
+HORSE TV FULL HD	00`d00109.m3u8
+[S+] SKY SPORT 24 FULL HD	00`d0038696.m3u8
+[S+] SKY SPORT 24 HD	00`d0038697.m3u8
+[S+] SKY SPORT NBA FULL HD	00`d0038698.m3u8
+[S+] SKY SPORT NBA HD	00`d0038699.m3u8
+[S+] SKY SPORT UNO FULL HD	00`d0038700.m3u8
+[S+] SKY SPORT UNO HD	00`d0038701.m3u8
+[S+] SKY SPORT MAX FULL HD	00`d0038702.m3u8
+[S+] SKY SPORT MAX HD	00`d0038703.m3u8
+[S+] SKY SPORT ARENA FULL HD	00`d0038704.m3u8
+[S+] SKY SPORT ARENA HD	00`d0038705.m3u8
+[S+] SKY SPORT TENNIS FULL HD	00`d0038706.m3u8
+[S+] SKY SPORT TENNIS HD	00`d0038707.m3u8
+[S+] SKY SPORT F1 FULL HD	00`d0038708.m3u8
+[S+] SKY SPORT F1 HD	00`d0038709.m3u8
+[S+] SKY SPORT MOTOGP FULL HD	00`d0038710.m3u8
+[S+] SKY SPORT MOTOGP HD	00`d0038711.m3u8
+[S+] SKY EUROSPORT 1 FULL HD	00`d0038712.m3u8
+[S+] SKY EUROSPORT 1 HD	00`d0038713.m3u8
+[S+] SKY EUROSPORT 2 FULL HD	00`d0038714.m3u8
+[S+] SKY EUROSPORT 2 HD	00`d0038715.m3u8
+[S+] SKY CACCIA FULL HD	00`d0038716.m3u8
+[S+] SKY PESCA FULL HD	00`d0038717.m3u8
+INFO EVENTI CALCIO	00`d0039617.m3u8
+SKY SPORT BAR UNO FULL HD (SERIE A)	00`d0039290.m3u8
+SKY SPORT BAR UNO HD (SERIE A)	00`d0039291.m3u8
+SKY SPORT BAR UNO SD (SERIE A)	00`d0039292.m3u8
+SKY SPORT BAR DUE FULL HD (SERIE A)	00`d0039293.m3u8
+SKY SPORT BAR DUE HD (SERIE A)	00`d0039294.m3u8
+SKY SPORT BAR DUE SD (SERIE A)	00`d0039295.m3u8
+SKY SPORT BAR PRIMEVIDEO FULL HD (CHAMPIONS LEAGUE)	00`d0039296.m3u8
+SKY SPORT BAR PRIMEVIDEO SD (CHAMPIONS LEAGUE)	00`d0039298.m3u8
+SKY SPORT BAR PRIMEVIDEO HD (CHAMPIONS LEAGUE)	00`d0039297.m3u8
+SKY SPORT CALCIO 4K HEVC H265	00`d008979.m3u8
+SKY SPORT CALCIO FULL HD	00`d0040.m3u8
+SKY SPORT CALCIO HD	00`d0039.m3u8
+SKY SPORT CALCIO SD	00`d0038.m3u8
+SKY SPORT CALCIO HD +1	00`d005580.m3u8
+SKY CALCIO 1 - 251 4K HEVC H265	00`d008973.m3u8
+SKY CALCIO 1 - 251 FULL HD	00`d00210.m3u8
+SKY CALCIO 1 - 251 HD	00`d00209.m3u8
+SKY CALCIO 1 - 251 SD	00`d00208.m3u8
+SKY CALCIO 1 - 251 HD +1	00`d005581.m3u8
+SKY CALCIO 2 - 252 4K HEVC H265	00`d008974.m3u8
+SKY CALCIO 2 - 252 FULL HD	00`d00207.m3u8
+SKY CALCIO 2 - 252 HD	00`d00206.m3u8
+SKY CALCIO 2 - 252 SD	00`d00205.m3u8
+SKY CALCIO 2 - 252 HD +1	00`d005582.m3u8
+SKY CALCIO 3 - 253 4K HEVC H265	00`d008975.m3u8
+SKY CALCIO 3 - 253 FULL HD	00`d00204.m3u8
+SKY CALCIO 3 - 253 HD	00`d00203.m3u8
+SKY CALCIO 3 - 253 SD	00`d00202.m3u8
+SKY CALCIO 3 - 253 HD +1	00`d005583.m3u8
+SKY CALCIO 4 - 254 4K HEVC H265	00`d008976.m3u8
+SKY CALCIO 4  - 254 FULL HD	00`d00201.m3u8
+SKY CALCIO 4 - 254 HD	00`d00200.m3u8
+SKY CALCIO 4 - 254 SD	00`d00199.m3u8
+SKY CALCIO 4 - 254 HD +1	00`d005584.m3u8
+SKY CALCIO 5 - 255 4K HEVC H265	00`d008977.m3u8
+SKY CALCIO 5 - 255 FULL HD	00`d00198.m3u8
+SKY CALCIO 5 - 255 HD	00`d00197.m3u8
+SKY CALCIO 5 - 255 SD	00`d0033214.m3u8
+SKY CALCIO 5 - 255 HD +1	00`d005585.m3u8
+SKY CALCIO 6 - 256 4K HEVC H265	00`d008978.m3u8
+SKY CALCIO 6 - 256 FULL HD	00`d00196.m3u8
+SKY CALCIO 6 - 256 HD	00`d00195.m3u8
+SKY CALCIO 6 - 256 HD +1	00`d005586.m3u8
+SKY CALCIO 7 - 257 FULL HD	00`d00194.m3u8
+SKY CALCIO 7 - 257 HD	00`d00193.m3u8
+SKY CALCIO 8 - 258 FULL HD	00`d0040206.m3u8
+SKY CALCIO 8 - 258 HD	00`d0040205.m3u8
+SKY MILAN 4K HEVC H265	00`d008972.m3u8
+SKY MILAN FULL HD	00`d00100.m3u8
+SKY INTER 4K HEVC H265	00`d008980.m3u8
+SKY INTER FULL HD	00`d00108.m3u8
+SKY LAZIO FULL HD	00`d00105.m3u8
+[S+] SKY SPORT CALCIO FULL HD	00`d0038718.m3u8
+[S+] SKY SPORT CALCIO HD	00`d0038719.m3u8
+[S+] SKY CALCIO 1 - 251 FULL HD	00`d0038720.m3u8
+[S+] SKY CALCIO 1 - 251 HD	00`d0038721.m3u8
+[S+] SKY CALCIO 2 - 252 FULL HD	00`d0038722.m3u8
+[S+] SKY CALCIO 2 - 252 HD	00`d0038723.m3u8
+[S+] SKY CALCIO 3 - 253 FULL HD	00`d0038724.m3u8
+[S+] SKY CALCIO 3 - 253 HD	00`d0038725.m3u8
+[S+] SKY CALCIO 4 - 254 FULL HD	00`d0038726.m3u8
+[S+] SKY CALCIO 4 - 254 HD	00`d0038947.m3u8
+[S+] SKY CALCIO 5 - 255 FULL HD	00`d0038727.m3u8
+[S+] SKY CALCIO 5 - 255 HD	00`d0038729.m3u8
+[S+] SKY CALCIO 6 - 256 FULL HD	00`d0038728.m3u8
+[S+] SKY CALCIO 6 - 256 HD	00`d0038730.m3u8
+[S+] SKY CALCIO 7 - 257 FULL HD	00`d0038731.m3u8
+[S+] SKY CALCIO 7 - 257 HD	00`d0038732.m3u8
+SKY CALCIO 9 - 259 FULL HD	00`d0052473.m3u8
+SKY CALCIO 9 - 259 HD	00`d0052474.m3u8
+SKY CALCIO 10 - 260 FULL HD	00`d0052475.m3u8
+SKY CALCIO 10 - 260 HD	00`d0052476.m3u8
+SKY CALCIO 11 - 261  HD	00`d0052477.m3u8
+SKY CALCIO 11 - 261 FULL HD	00`d0052478.m3u8
+[S+] SKY MILAN TV FULL HD	00`d0038734.m3u8
+[S+] SKY INTER TV FULL HD	00`d0038735.m3u8
+ZONA DAZN 4K HEVC H265	00`d008981.m3u8
+ZONA DAZN FULL HD	00`d00152.m3u8
+ZONA DAZN HD	00`d00151.m3u8
+ZONA DAZN SD	00`d00150.m3u8
+[FLUX] ZONA DAZN SERIE A 1 FHD	00`d0046826.m3u8
+[FLUX] ZONA DAZN SERIE A 1 HD	00`d0046827.m3u8
+[FLUX] ZONA DAZN SERIE A 1 SD	00`d0046828.m3u8
+[FLUX] ZONA DAZN SERIE A 2 FHD	00`d0046829.m3u8
+[FLUX] ZONA DAZN SERIE A 2 HD	00`d0046830.m3u8
+[FLUX] ZONA DAZN SERIE A 2 SD	00`d0046831.m3u8
+[FLUX] ZONA DAZN SERIE A 3 FHD	00`d0046832.m3u8
+[FLUX] ZONA DAZN SERIE A 3 HD	00`d0046833.m3u8
+[FLUX] ZONA DAZN SERIE A 3 SD	00`d0046834.m3u8
+DAZN PGA TOUR FULL HD	00`d0052614.m3u8
+DAZN PGA TOUR HD	00`d0052615.m3u8
+DAZN PGA TOUR SD	00`d0052616.m3u8
+NFL DAZN	00`d0026951.m3u8
+VETRINA DAZN	00`d0026077.m3u8
+DAZN DIRETTA GOL SERIE A FULL HD	00`d0039393.m3u8
+DAZN DIRETTA GOL SERIE A HD	00`d0039619.m3u8
+DAZN DIRETTA GOL SERIE A SD	00`d0039620.m3u8
+DAZN DIRETTA GOL SERIE B FULL HD	00`d0039394.m3u8
+DAZN DIRETTA GOL SERIE B HD	00`d0039621.m3u8
+DAZN DIRETTA GOL SERIE B SD	00`d0039622.m3u8
+DAZN DIRETTA GOL EUROPA LEAGUE FULL HD	00`d0039396.m3u8
+DAZN DIRETTA GOL EUROPA LEAGUE HD	00`d0039623.m3u8
+DAZN DIRETTA GOL EUROPA LEAGUE SD	00`d0039624.m3u8
+DAZN WEB 1 FULL HD	00`d00348.m3u8
+DAZN WEB 1 HD	00`d0039625.m3u8
+DAZN WEB 1 SD	00`d0039626.m3u8
+DAZN WEB 2 FULL HD	00`d00346.m3u8
+DAZN WEB 2 HD	00`d0039627.m3u8
+DAZN WEB 2 SD	00`d0039628.m3u8
+DAZN WEB 3 FULL HD	00`d00345.m3u8
+DAZN WEB 3 HD	00`d0039629.m3u8
+DAZN WEB 3 SD	00`d0039630.m3u8
+DAZN WEB 4 FULL HD	00`d00344.m3u8
+DAZN WEB 4 HD	00`d0039631.m3u8
+DAZN WEB 4 SD	00`d0039632.m3u8
+DAZN WEB 5 FULL HD	00`d00343.m3u8
+DAZN WEB 5 HD	00`d0039633.m3u8
+DAZN WEB 5 SD	00`d0039634.m3u8
+DAZN WEB 6 FULL HD	00`d00342.m3u8
+DAZN WEB 6 HD	00`d0039635.m3u8
+DAZN WEB 6 SD	00`d0039636.m3u8
+DAZN WEB 7 FULL HD	00`d00341.m3u8
+DAZN WEB 7 HD	00`d0039637.m3u8
+DAZN WEB 7 SD	00`d0039638.m3u8
+DAZN WEB 8 FULL HD	00`d00340.m3u8
+DAZN WEB 8 HD	00`d0039639.m3u8
+DAZN WEB 8 SD	00`d0039640.m3u8
+DAZN WEB 9 FULL HD	00`d00339.m3u8
+DAZN WEB 9 HD	00`d0039641.m3u8
+DAZN WEB 9 SD	00`d0039642.m3u8
+DAZN WEB 10 FULL HD	00`d00347.m3u8
+DAZN WEB 10 HD	00`d0039643.m3u8
+DAZN WEB 10 SD	00`d0039644.m3u8
+DAZN WEB 11 FULL HD	00`d0039870.m3u8
+DAZN WEB 11 HD	00`d0039869.m3u8
+DAZN WEB 11 SD	00`d0039868.m3u8
+DAZN WEB 12 FULL HD	00`d0039873.m3u8
+DAZN WEB 12 HD	00`d0039872.m3u8
+DAZN WEB 12 SD	00`d0039871.m3u8
+DAZN WEB 13 FULL HD	00`d0039876.m3u8
+DAZN WEB 13 HD	00`d0039875.m3u8
+DAZN WEB 13 SD	00`d0039874.m3u8
+DAZN WEB 14 FULL HD	00`d0039879.m3u8
+DAZN WEB 14 HD	00`d0039878.m3u8
+DAZN WEB 14 SD	00`d0039877.m3u8
+DAZN WEB 15 FULL HD	00`d0039882.m3u8
+DAZN WEB 15 HD	00`d0039881.m3u8
+DAZN WEB 15 SD	00`d0039880.m3u8
+[S+] ZONA DAZN FULL HD	00`d0038738.m3u8
+[S+] ZONA DAZN HD	00`d0038739.m3u8
+FIFA+ SAMSUNGTV+	00`d0050470.m3u8
+SKY ARTE 4K HEVC H265	00`d006629.m3u8
+SKY ARTE FULL HD	00`d00223.m3u8
+SKY ARTE HD	00`d00222.m3u8
+SKY ARTE HD +1	00`d005621.m3u8
+SKY DISCOVERY 4K HEVC H265	00`d006630.m3u8
+SKY DISCOVERY FULL HD	00`d00145.m3u8
+SKY DISCOVERY HD	00`d00144.m3u8
+SKY DISCOVERY HD +1	00`d005626.m3u8
+SKY NATURE HEVC	00`d0039077.m3u8
+SKY NATURE FULL HD	00`d0039076.m3u8
+SKY NATURE HD	00`d0039075.m3u8
+SKY DOCUMENTARIES HEVC	00`d0039074.m3u8
+SKY DOCUMENTARIES FULL HD	00`d0039073.m3u8
+SKY DOCUMENTARIES HD	00`d0039072.m3u8
+SKY HISTORY 4K HEVC H265	00`d006632.m3u8
+SKY HISTORY FULL HD	00`d00111.m3u8
+SKY HISTORY HD	00`d00110.m3u8
+SKY HISTORY HD +1	00`d005629.m3u8
+SKY CRIME  4K HEVC H265	00`d006641.m3u8
+SKY CRIME  FULL HD	00`d00156.m3u8
+SKY CRIME  HD	00`d00155.m3u8
+SKY CRIME  SD	00`d00349.m3u8
+SKY CRIME  HD +1	00`d005529.m3u8
+SKY CACCIA E PESCA FULL HD	00`d00211.m3u8
+SKY PESCA E CACCIA FULL HD +1	00`d005579.m3u8
+SKY PESCA E CACCIA FULL HD	00`d0084.m3u8
+SKY EXPLORER TV FULL HD	00`d0039846.m3u8
+SKY EXPLORER TV HD	00`d0039847.m3u8
+RAI STORIA 4K HEVCH265	00`d0012731.m3u8
+RAI STORIA FULL HD	00`d00238.m3u8
+RAI STORIA HD	00`d00237.m3u8
+RAI STORIA HD +1	00`d0012734.m3u8
+RAI SCUOLA 4K HEVC H265	00`d0012732.m3u8
+RAI SCUOLA FULL HD	00`d00242.m3u8
+RAI SCUOLA HD	00`d00241.m3u8
+RAI SCUOLA HD +1	00`d0012733.m3u8
+DMAX FULL HD	00`d00133.m3u8
+SKY DMAX	00`d00336.m3u8
+SKY DMAX +1	00`d005535.m3u8
+FOCUS HEVC H265	00`d0026059.m3u8
+FOCUS	00`d00325.m3u8
+FOCUS +1	00`d005630.m3u8
+ALMA TV - ALICE & MARCOPOLO	00`d0026044.m3u8
+Travel & Living	00`d0048584.m3u8
+Lifestyle	00`d0048585.m3u8
+CLASS TV MODA	00`d00350.m3u8
+[S+] SKY  ARTE FULL HD	00`d0038740.m3u8
+[S+] SKY  ARTE HD	00`d0038741.m3u8
+[S+] SKY DISCOVERY  FULL HD	00`d0038746.m3u8
+[S+] SKY DISCOVERY  HD	00`d0038747.m3u8
+[S+] SKY DOCUMENTARIES FHD	00`d0046838.m3u8
+[S+] SKY DOCUMENTARIES HD	00`d0046837.m3u8
+[S+] SKY NATURE FHD	00`d0046839.m3u8
+[S+] SKY NATURE HD	00`d0046840.m3u8
+[S+] SKY  HISTORY FULL HD	00`d0038750.m3u8
+[S+] SKY  HISTORY HD	00`d0038751.m3u8
+[S+] SKY CRIME  FULL HD	00`d0038677.m3u8
+[S+] SKY CRIME  HD	00`d0038678.m3u8
+[S+] SKY EXPLORER FHD	00`d0046836.m3u8
+[S+] SKY EXPLORER HD	00`d0046835.m3u8
+[S+] DMAX FULL HD	00`d0039300.m3u8
+[S+] DMAX HD	00`d0039299.m3u8
+[S+] FOCUS FULL HD	00`d0038945.m3u8
+[S+] FOCUS HD	00`d0038946.m3u8
+[S+] RAI SCUOLA FULL HD	00`d0038755.m3u8
+[S+] RAI SCUOLA HD	00`d0038754.m3u8
+[S+] ALMA MARCOPOLO HD	00`d0038756.m3u8
+SKY DEA KIDS FULL HD	00`d00147.m3u8
+SKY DEA KIDS HD	00`d00146.m3u8
+SKY NICK JR FULL HD	00`d0089.m3u8
+SKY NICK JR HD	00`d0088.m3u8
+NICK JR SD	00`d00291.m3u8
+BOING	00`d00364.m3u8
+BOING PLUS	00`d00363.m3u8
+CARTOONITO	00`d00356.m3u8
+K2	00`d00303.m3u8
+NOVE	00`d00289.m3u8
+FRISBEE MINI	00`d00115.m3u8
+RAI GULP FULL HD	00`d00249.m3u8
+RAI GULP HD	00`d00248.m3u8
+RAI YOYO FULL HD	00`d00236.m3u8
+RAI YOYO HD	00`d00235.m3u8
+SUPER!	00`d0018.m3u8
+SKY NICKELODEON FULL HD	00`d0087.m3u8
+SKY NICKELODEON HD	00`d0086.m3u8
+NICKELODEON SD	00`d00290.m3u8
+SKY BOOMERANG FULL HD	00`d00213.m3u8
+SKY BOOMERANG HD	00`d00212.m3u8
+SKY CARTOON NETWORK FULL HD	00`d00192.m3u8
+SKY CARTOON NETWORK HD	00`d00191.m3u8
+SKY BABY TV FULL HD	00`d00218.m3u8
+Yamato Animation	00`d0039078.m3u8
+[S+] SKY  DEAKIDS FULL HD	00`d0038760.m3u8
+[S+] SKY  DEAKIDS HD	00`d0038761.m3u8
+[S+] SKY NICKJR FULL HD	00`d0038762.m3u8
+[S+] SKY NICKJR HD	00`d0038763.m3u8
+[S+] SKY NICKELODEON FULL HD	00`d0038764.m3u8
+[S+] SKY NICKELODEON HD	00`d0038765.m3u8
+[S+] SKY BOOMERANG FULL HD	00`d0038766.m3u8
+[S+] SKY CARTOON NETWORK FULL HD	00`d0038767.m3u8
+[S+] SKY CARTOON NETWORK HD	00`d0038768.m3u8
+[S+] SKY BABY FULL HD	00`d0038769.m3u8
+[S+] SKY BABY HD	00`d0038770.m3u8
+[S+] BOING PLUS HD	00`d0038771.m3u8
+[S+] RAI GULP FULL HD	00`d0038948.m3u8
+[S+] RAI GULP HD	00`d0038949.m3u8
+[S+] RAI YOYO FULL HD	00`d0038950.m3u8
+[S+] RAI YOYO HD	00`d0038951.m3u8
+[S+] BOING	00`d0038952.m3u8
+[S+] cartoonito	00`d0038953.m3u8
+[S+] K2	00`d0038954.m3u8
+[S+] Frisbee	00`d0038955.m3u8
+[S+] SUPER!	00`d0038956.m3u8
+SKY TG 24 4K HEVC H265	00`d006650.m3u8
+SKY TG24 FULL HD	00`d0031.m3u8
+SKY TG 24 HD	00`d0032.m3u8
+CN24 NAPOLI	00`d0052479.m3u8
+RAI NEWS 24 HD	00`d00245.m3u8
+TGCOM24	00`d0016.m3u8
+EURONEWS ITALIA	00`d005848.m3u8
+TG NORBA 24	00`d0017.m3u8
+[S+] SKY TG24 FULL HD	00`d0038774.m3u8
+[S+] RAI NEWS 24	00`d0038958.m3u8
+[S+] EURONEWS ITA HD	00`d0038772.m3u8
+[S+] TG NORBA 24	00`d0038773.m3u8
+[S+] TGCOM24	00`d0038957.m3u8
+[S+] SKY TG24 HD	00`d0038775.m3u8
+EUROSPORT PLAYER LIVE 1	00`d0033188.m3u8
+EUROSPORT PLAYER LIVE 2	00`d0033189.m3u8
+EUROSPORT PLAYER LIVE 3	00`d0026116.m3u8
+EUROSPORT PLAYER LIVE 4	00`d0026117.m3u8
+EUROSPORT PLAYER LIVE 5	00`d0026118.m3u8
+EUROSPORT PLAYER LIVE 6	00`d0026119.m3u8
+EUROSPORT PLAYER LIVE 7	00`d0026120.m3u8
+EUROSPORT PLAYER LIVE 8	00`d0026121.m3u8
+EUROSPORT PLAYER LIVE 9	00`d0026122.m3u8
+EUROSPORT PLAYER LIVE 10	00`d0026123.m3u8
+EUROSPORT PLAYER LIVE 11	00`d0032734.m3u8
+EUROSPORT PLAYER LIVE 12	00`d0032735.m3u8
+EUROSPORT PLAYER LIVE 13	00`d0032737.m3u8
+EUROSPORT PLAYER LIVE 14	00`d0032736.m3u8
+EUROSPORT PLAYER LIVE 15	00`d0032738.m3u8
+EUROSPORT PLAYER LIVE 16	00`d0032739.m3u8
+EUROSPORT PLAYER LIVE 17	00`d0039475.m3u8
+EUROSPORT PLAYER LIVE 18	00`d0039476.m3u8
+ATP TENNIS PASS LIVE 1	00`d0032757.m3u8
+ATP TENNIS PASS LIVE 2	00`d0032758.m3u8
+ATP TENNIS PASS LIVE 3	00`d0032759.m3u8
+ATP TENNIS PASS LIVE 4	00`d0038392.m3u8
+ATP TENNIS PASS LIVE 5	00`d0038393.m3u8
+[REG] 111 Tv	00`d0039883.m3u8
+[REG] 12 Tv Parma	00`d0039884.m3u8
+[REG] 696 Tv	00`d0039885.m3u8
+[REG] 8 Video Calabria	00`d0039886.m3u8
+[REG] AB Channel	00`d0039887.m3u8
+[REG] Abc Tv	00`d0039888.m3u8
+[REG] Alpa 1	00`d0039889.m3u8
+[REG] Alto Adige Tv	00`d0039890.m3u8
+[REG] Antenna 2 Bergamo	00`d0039891.m3u8
+[REG] Antenna 3 Massa	00`d0039892.m3u8
+[REG] Antenna 3 Veneto Nord Est	00`d0039893.m3u8
+[REG] Antenna Sud 13	00`d0039894.m3u8
+[REG] Antenna Sud 174	00`d0039895.m3u8
+[REG] Antenna Sud 299	00`d0039896.m3u8
+[REG] Antenna Sud 85	00`d0039897.m3u8
+[REG] Antenna Sud 90	00`d0039898.m3u8
+[REG] Apulia Web Tv	00`d0039899.m3u8
+[REG] Aurora Arte	00`d0039900.m3u8
+[REG] Azzurra Tv Vco	00`d0039901.m3u8
+[REG] Basilicata 1 Tv	00`d0039902.m3u8
+[REG] Bergamo Tv	00`d0039903.m3u8
+[REG] BFC	00`d0039904.m3u8
+[REG] BIKE	00`d0039905.m3u8
+[REG] Byoblu Tv	00`d0039906.m3u8
+[REG] Cafe Tv 24	00`d0039907.m3u8
+[REG] Calabria Uno TV	00`d0039908.m3u8
+[REG] Calabria tv	00`d0039909.m3u8
+[REG] Canale 10	00`d0039910.m3u8
+[REG] Canale 12 Sassari	00`d0039911.m3u8
+[REG] Canale 16	00`d0039912.m3u8
+[REG] Canale 18	00`d0039913.m3u8
+[REG] Canale 2	00`d0039914.m3u8
+[REG] Canale 21 Campania	00`d0039915.m3u8
+[REG] Canale 21 Lazio	00`d0039916.m3u8
+[REG] Canale 58	00`d0039917.m3u8
+[REG] Canale 7	00`d0039918.m3u8
+[REG] Canale 74 Sicilia	00`d0039919.m3u8
+[REG] Canale 8	00`d0039920.m3u8
+[REG] Canale Italia 83	00`d0039921.m3u8
+[REG] Canale Uno Tivù	00`d0039922.m3u8
+[REG] Carina Tv	00`d0039923.m3u8
+[REG] Casa del Sole Tv	00`d0039924.m3u8
+[REG] Casa Sanremo TV	00`d0039925.m3u8
+[REG] Castrovillari Tv	00`d0039926.m3u8
+[REG] Chiesa Tv	00`d0039927.m3u8
+[REG] Ciao USA	00`d0039928.m3u8
+[REG] Cilento Channel	00`d0039929.m3u8
+[REG] Class CNBC	00`d0039930.m3u8
+[REG] Cremona 1	00`d0039931.m3u8
+[REG] Cusano Italia Tv	00`d0039932.m3u8
+[REG] Di.Tv 90	00`d0039933.m3u8
+[REG] Di.Tv 92	00`d0039934.m3u8
+[REG] Digital Tv7 Benevento	00`d0039935.m3u8
+[REG] Donna Shopping Tv	00`d0039936.m3u8
+[REG] E`live Brescia Tv	00`d0039937.m3u8
+[REG] Easy Tv	00`d0039938.m3u8
+[REG] Explorer	00`d0039939.m3u8
+[REG] Entella Tv	00`d0039940.m3u8
+[REG] Espansione Tv	00`d0039941.m3u8
+[REG] Esperia Tv	00`d0039942.m3u8
+[REG] Etna Espresso Channel	00`d0039943.m3u8
+[REG] Etv Marche	00`d0039944.m3u8
+[REG] Etv Rete7	00`d0039945.m3u8
+[REG] Euro Tv	00`d0039946.m3u8
+[REG] FM Tv Marche	00`d0039947.m3u8
+[REG] Fano Tv (Canale17)	00`d0039948.m3u8
+[REG] GRP Televisione	00`d0039949.m3u8
+[REG] Giornale Radio Tv	00`d0039950.m3u8
+[REG] Giovanni Paolo Tv	00`d0039951.m3u8
+[REG] Gold 78	00`d0039952.m3u8
+[REG] Gold Tv	00`d0039953.m3u8
+[REG] History Lab	00`d0039954.m3u8
+[REG] HUB Tv	00`d0039955.m3u8
+[REG] Icaro Tv Rimini	00`d0039956.m3u8
+[REG] Idea Plus	00`d0039957.m3u8
+[REG] IT Channel	00`d0039958.m3u8
+[REG] Italia 2	00`d0039959.m3u8
+[REG] Italia 7	00`d0039960.m3u8
+[REG] Iunior Tv	00`d0039961.m3u8
+[REG] L`Altro Corriere Tv	00`d0039962.m3u8
+[REG] La Grande Italia	00`d0039963.m3u8
+[REG] La Tua Tv	00`d0039964.m3u8
+[REG] La tr3 Marsala	00`d0039965.m3u8
+[REG] LaC News 24	00`d0039966.m3u8
+[REG] LaC Tv Calabria	00`d0039967.m3u8
+[REG] Lab Tv	00`d0039968.m3u8
+[REG] Lazio Tv	00`d0039969.m3u8
+[REG] Le Cronache Lucane Tv	00`d0039970.m3u8
+[REG] Lira Tv	00`d0039971.m3u8
+[REG] Lombardia Tv	00`d0039972.m3u8
+[REG] Love in Venice	00`d0039973.m3u8
+[REG] Lucania Tv	00`d0039974.m3u8
+[REG] Made in BO	00`d0039975.m3u8
+[REG] Mediterranea Tv	00`d0039977.m3u8
+[REG] Medjugorje Italia Tv	00`d0039978.m3u8
+[REG] Medjugorje Tv Puglia	00`d0039979.m3u8
+[REG] Minformo Tv	00`d0039980.m3u8
+[REG] NSL	00`d0039981.m3u8
+[REG] NTI Canale 271	00`d0039982.m3u8
+[REG] Napoli Nova Tv	00`d0039983.m3u8
+[REG] New Signal Tv Genova	00`d0039984.m3u8
+[REG] Nuova TV Nazionale	00`d0039985.m3u8
+[REG] Nuova Tv 1	00`d0039986.m3u8
+[REG] Nuova Tv 2	00`d0039987.m3u8
+[REG] Odeon 24	00`d0039988.m3u8
+[REG] Ofanto Tv	00`d0039989.m3u8
+[REG] Onda Novara Tv	00`d0039990.m3u8
+[REG] Onda Tv Sicilia	00`d0039991.m3u8
+[REG] Onda Web Radio	00`d0039992.m3u8
+[REG] One Tv E.R.	00`d0039993.m3u8
+[REG] Ora Tv	00`d0039994.m3u8
+[REG] Orler Tv	00`d0039995.m3u8
+[REG] Padre Pio Tv	00`d0039996.m3u8
+[REG] Paradise Tv	00`d0039997.m3u8
+[REG] Parole di Vita	00`d0039998.m3u8
+[REG] Partenope Tv	00`d0039999.m3u8
+[REG] Passione Lotto Tv	00`d0040000.m3u8
+[REG] Pop Tv	00`d0040001.m3u8
+[REG] PrimAntenna TV	00`d0040002.m3u8
+[REG] Prima Napoli Tv	00`d0040003.m3u8
+[REG] Prima Tivvù	00`d0040004.m3u8
+[REG] Prima Tv Sicilia	00`d0040005.m3u8
+[REG] Primantenna Torino	00`d0040006.m3u8
+[REG] Primocanale	00`d0040007.m3u8
+[REG] Promovideo Tv	00`d0040008.m3u8
+[REG] Quarto Canale Flegreo	00`d0040009.m3u8
+[REG] R+Tv Abruzzo	00`d0040010.m3u8
+[REG] R.T.C. Quarta Rete	00`d0040011.m3u8
+[REG] R.T.C. Telecalabria	00`d0040012.m3u8
+[REG] R.T.I. Calabria	00`d0040013.m3u8
+[REG] RDE Tv	00`d0040014.m3u8
+[REG] Radio Italia Cina Tv	00`d0040016.m3u8
+[REG] Radio Libertà	00`d0040017.m3u8
+[REG] Radio Monte Kronio Tv (R.M.K.)	00`d0040018.m3u8
+[REG] Reggio Tv	00`d0040019.m3u8
+[REG] Rete 55	00`d0040020.m3u8
+[REG] Rete 7 Tv	00`d0040021.m3u8
+[REG] Rete 8 Vga	00`d0040022.m3u8
+[REG] Rete 8	00`d0040023.m3u8
+[REG] Rete 8 Sport	00`d0040024.m3u8
+[REG] Rete Biella	00`d0040025.m3u8
+[REG] Rete Chiara	00`d0040026.m3u8
+[REG] Rete Mia	00`d0040027.m3u8
+[REG] Rete Oro Tv	00`d0040028.m3u8
+[REG] Rete Sole (Lazio)	00`d0040029.m3u8
+[REG] Rete Sole (Umbria)	00`d0040030.m3u8
+[REG] Rete Tv Italia	00`d0040031.m3u8
+[REG] Rete Veneta	00`d0040032.m3u8
+[REG] Roma Ch 71	00`d0040033.m3u8
+[REG] Rossini Tv	00`d0040034.m3u8
+[REG] Rtc Targato Napoli	00`d0040035.m3u8
+[REG] Rtp Tv	00`d0040036.m3u8
+[REG] Rttr	00`d0040037.m3u8
+[REG] Rtv 38 Toscana	00`d0040038.m3u8
+[REG] Rtv Calabria	00`d0040039.m3u8
+[REG] SL 48 Tv	00`d0040040.m3u8
+[REG] ST Europe Channel	00`d0040041.m3u8
+[REG] Sardegna 1	00`d0040042.m3u8
+[REG] Set Tv Cilento	00`d0040043.m3u8
+[REG] Sicilia Media	00`d0040044.m3u8
+[REG] Sicilia Tv	00`d0040045.m3u8
+[REG] Sienatv	00`d0040046.m3u8
+[REG] Siracusa Live Tv	00`d0040047.m3u8
+[REG] Sophia Tv	00`d0040048.m3u8
+[REG] Sport2U	00`d0040049.m3u8
+[REG] Stiletv	00`d0040050.m3u8
+[REG] Studio 100	00`d0040051.m3u8
+[REG] Super J Tv	00`d0040052.m3u8
+[REG] Super Six	00`d0040053.m3u8
+[REG] Supertv	00`d0040054.m3u8
+[REG] T.R.L Tele Radio Leo	00`d0040055.m3u8
+[REG] T.S.E. Uno (Tele Scout Europa)	00`d0040056.m3u8
+[REG] T9	00`d0040057.m3u8
+[REG] TRC Santeramo	00`d0040058.m3u8
+[REG] TSD Tv Arezzo(Tele San Domenico)	00`d0040059.m3u8
+[REG] TVL (TV Libera Pistoia)	00`d0040060.m3u8
+[REG] Tcf Tv	00`d0040061.m3u8
+[REG] Tci	00`d0040062.m3u8
+[REG] Teatro Tv	00`d0040063.m3u8
+[REG] Tele A	00`d0040064.m3u8
+[REG] Tele Abruzzo Tv	00`d0040065.m3u8
+[REG] Tele Acras	00`d0040066.m3u8
+[REG] Tele Arena	00`d0040067.m3u8
+[REG] Tele Argento/Magic Tv	00`d0040068.m3u8
+[REG] Tele Bari	00`d0040069.m3u8
+[REG] Tele Belluno	00`d0040070.m3u8
+[REG] Tele Blu	00`d0040071.m3u8
+[REG] Tele Boario	00`d0040072.m3u8
+[REG] Tele Bruzzano	00`d0040073.m3u8
+[REG] Tele Chiara	00`d0040074.m3u8
+[REG] Tele Citta` Padova	00`d0040075.m3u8
+[REG] Tele Club Italia	00`d0040076.m3u8
+[REG] Tele Clusone Bergamo	00`d0040077.m3u8
+[REG] Tele Color Lombardia	00`d0040078.m3u8
+[REG] Tele Cupole	00`d0040079.m3u8
+[REG] Tele Estense	00`d0040080.m3u8
+[REG] Tele Foggia	00`d0040081.m3u8
+[REG] Tele Friuli	00`d0040082.m3u8
+[REG] Tele Gela	00`d0040083.m3u8
+[REG] Tele Genova	00`d0040084.m3u8
+[REG] Tele Granda	00`d0040085.m3u8
+[REG] Tele Ischia	00`d0040086.m3u8
+[REG] Tele Jonio	00`d0040087.m3u8
+[REG] Tele Lazio Nord	00`d0040088.m3u8
+[REG] Tele Liberta`	00`d0040089.m3u8
+[REG] Tele Liguria Sud	00`d0040090.m3u8
+[REG] Tele Mantova	00`d0040091.m3u8
+[REG] Tele Mia Extra	00`d0040092.m3u8
+[REG] Tele Mia	00`d0040093.m3u8
+[REG] Tele Mistretta Life e Family	00`d0040094.m3u8
+[REG] Tele Mistretta Radio	00`d0040095.m3u8
+[REG] Tele Mistretta	00`d0040096.m3u8
+[REG] Tele Molise	00`d0040097.m3u8
+[REG] Tele Monteneve 3	00`d0040098.m3u8
+[REG] Tele Norba (TG Norba 24 )	00`d0040099.m3u8
+[REG] Tele Nord Est	00`d0040100.m3u8
+[REG] Tele Nord Genova	00`d0040101.m3u8
+[REG] Tele Nostra	00`d0040102.m3u8
+[REG] Tele Occidente	00`d0040103.m3u8
+[REG] Tele Oltre	00`d0040104.m3u8
+[REG] Tele One	00`d0040105.m3u8
+[REG] Tele Pace 1	00`d0040106.m3u8
+[REG] Tele Pace 2	00`d0040107.m3u8
+[REG] Tele Pace 3	00`d0040108.m3u8
+[REG] Tele Pace 4	00`d0040109.m3u8
+[REG] Tele Pace News	00`d0040110.m3u8
+[REG] Tele Pace Roma	00`d0040111.m3u8
+[REG] Tele Pace Trento	00`d0040112.m3u8
+[REG] Tele Pace Verona	00`d0040113.m3u8
+[REG] Tele Pavia	00`d0040114.m3u8
+[REG] Tele Pegaso	00`d0040115.m3u8
+[REG] Tele Piadena	00`d0040116.m3u8
+[REG] Tele Pordenone	00`d0040117.m3u8
+[REG] Tele Prima	00`d0040118.m3u8
+[REG] Tele Quattro Trieste	00`d0040119.m3u8
+[REG] Tele Radio Ercolano	00`d0040120.m3u8
+[REG] Tele Radio Orte	00`d0040121.m3u8
+[REG] Tele Radio Sciacca	00`d0040122.m3u8
+[REG] Tele Radio Studio 5	00`d0040123.m3u8
+[REG] Tele Rama	00`d0040124.m3u8
+[REG] Tele Roma 1	00`d0040125.m3u8
+[REG] Tele Romagna 24	00`d0040126.m3u8
+[REG] Tele Romagna Lifestyle	00`d0040127.m3u8
+[REG] Tele Romagna Mia	00`d0040128.m3u8
+[REG] Tele Romagna	00`d0040129.m3u8
+[REG] Tele Sirio	00`d0040130.m3u8
+[REG] Tele Spazio Messina	00`d0040131.m3u8
+[REG] Tele Star 1	00`d0040132.m3u8
+[REG] Tele Sud Puglia	00`d0040133.m3u8
+[REG] Tele Sveva News 24	00`d0040134.m3u8
+[REG] Tele Tebe	00`d0040135.m3u8
+[REG] Tele Terni	00`d0040136.m3u8
+[REG] Tele Tricolore	00`d0040137.m3u8
+[REG] Tele Tutto 2	00`d0040138.m3u8
+[REG] Tele Tutto 24	00`d0040139.m3u8
+[REG] Tele Tutto	00`d0040140.m3u8
+[REG] Tele Venezia	00`d0040141.m3u8
+[REG] Tele Video Agrigento (T.V.A.)	00`d0040142.m3u8
+[REG] TeleAmbiente	00`d0040143.m3u8
+[REG] TeleMajg	00`d0040144.m3u8
+[REG] TeleRent 7Gold	00`d0040145.m3u8
+[REG] Telesud Trapani	00`d0040146.m3u8
+[REG] Teleuniverso	00`d0040147.m3u8
+[REG] Televallo Trapani	00`d0040148.m3u8
+[REG] Tevere Tv	00`d0040149.m3u8
+[REG] TLT Molise	00`d0040150.m3u8
+[REG] Touring Tv	00`d0040151.m3u8
+[REG] Trentino Tv	00`d0040152.m3u8
+[REG] Tris News	00`d0040153.m3u8
+[REG] Tris Siracusa	00`d0040154.m3u8
+[REG] Tsn Lecco	00`d0040155.m3u8
+[REG] Tsn Tele Sondrio News	00`d0040156.m3u8
+[REG] Tua Channel	00`d0040157.m3u8
+[REG] Tuscia Sabina 2000Tv	00`d0040158.m3u8
+[REG] Tv 6	00`d0040159.m3u8
+[REG] Tv Campane 1	00`d0040160.m3u8
+[REG] Tv Campania Streaming	00`d0040161.m3u8
+[REG] Tv Luna Napoli	00`d0040162.m3u8
+[REG] Tv Prato	00`d0040163.m3u8
+[REG] Tv Qui Modena	00`d0040164.m3u8
+[REG] Tv Uno	00`d0040165.m3u8
+[REG] Tv Yes	00`d0040166.m3u8
+[REG] Tv7 Azzurra	00`d0040167.m3u8
+[REG] Tv7 News	00`d0040168.m3u8
+[REG] Tv7 Triveneta	00`d0040169.m3u8
+[REG] Tva Agrigento	00`d0040170.m3u8
+[REG] Tva Vicenza	00`d0040171.m3u8
+[REG] Tvr Xenon	00`d0040172.m3u8
+[REG] Tvrs Tv	00`d0040173.m3u8
+[REG] Umbria TV	00`d0040174.m3u8
+[REG] Vera Tv	00`d0040175.m3u8
+[REG] Video 33	00`d0040176.m3u8
+[REG] Video Brescia	00`d0040177.m3u8
+[REG] Video Mediterraneo	00`d0040178.m3u8
+[REG] Video Nola	00`d0040179.m3u8
+[REG] Video Star	00`d0040180.m3u8
+[REG] Videolina	00`d0040181.m3u8
+[REG] Videostar Tv Lombardia	00`d0040182.m3u8
+[REG] Vintage Radio Tv	00`d0040183.m3u8
+[REG] Vuemme Tv	00`d0040184.m3u8
+[REG] Well Tv	00`d0040185.m3u8
+[REG] Yvii Tv	00`d0040186.m3u8
+[REG] Zerouno Tv News	00`d0040187.m3u8
+ID  TVRI Aceh	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIACEH)/index.m3u8
+ID  TVRI Bali	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIBALI)/index.m3u8
+ID  TVRI Bangka Belitung	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIBABEL)/index.m3u8
+ID  TVRI Bengkulu	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIBENGKULU)/index.m3u8
+ID  TVRI DKI Jakarta	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIDKI)/index.m3u8
+ID  TVRI Gorontalo	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIGORONTALO)/index.m3u8
+ID  TVRI Jambi	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJAMBI)/index.m3u8
+ID  TVRI Jawa Barat	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/index.m3u8
+ID  TVRI Jawa Tengah	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJATENGSEMARANG)/index.m3u8
+ID  TVRI Jawa Timur	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJATIMSURABAYA)/index.m3u8
+ID  TVRI Kalimantan Barat	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKALBAR)/index.m3u8
+ID  TVRI Kalimantan Selatan	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKALSELBANJARMSN)/index.m3u8
+ID  TVRI Kalimantan Tengah	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKALTENG)/index.m3u8
+ID  TVRI Kalimantan Timur	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKALTIMSAMARINDA)/index.m3u8
+ID  TVRI Lampung	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRILAMPUNG)/index.m3u8
+ID  TVRI Maluku	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIMALUKUAMBON)/index.m3u8
+ID  TVRI Nasional	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
+ID  TVRI Nusa Tenggara Barat	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINTBMATARAM)/index.m3u8
+ID  TVRI Nusa Tenggara Timur	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINTTKUPANG)/index.m3u8
+ID  TVRI Papua	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIPAPUA)/index.m3u8
+ID  TVRI Riau	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIRIAU)/index.m3u8
+ID  TVRI Sport	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/index.m3u8
+ID  TVRI Sulawesi Barat	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISULBARMAJENE)/index.m3u8
+ID  TVRI Sulawesi Selatan	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISULSELMAKASAR)/index.m3u8
+ID  TVRI Sulawesi Tengah	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISULTENGPALU)/index.m3u8
+ID  TVRI Sulawesi Tenggara	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISULTRA)/index.m3u8
+ID  TVRI Sumatera Barat	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISUMBARPADANG)/index.m3u8
+ID  TVRI Sumatera Selatan	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISUMSEL)/index.m3u8
+ID  TVRI Yogyakarta	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/index.m3u8
