@@ -1,113 +1,3 @@
-ANIMAL PLANET	http://45.12.2.240:8080/live/b7c2ba83/b65f5b29/157532.m3u8
-Animax	http://45.12.2.240:8080/live/b7c2ba83/b65f5b29/165081.m3u8
-AniPlus	http://45.12.2.240:8080/live/b7c2ba83/b65f5b29/298504.m3u8
-ANTV	http://45.12.2.240:8080/live/b7c2ba83/b65f5b29/165072.m3u8
-Arirang	http://45.12.2.240:8080/live/b7c2ba83/b65f5b29/247447.m3u8
-Asian Food Network	http://45.12.2.240:8080/live/b7c2ba83/b65f5b29/298503.m3u8
-AXN	http://45.12.2.240:8080/live/b7c2ba83/b65f5b29/165079.m3u8
-BBC Earth	http://45.12.2.240:8080/live/b7c2ba83/b65f5b29/165106.m3u8
-BBC Lifestyle	http://45.12.2.240:8080/live/b7c2ba83/b65f5b29/264747.m3u8
-beIN Sports 3	http://45.12.2.240:8080/live/b7c2ba83/b65f5b29/298506.m3u8
-Berita Satu	http://45.12.2.240:8080/live/b7c2ba83/b65f5b29/162513.m3u8
-Bioskop Indonesia	http://45.12.2.240:8080/live/b7c2ba83/b65f5b29/264801.m3u8
-Cartoon Network	http://45.12.2.240:8080/live/b7c2ba83/b65f5b29/157593.m3u8
-CBeebies	http://45.12.2.240:8080/live/b7c2ba83/b65f5b29/247448.m3u8
-Celestial Movies	http://45.12.2.240:8080/live/b7c2ba83/b65f5b29/165065.m3u8
-CGTN	http://45.12.2.240:8080/live/b7c2ba83/b65f5b29/298510.m3u8
-CGTN Documentary	http://45.12.2.240:8080/live/b7c2ba83/b65f5b29/298511.m3u8
-Channel News Asia	http://45.12.2.240:8080/live/b7c2ba83/b65f5b29/157602.m3u8
-Cinemax	http://45.12.2.240:8080/live/b7c2ba83/b65f5b29/197964.m3u8
-Citra Dangdut	http://45.12.2.240:8080/live/b7c2ba83/b65f5b29/247446.m3u8
-CNBC Indonesia	http://45.12.2.240:8080/live/b7c2ba83/b65f5b29/165062.m3u8
-CNN Indonesia	http://45.12.2.240:8080/live/b7c2ba83/b65f5b29/162137.m3u8
-Crime+ Investigation	http://45.12.2.240:8080/live/b7c2ba83/b65f5b29/165052.m3u8
-Da Ai TV	http://45.12.2.240:8080/live/b7c2ba83/b65f5b29/165061.m3u8
-Discovery Asia	http://45.12.2.240:8080/live/b7c2ba83/b65f5b29/197968.m3u8
-Discovery World	http://45.12.2.240:8080/live/b7c2ba83/b65f5b29/157597.m3u8
-Disney Channel	http://45.12.2.240:8080/live/b7c2ba83/b65f5b29/165075.m3u8
-DreamWorks	http://45.12.2.240:8080/live/b7c2ba83/b65f5b29/157610.m3u8
-Dunia Anak	http://45.12.2.240:8080/live/b7c2ba83/b65f5b29/264753.m3u8
-Dunia Lain	http://45.12.2.240:8080/live/b7c2ba83/b65f5b29/298524.m3u8
-Ent	http://45.12.2.240:8080/live/b7c2ba83/b65f5b29/157581.m3u8
-Etv Bioskop	http://45.12.2.240:8080/live/b7c2ba83/b65f5b29/298526.m3u8
-Etv Bioskop 02	http://45.12.2.240:8080/live/b7c2ba83/b65f5b29/298527.m3u8
-Etv Bioskop 03	http://45.12.2.240:8080/live/b7c2ba83/b65f5b29/298528.m3u8
-Etv Bioskop 04	http://45.12.2.240:8080/live/b7c2ba83/b65f5b29/298529.m3u8
-Galaxy	http://45.12.2.240:8080/live/b7c2ba83/b65f5b29/264773.m3u8
-Galaxy Premium	http://45.12.2.240:8080/live/b7c2ba83/b65f5b29/264774.m3u8
-GEM	http://45.12.2.240:8080/live/b7c2ba83/b65f5b29/298533.m3u8
-GTV	http://45.12.2.240:8080/live/b7c2ba83/b65f5b29/157578.m3u8
-HBO	http://45.12.2.240:8080/live/b7c2ba83/b65f5b29/197972.m3u8
-HBO Family	http://45.12.2.240:8080/live/b7c2ba83/b65f5b29/197055.m3u8
-HBO Hits	http://45.12.2.240:8080/live/b7c2ba83/b65f5b29/196480.m3u8
-HBO Signature	http://45.12.2.240:8080/live/b7c2ba83/b65f5b29/221948.m3u8
-HGTV	http://45.12.2.240:8080/live/b7c2ba83/b65f5b29/298535.m3u8
-History	http://45.12.2.240:8080/live/b7c2ba83/b65f5b29/162519.m3u8
-Hits	http://45.12.2.240:8080/live/b7c2ba83/b65f5b29/165085.m3u8
-Hits Movies	http://45.12.2.240:8080/live/b7c2ba83/b65f5b29/221947.m3u8
-Horee!	http://45.12.2.240:8080/live/b7c2ba83/b65f5b29/264750.m3u8
-Hunan TV	http://45.12.2.240:8080/live/b7c2ba83/b65f5b29/247443.m3u8
-I Konser	http://45.12.2.240:8080/live/b7c2ba83/b65f5b29/264760.m3u8
-IDX	http://45.12.2.240:8080/live/b7c2ba83/b65f5b29/157590.m3u8
-IMC	http://45.12.2.240:8080/live/b7c2ba83/b65f5b29/264769.m3u8
-Indi Kids	http://45.12.2.240:8080/live/b7c2ba83/b65f5b29/298539.m3u8
-Indosiar	http://45.12.2.240:8080/live/b7c2ba83/b65f5b29/162138.m3u8
-INews	http://45.12.2.240:8080/live/b7c2ba83/b65f5b29/157579.m3u8
-Insert	http://45.12.2.240:8080/live/b7c2ba83/b65f5b29/264766.m3u8
-Jak TV	http://45.12.2.240:8080/live/b7c2ba83/b65f5b29/157601.m3u8
-JTV	http://45.12.2.240:8080/live/b7c2ba83/b65f5b29/165091.m3u8
-KBS World	http://45.12.2.240:8080/live/b7c2ba83/b65f5b29/197053.m3u8
-Kids TV	http://45.12.2.240:8080/live/b7c2ba83/b65f5b29/162505.m3u8
-Kompas TV	http://45.12.2.240:8080/live/b7c2ba83/b65f5b29/165060.m3u8
-Macau Lotus TV	http://45.12.2.240:8080/live/b7c2ba83/b65f5b29/304362.m3u8
-Metro TV	http://45.12.2.240:8080/live/b7c2ba83/b65f5b29/165059.m3u8
-MNC News	http://45.12.2.240:8080/live/b7c2ba83/b65f5b29/165058.m3u8
-MNC Sports	http://45.12.2.240:8080/live/b7c2ba83/b65f5b29/157589.m3u8
-MNC Sports 2	http://45.12.2.240:8080/live/b7c2ba83/b65f5b29/298548.m3u8
-MNC Sports 3	http://45.12.2.240:8080/live/b7c2ba83/b65f5b29/298549.m3u8
-MNC TV	http://45.12.2.240:8080/live/b7c2ba83/b65f5b29/165054.m3u8
-Moji	http://45.12.2.240:8080/live/b7c2ba83/b65f5b29/298550.m3u8
-MQTV	http://45.12.2.240:8080/live/b7c2ba83/b65f5b29/298551.m3u8
-MTA 7 Asia	http://45.12.2.240:8080/live/b7c2ba83/b65f5b29/162522.m3u8
-Music TV	http://45.12.2.240:8080/live/b7c2ba83/b65f5b29/165108.m3u8
-My Cinema	http://45.12.2.240:8080/live/b7c2ba83/b65f5b29/298553.m3u8
-My Cinema Asia	http://45.12.2.240:8080/live/b7c2ba83/b65f5b29/298554.m3u8
-My Family	http://45.12.2.240:8080/live/b7c2ba83/b65f5b29/298555.m3u8
-My Kidz	http://45.12.2.240:8080/live/b7c2ba83/b65f5b29/298556.m3u8
-Net	http://45.12.2.240:8080/live/b7c2ba83/b65f5b29/80292.m3u8
-NHK World	http://45.12.2.240:8080/live/b7c2ba83/b65f5b29/298560.m3u8
-Nick Jr	http://45.12.2.240:8080/live/b7c2ba83/b65f5b29/165107.m3u8
-nickelodeon	http://45.12.2.240:8080/live/b7c2ba83/b65f5b29/162510.m3u8
-Nusantara TV	http://45.12.2.240:8080/live/b7c2ba83/b65f5b29/166410.m3u8
-ONE	http://45.12.2.240:8080/live/b7c2ba83/b65f5b29/298563.m3u8
-Prambors	http://45.12.2.240:8080/live/b7c2ba83/b65f5b29/264761.m3u8
-Radio 51	http://45.12.2.240:8080/live/b7c2ba83/b65f5b29/300846.m3u8
-RCTI	http://45.12.2.240:8080/live/b7c2ba83/b65f5b29/157591.m3u8
-Rock Action	http://45.12.2.240:8080/live/b7c2ba83/b65f5b29/298490.m3u8
-Rock Entertaiment	http://45.12.2.240:8080/live/b7c2ba83/b65f5b29/298565.m3u8
-Rodja TV	http://45.12.2.240:8080/live/b7c2ba83/b65f5b29/264758.m3u8
-SCTV	http://45.12.2.240:8080/live/b7c2ba83/b65f5b29/162141.m3u8
-Sindonews TV	http://45.12.2.240:8080/live/b7c2ba83/b65f5b29/299485.m3u8
-Smithsonian Channel	http://45.12.2.240:8080/live/b7c2ba83/b65f5b29/264767.m3u8
-SpoTV	http://45.12.2.240:8080/live/b7c2ba83/b65f5b29/298570.m3u8
-SpoTV 2	http://45.12.2.240:8080/live/b7c2ba83/b65f5b29/298571.m3u8
-Tech Storm	http://45.12.2.240:8080/live/b7c2ba83/b65f5b29/298572.m3u8
-Thrill	http://45.12.2.240:8080/live/b7c2ba83/b65f5b29/157580.m3u8
-TLC	http://45.12.2.240:8080/live/b7c2ba83/b65f5b29/165086.m3u8
-Trans 7	http://45.12.2.240:8080/live/b7c2ba83/b65f5b29/162502.m3u8
-Trans TV	http://45.12.2.240:8080/live/b7c2ba83/b65f5b29/162503.m3u8
-TV 9 Nusantara	http://45.12.2.240:8080/live/b7c2ba83/b65f5b29/162509.m3u8
-TV One	http://45.12.2.240:8080/live/b7c2ba83/b65f5b29/296214.m3u8
-TVKU	http://45.12.2.240:8080/live/b7c2ba83/b65f5b29/166709.m3u8
-TVN	http://45.12.2.240:8080/live/b7c2ba83/b65f5b29/197965.m3u8
-TVN Movies	http://45.12.2.240:8080/live/b7c2ba83/b65f5b29/157596.m3u8
-TVRI	http://45.12.2.240:8080/live/b7c2ba83/b65f5b29/162504.m3u8
-TVRI Sport	http://45.12.2.240:8080/live/b7c2ba83/b65f5b29/166686.m3u8
-Usee Sport 1	http://45.12.2.240:8080/live/b7c2ba83/b65f5b29/298577.m3u8
-Vision Prime	http://45.12.2.240:8080/live/b7c2ba83/b65f5b29/197958.m3u8
-Warner TV	http://45.12.2.240:8080/live/b7c2ba83/b65f5b29/157594.m3u8
-Zee Bioskop	http://45.12.2.240:8080/live/b7c2ba83/b65f5b29/157584.m3u8
-ZooMoo	http://45.12.2.240:8080/live/b7c2ba83/b65f5b29/264751.m3u8
 INDOSIAR(a) ..	http://iptv12k.com:35461/live/80236053010/645789/34161.m3u8
 INDOSIAR(b)..	http://iptv12k.com:35461/live/80236053010/645789/34160.m3u8
 INDOSIAR(c)..	http://iptv12k.com:35461/live/80236053010/645789/34159.m3u8
@@ -1690,3 +1580,113 @@ KIDS: Sonic 24/7	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/121
 24/7 Doc: Cutest Animals_Dangerous Animals_ Asia_&_ Latin America	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/121318.m3u8
 24/7 Doc: Planet_earth_Season_1_&_2	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/121328.m3u8
 24/7 Doc: Absurd Planet_Night on Earth_Our Great National Parks	http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/121338.m3u8
+ANIMAL PLANET	http://45.12.2.240:8080/b7c2ba83/b65f5b29/157532
+Animax	http://45.12.2.240:8080/b7c2ba83/b65f5b29/165081
+AniPlus	http://45.12.2.240:8080/b7c2ba83/b65f5b29/298504
+ANTV	http://45.12.2.240:8080/b7c2ba83/b65f5b29/165072
+Arirang	http://45.12.2.240:8080/b7c2ba83/b65f5b29/247447
+Asian Food Network	http://45.12.2.240:8080/b7c2ba83/b65f5b29/298503
+AXN	http://45.12.2.240:8080/b7c2ba83/b65f5b29/165079
+BBC Earth	http://45.12.2.240:8080/b7c2ba83/b65f5b29/165106
+BBC Lifestyle	http://45.12.2.240:8080/b7c2ba83/b65f5b29/264747
+beIN Sports 3	http://45.12.2.240:8080/b7c2ba83/b65f5b29/298506
+Berita Satu	http://45.12.2.240:8080/b7c2ba83/b65f5b29/162513
+Bioskop Indonesia	http://45.12.2.240:8080/b7c2ba83/b65f5b29/264801
+Cartoon Network	http://45.12.2.240:8080/b7c2ba83/b65f5b29/157593
+CBeebies	http://45.12.2.240:8080/b7c2ba83/b65f5b29/247448
+Celestial Movies	http://45.12.2.240:8080/b7c2ba83/b65f5b29/165065
+CGTN	http://45.12.2.240:8080/b7c2ba83/b65f5b29/298510
+CGTN Documentary	http://45.12.2.240:8080/b7c2ba83/b65f5b29/298511
+Channel News Asia	http://45.12.2.240:8080/b7c2ba83/b65f5b29/157602
+Cinemax	http://45.12.2.240:8080/b7c2ba83/b65f5b29/197964
+Citra Dangdut	http://45.12.2.240:8080/b7c2ba83/b65f5b29/247446
+CNBC Indonesia	http://45.12.2.240:8080/b7c2ba83/b65f5b29/165062
+CNN Indonesia	http://45.12.2.240:8080/b7c2ba83/b65f5b29/162137
+Crime+ Investigation	http://45.12.2.240:8080/b7c2ba83/b65f5b29/165052
+Da Ai TV	http://45.12.2.240:8080/b7c2ba83/b65f5b29/165061
+Discovery Asia	http://45.12.2.240:8080/b7c2ba83/b65f5b29/197968
+Discovery World	http://45.12.2.240:8080/b7c2ba83/b65f5b29/157597
+Disney Channel	http://45.12.2.240:8080/b7c2ba83/b65f5b29/165075
+DreamWorks	http://45.12.2.240:8080/b7c2ba83/b65f5b29/157610
+Dunia Anak	http://45.12.2.240:8080/b7c2ba83/b65f5b29/264753
+Dunia Lain	http://45.12.2.240:8080/b7c2ba83/b65f5b29/298524
+Ent	http://45.12.2.240:8080/b7c2ba83/b65f5b29/157581
+Etv Bioskop	http://45.12.2.240:8080/b7c2ba83/b65f5b29/298526
+Etv Bioskop 02	http://45.12.2.240:8080/b7c2ba83/b65f5b29/298527
+Etv Bioskop 03	http://45.12.2.240:8080/b7c2ba83/b65f5b29/298528
+Etv Bioskop 04	http://45.12.2.240:8080/b7c2ba83/b65f5b29/298529
+Galaxy	http://45.12.2.240:8080/b7c2ba83/b65f5b29/264773
+Galaxy Premium	http://45.12.2.240:8080/b7c2ba83/b65f5b29/264774
+GEM	http://45.12.2.240:8080/b7c2ba83/b65f5b29/298533
+GTV	http://45.12.2.240:8080/b7c2ba83/b65f5b29/157578
+HBO	http://45.12.2.240:8080/b7c2ba83/b65f5b29/197972
+HBO Family	http://45.12.2.240:8080/b7c2ba83/b65f5b29/197055
+HBO Hits	http://45.12.2.240:8080/b7c2ba83/b65f5b29/196480
+HBO Signature	http://45.12.2.240:8080/b7c2ba83/b65f5b29/221948
+HGTV	http://45.12.2.240:8080/b7c2ba83/b65f5b29/298535
+History	http://45.12.2.240:8080/b7c2ba83/b65f5b29/162519
+Hits	http://45.12.2.240:8080/b7c2ba83/b65f5b29/165085
+Hits Movies	http://45.12.2.240:8080/b7c2ba83/b65f5b29/221947
+Horee!	http://45.12.2.240:8080/b7c2ba83/b65f5b29/264750
+Hunan TV	http://45.12.2.240:8080/b7c2ba83/b65f5b29/247443
+I Konser	http://45.12.2.240:8080/b7c2ba83/b65f5b29/264760
+IDX	http://45.12.2.240:8080/b7c2ba83/b65f5b29/157590
+IMC	http://45.12.2.240:8080/b7c2ba83/b65f5b29/264769
+Indi Kids	http://45.12.2.240:8080/b7c2ba83/b65f5b29/298539
+Indosiar	http://45.12.2.240:8080/b7c2ba83/b65f5b29/162138
+INews	http://45.12.2.240:8080/b7c2ba83/b65f5b29/157579
+Insert	http://45.12.2.240:8080/b7c2ba83/b65f5b29/264766
+Jak TV	http://45.12.2.240:8080/b7c2ba83/b65f5b29/157601
+JTV	http://45.12.2.240:8080/b7c2ba83/b65f5b29/165091
+KBS World	http://45.12.2.240:8080/b7c2ba83/b65f5b29/197053
+Kids TV	http://45.12.2.240:8080/b7c2ba83/b65f5b29/162505
+Kompas TV	http://45.12.2.240:8080/b7c2ba83/b65f5b29/165060
+Macau Lotus TV	http://45.12.2.240:8080/b7c2ba83/b65f5b29/304362
+Metro TV	http://45.12.2.240:8080/b7c2ba83/b65f5b29/165059
+MNC News	http://45.12.2.240:8080/b7c2ba83/b65f5b29/165058
+MNC Sports	http://45.12.2.240:8080/b7c2ba83/b65f5b29/157589
+MNC Sports 2	http://45.12.2.240:8080/b7c2ba83/b65f5b29/298548
+MNC Sports 3	http://45.12.2.240:8080/b7c2ba83/b65f5b29/298549
+MNC TV	http://45.12.2.240:8080/b7c2ba83/b65f5b29/165054
+Moji	http://45.12.2.240:8080/b7c2ba83/b65f5b29/298550
+MQTV	http://45.12.2.240:8080/b7c2ba83/b65f5b29/298551
+MTA 7 Asia	http://45.12.2.240:8080/b7c2ba83/b65f5b29/162522
+Music TV	http://45.12.2.240:8080/b7c2ba83/b65f5b29/165108
+My Cinema	http://45.12.2.240:8080/b7c2ba83/b65f5b29/298553
+My Cinema Asia	http://45.12.2.240:8080/b7c2ba83/b65f5b29/298554
+My Family	http://45.12.2.240:8080/b7c2ba83/b65f5b29/298555
+My Kidz	http://45.12.2.240:8080/b7c2ba83/b65f5b29/298556
+Net	http://45.12.2.240:8080/b7c2ba83/b65f5b29/80292
+NHK World	http://45.12.2.240:8080/b7c2ba83/b65f5b29/298560
+Nick Jr	http://45.12.2.240:8080/b7c2ba83/b65f5b29/165107
+nickelodeon	http://45.12.2.240:8080/b7c2ba83/b65f5b29/162510
+Nusantara TV	http://45.12.2.240:8080/b7c2ba83/b65f5b29/166410
+ONE	http://45.12.2.240:8080/b7c2ba83/b65f5b29/298563
+Prambors	http://45.12.2.240:8080/b7c2ba83/b65f5b29/264761
+Radio 51	http://45.12.2.240:8080/b7c2ba83/b65f5b29/300846
+RCTI	http://45.12.2.240:8080/b7c2ba83/b65f5b29/157591
+Rock Action	http://45.12.2.240:8080/b7c2ba83/b65f5b29/298490
+Rock Entertaiment	http://45.12.2.240:8080/b7c2ba83/b65f5b29/298565
+Rodja TV	http://45.12.2.240:8080/b7c2ba83/b65f5b29/264758
+SCTV	http://45.12.2.240:8080/b7c2ba83/b65f5b29/162141
+Sindonews TV	http://45.12.2.240:8080/b7c2ba83/b65f5b29/299485
+Smithsonian Channel	http://45.12.2.240:8080/b7c2ba83/b65f5b29/264767
+SpoTV	http://45.12.2.240:8080/b7c2ba83/b65f5b29/298570
+SpoTV 2	http://45.12.2.240:8080/b7c2ba83/b65f5b29/298571
+Tech Storm	http://45.12.2.240:8080/b7c2ba83/b65f5b29/298572
+Thrill	http://45.12.2.240:8080/b7c2ba83/b65f5b29/157580
+TLC	http://45.12.2.240:8080/b7c2ba83/b65f5b29/165086
+Trans 7	http://45.12.2.240:8080/b7c2ba83/b65f5b29/162502
+Trans TV	http://45.12.2.240:8080/b7c2ba83/b65f5b29/162503
+TV 9 Nusantara	http://45.12.2.240:8080/b7c2ba83/b65f5b29/162509
+TV One	http://45.12.2.240:8080/b7c2ba83/b65f5b29/296214
+TVKU	http://45.12.2.240:8080/b7c2ba83/b65f5b29/166709
+TVN	http://45.12.2.240:8080/b7c2ba83/b65f5b29/197965
+TVN Movies	http://45.12.2.240:8080/b7c2ba83/b65f5b29/157596
+TVRI	http://45.12.2.240:8080/b7c2ba83/b65f5b29/162504
+TVRI Sport	http://45.12.2.240:8080/b7c2ba83/b65f5b29/166686
+Usee Sport 1	http://45.12.2.240:8080/b7c2ba83/b65f5b29/298577
+Vision Prime	http://45.12.2.240:8080/b7c2ba83/b65f5b29/197958
+Warner TV	http://45.12.2.240:8080/b7c2ba83/b65f5b29/157594
+Zee Bioskop	http://45.12.2.240:8080/b7c2ba83/b65f5b29/157584
+ZooMoo	http://45.12.2.240:8080/b7c2ba83/b65f5b29/264751
