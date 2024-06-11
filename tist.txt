@@ -1,4 +1,5 @@
 Indosiar G	https://raw.githubusercontent.com/englishcd/bahasainggris/master/indosiar.m3u8
+RCTI G	https://raw.githubusercontent.com/kusnadipepenk/campeign/master/rcti.m3u8
 SCTV	https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=204&type=hls
 Indosiar	https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=205&type=hls
 Moji	https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=206&type=hls
