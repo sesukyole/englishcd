@@ -1,19 +1,14 @@
-Indonesia vs Phillippines	https://lebo.huminbird.cn/live/ballbar_37110.m3u8
-Indonesia vs Phillippines Indosiar	https://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
-Indonesia vs Phillippines SCTV	https://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
-CCTV 5	https://cors-proxy.elfsight.com/https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
-SG  MeWatch 5	https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd``607b7d22565c4bc3b95ff6c33ce65425:28cc5367df666c44be4382e64af64d57
-MY  TV Okey	https://cors-proxy.cooks.fyi/https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 ID  Sports 1	01`00a133/beib1/index.m3u8?c
 ID  Sports 3	01`00a133/beib2/index.m3u8?c
 ID  SpoTV 1	https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-spotv/sa_hls/rcti-spotv.m3u8?c
-ID  SpoTV 2	01`02aSPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd``57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
-ID  Soccer	01`02asoccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd``4d38060bf41b3c29df0ec950ece6b5da:7ee9506b13480491d79b71c062ab5366
 ID  Sport 1	https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar/sa_hls/rcti-sportstar.m3u8
 ID  Sport 2	https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar2/sa_hls/rcti-sportstar2.m3u8
-ID  Sport 3	01`02aMNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd``fadd2720deff5925ab86df0819cd7775:f67ff08c7ebc779f6a6fcfc83835f65b
 ID  Sport 4	https://dsgtq5sngxkde.cloudfront.net/live/eds/VplusLiveRplus/sa_hls/VplusLiveRplus.m3u8
+ID  RCTI	https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-2/sa_hls/rcti-2.m3u8?c
+MY  TV Okey	https://cors-proxy.cooks.fyi/https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
+SG  MeWatch 5	https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd``607b7d22565c4bc3b95ff6c33ce65425:28cc5367df666c44be4382e64af64d57
 CCTV 4	https://op-group1-swiftservesd-1.dens.tv/s/s19/index.m3u8
+CCTV 5	https://cors-proxy.elfsight.com/https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 CCTV 5+	https://cors-proxy.elfsight.com/https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 CCTV 16	https://cors-proxy.elfsight.com/https://node1.olelive.com:6443/live/CCTV16HD/hls.m3u8
 IT  Rai 2	https://cors-proxy.elfsight.com/https://wp1-obc1112-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV09103/manifest.mpd``8398533768ae49be862f458edc78f828:609273c26c31a4090310e3945c0db5df
