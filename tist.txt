@@ -1,15 +1,7 @@
-Moji 1	http://103.237.32.213:9981/stream/channelid/1756390848?profile=pass
-Moji 2	http://194.120.144.74:8070/b7c2ba83/b65f5b29/298550
-Moji 3	http://103.237.32.213:9981/stream/channelid/1756390848?profile=pass?.avi
-Moji 4	http://194.120.144.74:8070/b7c2ba83/b65f5b29/298550?.avi
+Indosiar G	https://raw.githubusercontent.com/englishcd/bahasainggris/master/indosiar.m3u8
 SCTV	https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=204&type=hls
 Indosiar	https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=205&type=hls
 Moji	https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=206&type=hls
-ID: SCTV	http://xtv.ooo:8080/live/2575376/47426736/351030.m3u8
-ID: Indosiar	http://xtv.ooo:8080/live/2575376/47426736/350972.m3u8
-ID: Moji	http://xtv.ooo:8080/live/2575376/47426736/350997.m3u8
-ID: RCTI	http://xtv.ooo:8080/live/2575376/47426736/351023.m3u8
-ID: INews	http://xtv.ooo:8080/live/2575376/47426736/350973.m3u8
 TRANS TV	https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=733&type=hls
 Trans7	https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=734&type=hls
 TVOne	https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=783&type=hls
@@ -105,6 +97,11 @@ SWARA SEMARANG	https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=7283&t
 Most FM	https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=7450&type=hls
 CLASSY 103.4 FM	https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=9106&type=hls
 Sushi Radio	https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=7218&type=hls
+ID: SCTV	http://xtv.ooo:8080/live/2575376/47426736/351030.m3u8
+ID: Indosiar	http://xtv.ooo:8080/live/2575376/47426736/350972.m3u8
+ID: Moji	http://xtv.ooo:8080/live/2575376/47426736/350997.m3u8
+ID: RCTI	http://xtv.ooo:8080/live/2575376/47426736/351023.m3u8
+ID: INews	http://xtv.ooo:8080/live/2575376/47426736/350973.m3u8
 ID: 01. ETV Live Event	http://xtv.ooo:8080/live/2575376/47426736/350877.m3u8
 ID: 02. ETV Live Event 02	http://xtv.ooo:8080/live/2575376/47426736/350878.m3u8
 ID: 24/7 Angry Birds Toons	http://xtv.ooo:8080/live/2575376/47426736/350879.m3u8
