@@ -134,7 +134,8 @@ ID  TVRI Sport	https://op-group1-swiftservesd-1.dens.tv/s/s107/index.m3u8
 ID  TV Kesehatan	https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8
 US  Discovery Kids	https://raw.githubusercontent.com/mimipipi22/lalajo/main/discoverykids.m3u8
 US  Tortues Ninja 🇺🇸 🟤	https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d0c16d686454ead733d08f8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-Angry Birds	https://stream.ads.ottera.tv/playlist.m3u8?network_id=547
+Angry Birds	https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=514
+Shaun The Sheep	https://stream.ads.ottera.tv/playlist.m3u8?network_id=547
 Anime TV	https://stmv1.srvif.com/animetv/animetv/chunklist.m3u8
 Da Vinci Learning	https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00406-tinizinelimited-davinciuk-lggb/playlist.m3u8
 ESR Games TV	https://eyeonesports.com/480/ESR-003SCTE35.m3u8
@@ -193,13 +194,16 @@ MY  Dunia Sinema	https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080
 MY  RTB SukmaIndera	https://d1211whpimeups.cloudfront.net/smil:rtb1/chunklist.m3u8
 MY  RTB Aneka Go	https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
 MY  RTB Go Live	https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
-MY  Didik TV	https://unifi-live05.secureswiftcontent.com/UnifiHD/live06.mpd``47a1206b44822c89320e70916cf57b0c:e040ca2aa426df789ba384ba561891b4
+MY  Didik TV	https://raw.githubusercontent.com/mystery75/m3u8/main/DIDIKTVKPM.m3u8
 MY  Berita RTM TV	https://cors-proxy.cooks.fyi/https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
 MY  TV Okey	https://cors-proxy.cooks.fyi/https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 MY  Sukan RTM TV	https://cors-proxy.cooks.fyi/https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 MY  TV1	https://cors-proxy.cooks.fyi/https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 MY  TV2	https://cors-proxy.cooks.fyi/https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
+MY  TV3	https://raw.githubusercontent.com/mystery75/m3u8/main/TV3.m3u8
 MY  TV6	https://cors-proxy.cooks.fyi/https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
+MY  8TV	https://raw.githubusercontent.com/mystery75/m3u8/main/8TV.m3u8
+MY  TV9	https://raw.githubusercontent.com/mystery75/m3u8/main/TV9.m3u8
 MY  Siar	https://unifi-live31.secureswiftcontent.com/UnifiHD/live31.mpd``fc23c442355854992a264931a28fc1c5:3a3368fa385a049695ff4de3c36809cd
 MY  Drama Hebat	https://ce2388031147403ca25a81e56607a193.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_1_Ad/dash.mpd
 MY  Filem Mantap	https://78470390525b4b03b023113696878114.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_2_Ad/dash.mpd
@@ -751,4 +755,3 @@ TH  nnu 5	https://cors-proxy.elfsight.com/https://49-231-37-237-rewriter.ais-vid
 TH  MCOT 30	https://cors-proxy.elfsight.com/https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0008/HLS/V0008.m3u8
 TH  Boomerang	https://cors-proxy.elfsight.com/https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0104/HLS/V0104.m3u8
 TH  Animal Show	https://cors-proxy.elfsight.com/https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0153/HLS/V0153.m3u8
-MY  8TV	https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/live.isml/4.m3u8

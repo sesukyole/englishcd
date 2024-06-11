@@ -1,3 +1,107 @@
+VTV	https://flv.intechmedia.net/live/ch107.m3u8
+ANTV	https://flv.intechmedia.net/live/ch108.m3u8
+INDOSIAR(a) ..	http://iptv12k.com:35461/live/80236053010/645789/34161.m3u8
+INDOSIAR(b)..	http://iptv12k.com:35461/live/80236053010/645789/34160.m3u8
+INDOSIAR(c)..	http://iptv12k.com:35461/live/80236053010/645789/34159.m3u8
+[ID] SCTV(a)..	http://iptv12k.com:35461/live/80236053010/645789/34158.m3u8
+SCTV(c)..	http://iptv12k.com:35461/live/80236053010/645789/34157.m3u8
+[ID] MNC TV id 8k..	http://iptv12k.com:35461/live/80236053010/645789/34156.m3u8
+[ID] TVRI id 8k..	http://iptv12k.com:35461/live/80236053010/645789/34155.m3u8
+[ID] Cinema World id 8k..	http://iptv12k.com:35461/live/80236053010/645789/34154.m3u8
+[ID] CNN Indonesia..	http://iptv12k.com:35461/live/80236053010/645789/34153.m3u8
+INDOSIAR(b) TLLL..	http://iptv12k.com:35461/live/80236053010/645789/34152.m3u8
+[ID] Net. TV..	http://iptv12k.com:35461/live/80236053010/645789/34151.m3u8
+[ID] RCTI..	http://iptv12k.com:35461/live/80236053010/645789/34150.m3u8
+[ID] SCTV(b)..	http://iptv12k.com:35461/live/80236053010/645789/34149.m3u8
+[ID] Trans 7..	http://iptv12k.com:35461/live/80236053010/645789/34148.m3u8
+Trans 7 TLLL..	http://iptv12k.com:35461/live/80236053010/645789/34147.m3u8
+[ID] Trans TV..	http://iptv12k.com:35461/live/80236053010/645789/34146.m3u8
+[ID] Trans TV id 8k TLLL..	http://iptv12k.com:35461/live/80236053010/645789/34145.m3u8
+[ID] KiX..	http://iptv12k.com:35461/live/80236053010/645789/34144.m3u8
+[ID] ANTV..	http://iptv12k.com:35461/live/80236053010/645789/34143.m3u8
+[ID] TV One..	http://iptv12k.com:35461/live/80236053010/645789/34142.m3u8
+[ID] Metro TV..	http://iptv12k.com:35461/live/80236053010/645789/34141.m3u8
+[ID] Kompas TV..	http://iptv12k.com:35461/live/80236053010/645789/34140.m3u8
+[ID] TVRI..	http://iptv12k.com:35461/live/80236053010/645789/34139.m3u8
+[ID] Berita Satu..	http://iptv12k.com:35461/live/80236053010/645789/34138.m3u8
+[ID] iNews..	http://iptv12k.com:35461/live/80236053010/645789/34137.m3u8
+[ID] MNC Sport..	http://iptv12k.com:35461/live/80236053010/645789/34136.m3u8
+[ID] Thrill..	http://iptv12k.com:35461/live/80236053010/645789/34135.m3u8
+[ID] Smithsonian Channel..	http://iptv12k.com:35461/live/80236053010/645789/34134.m3u8
+[ID] Fight Sports..	http://iptv12k.com:35461/live/80236053010/645789/34133.m3u8
+[ID] IDX..	http://iptv12k.com:35461/live/80236053010/645789/34132.m3u8
+[ID] Bali TV..	http://iptv12k.com:35461/live/80236053010/645789/34131.m3u8
+[ID] JakTV..	http://iptv12k.com:35461/live/80236053010/645789/34130.m3u8
+[ID] JTV..	http://iptv12k.com:35461/live/80236053010/645789/34129.m3u8
+[ID] Music TV..	http://iptv12k.com:35461/live/80236053010/645789/34128.m3u8
+[ID] MTV Live..	http://iptv12k.com:35461/live/80236053010/645789/34127.m3u8
+[ID] TV9 NU..	http://iptv12k.com:35461/live/80236053010/645789/34126.m3u8
+[ID] AlQuran Kareem..	http://iptv12k.com:35461/live/80236053010/645789/34125.m3u8
+[ID] Arirang..	http://iptv12k.com:35461/live/80236053010/645789/34124.m3u8
+[ID] Tawaf TV..	http://iptv12k.com:35461/live/80236053010/645789/34123.m3u8
+[ID] RTV..	http://iptv12k.com:35461/live/80236053010/645789/34122.m3u8
+[ID] Vision Prime..	http://iptv12k.com:35461/live/80236053010/645789/34121.m3u8
+[ID] Muslim TV..	http://iptv12k.com:35461/live/80236053010/645789/34120.m3u8
+[ID] TVMu..	http://iptv12k.com:35461/live/80236053010/645789/34119.m3u8
+[ID] EWTN..	http://iptv12k.com:35461/live/80236053010/645789/34118.m3u8
+[ID] Entertainment..	http://iptv12k.com:35461/live/80236053010/645789/34117.m3u8
+[ID] FMN..	http://iptv12k.com:35461/live/80236053010/645789/34116.m3u8
+[ID] MNC Shop Trendy..	http://iptv12k.com:35461/live/80236053010/645789/34115.m3u8
+[ID] MNC Shop Smart..	http://iptv12k.com:35461/live/80236053010/645789/34114.m3u8
+[ID] RT English..	http://iptv12k.com:35461/live/80236053010/645789/34113.m3u8
+[ID] TRT World..	http://iptv12k.com:35461/live/80236053010/645789/34112.m3u8
+[ID] HBO..	http://iptv12k.com:35461/live/80236053010/645789/34109.m3u8
+[ID] TvN Movies..	http://iptv12k.com:35461/live/80236053010/645789/34108.m3u8
+[ID] HBO Family..	http://iptv12k.com:35461/live/80236053010/645789/34107.m3u8
+[ID] HGTV..	http://iptv12k.com:35461/live/80236053010/645789/34106.m3u8
+[ID] TLC..	http://iptv12k.com:35461/live/80236053010/645789/34105.m3u8
+RCTI tui..	http://iptv12k.com:35461/live/80236053010/645789/34104.m3u8
+GTV tui..	http://iptv12k.com:35461/live/80236053010/645789/34103.m3u8
+MNCTV tui..	http://iptv12k.com:35461/live/80236053010/645789/34102.m3u8
+TransTV tui..	http://iptv12k.com:35461/live/80236053010/645789/34101.m3u8
+Trans7 tui..	http://iptv12k.com:35461/live/80236053010/645789/34100.m3u8
+MetroTV tui..	http://iptv12k.com:35461/live/80236053010/645789/34099.m3u8
+RTV tui..	http://iptv12k.com:35461/live/80236053010/645789/34098.m3u8
+KompasTV tui..	http://iptv12k.com:35461/live/80236053010/645789/34097.m3u8
+TVRI tui..	http://iptv12k.com:35461/live/80236053010/645789/34096.m3u8
+JakTV tui..	http://iptv12k.com:35461/live/80236053010/645789/34095.m3u8
+JTV tui..	http://iptv12k.com:35461/live/80236053010/645789/34094.m3u8
+BaliTV tui..	http://iptv12k.com:35461/live/80236053010/645789/34093.m3u8
+DAAITV tui..	http://iptv12k.com:35461/live/80236053010/645789/34092.m3u8
+BandungTV tui..	http://iptv12k.com:35461/live/80236053010/645789/34091.m3u8
+MusicChannel tui..	http://iptv12k.com:35461/live/80236053010/645789/34090.m3u8
+MNCInfotainment tui..	http://iptv12k.com:35461/live/80236053010/645789/34089.m3u8
+VisionPrime tui..	http://iptv12k.com:35461/live/80236053010/645789/34088.m3u8
+MNCEntertainment tui..	http://iptv12k.com:35461/live/80236053010/645789/34087.m3u8
+OKTV tui..	http://iptv12k.com:35461/live/80236053010/645789/34086.m3u8
+ANTV tui..	http://iptv12k.com:35461/live/80236053010/645789/34085.m3u8
+BeritaSatu tui..	http://iptv12k.com:35461/live/80236053010/645789/34084.m3u8
+SINDOnews tui..	http://iptv12k.com:35461/live/80236053010/645789/34083.m3u8
+IDX tui..	http://iptv12k.com:35461/live/80236053010/645789/34082.m3u8
+SEA-Channel tui..	http://iptv12k.com:35461/live/80236053010/645789/34081.m3u8
+My-Kids tui ..	http://iptv12k.com:35461/live/80236053010/645789/34080.m3u8
+Kids-HD tui..	http://iptv12k.com:35461/live/80236053010/645789/34079.m3u8
+EWTN..	http://iptv12k.com:35461/live/80236053010/645789/34078.m3u8
+TV9 indonesia tui..	http://iptv12k.com:35461/live/80236053010/645789/34077.m3u8
+TVMu tui..	http://iptv12k.com:35461/live/80236053010/645789/34076.m3u8
+TawafTV tui..	http://iptv12k.com:35461/live/80236053010/645789/34075.m3u8
+VisionPrime indonesia tui..	http://iptv12k.com:35461/live/80236053010/645789/34074.m3u8
+KIX indonesia tui..	http://iptv12k.com:35461/live/80236053010/645789/34073.m3u8
+MyCinema tui..	http://iptv12k.com:35461/live/80236053010/645789/34072.m3u8
+MyCinema-Asia tui..	http://iptv12k.com:35461/live/80236053010/645789/34071.m3u8
+MyFamily tui..	http://iptv12k.com:35461/live/80236053010/645789/34070.m3u8
+Cinemachi tui..	http://iptv12k.com:35461/live/80236053010/645789/34069.m3u8
+Cinemachi-Kids tui..	http://iptv12k.com:35461/live/80236053010/645789/34068.m3u8
+Cinemachi-Action tui..	http://iptv12k.com:35461/live/80236053010/645789/34067.m3u8
+Cinemachi-Max tui..	http://iptv12k.com:35461/live/80236053010/645789/34066.m3u8
+Cinemachi-Xtra tui..	http://iptv12k.com:35461/live/80236053010/645789/34065.m3u8
+Sportstars tui..	http://iptv12k.com:35461/live/80236053010/645789/34064.m3u8
+Sportstars2 tui..	http://iptv12k.com:35461/live/80236053010/645789/34063.m3u8
+Soccerchannel tui..	http://iptv12k.com:35461/live/80236053010/645789/34062.m3u8
+Muslim tui..	http://iptv12k.com:35461/live/80236053010/645789/34061.m3u8
+AlQuranAlKareem tui..	http://iptv12k.com:35461/live/80236053010/645789/34060.m3u8
+Reformed21 ID..	http://iptv12k.com:35461/live/80236053010/645789/34059.m3u8
+[ID] CNN Indonesia TLLL..	http://iptv12k.com:35461/live/80236053010/645789/34058.m3u8
 Indosiar G	https://raw.githubusercontent.com/englishcd/bahasainggris/master/indosiar.m3u8
 RCTI G	https://raw.githubusercontent.com/kusnadipepenk/campeign/master/rcti.m3u8
 SCTV	http://mykingtv.net:2082/live/Bae810/ktv9399/5147.m3u8
