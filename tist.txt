@@ -1,5 +1,3 @@
-VTV	https://flv.intechmedia.net/live/ch107.m3u8
-ANTV	https://flv.intechmedia.net/live/ch108.m3u8
 INDOSIAR(a) ..	http://iptv12k.com:35461/live/80236053010/645789/34161.m3u8
 INDOSIAR(b)..	http://iptv12k.com:35461/live/80236053010/645789/34160.m3u8
 INDOSIAR(c)..	http://iptv12k.com:35461/live/80236053010/645789/34159.m3u8

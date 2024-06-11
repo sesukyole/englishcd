@@ -1,20 +1,12 @@
 SA  Makkah	https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
 PS  Palestine Today	https://live.paltodaytv.com/paltv/live/playlist.m3u8
-ID  RCTI	https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-2/sa_hls/rcti-2.m3u8?c
-ID  Indosiar 1	https://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
-ID  Indosiar 2	https://op-group1-swiftservesd-1.dens.tv/s/s04/index.m3u8
-ID  Indosiar 3	`1https://en.gdplayertv.to/live-tv/indosiar/?embed=1
-ID  Moji https://op-group1-swiftservesd-1.dens.tv/s/s41/index.m3u8
-ID  SCTV 1	https://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
-ID  SCTV 2	https://op-group1-swiftservehd-1.dens.tv/s/s03/index.m3u8
 ID  Makkah TV	01`00a130/alquran/index.m3u8?c
+ID  VTV	https://flv.intechmedia.net/live/ch107.m3u8
 ID  AFN	01`00a133/afc/index.m3u8?c
 ID  Animal Planet	01`00a194/animalplanet/index.m3u8?c
 ID  AniMax	01`00a130/animax/index.m3u8?c
-ID  ANTV	01`00a130/antv/index.m3u8?c
+ID  ANTV 1	01`00a130/antv/index.m3u8?c
 ID  Bali TV	01`00a134/balitv/index.m3u8?c
-ID  Sports 1	01`00a133/beib1/index.m3u8?c
-ID  Sports 3	01`00a133/beib2/index.m3u8?c
 ID  Bioskop Indonesia	01`00a130/bioskopindonesia/index.m3u8?c
 ID  Cartoon Network	01`00a194/cartoonnetwork/index.m3u8?c
 ID  Citra Drama	01`00a130/cdrama/index.m3u8?c
@@ -60,7 +52,7 @@ ID  Love Nature	01`00a194/lovenature/index.m3u8?c
 ID  MaxStream	01`00a194/maxstream/index.m3u8?c
 ID  Mentari TV	01`00a134/mentaritv/index.m3u8?c
 ID  Metro TV	01`00a133/metrotv/index.m3u8?c
-ID  Moji TV	01`00a134/ochannel/index.m3u8?c
+ID  Moji TV 1	01`00a134/ochannel/index.m3u8?c
 ID  MUI TV	01`00a130/muitv/index.m3u8?c
 ID  Musik Indonesia	01`00a134/musikindo/index.m3u8?c
 ID  My Cinema	01`00a133/mycinema/index.m3u8?c
@@ -76,6 +68,8 @@ ID  RTV	01`00a130/rtv/index.m3u8?c
 ID  Seru	01`00a134/seru/index.m3u8?c
 ID  GEM	01`00a133/sgem/index.m3u8?c
 ID  One	01`00a133/sone/index.m3u8?c
+ID  Sports 1	01`00a133/beib1/index.m3u8?c
+ID  Sports 3	01`00a133/beib2/index.m3u8?c
 ID  TechStorm	01`00a133/techstorm/index.m3u8?c
 ID  TLC	01`00a133/tlc/index.m3u8?c
 ID  Trans TV	01`00a133/transtv/index.m3u8?c
@@ -87,6 +81,11 @@ ID  DigiOne	https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(d2f5
 ID  Indonesiana	https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/index.m3u8
 ID  Magna	https://edge.medcom.id/live-edge/smil:magna.smil/chunklist.m3u8
 ID  Metro Global Network	https://edge.medcom.id/live-edge/smil:mgnch.smil/chunklist.m3u8
+ID  Indosiar 1	https://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
+ID  Moji TV 2	https://op-group1-swiftservesd-1.dens.tv/s/s41/index.m3u8
+ID  SCTV 1	https://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
+ID  RCTI	https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-2/sa_hls/rcti-2.m3u8?c
+ID  ANTV 2	https://flv.intechmedia.net/live/ch108.m3u8
 ID  Dunia Games	https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6854467f-52fe-48ee-9822-00233c678709)/index.m3u8
 ID  AniPlus	https://op-group1-swiftservehd-1.dens.tv/h/h114/S4/mnf.m3u8
 ID  Net TV 2	https://op-group1-swiftservehd-1.dens.tv/h/h223/index.m3u8
@@ -101,8 +100,8 @@ ID  My Cinema Europe	https://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8
 ID  ATV	https://streaming.indihometv.com/atm/DASH/atv/manifest.mpd
 ID  Cartoonito	https://streaming.indihometv.com/atm/DASH/boomerang/manifest.mpd
 ID  Warner	https://streaming.indihometv.com/atm/DASH/warner/manifest.mpd
-ID  Indosiar 4	https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
-ID  SCTV 3	https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
+ID  Indosiar 2	https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
+ID  SCTV 2	https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
 ID  tvOne	https://streaming.indihometv.com/atm/DASH/tvone/manifest.mpd
 ID  Jawapos	https://streaming.indihometv.com/atm/DASH/jawapos/manifest.mpd
 ID  Cinemax	https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(4b9c9228-73c1-cb85-94a9-7fa84858b877)/manifest.mpd``ad90306387ee369eb2a6de02869c7653:4b17755fdea3ca0277bb64a1e9fbecef
@@ -131,7 +130,6 @@ ID  Sakti TV	https://saktitv.siar.us/saktitv/live/playlist.m3u8
 ID  UGTV	https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
 ID  Wesal TV	https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
 ID  TVRI Sport	https://op-group1-swiftservesd-1.dens.tv/s/s107/index.m3u8
-ID  TV Kesehatan	https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8
 US  Discovery Kids	https://raw.githubusercontent.com/mimipipi22/lalajo/main/discoverykids.m3u8
 US  Tortues Ninja 🇺🇸 🟤	https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d0c16d686454ead733d08f8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 Angry Birds	https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=514
@@ -755,3 +753,4 @@ TH  nnu 5	https://cors-proxy.elfsight.com/https://49-231-37-237-rewriter.ais-vid
 TH  MCOT 30	https://cors-proxy.elfsight.com/https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0008/HLS/V0008.m3u8
 TH  Boomerang	https://cors-proxy.elfsight.com/https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0104/HLS/V0104.m3u8
 TH  Animal Show	https://cors-proxy.elfsight.com/https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0153/HLS/V0153.m3u8
+ID  TV Kesehatan	https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8
