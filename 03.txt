@@ -1,6 +1,8 @@
-ID. Indosiar	01`03alive01`03b13451.m3u8
+ID. Indosiar 1	01`03alive01`03b13451.m3u8
+ID. Indosiar 2	01`03c4.m3u8
 ID. SCTV	01`03alive01`03b1811.m3u8
 ID. RCTI	01`03alive01`03b15394.m3u8
+ID. Moji	01`03c228.m3u8
 ID. iNews	01`03alive01`03b1799.m3u8
 ID. Net. TV	01`03alive01`03b1813.m3u8
 UEFA Live	01`03alive01`03b40702.m3u8
