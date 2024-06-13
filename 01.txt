@@ -141,6 +141,8 @@ Moonbug Kids	https://moonbug-rokuus.amagi.tv/playlist.m3u8
 Spacetoon	https://raw.githubusercontent.com/mimipipi22/lalajo/main/spacetoon.m3u8
 Universal Kids	https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv/master_en.m3u8
 ZooMoo	https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+US  AFV Family	https://linear-12.frequency.stream/mt/plex/12/hls/master/playlist.m3u8
+US  WipeOut Xtra	https://d2stx9idyk58lb.cloudfront.net/wipeoutxtra-samsungus/playlist.m3u8
 DE  DW English	https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 ZA  WildEarth	https://wildearth-plex.amagi.tv/master.m3u8
 ES  101TV Malaga	https://limited38.todostreaming.es/live/101tv-web101tv.m3u8
