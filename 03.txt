@@ -1,9 +1,10 @@
-ID. Indosiar 1	01`03c228.m3u8?c
 ID. SCTV	01`03alive01`03b1811.m3u8
 ID. RCTI	01`03alive01`03b15394.m3u8
-ID. Moji	01`03c4.m3u8?c
-ID. Indosiar 2	01`03alive01`03b1814.m3u8
 ID. iNews	01`03alive01`03b1799.m3u8
+ID. Moji	01`03c4.m3u8?c
+ID. Indosiar 1	01`03alive01`03b595.m3u8
+ID. Indosiar 2	01`03alive01`03b1814.m3u8
+ID. Indosiar 3	01`03c228.m3u8?c
 ID. Net. TV	01`03alive01`03b1813.m3u8
 MY  Arena Sport 1	01`03alive01`03b13548.m3u8
 MY  Arena Sport 2	01`03alive01`03b10971.m3u8
@@ -25,6 +26,10 @@ Cricket	01`03alive01`03b13573.m3u8
 W Sport	01`03alive01`03b7981.m3u8
 US  Fox 502	01`03d1876.m3u8
 US  Fox 504	01`03d1877.m3u8
+J Sport 1	http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18
+J Sport 2	http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19
+J Sport 3	http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
+J Sport 4	http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
 ID  Moji	01`00c350997.m3u8
 ID  Sport 1	01`00c350993.m3u8
 ID  SpoTV 1	01`00c351034.m3u8

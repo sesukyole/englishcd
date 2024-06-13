@@ -1892,6 +1892,8 @@ Vision Prime	http://45.12.2.240:8080/b7c2ba83/b65f5b29/197958
 Warner TV	http://45.12.2.240:8080/b7c2ba83/b65f5b29/157594
 Zee Bioskop	http://45.12.2.240:8080/b7c2ba83/b65f5b29/157584
 ZooMoo	http://45.12.2.240:8080/b7c2ba83/b65f5b29/264751
+J Sport 1	http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18
+J Sport 2	http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19
 J Sport 3	http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
 J Sport 4	http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
 True PremierHD 5	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/1.m3u8
@@ -1989,11 +1991,11 @@ Sky Sports Premier	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/92.m3u8
 SuperSport Grandstand	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/93.m3u8
 Astro Love Nature-Test	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/94.m3u8
 SuperSport Premier	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/95.m3u8
- SPORT HD	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/96.m3u8
- SPORT 2HD	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/97.m3u8
- SPORT 3HD	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/98.m3u8
- SPORT 5SD	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/99.m3u8
- SPORT 7SD	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/100.m3u8
+SPORT HD	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/96.m3u8
+SPORT 2HD	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/97.m3u8
+SPORT 3HD	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/98.m3u8
+SPORT 5SD	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/99.m3u8
+SPORT 7SD	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/100.m3u8
 Premier League HD4	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/101.m3u8
 Premier League HD3	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/102.m3u8
 FIFA TV	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/103.m3u8
