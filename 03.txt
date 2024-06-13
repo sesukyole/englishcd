@@ -13,11 +13,18 @@ MY  Supersport 3	01`03alive01`03b11241.m3u8
 MY  Supersport 4	01`03alive01`03b11240.m3u8
 MY  Arena Bola 1	01`03alive01`03b20630.m3u8
 MY  Arena Bola 2	01`03alive01`03b20629.m3u8
+AR  beIN Sports 1	01`03d1826.m3u8
+AR  beIN Sports 2	01`03d1827.m3u8
+AR  beIN Sports 3	01`03d1828.m3u8
+AR  beIN Sports 4	01`03d1829.m3u8
+AR  beIN Sports 5	01`03d1830.m3u8
 Super Sports 1	01`03alive01`03b7985.m3u8
 UEFA Live	01`03alive01`03b40702.m3u8
 Premier Sports 1	01`03alive01`03b943.m3u8
 Cricket	01`03alive01`03b13573.m3u8
 W Sport	01`03alive01`03b7981.m3u8
+US  Fox 502	01`03d1876.m3u8
+US  Fox 504	01`03d1877.m3u8
 ID  Moji	01`00c350997.m3u8
 ID  Sport 1	01`00c350993.m3u8
 ID  SpoTV 1	01`00c351034.m3u8
