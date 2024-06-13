@@ -5,6 +5,17 @@ INDOSIAR(b) TLLL	http://iptv12k.com:35461/live/80236053010/645789/1814.m3u8
 [ID] Net. TV	http://iptv12k.com:35461/live/80236053010/645789/1813.m3u8
 ID. Indosiar 2	http://103.155.250.139:25461/live/v3/Ub5dHa4TJp/228.m3u8
 ID. Moji	http://103.155.250.139:25461/live/v3/Ub5dHa4TJp/4.m3u8
+Fox 502	http://iptvkita.my.id:25461/live/direct/hometv/1876.m3u8
+Fox 504	http://iptvkita.my.id:25461/live/direct/hometv/1877.m3u8
+Tennis Channel	http://iptvkita.my.id:25461/live/direct/hometv/2029.m3u8
+beIN Sports 1	http://iptvkita.my.id:25461/live/direct/hometv/1826.m3u8
+beIN Sports 2	http://iptvkita.my.id:25461/live/direct/hometv/1827.m3u8
+beIN Sports 3	http://iptvkita.my.id:25461/live/direct/hometv/1828.m3u8
+beIN Sports 4	http://iptvkita.my.id:25461/live/direct/hometv/1829.m3u8
+beIN Sports 5	http://iptvkita.my.id:25461/live/direct/hometv/1830.m3u8
+beIN Sports 6	http://iptvkita.my.id:25461/live/direct/hometv/1831.m3u8
+beIN Sports 7	http://iptvkita.my.id:25461/live/direct/hometv/1832.m3u8
+UK  Sky Sports F1	http://iptvkita.my.id:25461/live/direct/hometv/3501.m3u8
 INDOSIAR(b)	http://iptv12k.com:35461/live/80236053010/645789/4801.m3u8
 INDOSIAR(b) TLLL..	http://iptv12k.com:35461/live/80236053010/645789/34152.m3u8
 INDOSIAR(b)..	http://iptv12k.com:35461/live/80236053010/645789/34160.m3u8

@@ -11,8 +11,8 @@ MY  Supersport 1	01`03alive01`03b11243.m3u8
 MY  Supersport 2	01`03alive01`03b11242.m3u8
 MY  Supersport 3	01`03alive01`03b11241.m3u8
 MY  Supersport 4	01`03alive01`03b11240.m3u8
-MY  Arena Bola 1 Sport	01`03alive01`03b20630.m3u8
-MY  Arena Bola 2 Sport	01`03alive01`03b20629.m3u8
+MY  Arena Bola 1	01`03alive01`03b20630.m3u8
+MY  Arena Bola 2	01`03alive01`03b20629.m3u8
 Super Sports 1	01`03alive01`03b7985.m3u8
 UEFA Live	01`03alive01`03b40702.m3u8
 Premier Sports 1	01`03alive01`03b943.m3u8
