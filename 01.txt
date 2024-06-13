@@ -182,6 +182,7 @@ Tierra De Amor y Venganza	https://stream.ads.ottera.tv/playlist.m3u8?network_id=
 Toon Goggles en Espanol	https://stream.ads.ottera.tv/playlist.m3u8?network_id=771
 Tu Pop Favorito	https://stream.ads.ottera.tv/playlist.m3u8?network_id=1086
 Zona de Acción	https://stream.ads.ottera.tv/playlist.m3u8?network_id=4312
+Cinema One	https://cinemaone-abscbn-ono.amagi.tv/index.m3u8
 AE  Dubai One	https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8
 AE  Dubai TV	https://raw.githubusercontent.com/mimipipi22/lalajo/main/dubaitv.m3u8
 MY  Astro Awani	https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8

@@ -113,7 +113,8 @@ beIN Sports Extra	https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df
 LaLiga HyperMotion	https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/woujvkfnmn/out/v1/141b52f08a1e4e97850219729ee48dc8/cenc.mpd``0b1fdeaee3ffc51e9a66cf1938d57aaf:28e3cb88ab7b476b81ab8aa0624c4d71
 SportItalia	https://di-j16ei4yq.vo.lswcdn.net/sportitalia/smil:sihd.smil/chunklist.m3u8
 Sport en France	https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
-Strongman Champion League	https://3f4b9dde8740443b9b90459fc7b67cdd.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_StrongmanChampionsLeague/e21d95be-bbb1-442c-bd84-71813dc764ce/0.m3u8
+Strongman Champion League 1	https://rightsboosterltd-scl-1-nl.samsung.wurl.tv/playlist.m3u8
+Strongman Champion League 2	https://3f4b9dde8740443b9b90459fc7b67cdd.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_StrongmanChampionsLeague/e21d95be-bbb1-442c-bd84-71813dc764ce/0.m3u8
 Tennis Channel 1	https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 Tennis Channel 2	https://d3qg0hadt0dkov.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3sfgyrfz9zduo-prod/amgtennisus/playlist.m3u8
 TR  Galatasaray TV	https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist.m3u8
@@ -186,6 +187,7 @@ RU  Match! Sport Arena	https://cors-proxy.cooks.fyi/https://video.beeline.tv/liv
 HU  Match 4	https://cors-proxy.cooks.fyi/https://m7huvideolive.solocoo.tv/blueskylive2dash/bluedigisport1hu/Manifest.mpd``36d6377bb94b43a58af1c415ac686f4b:82fcba8160b4f88948cd3268bb330dbf
 Ziggo Sport Golf	https://cors-proxy.cooks.fyi/https://cdsvideolive3.solocoo.tv/blueskycdslive7dash/blueziggosportgolf/Manifest.mpd``bb4b78ef397646e3ae5f13bdb23d56ed:c1247a942c7126443a93214c67431fe8
 Global Trekker	https://tglmp04.akamaized.net/out/v1/179412178c874c7fba3ca6b0d382cd92/manifest.mpd``4dc56e6ee6244bb693065edb7dbcb009:650398355fa33caed301c53e71523bb9
+MAVTV	https://d70mb4nkspm3g.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vvwqo3j029lz0/playlist.m3u8
 Fite TV	https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
 US  MotoAmerica	https://dcj-ak-livedazn.akamaized.net/dash/dazn-linear-507/stream.mpd``cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
 US  ACL Cornhole	https://dcj-ak-livedazn.akamaized.net/dash/dazn-linear-508/stream.mpd``cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
