@@ -215,6 +215,36 @@ MY  Jom Ngaji	https://068877e598224108a60fb9cd5db3717f.mediatailor.ap-southeast-
 MY  Oh My Ceria	https://068877e598224108a60fb9cd5db3717f.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_7_Ad/dash.mpd
 MY  Now Jelli	https://pop5clustera00de07172379a62d6189.hypp.tv:443/PLTV/88888888/224/3221227559/3221227559.mpd?rrsip=web.hypp.tv&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=qD%2FGhg01YduJJVCux%2B5ixF6lBrrzvU1Q2%2B8sLqGChu40fF7WRczKep1ijxO3BzygK7IGCYvN70sbDo5pVRv846haXUJR5R32mBb1BUUaHHv17QezgK4lI66BNld%2BWvWSl1Gu6dfQIjZRtiMM1k%2B5qA%3D%3D%3A20230704185240%3AUTC%2C1004320541%2C14.1.254.135%2C20230704185240%2Curn:Huawei:liveTV:iptv28981%2C1004320541%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C3692854%2C0%2C2611154%2C2b9f924f-2e21-e330-87b4-2daffcd7b85b%2C%2C%2C2%2C1%2CEND&GuardEncType=2&tenantId=6003``489a7503db27114694ce416b0a032fc1:1ba9a24d9b92e5fe8e419b16616a9ae3
 TH  ALTV4	https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
+TH  7Flix	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC5/index.m3u8
+TH  AmarinTV HD	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chamarin3/index.m3u8
+TH  Animal Kingdom	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC18/index.m3u8
+TH  Boomerang	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chboomberang/index.m3u8
+TH  Box Film	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC52/index.m3u8
+TH  Cartoon Club	https://edge2-bkk.3bb.co.th:9443/Web_CartoonClub_Live/cartoonclub_480P.stream/chunklist.m3u8
+TH  CH3 HD	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch3hd3/index.m3u8
+TH  CH7 HD	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch7hd3/index.m3u8
+TH  CH8	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch83/index.m3u8
+TH  Channel 8	https://cdn-th-vip.login.in.th:443/ch8/ch8/chunklist.m3u8
+TH  GMM25	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chgmm3/index.m3u8
+TH  JKN 18	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/newtv3/index.m3u8
+TH  MCOT HD	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chmcothd3/index.m3u8
+TH  Mono	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chmono293/index.m3u8
+TH  Movies World 1	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC11/index.m3u8
+TH  Movies World 2	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC53/index.m3u8
+TH  Movies World 3	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC2/index.m3u8
+TH  Nation TV	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chnation3/index.m3u8
+TH  NBT 2 HD	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chnbt3/index.m3u8
+TH  ONE 31 HD	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chonehd3/index.m3u8
+TH  Parliament	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/TPTV3/index.m3u8
+TH  PPTV HD	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chpptvhd3/index.m3u8
+TH  Thairath TV HD	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chthairath3/index.m3u8
+TH  TNN	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtnn3/index.m3u8
+TH  TPBS	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chthaipbs3/index.m3u8
+TH  True 4 U	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtrue4u3/index.m3u8
+TH  T-Sports7	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtsport3/index.m3u8
+TH  TV5 HD	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch5hd3/index.m3u8
+TH  TVB	https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/playlist.m3u8
+TH  Workpoint TV	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chworkpoint3/index.m3u8
 TH  HBO	https://cnt1-streamer9.cdn.3bbtv.com:8443/3bb/live/103/103.mpd``9c5735afb4fd402580360aed8364469c:128d55d9ac2b47ad85f86b5d08320179
 TH  HBO Family	https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/106/106.mpd``07b138f30ad3441ca5a2f476e550af25:826ee4deef4b45cfafd5f79a591b15c6
 TH  HBO Hits	https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/105/105.mpd``7c04b8e7aa524afea879b2ed1aef8242:91e72b75fcb94c3bb36cceb741afd621
@@ -719,6 +749,7 @@ FASHION TV	https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
 FASHION TV	https://fash1043.cloudycdn.services/slive/ftv_paris_adaptive.smil/playlist.m3u8
 FASHION TV	https://34963c1506c8467bb8132d8a9ae4fedc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_FashionTV/playlist.m3u8
 TV5MONDE STYLE [geo-area]	https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/index.m3u8
+Bollywood	https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
 |SHAHID| SHAHID LIVE	https://shls-live-ak.akamaized.net/out/v1/8e2419c6c7494dbba478be025af490ee/index_1.m3u8
 |SHAHID| BOLLYWOOD CLASSIC	https://shls-live-ak.akamaized.net/out/v1/485100a2150e4f69a338a5c99ca5648e/index_5.m3u8
 |SHAHID| WIFI	https://shls-live-ak.akamaized.net/out/v1/22a1fb00da8a4b1fb15cbd70b8b59856/index_2.m3u8
@@ -749,11 +780,4 @@ TV5MONDE STYLE [geo-area]	https://ott.tv5monde.com/Content/HLS/Live/channel(styl
 |SHAHID| RASHED AL-MAJED	https://rashed-almajed-ak.akamaized.net/out/v1/77b0946130344d1388e5cd34afdcb772/index_19.m3u8
 |SHAHID| MUHAMMAD ABDO	https://mohammed-abdou-ak.akamaized.net/out/v1/3b57275cf54747cda4cda03ecf146f92/index_19.m3u8
 002 Radio TV	https://cdn.002radio.com:3909/live/radio002live.m3u8
-TH  NBT	https://cors-proxy.elfsight.com/https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0001/HLS/B0001.m3u8
-TH  Ch 3	https://cors-proxy.elfsight.com/https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0003/HLS/B0003.m3u8
-TH  nalau 27	https://cors-proxy.elfsight.com/https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0006/HLS/V0006.m3u8
-TH  nnu 5	https://cors-proxy.elfsight.com/https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0007/HLS/V0007.m3u8
-TH  MCOT 30	https://cors-proxy.elfsight.com/https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0008/HLS/V0008.m3u8
-TH  Boomerang	https://cors-proxy.elfsight.com/https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0104/HLS/V0104.m3u8
-TH  Animal Show	https://cors-proxy.elfsight.com/https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0153/HLS/V0153.m3u8
 ID  TV Kesehatan	https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8
