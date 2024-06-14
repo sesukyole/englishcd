@@ -171,7 +171,7 @@ Flou Cine	https://amg01768-flou-flou-canelatv-yri41.amagi.tv/playlist/amg01768-f
 Flow Caribe	https://stream.ads.ottera.tv/playlist.m3u8?network_id=1083
 Haz Clic!	https://stream.ads.ottera.tv/playlist.m3u8?network_id=4310
 ITV Deportes	https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010
-ES  Mundo Pequeño	https://stream.ads.ottera.tv/playlist.m3u8?network_id=3366
+ES  Mundo PequeÃ±o	https://stream.ads.ottera.tv/playlist.m3u8?network_id=3366
 Novelas Turcas	https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088
 Novelisima	https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
 Planeta de Aventuras	https://stream.ads.ottera.tv/playlist.m3u8?network_id=4311
@@ -183,7 +183,7 @@ Sony Canal Novelas	https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-
 Tierra De Amor y Venganza	https://stream.ads.ottera.tv/playlist.m3u8?network_id=1080
 Toon Goggles en Espanol	https://stream.ads.ottera.tv/playlist.m3u8?network_id=771
 Tu Pop Favorito	https://stream.ads.ottera.tv/playlist.m3u8?network_id=1086
-Zona de Acción	https://stream.ads.ottera.tv/playlist.m3u8?network_id=4312
+Zona de AcciÃ³n	https://stream.ads.ottera.tv/playlist.m3u8?network_id=4312
 Cinema One	https://cinemaone-abscbn-ono.amagi.tv/index.m3u8
 AE  Dubai One	https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8
 AE  Dubai TV	https://raw.githubusercontent.com/mimipipi22/lalajo/main/dubaitv.m3u8
@@ -676,7 +676,7 @@ LE FIGARO IDF	https://static.lefigaro.fr/secom/tnt.m3u8
 LE FIGARO IDF	https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8
 LE FIGARO LIVE	https://d358c6mfrono1y.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0ppx9nh29jpk7-prod/490bc6dd-734b-4242-8810-294896740082/2.m3u8
 I24 NEWS FR	https://bcovlive-a.akamaihd.net/cc8266d36bb5469b8b4a3097497e06e6/eu-central-1/5377161796001/playlist-all.m3u8
-CGTN FRANÇAIS	https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
+CGTN FRANÃ‡AIS	https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
 RDI CANADA	https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 AFRICA 24	https://cors-proxy.elfsight.com/https://edge12.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
 BFM BUSINESS	https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&end=END
