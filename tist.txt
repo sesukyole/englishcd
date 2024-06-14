@@ -1,10 +1,28 @@
+ID. Indosiar 2	http://103.155.250.139:25461/live/v3/Ub5dHa4TJp/228.m3u8
+ID. Moji	http://103.155.250.139:25461/live/v3/Ub5dHa4TJp/4.m3u8
+Astro AOD 354	http://45.12.2.240:8080/b7c2ba83/b65f5b29/247413.m3u8
+Astro Arena	http://45.12.2.240:8080/b7c2ba83/b65f5b29/157485.m3u8
+Astro Arena 2	http://45.12.2.240:8080/b7c2ba83/b65f5b29/287793.m3u8
+Astro Aura	http://45.12.2.240:8080/b7c2ba83/b65f5b29/171986.m3u8
+Astro Awani	http://45.12.2.240:8080/b7c2ba83/b65f5b29/157478.m3u8
+Astro Citra	http://45.12.2.240:8080/b7c2ba83/b65f5b29/157569.m3u8
+Astro Cricket	http://45.12.2.240:8080/b7c2ba83/b65f5b29/157565.m3u8
+Astro Oasis	http://45.12.2.240:8080/b7c2ba83/b65f5b29/157489.m3u8
+Astro Prima	http://45.12.2.240:8080/b7c2ba83/b65f5b29/157467.m3u8
+Astro Rania	http://45.12.2.240:8080/b7c2ba83/b65f5b29/171984.m3u8
+Astro Ria	http://45.12.2.240:8080/b7c2ba83/b65f5b29/158347.m3u8
+Astro SuperSport	http://45.12.2.240:8080/b7c2ba83/b65f5b29/146068.m3u8
+Astro SuperSport 2	http://45.12.2.240:8080/b7c2ba83/b65f5b29/157556.m3u8
+Astro SuperSport 3	http://45.12.2.240:8080/b7c2ba83/b65f5b29/157557.m3u8
+Astro SuperSport 4	http://45.12.2.240:8080/b7c2ba83/b65f5b29/157558.m3u8
+Astro Tutor TV SK	http://45.12.2.240:8080/b7c2ba83/b65f5b29/247433.m3u8
+Astro Vaanavil	http://45.12.2.240:8080/b7c2ba83/b65f5b29/201163.m3u8
+Astro Warna	http://45.12.2.240:8080/b7c2ba83/b65f5b29/157492.m3u8
 INDOSIAR(b) TLLL	http://iptv12k.com:35461/live/80236053010/645789/1814.m3u8
 [ID] SCTV(b)	http://iptv12k.com:35461/live/80236053010/645789/1811.m3u8
 [ID] RCTI TL	http://iptv12k.com:35461/live/80236053010/645789/15394.m3u8
 [ID] iNews	http://iptv12k.com:35461/live/80236053010/645789/1799.m3u8
 [ID] Net. TV	http://iptv12k.com:35461/live/80236053010/645789/1813.m3u8
-ID. Indosiar 2	http://103.155.250.139:25461/live/v3/Ub5dHa4TJp/228.m3u8
-ID. Moji	http://103.155.250.139:25461/live/v3/Ub5dHa4TJp/4.m3u8
 Fox 502	http://iptvkita.my.id:25461/live/direct/hometv/1876.m3u8
 Fox 504	http://iptvkita.my.id:25461/live/direct/hometv/1877.m3u8
 beIN Sports 1	http://iptvkita.my.id:25461/live/direct/hometv/1826.m3u8
