@@ -37,16 +37,6 @@ RCTI tui..	http://iptv12k.com:35461/live/80236053010/645789/34104.m3u8
 [ID] iNews..	http://iptv12k.com:35461/live/80236053010/645789/34137.m3u8
 [ID] Net. TV id 8k	http://iptv12k.com:35461/live/80236053010/645789/2186.m3u8
 [ID] Net. TV..	http://iptv12k.com:35461/live/80236053010/645789/34151.m3u8
-MY  TV1	https://raw.githubusercontent.com/mystery75/m3u8/main/TV1.m3u8
-MY  TV2	https://raw.githubusercontent.com/mystery75/m3u8/main/TV2.m3u8
-MY  TV3	https://raw.githubusercontent.com/mystery75/m3u8/main/TV3.m3u8
-MY  TV6	https://raw.githubusercontent.com/mystery75/m3u8/main/TV6.m3u8
-MY  8TV	https://raw.githubusercontent.com/mystery75/m3u8/main/8TV.m3u8
-MY  TV9	https://raw.githubusercontent.com/mystery75/m3u8/main/TV9.m3u8
-MY  Didik TV	https://raw.githubusercontent.com/mystery75/m3u8/main/DIDIKTVKPM.m3u8
-MY  Suka TV	https://raw.githubusercontent.com/mystery75/m3u8/main/SUKATV.m3u8
-MY  Sukan RTM TV	https://raw.githubusercontent.com/mystery75/m3u8/main/SUKANRTM.m3u8
-MY  TV Okey	https://raw.githubusercontent.com/mystery75/m3u8/main/OKEY.m3u8
 Arena 2 (b)SPORTS Astro 	http://iptv12k.com:35461/live/80236053010/645789/10971.m3u8
 ASSP4 .Astro Supersports Premier 4	http://iptv12k.com:35461/live/80236053010/645789/11240.m3u8
 ASSP3(g)Astro Supersports Premier League 3	http://iptv12k.com:35461/live/80236053010/645789/11241.m3u8
