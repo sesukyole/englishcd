@@ -4,7 +4,8 @@ ID. iNews	01`03alive01`03b1799.m3u8
 ID. Moji	01`03c4.m3u8?c
 ID. Indosiar 1	01`03alive01`03b595.m3u8
 ID. Indosiar 2	01`03alive01`03b1814.m3u8
-ID. Indosiar 3	01`03c228.m3u8?c
+ID  Indosiar 3	01`00c350972.m3u8
+ID. Indosiar 4	01`03c228.m3u8?c
 ID. Net. TV	01`03alive01`03b1813.m3u8
 MY  Arena Sport 1	01`03alive01`03b13548.m3u8
 MY  Arena Sport 2	01`03alive01`03b10971.m3u8
