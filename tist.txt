@@ -1,23 +1,129 @@
 ID. Indosiar 2	http://103.155.250.139:25461/live/v3/Ub5dHa4TJp/228.m3u8
 ID. Moji	http://103.155.250.139:25461/live/v3/Ub5dHa4TJp/4.m3u8
-Astro AOD 354	http://45.12.2.240:8080/b7c2ba83/b65f5b29/247413.m3u8
-Astro Arena	http://45.12.2.240:8080/b7c2ba83/b65f5b29/157485.m3u8
-Astro Arena 2	http://45.12.2.240:8080/b7c2ba83/b65f5b29/287793.m3u8
-Astro Aura	http://45.12.2.240:8080/b7c2ba83/b65f5b29/171986.m3u8
-Astro Awani	http://45.12.2.240:8080/b7c2ba83/b65f5b29/157478.m3u8
-Astro Citra	http://45.12.2.240:8080/b7c2ba83/b65f5b29/157569.m3u8
-Astro Cricket	http://45.12.2.240:8080/b7c2ba83/b65f5b29/157565.m3u8
-Astro Oasis	http://45.12.2.240:8080/b7c2ba83/b65f5b29/157489.m3u8
-Astro Prima	http://45.12.2.240:8080/b7c2ba83/b65f5b29/157467.m3u8
-Astro Rania	http://45.12.2.240:8080/b7c2ba83/b65f5b29/171984.m3u8
-Astro Ria	http://45.12.2.240:8080/b7c2ba83/b65f5b29/158347.m3u8
-Astro SuperSport	http://45.12.2.240:8080/b7c2ba83/b65f5b29/146068.m3u8
-Astro SuperSport 2	http://45.12.2.240:8080/b7c2ba83/b65f5b29/157556.m3u8
-Astro SuperSport 3	http://45.12.2.240:8080/b7c2ba83/b65f5b29/157557.m3u8
-Astro SuperSport 4	http://45.12.2.240:8080/b7c2ba83/b65f5b29/157558.m3u8
-Astro Tutor TV SK	http://45.12.2.240:8080/b7c2ba83/b65f5b29/247433.m3u8
-Astro Vaanavil	http://45.12.2.240:8080/b7c2ba83/b65f5b29/201163.m3u8
-Astro Warna	http://45.12.2.240:8080/b7c2ba83/b65f5b29/157492.m3u8
+MY001:TV 1	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/1734.m3u8
+MY002:TV 2	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/1733.m3u8
+MY003:TV 3	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/1732.m3u8
+MY004:NTV 7	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/1731.m3u8
+MY005:TV 8	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/1730.m3u8
+MY006:TV 9	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/1729.m3u8
+MY007:QUAN JIA	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/1728.m3u8
+MY008:SHUANG XING	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/1727.m3u8
+MY009:Wah Lai Toi	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/1726.m3u8
+MY010:HUA HEE DAI	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/1725.m3u8
+MY011:AOD	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/1724.m3u8
+MY012:AEC	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/1723.m3u8
+MY022:Super Sport 5	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/1713.m3u8
+MY043:ASTRO ASSP4 HD	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/59217.m3u8
+MY042:ASTRO ASSP3 HD	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/59218.m3u8
+MY040:ASTRO ASSP HD	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/59220.m3u8
+MY041:ASTRO ASSP2 HD	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/59219.m3u8
+MY107:Astro SuperSport Events 6	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/71079.m3u8
+MY133:Astro Premier 2	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/71105.m3u8
+MY136:ASTRO Rugby Pass	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/71108.m3u8
+MY137:ASTRO Cricket	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/71109.m3u8
+MY177:Astro SuperSport Events 3	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/71146.m3u8
+MY108:ASTRO Ceria	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/71080.m3u8
+MY057:ASTRO Colors Tamil	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/71035.m3u8
+MY056:ASTRO Star Vijay	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/71034.m3u8
+MY054:ASTRO Zee Tamil	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/71032.m3u8
+MY053:ASTRO Adithya	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/71031.m3u8
+MY017:CELESTIAL	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/1718.m3u8
+MY018:BERNAMA	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/1717.m3u8
+MY020:Star Chinese Channel	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/1715.m3u8
+MY021:XIAO TAI YANG	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/1714.m3u8
+MY023:TVB CLASSIC	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/1712.m3u8
+MY029:WARNA	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/1706.m3u8
+MY030:RIA	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/1705.m3u8
+MY031:AWANI	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/1704.m3u8
+MY034:OASIS	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/1701.m3u8
+MY082:Singapore Channel 8	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/71054.m3u8
+MY035:Singapore Suria	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/1700.m3u8
+MY036:Singapore Vasantham	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/1699.m3u8
+MY151:sukan	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/71123.m3u8
+MY037:WWE	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/1698.m3u8
+MY038:BOO	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/1697.m3u8
+MY042:Ria	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/71020.m3u8
+MY043:Awesome TV	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/71021.m3u8
+MY046:TV ALHIJRAH	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/71024.m3u8
+MY047:aura	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/71025.m3u8
+MY048:Astro Premier 1	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/71026.m3u8
+MY049:KBSW	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/71027.m3u8
+MY050:GO SHOP	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/71028.m3u8
+MY051:Sun Music	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/71029.m3u8
+MY052:TUTOR TV SK	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/71030.m3u8
+MY055:Star Vijay Super	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/71033.m3u8
+MY058:SUN TV HD	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/71036.m3u8
+MY059:HBO Hits	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/71037.m3u8
+MY060:iQIYI HD	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/71038.m3u8
+MY061:GO SHOP 2	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/71039.m3u8
+MY067:TVB JADE	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/71040.m3u8
+MY069:CTI Asia	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/71042.m3u8
+MY070:TVB E-NEWS	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/71043.m3u8
+MY071:TVB XING HE HD	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/71044.m3u8
+MY072:TVBS ASIA HD	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/71045.m3u8
+MY073:CCM	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/71046.m3u8
+MY075:CCTV4 HD	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/71047.m3u8
+MY076:AOD 352 HD	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/71048.m3u8
+MY077:AOD 353 HD	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/71049.m3u8
+MY078:AOD 354 HD	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/71050.m3u8
+MY079:AOD 355 HD	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/71051.m3u8
+MY080:KBS World HD	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/71052.m3u8
+MY081:ONE HD	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/71053.m3u8
+MY083:TVN HD	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/71055.m3u8
+MY084:Hits Movies HD	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/71056.m3u8
+MY086:Cinemax HD	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/71058.m3u8
+MY087:TVN Movies	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/71059.m3u8
+MY088:OKEY TV	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/71060.m3u8
+MY089:Moonbug Kids	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/71061.m3u8
+MY091:AL JAZEERA HD	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/71063.m3u8
+MY092:SKY NEWS HD	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/71064.m3u8
+MY093:CNA HD	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/71065.m3u8
+MY094:CNBC	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/71066.m3u8
+MY095:Bloomberg TV	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/71067.m3u8
+MY096:ABC AUSTRALIA	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/71068.m3u8
+MY097:8TV	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/71069.m3u8
+MY099:Discovery HD	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/71071.m3u8
+MY100:DISCOVERY ASIA	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/71072.m3u8
+MY101:Discovery Science	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/71073.m3u8
+MY102:HISTORY HD	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/71074.m3u8
+MY103:ANIMAL PLANET HD	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/71075.m3u8
+MY104:TUTOR TV UPSR	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/71076.m3u8
+MY106:TUTOR TV SMK	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/71078.m3u8
+MY112:Cartoon Network	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/71084.m3u8
+MY113:NICKELODEON HD	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/71085.m3u8
+MY114:NICK JR	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/71086.m3u8
+MY115:AXN HD	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/71087.m3u8
+MY116:Phoenix	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/71088.m3u8
+MY117:HITS HD	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/71089.m3u8
+MY118:TLC HD	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/71090.m3u8
+MY119:FOOD NTWK HD	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/71091.m3u8
+MY120:AFN HD	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/71092.m3u8
+MY122:WARNER TV	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/71094.m3u8
+MY123:Crime Investigation	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/71095.m3u8
+MY124:HGTV HD	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/71096.m3u8
+MY125:DMAX HD	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/71097.m3u8
+MY126:COMEDY CENTRAL	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/71098.m3u8
+MY127:MTV	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/71099.m3u8
+MY128:ANIMAX	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/71100.m3u8
+MY129:bEIN Sports 3	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/71101.m3u8
+MY132:beIN SPORTS	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/71104.m3u8
+MY134:EUROSPORT HD	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/71106.m3u8
+MY135:GOLF CHANNEL HD	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/71107.m3u8
+MY139:KPLUS HD	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/71111.m3u8
+MY140:DW HD	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/71112.m3u8
+MY141:FRANCE24 HD	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/71113.m3u8
+MY146:beIN Sports 2	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/71118.m3u8
+MY147:BBC Earth HD	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/71119.m3u8
+MY148:BBC Lifestyle	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/71120.m3u8
+MY150:BBC World News	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/71122.m3u8
+MY164:Paramount Channel	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/71135.m3u8
+MY166:Global Trekker	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/71137.m3u8
+MY168:SCM	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/71138.m3u8
+MY169:SETi Chinese	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/71139.m3u8
+MY178:SPOTV	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/71147.m3u8
+MY179:TVS	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/71148.m3u8
+MY180:Awesome TV	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/71149.m3u8
+MY019:Kix HD	http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/1716.m3u8
 INDOSIAR(b) TLLL	http://iptv12k.com:35461/live/80236053010/645789/1814.m3u8
 [ID] SCTV(b)	http://iptv12k.com:35461/live/80236053010/645789/1811.m3u8
 [ID] RCTI TL	http://iptv12k.com:35461/live/80236053010/645789/15394.m3u8
