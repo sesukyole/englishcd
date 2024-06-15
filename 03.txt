@@ -6,6 +6,7 @@ AR  beIN Sports 3	01`03d1828.m3u8
 AR  beIN Sports 4	01`03d1829.m3u8
 AR  beIN Sports 5	01`03d1830.m3u8
 AR  beIN Sports 6	01`03d1831.m3u8
+AR  beIN Sports 7	01`03d1832.m3u8
 US  Fox 502	01`03d1876.m3u8
 US  Fox 504	01`03d1877.m3u8
 ID  Moji	01`00c350997.m3u8
