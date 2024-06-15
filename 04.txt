@@ -19,7 +19,7 @@
 [EURO] BEIN SPORTS MAX 2 AR LQ	00`05alive00`05b627502.m3u8
 [EURO] BEIN SPORTS MAX 3 EN LQ	00`05alive00`05b627503.m3u8
 [EURO] BEIN SPORTS MAX 4 FR LQ	00`05alive00`05b627504.m3u8
-===== BEINSPORT HD =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== BEINSPORT HD =====	http://a.b/c.m3u8
 BEIN SPORTS NEWS	00`05alive00`05b290371.m3u8
 BEIN SPORTS HD	00`05alive00`05b6727.m3u8
 BEIN SPORTS 1 HD 	00`05alive00`05b60954.m3u8
@@ -49,7 +49,7 @@ BEIN SPORTS AFC 2 HD	00`05alive00`05b435961.m3u8
 BEIN SPORTS AFC 3 HD	00`05alive00`05b435962.m3u8
 BEIN SPORTS AFC 4 HD	00`05alive00`05b435963.m3u8
 BEIN SPORTS AFC 5 HD	00`05alive00`05b435964.m3u8
-===== BEINSPORT FHD ===== 	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== BEINSPORT FHD ===== 	http://a.b/c.m3u8
 BEIN SPORTS 1 FHD	00`05alive00`05b60958.m3u8
 BEIN SPORTS 2 FHD	00`05alive00`05b28751.m3u8
 BEIN SPORTS 3 FHD	00`05alive00`05b60959.m3u8
@@ -67,7 +67,7 @@ BEIN SPORTS XTRA 2 FHD	00`05alive00`05b135168.m3u8
 BEIN SPORTS XTRA 3 FHD	00`05alive00`05b36296.m3u8
 BEIN SPORTS AFC FHD	00`05alive00`05b176994.m3u8
 BEIN SPORTS AFC 1 FHD	00`05alive00`05b176995.m3u8
-===== BEINSPORT SD ===== 	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== BEINSPORT SD ===== 	http://a.b/c.m3u8
 BEIN SPORTS 1 SD	00`05alive00`05b60960.m3u8
 BEIN SPORTS 2 SD 	00`05alive00`05b60961.m3u8
 BEIN SPORTS 3 SD 	00`05alive00`05b60962.m3u8
@@ -279,7 +279,7 @@ BEIN JEEM 4K	00`05alive00`05b375948.m3u8
 [FR] M6 INTERNATIONAL HEVC	00`05alive00`05b272387.m3u8
 [FR] TF1 +1 SD	00`05alive00`05b403991.m3u8
 [FR] M6 INTERNATIONAL SD	00`05alive00`05b272389.m3u8
------] MY CANAL FRANCE FHD [-----	http://promo.sansat.biz:25461/images/promo/promo.mkv
+-----] MY CANAL FRANCE FHD [-----	http://a.b/c.m3u8
 [FR] CANAL+ FHD	00`05alive00`05b126809.m3u8
 [FR] CANAL+ CINEMA FHD	00`05alive00`05b126810.m3u8
 [FR] CANAL+ FAMILY FHD	00`05alive00`05b126812.m3u8
@@ -301,7 +301,7 @@ BEIN JEEM 4K	00`05alive00`05b375948.m3u8
 [FR] CANAL+ FOOT HEVC	00`05alive00`05b199964.m3u8
 [FR] CANAL+ FOOT SD	00`05alive00`05b199963.m3u8
 [FR] CANAL+ 360 SD	00`05alive00`05b199966.m3u8
------] CINÉMA FRANCE FHD [-----	http://promo.sansat.biz:25461/images/promo/promo.mkv
+-----] CINÉMA FRANCE FHD [-----	http://a.b/c.m3u8
 [FR] CINE+ PREMIER FHD	00`05alive00`05b127215.m3u8
 [FR] CINE+ FRISSON FHD	00`05alive00`05b127216.m3u8
 [FR] CINE+ EMOTION FHD	00`05alive00`05b127217.m3u8
@@ -337,7 +337,7 @@ BEIN JEEM 4K	00`05alive00`05b375948.m3u8
 [FR] A LA CARTE 17 HD	00`05alive00`05b222455.m3u8
 [FR] A LA CARTE 18 HD	00`05alive00`05b222456.m3u8
 [FR] A LA CARTE 19 HD	00`05alive00`05b222457.m3u8
-===== RAKUTEN =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== RAKUTEN =====	http://a.b/c.m3u8
 [FR] RAKUTEN TV FILMS ACTION	00`05alive00`05b194219.m3u8
 [FR] RAKUTEN COMEDY MOVIES FRANCE	00`05alive00`05b194220.m3u8
 [FR] RAKUTEN TV FILMS DRAMES	00`05alive00`05b194221.m3u8
@@ -345,7 +345,7 @@ BEIN JEEM 4K	00`05alive00`05b375948.m3u8
 [FR] RAKUTEN TV TOP FILMS	00`05alive00`05b194223.m3u8
 [FR] RAKUTEN TV FILMS FRANCAIS	00`05alive00`05b194224.m3u8
 [FR] RAKUTEN TV FILMS THRILLER	00`05alive00`05b194225.m3u8
------] INFOS FRANCE FHD [-----	http://promo.sansat.biz:25461/images/promo/promo.mkv
+-----] INFOS FRANCE FHD [-----	http://a.b/c.m3u8
 [FR] LA CHAINE METEO FHD	00`05alive00`05b126750.m3u8
 [FR] CNEWS FHD	00`05alive00`05b126751.m3u8
 [FR] FRANCE INFO FHD	00`05alive00`05b126752.m3u8
@@ -359,7 +359,7 @@ BEIN JEEM 4K	00`05alive00`05b375948.m3u8
 [FR] FRANCE24 FHD	00`05alive00`05b126761.m3u8
 [FR] I24 NEWS FHD	00`05alive00`05b126762.m3u8
 [FR] ROUGE TV FHD	00`05alive00`05b126763.m3u8
------] RMC SPORT FHD [-----	http://promo.sansat.biz:25461/images/promo/promo.mkv
+-----] RMC SPORT FHD [-----	http://a.b/c.m3u8
 [FR] RMC SPORT 1 FHD	00`05alive00`05b126919.m3u8
 [FR] RMC SPORT 2 FHD	00`05alive00`05b126920.m3u8
 [FR] RMC SPORT LIVE 3 FHD	00`05alive00`05b126921.m3u8
@@ -372,7 +372,7 @@ BEIN JEEM 4K	00`05alive00`05b375948.m3u8
 [FR] RMC SPORT LIVE 10 FHD	00`05alive00`05b126928.m3u8
 [FR] RMC SPORT LIVE 11 FHD	00`05alive00`05b126929.m3u8
 [FR] RMC SPORT LIVE 12 FHD	00`05alive00`05b126930.m3u8
------] BEIN SPORTS FHD [-----	http://promo.sansat.biz:25461/images/promo/promo.mkv
+-----] BEIN SPORTS FHD [-----	http://a.b/c.m3u8
 [FR] BEIN SPORTS 1 FHD	00`05alive00`05b126935.m3u8
 [FR] BEIN SPORTS 2 FHD	00`05alive00`05b126936.m3u8
 [FR] BEIN SPORTS 3 FHD	00`05alive00`05b126937.m3u8
@@ -383,7 +383,7 @@ BEIN JEEM 4K	00`05alive00`05b375948.m3u8
 [FR] BEIN MAX 8 FHD	00`05alive00`05b126942.m3u8
 [FR] BEIN MAX 9 FHD	00`05alive00`05b126943.m3u8
 [FR] BEIN MAX 10 FHD	00`05alive00`05b126944.m3u8
------] SPORTS FHD [-----	http://promo.sansat.biz:25461/images/promo/promo.mkv
+-----] SPORTS FHD [-----	http://a.b/c.m3u8
 [FR] MULTISPORTS 1 FHD	00`05alive00`05b126946.m3u8
 [FR] MULTISPORTS 2 FHD	00`05alive00`05b126947.m3u8
 [FR] MULTISPORTS 3 FHD	00`05alive00`05b126948.m3u8
@@ -462,7 +462,7 @@ BEIN JEEM 4K	00`05alive00`05b375948.m3u8
 [FR] (FANSEAT) - EVENT 16 FHD - (ONLY ON LIVE)	00`05alive00`05b560859.m3u8
 [FR] (FANSEAT) - EVENT 17 FHD - (ONLY ON LIVE)	00`05alive00`05b560860.m3u8
 [FR] (FANSEAT) - EVENT 18 FHD - (ONLY ON LIVE)	00`05alive00`05b560861.m3u8
------] JEUNESSE FRANCE FHD [-----	http://promo.sansat.biz:25461/images/promo/promo.mkv
+-----] JEUNESSE FRANCE FHD [-----	http://a.b/c.m3u8
 [FR] TOONAMI FHD	00`05alive00`05b127100.m3u8
 [FR] DISNEY CHANNEL FHD	00`05alive00`05b127101.m3u8
 [FR] DISNEY CHANNEL +1 HD	00`05alive00`05b127102.m3u8
@@ -483,7 +483,7 @@ BEIN JEEM 4K	00`05alive00`05b375948.m3u8
 [FR] MANGAS FHD	00`05alive00`05b127117.m3u8
 [FR] J ONE FHD	00`05alive00`05b127118.m3u8
 [FR] GAME ONE FHD	00`05alive00`05b127119.m3u8
------] DÉCOUVERTE FRANCE FHD [-----	http://promo.sansat.biz:25461/images/promo/promo.mkv
+-----] DÉCOUVERTE FRANCE FHD [-----	http://a.b/c.m3u8
 [FR] PLANETE+ FHD	00`05alive00`05b127035.m3u8
 [FR] PLANETE+ A&E FHD	00`05alive00`05b127036.m3u8
 [FR] PLANETE+ CI FHD	00`05alive00`05b127037.m3u8
@@ -524,7 +524,7 @@ BEIN JEEM 4K	00`05alive00`05b375948.m3u8
 [FR-HD] IMEARTH HD	00`05alive00`05b224450.m3u8
 [FR-HD] ZOUK TV HD	00`05alive00`05b224451.m3u8
 [FR-HD] TMC PLUS 1 HD	00`05alive00`05b224452.m3u8
------] DIVERTISSEMENT FRANCE FHD [-----	http://promo.sansat.biz:25461/images/promo/promo.mkv
+-----] DIVERTISSEMENT FRANCE FHD [-----	http://a.b/c.m3u8
 [FR] COMEDIE+ FHD	00`05alive00`05b127164.m3u8
 [FR] SYFY FHD	00`05alive00`05b127165.m3u8
 [FR] E! FHD	00`05alive00`05b127166.m3u8
@@ -539,7 +539,7 @@ BEIN JEEM 4K	00`05alive00`05b375948.m3u8
 [FR] BET FHD	00`05alive00`05b127175.m3u8
 [FR] COMEDY CENTRAL FHD	00`05alive00`05b127178.m3u8
 [FR] KTO FHD	00`05alive00`05b147875.m3u8
------] MUSIQUE FRANCE FHD [-----	http://promo.sansat.biz:25461/images/promo/promo.mkv
+-----] MUSIQUE FRANCE FHD [-----	http://a.b/c.m3u8
 [FR] CSTAR HITS FHD	00`05alive00`05b127339.m3u8
 [FR] TRACE URBAN FHD	00`05alive00`05b127340.m3u8
 [FR] TRACE LATINA FHD	00`05alive00`05b127341.m3u8
@@ -556,11 +556,11 @@ BEIN JEEM 4K	00`05alive00`05b375948.m3u8
 [FR] OLYMPIA TV FHD	00`05alive00`05b127353.m3u8
 [FR] DJAZZ TV HEVC	00`05alive00`05b193012.m3u8
 [FR] DJAZZ TV SD	00`05alive00`05b193011.m3u8
------] AFRIQUE FRANCE FHD [-----	http://promo.sansat.biz:25461/images/promo/promo.mkv
+-----] AFRIQUE FRANCE FHD [-----	http://a.b/c.m3u8
 [FR] A+ FHD	00`05alive00`05b127387.m3u8
 [FR] NOLLYWOOD FHD	00`05alive00`05b127388.m3u8
 [FR] TRACE AFRICA FHD	00`05alive00`05b127389.m3u8
-#====== MBC GROUP ======#	http://promo.sansat.biz:25461/images/promo/promo.mkv
+#====== MBC GROUP ======#	http://a.b/c.m3u8
 [AR-4K] MBC 1	00`05alive00`05b164055.m3u8
 [AR-4K] MBC 2	00`05alive00`05b164056.m3u8
 [AR-4K] MBC 3	00`05alive00`05b164057.m3u8
@@ -627,7 +627,7 @@ BEIN JEEM 4K	00`05alive00`05b375948.m3u8
 [SHAHID] WWE	https://cdxaws-ak.akamaized.net/v1/channel/WWE/index_hls/2.m3u8
 [SHAHID] RASHED AL-MAJED	https://rashed-almajed-ak.akamaized.net/out/v1/77b0946130344d1388e5cd34afdcb772/index_19.m3u8
 [SHAHID] MUHAMMAD ABDO	https://mohammed-abdou-ak.akamaized.net/out/v1/3b57275cf54747cda4cda03ecf146f92/index_19.m3u8
-======MOROCCO======	http://promo.sansat.biz:25461/images/promo/promo.mkv
+======MOROCCO======	http://a.b/c.m3u8
 [MA] TNT 2M MAROC	00`05alive00`05b11038.m3u8
 [MA] TNT AL OULA HD	00`05alive00`05b11035.m3u8
 [MA] TNT AL MAGHRIBIA	00`05alive00`05b11037.m3u8
@@ -660,7 +660,7 @@ BEIN JEEM 4K	00`05alive00`05b375948.m3u8
 [MA] CANAL ATLAS	00`05alive00`05b7579.m3u8
 [MA] CHADA TV HD	00`05alive00`05b11126.m3u8
 [MA] AL ONS TV	00`05alive00`05b194263.m3u8
-======ALGERIA======	http://promo.sansat.biz:25461/images/promo/promo.mkv
+======ALGERIA======	http://a.b/c.m3u8
 [DZ] ENTV ALGERIE NATIONAL	00`05alive00`05b7353.m3u8
 [DZ] CANAL ALGERIE	00`05alive00`05b7356.m3u8
 [DZ] A3 ALGERIE	00`05alive00`05b7355.m3u8
@@ -688,7 +688,7 @@ BEIN JEEM 4K	00`05alive00`05b375948.m3u8
 [DZ] ZAHRA TV	00`05alive00`05b231530.m3u8
 [DZ] SALAM TV	00`05alive00`05b231531.m3u8
 [DZ] EL WATANIA ALGERIE	00`05alive00`05b231532.m3u8
-======TUNISIA======	http://promo.sansat.biz:25461/images/promo/promo.mkv
+======TUNISIA======	http://a.b/c.m3u8
 [AR] TUNISIA SERIES 1	00`05alive00`05b145031.m3u8
 [TN] TUNISNA	00`05alive00`05b7330.m3u8
 [TN] HANNIBAL	00`05alive00`05b7329.m3u8
@@ -703,7 +703,7 @@ BEIN JEEM 4K	00`05alive00`05b375948.m3u8
 [TN] TELVZA TV	00`05alive00`05b7320.m3u8
 [TN] ZAYTOONA TV	00`05alive00`05b7319.m3u8
 [TN] CARTHAGE+	00`05alive00`05b38053.m3u8
-===== OSN HD =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== OSN HD =====	http://a.b/c.m3u8
 [OSN] ART AFLAM 1	00`05alive00`05b115278.m3u8
 [OSN] ART AFLAM 2	00`05alive00`05b115279.m3u8
 [OSN] ART CINEMA	00`05alive00`05b115280.m3u8
@@ -745,7 +745,7 @@ BEIN JEEM 4K	00`05alive00`05b375948.m3u8
 [OSN] STAR MOVIES HD	00`05alive00`05b115321.m3u8
 [OSN] NEWS HD	00`05alive00`05b115322.m3u8
 [OSN] TLC HD	00`05alive00`05b115323.m3u8
-======ARABIC NEWS ======	http://promo.sansat.biz:25461/images/promo/promo.mkv
+======ARABIC NEWS ======	http://a.b/c.m3u8
 [AR] AL JAZEERA HD LIVE	https://live-hls-web-aja.getaj.net/AJA/02.m3u8
 [AR] AL JAZEERA HD	00`05alive00`05b403993.m3u8
 [AR] AL JAZEERA DOCUMENTARY	00`05alive00`05b7374.m3u8
@@ -816,7 +816,7 @@ BEIN JEEM 4K	00`05alive00`05b375948.m3u8
 [AR] AL MAJD TAGHRED	00`05alive00`05b618798.m3u8
 [AR] AL MAJD DOCUMENTARY	00`05alive00`05b618799.m3u8
 [AR] AL MAJD KIDS HD	00`05alive00`05b618800.m3u8
-======SAUDI ARABIA======	http://promo.sansat.biz:25461/images/promo/promo.mkv
+======SAUDI ARABIA======	http://a.b/c.m3u8
 [SA] ART AFLAM 1	00`05alive00`05b7317.m3u8
 [SA] ART AFLAM 2	00`05alive00`05b7316.m3u8
 [SA] ART CINEMA	00`05alive00`05b7315.m3u8
@@ -872,7 +872,7 @@ BEIN JEEM 4K	00`05alive00`05b375948.m3u8
 [SA] SBC	00`05alive00`05b38446.m3u8
 [SA] ZAD TV	00`05alive00`05b38454.m3u8
 [SA] AL-EKHBARIA	00`05alive00`05b52907.m3u8
-======EGYPT======	http://promo.sansat.biz:25461/images/promo/promo.mkv
+======EGYPT======	http://a.b/c.m3u8
 [EG] MBC MASR 1	00`05alive00`05b7256.m3u8
 [EG] MBC MASR 2	00`05alive00`05b7255.m3u8
 [EG] NILE CINEMA	00`05alive00`05b7248.m3u8
@@ -958,7 +958,7 @@ BEIN JEEM 4K	00`05alive00`05b375948.m3u8
 [MYHD] MY CINEMA HD	00`05alive00`05b25480.m3u8
 [MYHD] STAR MOVIES HD	00`05alive00`05b25499.m3u8
 [MYHD] STAR WORLD HD	00`05alive00`05b25498.m3u8
-===== ARABIC KIDS =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== ARABIC KIDS =====	http://a.b/c.m3u8
 [AR] JEEM KIDS HD	00`05alive00`05b126292.m3u8
 [AR] BARAEM KIDS HD	00`05alive00`05b126294.m3u8
 [AR] HOD HOD TV	00`05alive00`05b126295.m3u8
@@ -1068,7 +1068,7 @@ SHAHID Soad Hosny سعاد حسني	00`05alive00`05b447258.m3u8
 ] Kamel El Adad ] 2023 ] كامل العدد [	00`05alive00`05b262094.m3u8
 ] Elaqa Mashrouaa ] 2023 ] علاقة مشروعة [	00`05alive00`05b262096.m3u8
 ] Al Kateba 101 ] 2023 ] الكتيبة 101 [	00`05alive00`05b262097.m3u8
-====ARABIC HD 1080p====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+====ARABIC HD 1080p====	http://a.b/c.m3u8
 [AR] AL JAZEERA HD	00`05alive00`05b7420.m3u8
 [AR] AL JAZEERA ENGLISH HD	00`05alive00`05b7419.m3u8
 [AR] AL JAZEERA DOCUMENTARY HD	00`05alive00`05b7418.m3u8
@@ -1105,7 +1105,7 @@ SHAHID Soad Hosny سعاد حسني	00`05alive00`05b447258.m3u8
 [AR] CHOUROUK TV HD	00`05alive00`05b39152.m3u8
 [AR] LBC HD	00`05alive00`05b39780.m3u8
 [AR] MEDI1TV AFRIQUE HD	00`05alive00`05b7592.m3u8
-===== SYRIA =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== SYRIA =====	http://a.b/c.m3u8
 [SY] SYRIA DRAMA	00`05alive00`05b79702.m3u8
 [SY] AL EKHBARIYA AL SORIYA	00`05alive00`05b79703.m3u8
 [SY] ALYAWM	00`05alive00`05b79704.m3u8
@@ -1121,7 +1121,7 @@ SHAHID Soad Hosny سعاد حسني	00`05alive00`05b447258.m3u8
 [SY] SYRIAN STELLITE TV	00`05alive00`05b79716.m3u8
 [SY] ANB TV	00`05alive00`05b7158.m3u8
 [SY] ALQANAT 9 TV	00`05alive00`05b7163.m3u8
-======LEBANON======	http://promo.sansat.biz:25461/images/promo/promo.mkv
+======LEBANON======	http://a.b/c.m3u8
 [LB] LBC HD	00`05alive00`05b104579.m3u8
 [LB] LEBANON TV	00`05alive00`05b104588.m3u8
 [LB] MTV LEBANON HD	00`05alive00`05b7171.m3u8
@@ -1141,7 +1141,7 @@ SHAHID Soad Hosny سعاد حسني	00`05alive00`05b447258.m3u8
 [LB] TEL LEBANON	00`05alive00`05b149003.m3u8
 [LB] ONE LEBANON TV	00`05alive00`05b149002.m3u8
 [LB] LBC 2	00`05alive00`05b577356.m3u8
-===== JORDAN =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== JORDAN =====	http://a.b/c.m3u8
 [JO] AL GHAD AL ARABY HD	00`05alive00`05b111257.m3u8
 [JO] AL MAMLAKA	00`05alive00`05b76598.m3u8
 [JO] JORDAN HD	00`05alive00`05b76600.m3u8
@@ -1155,7 +1155,7 @@ SHAHID Soad Hosny سعاد حسني	00`05alive00`05b447258.m3u8
 [JO] AMMAN TV	00`05alive00`05b76599.m3u8
 [JO] MUSAWA TV	00`05alive00`05b76610.m3u8
 [JO] TOYOR ALJANNAH	00`05alive00`05b92139.m3u8
-===== PALESTINE =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== PALESTINE =====	http://a.b/c.m3u8
 [PS] MAAN TV	00`05alive00`05b76620.m3u8
 [PS] PALESTINE TV	00`05alive00`05b76619.m3u8
 [PS] PALESTINE LIVE	00`05alive00`05b76615.m3u8
@@ -1165,7 +1165,7 @@ SHAHID Soad Hosny سعاد حسني	00`05alive00`05b447258.m3u8
 [PS] AWDEH TV	00`05alive00`05b76621.m3u8
 [PS] EL FADJER 2	00`05alive00`05b111255.m3u8
 [PS] FALASTINI. TV	00`05alive00`05b111256.m3u8
-==== CHRISTIAN ====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+==== CHRISTIAN ====	http://a.b/c.m3u8
 [AR] MIRACLE TV	00`05alive00`05b79718.m3u8
 [AR] AGHAPY TV	00`05alive00`05b79719.m3u8
 [AR] AL HAYAT CRISTIAN	00`05alive00`05b79720.m3u8
@@ -1188,7 +1188,7 @@ SHAHID Soad Hosny سعاد حسني	00`05alive00`05b447258.m3u8
 [AR] NOUR EL MARIAM	00`05alive00`05b103753.m3u8
 [AR] KOOGI TV	00`05alive00`05b103754.m3u8
 [AR] NOUR EL KODDASS	00`05alive00`05b103755.m3u8
-===== LIBYA =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== LIBYA =====	http://a.b/c.m3u8
 [LY] AL MASAR	00`05alive00`05b403995.m3u8
 [LY] LIBYA AL JAMAHIRIYA	00`05alive00`05b104572.m3u8
 [LY] LIBYA ALMUSTAQBAL HD	00`05alive00`05b104571.m3u8
@@ -1205,7 +1205,7 @@ SHAHID Soad Hosny سعاد حسني	00`05alive00`05b447258.m3u8
 [LY] LIBYA AL HADATH	00`05alive00`05b75917.m3u8
 [LY] LIBYA CHANNEL	00`05alive00`05b75919.m3u8
 [LY] LIBYA TV	00`05alive00`05b75913.m3u8
-===== MAURITANIA =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== MAURITANIA =====	http://a.b/c.m3u8
 [MR] ELMOURITANIA	00`05alive00`05b75932.m3u8
 [MR] ELMOURITANIA 2	00`05alive00`05b75933.m3u8
 [MR] ATAQUAFIA MR	00`05alive00`05b75934.m3u8
@@ -1214,7 +1214,7 @@ SHAHID Soad Hosny سعاد حسني	00`05alive00`05b447258.m3u8
 [MR] ELMAHADRA	00`05alive00`05b75938.m3u8
 [MR] ALMOURABITOUNE	00`05alive00`05b75940.m3u8
 [MR] SAHEL TV	00`05alive00`05b75941.m3u8
-===== SUDAN =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== SUDAN =====	http://a.b/c.m3u8
 [SD] SUDANIA 24 HD	00`05alive00`05b179259.m3u8
 [SD] KHARTOUM TV HD	00`05alive00`05b179261.m3u8
 [SD] SUDAN TV	00`05alive00`05b179263.m3u8
@@ -1226,7 +1226,7 @@ SHAHID Soad Hosny سعاد حسني	00`05alive00`05b447258.m3u8
 [SD] ELMOURABITON TV	00`05alive00`05b179282.m3u8
 [SD] SUDAN EL MAHADRA	00`05alive00`05b179283.m3u8
 [SD] DABANGO SUDAN	00`05alive00`05b179285.m3u8
-===== IRAQ =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== IRAQ =====	http://a.b/c.m3u8
 [IQ] IRAQIA NEWS	00`05alive00`05b115212.m3u8
 [IQ] IRAQ FUTURE	00`05alive00`05b115213.m3u8
 [IQ] I NEWS HD	00`05alive00`05b115214.m3u8
@@ -1286,7 +1286,7 @@ SHAHID Soad Hosny سعاد حسني	00`05alive00`05b447258.m3u8
 [IQ] MARJAEYAT TV	00`05alive00`05b115269.m3u8
 [IQ] ANB TV	00`05alive00`05b115270.m3u8
 [IQ] FALLUJAH TV	00`05alive00`05b115274.m3u8
-======UAE======	http://promo.sansat.biz:25461/images/promo/promo.mkv
+======UAE======	http://a.b/c.m3u8
 [AE] DUBAI TV	00`05alive00`05b7153.m3u8
 [AE] SAMA DUBAI	00`05alive00`05b38522.m3u8
 [AE] DUBAI ZAMAN	00`05alive00`05b7154.m3u8
@@ -1310,13 +1310,13 @@ SHAHID Soad Hosny سعاد حسني	00`05alive00`05b447258.m3u8
 [AE] YAS SPORTS HD	00`05alive00`05b7147.m3u8
 [AE] HOD HOD TV	00`05alive00`05b7146.m3u8
 [AE] AJMAN TV	00`05alive00`05b224540.m3u8
-===== QATAR =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== QATAR =====	http://a.b/c.m3u8
 [QA] AL RAYYAN HD	00`05alive00`05b76571.m3u8
 [QA] AL RAYYAN AL QADEEM HD	00`05alive00`05b76572.m3u8
 [QA] QATAR TV HD	00`05alive00`05b76573.m3u8
 [QA] AL ARABY HD	00`05alive00`05b394036.m3u8
 [QA] AL ARABY 2 HD	00`05alive00`05b394031.m3u8
-===== BAHRAIN =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== BAHRAIN =====	http://a.b/c.m3u8
 [BH] BAHRAIN INTERNATIONAL	00`05alive00`05b76575.m3u8
 [BH] BAHRAIN INTERNATIONAL HD	00`05alive00`05b76576.m3u8
 [BH] BAHRAIN QURAN	00`05alive00`05b76577.m3u8
@@ -1325,11 +1325,11 @@ SHAHID Soad Hosny سعاد حسني	00`05alive00`05b447258.m3u8
 [BH] BAHRAIN TV  HD	00`05alive00`05b76580.m3u8
 [BH] SPACETOON	00`05alive00`05b76581.m3u8
 [BH] AL MAAREF	00`05alive00`05b76582.m3u8
-===== OMAN =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== OMAN =====	http://a.b/c.m3u8
 [AR] OMAN TV GENERAL	00`05alive00`05b76584.m3u8
 [AR] OMAN TV CULTURE	00`05alive00`05b76586.m3u8
 [AR] OMAN TV SPORT HD	00`05alive00`05b284911.m3u8
-===== YEMEN =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== YEMEN =====	http://a.b/c.m3u8
 [YE] YEMEN TV	00`05alive00`05b76589.m3u8
 [YE] YEMEN SHABAB	00`05alive00`05b76590.m3u8
 [YE] SHEBA TV	00`05alive00`05b76592.m3u8
@@ -1346,7 +1346,7 @@ SHAHID Soad Hosny سعاد حسني	00`05alive00`05b447258.m3u8
 [YE] AL MAHRIAH	00`05alive00`05b284912.m3u8
 [YE] AL GHAD AL MUSHREQ	00`05alive00`05b111369.m3u8
 [YE] YEMEN EDUCATION TV	00`05alive00`05b111370.m3u8
-===== KUWAIT =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== KUWAIT =====	http://a.b/c.m3u8
 [KW] KTV 1 HD	00`05alive00`05b81487.m3u8
 [KW] KTV 2 HD	00`05alive00`05b81488.m3u8
 [KW] KTV ETHRAA HD	00`05alive00`05b81490.m3u8
@@ -1362,7 +1362,7 @@ SHAHID Soad Hosny سعاد حسني	00`05alive00`05b447258.m3u8
 [KW] AL SABAH TV 4K	00`05alive00`05b259851.m3u8
 [KW] AL MAJLIS 4K	00`05alive00`05b259852.m3u8
 [KW] KUWAIT SPORTS + 4K	00`05alive00`05b259854.m3u8
------] CANALES ESPANOL [----- 	http://promo.sansat.biz:25461/images/promo/promo.mkv
+-----] CANALES ESPANOL [----- 	http://a.b/c.m3u8
 [ES] TVE INTERNACIONAL	00`05alive00`05b127636.m3u8
 [ES] LA 1	00`05alive00`05b127637.m3u8
 [ES] LA 2	00`05alive00`05b127638.m3u8
@@ -1388,7 +1388,7 @@ SHAHID Soad Hosny سعاد حسني	00`05alive00`05b447258.m3u8
 [SP] TELEMADRID	00`05alive00`05b194249.m3u8
 [SP] CANAL EXTREMADURA SAT	00`05alive00`05b194250.m3u8
 [SP] TV3	00`05alive00`05b194251.m3u8
------] CANALES ESPANOL 4K [-----	http://promo.sansat.biz:25461/images/promo/promo.mkv
+-----] CANALES ESPANOL 4K [-----	http://a.b/c.m3u8
 [ES-4K] TVE INTERNACIONAL	00`05alive00`05b127660.m3u8
 [ES-4K] LA 1	00`05alive00`05b127661.m3u8
 [ES-4K] LA 2	00`05alive00`05b127662.m3u8
@@ -1406,7 +1406,7 @@ SHAHID Soad Hosny سعاد حسني	00`05alive00`05b447258.m3u8
 [SP-4K] DARK	00`05alive00`05b194252.m3u8
 [SP-4k] TV GALICIA	00`05alive00`05b194253.m3u8
 [SP-4k] TELEMADRID FHD	00`05alive00`05b194254.m3u8
------] CULTURA ESPANOL [-----	http://promo.sansat.biz:25461/images/promo/promo.mkv
+-----] CULTURA ESPANOL [-----	http://a.b/c.m3u8
 [ES] BLAZE	00`05alive00`05b181633.m3u8
 [ES] TOROS	00`05alive00`05b127752.m3u8
 [ES] CANAL ODISEA	00`05alive00`05b127753.m3u8
@@ -1419,7 +1419,7 @@ SHAHID Soad Hosny سعاد حسني	00`05alive00`05b447258.m3u8
 [ES] NAT GEO WILD	00`05alive00`05b127760.m3u8
 [ES] CAZA & PESCA	00`05alive00`05b127761.m3u8
 [ES] CANAL COCINA	00`05alive00`05b127763.m3u8
------] CULTURA ESPANOL 4K [-----	http://promo.sansat.biz:25461/images/promo/promo.mkv
+-----] CULTURA ESPANOL 4K [-----	http://a.b/c.m3u8
 [ES-4K] TOROS	00`05alive00`05b127766.m3u8
 [ES-4K] CANAL ODISEA	00`05alive00`05b127767.m3u8
 [ES-4K] DISCOVERY CHANNEL	00`05alive00`05b127768.m3u8
@@ -1431,7 +1431,7 @@ SHAHID Soad Hosny سعاد حسني	00`05alive00`05b447258.m3u8
 [ES-4K] CAZA Y PESCA	00`05alive00`05b127775.m3u8
 [ES-4K] CANAL COCINA	00`05alive00`05b127777.m3u8
 [ES-4K] BLAZE	00`05alive00`05b181634.m3u8
------] ENTRETENIMIENTO ESPAÑOL [-----	http://promo.sansat.biz:25461/images/promo/promo.mkv
+-----] ENTRETENIMIENTO ESPAÑOL [-----	http://a.b/c.m3u8
 [ES] M. SERIES	00`05alive00`05b127699.m3u8
 [SP] COMEDY CENTRAL HD	00`05alive00`05b127700.m3u8
 [ES] FOX	00`05alive00`05b127701.m3u8
@@ -1449,7 +1449,7 @@ SHAHID Soad Hosny سعاد حسني	00`05alive00`05b447258.m3u8
 [ES] BE MAD TV	00`05alive00`05b127714.m3u8
 [ES] DIVINITY	00`05alive00`05b127715.m3u8
 [ES] XTRM	00`05alive00`05b127716.m3u8
------] ENTRETENIMIENTO ESPAÑOL 4K [-----	http://promo.sansat.biz:25461/images/promo/promo.mkv
+-----] ENTRETENIMIENTO ESPAÑOL 4K [-----	http://a.b/c.m3u8
 [ES-4K] M. SERIES	00`05alive00`05b127719.m3u8
 [ES-4K] M. SERIESMANIA	00`05alive00`05b127720.m3u8
 [ES-4K] FOX	00`05alive00`05b127721.m3u8
@@ -1467,7 +1467,7 @@ SHAHID Soad Hosny سعاد حسني	00`05alive00`05b447258.m3u8
 [ES-4K] BE MAD TV	00`05alive00`05b127734.m3u8
 [ES-4K] DIVINITY	00`05alive00`05b127735.m3u8
 [ES-4K] XTRM	00`05alive00`05b127736.m3u8
------] CINE ESPANOL [-----	http://promo.sansat.biz:25461/images/promo/promo.mkv
+-----] CINE ESPANOL [-----	http://a.b/c.m3u8
 [SP] M. Cine	00`05alive00`05b127676.m3u8
 [SP] M.ESTRENOS 2 HD	00`05alive00`05b164749.m3u8
 [SP] M. ACCION	00`05alive00`05b127677.m3u8
@@ -1480,7 +1480,7 @@ SHAHID Soad Hosny سعاد حسني	00`05alive00`05b447258.m3u8
 [SP] M.RESISTENCIA HD	00`05alive00`05b164752.m3u8
 [SP] MOVISTAR BOM CINE	00`05alive00`05b182510.m3u8
 [SP] SOMOS HD	00`05alive00`05b164753.m3u8
------] CINE ESPANOL 4K [-----	http://promo.sansat.biz:25461/images/promo/promo.mkv
+-----] CINE ESPANOL 4K [-----	http://a.b/c.m3u8
 [SP-4K] M. Cine	00`05alive00`05b127687.m3u8
 [SP-4K] M. ACCION	00`05alive00`05b127688.m3u8
 [SP-4K] M. COMEDIA	00`05alive00`05b127689.m3u8
@@ -1491,7 +1491,7 @@ SHAHID Soad Hosny سعاد حسني	00`05alive00`05b447258.m3u8
 [SP-4K] TNT	00`05alive00`05b127695.m3u8
 [SP-4K] PARAMOUNT CHANNEL	00`05alive00`05b127696.m3u8
 [SP-4K] SOMOS HD	00`05alive00`05b164750.m3u8
------] NINOS ESPAÑOL [-----	http://promo.sansat.biz:25461/images/promo/promo.mkv
+-----] NINOS ESPAÑOL [-----	http://a.b/c.m3u8
 [ES] M. DISNEY	00`05alive00`05b127780.m3u8
 [ES] BOING	00`05alive00`05b127781.m3u8
 [ES] CANAL PANDA	00`05alive00`05b127782.m3u8
@@ -1501,7 +1501,7 @@ SHAHID Soad Hosny سعاد حسني	00`05alive00`05b447258.m3u8
 [ES] NICKELODEON	00`05alive00`05b127787.m3u8
 [ES] NICK JR	00`05alive00`05b127788.m3u8
 [ES] DREAMWORKS	00`05alive00`05b127790.m3u8
------] NINOS ESPAÑOL 4K [-----	http://promo.sansat.biz:25461/images/promo/promo.mkv
+-----] NINOS ESPAÑOL 4K [-----	http://a.b/c.m3u8
 [ES-4K] BABY TV 	00`05alive00`05b127792.m3u8
 [ES-4K] BOING 	00`05alive00`05b127793.m3u8
 [ES-4K] CANAL PANDA 	00`05alive00`05b127794.m3u8
@@ -1510,14 +1510,14 @@ SHAHID Soad Hosny سعاد حسني	00`05alive00`05b447258.m3u8
 [ES-4K] DREAMWORKS	00`05alive00`05b127797.m3u8
 [ES-4K] NICK JR 	00`05alive00`05b127798.m3u8
 [ES-4K] NICKELODEON	00`05alive00`05b127800.m3u8
------] MUSICA ESPAÑOL [-----	http://promo.sansat.biz:25461/images/promo/promo.mkv
+-----] MUSICA ESPAÑOL [-----	http://a.b/c.m3u8
 [ES] MTV	00`05alive00`05b127802.m3u8
 [ES] MTV ESPANA	00`05alive00`05b127803.m3u8
 [ES] MEZZO	00`05alive00`05b127804.m3u8
 [ES] MEZZO LIVE	00`05alive00`05b127805.m3u8
 [ES] LA VOZ KIDS ESPAÑA	00`05alive00`05b127806.m3u8
 [ES] VH1	00`05alive00`05b127807.m3u8
------] MUSICA ESPAÑOL 4K [-----	http://promo.sansat.biz:25461/images/promo/promo.mkv
+-----] MUSICA ESPAÑOL 4K [-----	http://a.b/c.m3u8
 [ES-4K] MTV	00`05alive00`05b127809.m3u8
 [ES-4K] MTV ESPANA	00`05alive00`05b127810.m3u8
 [ES-4K] MEZZO	00`05alive00`05b127811.m3u8
@@ -1573,7 +1573,7 @@ LALIGA HYPERMOTION 2 FHD	00`05alive00`05b195487.m3u8
 [SP] FEF TV 18	00`05alive00`05b391742.m3u8
 [SP] FEF TV 19	00`05alive00`05b391743.m3u8
 [SP] FEF TV 20	00`05alive00`05b391744.m3u8
------] DEPORTES ESPANOL 4K [-----	http://promo.sansat.biz:25461/images/promo/promo.mkv
+-----] DEPORTES ESPANOL 4K [-----	http://a.b/c.m3u8
 [SP-4K] DAZN LALIGA	00`05alive00`05b195455.m3u8
 [SP-4K] DAZN LALIGA 2	00`05alive00`05b195456.m3u8
 [SP-4K] DAZN 1	00`05alive00`05b127832.m3u8
@@ -1598,7 +1598,7 @@ LALIGA HYPERMOTION 2 FHD	00`05alive00`05b195487.m3u8
 [SP] M+ SUSPENSE 4K	00`05alive00`05b388939.m3u8
 [SP] M+ ORIGINALES 4K	00`05alive00`05b388940.m3u8
 [SP] ONETORO 4K	00`05alive00`05b610935.m3u8
------] DEPORTES ESPAÑOL (SOLO PARTIDO) [-----	http://promo.sansat.biz:25461/images/promo/promo.mkv
+-----] DEPORTES ESPAÑOL (SOLO PARTIDO) [-----	http://a.b/c.m3u8
 [SP] M. LALIGA	00`05alive00`05b127849.m3u8
 [SP] M. LALIGA TV BAR	00`05alive00`05b169503.m3u8
 [SP] M. LALIGA 1	00`05alive00`05b127850.m3u8
@@ -1629,7 +1629,7 @@ LALIGA HYPERMOTION 2 FHD	00`05alive00`05b195487.m3u8
 [SP] M.LCAMPEONES 10	00`05alive00`05b169500.m3u8
 [SP] M.LCAMPEONES 11	00`05alive00`05b169501.m3u8
 [SP] M.LCAMPEONES 12	00`05alive00`05b169502.m3u8
------] DEPORTES ESPAÑOL (SOLO PARTIDO) 4K [-----	http://promo.sansat.biz:25461/images/promo/promo.mkv
+-----] DEPORTES ESPAÑOL (SOLO PARTIDO) 4K [-----	http://a.b/c.m3u8
 [SP-4K] M. LALIGA	00`05alive00`05b127876.m3u8
 [SP-4K] M. LALIGA 1	00`05alive00`05b127877.m3u8
 [SP-4K] M. LALIGA 2	00`05alive00`05b127878.m3u8
@@ -1647,7 +1647,7 @@ LALIGA HYPERMOTION 2 FHD	00`05alive00`05b195487.m3u8
 [SP-4K] M. DEPORTES 5	00`05alive00`05b127890.m3u8
 [SP-4K] M. DEPORTES 6	00`05alive00`05b127891.m3u8
 [SP-4K] M. DEPORTES 7	00`05alive00`05b127892.m3u8
-===== ITALIA GENERAL =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== ITALIA GENERAL =====	http://a.b/c.m3u8
 [IT] RAI1 HD	00`05alive00`05b56133.m3u8
 [IT] RAI2 HD	00`05alive00`05b56134.m3u8
 [IT] RAI3 HD	00`05alive00`05b56135.m3u8
@@ -1677,7 +1677,7 @@ LALIGA HYPERMOTION 2 FHD	00`05alive00`05b195487.m3u8
 [IT] FOCUS	00`05alive00`05b56161.m3u8
 [IT] TGCOM24	00`05alive00`05b56163.m3u8
 [IT] SKY TG 24 HD	00`05alive00`05b56167.m3u8
-===== ITALIA MOVIES =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== ITALIA MOVIES =====	http://a.b/c.m3u8
 [IT] SKY CINEMA UNO HD	00`05alive00`05b56169.m3u8
 [IT] SKY CINEMA DUE HD	00`05alive00`05b56170.m3u8
 [IT] SKY CINEMA FAMILY HD	00`05alive00`05b56171.m3u8
@@ -1703,7 +1703,7 @@ LALIGA HYPERMOTION 2 FHD	00`05alive00`05b195487.m3u8
 [IT] SKY PRIMAFILA 8	00`05alive00`05b56210.m3u8
 [IT] SKY PRIMAFILA 9	00`05alive00`05b56211.m3u8
 [IT] SKY PRIMAFILA 10	00`05alive00`05b56212.m3u8
-===== ITALIA KIDS =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== ITALIA KIDS =====	http://a.b/c.m3u8
 [IT] BOING	00`05alive00`05b56216.m3u8
 [IT] CARTONITO	00`05alive00`05b56217.m3u8
 [IT] CARTOON NETWORK	00`05alive00`05b56218.m3u8
@@ -1714,7 +1714,7 @@ LALIGA HYPERMOTION 2 FHD	00`05alive00`05b195487.m3u8
 [IT] SUPER	00`05alive00`05b56225.m3u8
 [IT] K2	00`05alive00`05b56226.m3u8
 [IT] FRISBEE	00`05alive00`05b56227.m3u8
-===== ITALIA SPORT =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== ITALIA SPORT =====	http://a.b/c.m3u8
 [IT] SKY SPORT 24 HD	00`05alive00`05b56229.m3u8
 [IT] SKY SPORT UNO HD	00`05alive00`05b56230.m3u8
 [IT] SKY SPORT FOOTBALL HD	00`05alive00`05b56231.m3u8
@@ -1738,7 +1738,7 @@ LALIGA HYPERMOTION 2 FHD	00`05alive00`05b195487.m3u8
 [IT] MILAN CHANNEL	00`05alive00`05b56257.m3u8
 [IT] INTER CHANNEL	00`05alive00`05b67314.m3u8
 [IT] ELEVEN LIVE UHD [ONLY LIVE EVENTS[	00`05alive00`05b217970.m3u8
-===== ITALIA DAZN =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== ITALIA DAZN =====	http://a.b/c.m3u8
 [IT] DAZN BAR 1 HD	00`05alive00`05b193102.m3u8
 [IT] DAZN BAR 2 HD	00`05alive00`05b193103.m3u8
 [IT] DAZN ZONA DAZN FHD	00`05alive00`05b217528.m3u8
@@ -1749,7 +1749,7 @@ LALIGA HYPERMOTION 2 FHD	00`05alive00`05b195487.m3u8
 [IT] DAZN SERIE A2 FHD	00`05alive00`05b217534.m3u8
 [IT] DAZN SERIE A2 HD	00`05alive00`05b217535.m3u8
 [IT] DAZN SERIE A3 FHD	00`05alive00`05b217537.m3u8
-===== ITALIA DOCUMANTARY =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== ITALIA DOCUMANTARY =====	http://a.b/c.m3u8
 [IT] NATIONAL GEO HD	00`05alive00`05b143691.m3u8
 [IT] NATIONAL GEO WILD HD	00`05alive00`05b143692.m3u8
 [IT] DISCOVERY HD	00`05alive00`05b143694.m3u8
@@ -1759,13 +1759,13 @@ LALIGA HYPERMOTION 2 FHD	00`05alive00`05b195487.m3u8
 [IT] CACCIA E PESCA	00`05alive00`05b143700.m3u8
 [IT] PESCA E CACCIA	00`05alive00`05b143701.m3u8
 [IT] RAI STORIA HD	00`05alive00`05b143702.m3u8
-===== ITALIA NEWS =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== ITALIA NEWS =====	http://a.b/c.m3u8
 [IT] RAI NEWS 24 HD	00`05alive00`05b143704.m3u8
-===== ITALIA MUSIC =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== ITALIA MUSIC =====	http://a.b/c.m3u8
 [IT] RTL 102.5	00`05alive00`05b143707.m3u8
 [IT] RAI GULP	00`05alive00`05b156948.m3u8
-===== EAGLE =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
-[IT] ===== RAKUTEN =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== EAGLE =====	http://a.b/c.m3u8
+[IT] ===== RAKUTEN =====	http://a.b/c.m3u8
 [IT] RAKUTEN COMEDY MOVIES ITALY	00`05alive00`05b194240.m3u8
 [IT] RAKUTEN TV SHOWS ITALY	00`05alive00`05b194241.m3u8
 [IT] RAKUTEN TOP FREE ITALY	00`05alive00`05b194243.m3u8
@@ -1782,7 +1782,7 @@ LALIGA HYPERMOTION 2 FHD	00`05alive00`05b195487.m3u8
 [IT] PRIME VIDEO 10 HD	00`05alive00`05b195414.m3u8
 [IT] PRIME VIDEO 11 HD	00`05alive00`05b195415.m3u8
 [IT] PRIME VIDEO 12 HD	00`05alive00`05b195416.m3u8
-===== ITALIA SPORT =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== ITALIA SPORT =====	http://a.b/c.m3u8
 [IT] RAI SPORT UHD	00`05alive00`05b193086.m3u8
 [IT] MOTOR TREND UHD	00`05alive00`05b193087.m3u8
 [IT] SUPER TENNIS UHD	00`05alive00`05b193088.m3u8
@@ -1841,7 +1841,7 @@ LALIGA HYPERMOTION 2 FHD	00`05alive00`05b195487.m3u8
 [IT] ELEVEN LIVE UHD [ONLY LIVE EVENTS[	00`05alive00`05b193144.m3u8
 [IT] ELEVEN SPORTS CALCIO INTERNAZIONALE 1 UHD [ONLY LIVE EVENTS[	00`05alive00`05b193145.m3u8
 [IT] ELEVEN SPORTS CALCIO INTERNAZIONALE 2 UHD [ONLY LIVE EVENTS[	00`05alive00`05b193146.m3u8
-===== NEDERLAND =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== NEDERLAND =====	http://a.b/c.m3u8
 [NL] NPO 1 HD	00`05alive00`05b56431.m3u8
 [NL] NPO 2 HD	00`05alive00`05b56432.m3u8
 [NL] NPO 3 HD	00`05alive00`05b56433.m3u8
@@ -1861,7 +1861,7 @@ LALIGA HYPERMOTION 2 FHD	00`05alive00`05b195487.m3u8
 [NL] COMEDY CENTRAL EXTRA	00`05alive00`05b56449.m3u8
 [NL] SPIKE HD	00`05alive00`05b56450.m3u8
 [NL] FOX HD	00`05alive00`05b56451.m3u8
-===== KINDEREN =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== KINDEREN =====	http://a.b/c.m3u8
 [NL] NICKTOONS	00`05alive00`05b56455.m3u8
 [NL] KETNET	00`05alive00`05b56456.m3u8
 [NL] DISNEY XD	00`05alive00`05b56457.m3u8
@@ -1872,7 +1872,7 @@ LALIGA HYPERMOTION 2 FHD	00`05alive00`05b195487.m3u8
 [NL] RTL TELEKIDS HD	00`05alive00`05b56462.m3u8
 [NL] NICK JUNIOR	00`05alive00`05b56463.m3u8
 [NL] BABY TV	00`05alive00`05b56464.m3u8
-===== MUZIEK =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== MUZIEK =====	http://a.b/c.m3u8
 [NL] 192 TV	00`05alive00`05b56474.m3u8
 [NL] MTV HD	00`05alive00`05b56475.m3u8
 [NL] MTV LIVE HD	00`05alive00`05b56477.m3u8
@@ -1882,12 +1882,12 @@ LALIGA HYPERMOTION 2 FHD	00`05alive00`05b195487.m3u8
 [NL] NICK MUSIC	00`05alive00`05b56482.m3u8
 NL: TV ORANJE	00`05alive00`05b56483.m3u8
 [NL] 100% NL TV	00`05alive00`05b56485.m3u8
-===== FILMS EN SERIES =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== FILMS EN SERIES =====	http://a.b/c.m3u8
 [NL] FILM 1 ACTION HD	00`05alive00`05b56491.m3u8
 [NL] FILM 1 PREMIERE HD	00`05alive00`05b56492.m3u8
 [NL] FILM 1 DRAMA HD	00`05alive00`05b56493.m3u8
 [NL] FILM 1 FAMILY HD	00`05alive00`05b56494.m3u8
-===== ENTERTAINMENT =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== ENTERTAINMENT =====	http://a.b/c.m3u8
 [NL] RTL LOUNGE HD	00`05alive00`05b56501.m3u8
 [NL] RTL CRIME HD	00`05alive00`05b56502.m3u8
 [NL] CRIME INVESTIGATION	00`05alive00`05b56503.m3u8
@@ -1898,7 +1898,7 @@ NL: TV ORANJE	00`05alive00`05b56483.m3u8
 [NL] ONS	00`05alive00`05b56509.m3u8
 [NL] OUT TV HD	00`05alive00`05b56510.m3u8
 [NL] FAMILY 7 KIDS	00`05alive00`05b56511.m3u8
-===== NATUUR =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== NATUUR =====	http://a.b/c.m3u8
 [NL] NGC HD	00`05alive00`05b56513.m3u8
 [NL] NGC WILD HD	00`05alive00`05b56514.m3u8
 [NL] ANIMAL PLANET HD	00`05alive00`05b56515.m3u8
@@ -1909,7 +1909,7 @@ NL: TV ORANJE	00`05alive00`05b56483.m3u8
 [NL] LOVE NATURE HD	00`05alive00`05b167242.m3u8
 [NL] HISTORY HD	00`05alive00`05b56520.m3u8
 [NL] HORSE AND COUNTRY TV HD	00`05alive00`05b56521.m3u8
-===== NL SPORT =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== NL SPORT =====	http://a.b/c.m3u8
 [NL] ZIGGO SPORT HD	00`05alive00`05b56529.m3u8
 [NL] ZIGGO SPORT VOETBAL HD	00`05alive00`05b56530.m3u8
 [NL] ZIGGO SPORT SELECT HD	00`05alive00`05b56531.m3u8
@@ -1926,7 +1926,7 @@ NL: TV ORANJE	00`05alive00`05b56483.m3u8
 [NL] ESPN 2 HD	00`05alive00`05b167267.m3u8
 [NL] ESPN 3 HD	00`05alive00`05b167268.m3u8
 [NL] ESPN 4 HD	00`05alive00`05b167269.m3u8
-===== NL REGIONALE =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== NL REGIONALE =====	http://a.b/c.m3u8
 [NL] AT 5	00`05alive00`05b56545.m3u8
 [NL] RTV UTRECHT	00`05alive00`05b56546.m3u8
 [NL] L1 LIMBURG TV	00`05alive00`05b56547.m3u8
@@ -1940,7 +1940,7 @@ NL: TV ORANJE	00`05alive00`05b56483.m3u8
 [NL] OMROEP BRABANT	00`05alive00`05b56556.m3u8
 [NL] OMROEP ZEELAND	00`05alive00`05b56557.m3u8
 [NL] OMROEP FRYSLAND	00`05alive00`05b56558.m3u8
-===== NL BUITENLANDSE =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== NL BUITENLANDSE =====	http://a.b/c.m3u8
 [NL] RTV-7	00`05alive00`05b56560.m3u8
 [NL] ARD HD	00`05alive00`05b56568.m3u8
 [NL] BBC FIRST HD	00`05alive00`05b56569.m3u8
@@ -1949,8 +1949,8 @@ NL: TV ORANJE	00`05alive00`05b56483.m3u8
 [CURACA] NO SPAIS TV	00`05alive00`05b56563.m3u8
 [CURACAO] DC TV	00`05alive00`05b56564.m3u8
 [ARUBA] TELE ARUBA	00`05alive00`05b56565.m3u8
-===== NL: RADIO =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
-===== NEDERLAND 4K =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== NL: RADIO =====	http://a.b/c.m3u8
+===== NEDERLAND 4K =====	http://a.b/c.m3u8
 NL-4k: NPO 1 HD	00`05alive00`05b101171.m3u8
 NL-4k: NPO 2 HD	00`05alive00`05b101172.m3u8
 NL-4k: NPO 3 HD	00`05alive00`05b101173.m3u8
@@ -1965,13 +1965,13 @@ NL-4k: VERONICA HD / DISNEY XD	00`05alive00`05b101181.m3u8
 NL-4k: RTL Z HD	00`05alive00`05b101182.m3u8
 NL-4k: FOX HD	00`05alive00`05b101183.m3u8
 NL-4k: COMEDY CENTRAL HD	00`05alive00`05b101188.m3u8
-===== NL-4K FILMS EN SERIES =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== NL-4K FILMS EN SERIES =====	http://a.b/c.m3u8
 NL-4k: FILM1 PREMIERE HD	00`05alive00`05b101222.m3u8
 NL-4k: FILM1 ACTION HD	00`05alive00`05b101223.m3u8
 NL-4k: FILM1 DRAMA HD	00`05alive00`05b101224.m3u8
 NL-4k: FILM1 FAMILY HD	00`05alive00`05b101225.m3u8
 NL-4k: FILMBOX 4K	00`05alive00`05b101228.m3u8
-===== NL-4K ENTERTAINMENT =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== NL-4K ENTERTAINMENT =====	http://a.b/c.m3u8
 NL-4k: RTL LOUNGE HD	00`05alive00`05b101232.m3u8
 NL-4k: RTL CRIME HD	00`05alive00`05b101233.m3u8
 NL-4k: CRIME INVESTIGATION	00`05alive00`05b101234.m3u8
@@ -1979,7 +1979,7 @@ NL-4k: E! HD	00`05alive00`05b101235.m3u8
 NL-4k: TLC HD	00`05alive00`05b101236.m3u8
 NL-4k: 24 KITCHEN HD	00`05alive00`05b101238.m3u8
 NL-4k: AT5 4K	00`05alive00`05b613268.m3u8
-===== NL-4K NATUUR =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== NL-4K NATUUR =====	http://a.b/c.m3u8
 NL-4k: NGC HD	00`05alive00`05b101242.m3u8
 NL-4k: NGC WILD HD	00`05alive00`05b101243.m3u8
 NL-4k: ANIMAL PLANET HD	00`05alive00`05b101244.m3u8
@@ -1987,7 +1987,7 @@ NL-4k: DISCOVERY HD	00`05alive00`05b101245.m3u8
 NL-4k: DISCOVERY SCIENCE HD	00`05alive00`05b101247.m3u8
 NL-4k: DISCOVERY ID HD	00`05alive00`05b101248.m3u8
 NL-4k: HISTORY HD	00`05alive00`05b101249.m3u8
-===== SPORT 4K =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== SPORT 4K =====	http://a.b/c.m3u8
 NL-4k: ESPN 1	00`05alive00`05b101252.m3u8
 NL-4k: ESPN 2	00`05alive00`05b101253.m3u8
 NL-4k: ESPN 3	00`05alive00`05b101254.m3u8
@@ -2249,7 +2249,7 @@ CH: TELECLUB ZOOM HD	00`05alive00`05b94483.m3u8
 [CH] Blue Sport Event 2 FHD	00`05alive00`05b400723.m3u8
 [CH] BLUE SPORT 1 HD	00`05alive00`05b400724.m3u8
 [CH] BLUE SPORT 2 HD	00`05alive00`05b400725.m3u8
-===== GERMANY =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== GERMANY =====	http://a.b/c.m3u8
 [DE] DAS ERSTE HD (ARD)	00`05alive00`05b55674.m3u8
 [DE] DAS ERSTE (ARD)	00`05alive00`05b55675.m3u8
 [DE] ARTE HD	00`05alive00`05b55676.m3u8
@@ -2278,7 +2278,7 @@ CH: TELECLUB ZOOM HD	00`05alive00`05b94483.m3u8
 [DE] ANIXE HD	00`05alive00`05b55699.m3u8
 [DE] DMAX HD	00`05alive00`05b55700.m3u8
 [DE] ONE 1 HD	00`05alive00`05b55701.m3u8
-===== SPORT =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== SPORT =====	http://a.b/c.m3u8
 [DE] SKY SPORT NEWS HD	00`05alive00`05b55703.m3u8
 [DE] SKY SPORT F1	00`05alive00`05b124231.m3u8
 [DE] SKY SPORT 1	00`05alive00`05b55704.m3u8
@@ -2352,7 +2352,7 @@ DE: RTL+ SPORT 3 (Event Only)	00`05alive00`05b202831.m3u8
 DE: RTL+ SPORT 4 (Event Only)	00`05alive00`05b202832.m3u8
 DE: RTL+ SPORT 5 (Event Only)	00`05alive00`05b202833.m3u8
 DE: RTL+ SPORT 6 (Event Only)	00`05alive00`05b202834.m3u8
-===== MAGENTA =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== MAGENTA =====	http://a.b/c.m3u8
 [DE] MAGENTA SPORT 1(EVENT ONLY) 	00`05alive00`05b230014.m3u8
 [DE] MAGENTA SPORT 2(EVENT ONLY) 	00`05alive00`05b230015.m3u8
 [DE] MAGENTA SPORT 3(EVENT ONLY) 	00`05alive00`05b230016.m3u8
@@ -2369,11 +2369,11 @@ DE: RTL+ SPORT 6 (Event Only)	00`05alive00`05b202834.m3u8
 [DE] MAGENTA SPORT 14(EVENT ONLY) 	00`05alive00`05b230027.m3u8
 [DE] MAGENTA SPORT 15(EVENT ONLY) 	00`05alive00`05b230028.m3u8
 [DE] MAGENTA SPORT 16(EVENT ONLY) 	00`05alive00`05b230029.m3u8
-===== MUSIK =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== MUSIK =====	http://a.b/c.m3u8
 [DE] JUKEBOX	00`05alive00`05b55726.m3u8
 [DE] CLASSICA	00`05alive00`05b55727.m3u8
 [DE] MTV HD	00`05alive00`05b55728.m3u8
-===== DOKUMENTAR =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== DOKUMENTAR =====	http://a.b/c.m3u8
 [DE] DISCOVERY HD	00`05alive00`05b55730.m3u8
 [DE] SKY NATURE	00`05alive00`05b193066.m3u8
 [DE] HISTORY HD	00`05alive00`05b55732.m3u8
@@ -2386,7 +2386,7 @@ DE: RTL+ SPORT 6 (Event Only)	00`05alive00`05b202834.m3u8
 [DE] GEO TV HD	00`05alive00`05b194737.m3u8
 [DE] ANIMAL PLANET HD	00`05alive00`05b194736.m3u8
 [DE] SKY DOCUMENTARIES HD	00`05alive00`05b194735.m3u8
-===== REGIONALEN =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== REGIONALEN =====	http://a.b/c.m3u8
 [DE] HSE24 HD	00`05alive00`05b55742.m3u8
 [DE] NITRO	00`05alive00`05b55750.m3u8
 [DE] QVC HD	00`05alive00`05b55752.m3u8
@@ -2398,7 +2398,7 @@ DE: RTL+ SPORT 6 (Event Only)	00`05alive00`05b202834.m3u8
 [DE] WDR HD BONN	00`05alive00`05b55760.m3u8
 [DE] WDR HD DUISBURG	00`05alive00`05b55761.m3u8
 [DE] WDR HD WUPPERTAL	00`05alive00`05b55762.m3u8
-===== JUGEND =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== JUGEND =====	http://a.b/c.m3u8
 [DE] BOOMERANG	00`05alive00`05b55764.m3u8
 [DE] SUPER RTL	00`05alive00`05b55765.m3u8
 [DE] CARTOON NETWORK	00`05alive00`05b55766.m3u8
@@ -2406,13 +2406,13 @@ DE: RTL+ SPORT 6 (Event Only)	00`05alive00`05b202834.m3u8
 [DE] KIKA	00`05alive00`05b55768.m3u8
 [DE] DISNEY CINEMAGIC HD	00`05alive00`05b55769.m3u8
 [DE] COMEDY CENTRAL	00`05alive00`05b55771.m3u8
-===== NACHRICHTEN =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== NACHRICHTEN =====	http://a.b/c.m3u8
 [DE] N-TV	00`05alive00`05b55774.m3u8
 [DE] N-TV HD	00`05alive00`05b55775.m3u8
 [DE] EURONEWS FRENCH	00`05alive00`05b55777.m3u8
 [DE] EURONEWS GERMAN	00`05alive00`05b55778.m3u8
 [DE] WELT HD	00`05alive00`05b55779.m3u8
-===== UNTERHALTUNG =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== UNTERHALTUNG =====	http://a.b/c.m3u8
 [DE] SYFY HD	00`05alive00`05b55781.m3u8
 [DE] 13TH STREET HD	00`05alive00`05b55784.m3u8
 [DE] HEIMATKANAL	00`05alive00`05b55785.m3u8
@@ -2420,7 +2420,7 @@ DE: RTL+ SPORT 6 (Event Only)	00`05alive00`05b202834.m3u8
 [DE] RTL CRIME HD	00`05alive00`05b55787.m3u8
 [DE] RTL PASSION HD	00`05alive00`05b55788.m3u8
 [DE] ROMANCE TV	00`05alive00`05b55789.m3u8
-===== KINO HD =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== KINO HD =====	http://a.b/c.m3u8
 [DE] SKY CINEMA PREMIEREN  24 HD	00`05alive00`05b55793.m3u8
 [DE] SKY ATLANTIC HD	00`05alive00`05b55794.m3u8
 [DE] SKY CINEMA CLASSIC	00`05alive00`05b55795.m3u8
@@ -2444,7 +2444,7 @@ DE: RTL+ SPORT 6 (Event Only)	00`05alive00`05b202834.m3u8
 [DE] UNIVERSAL CHANNEL HD	00`05alive00`05b55811.m3u8
 [DE] SONY TV FHD	00`05alive00`05b193553.m3u8
 [DE-4K] SONY AXN	00`05alive00`05b193552.m3u8
-===== SKY SELECT =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== SKY SELECT =====	http://a.b/c.m3u8
 [DE] SKY SELECT 1 HD	00`05alive00`05b55814.m3u8
 [DE] SKY SELECT 2 HD	00`05alive00`05b55815.m3u8
 [DE] SKY SELECT 3 HD	00`05alive00`05b55816.m3u8
@@ -2461,13 +2461,13 @@ DE: RTL+ SPORT 6 (Event Only)	00`05alive00`05b202834.m3u8
 [DE] SKY POPCORN SELECT 4 HD	00`05alive00`05b118083.m3u8
 [DE] SKY POPCORN SELECT 5 HD	00`05alive00`05b118084.m3u8
 [DE] SKY POPCORN SELECT 6 HD	00`05alive00`05b118085.m3u8
-===== EAGLE =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== EAGLE =====	http://a.b/c.m3u8
 [DE] RAKUTEN REVRY	00`05alive00`05b193047.m3u8
 [DE] RAKUTEN TOP FREE	00`05alive00`05b193046.m3u8
 [DE] RAKUTEN TV SHOWS	00`05alive00`05b193045.m3u8
 [DE] RAKUTEN ACTION MOVIES	00`05alive00`05b193044.m3u8
 [DE] RAKUTEN COMEDY MOVIES	00`05alive00`05b193043.m3u8
-===== GERMANY 4K ===== 	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== GERMANY 4K ===== 	http://a.b/c.m3u8
 DE-4K: DAS ERSTE HD	00`05alive00`05b116362.m3u8
 DE-4K: DAS ERSTE	00`05alive00`05b116363.m3u8
 DE-4K: ARTE HD	00`05alive00`05b116364.m3u8
@@ -2492,7 +2492,7 @@ DE-4K: KABEL EINS HD	00`05alive00`05b116386.m3u8
 DE-4K: TELE 5 HD	00`05alive00`05b116387.m3u8
 DE-4K: ANIXE HD	00`05alive00`05b116388.m3u8
 DE-4K: DMAX HD	00`05alive00`05b116389.m3u8
-===== SPORT =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== SPORT =====	http://a.b/c.m3u8
 DE-4K: SKY SPORT NEWS HD	00`05alive00`05b116391.m3u8
 DE-4K: SKY SPORT F1	00`05alive00`05b193049.m3u8
 DE-4K: SKY SPORT 1 HD	00`05alive00`05b116393.m3u8
@@ -2524,12 +2524,12 @@ DE-4K: RTL+ SPORT 3 HD (Event Only)	00`05alive00`05b202841.m3u8
 DE-4K: RTL+ SPORT 4 HD (Event Only)	00`05alive00`05b202842.m3u8
 DE-4K: RTL+ SPORT 5 HD (Event Only)	00`05alive00`05b202843.m3u8
 DE-4K: RTL+ SPORT 6 HD (Event Only)	00`05alive00`05b202844.m3u8
-===== MUSIK =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== MUSIK =====	http://a.b/c.m3u8
 DE-4K: JUKEBOX	00`05alive00`05b116414.m3u8
 DE-4K: CLASSICA	00`05alive00`05b116415.m3u8
 DE-4K: MTV HD	00`05alive00`05b116416.m3u8
 DE-4K: DELUXE MUSIC HD	00`05alive00`05b116417.m3u8
-===== DOKUMENTAR =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== DOKUMENTAR =====	http://a.b/c.m3u8
 DE-4K: SKY NATURE	00`05alive00`05b193042.m3u8
 DE-4K: SKY REPLAY	00`05alive00`05b193041.m3u8
 DE-4K: DISCOVERY HD	00`05alive00`05b116419.m3u8
@@ -2541,14 +2541,14 @@ DE-4K: SPIEGEL GESCHICHTE HD	00`05alive00`05b116426.m3u8
 DE-4K: TLC HD	00`05alive00`05b116425.m3u8
 DE-4K: ANIMAL PLANET HD	00`05alive00`05b194740.m3u8
 DE-4K: SKY DOCUMENTARIES HD	00`05alive00`05b194739.m3u8
-===== REGIONALEN =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== REGIONALEN =====	http://a.b/c.m3u8
 DE-4K: NDR FS SH HD	00`05alive00`05b116438.m3u8
 DE-4K: NITRO	00`05alive00`05b116439.m3u8
 DE-4K: RBB BERLIN HD	00`05alive00`05b116443.m3u8
 DE-4K: SWR FERNSEHEN BW	00`05alive00`05b116446.m3u8
 DE-4K: WDR HD BONN	00`05alive00`05b116448.m3u8
 DE-4K: WDR HD WUPPERTAL	00`05alive00`05b116450.m3u8
-===== JUGEND =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== JUGEND =====	http://a.b/c.m3u8
 DE-4K: BOOMERANG	00`05alive00`05b116452.m3u8
 DE-4K: SUPER RTL	00`05alive00`05b116453.m3u8
 DE-4K: CARTOON NETWORK	00`05alive00`05b116454.m3u8
@@ -2557,20 +2557,20 @@ DE-4K: KIKA	00`05alive00`05b116456.m3u8
 DE-4K: DISNEY CINEMAGIC HD	00`05alive00`05b116457.m3u8
 DE-4K: COMEDY CENTRAL HD	00`05alive00`05b116458.m3u8
 DE-4K: NICK+ /MTV	00`05alive00`05b116459.m3u8
-===== NACHRICHTEN =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== NACHRICHTEN =====	http://a.b/c.m3u8
 DE-4K: N-TV	00`05alive00`05b116461.m3u8
 DE-4K: N-TV HD	00`05alive00`05b116462.m3u8
 DE-4K: EURONEWS FRENCH	00`05alive00`05b116463.m3u8
 DE-4K: EURONEWS GERMAN	00`05alive00`05b116464.m3u8
 DE-4K: WELT HD	00`05alive00`05b116465.m3u8
-===== UNTERHALTUNG =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== UNTERHALTUNG =====	http://a.b/c.m3u8
 DE-4K: SYFY HD	00`05alive00`05b116467.m3u8
 DE-4K: TNT SERIE HD	00`05alive00`05b116468.m3u8
 DE-4K: 13TH STREET HD	00`05alive00`05b116470.m3u8
 DE-4K: HEIMATKANAL	00`05alive00`05b116471.m3u8
 DE-4K: KINOWELT TV	00`05alive00`05b116472.m3u8
 DE-4K: ROMANCE TV	00`05alive00`05b116473.m3u8
-===== KINO HD =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== KINO HD =====	http://a.b/c.m3u8
 DE-4K: SKY CINEMA CLASSIC	00`05alive00`05b116477.m3u8
 DE-4K: SKY CINEMA 24 4K	00`05alive00`05b116478.m3u8
 DE-4K: SKY CINEMA ACTION HD	00`05alive00`05b116480.m3u8
@@ -2587,12 +2587,12 @@ DE-4K: SKY ONE HD	00`05alive00`05b116491.m3u8
 DE-4K: TNT COMEDY HD	00`05alive00`05b116492.m3u8
 DE-4K: SKY CINEMA THRILLER HD	00`05alive00`05b116493.m3u8
 DE-4K: TNT FILM HD	00`05alive00`05b116494.m3u8
-===== SKY SELECT =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== SKY SELECT =====	http://a.b/c.m3u8
 DE-4K: ONE 1	00`05alive00`05b116496.m3u8
 DE-4K: KABEL EINS CLASSICS HD	00`05alive00`05b116498.m3u8
 DE-4K: SKY CINEMA SPECIAL HD	00`05alive00`05b116499.m3u8
 DE-4K: BR FERNSEHEN SUD HD	00`05alive00`05b116501.m3u8
-===== AUSTRIA =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== AUSTRIA =====	http://a.b/c.m3u8
 AT: ATV HD	00`05alive00`05b94499.m3u8
 AT: ATV 2	00`05alive00`05b94500.m3u8
 AT: ORF 1 HD	00`05alive00`05b94501.m3u8
@@ -2621,7 +2621,7 @@ AT: SKY SPORT AUSTRIA 4 HD	00`05alive00`05b94514.m3u8
 AT: SKY SPORT AUSTRIA 7 HD (LIVE DURING EVENT ONLY)	00`05alive00`05b211504.m3u8
 AT: SKY SPORT AUSTRIA 6 HD (LIVE DURING EVENT ONLY)	00`05alive00`05b211503.m3u8
 AT: SKY SPORT AUSTRIA 5 HD (LIVE DURING EVENT ONLY)	00`05alive00`05b211502.m3u8
-===== AUSTRIA 4K =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== AUSTRIA 4K =====	http://a.b/c.m3u8
 AT UHD: ATV HD	00`05alive00`05b94517.m3u8
 AT UHD: ATV2	00`05alive00`05b94518.m3u8
 AT UHD: ORF1 HD	00`05alive00`05b94519.m3u8
@@ -2641,7 +2641,7 @@ AT UHD: Sky Sport Austria 4 FHD	00`05alive00`05b211508.m3u8
 AT UHD: Sky Sport Austria 5 FHD	00`05alive00`05b211509.m3u8
 AT UHD: Sky Sport Austria 6 FHD	00`05alive00`05b211510.m3u8
 AT UHD: Sky Sport Austria 7 FHD	00`05alive00`05b211511.m3u8
-===== UK-4K: DOCUMENTARY =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== UK-4K: DOCUMENTARY =====	http://a.b/c.m3u8
 UK-4K: SYFY	00`05alive00`05b102134.m3u8
 UK-4K: SMITHSONIAN CHANNEL	00`05alive00`05b102135.m3u8
 UK-4K: PARAMOUNT NETWORK	00`05alive00`05b102136.m3u8
@@ -2652,7 +2652,7 @@ UK-4K: ANIMAL PLANET	00`05alive00`05b102141.m3u8
 UK-4K: NAT GEO WILD	00`05alive00`05b102142.m3u8
 UK-4K: NAT GEO	00`05alive00`05b102143.m3u8
 UK-4K: DISCOVERY	00`05alive00`05b102144.m3u8
-===== UK-SD: DOCUMENTARY =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== UK-SD: DOCUMENTARY =====	http://a.b/c.m3u8
 UK-SD: DISCOVERY	00`05alive00`05b102146.m3u8
 UK-SD: DISCOVERY HISTORY	00`05alive00`05b102147.m3u8
 UK-SD: DISCOVERY SCIENCE	00`05alive00`05b102149.m3u8
@@ -2670,11 +2670,11 @@ UK-SD: INVESTIGATION DISCOVERY (ID)	00`05alive00`05b102162.m3u8
 UK-SD: SYFY	00`05alive00`05b102164.m3u8
 UK-SD: SHOWCASE	00`05alive00`05b102165.m3u8
 UK-SD: PARAMOUNT NETWORK	00`05alive00`05b102166.m3u8
-===== UK-4K: MUSIC =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== UK-4K: MUSIC =====	http://a.b/c.m3u8
 UK-4K: MTV LIVE	00`05alive00`05b102169.m3u8
 UK-4K: MTV	00`05alive00`05b102170.m3u8
 UK-4K: SKY NATURE	00`05alive00`05b102171.m3u8
-===== UK-SD: MUSIC =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== UK-SD: MUSIC =====	http://a.b/c.m3u8
 UK-SD: CLUBLAND	00`05alive00`05b102175.m3u8
 UK-SD: KERRANG	00`05alive00`05b102176.m3u8
 UK-SD: KISS TV	00`05alive00`05b102177.m3u8
@@ -2696,7 +2696,7 @@ UK-SD: TRACE VAULT	00`05alive00`05b102196.m3u8
 UK-SD: 4 MUSIC	00`05alive00`05b102198.m3u8
 UK-SD: MC MUSIC TEEN BEATS	00`05alive00`05b102200.m3u8
 UK-SD: SKY CINEMA PREMIERE	00`05alive00`05b102201.m3u8
-===== BEIN GROUP =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== BEIN GROUP =====	http://a.b/c.m3u8
 UK-HD: BEIN SPORT HD	00`05alive00`05b102204.m3u8
 UK-HD: BEIN SPORTS NBA HD	00`05alive00`05b102205.m3u8
 UK-HD: BEIN SPORT NEWS HD	00`05alive00`05b102206.m3u8
@@ -2713,7 +2713,7 @@ UK-HD: BEIN SPORTS 1 ENGLISH HD	00`05alive00`05b102216.m3u8
 UK-HD: BEIN SPORTS 2 ENGLISH HD	00`05alive00`05b102217.m3u8
 UK-HD: BEIN XTRA HD3 1080	00`05alive00`05b102218.m3u8
 UK-HD: BEIN SPORTS 1 FRENCH HD	00`05alive00`05b102219.m3u8
-===== UK-HD: SPORTS =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== UK-HD: SPORTS =====	http://a.b/c.m3u8
 UK-HD: SKY SPORTS NEWS	00`05alive00`05b102224.m3u8
 UK-HD: SKY SPORTS ACTION	00`05alive00`05b102225.m3u8
 UK-HD: SKY SPORTS FOOTBALL	00`05alive00`05b102226.m3u8
@@ -2736,7 +2736,7 @@ UK-HD: CHELSEA TV (LIVE ON MATCHES)	00`05alive00`05b102237.m3u8
 [UK-HD] AMAZON PRIME HD 5	00`05alive00`05b189502.m3u8
 [UK-HD] AMAZON PRIME HD 6	00`05alive00`05b189503.m3u8
 [UK-HD] AMAZON PRIME HD 7	00`05alive00`05b189504.m3u8
-===== UK-4K: SPORTS =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== UK-4K: SPORTS =====	http://a.b/c.m3u8
 UK-4K: SKY SPORTS NEWS	00`05alive00`05b102243.m3u8
 UK-4K: SKY SPORTS ACTION	00`05alive00`05b102244.m3u8
 UK-4K: SKY SPORTS FOOTBALL	00`05alive00`05b102245.m3u8
@@ -2765,13 +2765,13 @@ UK-4K: TNT SPORTS EXTRA 1	00`05alive00`05b102272.m3u8
 [UK-4k] AMAZON PRIME FHD 8	00`05alive00`05b189515.m3u8
 [UK-4k] AMAZON PRIME FHD 9	00`05alive00`05b189516.m3u8
 [UK-4k] AMAZON PRIME FHD 10	00`05alive00`05b189517.m3u8
-===== (UK-4K: EVENTS =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== (UK-4K: EVENTS =====	http://a.b/c.m3u8
 UK-HD: PPV 1 (ONLY MATCH TIME)	00`05alive00`05b102274.m3u8
 UK-HD: PPV 2 (ONLY MATCH TIME)	00`05alive00`05b102275.m3u8
 UK-HD: PPV 3 (ONLY MATCH TIME)	00`05alive00`05b102276.m3u8
 UK-HD: PPV 4 (ONLY MATCH TIME)	00`05alive00`05b102277.m3u8
 UK-HD: PPV 6 (ONLY MATCH TIME)	00`05alive00`05b102278.m3u8
-===== UK-SD: SPORTS=====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== UK-SD: SPORTS=====	http://a.b/c.m3u8
 UK-SD: SKY SPORTS NEWS	00`05alive00`05b102328.m3u8
 UK-SD: SKY SPORTS ACTION	00`05alive00`05b102329.m3u8
 UK-SD: SKY SPORTS FOOTBALL	00`05alive00`05b102330.m3u8
@@ -2794,7 +2794,7 @@ UK-SD: MUTV	00`05alive00`05b102349.m3u8
 UK-SD: PREMIER SPORTS	00`05alive00`05b102350.m3u8
 UK-SD: PREMIER SPORTS 2	00`05alive00`05b102351.m3u8
 UK-SD: RACING UK	00`05alive00`05b102352.m3u8
-===== UK-4K: MOVIES =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== UK-4K: MOVIES =====	http://a.b/c.m3u8
 UK-4K: SKY CINEMA ACTION	00`05alive00`05b102354.m3u8
 UK-4K: SKY CINEMA COMEDY	00`05alive00`05b102355.m3u8
 UK-4K: SKY CINEMA FAMILY	00`05alive00`05b102357.m3u8
@@ -2808,7 +2808,7 @@ UK-4K: SKY CINEMA ANIMATION	00`05alive00`05b102365.m3u8
 UK-4K: SKY CINEMA PREMIERE	00`05alive00`05b102366.m3u8
 UK-4K: AMC	00`05alive00`05b102368.m3u8
 UK-4K: FILM 4	00`05alive00`05b102369.m3u8
-===== UK-SD: MOVIES =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== UK-SD: MOVIES =====	http://a.b/c.m3u8
 UK-SD: SKY CINEMA ACTION	00`05alive00`05b102371.m3u8
 UK-SD: SKY CINEMA COMEDY	00`05alive00`05b102372.m3u8
 UK-SD: SKY CINEMA DRAMA	00`05alive00`05b102373.m3u8
@@ -2822,7 +2822,7 @@ UK-SD: TCM	00`05alive00`05b102382.m3u8
 UK-SD: AMC	00`05alive00`05b102383.m3u8
 UK-SD: FILM 4	00`05alive00`05b102384.m3u8
 UK-SD: HORROR CHANNEL	00`05alive00`05b102385.m3u8
-===== UK-4K: ENTERTAINMENT =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== UK-4K: ENTERTAINMENT =====	http://a.b/c.m3u8
 UK-4K: SKY WITNESS	00`05alive00`05b102388.m3u8
 UK-4K: SKY ARTS	00`05alive00`05b102389.m3u8
 UK-4K: SKY ATLANTIC	00`05alive00`05b102390.m3u8
@@ -2831,7 +2831,7 @@ UK-4K: MORE 4	00`05alive00`05b102397.m3u8
 UK-4K: E! ENTERTAINMENT	00`05alive00`05b102398.m3u8
 UK-4K: GOLD	00`05alive00`05b102400.m3u8
 UK-4K: DAVE	00`05alive00`05b102403.m3u8
-===== UK-SD: ENTERTAINMENT =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== UK-SD: ENTERTAINMENT =====	http://a.b/c.m3u8
 UK-SD: SKY ONE	00`05alive00`05b102405.m3u8
 UK-SD: 4 SEVEN	00`05alive00`05b102407.m3u8
 UK-SD: 5 SELECT	00`05alive00`05b102408.m3u8
@@ -2865,13 +2865,13 @@ UK-SD: QVC BEAUTY	00`05alive00`05b102448.m3u8
 UK-SD: TLC	00`05alive00`05b102449.m3u8
 UK-SD: COMEDY CENTRAL EXTRA	00`05alive00`05b102451.m3u8
 UK-SD: COMEDY CENTRAL	00`05alive00`05b102452.m3u8
-===== UK COOKING =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== UK COOKING =====	http://a.b/c.m3u8
 UK-SD: FOOD NETWORK	00`05alive00`05b102454.m3u8
-===== UK-4K: KIDS =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== UK-4K: KIDS =====	http://a.b/c.m3u8
 UK-4K: CBEEBIES	00`05alive00`05b102457.m3u8
 UK-4K: COMEDY CENTRAL	00`05alive00`05b102459.m3u8
 UK-4K: CARTOON NETWORK	00`05alive00`05b102463.m3u8
-===== UK-SD: KIDS =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== UK-SD: KIDS =====	http://a.b/c.m3u8
 UK-SD: BABY TV	00`05alive00`05b102465.m3u8
 UK-SD: BOOMERANG	00`05alive00`05b102466.m3u8
 UK-SD: CARTOONITO (NOT 24)	00`05alive00`05b102467.m3u8
@@ -2882,14 +2882,14 @@ UK-SD: NICKELODEON	00`05alive00`05b102474.m3u8
 UK-SD: NICKTOONS	00`05alive00`05b102475.m3u8
 UK-SD: TINY POP	00`05alive00`05b102476.m3u8
 UK-SD: TINY POP+1	00`05alive00`05b102477.m3u8
-===== UK-4K: NEWS =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== UK-4K: NEWS =====	http://a.b/c.m3u8
 UK-4K: BBC NEWS	00`05alive00`05b102480.m3u8
 UK-4K: BBC WORLD NEWS	00`05alive00`05b102481.m3u8
 UK-4K: BLOOMBERG	00`05alive00`05b102482.m3u8
 UK-4K: CNN	00`05alive00`05b102483.m3u8
 UK-4K: FRANCE 24	00`05alive00`05b102484.m3u8
 UK-4K: SKY NEWS	00`05alive00`05b102487.m3u8
-===== (UK-SD)NEWS =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== (UK-SD)NEWS =====	http://a.b/c.m3u8
 UK-SD: BBC NEWS	00`05alive00`05b102491.m3u8
 UK-SD: BBC WORLD NEWS	00`05alive00`05b102492.m3u8
 UK-SD: BLOOMBERG	00`05alive00`05b102493.m3u8
@@ -2900,7 +2900,7 @@ UK-SD: EURO NEWS	00`05alive00`05b102497.m3u8
 UK-SD: FRANCE 24 EN	00`05alive00`05b102498.m3u8
 UK-SD: AL JAZEERA EN	00`05alive00`05b102499.m3u8
 UK-SD: SKY NEWS	00`05alive00`05b102501.m3u8
-===== UK-4K: GENERAL =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== UK-4K: GENERAL =====	http://a.b/c.m3u8
 UK-4K: BBC 1	00`05alive00`05b102504.m3u8
 UK-4K: BBC 2	00`05alive00`05b102505.m3u8
 UK-4K: BBC 3/CBBC	00`05alive00`05b102506.m3u8
@@ -2917,7 +2917,7 @@ UK-4K: E4	00`05alive00`05b102516.m3u8
 UK-4K: ALIBI	00`05alive00`05b102517.m3u8
 UK-4K: 4 SEVEN	00`05alive00`05b102518.m3u8
 UK-4K: CBBC	00`05alive00`05b102519.m3u8
-===== UK-SD: GENERAL =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== UK-SD: GENERAL =====	http://a.b/c.m3u8
 UK-SD: BBC1	00`05alive00`05b102521.m3u8
 UK-SD: BBC2	00`05alive00`05b102522.m3u8
 UK-SD: BBC3/CBBC	00`05alive00`05b102523.m3u8
@@ -2932,7 +2932,7 @@ UK-SD: ITV BE	00`05alive00`05b102532.m3u8
 UK-SD: ALIBI	00`05alive00`05b102533.m3u8
 UK-SD: Arise News	00`05alive00`05b102534.m3u8
 UK-SD: CITV	00`05alive00`05b102535.m3u8
-===== UK LOCAL =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== UK LOCAL =====	http://a.b/c.m3u8
 UK-SD: ITV WALES	00`05alive00`05b102537.m3u8
 UK-SD: ITV BORDER	00`05alive00`05b102538.m3u8
 UK-SD: ITV WESTCOUNTRY WEST	00`05alive00`05b102541.m3u8
@@ -2972,13 +2972,13 @@ UK-SD: BBC ALBA	00`05alive00`05b102581.m3u8
 [UK] FILMSTREAMS	00`05alive00`05b194229.m3u8
 [UK] REVRY NEWS	00`05alive00`05b194231.m3u8
 [UK] Travel XP	00`05alive00`05b194232.m3u8
-===== RAKUTEN =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== RAKUTEN =====	http://a.b/c.m3u8
 [UK] RAKUTEN COMEDY MOVIES UK	00`05alive00`05b194234.m3u8
 [UK] RAKUTEN SPOTLIGHT UK	00`05alive00`05b194235.m3u8
 [UK] RAKUTEN ACTION MOVIES UK	00`05alive00`05b194236.m3u8
 [UK] RAKUTEN TOP FREE UK	00`05alive00`05b194237.m3u8
 [UK] RAKUTEN TV SHOWS UK	00`05alive00`05b194238.m3u8
-===== PORTUGAL =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== PORTUGAL =====	http://a.b/c.m3u8
 PT: RTP 1 HD	00`05alive00`05b95292.m3u8
 PT: RTP 2 HD	00`05alive00`05b95293.m3u8
 PT: RTP 1	00`05alive00`05b95294.m3u8
@@ -3006,7 +3006,7 @@ PT: TV RECORD	00`05alive00`05b95317.m3u8
 PT: ZAP VIVA HD	00`05alive00`05b95318.m3u8
 PT: KURIAKOS TV	00`05alive00`05b95319.m3u8
 PT: TCV CABO RADIO	00`05alive00`05b95320.m3u8
-===== INFANTIL =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== INFANTIL =====	http://a.b/c.m3u8
 PT: BABY TV	00`05alive00`05b95322.m3u8
 PT: CANAL PANDA	00`05alive00`05b95323.m3u8
 PT: DISNEY CHANNEL	00`05alive00`05b95324.m3u8
@@ -3015,9 +3015,9 @@ PT: CARTOON NETWORK	00`05alive00`05b95326.m3u8
 PT: BIGGS	00`05alive00`05b95328.m3u8
 PT: NICKELODEON	00`05alive00`05b95329.m3u8
 PT: NICK JR.	00`05alive00`05b95330.m3u8
-===== ENTRETENIMENTO =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== ENTRETENIMENTO =====	http://a.b/c.m3u8
 PT: E! ENTERTAINMENT	00`05alive00`05b95332.m3u8
-===== FILMES ===== 	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== FILMES ===== 	http://a.b/c.m3u8
 PT: AMC HD	00`05alive00`05b95334.m3u8
 PT: AMC	00`05alive00`05b95335.m3u8
 PT: AXN HD	00`05alive00`05b95336.m3u8
@@ -3037,7 +3037,7 @@ PT: FOX LIFE HD	00`05alive00`05b95349.m3u8
 PT: SYFY	00`05alive00`05b95350.m3u8
 PT: NOS STUDIO HD	00`05alive00`05b95351.m3u8
 PT: NOS STUDIOS HD	00`05alive00`05b95352.m3u8
-===== INTERNACIONAIS ===== 	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== INTERNACIONAIS ===== 	http://a.b/c.m3u8
 PT: GLOBO HD	00`05alive00`05b95354.m3u8
 PT: TV GALICIA	00`05alive00`05b95356.m3u8
 PT: CNN	00`05alive00`05b95357.m3u8
@@ -3050,14 +3050,14 @@ PT: CBS REALITY	00`05alive00`05b95364.m3u8
 PT: BLOOMBERG	00`05alive00`05b95365.m3u8
 PT: FTV	00`05alive00`05b95366.m3u8
 PT: CANACAO NOVA	00`05alive00`05b95367.m3u8
-===== MUSICA ===== 	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== MUSICA ===== 	http://a.b/c.m3u8
 PT: TRACE URBAN	00`05alive00`05b95370.m3u8
 PT: TRACE TOCA	00`05alive00`05b95371.m3u8
 PT: AFRO MUSIC	00`05alive00`05b95374.m3u8
 PT: MTV PORTUGAL	00`05alive00`05b95375.m3u8
 PT: MCM POP	00`05alive00`05b95376.m3u8
 PT: MEZZO	00`05alive00`05b95377.m3u8
-===== SERIES ===== 	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== SERIES ===== 	http://a.b/c.m3u8
 PT: HOLLYWOOD HD	00`05alive00`05b95379.m3u8
 PT: HOLLYWOOD	00`05alive00`05b95380.m3u8
 PT: CINEMUNDO	00`05alive00`05b95381.m3u8
@@ -3069,7 +3069,7 @@ PT: ODISSEIA	00`05alive00`05b95391.m3u8
 PT: 24 KITCHEN HD	00`05alive00`05b95392.m3u8
 PT: HISTORIA	00`05alive00`05b95393.m3u8
 PT: TLC	00`05alive00`05b95394.m3u8
-===== DESPORTO ===== 	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== DESPORTO ===== 	http://a.b/c.m3u8
 PT: BTV 1 HD	00`05alive00`05b95396.m3u8
 PT: A BOLA TV	00`05alive00`05b95397.m3u8
 PT: KOMBAT SPORT	00`05alive00`05b95398.m3u8
@@ -3102,7 +3102,7 @@ PT: ELEVEN SPORTS 6 HD	00`05alive00`05b95423.m3u8
 PT: MOTORVISION	00`05alive00`05b95424.m3u8
 [PT] CANAL 11 HD	00`05alive00`05b200527.m3u8
 PT: CANAL 11	00`05alive00`05b95426.m3u8
-===== PORTUGAL SD =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== PORTUGAL SD =====	http://a.b/c.m3u8
 [PT-SD] RTP 1	00`05alive00`05b151818.m3u8
 [PT-SD] RTP 2	00`05alive00`05b151819.m3u8
 [PT-SD] RTP 3	00`05alive00`05b151820.m3u8
@@ -3122,14 +3122,14 @@ PT: CANAL 11	00`05alive00`05b95426.m3u8
 [PT-SD] RTP MEMORIA	00`05alive00`05b151834.m3u8
 [PT-SD] MTV PORTUGAL	00`05alive00`05b151835.m3u8
 [PT-SD] PORTO CANAL	00`05alive00`05b151836.m3u8
-===== INFANTIL =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== INFANTIL =====	http://a.b/c.m3u8
 [PT-SD] DISNEY JUNIOR	00`05alive00`05b151838.m3u8
 [PT-SD] NICK JR	00`05alive00`05b151839.m3u8
 [PT-SD] NICKELODEON	00`05alive00`05b151840.m3u8
 [PT-SD] BABY TV	00`05alive00`05b151841.m3u8
 [PT-SD] CANAL PANDA	00`05alive00`05b151842.m3u8
 [PT-SD] PANDA BIGGS	00`05alive00`05b151843.m3u8
-===== DESPORTO =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== DESPORTO =====	http://a.b/c.m3u8
 [PT-SD] ELEVEN SPORTS 1	00`05alive00`05b151845.m3u8
 [PT-SD] ELEVEN SPORTS 2	00`05alive00`05b151846.m3u8
 [PT-SD] ELEVEN SPORTS 3	00`05alive00`05b151847.m3u8
@@ -3150,12 +3150,12 @@ PT: CANAL 11	00`05alive00`05b95426.m3u8
 [PT-SD] A BOLA TV	00`05alive00`05b151862.m3u8
 [PT-SD] CM TV	00`05alive00`05b151863.m3u8
 [PT-SD] CANAL 11	00`05alive00`05b151864.m3u8
-===== CULTURA =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== CULTURA =====	http://a.b/c.m3u8
 [PT-SD] 24 KITCHEN	00`05alive00`05b151866.m3u8
 [PT-SD] DISCOVERY CHANNEL	00`05alive00`05b151867.m3u8
 [PT-SD] NATIONAL GEOGRAFIC WILD	00`05alive00`05b151868.m3u8
 [PT-SD] NATIONAL GEOGRAPHIC	00`05alive00`05b151869.m3u8
-===== FILMES =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== FILMES =====	http://a.b/c.m3u8
 [PT-SD] HISTORIA	00`05alive00`05b151871.m3u8
 [PT-SD] TVCINE ACTION	00`05alive00`05b151872.m3u8
 [PT-SD] TVCINE TOP	00`05alive00`05b151873.m3u8
@@ -3167,7 +3167,7 @@ PT: CANAL 11	00`05alive00`05b95426.m3u8
 [PT-SD] FOX LIFE	00`05alive00`05b151879.m3u8
 [PT-SD] FOX	00`05alive00`05b151880.m3u8
 [PT-SD] FOX MOVIES	00`05alive00`05b151881.m3u8
-===== TR TURKIYE =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== TR TURKIYE =====	http://a.b/c.m3u8
 [TR] TRT 1 HD	00`05alive00`05b98930.m3u8
 [TR] TRT 2 HD	00`05alive00`05b98931.m3u8
 [TR] SHOW HD	00`05alive00`05b98932.m3u8
@@ -3198,7 +3198,7 @@ PT: CANAL 11	00`05alive00`05b95426.m3u8
 [TR] SHOW MAX	00`05alive00`05b98957.m3u8
 [TR] YABAN TV HD	00`05alive00`05b98958.m3u8
 [TR] HRT AKDENIZ TV	00`05alive00`05b98959.m3u8
-===== TR HABERLER =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== TR HABERLER =====	http://a.b/c.m3u8
 [TR] TRT HABER UHD	00`05alive00`05b98961.m3u8
 [TR] CNN TURK UHD	00`05alive00`05b98962.m3u8
 [TR] NTV UHD	00`05alive00`05b98963.m3u8
@@ -3213,7 +3213,7 @@ PT: CANAL 11	00`05alive00`05b95426.m3u8
 [TR] KOY TV	00`05alive00`05b98972.m3u8
 [TR] BLOOMBERG HT UHD	00`05alive00`05b98973.m3u8
 [TR] A PARA UHD	00`05alive00`05b98974.m3u8
-===== DINI =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== DINI =====	http://a.b/c.m3u8
 [TR] TRT WORLD UHD	00`05alive00`05b98975.m3u8
 [TR] A NEWS UHD	00`05alive00`05b98976.m3u8
 [TR] ULUSAL KANAL	00`05alive00`05b98977.m3u8
@@ -3229,7 +3229,7 @@ PT: CANAL 11	00`05alive00`05b95426.m3u8
 [TR] ARTI TV HD	00`05alive00`05b98988.m3u8
 [TR] MC EU	00`05alive00`05b98989.m3u8
 [TR] CAN TV HD	00`05alive00`05b98990.m3u8
-===== TR BELGESELLER =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== TR BELGESELLER =====	http://a.b/c.m3u8
 [TR] TRT BELGESEL UHD	00`05alive00`05b98992.m3u8
 [TR] TGRT BELGESEL	00`05alive00`05b98993.m3u8
 [TR] DISCOVERY CHANNEL HD	00`05alive00`05b98994.m3u8
@@ -3248,7 +3248,7 @@ PT: CANAL 11	00`05alive00`05b95426.m3u8
 TR: DISCOWERY IDX HD	00`05alive00`05b116231.m3u8
 TR: DISCOVERY SHOWCASE HD	00`05alive00`05b99012.m3u8
 [TR] D MAX HD	00`05alive00`05b99018.m3u8
-===== TR COCUKLAR =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== TR COCUKLAR =====	http://a.b/c.m3u8
 [TR] TRT COCUK UHD	00`05alive00`05b99020.m3u8
 [TR] MINIKA GO	00`05alive00`05b99021.m3u8
 [TR] MINIKA COCUK	00`05alive00`05b99022.m3u8
@@ -3264,7 +3264,7 @@ TR: DISCOVERY SHOWCASE HD	00`05alive00`05b99012.m3u8
 [TR] TRT EBA TV HD ILKOKUL	00`05alive00`05b99037.m3u8
 [TR] TRT EBA TV HD ORTAOKUL	00`05alive00`05b99038.m3u8
 [TR] TRT EBA TV HD LISE	00`05alive00`05b99039.m3u8
-===== TR MUZIK =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== TR MUZIK =====	http://a.b/c.m3u8
 [TR] TRT MUZIK UHD	00`05alive00`05b99041.m3u8
 [TR] NR 1 UHD	00`05alive00`05b99042.m3u8
 [TR] NR 1 TURK UHD	00`05alive00`05b99043.m3u8
@@ -3276,7 +3276,7 @@ TR: DISCOVERY SHOWCASE HD	00`05alive00`05b99012.m3u8
 [TR] DREAM TURK	00`05alive00`05b99050.m3u8
 [TR] VATAN TV	00`05alive00`05b99051.m3u8
 [TR] MAVI KARADENIZ TV	00`05alive00`05b99052.m3u8
-===== TR AVRUPA =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== TR AVRUPA =====	http://a.b/c.m3u8
 [TR] ATV EU	00`05alive00`05b99054.m3u8
 [TR] EURO D EU	00`05alive00`05b99055.m3u8
 [TR] EURO STAR EU	00`05alive00`05b99056.m3u8
@@ -3285,7 +3285,7 @@ TR: DISCOVERY SHOWCASE HD	00`05alive00`05b99012.m3u8
 [TR] SHOW TURK EU	00`05alive00`05b99059.m3u8
 [TR] TGRT EU	00`05alive00`05b99060.m3u8
 [TR] KANAL AVRUPA EU	00`05alive00`05b99061.m3u8
-===== TR DGER =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== TR DGER =====	http://a.b/c.m3u8
 [TR] DIYANET TV UHD	00`05alive00`05b99063.m3u8
 [TR] TRT TURK UHD	00`05alive00`05b99064.m3u8
 [TR] TRT AVAZ UHD	00`05alive00`05b99065.m3u8
@@ -3328,7 +3328,7 @@ TR: UCAN KUS TV	00`05alive00`05b99071.m3u8
 [TR] AL QURAN TV	00`05alive00`05b99111.m3u8
 [TR] KABE TV UHD	00`05alive00`05b99112.m3u8
 [TR] AVA TV UHD	00`05alive00`05b99115.m3u8
-===== TR FILMLER =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== TR FILMLER =====	http://a.b/c.m3u8
 [TR] MOVIE FAMILY HD	00`05alive00`05b99121.m3u8
 [TR] FX HD	00`05alive00`05b99129.m3u8
 [TR] DiZi PREMIUM HD	00`05alive00`05b99127.m3u8
@@ -3362,7 +3362,7 @@ TR: UCAN KUS TV	00`05alive00`05b99071.m3u8
 [TR] CINETIME AKSIYON 3	00`05alive00`05b193195.m3u8
 [TR] CINETIME AILE 1	00`05alive00`05b193196.m3u8
 [TR] CINETIME AILE 2	00`05alive00`05b193197.m3u8
-===== TR BEIN MOVIES =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== TR BEIN MOVIES =====	http://a.b/c.m3u8
 [TR] BEIN MOVIES ACTION HD	00`05alive00`05b99134.m3u8
 [TR] BEIN MOVIES ACTION 2 HD	00`05alive00`05b99135.m3u8
 [TR] BEIN MOVIES FAMILY HD	00`05alive00`05b99136.m3u8
@@ -3377,8 +3377,8 @@ TR: UCAN KUS TV	00`05alive00`05b99071.m3u8
 [TR] BEIN BOX OFFICE 1 HD	00`05alive00`05b99145.m3u8
 [TR] BEIN BOX OFFICE 2 HD	00`05alive00`05b99146.m3u8
 [TR] BEIN BOX OFFICE 3 HD	00`05alive00`05b99147.m3u8
-===== JUMBO MOVIES =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
-===== TR LOCA MOVIES =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== JUMBO MOVIES =====	http://a.b/c.m3u8
+===== TR LOCA MOVIES =====	http://a.b/c.m3u8
 TR: ENO TURK 1	00`05alive00`05b116275.m3u8
 [TR] ELIT YESILCAM 3 HD	00`05alive00`05b99155.m3u8
 [TR] ELIT SMART TURK HD	00`05alive00`05b99156.m3u8
@@ -3404,8 +3404,8 @@ TR: BOSS MOVIES 10 HD	00`05alive00`05b116285.m3u8
 TR: BOSS MOVIES KEMAL SUNAL	00`05alive00`05b116286.m3u8
 TR: ENO ANIMASYON	00`05alive00`05b116287.m3u8
 TR: ENO WESTERN	00`05alive00`05b116288.m3u8
-===== TR BLACK MOVIES =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
-===== TR SINEMA MOVIE =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== TR BLACK MOVIES =====	http://a.b/c.m3u8
+===== TR SINEMA MOVIE =====	http://a.b/c.m3u8
 TR: SINEMA TV KOMEDI HD	00`05alive00`05b99212.m3u8
 TR: SINEMA TV AILE HD	00`05alive00`05b99216.m3u8
 TR-4K: BLUMAX HD KEMAL SUNAL 1	00`05alive00`05b116305.m3u8
@@ -3417,7 +3417,7 @@ TR-4K: BLUMAX HD KEMAL SUNAL 5	00`05alive00`05b116312.m3u8
 TR-4K: BLUMAX HD KEMAL SUNAL 6	00`05alive00`05b116313.m3u8
 TR: ELIT SINEMA AKSIYON 2 HD	00`05alive00`05b99219.m3u8
 TR: KEMAL SUNAL TV 4K	00`05alive00`05b99220.m3u8
-===== TR SPOR =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== TR SPOR =====	http://a.b/c.m3u8
 TR: BEIN SPORTS 1 HD	00`05alive00`05b99222.m3u8
 TR: BEIN SPORTS 2 HD	00`05alive00`05b99223.m3u8
 TR: BEIN SPORTS 3 HD	00`05alive00`05b99224.m3u8
@@ -3468,7 +3468,7 @@ TR: EUROSPORT 2 HD	00`05alive00`05b99251.m3u8
 TR: NBA HD	00`05alive00`05b99253.m3u8
 TR: FIGHT BOX HD	00`05alive00`05b99254.m3u8
 TR: TRT 4K+	00`05alive00`05b116227.m3u8
-==== GJENERALE =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+==== GJENERALE =====	http://a.b/c.m3u8
 [ALB] TOP CHANNEL HD	00`05alive00`05b95886.m3u8
 [ALB] TOP CHANNEL 4K	00`05alive00`05b95887.m3u8
 [ALB] TV DUKAGJINI	00`05alive00`05b95919.m3u8
@@ -3507,7 +3507,7 @@ TR: TRT 4K+	00`05alive00`05b116227.m3u8
 [ALB] BLEJ KANALE TV	00`05alive00`05b589413.m3u8
 [ALB] CCTV EARTH LIVE	00`05alive00`05b589414.m3u8
 [ALB] CCTV VIENA LIVE	00`05alive00`05b589415.m3u8
-==== RTSH =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+==== RTSH =====	http://a.b/c.m3u8
 [ALB] RTSH 1	00`05alive00`05b95899.m3u8
 [ALB] RTSH 1 HD	00`05alive00`05b95900.m3u8
 [ALB] RTSH 2 HD	00`05alive00`05b95901.m3u8
@@ -3518,19 +3518,19 @@ TR: TRT 4K+	00`05alive00`05b116227.m3u8
 [ALB] RTSH 24 HD	00`05alive00`05b95906.m3u8
 [ALB] RTSH PLUS	00`05alive00`05b95907.m3u8
 [ALB] RTSH KUVEND	00`05alive00`05b95908.m3u8
-==== RTK ===== 	http://promo.sansat.biz:25461/images/promo/promo.mkv
+==== RTK ===== 	http://a.b/c.m3u8
 [ALB] RTK 1	00`05alive00`05b95910.m3u8
 [ALB] RTK 1 HD	00`05alive00`05b95911.m3u8
 [ALB] RTK 2	00`05alive00`05b95912.m3u8
 [ALB] RTK 3	00`05alive00`05b95913.m3u8
 [ALB] RTK 4	00`05alive00`05b95914.m3u8
-==== RTV21 ===== 	http://promo.sansat.biz:25461/images/promo/promo.mkv
+==== RTV21 ===== 	http://a.b/c.m3u8
 [ALB] RTV21	00`05alive00`05b95915.m3u8
 [ALB] RTV21 HD	00`05alive00`05b95916.m3u8
 [ALB] RTV21 MAQEDONIA	00`05alive00`05b95917.m3u8
 [ALB] RTV21 MIX	00`05alive00`05b95925.m3u8
 [ALB] RTV21 PLUS	00`05alive00`05b95926.m3u8
-===== LAJME =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== LAJME =====	http://a.b/c.m3u8
 [ALB] SYRI TELEVISION	00`05alive00`05b365130.m3u8
 [ALB] SYRI VISION	00`05alive00`05b95931.m3u8
 [ALB] SYRI VISION TV FHD	00`05alive00`05b365308.m3u8
@@ -3552,7 +3552,7 @@ TR: TRT 4K+	00`05alive00`05b116227.m3u8
 [ALB] RTSH SPORT HD	00`05alive00`05b95909.m3u8
 [ALB] KLAN SPORT 1 HD	00`05alive00`05b627817.m3u8
 [ALB] KLAN SPORT 2 HD	00`05alive00`05b627816.m3u8
-====== DIGITALB SPORT====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+====== DIGITALB SPORT====	http://a.b/c.m3u8
 [ALB] SUPER SPORT 1 HD	00`05alive00`05b96125.m3u8
 [ALB] SUPER SPORT 1 4K	00`05alive00`05b96126.m3u8
 [ALB] SUPER SPORT 2 HD	00`05alive00`05b96127.m3u8
@@ -3568,26 +3568,26 @@ TR: TRT 4K+	00`05alive00`05b116227.m3u8
 [ALB] SUPER SPORT 7 HD	00`05alive00`05b96137.m3u8
 [ALB] SUPER SPORT KOSOVO 1 HD	00`05alive00`05b144814.m3u8
 [ALB] SUPER SPORT KOSOVO 2 HD	00`05alive00`05b144815.m3u8
-===== TRING SPORTS =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== TRING SPORTS =====	http://a.b/c.m3u8
 [ALB] TRING SPORT NEWS	00`05alive00`05b96140.m3u8
 [ALB] TRING SPORT NEWS HD	00`05alive00`05b96141.m3u8
 [ALB] TRING SPORT 1 HD	00`05alive00`05b96142.m3u8
 [ALB] TRING SPORT 2 HD	00`05alive00`05b96143.m3u8
 [ALB] TRING SPORT 3 HD (ONLY MATCH TIME)	00`05alive00`05b96144.m3u8
 [ALB] TRING SPORT 4 HD (ONLY MATCH TIME)	00`05alive00`05b96145.m3u8
-===== KUJTESA SPORT =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== KUJTESA SPORT =====	http://a.b/c.m3u8
 [ALB] K SPORT 1 HD	00`05alive00`05b96147.m3u8
 [ALB] K SPORT 2 HD	00`05alive00`05b96148.m3u8
 [ALB] K SPORT 3 HD	00`05alive00`05b96149.m3u8
 [ALB] K SPORT 4 HD	00`05alive00`05b96150.m3u8
 [ALB] K SPORT 5 HD	00`05alive00`05b589406.m3u8
-==== ART MOTION SPORT =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+==== ART MOTION SPORT =====	http://a.b/c.m3u8
 [ALB] ART SPORT 1 HD	00`05alive00`05b96153.m3u8
 [ALB] ART SPORT 2 HD	00`05alive00`05b96154.m3u8
 [ALB] ART SPORT 3 HD	00`05alive00`05b96155.m3u8
 [ALB] ART SPORT 4 HD	00`05alive00`05b589407.m3u8
 [ALB] ART SPORT 5 HD	00`05alive00`05b365304.m3u8
-==== SAUDI SPORT ====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+==== SAUDI SPORT ====	http://a.b/c.m3u8
 [ALB] SSC 1 4K	00`05alive00`05b602927.m3u8
 [ALB] SSC 2 4K	00`05alive00`05b602928.m3u8
 [ALB] SSC 3 4K	00`05alive00`05b602929.m3u8
@@ -3596,14 +3596,14 @@ TR: TRT 4K+	00`05alive00`05b116227.m3u8
 [ALB] SSC 1 EXTRA 4K	00`05alive00`05b602932.m3u8
 [ALB] SSC 2 EXTRA 4K	00`05alive00`05b602933.m3u8
 [ALB] SSC 3 EXTRA 4K	00`05alive00`05b602934.m3u8
-==== POLSAT SPORT ==== 	http://promo.sansat.biz:25461/images/promo/promo.mkv
+==== POLSAT SPORT ==== 	http://a.b/c.m3u8
 [ALB] POLSAT SPORT PREM. 1 HD	00`05alive00`05b603805.m3u8
 [ALB] POLSAT SPORT PREM. 2 HD	00`05alive00`05b603806.m3u8
 [ALB] POLSAT SPORT PREM. 3 HD	00`05alive00`05b603807.m3u8
 [ALB] POLSAT SPORT PREM. 4 HD	00`05alive00`05b603808.m3u8
 [ALB] POLSAT SPORT PREM. 5 HD	00`05alive00`05b603809.m3u8
 [ALB] POLSAT SPORT PREM. 6 HD	00`05alive00`05b603810.m3u8
-===== DOKUMENTARE =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== DOKUMENTARE =====	http://a.b/c.m3u8
 [ALB] EXPLORER SHKENCE	00`05alive00`05b96081.m3u8
 [ALB] EXPLORER NATYRA	00`05alive00`05b96082.m3u8
 [ALB] EXPLORER HISTORI	00`05alive00`05b96083.m3u8
@@ -3621,7 +3621,7 @@ TR: TRT 4K+	00`05alive00`05b116227.m3u8
 [ALB] E HISTORI	00`05alive00`05b229689.m3u8
 [ALB] E NATYRA HD	00`05alive00`05b229690.m3u8
 [ALB] E SHKENCA HD	00`05alive00`05b229691.m3u8
-===== PER FEMIJE =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== PER FEMIJE =====	http://a.b/c.m3u8
 [ALB] BANG BANG	00`05alive00`05b95960.m3u8
 [ALB] CUFO	00`05alive00`05b95961.m3u8
 [ALB] BABY TV	00`05alive00`05b95962.m3u8
@@ -3657,7 +3657,7 @@ TR: TRT 4K+	00`05alive00`05b116227.m3u8
 [ALB] DIGI GOLD 2	00`05alive00`05b229736.m3u8
 [ALB] DIGI GOLD 3	00`05alive00`05b229735.m3u8
 [ALB] DIGI GOLD 4	00`05alive00`05b229734.m3u8
-===== TRING FILMA =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== TRING FILMA =====	http://a.b/c.m3u8
 [ALB] TRING ACTION	00`05alive00`05b96014.m3u8
 [ALB] TRING FANTASY	00`05alive00`05b96015.m3u8
 [ALB] TRING LIFE	00`05alive00`05b96016.m3u8
@@ -3676,7 +3676,7 @@ TR: TRT 4K+	00`05alive00`05b116227.m3u8
 [ALB] TRING CLASSIC HD	00`05alive00`05b365223.m3u8
 [ALB] TRING NOVELAS HD	00`05alive00`05b365132.m3u8
 [ALB] TRING MUSE	00`05alive00`05b365133.m3u8
-===== Q PREMIERE FILMA =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== Q PREMIERE FILMA =====	http://a.b/c.m3u8
 [ALB] Q ACTION HD	00`05alive00`05b96029.m3u8
 [ALB] Q HUMOR HD	00`05alive00`05b96030.m3u8
 [ALB] Q STUPCAT HD	00`05alive00`05b96031.m3u8
@@ -3712,7 +3712,7 @@ TR: TRT 4K+	00`05alive00`05b116227.m3u8
 [ALB] SKY AKSION	00`05alive00`05b229711.m3u8
 [ALB] SKY MAX	00`05alive00`05b229712.m3u8
 [ALB] SKY 7	00`05alive00`05b229713.m3u8
-===== KUJTESA FILMA =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== KUJTESA FILMA =====	http://a.b/c.m3u8
 [ALB] FILMBOX PREMIUM	00`05alive00`05b96066.m3u8
 [ALB] FILMBOX ARTHOUSE	00`05alive00`05b96067.m3u8
 [ALB] FILMBOX EXTRA	00`05alive00`05b96068.m3u8
@@ -3720,7 +3720,7 @@ TR: TRT 4K+	00`05alive00`05b116227.m3u8
 [ALB] ART KINO 1 HD	00`05alive00`05b96070.m3u8
 [ALB] ART KINO 2 HD	00`05alive00`05b96071.m3u8
 [ALB] ART KINO 3 HD	00`05alive00`05b96072.m3u8
-===== MUSIC =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== MUSIC =====	http://a.b/c.m3u8
 [ALB] RTV ILIRIDA	00`05alive00`05b144818.m3u8
 [ALB] MY MUSIC HD	00`05alive00`05b96101.m3u8
 [ALB] RTV21 POPULLORE	00`05alive00`05b96108.m3u8
@@ -3767,7 +3767,7 @@ TR: TRT 4K+	00`05alive00`05b116227.m3u8
 [ALB] CINE 1	00`05alive00`05b365200.m3u8
 [ALB] WEBSTAR ACTION HD	00`05alive00`05b365207.m3u8
 [ALB] ROZAFA	00`05alive00`05b365307.m3u8
-===== PL REQUIRED GOOD INTERNET =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== PL REQUIRED GOOD INTERNET =====	http://a.b/c.m3u8
 [PL] PPV FAMA MMA 15	00`05alive00`05b198683.m3u8
 [PL] TVP HD	00`05alive00`05b94783.m3u8
 [PL] TVP 1 HD	00`05alive00`05b94784.m3u8
@@ -3786,7 +3786,7 @@ TR: TRT 4K+	00`05alive00`05b116227.m3u8
 [PL] TTV HD	00`05alive00`05b94797.m3u8
 [PL] TV PULS HD	00`05alive00`05b94798.m3u8
 [PL] POLSAT RODZINA	00`05alive00`05b94800.m3u8
-===== PL KINO =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== PL KINO =====	http://a.b/c.m3u8
 [PL] CANAL 1 HD	00`05alive00`05b94803.m3u8
 [PL] CANAL  FAMILY HD	00`05alive00`05b94804.m3u8
 [PL] CANAL  FILM HD	00`05alive00`05b94805.m3u8
@@ -3806,7 +3806,7 @@ TR: TRT 4K+	00`05alive00`05b116227.m3u8
 [PL] VOD 206	00`05alive00`05b94820.m3u8
 [PL] VOD 207	00`05alive00`05b94821.m3u8
 [PL] VOD 208	00`05alive00`05b94822.m3u8
-===== PL SERIALE =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== PL SERIALE =====	http://a.b/c.m3u8
 [PL] FOX HD	00`05alive00`05b94824.m3u8
 [PL] FOX COMEDY HD	00`05alive00`05b94825.m3u8
 [PL] AXN HD	00`05alive00`05b94826.m3u8
@@ -3833,7 +3833,7 @@ TR: TRT 4K+	00`05alive00`05b116227.m3u8
 [PL] FOOD NETWORK HD	00`05alive00`05b94847.m3u8
 [PL] DOMO HD	00`05alive00`05b94848.m3u8
 [PL] DTX	00`05alive00`05b94849.m3u8
-===== PL GENERAL =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== PL GENERAL =====	http://a.b/c.m3u8
 [PL] FOKUS TV	00`05alive00`05b94851.m3u8
 [PL] KUCHNIA HD	00`05alive00`05b94852.m3u8
 [PL] MOTOWIZJA TV HD	00`05alive00`05b94853.m3u8
@@ -3846,7 +3846,7 @@ TR: TRT 4K+	00`05alive00`05b116227.m3u8
 [PL] BBC BRIT	00`05alive00`05b94861.m3u8
 [PL] BBC LIFESTYLE HD	00`05alive00`05b94862.m3u8
 [PL] BBC FIRST HD	00`05alive00`05b94863.m3u8
-===== PL DZIECI =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== PL DZIECI =====	http://a.b/c.m3u8
 [PL] BABY TV	00`05alive00`05b94866.m3u8
 [PL] POLSAT JIM JAM	00`05alive00`05b94867.m3u8
 [PL] BOOMERANG HD	00`05alive00`05b94868.m3u8
@@ -3861,7 +3861,7 @@ TR: TRT 4K+	00`05alive00`05b116227.m3u8
 [PL] MINIMINI HD	00`05alive00`05b94877.m3u8
 [PL] BBC CBEEBIES	00`05alive00`05b94878.m3u8
 [PL] POLSAT GAMES	00`05alive00`05b94879.m3u8
-===== PL MUZYKA =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== PL MUZYKA =====	http://a.b/c.m3u8
 [PL] MTV LIVE HD	00`05alive00`05b94881.m3u8
 [PL] VH1	00`05alive00`05b94882.m3u8
 [PL] TVP ROZRYWKA	00`05alive00`05b94883.m3u8
@@ -3894,7 +3894,7 @@ TR: TRT 4K+	00`05alive00`05b116227.m3u8
 [PL] VOX MUSIC TV	00`05alive00`05b94912.m3u8
 [PL] ESKA ROCK TV	00`05alive00`05b94913.m3u8
 [PL] ESKA TV EXTRA	00`05alive00`05b94914.m3u8
-===== PL KULTURA =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== PL KULTURA =====	http://a.b/c.m3u8
 [PL] NAT GEO PEOPLE HD	00`05alive00`05b94916.m3u8
 [PL] ANIMAL PLANET HD	00`05alive00`05b94917.m3u8
 [PL] PLANETE HD	00`05alive00`05b94918.m3u8
@@ -3919,7 +3919,7 @@ TR: TRT 4K+	00`05alive00`05b116227.m3u8
 [PL] POLSAT VIASAT NATURE HD	00`05alive00`05b94937.m3u8
 [PL] NATIONAL GEO	00`05alive00`05b94938.m3u8
 [PL] CRIME AND INVESTIGATION HD	00`05alive00`05b94939.m3u8
-===== PL SPORT =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== PL SPORT =====	http://a.b/c.m3u8
 [PL] POLSAT SPORT EXTRA HD	00`05alive00`05b94941.m3u8
 [PL] POLSAT SPORT FIGHT HD	00`05alive00`05b94942.m3u8
 [PL] CANAL  SPORT HD	00`05alive00`05b94943.m3u8
@@ -3947,7 +3947,7 @@ TR: TRT 4K+	00`05alive00`05b116227.m3u8
 [PL] FIGHTKLUB HD	00`05alive00`05b94965.m3u8
 [PL] TVP SPORT HD	00`05alive00`05b94967.m3u8
 [PL] POLSAT SPORT NEWS HD	00`05alive00`05b94968.m3u8
-===== PL INFORMACJA =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== PL INFORMACJA =====	http://a.b/c.m3u8
 [PL] TVN 24 HD	00`05alive00`05b94970.m3u8
 [PL] TVN24 BIS HD	00`05alive00`05b94971.m3u8
 [PL] POLSAT NEWS HD	00`05alive00`05b94972.m3u8
@@ -4061,7 +4061,7 @@ TR: TRT 4K+	00`05alive00`05b116227.m3u8
 [PL] VIAPLAY XTRA 47 HD	00`05alive00`05b590959.m3u8
 [PL] VIAPLAY XTRA 48 HD	00`05alive00`05b590960.m3u8
 [PL] VIAPLAY XTRA 49 HD	00`05alive00`05b590961.m3u8
-===== ROMANIA =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== ROMANIA =====	http://a.b/c.m3u8
 RO: TVR 1	00`05alive00`05b95429.m3u8
 RO: TVR 2	00`05alive00`05b95430.m3u8
 RO: TVR 3	00`05alive00`05b95431.m3u8
@@ -4118,14 +4118,14 @@ RO: TV 1000 HD	00`05alive00`05b95483.m3u8
 RO: SPERANTA TV	00`05alive00`05b95484.m3u8
 RO: TLC	00`05alive00`05b95485.m3u8
 RO: UTV HD	00`05alive00`05b95486.m3u8
-===== KIDS =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== KIDS =====	http://a.b/c.m3u8
 RO: BOOMERANG	00`05alive00`05b95490.m3u8
 RO: CARTOON	00`05alive00`05b95491.m3u8
 RO: CARTOON NETWORK	00`05alive00`05b95492.m3u8
 RO: DISNEY CHANNEL	00`05alive00`05b95493.m3u8
 RO: DISNEY JR	00`05alive00`05b95494.m3u8
 RO: MINIMAX	00`05alive00`05b95497.m3u8
-===== CINEMA =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== CINEMA =====	http://a.b/c.m3u8
 RO: CINEMAX 2	00`05alive00`05b95499.m3u8
 RO: CINEMAX	00`05alive00`05b95500.m3u8
 RO: FILMBOX PREMIUM	00`05alive00`05b95501.m3u8
@@ -4140,7 +4140,7 @@ RO: CBS REALITY	00`05alive00`05b95510.m3u8
 RO: BOLLYWOOD TV	00`05alive00`05b95511.m3u8
 RO: AMC	00`05alive00`05b95512.m3u8
 RO: AGRO TV	00`05alive00`05b95513.m3u8
-===== DISCOVERY =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== DISCOVERY =====	http://a.b/c.m3u8
 RO: NAT GEO GRAPHIC RO	00`05alive00`05b95515.m3u8
 RO: NAT GEO WILD HD	00`05alive00`05b95516.m3u8
 RO: NAT GEO WILD	00`05alive00`05b95517.m3u8
@@ -4157,7 +4157,7 @@ RO: HISTORY	00`05alive00`05b95531.m3u8
 RO: HISTORY HD	00`05alive00`05b95532.m3u8
 RO: TRAVEL CHANNEL	00`05alive00`05b95533.m3u8
 RO: FISHING & HUNTING	00`05alive00`05b95534.m3u8
-===== MUSIC =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== MUSIC =====	http://a.b/c.m3u8
 RO: MUSIC CHANNEL	00`05alive00`05b95536.m3u8
 RO: MTV ROCKS	00`05alive00`05b95537.m3u8
 RO: MTV HITS	00`05alive00`05b95538.m3u8
@@ -4165,7 +4165,7 @@ RO: MTV EUROPE	00`05alive00`05b95539.m3u8
 RO: MTV DANCE	00`05alive00`05b95540.m3u8
 RO: MOOZ DANCE HD	00`05alive00`05b95541.m3u8
 RO: VH1 CLASSIC	00`05alive00`05b95542.m3u8
-===== SPORTS =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== SPORTS =====	http://a.b/c.m3u8
 RO: DIGI SPORT 1 HD RO	00`05alive00`05b95544.m3u8
 RO: DIGI SPORT 1	00`05alive00`05b95545.m3u8
 RO: DIGI SPORT 2 HD RO	00`05alive00`05b95546.m3u8
@@ -4185,7 +4185,7 @@ RO: TELEKOM SPORT 1	00`05alive00`05b95559.m3u8
 RO: TELEKOM SPORT 2	00`05alive00`05b95560.m3u8
 RO: TELEKOM SPORT 3	00`05alive00`05b95561.m3u8
 RO: TELEKOM SPORT 4	00`05alive00`05b95562.m3u8
-===== ARMENIA =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== ARMENIA =====	http://a.b/c.m3u8
 ARM: ARM PUBLIC TV	00`05alive00`05b100404.m3u8
 ARM: ARMENIA 1 TV AM	00`05alive00`05b100405.m3u8
 ARM: H1 HD AM	00`05alive00`05b100406.m3u8
@@ -4220,7 +4220,7 @@ ARM: AMGA	00`05alive00`05b100434.m3u8
 ARM: HIGH VISION TV	00`05alive00`05b100435.m3u8
 ARM: HORIZON TV	00`05alive00`05b100437.m3u8
 ARM: MTV HD	00`05alive00`05b100438.m3u8
-===== BULGARIA =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== BULGARIA =====	http://a.b/c.m3u8
 [BG] BTV SD	00`05alive00`05b615383.m3u8
 [BG] BTV 1 HD	00`05alive00`05b615384.m3u8
 [BG] BTV 1+	00`05alive00`05b615385.m3u8
@@ -4238,7 +4238,7 @@ ARM: MTV HD	00`05alive00`05b100438.m3u8
 [BG] 7/8 TV	00`05alive00`05b615397.m3u8
 [BG] DIEMA	00`05alive00`05b615398.m3u8
 [BG] FOLKLOR	00`05alive00`05b615399.m3u8
-===== BG NEWS =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== BG NEWS =====	http://a.b/c.m3u8
 [BG] TV 1000	00`05alive00`05b615401.m3u8
 [BG] EURONEWS	00`05alive00`05b615402.m3u8
 [BG] BULGARIA 24	00`05alive00`05b615403.m3u8
@@ -4250,7 +4250,7 @@ ARM: MTV HD	00`05alive00`05b100438.m3u8
 [BG] BULGARIA ON AIR	00`05alive00`05b615409.m3u8
 [BG] BLOOMBERG	00`05alive00`05b615410.m3u8
 [BG] THE WORLD SD	00`05alive00`05b615411.m3u8
-===== BG MOVIES =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== BG MOVIES =====	http://a.b/c.m3u8
 [BG] BTV ACTION	00`05alive00`05b615413.m3u8
 [BG] BTV CINEMA	00`05alive00`05b615414.m3u8
 [BG] BTV COMEDY	00`05alive00`05b615415.m3u8
@@ -4273,7 +4273,7 @@ ARM: MTV HD	00`05alive00`05b100438.m3u8
 [BG] FILMBOX EXTRA HD	00`05alive00`05b615432.m3u8
 [BG] CINEMAX 2 HD	00`05alive00`05b615433.m3u8
 [BG] MOVIE STAR	00`05alive00`05b615434.m3u8
-===== BG KIDS =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== BG KIDS =====	http://a.b/c.m3u8
 [BG] CARTOON NETWORK	00`05alive00`05b615436.m3u8
 [BG] DISNEY CHANNEL	00`05alive00`05b615437.m3u8
 [BG] DISNEY JUNIOR	00`05alive00`05b615438.m3u8
@@ -4284,7 +4284,7 @@ ARM: MTV HD	00`05alive00`05b100438.m3u8
 [BG] NICK JR	00`05alive00`05b615443.m3u8
 [BG] SUPER TOONS SD	00`05alive00`05b615444.m3u8
 [BG] NICK TOONS SD	00`05alive00`05b615445.m3u8
-===== BG ENTERTAINMENTS =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== BG ENTERTAINMENTS =====	http://a.b/c.m3u8
 [BG] DIEMA FAMILY	00`05alive00`05b615447.m3u8
 [BG] FOX	00`05alive00`05b615448.m3u8
 [BG] FOX CRIME	00`05alive00`05b615449.m3u8
@@ -4308,7 +4308,7 @@ ARM: MTV HD	00`05alive00`05b100438.m3u8
 [BG] TV1	00`05alive00`05b615467.m3u8
 [BG] AXN WHITE	00`05alive00`05b615468.m3u8
 [BG] CRIME & INVESTIGATION SD	00`05alive00`05b615469.m3u8
-===== BG DOCUMENTARY =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== BG DOCUMENTARY =====	http://a.b/c.m3u8
 [BG] DISCOVERY CHANNEL	00`05alive00`05b615471.m3u8
 [BG] HISTORY CHANNEL HD	00`05alive00`05b615472.m3u8
 [BG] NATIONAL GEOGRAPHIC HD	00`05alive00`05b615473.m3u8
@@ -4333,7 +4333,7 @@ ARM: MTV HD	00`05alive00`05b100438.m3u8
 [BG] BHTV SD	00`05alive00`05b615492.m3u8
 [BG] NAST. VREMYA SD	00`05alive00`05b615493.m3u8
 [BG] DA VINCI SD	00`05alive00`05b615494.m3u8
-===== BG SPORTS =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== BG SPORTS =====	http://a.b/c.m3u8
 [BG] DIEMA SPORT 1	00`05alive00`05b615496.m3u8
 [BG] DIEMA SPORT 2	00`05alive00`05b615497.m3u8
 [BG] DIEMA SPORT 3 HD	00`05alive00`05b615498.m3u8
@@ -4359,7 +4359,7 @@ ARM: MTV HD	00`05alive00`05b100438.m3u8
 [BG] EUROSPORT 1 SD	00`05alive00`05b615518.m3u8
 [BG] EUROSPORT 2 SD	00`05alive00`05b615519.m3u8
 [BG] RING BG	00`05alive00`05b615520.m3u8
-===== BG MUSIC =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== BG MUSIC =====	http://a.b/c.m3u8
 [BG] MTV HITS	00`05alive00`05b615522.m3u8
 [BG] MTV CLUB	00`05alive00`05b615523.m3u8
 [BG] MTV 90S	00`05alive00`05b615524.m3u8
@@ -4369,7 +4369,7 @@ ARM: MTV HD	00`05alive00`05b100438.m3u8
 [BG] HOBBY TV	00`05alive00`05b615528.m3u8
 [BG] MEZZO SD	00`05alive00`05b615529.m3u8
 [BG] MTV 80S SD	00`05alive00`05b615530.m3u8
-===== SWEDEN =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== SWEDEN =====	http://a.b/c.m3u8
 [SW] SVT 1 HD	00`05alive00`05b98089.m3u8
 [SW] SVT 2 HD	00`05alive00`05b98090.m3u8
 [SW] TV3 HD	00`05alive00`05b98091.m3u8
@@ -4388,14 +4388,14 @@ ARM: MTV HD	00`05alive00`05b100438.m3u8
 [SW] TV 4 FILM HD	00`05alive00`05b98104.m3u8
 [SW] SVT KUNSKAPSKANALEN HD	00`05alive00`05b98107.m3u8
 [SW] GODARE HD	00`05alive00`05b162973.m3u8
-===== SW ENTERTAINMENT =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== SW ENTERTAINMENT =====	http://a.b/c.m3u8
 [SW] TLC HD	00`05alive00`05b98111.m3u8
 [SW] ATG LIVE	00`05alive00`05b98112.m3u8
 [SW] COMEDY CENTRAL	00`05alive00`05b98113.m3u8
 [SW] SF-KANALEN [MULTI-SUB]	00`05alive00`05b98114.m3u8
 [SW] SVT24/B HD	00`05alive00`05b98115.m3u8
 [SW] VIASAT EXPLORER HD	00`05alive00`05b98116.m3u8
-===== SW DOCUMETARY =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== SW DOCUMETARY =====	http://a.b/c.m3u8
 [SW] BBC BRIT FHD	00`05alive00`05b98118.m3u8
 [SW] DISCOVERY SCIENCE HD	00`05alive00`05b98121.m3u8
 [SW] NAT GEO HD	00`05alive00`05b98122.m3u8
@@ -4413,7 +4413,7 @@ ARM: MTV HD	00`05alive00`05b100438.m3u8
 [SW] DISCOVERY+ 6	00`05alive00`05b162965.m3u8
 [SW] DISCOVERY+ 7	00`05alive00`05b162966.m3u8
 [SW] DISCOVERY+ 8	00`05alive00`05b162967.m3u8
-===== SW KIDS =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== SW KIDS =====	http://a.b/c.m3u8
 [SW] DISNEY CHANNEL HD	00`05alive00`05b98131.m3u8
 [SW] DISNEY JUNIOR HD	00`05alive00`05b98132.m3u8
 [SW] BOOMERANG HD	00`05alive00`05b98134.m3u8
@@ -4421,7 +4421,7 @@ ARM: MTV HD	00`05alive00`05b100438.m3u8
 [SW] NICK JR HD	00`05alive00`05b98136.m3u8
 [SW] NICKELODEON HD	00`05alive00`05b98137.m3u8
 [SW] CARTOON NETWORK HD	00`05alive00`05b98138.m3u8
-===== SW MOVIES =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== SW MOVIES =====	http://a.b/c.m3u8
 [SW] VIASAT FILM ACTION	00`05alive00`05b98140.m3u8
 [SW] VIASAT FILM FAMILLY	00`05alive00`05b98141.m3u8
 [SW] VIASAT FILM HITS	00`05alive00`05b98142.m3u8
@@ -4441,9 +4441,9 @@ ARM: MTV HD	00`05alive00`05b100438.m3u8
 [SW] SNAP TIME 3 HD	00`05alive00`05b162970.m3u8
 [SW] SNAP TIME 4 HD	00`05alive00`05b162971.m3u8
 [SW] SNAP TIME 5 HD	00`05alive00`05b162972.m3u8
-===== SW MUSIC =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== SW MUSIC =====	http://a.b/c.m3u8
 [SW] MTV HD	00`05alive00`05b98155.m3u8
-===== SW SPORTS =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== SW SPORTS =====	http://a.b/c.m3u8
 [SW] C MORE FOTBOLL HD	00`05alive00`05b98157.m3u8
 [SW] VIASAT SPORT EXTRA HD	00`05alive00`05b98158.m3u8
 [SW] VIASAT SPORT ULTRA HD	00`05alive00`05b189855.m3u8
@@ -4575,7 +4575,7 @@ VIAPLAY NO 27 : 	00`05alive00`05b591669.m3u8
 VIAPLAY NO 28 : 	00`05alive00`05b591670.m3u8
 VIAPLAY NO 29 :	00`05alive00`05b591671.m3u8
 VIAPLAY NO 30 :	00`05alive00`05b591672.m3u8
-===== DENMARK =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== DENMARK =====	http://a.b/c.m3u8
 [DK] DR1	00`05alive00`05b99997.m3u8
 [DK] DR2	00`05alive00`05b99998.m3u8
 [DK] TV2 NEWS	00`05alive00`05b99999.m3u8
@@ -4595,7 +4595,7 @@ VIAPLAY NO 30 :	00`05alive00`05b591672.m3u8
 [DK] DANSKE KLASSIKKER 5	00`05alive00`05b100011.m3u8
 [DK] DR RAMASJANG	00`05alive00`05b100012.m3u8
 [DK] XEE	00`05alive00`05b100013.m3u8
-===== DK ENTERTAINMENT =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== DK ENTERTAINMENT =====	http://a.b/c.m3u8
 [DK] TLC	00`05alive00`05b100015.m3u8
 [DK] 6 EREN	00`05alive00`05b100016.m3u8
 [DK] CANAL 9	00`05alive00`05b100017.m3u8
@@ -4604,7 +4604,7 @@ VIAPLAY NO 30 :	00`05alive00`05b591672.m3u8
 [DK] KANAL 5	00`05alive00`05b100020.m3u8
 [DK] VIASAT EXPLORE	00`05alive00`05b100021.m3u8
 [DK] TV3 MAX	00`05alive00`05b100022.m3u8
-===== DK DOCUMENTARY =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== DK DOCUMENTARY =====	http://a.b/c.m3u8
 [DK] BBC BRITH	00`05alive00`05b100024.m3u8
 [DK] BBC EARTH	00`05alive00`05b100025.m3u8
 [DK] DISCOVERY CHANNEL	00`05alive00`05b100026.m3u8
@@ -4616,7 +4616,7 @@ VIAPLAY NO 30 :	00`05alive00`05b591672.m3u8
 [DK] NATIONAL GEOGRAPHIC	00`05alive00`05b100032.m3u8
 [DK] INVESTIGATION DISCOVERY	00`05alive00`05b100033.m3u8
 [DK] HISTORY 2	00`05alive00`05b192709.m3u8
-===== DK KIDS =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== DK KIDS =====	http://a.b/c.m3u8
 [DK] DISNEY CHANNEL DANMARK	00`05alive00`05b100035.m3u8
 [DK] DISNEY JR DANMARK	00`05alive00`05b100036.m3u8
 [DK] BOOMERANG	00`05alive00`05b100038.m3u8
@@ -4624,7 +4624,7 @@ VIAPLAY NO 30 :	00`05alive00`05b591672.m3u8
 [DK] NICKELODEON HD	00`05alive00`05b100040.m3u8
 [DK] CARTOON NETWORK	00`05alive00`05b100041.m3u8
 [DK] BOOMBRANG SD	00`05alive00`05b192710.m3u8
-===== DK MOVIES =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== DK MOVIES =====	http://a.b/c.m3u8
 [DK] C MORE FIRST	00`05alive00`05b100043.m3u8
 [DK] C MORE HITS HD DK	00`05alive00`05b100044.m3u8
 [DK] C MORE SERIES DK	00`05alive00`05b100045.m3u8
@@ -4641,11 +4641,11 @@ VIAPLAY NO 30 :	00`05alive00`05b591672.m3u8
  [DK] SNAP TIME 3 HD	00`05alive00`05b175438.m3u8
  [DK] SNAP TIME 4 HD	00`05alive00`05b175439.m3u8
  [DK] SNAP TIME 5 HD	00`05alive00`05b175440.m3u8
-===== DK MUSIC =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== DK MUSIC =====	http://a.b/c.m3u8
 [DK] MTV	00`05alive00`05b100054.m3u8
 [DK] VH1 DANMARK	00`05alive00`05b100055.m3u8
 [DK] MTV 80S SD	00`05alive00`05b192711.m3u8
-===== DK SPORTS =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== DK SPORTS =====	http://a.b/c.m3u8
 [DK] EUROSPORT 1	00`05alive00`05b100057.m3u8
 [DK] EUROSPORT 2	00`05alive00`05b100058.m3u8
 [DK] TV2 SPORT	00`05alive00`05b100060.m3u8
@@ -4653,7 +4653,7 @@ VIAPLAY NO 30 :	00`05alive00`05b591672.m3u8
 [DK] TV3 SPORT 1	00`05alive00`05b100062.m3u8
 [DK] MOTORVISION TV	00`05alive00`05b192712.m3u8
 [DK] VIASAT GOLF	00`05alive00`05b100065.m3u8
-===== FINLAND =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== FINLAND =====	http://a.b/c.m3u8
 [FI] FRI TV HD	00`05alive00`05b591674.m3u8
 [FI] TV6	00`05alive00`05b591675.m3u8
 [FI] TV7	00`05alive00`05b591676.m3u8
@@ -4743,7 +4743,7 @@ VIAPLAY NO 30 :	00`05alive00`05b591672.m3u8
 [FI] VIAPLAY XTRA 47 HD	00`05alive00`05b591760.m3u8
 [FI] VIAPLAY XTRA 48 HD	00`05alive00`05b591761.m3u8
 [FI] VIAPLAY XTRA 49 HD	00`05alive00`05b591762.m3u8
-===== GREEC =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== GREEC =====	http://a.b/c.m3u8
 [GR] EPT 1 HD	00`05alive00`05b100176.m3u8
 [GR] EPT 1	00`05alive00`05b100177.m3u8
 [GR] EPT 2 HD	00`05alive00`05b100178.m3u8
@@ -4782,16 +4782,16 @@ VIAPLAY NO 30 :	00`05alive00`05b591672.m3u8
 [GR] NR1 HD	00`05alive00`05b286512.m3u8
 [GR] DUCK TV	00`05alive00`05b286513.m3u8
 [GR] TILEMOUSIKI TV	00`05alive00`05b286514.m3u8
-===== GR NEWS =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== GR NEWS =====	http://a.b/c.m3u8
 [GR] ERT WORLD	00`05alive00`05b100220.m3u8
-===== GR KIDS =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== GR KIDS =====	http://a.b/c.m3u8
 GR: NICKELODEON HD	00`05alive00`05b100223.m3u8
 GR: DISNEY CHANNEL	00`05alive00`05b100225.m3u8
 GR: DISNEY JUNIOR	00`05alive00`05b100226.m3u8
 [GR] JIM JAM	00`05alive00`05b286515.m3u8
 [GR] BOOMERANG	00`05alive00`05b286516.m3u8
 GR: SMILE	00`05alive00`05b100228.m3u8
-===== GR MOVIES =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== GR MOVIES =====	http://a.b/c.m3u8
 GR: NOVA CINEMA 1 HD	00`05alive00`05b100233.m3u8
 GR: NOVA CINEMA 2 HD	00`05alive00`05b100234.m3u8
 GR: NOVA CINEMA 3 HD	00`05alive00`05b100235.m3u8
@@ -4800,7 +4800,7 @@ GR: COSMOTE CINEMA 1 HD	00`05alive00`05b100237.m3u8
 [GR] COSMOTE CINEMA 2 HD	00`05alive00`05b100238.m3u8
 [GR] COSMOTE CINEMA 3 HD	00`05alive00`05b100239.m3u8
 [GR] COSMOTE SERIES HD	00`05alive00`05b100241.m3u8
-===== GR DOCUMENTARY =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== GR DOCUMENTARY =====	http://a.b/c.m3u8
 [GR] NATIONAL GEOGRAPHIC HD	00`05alive00`05b100249.m3u8
 [GR] NATIONAL GEOGRAPHIC WILD HD	00`05alive00`05b100250.m3u8
 [GR] DISCOVERY CHANNEL	00`05alive00`05b100251.m3u8
@@ -4811,7 +4811,7 @@ GR: COSMOTE CINEMA 1 HD	00`05alive00`05b100237.m3u8
 [GR] VIASAT HISTORY	00`05alive00`05b100263.m3u8
 [GR] VIASAT NATURE	00`05alive00`05b100264.m3u8
 [GR] MY ZEN	00`05alive00`05b286517.m3u8
-===== GR ENTERTAINMENT =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== GR ENTERTAINMENT =====	http://a.b/c.m3u8
 [GR] FOX HD	00`05alive00`05b100270.m3u8
 [GR] FOX LIFE HD	00`05alive00`05b100271.m3u8
 [GR] TCM HD	00`05alive00`05b100272.m3u8
@@ -4823,8 +4823,8 @@ GR: COSMOTE CINEMA 1 HD	00`05alive00`05b100237.m3u8
 [GR] MAD GREEKZ	00`05alive00`05b286522.m3u8
 [GR] E! ENTERTAINMENT HD	00`05alive00`05b286523.m3u8
 [GR] FOOD NETWORK HD	00`05alive00`05b100277.m3u8
-===== GR MUSIC =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
-===== GR SPORTS =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== GR MUSIC =====	http://a.b/c.m3u8
+===== GR SPORTS =====	http://a.b/c.m3u8
 [GR] NOVA SPORTS NEWS HD	00`05alive00`05b100296.m3u8
 [GR] COSMOTE SPORT HIGHLIGHTS HD	00`05alive00`05b286524.m3u8
 [GR] NOVA SPORTS START HD	00`05alive00`05b286525.m3u8
@@ -4852,7 +4852,7 @@ GR: COSMOTE CINEMA 1 HD	00`05alive00`05b100237.m3u8
 [GR] COSMOTE SPORT 8 HD	00`05alive00`05b100305.m3u8
 [GR] EUROSPORT 1 HD	00`05alive00`05b116213.m3u8
 [GR] EUROSPORT 2 HD	00`05alive00`05b116214.m3u8
-===== CZECH REPUBLIC =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== CZECH REPUBLIC =====	http://a.b/c.m3u8
 CZ: CT 1 HD	00`05alive00`05b94652.m3u8
 CZ: CT 2 HD	00`05alive00`05b94653.m3u8
 CZ: CT 1 JM HD	00`05alive00`05b94654.m3u8
@@ -4871,7 +4871,7 @@ CZ: NOVA 2	00`05alive00`05b94666.m3u8
 CZ: TV JOJ HD	00`05alive00`05b94667.m3u8
 CZ: TV JOJ 1 HD	00`05alive00`05b94668.m3u8
 CZ: SPEKTRUM HD	00`05alive00`05b94669.m3u8
-===== MOVIES =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== MOVIES =====	http://a.b/c.m3u8
 CZ: CINEMAX	00`05alive00`05b94673.m3u8
 CZ: CS FILM/CS MINI	00`05alive00`05b94674.m3u8
 CZ: FILM	00`05alive00`05b94675.m3u8
@@ -4895,29 +4895,29 @@ CZ: PRIMA LOVE	00`05alive00`05b94693.m3u8
 CZ: PRIMA MAX HD	00`05alive00`05b94694.m3u8
 CZ: PRIMA PLUS HD	00`05alive00`05b94695.m3u8
 CZ: PRIMA ZOOM HD	00`05alive00`05b94696.m3u8
-===== KIDS =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== KIDS =====	http://a.b/c.m3u8
 CZ: DISNEY CZ	00`05alive00`05b94698.m3u8
 CZ: MINIMAX	00`05alive00`05b94699.m3u8
 CZ: NICK JR CZECH	00`05alive00`05b94700.m3u8
 CZ: NICKELODEON CZ	00`05alive00`05b94701.m3u8
-===== SPORT =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== SPORT =====	http://a.b/c.m3u8
 CZ: NOVA INTERNATIONAL	00`05alive00`05b94703.m3u8
 CZ: NOVA SPORT 1 HD	00`05alive00`05b94704.m3u8
 CZ: NOVA SPORT 2 HD	00`05alive00`05b94705.m3u8
 CZ: SPORT 1 HD	00`05alive00`05b94706.m3u8
 CZ: SPORT 2 HD	00`05alive00`05b94707.m3u8
 CZ: CT SPORT HD	00`05alive00`05b94709.m3u8
-===== NEWS =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== NEWS =====	http://a.b/c.m3u8
 CZ: MARKIZA INTERNATIONAL	00`05alive00`05b94711.m3u8
 CZ: CT 24 HD	00`05alive00`05b94712.m3u8
-===== ENTERTAINMENT =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== ENTERTAINMENT =====	http://a.b/c.m3u8
 CZ: TV PAPRIKA	00`05alive00`05b94714.m3u8
 CZ: REGIONALNITELEVIZE.CZ	00`05alive00`05b94715.m3u8
-===== MUSIC =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== MUSIC =====	http://a.b/c.m3u8
 CZ: MTV EUROPE CZ	00`05alive00`05b94717.m3u8
 CZ: REBEL 2	00`05alive00`05b94718.m3u8
 CZ: RETRO MUSIC TV	00`05alive00`05b94719.m3u8
-===== DOCUMANTARY =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== DOCUMANTARY =====	http://a.b/c.m3u8
 CZ: NAT GEO HD CZ	00`05alive00`05b94722.m3u8
 CZ: NATIONAL GEOGRAPHIC WILD HD CZ	00`05alive00`05b94723.m3u8
 CZ: DISCOVERY CZ	00`05alive00`05b94724.m3u8
@@ -4925,7 +4925,7 @@ CZ: FISHING AND HUNTING	00`05alive00`05b94725.m3u8
 CZ: VIASAT EXPLORE	00`05alive00`05b94726.m3u8
 CZ: VIASAT NATURE	00`05alive00`05b94727.m3u8
 CZ: VIASAT HISTORY	00`05alive00`05b94728.m3u8
-===== HUNGARIAN =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== HUNGARIAN =====	http://a.b/c.m3u8
 HU: M PLUS	00`05alive00`05b99257.m3u8
 HU: RTL 2 HD	00`05alive00`05b99259.m3u8
 HU: RTL KLUB HD	00`05alive00`05b99260.m3u8
@@ -4965,14 +4965,14 @@ HU: SPILER 1 TV	00`05alive00`05b99299.m3u8
 HU: SPILER 2	00`05alive00`05b99300.m3u8
 HU: TV PAPRIKA	00`05alive00`05b99301.m3u8
 HU: TV4	00`05alive00`05b99302.m3u8
-===== HU ENTERTAINMENT =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== HU ENTERTAINMENT =====	http://a.b/c.m3u8
 HU: CBS REALITY	00`05alive00`05b99307.m3u8
 HU: COMEDY CENTRAL	00`05alive00`05b99308.m3u8
 HU: DA VINCI LEARNING	00`05alive00`05b99309.m3u8
 HU: FEM 3	00`05alive00`05b99311.m3u8
 HU: FISHING AND HUNTING	00`05alive00`05b99313.m3u8
 HU: TRAVEL CHANNEL HD	00`05alive00`05b99315.m3u8
-===== HU MOVIES =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== HU MOVIES =====	http://a.b/c.m3u8
 HU: AMC	00`05alive00`05b99317.m3u8
 HU: AMC HD	00`05alive00`05b99318.m3u8
 HU: AXN	00`05alive00`05b99319.m3u8
@@ -5004,7 +5004,7 @@ HU: M3	00`05alive00`05b99346.m3u8
 HU: M5 HD	00`05alive00`05b99347.m3u8
 HU: SONY MAX	00`05alive00`05b99348.m3u8
 HU: SONY MOVIE	00`05alive00`05b99349.m3u8
-===== HU KIDS =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== HU KIDS =====	http://a.b/c.m3u8
 HU: BOOMERANG	00`05alive00`05b99351.m3u8
 HU: CARTOON NETWORK	00`05alive00`05b99352.m3u8
 HU: DISNEY JUNIOR	00`05alive00`05b99353.m3u8
@@ -5014,7 +5014,7 @@ HU: MINIMAX HD	00`05alive00`05b99356.m3u8
 HU: NICK JR	00`05alive00`05b99357.m3u8
 HU: NICKELODEON	00`05alive00`05b99358.m3u8
 HU: JIMJAM	00`05alive00`05b99359.m3u8
-===== HU SPORTS =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== HU SPORTS =====	http://a.b/c.m3u8
 HU: DIGI SPORT 1 HD	00`05alive00`05b99361.m3u8
 HU: DIGI SPORT 2 HD	00`05alive00`05b99362.m3u8
 HU: DIGI SPORT 3 HD	00`05alive00`05b99363.m3u8
@@ -5026,8 +5026,8 @@ HU: SPORT 2 HD	00`05alive00`05b99368.m3u8
 HU: EXTREME SPORT	00`05alive00`05b99369.m3u8
 HU: NOVA SPORT HD	00`05alive00`05b99370.m3u8
 HU: AUTO MOTOR SPORT CHANNEL	00`05alive00`05b99371.m3u8
-===== HU MUSIC =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
-===== HU DOCUMETARY =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== HU MUSIC =====	http://a.b/c.m3u8
+===== HU DOCUMETARY =====	http://a.b/c.m3u8
 HU: ANIMAL PLANET HD	00`05alive00`05b99375.m3u8
 HU: BBC EARTH HD	00`05alive00`05b99376.m3u8
 HU: DIGI ANIMAL WORLD	00`05alive00`05b99377.m3u8
@@ -5057,7 +5057,7 @@ HU: VIASAT NATURE HISTORY HD	00`05alive00`05b99391.m3u8
 [GE] KAVKASIA	00`05alive00`05b617873.m3u8
 [GE] TV GANATLEBA	00`05alive00`05b617874.m3u8
 [GE] COMEDY TV	00`05alive00`05b617875.m3u8
-===== AZERBAIJAN =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== AZERBAIJAN =====	http://a.b/c.m3u8
 AZE: ARB	00`05alive00`05b101045.m3u8
 AZE: ARB 24 UHD	00`05alive00`05b101046.m3u8
 AZE: ARB GUNES	00`05alive00`05b101047.m3u8
@@ -5174,7 +5174,7 @@ AZE: XEZER TV	00`05alive00`05b101064.m3u8
 [RU] MATCH! FOOTBALL 2 HD	00`05alive00`05b567487.m3u8
 [RU] MATCH! FOOTBALL 3 HD	00`05alive00`05b567488.m3u8
 [RU] MATCH! GAME HD	00`05alive00`05b567489.m3u8
-===== UKRAIN =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== UKRAIN =====	http://a.b/c.m3u8
 UA: TONIS HD	00`05alive00`05b101068.m3u8
 UA: KIEV STB	00`05alive00`05b101070.m3u8
 UA: MILADY TELEVISION	00`05alive00`05b101071.m3u8
@@ -5209,23 +5209,23 @@ UA: ZOOM	00`05alive00`05b101102.m3u8
 UA: INTER PLUS	00`05alive00`05b101103.m3u8
 UA: NEWS 24	00`05alive00`05b101105.m3u8
 UA: NEWS NETWORK	00`05alive00`05b101106.m3u8
-===== UA KIDS =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== UA KIDS =====	http://a.b/c.m3u8
 UA: PLUS PLUS	00`05alive00`05b101108.m3u8
 UA: PIXEL	00`05alive00`05b101109.m3u8
-===== UA ENTERTAINMENT =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
-===== UA MOVIES =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== UA ENTERTAINMENT =====	http://a.b/c.m3u8
+===== UA MOVIES =====	http://a.b/c.m3u8
 UA: ENTER FILM	00`05alive00`05b101112.m3u8
 UA: NOVY CHANNEL	00`05alive00`05b101113.m3u8
 UA: ICTV	00`05alive00`05b101114.m3u8
 UA: SONCE	00`05alive00`05b101115.m3u8
-===== UA MUSIC =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== UA MUSIC =====	http://a.b/c.m3u8
 UA: M1	00`05alive00`05b101117.m3u8
 UA: M2	00`05alive00`05b101118.m3u8
 UA: BLACK SEA TV	00`05alive00`05b101119.m3u8
-===== UA DOCUMENTARY =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== UA DOCUMENTARY =====	http://a.b/c.m3u8
 UA: CULTURE!	00`05alive00`05b101121.m3u8
-===== UA SPORTS & EVENTS =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
-===== EXYU: PINK MEDIA =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== UA SPORTS & EVENTS =====	http://a.b/c.m3u8
+===== EXYU: PINK MEDIA =====	http://a.b/c.m3u8
 EXYU: PINK HD	00`05alive00`05b96835.m3u8
 EXYU: PINK	00`05alive00`05b96836.m3u8
 EXYU: PINK 2	00`05alive00`05b96837.m3u8
@@ -5267,7 +5267,7 @@ EXYU: PINK HITS 2	00`05alive00`05b96872.m3u8
 EXYU: PINK HITS	00`05alive00`05b96873.m3u8
 EXYU: PINK FOLK 2	00`05alive00`05b96874.m3u8
 EXYU: PINK FOLK	00`05alive00`05b96875.m3u8
-===== EXYU: FILMSKI KANALI =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== EXYU: FILMSKI KANALI =====	http://a.b/c.m3u8
 EXYU: HBO HD	00`05alive00`05b96877.m3u8
 EXYU: HBO 2 HD	00`05alive00`05b96878.m3u8
 EXYU: HBO 3	00`05alive00`05b96879.m3u8
@@ -5295,7 +5295,7 @@ EXYU: FOX	00`05alive00`05b96900.m3u8
 EXYU: FOX LIFE	00`05alive00`05b96901.m3u8
 EXYU: FOX CRIME	00`05alive00`05b96902.m3u8
 EXYU: FOX MOVIES	00`05alive00`05b96903.m3u8
-===== EXYU: DOKUMENTARNI =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== EXYU: DOKUMENTARNI =====	http://a.b/c.m3u8
 EXYU: AGRO HD	00`05alive00`05b96905.m3u8
 EXYU: ANIMAL PLANET	00`05alive00`05b96906.m3u8
 EXYU: ANIMAL PLANET HD	00`05alive00`05b96907.m3u8
@@ -5327,7 +5327,7 @@ EXYU: HISTORY 2 HD	00`05alive00`05b96933.m3u8
 EXYU: HISTORY 2	00`05alive00`05b96934.m3u8
 EXYU: HISTORY	00`05alive00`05b96935.m3u8
 EXYU: FOOD NETWORK	00`05alive00`05b96936.m3u8
-===== EXYU: DJECIJI KANALI =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== EXYU: DJECIJI KANALI =====	http://a.b/c.m3u8
 EXYU: IDJ KIDS	00`05alive00`05b96938.m3u8
 EXYU: MASA I MEDO	00`05alive00`05b96939.m3u8
 EXYU: TOM & JERRY	00`05alive00`05b96940.m3u8
@@ -5343,7 +5343,7 @@ EXYU: NICKELODEON HR	00`05alive00`05b96949.m3u8
 EXYU: NICK JR SR	00`05alive00`05b96950.m3u8
 EXYU: NICK JR HR	00`05alive00`05b96951.m3u8
 EXYU: BABY TV	00`05alive00`05b96952.m3u8
-===== EXYU: MUZICKI KANALI =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== EXYU: MUZICKI KANALI =====	http://a.b/c.m3u8
 EXYU: HAYAT MUSIC	00`05alive00`05b96954.m3u8
 EXYU: HAYAT FOLK	00`05alive00`05b96955.m3u8
 EXYU: GRAND 2	00`05alive00`05b96956.m3u8
@@ -5366,7 +5366,7 @@ EXYU: SOS (SR)	00`05alive00`05b96972.m3u8
 EXYU: TV PARTIZAN HD (SR)	00`05alive00`05b96973.m3u8
 EXYU: MOJA TV (BH)	00`05alive00`05b96975.m3u8
 EXYU: CITY TV (BH)	00`05alive00`05b96976.m3u8
-===== EXYU SPORTS ===== 	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== EXYU SPORTS ===== 	http://a.b/c.m3u8
 [EXYU] SOS [SRB[	00`05alive00`05b192151.m3u8
 [EXYU] TV PARTIZAN HD [SRB[	00`05alive00`05b192152.m3u8
 [EXYU] HNTV [HR[	00`05alive00`05b192153.m3u8
@@ -5410,7 +5410,7 @@ EXYU: CITY TV (BH)	00`05alive00`05b96976.m3u8
 [EXYU] EUROSPORT 2 HD	00`05alive00`05b79795.m3u8
 [EXYU] FIGHT NETWORK	00`05alive00`05b79796.m3u8
 [EXYU] FIGHTBOX	00`05alive00`05b79797.m3u8
-===== SRBIA =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== SRBIA =====	http://a.b/c.m3u8
 RS: RTS SVET	00`05alive00`05b97090.m3u8
 RS: RTS 1 FHD	00`05alive00`05b97091.m3u8
 RS: RTS 1	00`05alive00`05b97092.m3u8
@@ -5446,7 +5446,7 @@ RS: KCN 2	00`05alive00`05b97122.m3u8
 RS: KCN 1	00`05alive00`05b97123.m3u8
 RS: PALMA PLUS	00`05alive00`05b97124.m3u8
 RS: RTK	00`05alive00`05b97125.m3u8
-===== BOSNIA =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== BOSNIA =====	http://a.b/c.m3u8
 BIH: BHT HD	00`05alive00`05b96769.m3u8
 BIH: BHT	00`05alive00`05b96770.m3u8
 BIH: FTV	00`05alive00`05b96771.m3u8
@@ -5486,7 +5486,7 @@ BIH: POSAVINA TV	00`05alive00`05b96805.m3u8
 BIH: B1 GRADACAC	00`05alive00`05b96806.m3u8
 BIH: ALFA TV SARAJEVO	00`05alive00`05b96807.m3u8
 BIH: BIR TV	00`05alive00`05b96808.m3u8
-===== SLOVENJA =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== SLOVENJA =====	http://a.b/c.m3u8
 SL: SLOV1 HD	00`05alive00`05b113162.m3u8
 SL: SLOV2 HD	00`05alive00`05b113163.m3u8
 SL: SLOV3	00`05alive00`05b113164.m3u8
@@ -5535,7 +5535,7 @@ SL: CBS REALITY	00`05alive00`05b113206.m3u8
 SL: CARTOON NETWORK	00`05alive00`05b113207.m3u8
 SL: ARENA SPORTS 2	00`05alive00`05b113208.m3u8
 SL: ARENA SPORTS 1	00`05alive00`05b113209.m3u8
-===== CROATIA =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== CROATIA =====	http://a.b/c.m3u8
 HR: HRT 1	00`05alive00`05b96810.m3u8
 HR: HRT 1 HD	00`05alive00`05b96811.m3u8
 HR: HRT 2	00`05alive00`05b96812.m3u8
@@ -5560,7 +5560,7 @@ HR: VINKOVACKA TV	00`05alive00`05b96830.m3u8
 HR: TV BANOVINA	00`05alive00`05b96831.m3u8
 HR: Z 1	00`05alive00`05b96832.m3u8
 HR: LAUDATO TV	00`05alive00`05b96833.m3u8
-===== MO: MONTENEGRO =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== MO: MONTENEGRO =====	http://a.b/c.m3u8
 MO: RTV CG 1	00`05alive00`05b96978.m3u8
 MO: RTV CG 2	00`05alive00`05b96979.m3u8
 MO: RTV CG SAT	00`05alive00`05b96980.m3u8
@@ -5571,7 +5571,7 @@ MO: HAPPY CG	00`05alive00`05b96984.m3u8
 MO: TV 777 PODGORICA	00`05alive00`05b96985.m3u8
 MO: I PINK MEDIA M	00`05alive00`05b96986.m3u8
 MO: VIJESTI	00`05alive00`05b96987.m3u8
-===== MAKEDONIA ======	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== MAKEDONIA ======	http://a.b/c.m3u8
 [MK] MRT 1	00`05alive00`05b220209.m3u8
 [MK] MRT 2	00`05alive00`05b220210.m3u8
 [MK] MRT 3	00`05alive00`05b220211.m3u8
@@ -5722,7 +5722,7 @@ MO: VIJESTI	00`05alive00`05b96987.m3u8
 [MK] SKY MAX SELECT 8 HD	00`05alive00`05b220356.m3u8
 [MK] SKY MAX SELECT 9 HD	00`05alive00`05b220357.m3u8
 [MK] SKY MAX SELECT 10 HD	00`05alive00`05b220358.m3u8
-===== AFRICA GENERAL =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== AFRICA GENERAL =====	http://a.b/c.m3u8
 AF: AFRICA TV1	00`05alive00`05b93841.m3u8
 AF: AFRICA TV2	00`05alive00`05b93842.m3u8
 AF: AFRICA TV3	00`05alive00`05b93843.m3u8
@@ -5770,7 +5770,7 @@ AF: E! ENTERTAINMENT TELEVISION	00`05alive00`05b93876.m3u8
 AF: CBS JUSTICE	00`05alive00`05b93879.m3u8
 AF: E TV AFRICA	00`05alive00`05b93880.m3u8
 AF: BLOOMBERG	00`05alive00`05b93881.m3u8
-===== AFRICA MOVIES =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== AFRICA MOVIES =====	http://a.b/c.m3u8
 AF: M-NET WEST	00`05alive00`05b93883.m3u8
 AF: M-NET 1MAGIC	00`05alive00`05b93884.m3u8
 AF: M-NET MOVIES SMILE AFRICA	00`05alive00`05b93885.m3u8
@@ -5783,7 +5783,7 @@ AF: M-NET MOVIES ZONE	00`05alive00`05b93893.m3u8
 AF: M-NET EAST	00`05alive00`05b93894.m3u8
 AF: M-NET BINGE THE HOME OF HBO	00`05alive00`05b116670.m3u8
 AF: TNT AFRICA	00`05alive00`05b93895.m3u8
-===== AFRICA KIDS =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== AFRICA KIDS =====	http://a.b/c.m3u8
 AF: CARTOON NETWORK	00`05alive00`05b93898.m3u8
 AF: BOOMERANG	00`05alive00`05b93899.m3u8
 AF: DISNEY CHANNEL	00`05alive00`05b93900.m3u8
@@ -5795,7 +5795,7 @@ AF: DISNEY JUNIOR	00`05alive00`05b93905.m3u8
 AF: JIMJAM	00`05alive00`05b93906.m3u8
 AF: PBS KIDS	00`05alive00`05b93907.m3u8
 AF: GALAXY	00`05alive00`05b93910.m3u8
-===== AFRICA MUSIC =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== AFRICA MUSIC =====	http://a.b/c.m3u8
 AF: TRACE MIZKI	00`05alive00`05b93912.m3u8
 AF: TRACE KITOKO	00`05alive00`05b93913.m3u8
 AF: TRACE TOCA	00`05alive00`05b93914.m3u8
@@ -5903,7 +5903,7 @@ AF: TV5	00`05alive00`05b120320.m3u8
 AF: TVT	00`05alive00`05b120321.m3u8
 AF: ZEE MAGIC	00`05alive00`05b120322.m3u8
 AF: TV5 MONDE AFRIQUE.	00`05alive00`05b213084.m3u8
-===== AF: SPORT =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== AF: SPORT =====	http://a.b/c.m3u8
 AF: SUPERSPORT PLAY HD	00`05alive00`05b116674.m3u8
 AF: SUPERSPORT MAXIMO 1	00`05alive00`05b116675.m3u8
 AF: SUPERSPORT BLITZ HD	00`05alive00`05b116676.m3u8
@@ -5922,7 +5922,7 @@ AF: SUPERSPORT VARIETY 1 HD	00`05alive00`05b116689.m3u8
 AF: SUPERSPORT VARIETY 2 HD	00`05alive00`05b116690.m3u8
 AF: SUPERSPORT VARIETY 3 HD	00`05alive00`05b116691.m3u8
 AF: SUPERSPORT VARIETY 4 HD	00`05alive00`05b116692.m3u8
-===== SOMALIA =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== SOMALIA =====	http://a.b/c.m3u8
 SOMALIA: UNIVERSAL TV 4k	00`05alive00`05b178382.m3u8
 SOMALIA: MMTV	00`05alive00`05b178383.m3u8
 SOMALIA: UNIVERSAL TV HD	00`05alive00`05b178384.m3u8
@@ -5975,7 +5975,7 @@ SOMALIA: SRTV NEWS HD	00`05alive00`05b178447.m3u8
 SOMALIA: ISLAM CHANNEL	00`05alive00`05b178449.m3u8
 SOMALIA: HIRSHABELLE TV	00`05alive00`05b178450.m3u8
 SOMALIA: ARLAADI TV HD	00`05alive00`05b178451.m3u8
-===== SENEGAL =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== SENEGAL =====	http://a.b/c.m3u8
 SENEGAL: LUTTE TV	https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716771788/ei/bIdTZqGNGoHSi9oPsuGTiA4/ip/92.205.15.128/id/28985Ey2A7s.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51177561/txs/51177561%2C51177562%2C51177563%2C51177564%2C51177565%2C51177566%2C51177567/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgBbYxS4gpy5NDmMJblqdzWu1J9lGJu3ziYPjCSyv2j2sCIQCHYFDUmd3Tneko-pe0YmhrYkQMzcSuHuEth8JG80EPKA%3D%3D/file/index.m3u8
 SENEGAL: ASFIYAHI TV	00`05alive00`05b138926.m3u8
 SENEGAL: RTS2	00`05alive00`05b76626.m3u8
@@ -6005,7 +6005,7 @@ SENEGAL: TVS	00`05alive00`05b128907.m3u8
 SENEGAL: TNT EVENTS	00`05alive00`05b128906.m3u8
 SENEGAL: 7TV	00`05alive00`05b128905.m3u8
 SENEGAL: ITV CHOICE	00`05alive00`05b93875.m3u8
-===== NIGERIA =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== NIGERIA =====	http://a.b/c.m3u8
 [NG] VOX AFRICA	00`05alive00`05b76726.m3u8
 [NG] ROK TV	00`05alive00`05b76727.m3u8
 [NG] AIT	00`05alive00`05b76728.m3u8
@@ -6032,7 +6032,7 @@ SENEGAL: ITV CHOICE	00`05alive00`05b93875.m3u8
 [NG] A+ IVOIRE	00`05alive00`05b613637.m3u8
 [NG] NOLLYWOOD TV	00`05alive00`05b613638.m3u8
 [NG] EMMANUEL TV	00`05alive00`05b613639.m3u8
-===== GHANA =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== GHANA =====	http://a.b/c.m3u8
 GHANA: KESSBEN TV	00`05alive00`05b76694.m3u8
 GHANA: GTV	00`05alive00`05b76696.m3u8
 GHANA: RTV	00`05alive00`05b76697.m3u8
@@ -6053,7 +6053,7 @@ GHANA: 3ABN INTERNATIONAL	00`05alive00`05b76721.m3u8
 GHANA: 3ABN KIDS	00`05alive00`05b76722.m3u8
 GHANA: 3ABN FRANÇAIS	00`05alive00`05b76723.m3u8
 GHANA: ADOM TV	00`05alive00`05b76724.m3u8
-===== ETHIOPIA =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== ETHIOPIA =====	http://a.b/c.m3u8
 ETHIOPIA: ADDIS TV	00`05alive00`05b78193.m3u8
 ETHIOPIA: ES TV	00`05alive00`05b148999.m3u8
 ETHIOPIA: ETV	00`05alive00`05b148998.m3u8
@@ -6061,7 +6061,7 @@ ETHIOPIA: FANA TV	00`05alive00`05b78202.m3u8
 ETHIOPIA: NAHOO TV	00`05alive00`05b78204.m3u8
 ETHIOPIA: DIMITSI WEYANE	00`05alive00`05b78205.m3u8
 ETHIOPIA: AMHARA	00`05alive00`05b78206.m3u8
-===== CAMEROON =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== CAMEROON =====	http://a.b/c.m3u8
 CAMEROON: EQUINOXE CAMEROUN	00`05alive00`05b78215.m3u8
 CAMEROON: CR TV	00`05alive00`05b78216.m3u8
 CAMEROON: CR TV NEWS	00`05alive00`05b78217.m3u8
@@ -6075,7 +6075,7 @@ CAMEROON: FRANCE INFO	00`05alive00`05b78229.m3u8
 CAMEROON: BOOM TV	00`05alive00`05b123137.m3u8
 CAMEROON: CRTV SPORTS HD	00`05alive00`05b213082.m3u8
 CAMEROON: EQUINOXE HD	00`05alive00`05b213083.m3u8
-===== CONGO =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== CONGO =====	http://a.b/c.m3u8
 CONGO: RTNC 1	00`05alive00`05b116786.m3u8
 CONGO: RTNC 3	00`05alive00`05b78244.m3u8
 CONGO: VOX TV	00`05alive00`05b78233.m3u8
@@ -6085,12 +6085,12 @@ CONGO: B-ONE	00`05alive00`05b78237.m3u8
 CONGO: DIGITAL CONGO	00`05alive00`05b78238.m3u8
 CONGO: DRTV	00`05alive00`05b78241.m3u8
 CONGO: RTNC 1	00`05alive00`05b78242.m3u8
-===== ERITREA =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== ERITREA =====	http://a.b/c.m3u8
 ERITREA: ERI TV	00`05alive00`05b78246.m3u8
-===== SIERRALEONE =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== SIERRALEONE =====	http://a.b/c.m3u8
 SIERRALEONE: AMAZE TV	00`05alive00`05b78249.m3u8
 SIERRALEONE: KTV	00`05alive00`05b78250.m3u8
-===== UGANDA =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== UGANDA =====	http://a.b/c.m3u8
 UGANDA: NTV	00`05alive00`05b78255.m3u8
 UGANDA: STUDIO UNIVERSAL	00`05alive00`05b78257.m3u8
 UGANDA: TELEMUNDO	00`05alive00`05b78259.m3u8
@@ -6110,35 +6110,35 @@ UGANDA: CITIZEN TV	00`05alive00`05b78285.m3u8
 UGANDA: KBCTV	00`05alive00`05b78287.m3u8
 UGANDA: BBS TV	00`05alive00`05b78293.m3u8
 UGANDA: NTV	00`05alive00`05b78296.m3u8
-===== TOGO =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== TOGO =====	http://a.b/c.m3u8
 TOGO: AIT	00`05alive00`05b78304.m3u8
-===== GAMBIA =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== GAMBIA =====	http://a.b/c.m3u8
 GAMBIA: QTV	00`05alive00`05b78306.m3u8
-===== TANZANIA =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== TANZANIA =====	http://a.b/c.m3u8
 TANZANIA: RWANDA TV	00`05alive00`05b78308.m3u8
 TANZANIA: KTN	00`05alive00`05b78309.m3u8
-===== GUINEE =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== GUINEE =====	http://a.b/c.m3u8
 GUINEE: TVGE	00`05alive00`05b78317.m3u8
 GUINEE: WES AFRICA TV	00`05alive00`05b78319.m3u8
 GUINEE: RTG	00`05alive00`05b78320.m3u8
 GUINEE: CIS TV	00`05alive00`05b78321.m3u8
 GUINEE: ESPACE TV	00`05alive00`05b78322.m3u8
 GUINEE: BUZZ	00`05alive00`05b78323.m3u8
-===== GABON =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== GABON =====	http://a.b/c.m3u8
 [AF] GABON TV	00`05alive00`05b622072.m3u8
-===== COTEDIVOIRE =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== COTEDIVOIRE =====	http://a.b/c.m3u8
 COTEDIVOIRE: RTI1	00`05alive00`05b78328.m3u8
 COTEDIVOIRE: RTI2	00`05alive00`05b78329.m3u8
 COTEDIVOIRE: NCI SD	00`05alive00`05b285967.m3u8
-===== BURKINAFASO =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== BURKINAFASO =====	http://a.b/c.m3u8
 BURKINAFASO: RTB	00`05alive00`05b78331.m3u8
 BURKINAFASO: IMPACT TV	00`05alive00`05b78332.m3u8
-===== ANGOLA =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== ANGOLA =====	http://a.b/c.m3u8
 ANGOLA: INTERNATIONAL	00`05alive00`05b78335.m3u8
 ANGOLA: TPA 1	00`05alive00`05b78336.m3u8
-===== TCHAD =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== TCHAD =====	http://a.b/c.m3u8
 TCHAD: TELE TCHAD	00`05alive00`05b78338.m3u8
-===== KENYA =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== KENYA =====	http://a.b/c.m3u8
 KENYA: KTN	00`05alive00`05b78340.m3u8
 KENYA: K24	00`05alive00`05b78341.m3u8
 KENYA: CITIZN	00`05alive00`05b78342.m3u8
@@ -6150,24 +6150,24 @@ KENYA: NTV LIVE	00`05alive00`05b78348.m3u8
 KENYA: YADAH TV	00`05alive00`05b78350.m3u8
 KENYA: KWANZA	00`05alive00`05b78351.m3u8
 KENYA: GBS	00`05alive00`05b78352.m3u8
-===== BENIN =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== BENIN =====	http://a.b/c.m3u8
 BENIN: ORTB	00`05alive00`05b78354.m3u8
-===== ROWANDA =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== ROWANDA =====	http://a.b/c.m3u8
 ROWANDA: RTV	00`05alive00`05b78356.m3u8
-===== MOZAMBIQUE =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== MOZAMBIQUE =====	http://a.b/c.m3u8
 MOZAMBIQUE: TVM1	00`05alive00`05b78358.m3u8
 MOZAMBIQUE: TVM2	00`05alive00`05b78359.m3u8
 MOZAMBIQUE: TVMANA MOÇAMBIQUE	00`05alive00`05b78360.m3u8
 MOZAMBIQUE: TVMANA MAPUTO(MOZANBI9)	00`05alive00`05b78361.m3u8
 MOZAMBIQUE: TVMANA1 MAPUTO	00`05alive00`05b78362.m3u8
-===== MALI =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== MALI =====	http://a.b/c.m3u8
 MALI: AFRICABLE	00`05alive00`05b78365.m3u8
 MALI: ORTM	00`05alive00`05b78366.m3u8
 MALI: SUNNA SAVANA	00`05alive00`05b78367.m3u8
-===== DJIBOUTI =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== DJIBOUTI =====	http://a.b/c.m3u8
 DJIBOUTI: RTD	00`05alive00`05b78369.m3u8
-===== CAPEVERDE =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
-===== NAMIBIA =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== CAPEVERDE =====	http://a.b/c.m3u8
+===== NAMIBIA =====	http://a.b/c.m3u8
 NAMIBIA: ONE AFRICA TV	00`05alive00`05b78372.m3u8
 [RELIGIOUS] DAYSTAR	00`05alive00`05b591765.m3u8
 [RELIGIOUS] DOVE TV	00`05alive00`05b591766.m3u8
@@ -6177,7 +6177,7 @@ NAMIBIA: ONE AFRICA TV	00`05alive00`05b78372.m3u8
 [RELIGIOUS] FAITH TV	00`05alive00`05b591770.m3u8
 [RELIGIOUS] NRB TV	00`05alive00`05b591771.m3u8
 [RELIGIOUS] DARE TO DREAM	00`05alive00`05b591772.m3u8
-===== USA NBC =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== USA NBC =====	http://a.b/c.m3u8
 [US] NBC (WBIR) KNOXVILLE	00`05alive00`05b157442.m3u8
 [US] NBC SD (SIOUX CITY)	00`05alive00`05b157443.m3u8
 [US] NBC 3 (WICHITA KS)	00`05alive00`05b157444.m3u8
@@ -6387,7 +6387,7 @@ NAMIBIA: ONE AFRICA TV	00`05alive00`05b78372.m3u8
 [US] NBC 48 SD (HUNTSVILLE)	00`05alive00`05b157648.m3u8
 [US] NBC 51 HD (FORT SMITH)	00`05alive00`05b157649.m3u8
 [US] NBC 56 HD (JACKSONVILLE)	00`05alive00`05b157650.m3u8
-===== USA NEWS =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== USA NEWS =====	http://a.b/c.m3u8
 [US] ABC NEWS HD	00`05alive00`05b158558.m3u8
 [US] FOX HD	00`05alive00`05b158561.m3u8
 [US] FOX NEWS CHANNEL HD	00`05alive00`05b158562.m3u8
@@ -6445,7 +6445,7 @@ NAMIBIA: ONE AFRICA TV	00`05alive00`05b78372.m3u8
 [US] THE WEATHER CHANNEL HD	00`05alive00`05b158615.m3u8
 [US] ACCU WEATHER HD	00`05alive00`05b158616.m3u8
 [US] NEWS 12 NEW JERSEY	00`05alive00`05b158617.m3u8
-===== USA ENTERTAINMENT =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== USA ENTERTAINMENT =====	http://a.b/c.m3u8
 [US] A&amp;E HD	00`05alive00`05b157936.m3u8
 [US] ADULT SWIM HD	00`05alive00`05b157937.m3u8
 [US] AMERICAN HEROES CHANNEL HD	00`05alive00`05b157938.m3u8
@@ -6540,7 +6540,7 @@ NAMIBIA: ONE AFRICA TV	00`05alive00`05b78372.m3u8
 [US] GALAVISION HD	00`05alive00`05b158027.m3u8
 [US] SPIKE/PARAMOUNT HD	00`05alive00`05b158028.m3u8
 [US] DEFIANCE	00`05alive00`05b158029.m3u8
-===== USA MOVIES =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== USA MOVIES =====	http://a.b/c.m3u8
 [US] 5 STAR MAX HD	00`05alive00`05b158069.m3u8
 [US] EPIX HITS HD	00`05alive00`05b158070.m3u8
 [US] EPIX HD	00`05alive00`05b158071.m3u8
@@ -6895,7 +6895,7 @@ NAMIBIA: ONE AFRICA TV	00`05alive00`05b78372.m3u8
 24/7 TOO OLD TO DIE YOUNG	00`05alive00`05b443847.m3u8
 24/7 FBI: MOST WANTED	00`05alive00`05b443848.m3u8
 24/7 BAR RESCUE	00`05alive00`05b443849.m3u8
-===== USA DOCUMENTARY =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== USA DOCUMENTARY =====	http://a.b/c.m3u8
 [US] DISCOVERY INVESTIGATION HD	00`05alive00`05b158031.m3u8
 [US] CRIME AND INVESTIGATION FHD	00`05alive00`05b158032.m3u8
 [US] HISTORY CHANNEL HD	00`05alive00`05b158033.m3u8
@@ -6932,7 +6932,7 @@ NAMIBIA: ONE AFRICA TV	00`05alive00`05b78372.m3u8
 [US] DIY NETWORK HD	00`05alive00`05b158065.m3u8
 [US] WILD EARTH	00`05alive00`05b158066.m3u8
 [US] MAGNOLIA	00`05alive00`05b158067.m3u8
-===== USA KIDS =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== USA KIDS =====	http://a.b/c.m3u8
 [US] BABY TV	00`05alive00`05b157251.m3u8
 [US] BABY FIRST TV HD	00`05alive00`05b157252.m3u8
 [US] NICK JR HD	00`05alive00`05b157253.m3u8
@@ -6948,7 +6948,7 @@ NAMIBIA: ONE AFRICA TV	00`05alive00`05b78372.m3u8
 [US] BOOMERANG	00`05alive00`05b157263.m3u8
 [US] UNIVERSAL KIDS HD	00`05alive00`05b157264.m3u8
 [US] CARTOONITO ES 	00`05alive00`05b157265.m3u8
-===== USA MUSIC =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== USA MUSIC =====	http://a.b/c.m3u8
 [US] MTV HD	00`05alive00`05b158619.m3u8
 [US] MTV 2 HD.	00`05alive00`05b158620.m3u8
 [US] MTV LIVE HD	00`05alive00`05b158621.m3u8
@@ -7005,7 +7005,7 @@ NAMIBIA: ONE AFRICA TV	00`05alive00`05b78372.m3u8
 [US] MC MUSIC YOUTH HITS	00`05alive00`05b158672.m3u8
 [US] MC MUSIC COUNTRY HITS	00`05alive00`05b158673.m3u8
 [US] BET HER HD	00`05alive00`05b158674.m3u8
-=====] USA SPORTS [=====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+=====] USA SPORTS [=====	http://a.b/c.m3u8
 [US] ACC NETWORK HD	00`05alive00`05b159606.m3u8
 [US] BIG TEN NETWORK HD	00`05alive00`05b159607.m3u8
 [US] CBS SPORTS NETWORK HD	00`05alive00`05b159608.m3u8
@@ -7033,7 +7033,7 @@ NAMIBIA: ONE AFRICA TV	00`05alive00`05b78372.m3u8
 [US] PAC-12 LOS ANGELES	00`05alive00`05b159630.m3u8
 [US] PAC-12 OREGON	00`05alive00`05b159631.m3u8
 [US] PAC-12 WASHINGTON	00`05alive00`05b159632.m3u8
-===== USA BEIN SPORTS =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== USA BEIN SPORTS =====	http://a.b/c.m3u8
 [US] (EN) BEIN SPORTS	00`05alive00`05b159634.m3u8
 [US] (SP) BEIN SPORTS LALIGA	00`05alive00`05b159635.m3u8
 [US] BEIN SPORTS XTRA	00`05alive00`05b159636.m3u8
@@ -7044,7 +7044,7 @@ NAMIBIA: ONE AFRICA TV	00`05alive00`05b78372.m3u8
 [US] BEIN SPORTS 7	00`05alive00`05b159641.m3u8
 [US] BEIN SPORTS 8	00`05alive00`05b159642.m3u8
 [US] TENNIS CHANNEL HD	00`05alive00`05b159643.m3u8
-===== USA LIVE EVENTS =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== USA LIVE EVENTS =====	http://a.b/c.m3u8
 [US] UFC Fight Pass 24/7	00`05alive00`05b159645.m3u8
 [US] PPV LIVE	00`05alive00`05b159646.m3u8
 [US] PPV 01 EARLY PRELIMS UFC 264	00`05alive00`05b159647.m3u8
@@ -7059,7 +7059,7 @@ NAMIBIA: ONE AFRICA TV	00`05alive00`05b78372.m3u8
 [US] PPV 10 - LIVE ONLY	00`05alive00`05b159656.m3u8
 [US] SPORTSNET NEW YORK.	00`05alive00`05b159657.m3u8
 [US] SPORTSNET NEW YORK FHD	00`05alive00`05b159658.m3u8
-===== USA MLS =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== USA MLS =====	http://a.b/c.m3u8
 [US] MLS SOCCER 01	00`05alive00`05b159670.m3u8
 [US] MLS SOCCER 02	00`05alive00`05b159671.m3u8
 [US] MLS SOCCER 03	00`05alive00`05b159672.m3u8
@@ -7070,7 +7070,7 @@ NAMIBIA: ONE AFRICA TV	00`05alive00`05b78372.m3u8
 [US] MLS SOCCER 08	00`05alive00`05b159677.m3u8
 [US] MLS SOCCER 09	00`05alive00`05b159678.m3u8
 [US] MLS SOCCER 10 	00`05alive00`05b159679.m3u8
-=====] BALLY SPORTS [=====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+=====] BALLY SPORTS [=====	http://a.b/c.m3u8
 [US] BALLY SPORTS SOUTH	00`05alive00`05b159681.m3u8
 [US] BALLY SPORTS SUN	00`05alive00`05b159682.m3u8
 [US] BALLY SPORTS TENNESSEE	00`05alive00`05b159683.m3u8
@@ -7088,7 +7088,7 @@ NAMIBIA: ONE AFRICA TV	00`05alive00`05b78372.m3u8
 [US] BALLY SPORTS SOUTHEAST	00`05alive00`05b159695.m3u8
 [US] BALLY SPORTS WEST	00`05alive00`05b159696.m3u8
 [US] BALLY SPORTS WISCONSIN	00`05alive00`05b159697.m3u8
-===== NBA LEAUGE PASS =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== NBA LEAUGE PASS =====	http://a.b/c.m3u8
 [US] TENNIS CHANNEL PLUS 1	00`05alive00`05b185050.m3u8
 [US] TENNIS CHANNEL PLUS 2	00`05alive00`05b185051.m3u8
 [US] TENNIS CHANNEL PLUS 3	00`05alive00`05b185052.m3u8
@@ -7149,7 +7149,7 @@ NAMIBIA: ONE AFRICA TV	00`05alive00`05b78372.m3u8
 [US] NBA: TORONTO RAPTORS	00`05alive00`05b224672.m3u8
 [US] NBA: UTAH JAZZ	00`05alive00`05b224673.m3u8
 [US] NBA: WASHINGTON WIZARDS	00`05alive00`05b224674.m3u8
-===== NBA-LIVE EVENT =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== NBA-LIVE EVENT =====	http://a.b/c.m3u8
 [US] FLO SPORTS 1	00`05alive00`05b580512.m3u8
 [US] FLO SPORTS 2	00`05alive00`05b580513.m3u8
 [US] FLO SPORTS 3	00`05alive00`05b580514.m3u8
@@ -7164,7 +7164,7 @@ NAMIBIA: ONE AFRICA TV	00`05alive00`05b78372.m3u8
 [US] FLO SPORTS 12	00`05alive00`05b580523.m3u8
 [US] FLO SPORTS 13	00`05alive00`05b580524.m3u8
 [US] FLO SPORTS 14	00`05alive00`05b580525.m3u8
-===== USA NFL =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== USA NFL =====	http://a.b/c.m3u8
 [US] NFL GAME 01	00`05alive00`05b158420.m3u8
 [US] NFL GAME 02	00`05alive00`05b158421.m3u8
 [US] NFL GAME 03	00`05alive00`05b158422.m3u8
@@ -7421,7 +7421,7 @@ MLB TEAMS: Houston Astros (HOU) (D)	00`05alive00`05b580324.m3u8
 [US] MILB 50	00`05alive00`05b580374.m3u8
 [US] MILB 51	00`05alive00`05b580375.m3u8
 [US] MILB 52	00`05alive00`05b580376.m3u8
-===== USA EVENTS =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== USA EVENTS =====	http://a.b/c.m3u8
 [US] PPV 01 ] MMA: Cage Warriors 162 Rome ] UK Sat 28 Oct 5pm // ET Sat 28 Oct 12am	00`05alive00`05b368231.m3u8
 [US] PPV 02 ] BOXING: Fury v Ngannou ] UK Sat 28 Oct 7:00pm ] ET Sat 28 Oct 2pm	00`05alive00`05b368232.m3u8
 [US] PPV 03 ] BOXING: Fury v Ngannou ] UK Sat 28 Oct 7:00pm ] ET Sat 28 Oct 2pm (Backup)	00`05alive00`05b368233.m3u8
@@ -7448,7 +7448,7 @@ MLB TEAMS: Houston Astros (HOU) (D)	00`05alive00`05b580324.m3u8
 [US] PPV 24 ] No Scheduled Event	00`05alive00`05b368254.m3u8
 [US] PPV 25 ] No Scheduled Event	00`05alive00`05b368255.m3u8
 [US] PPV 26 ] No Scheduled Event	00`05alive00`05b368256.m3u8
-===== BOX PPV =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== BOX PPV =====	http://a.b/c.m3u8
 [BOX PPV[DE] DAZN	00`05alive00`05b616923.m3u8
 [BOX PPV[BG] DAZN	00`05alive00`05b616924.m3u8
 [BOX PPV[US] DAZN 01 HD	00`05alive00`05b616925.m3u8
@@ -7702,7 +7702,7 @@ MLB TEAMS: Houston Astros (HOU) (D)	00`05alive00`05b580324.m3u8
 [US] ESPN+ 198	00`05alive00`05b542541.m3u8
 [US] ESPN+ 199	00`05alive00`05b542542.m3u8
 [US] ESPN+ 200	00`05alive00`05b542543.m3u8
-===== USA NHL =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== USA NHL =====	http://a.b/c.m3u8
 [US] NHL ANAHEIM DUCKS (ANA) HD	00`05alive00`05b158371.m3u8
 [US] NHL ARIZONA COYOTES (AZN) HD	00`05alive00`05b158372.m3u8
 [US] NHL BOSTON BRUINS (BOS) HD	00`05alive00`05b158373.m3u8
@@ -7734,7 +7734,7 @@ MLB TEAMS: Houston Astros (HOU) (D)	00`05alive00`05b580324.m3u8
 [US] NHL WASHINGTON CAPITALS (WAS) HD	00`05alive00`05b158400.m3u8
 [US] NHL : SEATTLE KRAKEN	00`05alive00`05b158401.m3u8
 [US] NHL TEAMS: MINNESOTA WILD HD	00`05alive00`05b158402.m3u8
-===== NHL EVENTS ONLY =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== NHL EVENTS ONLY =====	http://a.b/c.m3u8
 [US] NHL LIVE 01	00`05alive00`05b158404.m3u8
 [US] NHL LIVE 02	00`05alive00`05b158405.m3u8
 [US] NHL LIVE 03	00`05alive00`05b158406.m3u8
@@ -7750,7 +7750,7 @@ MLB TEAMS: Houston Astros (HOU) (D)	00`05alive00`05b580324.m3u8
 [US] NHL LIVE 13	00`05alive00`05b158416.m3u8
 [US] NHL LIVE 14	00`05alive00`05b158417.m3u8
 [US] NHL LIVE 15	00`05alive00`05b158418.m3u8
-===== USA CBS =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== USA CBS =====	http://a.b/c.m3u8
 [US] CBS SD (SPORTS NETWORK)	00`05alive00`05b157652.m3u8
 [US] CBS 2 HD (CHICAGO)	00`05alive00`05b157653.m3u8
 [US] CBS 2 HD (NEW YORK)	00`05alive00`05b157654.m3u8
@@ -7887,7 +7887,7 @@ MLB TEAMS: Houston Astros (HOU) (D)	00`05alive00`05b580324.m3u8
 [US] CBS 58 HD (MILWAUKEE WI)	00`05alive00`05b157785.m3u8
 [US] CBS 62 HD (DETROIT MI)	00`05alive00`05b157786.m3u8
 [US] CBS 62 HD (DETROIT)	00`05alive00`05b157787.m3u8
-===== USA MY =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== USA MY =====	http://a.b/c.m3u8
 [US] MY 13 (KCOP) LOS ANGELES	00`05alive00`05b157398.m3u8
 [US] MY 40 (WMYA) CAROLINA 	00`05alive00`05b157399.m3u8
 [US] MY20 (KTXH) HOUSTON	00`05alive00`05b157400.m3u8
@@ -7898,7 +7898,7 @@ MLB TEAMS: Houston Astros (HOU) (D)	00`05alive00`05b580324.m3u8
 [US] MY50 CHICAGO.	00`05alive00`05b157405.m3u8
 [US] MY65 (WRBW) ORLANDO	00`05alive00`05b157406.m3u8
 [US] MYTV (KUTP) PHOENIX 	00`05alive00`05b157407.m3u8
-===== USA CW =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== USA CW =====	http://a.b/c.m3u8
 [US] CW 5 HD (PALM SPRINGS)	00`05alive00`05b157409.m3u8
 [US] CW 8 HD (MISSOULA)	00`05alive00`05b157410.m3u8
 [US] CW PIX 11 HD	00`05alive00`05b157411.m3u8
@@ -7930,7 +7930,7 @@ MLB TEAMS: Houston Astros (HOU) (D)	00`05alive00`05b580324.m3u8
 [US] CW 58 HD (LOUISVILLE)	00`05alive00`05b157438.m3u8
 [US] CW 58 (NASHVILLE)	00`05alive00`05b157439.m3u8
 [US] CW 69 HD (ATLANTA)	00`05alive00`05b157440.m3u8
-===== USA ABC =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== USA ABC =====	http://a.b/c.m3u8
 [US] ABC 2 HD (BATON ROUGE)	00`05alive00`05b157789.m3u8
 [US] ABC 2 HD (ATLANTA)	00`05alive00`05b157790.m3u8
 [US] ABC 2 HD (BALTIMORE)	00`05alive00`05b157791.m3u8
@@ -7990,7 +7990,7 @@ MLB TEAMS: Houston Astros (HOU) (D)	00`05alive00`05b580324.m3u8
 [US] ABC 36 HD (LEXINGTON)	00`05alive00`05b157845.m3u8
 [US] ABC 45 HD (WINSTON-SALEM)	00`05alive00`05b157846.m3u8
 [US] ABC 68 HD (BIRMINGHAM)	00`05alive00`05b157847.m3u8
-===== USA FOX =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== USA FOX =====	http://a.b/c.m3u8
 [US] FOX (KABB) SAN ANTONIO	00`05alive00`05b157267.m3u8
 [US] FOX (KKFX) LOMPOC	00`05alive00`05b157268.m3u8
 [US] FOX (KRQE) ALBUQUERQUE-SANTA FE	00`05alive00`05b157269.m3u8
@@ -8121,7 +8121,7 @@ MLB TEAMS: Houston Astros (HOU) (D)	00`05alive00`05b580324.m3u8
 [US] FOX 64 HD (PROVIDENCE)	00`05alive00`05b157394.m3u8
 [US] FOX 67 HD (TEXAS)	00`05alive00`05b157395.m3u8
 [US] FOX 68 HD (SYRACUSE)	00`05alive00`05b157396.m3u8
-===== CANADA =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== CANADA =====	http://a.b/c.m3u8
 [CA-FR] ADDIK TV	00`05alive00`05b94403.m3u8
 [CA] CTV SYDNEY HD	00`05alive00`05b235125.m3u8
 [CA] CTV LIFE HD	00`05alive00`05b235126.m3u8
@@ -8265,7 +8265,7 @@ CA: WILD TV	00`05alive00`05b94216.m3u8
 CA: YES TV	00`05alive00`05b94218.m3u8
 CA: Z TELE	00`05alive00`05b94220.m3u8
 CA: ZESTE	00`05alive00`05b94221.m3u8
-===== KIDS =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== KIDS =====	http://a.b/c.m3u8
 CA: ABC SPARK CANADA	00`05alive00`05b94224.m3u8
 CA: CARTOON NETWORK	00`05alive00`05b94225.m3u8
 CA: DISNEY CANADA	00`05alive00`05b94226.m3u8
@@ -8277,14 +8277,14 @@ CA: TELE TOON FRENCH	00`05alive00`05b94231.m3u8
 CA: TREEHOUSE	00`05alive00`05b94232.m3u8
 CA: YTV	00`05alive00`05b94233.m3u8
 CA: TRAVEL ESCAPE	00`05alive00`05b94235.m3u8
-===== NEWS =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== NEWS =====	http://a.b/c.m3u8
 CA: BBC WORLD NEWS	00`05alive00`05b94237.m3u8
 CA: CNBC	00`05alive00`05b94238.m3u8
 CA: CNN	00`05alive00`05b94239.m3u8
 CA: CNN INTERNATIONAL	00`05alive00`05b94240.m3u8
 CA: CBC NEWS	00`05alive00`05b94241.m3u8
 CA: FOX NEWS	00`05alive00`05b94242.m3u8
-===== SPORTS & EVENTS =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== SPORTS & EVENTS =====	http://a.b/c.m3u8
 CA: SPORTSNET 360	00`05alive00`05b94244.m3u8
 CA: SPORTSNET EAST	00`05alive00`05b94245.m3u8
 CA: SPORTSNET ONE	00`05alive00`05b94246.m3u8
@@ -8392,15 +8392,15 @@ CA: SPORTSNET PACIFIC	00`05alive00`05b94248.m3u8
 [CA] NBA TV HD	00`05alive00`05b268644.m3u8
 [CA] NFL NETWORK HD	00`05alive00`05b268645.m3u8
 CA: SPORTSNET WEST	00`05alive00`05b94249.m3u8
-===== MUSIC =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== MUSIC =====	http://a.b/c.m3u8
 CA: BET	00`05alive00`05b94251.m3u8
 CA: MUSIQUE PLUS	00`05alive00`05b94252.m3u8
 CA: MTV	00`05alive00`05b94253.m3u8
 CA: MTV 2	00`05alive00`05b94254.m3u8
-===== COOKING =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== COOKING =====	http://a.b/c.m3u8
 CA: FOOD NETWORK	00`05alive00`05b94256.m3u8
 CA: COOKING CHANNEL	00`05alive00`05b94257.m3u8
-===== DOCUMENTARY =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== DOCUMENTARY =====	http://a.b/c.m3u8
 CA: MUCH MUSIC	00`05alive00`05b94259.m3u8
 CA: ANIMAL PLANET	00`05alive00`05b94260.m3u8
 CA: DISCOVERY CANADA	00`05alive00`05b94262.m3u8
@@ -8409,7 +8409,7 @@ CA: DOCUMENTARY	00`05alive00`05b94264.m3u8
 CA: HISTORIO	00`05alive00`05b94265.m3u8
 CA: HISTORY	00`05alive00`05b94266.m3u8
 CA: NAT GEO	00`05alive00`05b94267.m3u8
-===== LOCAL =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== LOCAL =====	http://a.b/c.m3u8
 CA: CTV 2 VANCOUVER	00`05alive00`05b94269.m3u8
 CA: CTV HALIFAX	00`05alive00`05b94270.m3u8
 CA: CTV MONTREAL	00`05alive00`05b94271.m3u8
@@ -8418,7 +8418,7 @@ CA: CTV TORONTO	00`05alive00`05b94273.m3u8
 CA: CTV VANCOUVER	00`05alive00`05b94274.m3u8
 CA: CTV2 OTTAWA	00`05alive00`05b94275.m3u8
 CA: CTV NEWS NETWORK	00`05alive00`05b94276.m3u8
-===== CANADA FRENCH =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== CANADA FRENCH =====	http://a.b/c.m3u8
 [CA-FR] ADDIKTV HD	00`05alive00`05b94278.m3u8
 [CA-FR] AMI-TELE HD	00`05alive00`05b94279.m3u8
 [CA-FR] CANAL VIE HD	00`05alive00`05b94283.m3u8
@@ -8660,7 +8660,7 @@ CA: ADDIK TV	00`05alive00`05b94082.m3u8
 [CA] CBC NEWS HD	00`05alive00`05b268765.m3u8
 [CA] CTV NEWS HD	00`05alive00`05b268766.m3u8
 [CA] FOX NEWS HD	00`05alive00`05b268767.m3u8
-===== LATIN GENERAL =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== LATIN GENERAL =====	http://a.b/c.m3u8
 LATIN: FORO TV	00`05alive00`05b94982.m3u8
 LATIN: TDN	00`05alive00`05b94983.m3u8
 LATIN: HOLA TV	00`05alive00`05b94984.m3u8
@@ -8676,7 +8676,7 @@ LATIN: TELEMUNDO INTERNACIONAL	00`05alive00`05b94993.m3u8
 LATIN: UNIMAS	00`05alive00`05b94994.m3u8
 LATIN: ISAT	00`05alive00`05b94995.m3u8
 LATIN: PASIONES	00`05alive00`05b94996.m3u8
-===== LATIN MOVIES =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== LATIN MOVIES =====	http://a.b/c.m3u8
 LATIN: HBO	00`05alive00`05b94998.m3u8
 LATIN: HBO 2	00`05alive00`05b94999.m3u8
 LATIN: HBO PLUS	00`05alive00`05b95000.m3u8
@@ -8730,7 +8730,7 @@ LATIN: TNT	00`05alive00`05b95047.m3u8
 LATIN: GOLDEN EDGE	00`05alive00`05b95048.m3u8
 LATIN: GOLDEN	00`05alive00`05b95049.m3u8
 LATIN: MAX UP	00`05alive00`05b95050.m3u8
-===== LATIN ENTERTAINMENTS =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== LATIN ENTERTAINMENTS =====	http://a.b/c.m3u8
 LATIN: CINEMA DINAMITA	00`05alive00`05b95052.m3u8
 LATIN: A&E	00`05alive00`05b95053.m3u8
 LATIN: MASCHIC	00`05alive00`05b95054.m3u8
@@ -8738,7 +8738,7 @@ LATIN: DISTRITO COMEDIA	00`05alive00`05b95055.m3u8
 LATIN: E! ENTERTAINMENT	00`05alive00`05b95056.m3u8
 LATIN: TRU TV	00`05alive00`05b95057.m3u8
 LATIN: GOURMET	00`05alive00`05b95058.m3u8
-===== LATIN KIDS =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== LATIN KIDS =====	http://a.b/c.m3u8
 LATIN: DISNEY CHANNEL.	00`05alive00`05b95060.m3u8
 LATIN: DISNEY JR	00`05alive00`05b95061.m3u8
 LATIN: NICK JR	00`05alive00`05b95062.m3u8
@@ -8753,7 +8753,7 @@ LATIN: CANAL DE LAS ESTRELLAS.	00`05alive00`05b95070.m3u8
 LATIN: CARTOON NETWORK	00`05alive00`05b95071.m3u8
 LATIN: CINE MAX	00`05alive00`05b95072.m3u8
 LATIN: ONCE	00`05alive00`05b95073.m3u8
-===== LATIN DOCUMENTARY =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== LATIN DOCUMENTARY =====	http://a.b/c.m3u8
 LATIN: NAT GEO	00`05alive00`05b95075.m3u8
 LATIN: NAT GEO WILD	00`05alive00`05b95076.m3u8
 LATIN: DISCOVERY CHANNEL	00`05alive00`05b95077.m3u8
@@ -8767,7 +8767,7 @@ LATIN: ANIMAL PLANET	00`05alive00`05b95084.m3u8
 LATIN: HISTORY	00`05alive00`05b95085.m3u8
 LATIN: ID	00`05alive00`05b95086.m3u8
 LATIN: H2	00`05alive00`05b95087.m3u8
-===== LATIN SPORTS =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== LATIN SPORTS =====	http://a.b/c.m3u8
 LATIN: ESPN	00`05alive00`05b95089.m3u8
 LATIN: ESPN 2.	00`05alive00`05b95090.m3u8
 LATIN: ESPN 3	00`05alive00`05b95091.m3u8
@@ -8777,16 +8777,16 @@ LATIN: UNIVISION DEPORTES	00`05alive00`05b95094.m3u8
 LATIN: CLARO SPORT 2	00`05alive00`05b95095.m3u8
 LATIN: WIN SPORT HD	00`05alive00`05b95096.m3u8
 LATIN: CLARO SPORT	00`05alive00`05b95097.m3u8
-===== LATIN NEWS =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== LATIN NEWS =====	http://a.b/c.m3u8
 LATIN: CNN	00`05alive00`05b95099.m3u8
-===== LATIN MUSIC =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== LATIN MUSIC =====	http://a.b/c.m3u8
 LATIN: CLARO MUSIC	00`05alive00`05b95101.m3u8
 LATIN: HTV	00`05alive00`05b95102.m3u8
 LATIN: TUMUSICA	00`05alive00`05b95103.m3u8
 LATIN: MTV	00`05alive00`05b95104.m3u8
 LATIN: SUNDANCE	00`05alive00`05b95105.m3u8
 LATIN: VH1	00`05alive00`05b95106.m3u8
-===== BRAZIL GENERAL =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== BRAZIL GENERAL =====	http://a.b/c.m3u8
 [BR] CNN BRASIL FHD	00`05alive00`05b577023.m3u8
 [BR] CNN BRASIL HD	00`05alive00`05b577024.m3u8
 [BR] CNN BRASIL SD	00`05alive00`05b577025.m3u8
@@ -8910,7 +8910,7 @@ LATIN: VH1	00`05alive00`05b95106.m3u8
 [BR] BBB SEGUE O LIDER	00`05alive00`05b577143.m3u8
 [BR] BBB ACOMPANHE A CASA 02	00`05alive00`05b577144.m3u8
 [BR] BBB ACOMPANHE A CASA 01	00`05alive00`05b577145.m3u8
-===== ARGENTINA =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== ARGENTINA =====	http://a.b/c.m3u8
 ARGENTINA: TV PUBLICA	00`05alive00`05b94730.m3u8
 ARGENTINA: AMERICA TV	00`05alive00`05b94731.m3u8
 ARGENTINA: TELEFE	00`05alive00`05b94732.m3u8
@@ -8943,7 +8943,7 @@ ARGENTINA: ESPN	00`05alive00`05b94761.m3u8
 ARGENTINA: ESPN 2	00`05alive00`05b94762.m3u8
 ARGENTINA: ESPN 3	00`05alive00`05b94763.m3u8
 ARGENTINA: TYC	00`05alive00`05b94764.m3u8
-===== COLOMBIA =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== COLOMBIA =====	http://a.b/c.m3u8
 COLOMBIA: CARACOL	00`05alive00`05b94432.m3u8
 COLOMBIA: CARACOL HD2	00`05alive00`05b94433.m3u8
 COLOMBIA: CARACOL INTERNACIONAL	00`05alive00`05b94434.m3u8
@@ -8972,7 +8972,7 @@ COLOMBIA: DIRECTV SPORTS 2	00`05alive00`05b94465.m3u8
 [COLOMBIA] WIN SPORTS + OPC. 1 HD	00`05alive00`05b192277.m3u8
 [COLOMBIA] WIN SPORTS + OPC. 2 HD	00`05alive00`05b192278.m3u8
 [COLOMBIA] WIN SPORTS + OPC. 3 HD	00`05alive00`05b192279.m3u8
- =====[ECUADOR] GENERAL =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+ =====[ECUADOR] GENERAL =====	http://a.b/c.m3u8
 [ECUADOR] CANAL UNO	00`05alive00`05b191092.m3u8
 [ECUADOR] ECUADOR TV	00`05alive00`05b191093.m3u8
 [ECUADOR] ECUAVISA	00`05alive00`05b191094.m3u8
@@ -8981,7 +8981,7 @@ COLOMBIA: DIRECTV SPORTS 2	00`05alive00`05b94465.m3u8
 [ECUADOR] TELE AMAZONAS	00`05alive00`05b191097.m3u8
 [ECUADOR] GOL TV	00`05alive00`05b191098.m3u8
 [ECUADOR] CANAL DEL FUTBOL	00`05alive00`05b191099.m3u8
- =====[URUGUAY] GENERAL =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+ =====[URUGUAY] GENERAL =====	http://a.b/c.m3u8
 [URUGUAY] TV CIUDAD	00`05alive00`05b191101.m3u8
 [URUGUAY] CANAL 10	00`05alive00`05b191102.m3u8
 [URUGUAY] VTV HD	00`05alive00`05b191103.m3u8
@@ -9029,12 +9029,12 @@ COLOMBIA: DIRECTV SPORTS 2	00`05alive00`05b94465.m3u8
 [URUGUAY] Canal 12	00`05alive00`05b191205.m3u8
 [URUGUAY] Canal 26	00`05alive00`05b191208.m3u8
 [URUGUAY] Canal 26 Radio y Television de Aguascalientes	00`05alive00`05b191209.m3u8
- =====[MX] GENERAL =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+ =====[MX] GENERAL =====	http://a.b/c.m3u8
 [MX] BANDAMAX	00`05alive00`05b191233.m3u8
 [MX] TELEVISA PUEBLO HD	00`05alive00`05b191234.m3u8
 [MX] MTV	00`05alive00`05b191235.m3u8
 [MX] DE PELICULA PLUS	00`05alive00`05b191236.m3u8
-=====[HONDURAS] GENERAL =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+=====[HONDURAS] GENERAL =====	http://a.b/c.m3u8
 [HONDURAS] AZTECA HONDURAS	00`05alive00`05b191238.m3u8
 [HONDURAS] CAMPUS TV	00`05alive00`05b191239.m3u8
 [HONDURAS] CANAL 11 HD	00`05alive00`05b191240.m3u8
@@ -9047,7 +9047,7 @@ COLOMBIA: DIRECTV SPORTS 2	00`05alive00`05b94465.m3u8
 [HONDURAS] UNE TV	00`05alive00`05b191247.m3u8
 [HONDURAS] TELE SISTEMA	00`05alive00`05b191248.m3u8
 [HONDURAS] CANAL 10	00`05alive00`05b191249.m3u8
- =====[CHILE] GENERAL =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+ =====[CHILE] GENERAL =====	http://a.b/c.m3u8
 [CHILE] CHILEVISION	00`05alive00`05b191251.m3u8
 [CHILE] TVN	00`05alive00`05b191252.m3u8
 [CHILE] 13 CABLE	00`05alive00`05b191253.m3u8
@@ -9058,10 +9058,10 @@ COLOMBIA: DIRECTV SPORTS 2	00`05alive00`05b94465.m3u8
 [CHILE] CNN	00`05alive00`05b191258.m3u8
 [CHILE] CDF	00`05alive00`05b191259.m3u8
 [CHILE] FOX SPORTS	00`05alive00`05b191260.m3u8
- =====[CUBA] GENERAL =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+ =====[CUBA] GENERAL =====	http://a.b/c.m3u8
 [CUBA] CUBAVISION	00`05alive00`05b191262.m3u8
 [CUBA] CUBAVISION INTERNACIONAL	00`05alive00`05b191263.m3u8
- =====[RDOM] GENERAL =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+ =====[RDOM] GENERAL =====	http://a.b/c.m3u8
 [RDOM] CANAL 9	00`05alive00`05b191265.m3u8
 [RDOM] TELESISTEMA	00`05alive00`05b191266.m3u8
 [RDOM] READY TELEVISION HD	00`05alive00`05b191267.m3u8
@@ -9070,25 +9070,25 @@ COLOMBIA: DIRECTV SPORTS 2	00`05alive00`05b94465.m3u8
 [RDOM] MICROVISION	00`05alive00`05b191270.m3u8
 [RDOM] DIGITAL VISION	00`05alive00`05b191271.m3u8
 [RDOM] DIGITAL 15	00`05alive00`05b191272.m3u8
- =====[COSTA RICA] GENERAL =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+ =====[COSTA RICA] GENERAL =====	http://a.b/c.m3u8
 [CR] CANAL 14 TV SUR	00`05alive00`05b191274.m3u8
 [CR] TIGO SPORTS	00`05alive00`05b191275.m3u8
 [CR] REPRETEL 11 HD	00`05alive00`05b191276.m3u8
 [CR] TELETICA 7 HD	00`05alive00`05b191277.m3u8
 [CR] 88 STEREO	00`05alive00`05b191278.m3u8
 [CR] TELEUNO	00`05alive00`05b191279.m3u8
- =====[VENEZUELA] GENERAL =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+ =====[VENEZUELA] GENERAL =====	http://a.b/c.m3u8
 [VENEZUELA] PROMAR	00`05alive00`05b191281.m3u8
 [VENEZUELA] TELESUR	00`05alive00`05b191282.m3u8
 [VENEZUELA] GLOBOVISION	00`05alive00`05b191283.m3u8
 [VENEZUELA] CANAL ONCE	00`05alive00`05b191284.m3u8
-=====[GUATEMALA] GENERAL =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+=====[GUATEMALA] GENERAL =====	http://a.b/c.m3u8
 [GUATEMALA] CANAL 11	00`05alive00`05b191286.m3u8
 [GUATEMALA] CANAL 3	00`05alive00`05b191287.m3u8
 [GUATEMALA] GUATEVISION	00`05alive00`05b191288.m3u8
 [GUATEMALA] RETRO TV	00`05alive00`05b191289.m3u8
 [GUATEMALA] CANAL ANTIGUA	00`05alive00`05b191290.m3u8
- =====[PERU] GENERAL =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+ =====[PERU] GENERAL =====	http://a.b/c.m3u8
 [PERU] LATINA	00`05alive00`05b191292.m3u8
 [PERU] AMERICA TELEVISION	00`05alive00`05b191293.m3u8
 [PERU] ATV	00`05alive00`05b191294.m3u8
@@ -9097,12 +9097,12 @@ COLOMBIA: DIRECTV SPORTS 2	00`05alive00`05b94465.m3u8
 [PERU] CAPITAL TV	00`05alive00`05b191297.m3u8
 [PERU] GOL TV	00`05alive00`05b191298.m3u8
 [PERU] CANAL N	00`05alive00`05b191299.m3u8
- =====[PANAMA] GENERAL =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+ =====[PANAMA] GENERAL =====	http://a.b/c.m3u8
 [PANAMA] NEX CANAL 21	00`05alive00`05b191301.m3u8
 [PANAMA] RPC TV	00`05alive00`05b191302.m3u8
 [PANAMA] TELEMETRO	00`05alive00`05b191303.m3u8
 [PANAMA] TVN	00`05alive00`05b191304.m3u8
-===== INDIA UK =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== INDIA UK =====	http://a.b/c.m3u8
 IN-UK: STAR PLUS HD	00`05alive00`05b100798.m3u8
 IN-UK: STAR PLUS	00`05alive00`05b100799.m3u8
 IN-UK: STAR GOLD HD	00`05alive00`05b100800.m3u8
@@ -9137,7 +9137,7 @@ IN-UK: SANGAT	00`05alive00`05b100829.m3u8
 IN-UK: MATV NATIONAL	00`05alive00`05b100830.m3u8
 IN-UK: REPUBLIC TV	00`05alive00`05b100831.m3u8
 IN-UK: KTV	00`05alive00`05b100832.m3u8
-===== GENERAL =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== GENERAL =====	http://a.b/c.m3u8
 HINDI: DESI PLUS	00`05alive00`05b96168.m3u8
 HINDI: ZEE ACTION	00`05alive00`05b96169.m3u8
 HINDI: ZEE TV HD	00`05alive00`05b96170.m3u8
@@ -9299,7 +9299,7 @@ HINDI: ALANKAR TV	00`05alive00`05b96362.m3u8
 HINDI: TARANG MUSIC	00`05alive00`05b96364.m3u8
 HINDI: SARTHAK TV	00`05alive00`05b96365.m3u8
 HINDI: ZEE KALINGA	00`05alive00`05b96366.m3u8
-===== PK EUROPA =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== PK EUROPA =====	http://a.b/c.m3u8
 PKUK-VIP: GEO TV	00`05alive00`05b93310.m3u8
 PKUK-VIP: GEO NEWS	00`05alive00`05b93311.m3u8
 PKUK-VIP: GEO KAHANI	00`05alive00`05b93312.m3u8
@@ -9327,7 +9327,7 @@ PKUK-VIP: AHLEBAIT TV	00`05alive00`05b93333.m3u8
 PKUK-VIP: HIDAYAT TV	00`05alive00`05b93334.m3u8
 PKUK-VIP: HYDER TV	00`05alive00`05b93335.m3u8
 PKUK-VIP: EMAN CHANNEL	00`05alive00`05b93336.m3u8
-===== PK ASIA NEWS =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== PK ASIA NEWS =====	http://a.b/c.m3u8
 PK-VIP: ARY DIGITAL	00`05alive00`05b93338.m3u8
 PK-VIP: ARY NEWS	00`05alive00`05b93339.m3u8
 PK-VIP: ARY FAMILY	00`05alive00`05b93340.m3u8
@@ -9382,12 +9382,12 @@ PK-VIP: CHANNEL 5	00`05alive00`05b93388.m3u8
 PK-VIP: TV ONE	00`05alive00`05b93389.m3u8
 PK-VIP: KTN NEWS	00`05alive00`05b93390.m3u8
 PK-VIP: SUCH NEWS	00`05alive00`05b93391.m3u8
-===== PK ASIA KIDS =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== PK ASIA KIDS =====	http://a.b/c.m3u8
 PK-VIP: CARTOON NETWORK HD	00`05alive00`05b93393.m3u8
 PK-VIP: CARTOON NETWORK	00`05alive00`05b93394.m3u8
 PK-VIP: POP	00`05alive00`05b93395.m3u8
 PK-VIP: NICK	00`05alive00`05b93397.m3u8
-===== PK ASIA ISLAM =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== PK ASIA ISLAM =====	http://a.b/c.m3u8
 PK-VIP: ARY QTV	00`05alive00`05b93399.m3u8
 PK-VIP: SAUDI QURAN	00`05alive00`05b93400.m3u8
 PK-VIP: SAUDI SUNNAH	00`05alive00`05b93401.m3u8
@@ -9397,24 +9397,24 @@ PK-VIP: MADNI TV	00`05alive00`05b93404.m3u8
 PK-VIP: KASHISH	00`05alive00`05b93405.m3u8
 PK-VIP: KARBALA TV	00`05alive00`05b93406.m3u8
 PK-VIP: HADI TV	00`05alive00`05b93407.m3u8
-===== PK ASIA ENTERTAINMENT =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== PK ASIA ENTERTAINMENT =====	http://a.b/c.m3u8
 PK-VIP: BOL ENTERTAINMENT HD	00`05alive00`05b93409.m3u8
 PK-VIP: SINDH ENTERTAINMENT	00`05alive00`05b93410.m3u8
 PK-VIP: KTN ENTERTAINMENT	00`05alive00`05b93411.m3u8
 PK-VIP: PTV BOLAN	00`05alive00`05b93412.m3u8
 PK-VIP: PTV HOME	00`05alive00`05b93413.m3u8
 PK-VIP: PTV WORLD	00`05alive00`05b93414.m3u8
-===== PK ASIA SPORTS =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== PK ASIA SPORTS =====	http://a.b/c.m3u8
 PK-VIP: PTV SPORTS	00`05alive00`05b93416.m3u8
 PK-VIP: PTV SPORTS HD	00`05alive00`05b93417.m3u8
 PK-VIP: TEN SPORTS HD	00`05alive00`05b93418.m3u8
 PK-VIP: GEO SUPER	00`05alive00`05b93419.m3u8
-===== PK ASIA MUSIC =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== PK ASIA MUSIC =====	http://a.b/c.m3u8
 PK-VIP: DMG MUSIC HD	00`05alive00`05b93421.m3u8
 PK-VIP: ARY MUSIK	00`05alive00`05b93423.m3u8
 PK-VIP: JALWA MUSIC	00`05alive00`05b93424.m3u8
 PK-VIP: 8XM HD	00`05alive00`05b93425.m3u8
-===== PK ASIA OTHERS =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== PK ASIA OTHERS =====	http://a.b/c.m3u8
 PK-VIP: DMG SHOPPING HD	00`05alive00`05b93427.m3u8
 PK-VIP: DMG HITS HD	00`05alive00`05b93428.m3u8
 PK-VIP: DMG PLUS HD	00`05alive00`05b93429.m3u8
@@ -9433,7 +9433,7 @@ PK-VIP: WASEEB TV	00`05alive00`05b93447.m3u8
 PK-VIP: RAAVI	00`05alive00`05b93448.m3u8
 PK-VIP: K-21	00`05alive00`05b93449.m3u8
 PK-VIP: KAY-2	00`05alive00`05b93450.m3u8
-===== BENGALI ===== 	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== BENGALI ===== 	http://a.b/c.m3u8
 BENGALI: COLORS BANGLA HD	00`05alive00`05b95766.m3u8
 BENGALI: NAT GEO HD	00`05alive00`05b95767.m3u8
 BENGALI: SANGEET BANGLA	00`05alive00`05b95768.m3u8
@@ -9446,12 +9446,12 @@ BENGALI: ZEE BANGLA CINEMA	00`05alive00`05b95774.m3u8
 BENGALI: 24 GHANTA	00`05alive00`05b95775.m3u8
 BENGALI: ABP ANANDA	00`05alive00`05b95776.m3u8
 BENGALI: ZEE BANGLA HD	00`05alive00`05b95778.m3u8
-===== BHOJPURI ===== 	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== BHOJPURI ===== 	http://a.b/c.m3u8
 BHOJPURI: DANGAL	00`05alive00`05b95780.m3u8
 BHOJPURI: SANGEET BHOJPURI	00`05alive00`05b95781.m3u8
 BHOJPURI: HUNGAMA DHAMAAL HD	00`05alive00`05b95782.m3u8
 BHOJPURI: BHOJPURI CINEMA	00`05alive00`05b95783.m3u8
-===== GUJARATI ===== 	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== GUJARATI ===== 	http://a.b/c.m3u8
 GUJARATI: ABP ASMITA	00`05alive00`05b95785.m3u8
 GUJARATI: CNBC AAWAZ	00`05alive00`05b95786.m3u8
 GUJARATI: CNBC BAZAR	00`05alive00`05b95787.m3u8
@@ -9482,7 +9482,7 @@ GUJARATI: VANDE GUJARATI 7	00`05alive00`05b95811.m3u8
 GUJARATI: VANDE GUJARATI 8	00`05alive00`05b95812.m3u8
 GUJARATI: VANDE GUJARATI 9	00`05alive00`05b95813.m3u8
 GUJARATI: VTV NEWS	00`05alive00`05b95814.m3u8
-===== KANNADA =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== KANNADA =====	http://a.b/c.m3u8
 KANNADA: BTV NEWS	00`05alive00`05b95816.m3u8
 KANNADA: COLORS KANNADA HD	00`05alive00`05b95817.m3u8
 KANNADA: COLORS KANNADA MOVIES	00`05alive00`05b95818.m3u8
@@ -9504,7 +9504,7 @@ KANNADA: UDAYA HD	00`05alive00`05b95833.m3u8
 KANNADA: UDAYA MOVIES	00`05alive00`05b95834.m3u8
 KANNADA: UDAYA MUSIC	00`05alive00`05b95835.m3u8
 KANNADA: ZEE HD	00`05alive00`05b95836.m3u8
-===== MARATHI =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== MARATHI =====	http://a.b/c.m3u8
 MARATHI: 9X JHAKAAS	00`05alive00`05b95838.m3u8
 MARATHI: COLORS MARATHI HD	00`05alive00`05b95839.m3u8
 MARATHI: DD SAHAYADRI	00`05alive00`05b95840.m3u8
@@ -9518,7 +9518,7 @@ MARATHI: TV9 MARATHI	00`05alive00`05b95847.m3u8
 MARATHI: ZEE 24 TAAS	00`05alive00`05b95848.m3u8
 MARATHI: ZEE MARATHI HD	00`05alive00`05b95849.m3u8
 MARATHI: ZEE TALKIES HD	00`05alive00`05b95850.m3u8
-===== TELEGU =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== TELEGU =====	http://a.b/c.m3u8
 TELEGU: 10 TV	00`05alive00`05b95852.m3u8
 TELEGU: BHAKTI TV	00`05alive00`05b95853.m3u8
 TELEGU: DD SAPTAGIRI	00`05alive00`05b95854.m3u8
@@ -9551,14 +9551,14 @@ TELEGU: VANITHA TV	00`05alive00`05b95880.m3u8
 TELEGU: VISSA TV	00`05alive00`05b95881.m3u8
 TELEGU: ZEE CINEMALU HD	00`05alive00`05b95882.m3u8
 TELEGU: ZEE TELUGU HD	00`05alive00`05b95883.m3u8
-===== BANGLA UK =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== BANGLA UK =====	http://a.b/c.m3u8
 BANGLA-UK: CHANNEL S	00`05alive00`05b100631.m3u8
 BANGLA-UK: TV UK	00`05alive00`05b100632.m3u8
 BANGLA-UK: NTV	00`05alive00`05b100633.m3u8
 BANGLA-UK: ATN BANGLA	00`05alive00`05b100634.m3u8
 BANGLA-UK: ION TV	00`05alive00`05b100636.m3u8
 BANGLA-UK: TV ONE	00`05alive00`05b100637.m3u8
-===== BANGLA ASIA =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== BANGLA ASIA =====	http://a.b/c.m3u8
 BANGLA: COLORS BANGLA HD	00`05alive00`05b100639.m3u8
 BANGLA: ZEE 24 GHANTA	00`05alive00`05b100640.m3u8
 BANGLA: JALSHA MOVIES	00`05alive00`05b100641.m3u8
@@ -9630,7 +9630,7 @@ BANGLA: TBN 24	00`05alive00`05b100756.m3u8
 BANGLA: iTV UK	00`05alive00`05b100757.m3u8
 BANGLA: ENTER 10 BANGLA	00`05alive00`05b100759.m3u8
 BANGLA: CHANNEL TT	00`05alive00`05b100760.m3u8
-===== SPORTS GENERAL =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== SPORTS GENERAL =====	http://a.b/c.m3u8
 SPORTS: D SPORTS HD	00`05alive00`05b93721.m3u8
 SPORTS: DD SPORTS	00`05alive00`05b93722.m3u8
 SPORTS: SONY SIX HD	00`05alive00`05b93723.m3u8
@@ -9646,7 +9646,7 @@ SPORTS: TEN 1 HD	00`05alive00`05b93732.m3u8
 SPORTS: TEN 2 HD	00`05alive00`05b93733.m3u8
 SPORTS: TEN 3 HD	00`05alive00`05b93734.m3u8
 SPORTS: WILLOW CRICKET HD	00`05alive00`05b93735.m3u8
-===== ENGLISH GENERAL =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== ENGLISH GENERAL =====	http://a.b/c.m3u8
 ENGLISH: AND FLIX HD	00`05alive00`05b93643.m3u8
 ENGLISH: AND PRIVE HD	00`05alive00`05b93644.m3u8
 ENGLISH: BLOOMBERG INDIA	00`05alive00`05b93646.m3u8
@@ -9689,7 +9689,7 @@ ENGLISH: CNN NEWS	00`05alive00`05b93682.m3u8
 ENGLISH: ALJAZEERA HD	00`05alive00`05b93683.m3u8
 ENGLISH: ANIMAL PLANET HD	00`05alive00`05b93684.m3u8
 ENGLISH: WION NEWS	00`05alive00`05b93685.m3u8
-===== MALAYALAM GENERAL =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== MALAYALAM GENERAL =====	http://a.b/c.m3u8
 MAL: KAIRALI NEWS	00`05alive00`05b93572.m3u8
 MAL: KAUMUDY	00`05alive00`05b93573.m3u8
 MAL: SHOLAM TV	00`05alive00`05b93574.m3u8
@@ -9718,7 +9718,7 @@ MAL: SURYA MUSIC	00`05alive00`05b93596.m3u8
 MAL: SURYA TV HD	00`05alive00`05b93597.m3u8
 MAL: WE TV	00`05alive00`05b93598.m3u8
 MAL: ZEE KERALAM HD	00`05alive00`05b93599.m3u8
-===== TAMIL =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== TAMIL =====	http://a.b/c.m3u8
  TAMIL: ADHTIYA TV	00`05alive00`05b100100.m3u8
  TAMIL: ANGEL TV HD	00`05alive00`05b100103.m3u8
  TAMIL: ATHAVAN TV	00`05alive00`05b100104.m3u8
@@ -9780,7 +9780,7 @@ MAL: ZEE KERALAM HD	00`05alive00`05b93599.m3u8
  TAMIL: ZEE TAMIL HD	00`05alive00`05b100169.m3u8
  TAMIL: ZEE TAMIL SD	00`05alive00`05b100170.m3u8
  TAMIL: ZEE THIRAI	00`05alive00`05b100171.m3u8
-===== PUNJABI GENERAL =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== PUNJABI GENERAL =====	http://a.b/c.m3u8
 PUNJABI: AIKAM TV HD	00`05alive00`05b93687.m3u8
 PUNJABI: BRIT ASIA	00`05alive00`05b93688.m3u8
 PUNJABI: CHARDIKALAH TIMES TV	00`05alive00`05b93689.m3u8
@@ -9814,7 +9814,7 @@ PUNJABI: TADKA	00`05alive00`05b93716.m3u8
 PUNJABI: TATA SKY PUNJAB DE RANG	00`05alive00`05b93717.m3u8
 PUNJABI: ZEE PUNJAB HARYANA HD	00`05alive00`05b93718.m3u8
 PUNJABI: ZEE PUNJABI	00`05alive00`05b93719.m3u8
-===== [KURD] GENERAL =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== [KURD] GENERAL =====	http://a.b/c.m3u8
 [KURD] RUDAW UHD	00`05alive00`05b189926.m3u8
 [KURD] K24 HD	00`05alive00`05b189927.m3u8
 [KURD] NRT UHD	00`05alive00`05b189928.m3u8
@@ -9892,7 +9892,7 @@ PUNJABI: ZEE PUNJABI	00`05alive00`05b93719.m3u8
 [KURD] 4ANIME HD	00`05alive00`05b190016.m3u8
 [KURD] SADA TV	00`05alive00`05b190018.m3u8
 [KURD] KURD CHANNEL	00`05alive00`05b190019.m3u8
-===== [KURD] NETEWEYE =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== [KURD] NETEWEYE =====	http://a.b/c.m3u8
 [KURD] ASTERA BABY	00`05alive00`05b190022.m3u8
 [KURD] ASTERA MOVIES	00`05alive00`05b190024.m3u8
 [KURD] ASTERA SHOW HD	00`05alive00`05b190025.m3u8
@@ -9932,7 +9932,7 @@ PUNJABI: ZEE PUNJABI	00`05alive00`05b93719.m3u8
 [KURD] RADIO DENGI QURAN	00`05alive00`05b190070.m3u8
 [KURD] SIMA HD	00`05alive00`05b190071.m3u8
 [KURD] NEWMAX MUSIC HD	00`05alive00`05b190072.m3u8
-===== IRAN =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== IRAN =====	http://a.b/c.m3u8
 [IR] IRIB TV 1	00`05alive00`05b100835.m3u8
 [IR] IRIB TV 2	00`05alive00`05b100836.m3u8
 [IR] IRIB TV 3	00`05alive00`05b100837.m3u8
@@ -10080,14 +10080,14 @@ PUNJABI: ZEE PUNJABI	00`05alive00`05b93719.m3u8
 [IR] MANOTO PLUS 2 HD	00`05alive00`05b192749.m3u8
 [IR] YOUR TIME TV	00`05alive00`05b192750.m3u8
 [IR] TAPESH USA	00`05alive00`05b192751.m3u8
-===== [IR] MUSIC =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== [IR] MUSIC =====	http://a.b/c.m3u8
 [IR] RADIO FARDA	00`05alive00`05b100944.m3u8
 [IR] PERSIAN MUSIC	00`05alive00`05b192752.m3u8
 [IR] RADIO JAVAN TV	00`05alive00`05b100878.m3u8
 [IR] CALTEX MUSIC	00`05alive00`05b100879.m3u8
 [IR] 4 Music	00`05alive00`05b100955.m3u8
 [IR] 24B HD	00`05alive00`05b192780.m3u8
-===== ENTERTAINMENT =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== ENTERTAINMENT =====	http://a.b/c.m3u8
 [IR] SAHAR BALKAN	00`05alive00`05b192754.m3u8
 [IR] 24/7 BOX TV	00`05alive00`05b192755.m3u8
 [IR] SEPEHR	00`05alive00`05b192756.m3u8
@@ -10097,9 +10097,9 @@ PUNJABI: ZEE PUNJABI	00`05alive00`05b93719.m3u8
 [IR] MIFA MUSIC TV	00`05alive00`05b192760.m3u8
 [IR] IRIB ESFAHAN	00`05alive00`05b192761.m3u8
 [IR] AVANG TV	00`05alive00`05b192762.m3u8
-===== SPORTS =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== SPORTS =====	http://a.b/c.m3u8
 [IR] VARZISH SPORT HD	00`05alive00`05b192764.m3u8
-===== GEM =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== GEM =====	http://a.b/c.m3u8
 [IR] GEM FIT	00`05alive00`05b192766.m3u8
 [IR] GEM NATURE	00`05alive00`05b192767.m3u8
 [IR] GEM PROPERTY	00`05alive00`05b192768.m3u8
@@ -10114,11 +10114,11 @@ PUNJABI: ZEE PUNJABI	00`05alive00`05b93719.m3u8
 [IR] GEM ONYX HD	00`05alive00`05b192777.m3u8
 [IR] GEM PLUS HD	00`05alive00`05b192778.m3u8
 [IR] VARZESH 3 HD	00`05alive00`05b192779.m3u8
-===== KIDS =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== KIDS =====	http://a.b/c.m3u8
 [IR] I TOON TV	00`05alive00`05b192782.m3u8
 [IR] GEM JUNIOR HD	00`05alive00`05b192783.m3u8
 [IR] GEM KIDS HD	00`05alive00`05b192784.m3u8
-===== (AFG) AFGHANISTAN =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== (AFG) AFGHANISTAN =====	http://a.b/c.m3u8
 AFG: TOLO HD	00`05alive00`05b93602.m3u8
 AFG: TOLO NEWS HD	00`05alive00`05b93603.m3u8
 AFG: AREZO HD	00`05alive00`05b93604.m3u8
@@ -10293,7 +10293,7 @@ Radio Aswat	00`05alive00`05b1140.m3u8
 Radio Plus	00`05alive00`05b1141.m3u8
 OnlyRai	00`05alive00`05b1142.m3u8
 Atlantic Radio	00`05alive00`05b1143.m3u8
------] TNT FRANCE SD [-----	http://promo.sansat.biz:25461/images/promo/promo.mkv
+-----] TNT FRANCE SD [-----	http://a.b/c.m3u8
 [FR] TF1 SD	00`05alive00`05b127318.m3u8
 [FR] FRANCE 2 SD	00`05alive00`05b127319.m3u8
 [FR] FRANCE 3 SD	00`05alive00`05b127320.m3u8
@@ -10330,7 +10330,7 @@ Atlantic Radio	00`05alive00`05b1143.m3u8
 [FR] RMC STORY HEVC	00`05alive00`05b127312.m3u8
 [FR] CHERIE 25 HEVC	00`05alive00`05b127313.m3u8
 [FR] CANAL 9 HEVC	00`05alive00`05b127315.m3u8
------] MY CANAL FRANCE SD [-----	http://promo.sansat.biz:25461/images/promo/promo.mkv
+-----] MY CANAL FRANCE SD [-----	http://a.b/c.m3u8
 [FR] CANAL+ SD	00`05alive00`05b126833.m3u8
 [FR] CANAL+ SPORT SD	00`05alive00`05b126834.m3u8
 [FR] CANAL+ SERIES SD	00`05alive00`05b126835.m3u8
@@ -10343,7 +10343,7 @@ Atlantic Radio	00`05alive00`05b1143.m3u8
 [FR] CANAL+ GRAND ECRAN HEVC	00`05alive00`05b169174.m3u8
 [FR] CANAL+ GRAND ECRAN FHD	00`05alive00`05b169175.m3u8
 [FR] CANAL+ GRAND ECRAN SD	00`05alive00`05b169176.m3u8
------] MY CANAL FRANCE HEVC [-----	http://promo.sansat.biz:25461/images/promo/promo.mkv
+-----] MY CANAL FRANCE HEVC [-----	http://a.b/c.m3u8
 [FR] CANAL+ HEVC	00`05alive00`05b126821.m3u8
 [FR] CANAL+ CINEMA HEVC	00`05alive00`05b126822.m3u8
 [FR] CANAL+ FAMILY HEVC	00`05alive00`05b126824.m3u8
@@ -10353,7 +10353,7 @@ Atlantic Radio	00`05alive00`05b1143.m3u8
 [FR] CANAL+ PREMIER LEAGUE HEVC	00`05alive00`05b126828.m3u8
 [FR] CANAL+ FORMULE1 HEVC	00`05alive00`05b126830.m3u8
 [FR] CANAL+ MOTOGP HEVC	00`05alive00`05b126831.m3u8
------] CINÉMA FRANCE SD [-----	http://promo.sansat.biz:25461/images/promo/promo.mkv
+-----] CINÉMA FRANCE SD [-----	http://a.b/c.m3u8
 [FR] CINE+ PREMIER SD	00`05alive00`05b127255.m3u8
 [FR] CINE+ FRISSON SD	00`05alive00`05b127256.m3u8
 [FR] CINE+ EMOTION SD	00`05alive00`05b127257.m3u8
@@ -10370,7 +10370,7 @@ Atlantic Radio	00`05alive00`05b1143.m3u8
 [FR] PARAMOUNT CHANNEL SD	00`05alive00`05b127270.m3u8
 [FR] ACTION SD	00`05alive00`05b127271.m3u8
 [FR] TCM CINEMA SD	00`05alive00`05b127272.m3u8
------] CINÉMA FRANCE HEVC [-----	http://promo.sansat.biz:25461/images/promo/promo.mkv
+-----] CINÉMA FRANCE HEVC [-----	http://a.b/c.m3u8
 [FR] CINE+ PREMIER HEVC	00`05alive00`05b127235.m3u8
 [FR] CINE+ FRISSON HEVC	00`05alive00`05b127236.m3u8
 [FR] CINE+ EMOTION HEVC	00`05alive00`05b127237.m3u8
@@ -10388,7 +10388,7 @@ Atlantic Radio	00`05alive00`05b1143.m3u8
 [FR] PARAMOUNT DECALE HEVC	00`05alive00`05b127251.m3u8
 [FR] ACTION HEVC	00`05alive00`05b127252.m3u8
 [FR] TCM CINEMA HEVC	00`05alive00`05b127253.m3u8
------] INFOS FRANCE SD [-----	http://promo.sansat.biz:25461/images/promo/promo.mkv
+-----] INFOS FRANCE SD [-----	http://a.b/c.m3u8
 [FR] LA CHAINE METEO SD	00`05alive00`05b126782.m3u8
 [FR] C NEWS SD	00`05alive00`05b126783.m3u8
 [FR] FRANCE INFO SD	00`05alive00`05b126784.m3u8
@@ -10401,7 +10401,7 @@ Atlantic Radio	00`05alive00`05b1143.m3u8
 [FR] TV5 MONDE SD	00`05alive00`05b126791.m3u8
 [FR] FRANCE 24 SD	00`05alive00`05b126792.m3u8
 [FR] I 24 NEWS SD	00`05alive00`05b126793.m3u8
------] INFOS FRANCE HEVC [-----	http://promo.sansat.biz:25461/images/promo/promo.mkv
+-----] INFOS FRANCE HEVC [-----	http://a.b/c.m3u8
 [FR] LA CHAINE METEO HEVC	00`05alive00`05b126766.m3u8
 [FR] C NEWS HEVC	00`05alive00`05b126767.m3u8
 [FR] FRANCE INFO HEVC	00`05alive00`05b126768.m3u8
@@ -10414,7 +10414,7 @@ Atlantic Radio	00`05alive00`05b1143.m3u8
 [FR] TV5 MONDE HEVC	00`05alive00`05b126776.m3u8
 [FR] FRANCE 24 HEVC	00`05alive00`05b126777.m3u8
 [FR] I 24 NEWS HEVC	00`05alive00`05b126778.m3u8
------] RMC SPORT SD [-----	http://promo.sansat.biz:25461/images/promo/promo.mkv
+-----] RMC SPORT SD [-----	http://a.b/c.m3u8
 [FR] RMC SPORT 1 SD	00`05alive00`05b127000.m3u8
 [FR] RMC SPORT 2 SD	00`05alive00`05b127001.m3u8
 [FR] RMC SPORT LIVE 3 SD	00`05alive00`05b127002.m3u8
@@ -10427,11 +10427,11 @@ Atlantic Radio	00`05alive00`05b1143.m3u8
 [FR] RMC SPORT LIVE 10 SD	00`05alive00`05b127009.m3u8
 [FR] RMC SPORT LIVE 11 SD	00`05alive00`05b127010.m3u8
 [FR] RMC SPORT LIVE 12 SD	00`05alive00`05b127011.m3u8
------] BEIN SPORTS SD [-----	http://promo.sansat.biz:25461/images/promo/promo.mkv
+-----] BEIN SPORTS SD [-----	http://a.b/c.m3u8
 [FR] BEIN SPORT 1 SD	00`05alive00`05b127016.m3u8
 [FR] BEIN SPORT 2 SD	00`05alive00`05b127017.m3u8
 [FR] BEIN SPORT 3 SD	00`05alive00`05b127018.m3u8
------] SPORTS SD [-----	http://promo.sansat.biz:25461/images/promo/promo.mkv
+-----] SPORTS SD [-----	http://a.b/c.m3u8
 [FR] MULTI SPORTS 1 SD	00`05alive00`05b127020.m3u8
 [FR] MULTI SPORTS 2 SD	00`05alive00`05b127021.m3u8
 [FR] MULTI SPORTS 3 SD	00`05alive00`05b127022.m3u8
@@ -10446,7 +10446,7 @@ Atlantic Radio	00`05alive00`05b1143.m3u8
 [FR] AUTOMOTO SD	00`05alive00`05b127032.m3u8
 [FR] GOLF+ SD	00`05alive00`05b127033.m3u8
 [FR] GOLF CHANNEL SD	00`05alive00`05b176451.m3u8
------] RMC SPORT HEVC [-----	http://promo.sansat.biz:25461/images/promo/promo.mkv
+-----] RMC SPORT HEVC [-----	http://a.b/c.m3u8
 [FR] RMC SPORT 1 HEVC	00`05alive00`05b126964.m3u8
 [FR] RMC SPORT 2 HEVC	00`05alive00`05b126965.m3u8
 [FR] RMC SPORT LIVE 3 HEVC	00`05alive00`05b126966.m3u8
@@ -10459,11 +10459,11 @@ Atlantic Radio	00`05alive00`05b1143.m3u8
 [FR] RMC SPORT LIVE 10 HEVC	00`05alive00`05b126973.m3u8
 [FR] RMC SPORT LIVE 11 HEVC	00`05alive00`05b126974.m3u8
 [FR] RMC SPORT LIVE 12 HEVC	00`05alive00`05b126975.m3u8
------] BEIN SPORTS HEVC [-----	http://promo.sansat.biz:25461/images/promo/promo.mkv
+-----] BEIN SPORTS HEVC [-----	http://a.b/c.m3u8
 [FR] BEIN SPORT 1 HEVC	00`05alive00`05b126980.m3u8
 [FR] BEIN SPORT 2 HEVC	00`05alive00`05b126981.m3u8
 [FR] BEIN SPORT 3 HEVC	00`05alive00`05b126982.m3u8
------] SPORTS HEVC [-----	http://promo.sansat.biz:25461/images/promo/promo.mkv
+-----] SPORTS HEVC [-----	http://a.b/c.m3u8
 [FR] MULTI SPORTS 1 HEVC	00`05alive00`05b126984.m3u8
 [FR] MULTI SPORTS 2 HEVC	00`05alive00`05b126985.m3u8
 [FR] MULTI SPORTS 4 HEVC	00`05alive00`05b126986.m3u8
@@ -10478,7 +10478,7 @@ Atlantic Radio	00`05alive00`05b1143.m3u8
 [FR] AUTOMOTO HEVC	00`05alive00`05b126996.m3u8
 [FR] GOLF+ HEVC	00`05alive00`05b126997.m3u8
 [FR] GOLF CHANNEL HEVC	00`05alive00`05b176452.m3u8
------] JEUNESSE FRANCE SD [-----	http://promo.sansat.biz:25461/images/promo/promo.mkv
+-----] JEUNESSE FRANCE SD [-----	http://a.b/c.m3u8
 [FR] TOONAMI SD	00`05alive00`05b127142.m3u8
 [FR] DISNEY CHANNEL SD	00`05alive00`05b127143.m3u8
 [FR] DISNEY JUNIOR SD	00`05alive00`05b127144.m3u8
@@ -10499,7 +10499,7 @@ Atlantic Radio	00`05alive00`05b1143.m3u8
 [FR] MANGAS SD	00`05alive00`05b127159.m3u8
 [FR] J ONE SD	00`05alive00`05b127160.m3u8
 [FR] GAME ONE SD	00`05alive00`05b127161.m3u8
------] JEUNESSE FRANCE HEVC [-----	http://promo.sansat.biz:25461/images/promo/promo.mkv
+-----] JEUNESSE FRANCE HEVC [-----	http://a.b/c.m3u8
 [FR] TOONAMI HEVC	00`05alive00`05b127121.m3u8
 [FR] DISNEY CHANNEL HEVC	00`05alive00`05b127122.m3u8
 [FR] DISNEY JUNIOR HEVC	00`05alive00`05b127123.m3u8
@@ -10518,7 +10518,7 @@ Atlantic Radio	00`05alive00`05b1143.m3u8
 [FR] MANGAS HEVC	00`05alive00`05b127138.m3u8
 [FR] J ONE HEVC	00`05alive00`05b127139.m3u8
 [FR] GAME ONE HEVC	00`05alive00`05b127140.m3u8
------] DÉCOUVERTE FRANCE SD [-----	http://promo.sansat.biz:25461/images/promo/promo.mkv
+-----] DÉCOUVERTE FRANCE SD [-----	http://a.b/c.m3u8
 [FR] PLANETE+ SD	00`05alive00`05b127078.m3u8
 [FR] PLANETE A&E SD	00`05alive00`05b127079.m3u8
 [FR] PLANETE+ CI SD	00`05alive00`05b127080.m3u8
@@ -10538,7 +10538,7 @@ Atlantic Radio	00`05alive00`05b1143.m3u8
 [FR] ANIMAUX SD	00`05alive00`05b127095.m3u8
 [FR] CHASSE&PECHE SD	00`05alive00`05b127096.m3u8
 [FR] NAUTICAL CHANNEL SD 	00`05alive00`05b127097.m3u8
------] DÉCOUVERTE FRANCE HEVC [-----	http://promo.sansat.biz:25461/images/promo/promo.mkv
+-----] DÉCOUVERTE FRANCE HEVC [-----	http://a.b/c.m3u8
 [FR] PLANETE+ HEVC	00`05alive00`05b127056.m3u8
 [FR] PLANETE A&E HEVC	00`05alive00`05b127057.m3u8
 [FR] PLANETE+ CI HEVC	00`05alive00`05b127058.m3u8
@@ -10557,7 +10557,7 @@ Atlantic Radio	00`05alive00`05b1143.m3u8
 [FR] ANIMAUX HEVC	00`05alive00`05b127073.m3u8
 [FR] CHASSE&PECHE HEVC	00`05alive00`05b127074.m3u8
 [FR] NAUTICAL CHANNEL HEVC	00`05alive00`05b127076.m3u8
------] DIVERTISSEMENT FRANCE SD [-----	http://promo.sansat.biz:25461/images/promo/promo.mkv
+-----] DIVERTISSEMENT FRANCE SD [-----	http://a.b/c.m3u8
 [FR] COMEDIE SD	00`05alive00`05b127198.m3u8
 [FR] SYFY SD	00`05alive00`05b127199.m3u8
 [FR] E! ENTERTAINMENT SD	00`05alive00`05b127200.m3u8
@@ -10572,7 +10572,7 @@ Atlantic Radio	00`05alive00`05b1143.m3u8
 [FR] BET SD	00`05alive00`05b127210.m3u8
 [FR] COMEDY CENTRAL SD	00`05alive00`05b127213.m3u8
 [FR] KTO SD	00`05alive00`05b147876.m3u8
------] DIVERTISSEMENT FRANCE HEVC [-----	http://promo.sansat.biz:25461/images/promo/promo.mkv
+-----] DIVERTISSEMENT FRANCE HEVC [-----	http://a.b/c.m3u8
 [FR] COMEDIE HEVC	00`05alive00`05b127181.m3u8
 [FR] SYFY HEVC	00`05alive00`05b127182.m3u8
 [FR] E! HEVC	00`05alive00`05b127183.m3u8
@@ -10585,7 +10585,7 @@ Atlantic Radio	00`05alive00`05b1143.m3u8
 [FR] TV BREIZH HEVC	00`05alive00`05b127190.m3u8
 [FR] BET HEVC	00`05alive00`05b127192.m3u8
 [FR] COMEDY CENTRAL HEVC	00`05alive00`05b127195.m3u8
------] MUSIQUE FRANCE SD [-----	http://promo.sansat.biz:25461/images/promo/promo.mkv
+-----] MUSIQUE FRANCE SD [-----	http://a.b/c.m3u8
 [FR] TRACE URBAN SD	00`05alive00`05b127374.m3u8
 [FR] MELODY SD	00`05alive00`05b127375.m3u8
 [FR] NRJ HITS SD	00`05alive00`05b127376.m3u8
@@ -10597,13 +10597,13 @@ Atlantic Radio	00`05alive00`05b1143.m3u8
 [FR] MEZZO SD	00`05alive00`05b127383.m3u8
 [FR] MEZZO LIVE SD	00`05alive00`05b127384.m3u8
 [FR] OLYMPIA SD	00`05alive00`05b127385.m3u8
------] MUSIQUE FRANCE HEVC [-----	http://promo.sansat.biz:25461/images/promo/promo.mkv
+-----] MUSIQUE FRANCE HEVC [-----	http://a.b/c.m3u8
 [FR] C STAR HIT HEVC	00`05alive00`05b127356.m3u8
 [FR] M6 MUSIC HEVC	00`05alive00`05b127358.m3u8
 [FR] MCM TOP HEVC	00`05alive00`05b127363.m3u8
 [FR] NRJ HITS HEVC	00`05alive00`05b127365.m3u8
 [FR] TRACE GOSPEL HEVC	00`05alive00`05b127369.m3u8
-===== TH: THAILAND =====	http://promo.sansat.biz:25461/images/promo/promo.mkv
+===== TH: THAILAND =====	http://a.b/c.m3u8
 TH: CHPARLIAMENT TV	00`05alive00`05b192345.m3u8
 TH: GANG CARTOONTHAI HD	00`05alive00`05b192346.m3u8
 TH: AMARIN 34 HD	00`05alive00`05b192347.m3u8
