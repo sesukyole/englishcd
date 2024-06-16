@@ -1,3 +1,1703 @@
+3BB_HBOhits	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/136.m3u8
+ABC Australia	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/84.m3u8
+Action HOLLYWOOD MOVIES	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/24.m3u8
+AFN [China Sub]	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/43.m3u8
+AFN [China Sub]	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/139.m3u8
+AFN [VN Sub]	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/116.m3u8
+Animal Planet [China Sub]	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/25.m3u8
+Animal Planet [Eng Sub]	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/48.m3u8
+Animal Planet-China	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/45.m3u8
+Astro AEC	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/53.m3u8
+Astro BOO	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/108.m3u8
+Astro BOO	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/51.m3u8
+Astro Discovery Channel	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/64.m3u8
+Astro Hua Hee Dai	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/52.m3u8
+Astro K Plus HD	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/152.m3u8
+Astro KBS World	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/151.m3u8
+Astro Love Nature	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/94.m3u8
+Astro Oasis HD	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/145.m3u8
+Astro ONE HD	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/148.m3u8
+Astro Rania HD	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/147.m3u8
+Astro TVB Xing He	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/50.m3u8
+Astro WARNA HD	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/146.m3u8
+AXN  China SUB	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/23.m3u8
+AXN HD [China Sub]	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/62.m3u8
+AXN-VN	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/38.m3u8
+Baby First TV	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/55.m3u8
+BAYON-KHMER	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/9.m3u8
+BBC Lifestyle HD-True	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/115.m3u8
+BOOMERANG	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/54.m3u8
+BOX MOVIES1 HD [VN Sub]	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/91.m3u8
+BTVNEWS-KHMER	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/8.m3u8
+CANADA ONE	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/166.m3u8
+CCTV 16HD	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/77.m3u8
+CCTV 1HD	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/70.m3u8
+CCTV 2HD	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/71.m3u8
+CCTV 5HD	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/72.m3u8
+CCTV 5PlusHD	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/73.m3u8
+CCTV 6HD	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/74.m3u8
+CCTV 8HD	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/75.m3u8
+CCTV 9HD	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/76.m3u8
+CCTV-4 中文国际（美)	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/82.m3u8
+CINEMAX HD	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/61.m3u8
+CINEMAX-VN	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/39.m3u8
+CNC-KHMER	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/5.m3u8
+CNN HD [Astro]	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/83.m3u8
+CNN International	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/26.m3u8
+Code Fashion TV HD	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/86.m3u8
+CTN-KHMER	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/4.m3u8
+Discovery Asia	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/138.m3u8
+Discovery Asia HD [China Sub]	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/46.m3u8
+Discovery Hindi HD 	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/56.m3u8
+Discovery Science [Astro]	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/118.m3u8
+Disney XD	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/88.m3u8
+DMAX-China	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/47.m3u8
+Dongsen Foreign Movies	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/27.m3u8
+DreamWorks [Thai Sub]	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/140.m3u8
+EURO Sport 2HD	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/110.m3u8
+EUROSPORT 1HD	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/162.m3u8
+EUROSPORTS 1	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/89.m3u8
+Fashion TV HD	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/153.m3u8
+FIFA TV	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/103.m3u8
+Food network	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/44.m3u8
+FOX Newsnow HD	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/164.m3u8
+Fresh News-KHMER	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/3.m3u8
+FS1 HD	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/127.m3u8
+FS2 HD	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/128.m3u8
+FTV	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/65.m3u8
+HANG MEAS-KHMER	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/10.m3u8
+HBO ASIA HD	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/17.m3u8
+HBO Family	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/78.m3u8
+HBO Hits	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/63.m3u8
+HBO Signature	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/81.m3u8
+HBO+	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/104.m3u8
+HBO-VN	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/40.m3u8
+HGTV HD	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/37.m3u8
+ICI RDI HD	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/165.m3u8
+In The Box [VN Sub]	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/90.m3u8
+iQIYI HD [Astro]	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/141.m3u8
+KBS NEWS	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/21.m3u8
+KG HD | TH Kiên Giang	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/35.m3u8
+KG1 HD | TH Kiên Giang	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/36.m3u8
+LAOSTAR TV	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/29.m3u8
+LATV	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/31.m3u8
+LNTV1	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/30.m3u8
+MAN HD	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/111.m3u8
+MONO 29 English SUB	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/33.m3u8
+MONO 29HD Thai Sub	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/16.m3u8
+MYTV-KHMER	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/6.m3u8
+NASA TV HD	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/49.m3u8
+Nat Geo Graphic HD ENG	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/41.m3u8
+Nat Geographic [China Sub]	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/42.m3u8
+NBC GOLF	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/85.m3u8
+PARAMOUNT NETWORK-True	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/121.m3u8
+PGA TOUR	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/69.m3u8
+Phoenix Chinese	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/28.m3u8
+Phoenix NEWS HD	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/22.m3u8
+PNN-KHMER	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/12.m3u8
+Premier League 1HD	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/129.m3u8
+Premier League 2HD	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/130.m3u8
+Premier League HD3	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/102.m3u8
+Premier League HD4	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/101.m3u8
+RASMEY HANG MEAS-KHMER	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/11.m3u8
+RT Documentary	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/20.m3u8
+SEATV-KHMER	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/14.m3u8
+Sky Sports F1	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/19.m3u8
+Sky Sports News	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/18.m3u8
+Sky Sports Premier	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/92.m3u8
+SONY MOVIES English SUB	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/32.m3u8
+SONY SPORTS 1HD	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/122.m3u8
+SONY SPORTS 2HD	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/123.m3u8
+SONY SPORTS 3HD	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/124.m3u8
+SONY SPORTS 4HD	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/125.m3u8
+SONY SPORTS 5HD	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/126.m3u8
+SPORT 2HD	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/97.m3u8
+SPORT 3HD	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/98.m3u8
+SPORT 5SD	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/99.m3u8
+SPORT 7SD	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/100.m3u8
+SPORT HD	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/96.m3u8
+STAR Channel	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/80.m3u8
+STAR MOVIES HD	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/144.m3u8
+STAR WORLD	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/143.m3u8
+SuperSport Football	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/106.m3u8
+SuperSport Grandstand	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/93.m3u8
+SuperSport LALIGA	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/105.m3u8
+SuperSport Premier	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/95.m3u8
+TOWNTV-KHMER	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/7.m3u8
+True Asian More	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/134.m3u8
+TRUE EXPLORE SCI	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/119.m3u8
+True Explorer Wild-True	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/117.m3u8
+True Film 1HD	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/131.m3u8
+True Film Asia	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/133.m3u8
+True Movie Hits	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/135.m3u8
+True PremierHD 5	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/1.m3u8
+True Series	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/132.m3u8
+True-Xzyte	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/120.m3u8
+TV360 HD1	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/114.m3u8
+TV360 HD2	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/113.m3u8
+TV5 MONDE INFO	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/87.m3u8
+TV5-KHMER	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/13.m3u8
+TVK2-KHMER	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/15.m3u8
+TVK-KHMER	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/2.m3u8
+V News	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/112.m3u8
+VTV5 Tây Nam Bộ	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/34.m3u8
+VTV5 TÂY NGUYÊN	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/79.m3u8
+W SPORTS	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/142.m3u8
+WARNER TV [Thai Sub]	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/137.m3u8
+WOMAN HD	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/109.m3u8
+WWE Channel	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/107.m3u8
+YMG 新闻频道	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/160.m3u8
+YMG 未来频道	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/159.m3u8
+⁣三明新闻综合	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/155.m3u8
+兰溪新闻综合	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/161.m3u8
+姚江文化	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/66.m3u8
+新闻综合HD	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/68.m3u8
+新闻综合	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/67.m3u8
+苏州 生活资讯 5	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/163.m3u8
+苏州文化生活1	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/158.m3u8
+苏州新闻综合	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/157.m3u8
+苏州社会经济	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/156.m3u8
+诸暨新闻综合	http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/154.m3u8
+007: NOVA GERACAO	http://txup.live:80/live/0454713149/6189330030/934070.m3u8
+007: RETRO	http://txup.live:80/live/0454713149/6189330030/934071.m3u8
+A ERA DO GELO	http://txup.live:80/live/0454713149/6189330030/934082.m3u8
+A HORA DO PESADELO	http://txup.live:80/live/0454713149/6189330030/934098.m3u8
+AMERICAN PIE: NOVA GERACAO	http://txup.live:80/live/0454713149/6189330030/934105.m3u8
+AMERICAN PIE: RETRO	http://txup.live:80/live/0454713149/6189330030/934106.m3u8
+ANIMAIS FANTASTICOS E ONDE HABITAM	http://txup.live:80/live/0454713149/6189330030/934108.m3u8
+ANJOS DA NOITE	http://txup.live:80/live/0454713149/6189330030/934111.m3u8
+BATMAN: NOVA GERACAO	http://txup.live:80/live/0454713149/6189330030/934132.m3u8
+BATMAN: RETRO	http://txup.live:80/live/0454713149/6189330030/934133.m3u8
+BLADE	http://txup.live:80/live/0454713149/6189330030/934140.m3u8
+BRINQUEDO ASSASSINO	http://txup.live:80/live/0454713149/6189330030/934150.m3u8
+CHUCKY	http://txup.live:80/live/0454713149/6189330030/934176.m3u8
+CINE CATASTROFE 01	http://txup.live:80/live/0454713149/6189330030/934178.m3u8
+CINE CATASTROFE 02	http://txup.live:80/live/0454713149/6189330030/934179.m3u8
+CINE CATASTROFE 03	http://txup.live:80/live/0454713149/6189330030/934180.m3u8
+CINE CATASTROFE 04	http://txup.live:80/live/0454713149/6189330030/934181.m3u8
+CINE CATASTROFE 05	http://txup.live:80/live/0454713149/6189330030/934182.m3u8
+CINE CATASTROFE 06	http://txup.live:80/live/0454713149/6189330030/934183.m3u8
+CINE CATASTROFE 07	http://txup.live:80/live/0454713149/6189330030/934184.m3u8
+CINE CATASTROFE 08	http://txup.live:80/live/0454713149/6189330030/934185.m3u8
+CINE COMEDIA 01	http://txup.live:80/live/0454713149/6189330030/934186.m3u8
+CINE COMEDIA 02	http://txup.live:80/live/0454713149/6189330030/934187.m3u8
+CINE COMEDIA 03	http://txup.live:80/live/0454713149/6189330030/934188.m3u8
+CINE COMEDIA 04	http://txup.live:80/live/0454713149/6189330030/934189.m3u8
+CINE COMEDIA 05	http://txup.live:80/live/0454713149/6189330030/934190.m3u8
+CINE COMEDIA 06	http://txup.live:80/live/0454713149/6189330030/934191.m3u8
+CINE COMEDIA 07	http://txup.live:80/live/0454713149/6189330030/934192.m3u8
+CINE COMEDIA 08: NACIONAL 01	http://txup.live:80/live/0454713149/6189330030/934193.m3u8
+CINE COMEDIA 09: NACIONAL 02	http://txup.live:80/live/0454713149/6189330030/934194.m3u8
+CINE COMEDIA 10	http://txup.live:80/live/0454713149/6189330030/934195.m3u8
+CINE COMEDIA 11	http://txup.live:80/live/0454713149/6189330030/934196.m3u8
+CINE COMEDIA 12	http://txup.live:80/live/0454713149/6189330030/934197.m3u8
+CINE COMEDIA 13: SE BEBER NAO CASE	http://txup.live:80/live/0454713149/6189330030/934198.m3u8
+CINE COMEDIA 14	http://txup.live:80/live/0454713149/6189330030/934199.m3u8
+CINE DC 01	http://txup.live:80/live/0454713149/6189330030/934200.m3u8
+CINE DC 02	http://txup.live:80/live/0454713149/6189330030/934201.m3u8
+CINE DC 03	http://txup.live:80/live/0454713149/6189330030/934202.m3u8
+CINE DRAMA 01	http://txup.live:80/live/0454713149/6189330030/934203.m3u8
+CINE DRAMA 02	http://txup.live:80/live/0454713149/6189330030/934204.m3u8
+CINE DRAMA 03	http://txup.live:80/live/0454713149/6189330030/934205.m3u8
+CINE FANTASIA 01	http://txup.live:80/live/0454713149/6189330030/934206.m3u8
+CINE FANTASIA 02	http://txup.live:80/live/0454713149/6189330030/934207.m3u8
+CINE FANTASIA 03	http://txup.live:80/live/0454713149/6189330030/934208.m3u8
+CINE FANTASIA 04	http://txup.live:80/live/0454713149/6189330030/934209.m3u8
+CINE FANTASIA 05	http://txup.live:80/live/0454713149/6189330030/934210.m3u8
+CINE FANTASIA 06	http://txup.live:80/live/0454713149/6189330030/934211.m3u8
+CINE FANTASIA 07: MAGIA 01	http://txup.live:80/live/0454713149/6189330030/934212.m3u8
+CINE FANTASIA 08: MAGIA 02	http://txup.live:80/live/0454713149/6189330030/934213.m3u8
+CINE FANTASIA 09: TERROR 01	http://txup.live:80/live/0454713149/6189330030/934214.m3u8
+CINE FANTASIA 10: TERROR 02	http://txup.live:80/live/0454713149/6189330030/934215.m3u8
+CINE MARVEL 01	http://txup.live:80/live/0454713149/6189330030/934216.m3u8
+CINE MARVEL 02	http://txup.live:80/live/0454713149/6189330030/934217.m3u8
+CINE MARVEL 03	http://txup.live:80/live/0454713149/6189330030/934218.m3u8
+CINE TERROR 01	http://txup.live:80/live/0454713149/6189330030/934219.m3u8
+CINE TERROR 02	http://txup.live:80/live/0454713149/6189330030/934220.m3u8
+CINE TERROR 04: ZUMBI	http://txup.live:80/live/0454713149/6189330030/934222.m3u8
+CINE TERROR 05: VAMPIROS 01	http://txup.live:80/live/0454713149/6189330030/934223.m3u8
+CINE TERROR 06: VAMPIROS 02	http://txup.live:80/live/0454713149/6189330030/934224.m3u8
+CINE TERROR 07	http://txup.live:80/live/0454713149/6189330030/934225.m3u8
+CINE TERROR 08: EXORCISMOS	http://txup.live:80/live/0454713149/6189330030/934226.m3u8
+CINE TERROR 09: SOBRENATURAL	http://txup.live:80/live/0454713149/6189330030/934227.m3u8
+CINE TERROR 10	http://txup.live:80/live/0454713149/6189330030/934228.m3u8
+CINE TERROR 11: RETRO	http://txup.live:80/live/0454713149/6189330030/934229.m3u8
+CINE TERROR 12	http://txup.live:80/live/0454713149/6189330030/934230.m3u8
+CINE TERROR 03	http://txup.live:80/live/0454713149/6189330030/934221.m3u8
+CINE TERROR 14	http://txup.live:80/live/0454713149/6189330030/934232.m3u8
+CINE TERROR 13	http://txup.live:80/live/0454713149/6189330030/934231.m3u8
+CREPUSCULO	http://txup.live:80/live/0454713149/6189330030/934238.m3u8
+DIVERGENTE	http://txup.live:80/live/0454713149/6189330030/934246.m3u8
+EFEITO BORBOLETA	http://txup.live:80/live/0454713149/6189330030/934280.m3u8
+HALLOWEEN	http://txup.live:80/live/0454713149/6189330030/934327.m3u8
+HARRY POTTER 01	http://txup.live:80/live/0454713149/6189330030/934328.m3u8
+HARRY POTTER 02	http://txup.live:80/live/0454713149/6189330030/934329.m3u8
+HOMEM DE FERRO	http://txup.live:80/live/0454713149/6189330030/934332.m3u8
+HOMEM-ARANHA 01	http://txup.live:80/live/0454713149/6189330030/934333.m3u8
+HOMEM-ARANHA 02: O ESPETACULAR	http://txup.live:80/live/0454713149/6189330030/934334.m3u8
+HOMEM-ARANHA 03: NOVA GERACAO	http://txup.live:80/live/0454713149/6189330030/934335.m3u8
+HOMENS DE PRETO	http://txup.live:80/live/0454713149/6189330030/934336.m3u8
+INVOCACAO DO MAL	http://txup.live:80/live/0454713149/6189330030/934350.m3u8
+JASON	http://txup.live:80/live/0454713149/6189330030/934354.m3u8
+JOGOS MORTAIS	http://txup.live:80/live/0454713149/6189330030/934356.m3u8
+JOGOS VORAZES	http://txup.live:80/live/0454713149/6189330030/934357.m3u8
+JOHN WICK	http://txup.live:80/live/0454713149/6189330030/934358.m3u8
+JUMANJI	http://txup.live:80/live/0454713149/6189330030/934359.m3u8
+JURASSIC PARK	http://txup.live:80/live/0454713149/6189330030/934361.m3u8
+JURASSIC WORLD	http://txup.live:80/live/0454713149/6189330030/934362.m3u8
+MATRIX	http://txup.live:80/live/0454713149/6189330030/934387.m3u8
+MAZE RUNNER	http://txup.live:80/live/0454713149/6189330030/934388.m3u8
+MEU MALVADO FAVORITO	http://txup.live:80/live/0454713149/6189330030/934390.m3u8
+MINHA MAE E UMA PECA	http://txup.live:80/live/0454713149/6189330030/934394.m3u8
+O ALBERGUE	http://txup.live:80/live/0454713149/6189330030/934409.m3u8
+O EXTERMINADOR DO FUTURO	http://txup.live:80/live/0454713149/6189330030/934410.m3u8
+O REI LEAO	http://txup.live:80/live/0454713149/6189330030/934415.m3u8
+PANICO	http://txup.live:80/live/0454713149/6189330030/934489.m3u8
+PANICO NA FLORESTA	http://txup.live:80/live/0454713149/6189330030/934490.m3u8
+PIRATAS DO CARIBE	http://txup.live:80/live/0454713149/6189330030/934501.m3u8
+PLANETA DOS MACACOS	http://txup.live:80/live/0454713149/6189330030/934503.m3u8
+PREMONICAO	http://txup.live:80/live/0454713149/6189330030/934509.m3u8
+QUARTETO FANTASTICO	http://txup.live:80/live/0454713149/6189330030/934517.m3u8
+RESIDENT EVIL	http://txup.live:80/live/0454713149/6189330030/934520.m3u8
+STAR WARS	http://txup.live:80/live/0454713149/6189330030/934559.m3u8
+SUPERMAN	http://txup.live:80/live/0454713149/6189330030/934565.m3u8
+THOR	http://txup.live:80/live/0454713149/6189330030/934629.m3u8
+TODO MUNDO EM PANICO	http://txup.live:80/live/0454713149/6189330030/934630.m3u8
+TOY STORY	http://txup.live:80/live/0454713149/6189330030/934639.m3u8
+UMA NOITE NO MUSEU	http://txup.live:80/live/0454713149/6189330030/934648.m3u8
+VELOZES E FURIOSOS	http://txup.live:80/live/0454713149/6189330030/934652.m3u8
+VINGADORES	http://txup.live:80/live/0454713149/6189330030/934655.m3u8
+X-MEN: NOVA GERACAO	http://txup.live:80/live/0454713149/6189330030/934661.m3u8
+X-MEN: WOLWERINE	http://txup.live:80/live/0454713149/6189330030/934663.m3u8
+X-MEN: TRILOGIA	http://txup.live:80/live/0454713149/6189330030/934662.m3u8
+DIGIMON ADVENTURE 01	http://txup.live:80/live/0454713149/6189330030/934243.m3u8
+DIGIMON ADVENTURE 02	http://txup.live:80/live/0454713149/6189330030/934244.m3u8
+DIGIMON ADVENTURE 03	http://txup.live:80/live/0454713149/6189330030/934245.m3u8
+DRAGON BALL SUPER 01	http://txup.live:80/live/0454713149/6189330030/934263.m3u8
+DRAGON BALL SUPER 02	http://txup.live:80/live/0454713149/6189330030/934264.m3u8
+DRAGON BALL SUPER 03	http://txup.live:80/live/0454713149/6189330030/934265.m3u8
+DRAGON BALL Z: BABIDI	http://txup.live:80/live/0454713149/6189330030/934266.m3u8
+DRAGON BALL Z: CELL 01	http://txup.live:80/live/0454713149/6189330030/934267.m3u8
+DRAGON BALL Z: CELL PERFEITO 03	http://txup.live:80/live/0454713149/6189330030/934268.m3u8
+DRAGON BALL Z: CELL SEMI-PERFEITO 02	http://txup.live:80/live/0454713149/6189330030/934269.m3u8
+DRAGON BALL Z: MAJIN BOO 01	http://txup.live:80/live/0454713149/6189330030/934270.m3u8
+DRAGON BALL Z: MAJIN BOO 02	http://txup.live:80/live/0454713149/6189330030/934271.m3u8
+DRAGON BALL Z: MAJIN BOO KID	http://txup.live:80/live/0454713149/6189330030/934272.m3u8
+DRAGON BALL Z: MAJIN BOO SUPER	http://txup.live:80/live/0454713149/6189330030/934273.m3u8
+DRAGON BALL Z: SAGA ANDROIDES	http://txup.live:80/live/0454713149/6189330030/934274.m3u8
+DRAGON BALL Z: SAGA FREEZA	http://txup.live:80/live/0454713149/6189330030/934275.m3u8
+DRAGON BALL Z: SAYAJIN	http://txup.live:80/live/0454713149/6189330030/934276.m3u8
+DRAGON BALL Z: SUPER SAYAJIN	http://txup.live:80/live/0454713149/6189330030/934277.m3u8
+DRAGON BALL: CLASSIC	http://txup.live:80/live/0454713149/6189330030/934278.m3u8
+FREAKAZOID	http://txup.live:80/live/0454713149/6189330030/934302.m3u8
+INUYASHA	http://txup.live:80/live/0454713149/6189330030/934348.m3u8
+NANATSU NO TAIZAI	http://txup.live:80/live/0454713149/6189330030/934405.m3u8
+NARUTO BORUTO	http://txup.live:80/live/0454713149/6189330030/934406.m3u8
+NARUTO CLASSICO	http://txup.live:80/live/0454713149/6189330030/934407.m3u8
+NARUTO SHIPPUDEN	http://txup.live:80/live/0454713149/6189330030/934408.m3u8
+OS CAVALEIROS DO ZODIACO: A SAGA DO SANTUARIO	http://txup.live:80/live/0454713149/6189330030/934423.m3u8
+OS CAVALEIROS DO ZODIACO: A SAGA DOS ELISEOS	http://txup.live:80/live/0454713149/6189330030/934424.m3u8
+OS CAVALEIROS DO ZODIACO: ALMA DE OURO	http://txup.live:80/live/0454713149/6189330030/934425.m3u8
+OS CAVALEIROS DO ZODIACO: CAVALEIROS DE PRATA 01	http://txup.live:80/live/0454713149/6189330030/934426.m3u8
+OS CAVALEIROS DO ZODIACO: CAVALEIROS DE PRATA 02	http://txup.live:80/live/0454713149/6189330030/934427.m3u8
+OS CAVALEIROS DO ZODIACO: CAVALEIROS DE PRATA 03	http://txup.live:80/live/0454713149/6189330030/934428.m3u8
+OS CAVALEIROS DO ZODIACO: HADES A SAGA DO INFERNO	http://txup.live:80/live/0454713149/6189330030/934429.m3u8
+OS CAVALEIROS DO ZODIACO: OMEGA 01	http://txup.live:80/live/0454713149/6189330030/934430.m3u8
+OS CAVALEIROS DO ZODIACO: OMEGA 02	http://txup.live:80/live/0454713149/6189330030/934431.m3u8
+OS CAVALEIROS DO ZODIACO: OMEGA 03	http://txup.live:80/live/0454713149/6189330030/934432.m3u8
+OS CAVALEIROS DO ZODIACO: SAGA DE ASGARD 01	http://txup.live:80/live/0454713149/6189330030/934433.m3u8
+OS CAVALEIROS DO ZODIACO: SAGA DE ASGARD 02	http://txup.live:80/live/0454713149/6189330030/934434.m3u8
+OS CAVALEIROS DO ZODIACO: SAGA DE POSEIDON 01	http://txup.live:80/live/0454713149/6189330030/934435.m3u8
+OS CAVALEIROS DO ZODIACO: SAGA DE POSEIDON 02	http://txup.live:80/live/0454713149/6189330030/934436.m3u8
+OS CAVALEIROS DO ZODIACO: SAGA DOZE CASAS 01	http://txup.live:80/live/0454713149/6189330030/934437.m3u8
+OS CAVALEIROS DO ZODIACO: SAGA DOZE CASAS 02	http://txup.live:80/live/0454713149/6189330030/934438.m3u8
+OS CAVALEIROS DO ZODIACO: SAINT SEIYA 01	http://txup.live:80/live/0454713149/6189330030/934439.m3u8
+OS CAVALEIROS DO ZODIACO: SAINT SEIYA 02	http://txup.live:80/live/0454713149/6189330030/934440.m3u8
+OS CAVALEIROS DO ZODIACO: SAINT SEIYA 03	http://txup.live:80/live/0454713149/6189330030/934441.m3u8
+OS CAVALEIROS DO ZODIACO: THE LOST CANVAS 01	http://txup.live:80/live/0454713149/6189330030/934442.m3u8
+OS CAVALEIROS DO ZODIACO: THE LOST CANVAS 02	http://txup.live:80/live/0454713149/6189330030/934443.m3u8
+OS CAVALEIROS DO ZODIACO: TORNEIO GALACTICOS	http://txup.live:80/live/0454713149/6189330030/934444.m3u8
+SAKURA CARDS	http://txup.live:80/live/0454713149/6189330030/934532.m3u8
+SHAMAN KING	http://txup.live:80/live/0454713149/6189330030/934541.m3u8
+SHURATO	http://txup.live:80/live/0454713149/6189330030/934544.m3u8
+GEORGE O CURIOSO	http://txup.live:80/live/0454713149/6189330030/934324.m3u8
+A ESCRAVA ISAURA 01	http://txup.live:80/live/0454713149/6189330030/934779.m3u8
+A ESCRAVA ISAURA 02	http://txup.live:80/live/0454713149/6189330030/934780.m3u8
+A FAVORITA 01	http://txup.live:80/live/0454713149/6189330030/934781.m3u8
+A FAVORITA 02	http://txup.live:80/live/0454713149/6189330030/934782.m3u8
+A FORCA DO QUERER 01	http://txup.live:80/live/0454713149/6189330030/934783.m3u8
+A FORCA DO QUERER 02	http://txup.live:80/live/0454713149/6189330030/934784.m3u8
+A TERRA PROMETIDA 01	http://txup.live:80/live/0454713149/6189330030/934785.m3u8
+A TERRA PROMETIDA 02	http://txup.live:80/live/0454713149/6189330030/934786.m3u8
+A USURPADORA 01	http://txup.live:80/live/0454713149/6189330030/934787.m3u8
+A USURPADORA 02	http://txup.live:80/live/0454713149/6189330030/934788.m3u8
+AMOR DE MAE 01	http://txup.live:80/live/0454713149/6189330030/934789.m3u8
+AMOR DE MAE 02	http://txup.live:80/live/0454713149/6189330030/934790.m3u8
+AVENIDA BRASIL 01	http://txup.live:80/live/0454713149/6189330030/934791.m3u8
+AVENIDA BRASIL 02	http://txup.live:80/live/0454713149/6189330030/934792.m3u8
+CHEIAS DE CHARME 01	http://txup.live:80/live/0454713149/6189330030/934793.m3u8
+CHEIAS DE CHARME 02	http://txup.live:80/live/0454713149/6189330030/934794.m3u8
+CHIQUITITAS 01	http://txup.live:80/live/0454713149/6189330030/934795.m3u8
+CHIQUITITAS 02	http://txup.live:80/live/0454713149/6189330030/934796.m3u8
+CHOCOLATE COM PIMENTA 01	http://txup.live:80/live/0454713149/6189330030/934797.m3u8
+CHOCOLATE COM PIMENTA 02	http://txup.live:80/live/0454713149/6189330030/934798.m3u8
+DA COR DO PECADO 01	http://txup.live:80/live/0454713149/6189330030/934799.m3u8
+DA COR DO PECADO 02	http://txup.live:80/live/0454713149/6189330030/934800.m3u8
+GENESIS 01	http://txup.live:80/live/0454713149/6189330030/934801.m3u8
+GENESIS 02	http://txup.live:80/live/0454713149/6189330030/934802.m3u8
+KUBANACAN 01	http://txup.live:80/live/0454713149/6189330030/934803.m3u8
+KUBANACAN 02	http://txup.live:80/live/0454713149/6189330030/934804.m3u8
+LACOS DE FAMILIA 01	http://txup.live:80/live/0454713149/6189330030/934805.m3u8
+LACOS DE FAMILIA 02	http://txup.live:80/live/0454713149/6189330030/934806.m3u8
+MARIA DO BAIRRO 01	http://txup.live:80/live/0454713149/6189330030/934807.m3u8
+MARIA DO BAIRRO 02	http://txup.live:80/live/0454713149/6189330030/934808.m3u8
+O BEIJO DO VAMPIRO 01	http://txup.live:80/live/0454713149/6189330030/934809.m3u8
+O BEIJO DO VAMPIRO 02	http://txup.live:80/live/0454713149/6189330030/934810.m3u8
+O BEIJO DO VAMPIRO 03	http://txup.live:80/live/0454713149/6189330030/934811.m3u8
+O CLONE 01	http://txup.live:80/live/0454713149/6189330030/934812.m3u8
+O CLONE 02	http://txup.live:80/live/0454713149/6189330030/934813.m3u8
+O REI DO GADO 01	http://txup.live:80/live/0454713149/6189330030/934814.m3u8
+O REI DO GADO 02	http://txup.live:80/live/0454713149/6189330030/934815.m3u8
+OS DEZ MANDAMENTOS 01	http://txup.live:80/live/0454713149/6189330030/934816.m3u8
+OS DEZ MANDAMENTOS 02	http://txup.live:80/live/0454713149/6189330030/934817.m3u8
+OS DEZ MANDAMENTOS 03	http://txup.live:80/live/0454713149/6189330030/934818.m3u8
+OS DEZ MANDAMENTOS 04	http://txup.live:80/live/0454713149/6189330030/934819.m3u8
+PANTANAL 01	http://txup.live:80/live/0454713149/6189330030/934820.m3u8
+PANTANAL 02	http://txup.live:80/live/0454713149/6189330030/934821.m3u8
+REBELDE 01	http://txup.live:80/live/0454713149/6189330030/934822.m3u8
+REBELDE 02	http://txup.live:80/live/0454713149/6189330030/934823.m3u8
+REBELDE 03	http://txup.live:80/live/0454713149/6189330030/934824.m3u8
+TERRA E PAIXAO 01	http://txup.live:80/live/0454713149/6189330030/934825.m3u8
+TERRA E PAIXAO 02	http://txup.live:80/live/0454713149/6189330030/934826.m3u8
+VAMP 01	http://txup.live:80/live/0454713149/6189330030/934827.m3u8
+VAMP 02	http://txup.live:80/live/0454713149/6189330030/934828.m3u8
+VERDADES SECRETAS 01	http://txup.live:80/live/0454713149/6189330030/934829.m3u8
+VERDADES SECRETAS 02	http://txup.live:80/live/0454713149/6189330030/934830.m3u8
+VERDADES SECRETAS 03	http://txup.live:80/live/0454713149/6189330030/934831.m3u8
+VERDADES SECRETAS 04	http://txup.live:80/live/0454713149/6189330030/934832.m3u8
+9-1-1: 01	http://txup.live:80/live/0454713149/6189330030/934074.m3u8
+9-1-1: 02	http://txup.live:80/live/0454713149/6189330030/934075.m3u8
+9-1-1: 03	http://txup.live:80/live/0454713149/6189330030/934076.m3u8
+9-1-1: 04	http://txup.live:80/live/0454713149/6189330030/934077.m3u8
+9-1-1: 05	http://txup.live:80/live/0454713149/6189330030/934078.m3u8
+9-1-1: 06	http://txup.live:80/live/0454713149/6189330030/934079.m3u8
+A ESCOLINHA DO PROFESSOR RAIMUNDO	http://txup.live:80/live/0454713149/6189330030/934083.m3u8
+A GRANDE FAMILIA 01	http://txup.live:80/live/0454713149/6189330030/934089.m3u8
+A GRANDE FAMILIA 02	http://txup.live:80/live/0454713149/6189330030/934090.m3u8
+A GRANDE FAMILIA 03	http://txup.live:80/live/0454713149/6189330030/934091.m3u8
+A GRANDE FAMILIA 04	http://txup.live:80/live/0454713149/6189330030/934092.m3u8
+A GRANDE FAMILIA 05	http://txup.live:80/live/0454713149/6189330030/934093.m3u8
+A GRANDE FAMILIA 06	http://txup.live:80/live/0454713149/6189330030/934094.m3u8
+A GRANDE FAMILIA 07	http://txup.live:80/live/0454713149/6189330030/934095.m3u8
+A GRANDE FAMILIA 08	http://txup.live:80/live/0454713149/6189330030/934096.m3u8
+A GRANDE FAMILIA 09	http://txup.live:80/live/0454713149/6189330030/934097.m3u8
+CHAPOLIN 01	http://txup.live:80/live/0454713149/6189330030/934160.m3u8
+CHAPOLIN 02	http://txup.live:80/live/0454713149/6189330030/934161.m3u8
+CHAPOLIN 03	http://txup.live:80/live/0454713149/6189330030/934162.m3u8
+CHAPOLIN 04	http://txup.live:80/live/0454713149/6189330030/934163.m3u8
+CHAPOLIN 05	http://txup.live:80/live/0454713149/6189330030/934164.m3u8
+CHAPOLIN 06	http://txup.live:80/live/0454713149/6189330030/934165.m3u8
+CHAPOLIN 07	http://txup.live:80/live/0454713149/6189330030/934166.m3u8
+CHAVES 00	http://txup.live:80/live/0454713149/6189330030/934167.m3u8
+CHAVES 01	http://txup.live:80/live/0454713149/6189330030/934168.m3u8
+CHAVES 02	http://txup.live:80/live/0454713149/6189330030/934169.m3u8
+CHAVES 03	http://txup.live:80/live/0454713149/6189330030/934170.m3u8
+CHAVES 04	http://txup.live:80/live/0454713149/6189330030/934171.m3u8
+CHAVES 05	http://txup.live:80/live/0454713149/6189330030/934172.m3u8
+CHAVES 06	http://txup.live:80/live/0454713149/6189330030/934173.m3u8
+CHAVES 07	http://txup.live:80/live/0454713149/6189330030/934174.m3u8
+CHAVES 08	http://txup.live:80/live/0454713149/6189330030/934175.m3u8
+DOIS HOMENS E MEIO 01	http://txup.live:80/live/0454713149/6189330030/934247.m3u8
+DOIS HOMENS E MEIO 02	http://txup.live:80/live/0454713149/6189330030/934248.m3u8
+DOIS HOMENS E MEIO 03	http://txup.live:80/live/0454713149/6189330030/934249.m3u8
+DOIS HOMENS E MEIO 04	http://txup.live:80/live/0454713149/6189330030/934250.m3u8
+DOIS HOMENS E MEIO 05	http://txup.live:80/live/0454713149/6189330030/934251.m3u8
+DOIS HOMENS E MEIO 06	http://txup.live:80/live/0454713149/6189330030/934252.m3u8
+DOIS HOMENS E MEIO 07	http://txup.live:80/live/0454713149/6189330030/934253.m3u8
+DOIS HOMENS E MEIO 08	http://txup.live:80/live/0454713149/6189330030/934254.m3u8
+DOIS HOMENS E MEIO 09	http://txup.live:80/live/0454713149/6189330030/934255.m3u8
+DOIS HOMENS E MEIO 10	http://txup.live:80/live/0454713149/6189330030/934256.m3u8
+DOIS HOMENS E MEIO 11	http://txup.live:80/live/0454713149/6189330030/934257.m3u8
+DOIS HOMENS E MEIO 12	http://txup.live:80/live/0454713149/6189330030/934258.m3u8
+ELITE 01	http://txup.live:80/live/0454713149/6189330030/934281.m3u8
+ELITE 02	http://txup.live:80/live/0454713149/6189330030/934282.m3u8
+ELITE 03	http://txup.live:80/live/0454713149/6189330030/934283.m3u8
+ELITE 04	http://txup.live:80/live/0454713149/6189330030/934284.m3u8
+EU A PATROA E AS CRIANCAS 01	http://txup.live:80/live/0454713149/6189330030/934285.m3u8
+EU A PATROA E AS CRIANCAS 02	http://txup.live:80/live/0454713149/6189330030/934286.m3u8
+EU A PATROA E AS CRIANCAS 03	http://txup.live:80/live/0454713149/6189330030/934287.m3u8
+EU A PATROA E AS CRIANCAS 04	http://txup.live:80/live/0454713149/6189330030/934288.m3u8
+EU A PATROA E AS CRIANCAS 05	http://txup.live:80/live/0454713149/6189330030/934289.m3u8
+EXPRESSO DO AMANHA 01	http://txup.live:80/live/0454713149/6189330030/934291.m3u8
+EXPRESSO DO AMANHA 02	http://txup.live:80/live/0454713149/6189330030/934292.m3u8
+FAMILIA DINOSSAURO 01	http://txup.live:80/live/0454713149/6189330030/934295.m3u8
+FAMILIA DINOSSAURO 02	http://txup.live:80/live/0454713149/6189330030/934296.m3u8
+FAMILIA DINOSSAURO 03	http://txup.live:80/live/0454713149/6189330030/934297.m3u8
+FAMILIA DINOSSAURO 04	http://txup.live:80/live/0454713149/6189330030/934298.m3u8
+GAME OF THRONES 01	http://txup.live:80/live/0454713149/6189330030/934307.m3u8
+GAME OF THRONES 02	http://txup.live:80/live/0454713149/6189330030/934308.m3u8
+GAME OF THRONES 03	http://txup.live:80/live/0454713149/6189330030/934309.m3u8
+GAME OF THRONES 04	http://txup.live:80/live/0454713149/6189330030/934310.m3u8
+GAME OF THRONES 05	http://txup.live:80/live/0454713149/6189330030/934311.m3u8
+GAME OF THRONES 06	http://txup.live:80/live/0454713149/6189330030/934312.m3u8
+GAME OF THRONES 07	http://txup.live:80/live/0454713149/6189330030/934313.m3u8
+GAME OF THRONES 08	http://txup.live:80/live/0454713149/6189330030/934314.m3u8
+GREYS ANATOMY	http://txup.live:80/live/0454713149/6189330030/934326.m3u8
+HOUSE 01	http://txup.live:80/live/0454713149/6189330030/934340.m3u8
+HOUSE 02	http://txup.live:80/live/0454713149/6189330030/934341.m3u8
+HOUSE 03	http://txup.live:80/live/0454713149/6189330030/934342.m3u8
+HOUSE 04	http://txup.live:80/live/0454713149/6189330030/934343.m3u8
+HOUSE 05	http://txup.live:80/live/0454713149/6189330030/934344.m3u8
+HOUSE 06	http://txup.live:80/live/0454713149/6189330030/934345.m3u8
+HOUSE 07	http://txup.live:80/live/0454713149/6189330030/934346.m3u8
+HOUSE 08	http://txup.live:80/live/0454713149/6189330030/934347.m3u8
+JASPION	http://txup.live:80/live/0454713149/6189330030/934355.m3u8
+LA CASA DE PAPEL 01	http://txup.live:80/live/0454713149/6189330030/934364.m3u8
+LA CASA DE PAPEL 02	http://txup.live:80/live/0454713149/6189330030/934365.m3u8
+LA CASA DE PAPEL 03	http://txup.live:80/live/0454713149/6189330030/934366.m3u8
+LA CASA DE PAPEL 04	http://txup.live:80/live/0454713149/6189330030/934367.m3u8
+LOST 01	http://txup.live:80/live/0454713149/6189330030/934375.m3u8
+LOST 02	http://txup.live:80/live/0454713149/6189330030/934376.m3u8
+LOST 03	http://txup.live:80/live/0454713149/6189330030/934377.m3u8
+LOST 04	http://txup.live:80/live/0454713149/6189330030/934378.m3u8
+LOST 05	http://txup.live:80/live/0454713149/6189330030/934379.m3u8
+LOST 06	http://txup.live:80/live/0454713149/6189330030/934380.m3u8
+MARIA CLARA E JP	http://txup.live:80/live/0454713149/6189330030/934385.m3u8
+MUNDO DE BEAKEMAN 01	http://txup.live:80/live/0454713149/6189330030/934399.m3u8
+MUNDO DE BEAKEMAN 02	http://txup.live:80/live/0454713149/6189330030/934400.m3u8
+MUNDO DE BEAKEMAN 03	http://txup.live:80/live/0454713149/6189330030/934401.m3u8
+MUNDO DE BEAKEMAN 04	http://txup.live:80/live/0454713149/6189330030/934402.m3u8
+ORIGEM 01	http://txup.live:80/live/0454713149/6189330030/934419.m3u8
+OS TRAPALHOES	http://txup.live:80/live/0454713149/6189330030/934488.m3u8
+PRISON BREAKE 01	http://txup.live:80/live/0454713149/6189330030/934510.m3u8
+PRISON BREAKE 02	http://txup.live:80/live/0454713149/6189330030/934511.m3u8
+PRISON BREAKE 03	http://txup.live:80/live/0454713149/6189330030/934512.m3u8
+PRISON BREAKE 04	http://txup.live:80/live/0454713149/6189330030/934513.m3u8
+PRISON BREAKE 05	http://txup.live:80/live/0454713149/6189330030/934514.m3u8
+SAI DE BAIXO 01	http://txup.live:80/live/0454713149/6189330030/934525.m3u8
+SAI DE BAIXO 02	http://txup.live:80/live/0454713149/6189330030/934526.m3u8
+SAI DE BAIXO 03	http://txup.live:80/live/0454713149/6189330030/934527.m3u8
+SAI DE BAIXO 04	http://txup.live:80/live/0454713149/6189330030/934528.m3u8
+SAI DE BAIXO 05	http://txup.live:80/live/0454713149/6189330030/934529.m3u8
+SAI DE BAIXO 06	http://txup.live:80/live/0454713149/6189330030/934530.m3u8
+SAI DE BAIXO 07	http://txup.live:80/live/0454713149/6189330030/934531.m3u8
+SMALLVILLE 01	http://txup.live:80/live/0454713149/6189330030/934546.m3u8
+SMALLVILLE 02	http://txup.live:80/live/0454713149/6189330030/934547.m3u8
+SMALLVILLE 03	http://txup.live:80/live/0454713149/6189330030/934548.m3u8
+SMALLVILLE 04	http://txup.live:80/live/0454713149/6189330030/934549.m3u8
+SMALLVILLE 05	http://txup.live:80/live/0454713149/6189330030/934550.m3u8
+SMALLVILLE 06	http://txup.live:80/live/0454713149/6189330030/934551.m3u8
+SMALLVILLE 07	http://txup.live:80/live/0454713149/6189330030/934552.m3u8
+SMALLVILLE 08	http://txup.live:80/live/0454713149/6189330030/934553.m3u8
+SMALLVILLE 09	http://txup.live:80/live/0454713149/6189330030/934554.m3u8
+SMALLVILLE 10	http://txup.live:80/live/0454713149/6189330030/934555.m3u8
+SUPERNATURAL 01	http://txup.live:80/live/0454713149/6189330030/934566.m3u8
+SUPERNATURAL 02	http://txup.live:80/live/0454713149/6189330030/934567.m3u8
+SUPERNATURAL 03	http://txup.live:80/live/0454713149/6189330030/934568.m3u8
+SUPERNATURAL 04	http://txup.live:80/live/0454713149/6189330030/934569.m3u8
+SUPERNATURAL 05	http://txup.live:80/live/0454713149/6189330030/934570.m3u8
+SUPERNATURAL 06	http://txup.live:80/live/0454713149/6189330030/934571.m3u8
+SUPERNATURAL 07	http://txup.live:80/live/0454713149/6189330030/934572.m3u8
+SUPERNATURAL 08	http://txup.live:80/live/0454713149/6189330030/934573.m3u8
+SUPERNATURAL 09	http://txup.live:80/live/0454713149/6189330030/934574.m3u8
+SUPERNATURAL 10	http://txup.live:80/live/0454713149/6189330030/934575.m3u8
+THE BIG BANG 01	http://txup.live:80/live/0454713149/6189330030/934578.m3u8
+THE BIG BANG 02	http://txup.live:80/live/0454713149/6189330030/934579.m3u8
+THE BIG BANG 03	http://txup.live:80/live/0454713149/6189330030/934580.m3u8
+THE BIG BANG 04	http://txup.live:80/live/0454713149/6189330030/934581.m3u8
+THE BIG BANG 05	http://txup.live:80/live/0454713149/6189330030/934582.m3u8
+THE BIG BANG 06	http://txup.live:80/live/0454713149/6189330030/934583.m3u8
+THE BIG BANG 07	http://txup.live:80/live/0454713149/6189330030/934584.m3u8
+THE BIG BANG 08	http://txup.live:80/live/0454713149/6189330030/934585.m3u8
+THE BIG BANG 09	http://txup.live:80/live/0454713149/6189330030/934586.m3u8
+THE BIG BANG 10	http://txup.live:80/live/0454713149/6189330030/934587.m3u8
+THE BIG BANG 11	http://txup.live:80/live/0454713149/6189330030/934588.m3u8
+THE BIG BANG 12	http://txup.live:80/live/0454713149/6189330030/934589.m3u8
+THE BOYS 01	http://txup.live:80/live/0454713149/6189330030/934590.m3u8
+THE BOYS 02	http://txup.live:80/live/0454713149/6189330030/934591.m3u8
+THE GOOD DOCTOR 01	http://txup.live:80/live/0454713149/6189330030/934592.m3u8
+THE GOOD DOCTOR 02	http://txup.live:80/live/0454713149/6189330030/934593.m3u8
+THE GOOD DOCTOR 03	http://txup.live:80/live/0454713149/6189330030/934594.m3u8
+THE GOOD DOCTOR 04	http://txup.live:80/live/0454713149/6189330030/934595.m3u8
+THE MIDDLE 01	http://txup.live:80/live/0454713149/6189330030/934596.m3u8
+THE MIDDLE 02	http://txup.live:80/live/0454713149/6189330030/934597.m3u8
+THE MIDDLE 03	http://txup.live:80/live/0454713149/6189330030/934598.m3u8
+THE MIDDLE 04	http://txup.live:80/live/0454713149/6189330030/934599.m3u8
+THE MIDDLE 05	http://txup.live:80/live/0454713149/6189330030/934600.m3u8
+THE MIDDLE 06	http://txup.live:80/live/0454713149/6189330030/934601.m3u8
+THE MIDDLE 07	http://txup.live:80/live/0454713149/6189330030/934602.m3u8
+THE MIDDLE 08	http://txup.live:80/live/0454713149/6189330030/934603.m3u8
+THE MIDDLE 09	http://txup.live:80/live/0454713149/6189330030/934604.m3u8
+THE WALKING DEAD	http://txup.live:80/live/0454713149/6189330030/934605.m3u8
+THE WALKING DEAD 01	http://txup.live:80/live/0454713149/6189330030/934606.m3u8
+THE WALKING DEAD 02	http://txup.live:80/live/0454713149/6189330030/934607.m3u8
+THE WALKING DEAD 03	http://txup.live:80/live/0454713149/6189330030/934608.m3u8
+THE WALKING DEAD 04	http://txup.live:80/live/0454713149/6189330030/934609.m3u8
+THE WALKING DEAD 05	http://txup.live:80/live/0454713149/6189330030/934610.m3u8
+THE WALKING DEAD 06	http://txup.live:80/live/0454713149/6189330030/934611.m3u8
+THE WALKING DEAD 07	http://txup.live:80/live/0454713149/6189330030/934612.m3u8
+THE WALKING DEAD 08	http://txup.live:80/live/0454713149/6189330030/934613.m3u8
+THE WALKING DEAD 09	http://txup.live:80/live/0454713149/6189330030/934614.m3u8
+THE WALKING DEAD 10: PARTE 01	http://txup.live:80/live/0454713149/6189330030/934615.m3u8
+THE WALKING DEAD 10: PARTE 02	http://txup.live:80/live/0454713149/6189330030/934616.m3u8
+THE WALKING DEAD 11: PARTE 01	http://txup.live:80/live/0454713149/6189330030/934617.m3u8
+THE WALKING DEAD 11: PARTE 02	http://txup.live:80/live/0454713149/6189330030/934618.m3u8
+THE WALKING DEAD 11: PARTE 03	http://txup.live:80/live/0454713149/6189330030/934619.m3u8
+THE WALKING DEAD: FEAR 01	http://txup.live:80/live/0454713149/6189330030/934620.m3u8
+THE WALKING DEAD: FEAR 02	http://txup.live:80/live/0454713149/6189330030/934621.m3u8
+THE WALKING DEAD: FEAR 03	http://txup.live:80/live/0454713149/6189330030/934622.m3u8
+THE WALKING DEAD: FEAR 04	http://txup.live:80/live/0454713149/6189330030/934623.m3u8
+THE WALKING DEAD: FEAR 05	http://txup.live:80/live/0454713149/6189330030/934624.m3u8
+THE WALKING DEAD: FEAR 06	http://txup.live:80/live/0454713149/6189330030/934625.m3u8
+THE WALKING DEAD: FEAR 07	http://txup.live:80/live/0454713149/6189330030/934626.m3u8
+THE WALKING DEAD: MUNDO NOVO 01	http://txup.live:80/live/0454713149/6189330030/934627.m3u8
+THE WALKING DEAD: MUNDO NOVO 02	http://txup.live:80/live/0454713149/6189330030/934628.m3u8
+TODO MUNDO ODEIA O CHRIS 01	http://txup.live:80/live/0454713149/6189330030/934631.m3u8
+TODO MUNDO ODEIA O CHRIS 02	http://txup.live:80/live/0454713149/6189330030/934632.m3u8
+TODO MUNDO ODEIA O CHRIS 03	http://txup.live:80/live/0454713149/6189330030/934633.m3u8
+TODO MUNDO ODEIA O CHRIS 04	http://txup.live:80/live/0454713149/6189330030/934634.m3u8
+YOUNG SHELDON 01	http://txup.live:80/live/0454713149/6189330030/934703.m3u8
+YOUNG SHELDON 02	http://txup.live:80/live/0454713149/6189330030/934704.m3u8
+YOUNG SHELDON 03	http://txup.live:80/live/0454713149/6189330030/934705.m3u8
+YOUNG SHELDON 04	http://txup.live:80/live/0454713149/6189330030/934706.m3u8
+AEROPORTO AREA RESTRITA 01	http://txup.live:80/live/0454713149/6189330030/934708.m3u8
+AEROPORTO AREA RESTRITA 02	http://txup.live:80/live/0454713149/6189330030/934709.m3u8
+AEROPORTO AREA RESTRITA 03	http://txup.live:80/live/0454713149/6189330030/934710.m3u8
+CASAMENTO AS CEGAS 01	http://txup.live:80/live/0454713149/6189330030/934711.m3u8
+CASAMENTO AS CEGAS 02	http://txup.live:80/live/0454713149/6189330030/934712.m3u8
+CASAMENTO AS CEGAS 03	http://txup.live:80/live/0454713149/6189330030/934713.m3u8
+CHEF 5 ESTRELAS	http://txup.live:80/live/0454713149/6189330030/934714.m3u8
+COMPRAMOS VENDEMOS E TROCAMOS	http://txup.live:80/live/0454713149/6189330030/934715.m3u8
+CONFEITARIA CONTRA O TEMPO	http://txup.live:80/live/0454713149/6189330030/934716.m3u8
+DE FERIAS COM O EX BRASIL 01	http://txup.live:80/live/0454713149/6189330030/934717.m3u8
+DE FERIAS COM O EX BRASIL 02	http://txup.live:80/live/0454713149/6189330030/934718.m3u8
+DE FERIAS COM O EX BRASIL 03	http://txup.live:80/live/0454713149/6189330030/934719.m3u8
+DE FERIAS COM O EX BRASIL 04	http://txup.live:80/live/0454713149/6189330030/934720.m3u8
+ESCOLA DE CHOCOLATE	http://txup.live:80/live/0454713149/6189330030/934721.m3u8
+FILHINHO DA MAMAE 01	http://txup.live:80/live/0454713149/6189330030/934722.m3u8
+FILHINHO DA MAMAE 02	http://txup.live:80/live/0454713149/6189330030/934723.m3u8
+FILHINHO DA MAMAE 03	http://txup.live:80/live/0454713149/6189330030/934724.m3u8
+ILHADOS COM A SOGRA	http://txup.live:80/live/0454713149/6189330030/934725.m3u8
+IRMAOS A OBRA 01	http://txup.live:80/live/0454713149/6189330030/934726.m3u8
+IRMAOS A OBRA 02	http://txup.live:80/live/0454713149/6189330030/934727.m3u8
+IRMAOS A OBRA 03	http://txup.live:80/live/0454713149/6189330030/934728.m3u8
+IRMAOS A OBRA 04	http://txup.live:80/live/0454713149/6189330030/934729.m3u8
+IRON CHEF BRASIL	http://txup.live:80/live/0454713149/6189330030/934730.m3u8
+ISSO É UM BOLO	http://txup.live:80/live/0454713149/6189330030/934731.m3u8
+LARGADOS E PELADOS 01	http://txup.live:80/live/0454713149/6189330030/934732.m3u8
+LARGADOS E PELADOS BRASIL 01	http://txup.live:80/live/0454713149/6189330030/934733.m3u8
+LARGADOS E PELADOS BRASIL 02	http://txup.live:80/live/0454713149/6189330030/934734.m3u8
+LARGADOS E PELADOS FRANCA 01	http://txup.live:80/live/0454713149/6189330030/934735.m3u8
+LARGADOS E PELADOS FRANCA 02	http://txup.live:80/live/0454713149/6189330030/934736.m3u8
+LARGADOS E PELADOS: A TRIBO 01	http://txup.live:80/live/0454713149/6189330030/934737.m3u8
+LARGADOS E PELADOS: A TRIBO 02	http://txup.live:80/live/0454713149/6189330030/934738.m3u8
+LARGADOS E PELADOS: A TRIBO 03	http://txup.live:80/live/0454713149/6189330030/934739.m3u8
+LARGADOS E PELADOS: A TRIBO 04	http://txup.live:80/live/0454713149/6189330030/934740.m3u8
+LARGADOS PELADOS E CONGELADOS	http://txup.live:80/live/0454713149/6189330030/934741.m3u8
+MANICOMIOS ASSOMBRADOS 01	http://txup.live:80/live/0454713149/6189330030/934742.m3u8
+MANICOMIOS ASSOMBRADOS 02	http://txup.live:80/live/0454713149/6189330030/934743.m3u8
+MANICOMIOS ASSOMBRADOS 03	http://txup.live:80/live/0454713149/6189330030/934744.m3u8
+MASTERCHEF PROFISSIONAIS 01	http://txup.live:80/live/0454713149/6189330030/934745.m3u8
+MASTERCHEF PROFISSIONAIS 02	http://txup.live:80/live/0454713149/6189330030/934746.m3u8
+MASTERCHEF PROFISSIONAIS 03	http://txup.live:80/live/0454713149/6189330030/934747.m3u8
+MASTERCHEF PROFISSIONAIS 04	http://txup.live:80/live/0454713149/6189330030/934748.m3u8
+MIDAS DO FERRO VELHO 01	http://txup.live:80/live/0454713149/6189330030/934749.m3u8
+MIDAS DO FERRO VELHO 02	http://txup.live:80/live/0454713149/6189330030/934750.m3u8
+MIDAS DO FERRO VELHO 03	http://txup.live:80/live/0454713149/6189330030/934751.m3u8
+O SOCIO 01	http://txup.live:80/live/0454713149/6189330030/934752.m3u8
+O SOCIO 02	http://txup.live:80/live/0454713149/6189330030/934753.m3u8
+O SOCIO 03	http://txup.live:80/live/0454713149/6189330030/934754.m3u8
+O SOCIO 04	http://txup.live:80/live/0454713149/6189330030/934755.m3u8
+O SOCIO 05	http://txup.live:80/live/0454713149/6189330030/934756.m3u8
+O SOCIO 06	http://txup.live:80/live/0454713149/6189330030/934757.m3u8
+PESADELO NA COZINHA 03	http://txup.live:80/live/0454713149/6189330030/934768.m3u8
+POLICIA 24 HORAS	http://txup.live:80/live/0454713149/6189330030/934769.m3u8
+QUILOS MORTAIS 01	http://txup.live:80/live/0454713149/6189330030/934770.m3u8
+QUILOS MORTAIS 02	http://txup.live:80/live/0454713149/6189330030/934771.m3u8
+QUILOS MORTAIS 03	http://txup.live:80/live/0454713149/6189330030/934772.m3u8
+QUILOS MORTAIS 04	http://txup.live:80/live/0454713149/6189330030/934773.m3u8
+STAND UP 01	http://txup.live:80/live/0454713149/6189330030/934774.m3u8
+STAND UP 02	http://txup.live:80/live/0454713149/6189330030/934775.m3u8
+VIDRADOS NO NATAL	http://txup.live:80/live/0454713149/6189330030/934776.m3u8
+Z MUSICAL MARILIA MENDONCA	http://txup.live:80/live/0454713149/6189330030/934777.m3u8
+Z MUSICAL PAGODE	http://txup.live:80/live/0454713149/6189330030/934778.m3u8
+O SOCIO 07	http://txup.live:80/live/0454713149/6189330030/934758.m3u8
+O SOCIO 08	http://txup.live:80/live/0454713149/6189330030/934759.m3u8
+O ULTIMATO: CASA OU VAZA 01	http://txup.live:80/live/0454713149/6189330030/934760.m3u8
+O ULTIMATO: CASA OU VAZA 02	http://txup.live:80/live/0454713149/6189330030/934761.m3u8
+OPERACAO FRONTEIRA AMERICA DO SUL 01	http://txup.live:80/live/0454713149/6189330030/934762.m3u8
+OPERACAO FRONTEIRA AMERICA DO SUL 02	http://txup.live:80/live/0454713149/6189330030/934763.m3u8
+PEGADINHAS ESPECIAL	http://txup.live:80/live/0454713149/6189330030/934764.m3u8
+PEGADINHAS ESPECIAL INTERNACIONAL	http://txup.live:80/live/0454713149/6189330030/934765.m3u8
+PESADELO NA COZINHA 01	http://txup.live:80/live/0454713149/6189330030/934766.m3u8
+PESADELO NA COZINHA 02	http://txup.live:80/live/0454713149/6189330030/934767.m3u8
+3 PALAVRINHAS	http://txup.live:80/live/0454713149/6189330030/934072.m3u8
+44 GATOS	http://txup.live:80/live/0454713149/6189330030/934073.m3u8
+A CASA DE MICKEY	http://txup.live:80/live/0454713149/6189330030/934080.m3u8
+A DONA ARANHA	http://txup.live:80/live/0454713149/6189330030/934081.m3u8
+A FAMILIA URSO	http://txup.live:80/live/0454713149/6189330030/934084.m3u8
+A LENDA DE OZ	http://txup.live:80/live/0454713149/6189330030/934099.m3u8
+A PANTERA COR DE ROSA	http://txup.live:80/live/0454713149/6189330030/934100.m3u8
+A TURMA DO ZE COLMEIA	http://txup.live:80/live/0454713149/6189330030/934101.m3u8
+A VACA E O FRANGO	http://txup.live:80/live/0454713149/6189330030/934102.m3u8
+ALF E.T. 01	http://txup.live:80/live/0454713149/6189330030/934103.m3u8
+ALF E.T. 02	http://txup.live:80/live/0454713149/6189330030/934104.m3u8
+AMIGAOZAO	http://txup.live:80/live/0454713149/6189330030/934107.m3u8
+ANIMANIACS	http://txup.live:80/live/0454713149/6189330030/934109.m3u8
+ANIMAZOON	http://txup.live:80/live/0454713149/6189330030/934110.m3u8
+APENAS UM SHOW	http://txup.live:80/live/0454713149/6189330030/934112.m3u8
+AS TARTARUGAS NINJAS 01	http://txup.live:80/live/0454713149/6189330030/934113.m3u8
+AS TARTARUGAS NINJAS 02	http://txup.live:80/live/0454713149/6189330030/934114.m3u8
+AS TRAPALHADAS DE FLAPJACK	http://txup.live:80/live/0454713149/6189330030/934115.m3u8
+AVATAR: A LENDA DE KORRA 01	http://txup.live:80/live/0454713149/6189330030/934116.m3u8
+AVATAR: A LENDA DE KORRA 02	http://txup.live:80/live/0454713149/6189330030/934117.m3u8
+AVATAR: THE LAST AIRBENDER 01	http://txup.live:80/live/0454713149/6189330030/934118.m3u8
+AVATAR: THE LAST AIRBENDER 02	http://txup.live:80/live/0454713149/6189330030/934119.m3u8
+AVENTURAS COM OS KRATTS	http://txup.live:80/live/0454713149/6189330030/934120.m3u8
+BABY LOONEY TUNES	http://txup.live:80/live/0454713149/6189330030/934121.m3u8
+BABY NINAR ZzzzZzzZ	http://txup.live:80/live/0454713149/6189330030/934122.m3u8
+BABYBUS	http://txup.live:80/live/0454713149/6189330030/934123.m3u8
+BANANAS DE PIJAMAS	http://txup.live:80/live/0454713149/6189330030/934124.m3u8
+BARBIE 01	http://txup.live:80/live/0454713149/6189330030/934125.m3u8
+BARBIE 02	http://txup.live:80/live/0454713149/6189330030/934126.m3u8
+BARBIE 03	http://txup.live:80/live/0454713149/6189330030/934127.m3u8
+BARBIE 04	http://txup.live:80/live/0454713149/6189330030/934128.m3u8
+BARBIE 05	http://txup.live:80/live/0454713149/6189330030/934129.m3u8
+BARNEY E AMIGOS	http://txup.live:80/live/0454713149/6189330030/934130.m3u8
+BATMAN: A SERIE ANIMADA	http://txup.live:80/live/0454713149/6189330030/934131.m3u8
+BEBE CAMINHAO	http://txup.live:80/live/0454713149/6189330030/934134.m3u8
+BEBE TUBARAO	http://txup.live:80/live/0454713149/6189330030/934135.m3u8
+BEN 10	http://txup.live:80/live/0454713149/6189330030/934136.m3u8
+BEN 10: FORCA ALIENIGENA	http://txup.live:80/live/0454713149/6189330030/934137.m3u8
+BEN 10: OMNIVERSE 01	http://txup.live:80/live/0454713149/6189330030/934138.m3u8
+BEN 10: OMNIVERSE 02	http://txup.live:80/live/0454713149/6189330030/934139.m3u8
+BLAZE MONSTER	http://txup.live:80/live/0454713149/6189330030/934141.m3u8
+BOB ESPONJA 01	http://txup.live:80/live/0454713149/6189330030/934142.m3u8
+BOB ESPONJA 02	http://txup.live:80/live/0454713149/6189330030/934143.m3u8
+BOB ESPONJA 03	http://txup.live:80/live/0454713149/6189330030/934144.m3u8
+BOB O CONSTRUTOR	http://txup.live:80/live/0454713149/6189330030/934145.m3u8
+BOB ZOOM	http://txup.live:80/live/0454713149/6189330030/934146.m3u8
+BOLOFOFOS	http://txup.live:80/live/0454713149/6189330030/934147.m3u8
+BOOBA	http://txup.live:80/live/0454713149/6189330030/934148.m3u8
+BRANCA DE NEVE	http://txup.live:80/live/0454713149/6189330030/934149.m3u8
+BUBBLE GUPPIES	http://txup.live:80/live/0454713149/6189330030/934151.m3u8
+BUBU E AS CORUJINHAS	http://txup.live:80/live/0454713149/6189330030/934152.m3u8
+CAILLOU	http://txup.live:80/live/0454713149/6189330030/934153.m3u8
+CAMINHOES E ANIMAIS	http://txup.live:80/live/0454713149/6189330030/934154.m3u8
+CAPITAO AMERICA	http://txup.live:80/live/0454713149/6189330030/934155.m3u8
+CAPITAO CAVERNA	http://txup.live:80/live/0454713149/6189330030/934156.m3u8
+CAPITAO PLANETA	http://txup.live:80/live/0454713149/6189330030/934157.m3u8
+CAVALO DE FOGO	http://txup.live:80/live/0454713149/6189330030/934158.m3u8
+CAVERNA DO DRAGAO	http://txup.live:80/live/0454713149/6189330030/934159.m3u8
+CINDERELA E SUAS AVENTURAS	http://txup.live:80/live/0454713149/6189330030/934177.m3u8
+CLARENCIO O OTIMISTA	http://txup.live:80/live/0454713149/6189330030/934233.m3u8
+COCOMELON	http://txup.live:80/live/0454713149/6189330030/934234.m3u8
+COMANDOS EM ACAO	http://txup.live:80/live/0454713149/6189330030/934235.m3u8
+CONTOS ASSUSTADORES DA MASHA	http://txup.live:80/live/0454713149/6189330030/934236.m3u8
+CORAGEM O CAO COVARDE	http://txup.live:80/live/0454713149/6189330030/934237.m3u8
+DANIEL TIGRES	http://txup.live:80/live/0454713149/6189330030/934239.m3u8
+DC SUPER HERO GIRLS	http://txup.live:80/live/0454713149/6189330030/934240.m3u8
+DESENCANTO	http://txup.live:80/live/0454713149/6189330030/934241.m3u8
+DESENHOS BIBLICOS	http://txup.live:80/live/0454713149/6189330030/934242.m3u8
+DORA A AVENTURA	http://txup.live:80/live/0454713149/6189330030/934259.m3u8
+DOUG FUNNY	http://txup.live:80/live/0454713149/6189330030/934260.m3u8
+DOUTOR BRINQUEDOS	http://txup.live:80/live/0454713149/6189330030/934261.m3u8
+DOUTOR ESTRANHO	http://txup.live:80/live/0454713149/6189330030/934262.m3u8
+DUCK TALES	http://txup.live:80/live/0454713149/6189330030/934279.m3u8
+EU SOU O MAXIMO	http://txup.live:80/live/0454713149/6189330030/934290.m3u8
+FABULAS DA DISNEY	http://txup.live:80/live/0454713149/6189330030/934293.m3u8
+FAISCA E FUMACA	http://txup.live:80/live/0454713149/6189330030/934294.m3u8
+FLY O PEQUENO GUERREIRO	http://txup.live:80/live/0454713149/6189330030/934299.m3u8
+FORMIGA ATOMICA	http://txup.live:80/live/0454713149/6189330030/934300.m3u8
+FRANKSTEIN JR E OS IMPOSSIVEIS	http://txup.live:80/live/0454713149/6189330030/934301.m3u8
+FUTURAMA	http://txup.live:80/live/0454713149/6189330030/934303.m3u8
+GALINHA BABY	http://txup.live:80/live/0454713149/6189330030/934304.m3u8
+GALINHA PINTADINHA	http://txup.live:80/live/0454713149/6189330030/934305.m3u8
+GALINHA PINTADINHA MINI	http://txup.live:80/live/0454713149/6189330030/934306.m3u8
+GARAGEM DO GECKO	http://txup.live:80/live/0454713149/6189330030/934315.m3u8
+GARFIELD	http://txup.live:80/live/0454713149/6189330030/934316.m3u8
+GARGULAS	http://txup.live:80/live/0454713149/6189330030/934317.m3u8
+GATO DE BOTAS 01	http://txup.live:80/live/0454713149/6189330030/934318.m3u8
+GATO DE BOTAS 02	http://txup.live:80/live/0454713149/6189330030/934319.m3u8
+GATO DE BOTAS 03	http://txup.live:80/live/0454713149/6189330030/934320.m3u8
+GATO DE BOTAS 04	http://txup.live:80/live/0454713149/6189330030/934321.m3u8
+GATO DE BOTAS 05	http://txup.live:80/live/0454713149/6189330030/934322.m3u8
+GATO DE BOTAS 06	http://txup.live:80/live/0454713149/6189330030/934323.m3u8
+GRAVITY FALLS	http://txup.live:80/live/0454713149/6189330030/934325.m3u8
+HE-MAN	http://txup.live:80/live/0454713149/6189330030/934330.m3u8
+HISTORIAS BIBLICAS PARA CRIANCAS	http://txup.live:80/live/0454713149/6189330030/934331.m3u8
+HORA DE AVENTURA 01	http://txup.live:80/live/0454713149/6189330030/934337.m3u8
+HORA DE AVENTURA 02	http://txup.live:80/live/0454713149/6189330030/934338.m3u8
+HORA DE AVENTURA 03	http://txup.live:80/live/0454713149/6189330030/934339.m3u8
+INVENCIVEL	http://txup.live:80/live/0454713149/6189330030/934349.m3u8
+IRMAO DO JOREL	http://txup.live:80/live/0454713149/6189330030/934351.m3u8
+JACARELVIS	http://txup.live:80/live/0454713149/6189330030/934352.m3u8
+JAKE E OS PIRATAS	http://txup.live:80/live/0454713149/6189330030/934353.m3u8
+JURASSIC CRY BABES	http://txup.live:80/live/0454713149/6189330030/934360.m3u8
+KONDOSAN	http://txup.live:80/live/0454713149/6189330030/934363.m3u8
+LARANJA IRRITANTE	http://txup.live:80/live/0454713149/6189330030/934368.m3u8
+LARVA	http://txup.live:80/live/0454713149/6189330030/934369.m3u8
+LEGO UMA AVENTURA NA CIDADE	http://txup.live:80/live/0454713149/6189330030/934370.m3u8
+LELLOBEE	http://txup.live:80/live/0454713149/6189330030/934371.m3u8
+LEO E TIGRE	http://txup.live:80/live/0454713149/6189330030/934372.m3u8
+LIGA DA JUSTICA	http://txup.live:80/live/0454713149/6189330030/934373.m3u8
+LOONEY TUNES	http://txup.live:80/live/0454713149/6189330030/934374.m3u8
+LOUIE	http://txup.live:80/live/0454713149/6189330030/934381.m3u8
+LULUZINHA	http://txup.live:80/live/0454713149/6189330030/934382.m3u8
+MAD	http://txup.live:80/live/0454713149/6189330030/934383.m3u8
+MARATONA DE SESAMO	http://txup.live:80/live/0454713149/6189330030/934384.m3u8
+MASHA E URSO	http://txup.live:80/live/0454713149/6189330030/934386.m3u8
+MECANIMAIS	http://txup.live:80/live/0454713149/6189330030/934389.m3u8
+MICKEY MOUSE	http://txup.live:80/live/0454713149/6189330030/934391.m3u8
+MICKEY MOUSE CLASSIC	http://txup.live:80/live/0454713149/6189330030/934392.m3u8
+MILA MORPHLE	http://txup.live:80/live/0454713149/6189330030/934393.m3u8
+MISTER MAKE	http://txup.live:80/live/0454713149/6189330030/934395.m3u8
+MONICA TOY	http://txup.live:80/live/0454713149/6189330030/934396.m3u8
+MORANGUINHO	http://txup.live:80/live/0454713149/6189330030/934397.m3u8
+MUMIAS VIVAS	http://txup.live:80/live/0454713149/6189330030/934398.m3u8
+MUNDO RIPILICA	http://txup.live:80/live/0454713149/6189330030/934403.m3u8
+MY LITTLE PONEY	http://txup.live:80/live/0454713149/6189330030/934404.m3u8
+O EXTRAORDINARIO MUNDO DE BITA	http://txup.live:80/live/0454713149/6189330030/934411.m3u8
+O INCRIVEL MUNDO DE GUMBALL	http://txup.live:80/live/0454713149/6189330030/934412.m3u8
+O MUNDO DE MIA	http://txup.live:80/live/0454713149/6189330030/934413.m3u8
+O PEQUENO SCOOBY-DOO	http://txup.live:80/live/0454713149/6189330030/934414.m3u8
+O SHOW DA LUNA	http://txup.live:80/live/0454713149/6189330030/934416.m3u8
+O SURFISTA PRATEADO	http://txup.live:80/live/0454713149/6189330030/934417.m3u8
+OCTONAUTAS	http://txup.live:80/live/0454713149/6189330030/934418.m3u8
+OS BACKYARDIGANS	http://txup.live:80/live/0454713149/6189330030/934420.m3u8
+OS CACA FANTASMAS	http://txup.live:80/live/0454713149/6189330030/934421.m3u8
+OS CASTORES PIRADOS	http://txup.live:80/live/0454713149/6189330030/934422.m3u8
+OS DOZES TRABALHOS DE ASTERIX	http://txup.live:80/live/0454713149/6189330030/934445.m3u8
+OS FLINTSONS	http://txup.live:80/live/0454713149/6189330030/934446.m3u8
+OS HERCULOIDES	http://txup.live:80/live/0454713149/6189330030/934447.m3u8
+OS JETSONS	http://txup.live:80/live/0454713149/6189330030/934448.m3u8
+OS JOVENS TITAS EM ACAO	http://txup.live:80/live/0454713149/6189330030/934449.m3u8
+OS MISTERIOS DE PIU-PIU E FRAJOLA	http://txup.live:80/live/0454713149/6189330030/934450.m3u8
+OS MUZZARELA	http://txup.live:80/live/0454713149/6189330030/934451.m3u8
+OS PADRINHOS MAGICOS	http://txup.live:80/live/0454713149/6189330030/934452.m3u8
+OS SIMPSONS 01	http://txup.live:80/live/0454713149/6189330030/934453.m3u8
+OS SIMPSONS 02	http://txup.live:80/live/0454713149/6189330030/934454.m3u8
+OS SIMPSONS 03	http://txup.live:80/live/0454713149/6189330030/934455.m3u8
+OS SIMPSONS 04	http://txup.live:80/live/0454713149/6189330030/934456.m3u8
+OS SIMPSONS 05	http://txup.live:80/live/0454713149/6189330030/934457.m3u8
+OS SIMPSONS 06	http://txup.live:80/live/0454713149/6189330030/934458.m3u8
+OS SIMPSONS 07	http://txup.live:80/live/0454713149/6189330030/934459.m3u8
+OS SIMPSONS 08	http://txup.live:80/live/0454713149/6189330030/934460.m3u8
+OS SIMPSONS 09	http://txup.live:80/live/0454713149/6189330030/934461.m3u8
+OS SIMPSONS 10	http://txup.live:80/live/0454713149/6189330030/934462.m3u8
+OS SIMPSONS 11	http://txup.live:80/live/0454713149/6189330030/934463.m3u8
+OS SIMPSONS 12	http://txup.live:80/live/0454713149/6189330030/934464.m3u8
+OS SIMPSONS 13	http://txup.live:80/live/0454713149/6189330030/934465.m3u8
+OS SIMPSONS 14	http://txup.live:80/live/0454713149/6189330030/934466.m3u8
+OS SIMPSONS 15	http://txup.live:80/live/0454713149/6189330030/934467.m3u8
+OS SIMPSONS 16	http://txup.live:80/live/0454713149/6189330030/934468.m3u8
+OS SIMPSONS 17	http://txup.live:80/live/0454713149/6189330030/934469.m3u8
+OS SIMPSONS 18	http://txup.live:80/live/0454713149/6189330030/934470.m3u8
+OS SIMPSONS 19	http://txup.live:80/live/0454713149/6189330030/934471.m3u8
+OS SIMPSONS 20	http://txup.live:80/live/0454713149/6189330030/934472.m3u8
+OS SIMPSONS 21	http://txup.live:80/live/0454713149/6189330030/934473.m3u8
+OS SIMPSONS 22	http://txup.live:80/live/0454713149/6189330030/934474.m3u8
+OS SIMPSONS 23	http://txup.live:80/live/0454713149/6189330030/934475.m3u8
+OS SIMPSONS 24	http://txup.live:80/live/0454713149/6189330030/934476.m3u8
+OS SIMPSONS 25	http://txup.live:80/live/0454713149/6189330030/934477.m3u8
+OS SIMPSONS 26	http://txup.live:80/live/0454713149/6189330030/934478.m3u8
+OS SIMPSONS 27	http://txup.live:80/live/0454713149/6189330030/934479.m3u8
+OS SIMPSONS 28	http://txup.live:80/live/0454713149/6189330030/934480.m3u8
+OS SIMPSONS 29	http://txup.live:80/live/0454713149/6189330030/934481.m3u8
+OS SIMPSONS 30	http://txup.live:80/live/0454713149/6189330030/934482.m3u8
+OS SIMPSONS: ESPECIAL DE HALLOWEEN 01	http://txup.live:80/live/0454713149/6189330030/934483.m3u8
+OS SIMPSONS: ESPECIAL DE HALLOWEEN 02	http://txup.live:80/live/0454713149/6189330030/934484.m3u8
+OS SIMPSONS: ESPECIAL DE HALLOWEEN 03	http://txup.live:80/live/0454713149/6189330030/934485.m3u8
+OS SIMPSONS: ESPECIAL DE HALLOWEEN 04	http://txup.live:80/live/0454713149/6189330030/934486.m3u8
+OS SMURFS	http://txup.live:80/live/0454713149/6189330030/934487.m3u8
+PAPA LEGUAS E O COIOTE	http://txup.live:80/live/0454713149/6189330030/934491.m3u8
+PATATI PATATA	http://txup.live:80/live/0454713149/6189330030/934492.m3u8
+PATO DONALD	http://txup.live:80/live/0454713149/6189330030/934493.m3u8
+PATOLINO	http://txup.live:80/live/0454713149/6189330030/934494.m3u8
+PATRULHA CANINA	http://txup.live:80/live/0454713149/6189330030/934495.m3u8
+PEIXONAUTA	http://txup.live:80/live/0454713149/6189330030/934496.m3u8
+PERDIDO NAS ESTRELAS	http://txup.live:80/live/0454713149/6189330030/934497.m3u8
+PERNALONGA	http://txup.live:80/live/0454713149/6189330030/934498.m3u8
+PICA-PAU	http://txup.live:80/live/0454713149/6189330030/934499.m3u8
+PINK E O CEREBRO	http://txup.live:80/live/0454713149/6189330030/934500.m3u8
+PJ MASKS	http://txup.live:80/live/0454713149/6189330030/934502.m3u8
+POCOYO	http://txup.live:80/live/0454713149/6189330030/934505.m3u8
+POLE POSITION	http://txup.live:80/live/0454713149/6189330030/934506.m3u8
+POLLY POCKET	http://txup.live:80/live/0454713149/6189330030/934507.m3u8
+POPEYE	http://txup.live:80/live/0454713149/6189330030/934508.m3u8
+PUCCA	http://txup.live:80/live/0454713149/6189330030/934515.m3u8
+PUNK BREWSTER	http://txup.live:80/live/0454713149/6189330030/934516.m3u8
+RAMBO	http://txup.live:80/live/0454713149/6189330030/934518.m3u8
+RAPUNZEL	http://txup.live:80/live/0454713149/6189330030/934519.m3u8
+RICKY SUPER RAPIDO	http://txup.live:80/live/0454713149/6189330030/934521.m3u8
+ROBCOCAR POLI	http://txup.live:80/live/0454713149/6189330030/934522.m3u8
+ROBOCOP	http://txup.live:80/live/0454713149/6189330030/934523.m3u8
+ROBOCOP	http://txup.live:80/live/0454713149/6189330030/934524.m3u8
+SAMURAI JACK	http://txup.live:80/live/0454713149/6189330030/934533.m3u8
+SCOOBY-DOO 01	http://txup.live:80/live/0454713149/6189330030/934534.m3u8
+SCOOBY-DOO 02	http://txup.live:80/live/0454713149/6189330030/934535.m3u8
+SCOOBY-DOO: CADE VOCE	http://txup.live:80/live/0454713149/6189330030/934536.m3u8
+SCOOBY-DOO: MISTERIO S.A	http://txup.live:80/live/0454713149/6189330030/934537.m3u8
+SCOOBY-DOO: O QUE HA DE NOVO	http://txup.live:80/live/0454713149/6189330030/934538.m3u8
+SENDOKAI	http://txup.live:80/live/0454713149/6189330030/934539.m3u8
+SHAUN O CARNEIRO	http://txup.live:80/live/0454713149/6189330030/934542.m3u8
+SHE-RA E AS PRINCESAS	http://txup.live:80/live/0454713149/6189330030/934543.m3u8
+SITIO DO PICA-PAU AMARELO	http://txup.live:80/live/0454713149/6189330030/934545.m3u8
+SONIC	http://txup.live:80/live/0454713149/6189330030/934556.m3u8
+SOUTH PARK 01	http://txup.live:80/live/0454713149/6189330030/934557.m3u8
+SOUTH PARK 02	http://txup.live:80/live/0454713149/6189330030/934558.m3u8
+STREET FIGHT	http://txup.live:80/live/0454713149/6189330030/934560.m3u8
+SUPA STRIKAS	http://txup.live:80/live/0454713149/6189330030/934561.m3u8
+SUPER CAMPEOES	http://txup.live:80/live/0454713149/6189330030/934562.m3u8
+SUPER CHOQUE	http://txup.live:80/live/0454713149/6189330030/934563.m3u8
+SUPER IMA	http://txup.live:80/live/0454713149/6189330030/934564.m3u8
+TAZ MANIA	http://txup.live:80/live/0454713149/6189330030/934576.m3u8
+TELETUBBIES	http://txup.live:80/live/0454713149/6189330030/934577.m3u8
+TOM E JERRY 01	http://txup.live:80/live/0454713149/6189330030/934635.m3u8
+TOM E JERRY 02	http://txup.live:80/live/0454713149/6189330030/934636.m3u8
+TOM E JERRY 03	http://txup.live:80/live/0454713149/6189330030/934637.m3u8
+TOM E JERRY 04	http://txup.live:80/live/0454713149/6189330030/934638.m3u8
+TRANSFORMERS PRIME	http://txup.live:80/live/0454713149/6189330030/934640.m3u8
+TRANSFORMERS RESCUE BOTS	http://txup.live:80/live/0454713149/6189330030/934641.m3u8
+TRES ESPIAS	http://txup.live:80/live/0454713149/6189330030/934642.m3u8
+TURMA DA MONICA	http://txup.live:80/live/0454713149/6189330030/934643.m3u8
+TURMA DO RONALDINHO GAUCHO	http://txup.live:80/live/0454713149/6189330030/934644.m3u8
+UMA FAMILIA DA PESADA 01	http://txup.live:80/live/0454713149/6189330030/934645.m3u8
+UMA FAMILIA DA PESADA 02	http://txup.live:80/live/0454713149/6189330030/934646.m3u8
+UMA FAZENDA MALUCA	http://txup.live:80/live/0454713149/6189330030/934647.m3u8
+URSINHOS CARINHOSOS	http://txup.live:80/live/0454713149/6189330030/934649.m3u8
+URSO SEM CURSO	http://txup.live:80/live/0454713149/6189330030/934650.m3u8
+VELMA	http://txup.live:80/live/0454713149/6189330030/934651.m3u8
+VELOZES E FURIOSOS: ESPIOES DO ASFALTO	http://txup.live:80/live/0454713149/6189330030/934653.m3u8
+VERA E O REINO DO ARCO IRIS	http://txup.live:80/live/0454713149/6189330030/934654.m3u8
+VINGADORES OS SUPER HEROIS	http://txup.live:80/live/0454713149/6189330030/934656.m3u8
+VINGADORES UNIDOS	http://txup.live:80/live/0454713149/6189330030/934657.m3u8
+VOVO SMURF	http://txup.live:80/live/0454713149/6189330030/934658.m3u8
+X-MEN A SERIE	http://txup.live:80/live/0454713149/6189330030/934659.m3u8
+X-MEN EVOLUTION	http://txup.live:80/live/0454713149/6189330030/934660.m3u8
+ZUZUBALANDIA	http://txup.live:80/live/0454713149/6189330030/934707.m3u8
+A&E FHD	http://txup.live:80/live/0454713149/6189330030/188461.m3u8
+A&E FHD H265	http://txup.live:80/live/0454713149/6189330030/188460.m3u8
+A&E SD	http://txup.live:80/live/0454713149/6189330030/188464.m3u8
+AGROMAIS FHD	http://txup.live:80/live/0454713149/6189330030/297143.m3u8
+AGROMAIS SD	http://txup.live:80/live/0454713149/6189330030/297145.m3u8
+AMC FHD	http://txup.live:80/live/0454713149/6189330030/188467.m3u8
+AMC FHD H265	http://txup.live:80/live/0454713149/6189330030/188466.m3u8
+AMC SD	http://txup.live:80/live/0454713149/6189330030/188470.m3u8
+ANIMAL PLANET FHD	http://txup.live:80/live/0454713149/6189330030/188642.m3u8
+ANIMAL PLANET FHD H265	http://txup.live:80/live/0454713149/6189330030/188641.m3u8
+ANIMAL PLANET SD	http://txup.live:80/live/0454713149/6189330030/188645.m3u8
+AXN FHD	http://txup.live:80/live/0454713149/6189330030/188473.m3u8
+AXN FHD H265	http://txup.live:80/live/0454713149/6189330030/188472.m3u8
+AXN SD	http://txup.live:80/live/0454713149/6189330030/188476.m3u8
+BABY TV SD	http://txup.live:80/live/0454713149/6189330030/188968.m3u8
+BAND MINAS SD	http://txup.live:80/live/0454713149/6189330030/299386.m3u8
+BAND NEWS FHD	http://txup.live:80/live/0454713149/6189330030/189209.m3u8
+BAND NEWS FHD H265	http://txup.live:80/live/0454713149/6189330030/189208.m3u8
+BAND NEWS SD	http://txup.live:80/live/0454713149/6189330030/189212.m3u8
+BAND RJ FHD	http://txup.live:80/live/0454713149/6189330030/299389.m3u8
+BAND SP FHD	http://txup.live:80/live/0454713149/6189330030/188741.m3u8
+BAND SP FHD H265	http://txup.live:80/live/0454713149/6189330030/188740.m3u8
+BAND SP SD	http://txup.live:80/live/0454713149/6189330030/188744.m3u8
+BAND SPORTS FHD	http://txup.live:80/live/0454713149/6189330030/211780.m3u8
+BAND SPORTS FHD H265	http://txup.live:80/live/0454713149/6189330030/211779.m3u8
+BAND SPORTS SD	http://txup.live:80/live/0454713149/6189330030/211783.m3u8
+BIS FHD	http://txup.live:80/live/0454713149/6189330030/189056.m3u8
+BIS FHD H265	http://txup.live:80/live/0454713149/6189330030/189055.m3u8
+BIS SD	http://txup.live:80/live/0454713149/6189330030/189059.m3u8
+CANAL BRASIL FHD	http://txup.live:80/live/0454713149/6189330030/188858.m3u8
+CANAL BRASIL FHD H265	http://txup.live:80/live/0454713149/6189330030/188857.m3u8
+CANAL BRASIL SD	http://txup.live:80/live/0454713149/6189330030/188861.m3u8
+CANAL DO BOI SD	http://txup.live:80/live/0454713149/6189330030/297941.m3u8
+CANAL RURAL SD	http://txup.live:80/live/0454713149/6189330030/297942.m3u8
+CANAL SONY FHD	http://txup.live:80/live/0454713149/6189330030/188479.m3u8
+CANAL SONY FHD H265	http://txup.live:80/live/0454713149/6189330030/188478.m3u8
+CANAL SONY SD	http://txup.live:80/live/0454713149/6189330030/188482.m3u8
+CANCAO NOVA SD	http://txup.live:80/live/0454713149/6189330030/211902.m3u8
+CARTOON NETWORK FHD	http://txup.live:80/live/0454713149/6189330030/188977.m3u8
+CARTOON NETWORK FHD H265	http://txup.live:80/live/0454713149/6189330030/188976.m3u8
+CARTOON NETWORK SD	http://txup.live:80/live/0454713149/6189330030/188980.m3u8
+CARTOONITO FHD	http://txup.live:80/live/0454713149/6189330030/188971.m3u8
+CARTOONITO FHD H265	http://txup.live:80/live/0454713149/6189330030/188970.m3u8
+CARTOONITO SD	http://txup.live:80/live/0454713149/6189330030/188974.m3u8
+CINEMAX FHD	http://txup.live:80/live/0454713149/6189330030/188485.m3u8
+CINEMAX FHD H265	http://txup.live:80/live/0454713149/6189330030/188484.m3u8
+CINEMAX SD	http://txup.live:80/live/0454713149/6189330030/188488.m3u8
+CNN BRASIL FHD	http://txup.live:80/live/0454713149/6189330030/189214.m3u8
+CNN BRASIL FHD H265	http://txup.live:80/live/0454713149/6189330030/291368.m3u8
+CNN BRASIL SD	http://txup.live:80/live/0454713149/6189330030/189217.m3u8
+COMBATE FHD	http://txup.live:80/live/0454713149/6189330030/211786.m3u8
+COMBATE FHD H265	http://txup.live:80/live/0454713149/6189330030/211785.m3u8
+COMBATE SD	http://txup.live:80/live/0454713149/6189330030/211789.m3u8
+COMEDY CENTRAL FHD	http://txup.live:80/live/0454713149/6189330030/188491.m3u8
+COMEDY CENTRAL FHD H265	http://txup.live:80/live/0454713149/6189330030/188490.m3u8
+COMEDY CENTRAL SD	http://txup.live:80/live/0454713149/6189330030/188494.m3u8
+CURTA! FHD	http://txup.live:80/live/0454713149/6189330030/189062.m3u8
+CURTA! FHD H265	http://txup.live:80/live/0454713149/6189330030/189061.m3u8
+CURTA! SD	http://txup.live:80/live/0454713149/6189330030/286619.m3u8
+DISCOVERY CHANNEL FHD	http://txup.live:80/live/0454713149/6189330030/188648.m3u8
+DISCOVERY CHANNEL FHD H265	http://txup.live:80/live/0454713149/6189330030/188647.m3u8
+DISCOVERY CHANNEL SD	http://txup.live:80/live/0454713149/6189330030/188651.m3u8
+DISCOVERY H&H FHD	http://txup.live:80/live/0454713149/6189330030/188654.m3u8
+DISCOVERY H&H FHD H265	http://txup.live:80/live/0454713149/6189330030/188653.m3u8
+DISCOVERY H&H SD	http://txup.live:80/live/0454713149/6189330030/188657.m3u8
+DISCOVERY KIDS FHD	http://txup.live:80/live/0454713149/6189330030/188983.m3u8
+DISCOVERY KIDS FHD H265	http://txup.live:80/live/0454713149/6189330030/188982.m3u8
+DISCOVERY KIDS SD	http://txup.live:80/live/0454713149/6189330030/188986.m3u8
+DISCOVERY SCIENCE FHD	http://txup.live:80/live/0454713149/6189330030/188660.m3u8
+DISCOVERY SCIENCE FHD H265	http://txup.live:80/live/0454713149/6189330030/188659.m3u8
+DISCOVERY SCIENCE SD	http://txup.live:80/live/0454713149/6189330030/188663.m3u8
+DISCOVERY THEATER FHD	http://txup.live:80/live/0454713149/6189330030/188666.m3u8
+DISCOVERY THEATER FHD H265	http://txup.live:80/live/0454713149/6189330030/188665.m3u8
+DISCOVERY THEATER SD	http://txup.live:80/live/0454713149/6189330030/188669.m3u8
+DISCOVERY TLC FHD	http://txup.live:80/live/0454713149/6189330030/188720.m3u8
+DISCOVERY TLC FHD H265	http://txup.live:80/live/0454713149/6189330030/188719.m3u8
+DISCOVERY TLC SD	http://txup.live:80/live/0454713149/6189330030/188723.m3u8
+DISCOVERY TURBO FHD	http://txup.live:80/live/0454713149/6189330030/188672.m3u8
+DISCOVERY TURBO FHD H265	http://txup.live:80/live/0454713149/6189330030/188671.m3u8
+DISCOVERY TURBO SD	http://txup.live:80/live/0454713149/6189330030/188675.m3u8
+DISCOVERY WORLD FHD	http://txup.live:80/live/0454713149/6189330030/188678.m3u8
+DISCOVERY WORLD FHD H265	http://txup.live:80/live/0454713149/6189330030/188677.m3u8
+DISCOVERY WORLD SD	http://txup.live:80/live/0454713149/6189330030/188681.m3u8
+DISNEY CHANNEL FHD	http://txup.live:80/live/0454713149/6189330030/188989.m3u8
+DISNEY CHANNEL FHD H265	http://txup.live:80/live/0454713149/6189330030/188988.m3u8
+DISNEY CHANNEL SD	http://txup.live:80/live/0454713149/6189330030/188992.m3u8
+DOGTV FHD	http://txup.live:80/live/0454713149/6189330030/189897.m3u8
+E! FHD	http://txup.live:80/live/0454713149/6189330030/189068.m3u8
+E! FHD H265	http://txup.live:80/live/0454713149/6189330030/189067.m3u8
+E! SD	http://txup.live:80/live/0454713149/6189330030/189071.m3u8
+ESPN FHD	http://txup.live:80/live/0454713149/6189330030/211804.m3u8
+ESPN FHD H265	http://txup.live:80/live/0454713149/6189330030/211803.m3u8
+ESPN SD	http://txup.live:80/live/0454713149/6189330030/211807.m3u8
+ESPN 2 FHD	http://txup.live:80/live/0454713149/6189330030/211792.m3u8
+ESPN 2 FHD H265	http://txup.live:80/live/0454713149/6189330030/211791.m3u8
+ESPN 2 SD	http://txup.live:80/live/0454713149/6189330030/211795.m3u8
+ESPN 3 FHD	http://txup.live:80/live/0454713149/6189330030/211798.m3u8
+ESPN 3 FHD H265	http://txup.live:80/live/0454713149/6189330030/211797.m3u8
+ESPN 3 SD	http://txup.live:80/live/0454713149/6189330030/211801.m3u8
+ESPN 4 FHD	http://txup.live:80/live/0454713149/6189330030/211816.m3u8
+ESPN 4 FHD H265	http://txup.live:80/live/0454713149/6189330030/211815.m3u8
+ESPN 4 SD	http://txup.live:80/live/0454713149/6189330030/211819.m3u8
+ESPN 5 FHD	http://txup.live:80/live/0454713149/6189330030/211822.m3u8
+ESPN 5 FHD H265	http://txup.live:80/live/0454713149/6189330030/211821.m3u8
+ESPN 5 SD	http://txup.live:80/live/0454713149/6189330030/211825.m3u8
+ESPN 6 FHD	http://txup.live:80/live/0454713149/6189330030/211810.m3u8
+ESPN 6 FHD H265	http://txup.live:80/live/0454713149/6189330030/211809.m3u8
+ESPN 6 SD	http://txup.live:80/live/0454713149/6189330030/211813.m3u8
+FISH TV FHD	http://txup.live:80/live/0454713149/6189330030/188684.m3u8
+FISH TV FHD H265	http://txup.live:80/live/0454713149/6189330030/188683.m3u8
+FISH TV SD	http://txup.live:80/live/0454713149/6189330030/188687.m3u8
+FOOD NETWORK FHD	http://txup.live:80/live/0454713149/6189330030/189074.m3u8
+FOOD NETWORK FHD H265	http://txup.live:80/live/0454713149/6189330030/189073.m3u8
+FOOD NETWORK SD	http://txup.live:80/live/0454713149/6189330030/189077.m3u8
+FUTURA SD	http://txup.live:80/live/0454713149/6189330030/188866.m3u8
+FX FHD	http://txup.live:80/live/0454713149/6189330030/188521.m3u8
+FX FHD H265	http://txup.live:80/live/0454713149/6189330030/188520.m3u8
+FX SD	http://txup.live:80/live/0454713149/6189330030/188524.m3u8
+GLOBO SP FHD	http://txup.live:80/live/0454713149/6189330030/188301.m3u8
+GLOBO SP FHD H265	http://txup.live:80/live/0454713149/6189330030/188300.m3u8
+GLOBO SP SD	http://txup.live:80/live/0454713149/6189330030/188304.m3u8
+GLOBO RJ FHD	http://txup.live:80/live/0454713149/6189330030/188307.m3u8
+GLOBO RJ FHD H265	http://txup.live:80/live/0454713149/6189330030/188306.m3u8
+GLOBO RJ SD	http://txup.live:80/live/0454713149/6189330030/188310.m3u8
+GLOBO MINAS FHD	http://txup.live:80/live/0454713149/6189330030/188312.m3u8
+GLOBO MINAS FHD H265	http://txup.live:80/live/0454713149/6189330030/291503.m3u8
+GLOBO MINAS SD	http://txup.live:80/live/0454713149/6189330030/216833.m3u8
+GLOBO BAHIA SD	http://txup.live:80/live/0454713149/6189330030/216825.m3u8
+GLOBO BAHIA FHD	http://txup.live:80/live/0454713149/6189330030/188316.m3u8
+GLOBO BELEM FHD	http://txup.live:80/live/0454713149/6189330030/216826.m3u8
+GLOBO BELEM SD	http://txup.live:80/live/0454713149/6189330030/188323.m3u8
+GLOBO BOA VISTA SD	http://txup.live:80/live/0454713149/6189330030/188325.m3u8
+GLOBO BRASILIA FHD	http://txup.live:80/live/0454713149/6189330030/188328.m3u8
+GLOBO BRASILIA FHD H265	http://txup.live:80/live/0454713149/6189330030/188327.m3u8
+GLOBO BRASILIA SD	http://txup.live:80/live/0454713149/6189330030/216827.m3u8
+GLOBO EPTV CAMPINAS FHD	http://txup.live:80/live/0454713149/6189330030/216828.m3u8
+GLOBO EPTV CAMPINAS SD	http://txup.live:80/live/0454713149/6189330030/188335.m3u8
+GLOBO EPTV RIBEIRÃO PRETO FHD	http://txup.live:80/live/0454713149/6189330030/216830.m3u8
+GLOBO EPTV RIBEIRÃO PRETO SD	http://txup.live:80/live/0454713149/6189330030/188337.m3u8
+GLOBO EPTV SAO CARLOS SD	http://txup.live:80/live/0454713149/6189330030/188338.m3u8
+GLOBO FLORIANOPOLIS FHD	http://txup.live:80/live/0454713149/6189330030/216831.m3u8
+GLOBO FLORIANOPOLIS SD	http://txup.live:80/live/0454713149/6189330030/188362.m3u8
+GLOBO GAZETA VITORIA ES FHD	http://txup.live:80/live/0454713149/6189330030/188366.m3u8
+GLOBO INTER TV ALTO LITORAL FHD	http://txup.live:80/live/0454713149/6189330030/188342.m3u8
+GLOBO INTER TV CABUGI FHD	http://txup.live:80/live/0454713149/6189330030/188343.m3u8
+GLOBO NEWS FHD	http://txup.live:80/live/0454713149/6189330030/189222.m3u8
+GLOBO NEWS FHD H265	http://txup.live:80/live/0454713149/6189330030/189221.m3u8
+GLOBO NEWS SD	http://txup.live:80/live/0454713149/6189330030/189225.m3u8
+GLOBO NORDESTE FHD	http://txup.live:80/live/0454713149/6189330030/188352.m3u8
+GLOBO NORDESTE SD	http://txup.live:80/live/0454713149/6189330030/188355.m3u8
+GLOBO NSC TV BLUMENAL FHD	http://txup.live:80/live/0454713149/6189330030/291318.m3u8
+GLOBO NSC TV BLUMENAL SD	http://txup.live:80/live/0454713149/6189330030/291319.m3u8
+GLOBO NSC TV CHAPECO FHD	http://txup.live:80/live/0454713149/6189330030/291328.m3u8
+GLOBO NSC TV CHAPECO SD	http://txup.live:80/live/0454713149/6189330030/291329.m3u8
+GLOBO NSC TV CRICIUMA FHD	http://txup.live:80/live/0454713149/6189330030/342620.m3u8
+GLOBO NSC TV CRICIUMA SD	http://txup.live:80/live/0454713149/6189330030/342622.m3u8
+GLOBO NSC TV JOINVILLE FHD	http://txup.live:80/live/0454713149/6189330030/291330.m3u8
+GLOBO NSC TV JOINVILLE SD	http://txup.live:80/live/0454713149/6189330030/291331.m3u8
+GLOBO RBS PORTO ALEGRE FHD	http://txup.live:80/live/0454713149/6189330030/216834.m3u8
+GLOBO RBS PORTO ALEGRE FHD H265	http://txup.live:80/live/0454713149/6189330030/291317.m3u8
+GLOBO RBS PORTO ALEGRE SD	http://txup.live:80/live/0454713149/6189330030/188373.m3u8
+GLOBO RBS TV CAXIAS DO SUL FHD	http://txup.live:80/live/0454713149/6189330030/291321.m3u8
+GLOBO RBS TV CAXIAS DO SUL SD	http://txup.live:80/live/0454713149/6189330030/291323.m3u8
+GLOBO RBS TV PASSO FUNDO FHD	http://txup.live:80/live/0454713149/6189330030/291493.m3u8
+GLOBO RBS TV PASSO FUNDO SD	http://txup.live:80/live/0454713149/6189330030/291495.m3u8
+GLOBO RBS TV PELOTAS FHD	http://txup.live:80/live/0454713149/6189330030/291334.m3u8
+GLOBO RBS TV PELOTAS SD	http://txup.live:80/live/0454713149/6189330030/291336.m3u8
+GLOBO RBS TV SANTA MARIA FHD	http://txup.live:80/live/0454713149/6189330030/291338.m3u8
+GLOBO RBS TV SANTA MARIA SD	http://txup.live:80/live/0454713149/6189330030/291337.m3u8
+GLOBO RPC TV MARINGA FHD	http://txup.live:80/live/0454713149/6189330030/188387.m3u8
+GLOBO RPC CURITIBA FHD	http://txup.live:80/live/0454713149/6189330030/216835.m3u8
+GLOBO RPC CURITIBA SD	http://txup.live:80/live/0454713149/6189330030/188384.m3u8
+GLOBO RPC LONDRINA	http://txup.live:80/live/0454713149/6189330030/188388.m3u8
+GLOBO SERGIPE FHD	http://txup.live:80/live/0454713149/6189330030/188390.m3u8
+GLOBO TV ANHANGUERA GOIANIA FHD	http://txup.live:80/live/0454713149/6189330030/212566.m3u8
+GLOBO TV ANHANGUERA GOIANIA SD	http://txup.live:80/live/0454713149/6189330030/188397.m3u8
+GLOBO TV CENTRO AMERICA FHD	http://txup.live:80/live/0454713149/6189330030/188401.m3u8
+GLOBO TV CLUBE TERESINA FHD	http://txup.live:80/live/0454713149/6189330030/216841.m3u8
+GLOBO TV GAZETA DE ALAGOAS FHD	http://txup.live:80/live/0454713149/6189330030/216836.m3u8
+GLOBO TV GAZETA DE ALAGOAS SD	http://txup.live:80/live/0454713149/6189330030/297576.m3u8
+GLOBO TV GAZETA SUL ES FHD	http://txup.live:80/live/0454713149/6189330030/291320.m3u8
+GLOBO TV MIRANTE COCAIS FHD	http://txup.live:80/live/0454713149/6189330030/291324.m3u8
+GLOBO TV MIRANTE COCAIS SD	http://txup.live:80/live/0454713149/6189330030/291326.m3u8
+GLOBO TV MIRANTE SAO LUIS FHD	http://txup.live:80/live/0454713149/6189330030/212568.m3u8
+GLOBO TV MIRANTE SAO LUIS SD	http://txup.live:80/live/0454713149/6189330030/212571.m3u8
+GLOBO TV MORENA CAMPO GRANDE FHD	http://txup.live:80/live/0454713149/6189330030/212573.m3u8
+GLOBO TV MORENA CAMPO GRANDE SD	http://txup.live:80/live/0454713149/6189330030/291327.m3u8
+GLOBO TV REDE AMAZONICA MANAUS SD	http://txup.live:80/live/0454713149/6189330030/188382.m3u8
+GLOBO TV REDE AMAZONICA PORTO VELHO SD	http://txup.live:80/live/0454713149/6189330030/188370.m3u8
+GLOBO TV RIO SUL SD	http://txup.live:80/live/0454713149/6189330030/188415.m3u8
+GLOBO TV SANTA CRUZ FHD	http://txup.live:80/live/0454713149/6189330030/291339.m3u8
+GLOBO TV SANTA CRUZ SD	http://txup.live:80/live/0454713149/6189330030/291341.m3u8
+GLOBO TV SUBAE SD	http://txup.live:80/live/0454713149/6189330030/291344.m3u8
+GLOBO TV TEM SOROCABA FHD	http://txup.live:80/live/0454713149/6189330030/216837.m3u8
+GLOBO TV TRIBUNA SANTOS SD	http://txup.live:80/live/0454713149/6189330030/188419.m3u8
+GLOBO TV VANGUARDA S J CAMPOS SD	http://txup.live:80/live/0454713149/6189330030/188420.m3u8
+GLOBO TV VERDES MARES FORTALEZA FHD	http://txup.live:80/live/0454713149/6189330030/212576.m3u8
+GLOBO TV VERDES MARES FORTALEZA FHD H265	http://txup.live:80/live/0454713149/6189330030/212577.m3u8
+GLOBO TV VERDES MARES FORTALEZA SD	http://txup.live:80/live/0454713149/6189330030/212578.m3u8
+GLOOB FHD	http://txup.live:80/live/0454713149/6189330030/189006.m3u8
+GLOOB FHD H265	http://txup.live:80/live/0454713149/6189330030/189005.m3u8
+GLOOB SD	http://txup.live:80/live/0454713149/6189330030/189009.m3u8
+GNT FHD	http://txup.live:80/live/0454713149/6189330030/189080.m3u8
+GNT FHD H265	http://txup.live:80/live/0454713149/6189330030/189079.m3u8
+GNT SD	http://txup.live:80/live/0454713149/6189330030/189083.m3u8
+H2 FHD	http://txup.live:80/live/0454713149/6189330030/188689.m3u8
+H2 FHD H265	http://txup.live:80/live/0454713149/6189330030/188690.m3u8
+H2 SD	http://txup.live:80/live/0454713149/6189330030/188693.m3u8
+HBO 2 FHD	http://txup.live:80/live/0454713149/6189330030/211857.m3u8
+HBO 2 FHD H265	http://txup.live:80/live/0454713149/6189330030/211856.m3u8
+HBO 2 SD	http://txup.live:80/live/0454713149/6189330030/211860.m3u8
+HBO Familly FHD	http://txup.live:80/live/0454713149/6189330030/211863.m3u8
+HBO Familly FHD H265	http://txup.live:80/live/0454713149/6189330030/211862.m3u8
+HBO Familly SD	http://txup.live:80/live/0454713149/6189330030/211866.m3u8
+HBO FHD	http://txup.live:80/live/0454713149/6189330030/211851.m3u8
+HBO FHD H265	http://txup.live:80/live/0454713149/6189330030/211850.m3u8
+HBO SD	http://txup.live:80/live/0454713149/6189330030/211854.m3u8
+HBO MUNDI FHD	http://txup.live:80/live/0454713149/6189330030/211869.m3u8
+HBO MUNDI FHD H265	http://txup.live:80/live/0454713149/6189330030/211868.m3u8
+HBO MUNDI SD	http://txup.live:80/live/0454713149/6189330030/211872.m3u8
+HBO PLUS FHD	http://txup.live:80/live/0454713149/6189330030/211875.m3u8
+HBO PLUS FHD H265	http://txup.live:80/live/0454713149/6189330030/211874.m3u8
+HBO PLUS SD	http://txup.live:80/live/0454713149/6189330030/211878.m3u8
+HBO POP FHD	http://txup.live:80/live/0454713149/6189330030/211881.m3u8
+HBO POP FHD H265	http://txup.live:80/live/0454713149/6189330030/211880.m3u8
+HBO POP SD	http://txup.live:80/live/0454713149/6189330030/211884.m3u8
+HBO SIGNATURE FHD	http://txup.live:80/live/0454713149/6189330030/211887.m3u8
+HBO SIGNATURE FHD H265	http://txup.live:80/live/0454713149/6189330030/211886.m3u8
+HBO SIGNATURE SD	http://txup.live:80/live/0454713149/6189330030/211890.m3u8
+HBO XTREME FHD	http://txup.live:80/live/0454713149/6189330030/211893.m3u8
+HBO XTREME FHD H265	http://txup.live:80/live/0454713149/6189330030/211892.m3u8
+HBO XTREME SD	http://txup.live:80/live/0454713149/6189330030/211896.m3u8
+HGTV FHD	http://txup.live:80/live/0454713149/6189330030/189086.m3u8
+HGTV FHD H265	http://txup.live:80/live/0454713149/6189330030/189085.m3u8
+HGTV SD	http://txup.live:80/live/0454713149/6189330030/189089.m3u8
+HISTORY FHD	http://txup.live:80/live/0454713149/6189330030/188696.m3u8
+HISTORY FHD H265	http://txup.live:80/live/0454713149/6189330030/188695.m3u8
+HISTORY SD	http://txup.live:80/live/0454713149/6189330030/188699.m3u8
+ID DISCOVERY FHD	http://txup.live:80/live/0454713149/6189330030/188702.m3u8
+ID DISCOVERY FHD H265	http://txup.live:80/live/0454713149/6189330030/188701.m3u8
+ID DISCOVERY SD	http://txup.live:80/live/0454713149/6189330030/188705.m3u8
+JOVEM PAN NEWS FHD	http://txup.live:80/live/0454713149/6189330030/229790.m3u8
+JOVEM PAN NEWS FHD H265	http://txup.live:80/live/0454713149/6189330030/229789.m3u8
+JOVEM PAN NEWS SD	http://txup.live:80/live/0454713149/6189330030/229792.m3u8
+LIFETIME FHD	http://txup.live:80/live/0454713149/6189330030/188527.m3u8
+LIFETIME FHD H265	http://txup.live:80/live/0454713149/6189330030/188526.m3u8
+LIFETIME SD	http://txup.live:80/live/0454713149/6189330030/188530.m3u8
+MODO VIAGEM FHD	http://txup.live:80/live/0454713149/6189330030/189844.m3u8
+MODO VIAGEM FHD H265	http://txup.live:80/live/0454713149/6189330030/189843.m3u8
+MODO VIAGEM SD	http://txup.live:80/live/0454713149/6189330030/189847.m3u8
+MEGAPIX FHD	http://txup.live:80/live/0454713149/6189330030/188533.m3u8
+MEGAPIX FHD H265	http://txup.live:80/live/0454713149/6189330030/188532.m3u8
+MEGAPIX SD	http://txup.live:80/live/0454713149/6189330030/188536.m3u8
+MTV FHD	http://txup.live:80/live/0454713149/6189330030/189097.m3u8
+MTV FHD H265	http://txup.live:80/live/0454713149/6189330030/189096.m3u8
+MTV SD	http://txup.live:80/live/0454713149/6189330030/189100.m3u8
+MULTISHOW FHD	http://txup.live:80/live/0454713149/6189330030/189106.m3u8
+MULTISHOW FHD H265	http://txup.live:80/live/0454713149/6189330030/189105.m3u8
+MULTISHOW SD	http://txup.live:80/live/0454713149/6189330030/189109.m3u8
+MUSIC BOX BRAZIL FHD	http://txup.live:80/live/0454713149/6189330030/286617.m3u8
+MUSIC BOX BRAZIL FHD H265	http://txup.live:80/live/0454713149/6189330030/286618.m3u8
+MUSIC BOX BRAZIL SD	http://txup.live:80/live/0454713149/6189330030/189103.m3u8
+NATGEO FHD	http://txup.live:80/live/0454713149/6189330030/188708.m3u8
+NATGEO FHD H265	http://txup.live:80/live/0454713149/6189330030/188707.m3u8
+NATGEO SD	http://txup.live:80/live/0454713149/6189330030/188711.m3u8
+NHK WORLD SD	http://txup.live:80/live/0454713149/6189330030/189228.m3u8
+NICK JR FHD	http://txup.live:80/live/0454713149/6189330030/189018.m3u8
+NICK JR FHD H265	http://txup.live:80/live/0454713149/6189330030/189017.m3u8
+NICK JR SD	http://txup.live:80/live/0454713149/6189330030/189021.m3u8
+NICKELODEON FHD	http://txup.live:80/live/0454713149/6189330030/189024.m3u8
+NICKELODEON FHD H265	http://txup.live:80/live/0454713149/6189330030/189023.m3u8
+NICKELODEON SD	http://txup.live:80/live/0454713149/6189330030/189027.m3u8
+OFF FHD	http://txup.live:80/live/0454713149/6189330030/189112.m3u8
+OFF FHD H265	http://txup.live:80/live/0454713149/6189330030/189111.m3u8
+OFF SD	http://txup.live:80/live/0454713149/6189330030/189115.m3u8
+PARAMOUNT FHD	http://txup.live:80/live/0454713149/6189330030/188539.m3u8
+PARAMOUNT FHD H265	http://txup.live:80/live/0454713149/6189330030/188538.m3u8
+PARAMOUNT SD	http://txup.live:80/live/0454713149/6189330030/188542.m3u8
+POLISHOP SD	http://txup.live:80/live/0454713149/6189330030/189120.m3u8
+PREMIERE CLUBES FHD	http://txup.live:80/live/0454713149/6189330030/188601.m3u8
+PREMIERE CLUBES FHD H265	http://txup.live:80/live/0454713149/6189330030/188600.m3u8
+PREMIERE CLUBES SD	http://txup.live:80/live/0454713149/6189330030/188604.m3u8
+PREMIERE 2 FHD	http://txup.live:80/live/0454713149/6189330030/188607.m3u8
+PREMIERE 2 FHD H265	http://txup.live:80/live/0454713149/6189330030/188606.m3u8
+PREMIERE 2 SD	http://txup.live:80/live/0454713149/6189330030/188610.m3u8
+PREMIERE 3 FHD	http://txup.live:80/live/0454713149/6189330030/188613.m3u8
+PREMIERE 3 FHD H265	http://txup.live:80/live/0454713149/6189330030/188612.m3u8
+PREMIERE 3 SD	http://txup.live:80/live/0454713149/6189330030/188616.m3u8
+PREMIERE 4 FHD	http://txup.live:80/live/0454713149/6189330030/188619.m3u8
+PREMIERE 4 FHD H265	http://txup.live:80/live/0454713149/6189330030/188618.m3u8
+PREMIERE 4 SD	http://txup.live:80/live/0454713149/6189330030/188622.m3u8
+PREMIERE 5 FHD	http://txup.live:80/live/0454713149/6189330030/188625.m3u8
+PREMIERE 5 FHD H265	http://txup.live:80/live/0454713149/6189330030/188624.m3u8
+PREMIERE 5 SD	http://txup.live:80/live/0454713149/6189330030/188628.m3u8
+PREMIERE 6 FHD	http://txup.live:80/live/0454713149/6189330030/188631.m3u8
+PREMIERE 6 FHD H265	http://txup.live:80/live/0454713149/6189330030/188630.m3u8
+PREMIERE 6 SD	http://txup.live:80/live/0454713149/6189330030/188634.m3u8
+PREMIERE 7 FHD	http://txup.live:80/live/0454713149/6189330030/188636.m3u8
+PREMIERE 7 SD	http://txup.live:80/live/0454713149/6189330030/188639.m3u8
+PRIME BOX BRAZIL FHD	http://txup.live:80/live/0454713149/6189330030/189117.m3u8
+PRIME BOX BRAZIL FHD H265	http://txup.live:80/live/0454713149/6189330030/286616.m3u8
+PRIME BOX BRAZIL SD	http://txup.live:80/live/0454713149/6189330030/286615.m3u8
+PRIME VIDEO 01	http://txup.live:80/live/0454713149/6189330030/299403.m3u8
+PRIME VIDEO 02	http://txup.live:80/live/0454713149/6189330030/338638.m3u8
+PRIME VIDEO 03	http://txup.live:80/live/0454713149/6189330030/299402.m3u8
+PRIME VIDEO 04	http://txup.live:80/live/0454713149/6189330030/899513.m3u8
+RECORD BAHIA SD	http://txup.live:80/live/0454713149/6189330030/188806.m3u8
+RECORD BRASILIA SD	http://txup.live:80/live/0454713149/6189330030/286625.m3u8
+RECORD GOIAS HD	http://txup.live:80/live/0454713149/6189330030/188814.m3u8
+RECORD MINAS SD	http://txup.live:80/live/0454713149/6189330030/188801.m3u8
+RECORD NEWS FHD	http://txup.live:80/live/0454713149/6189330030/291369.m3u8
+RECORD NEWS FHD H265	http://txup.live:80/live/0454713149/6189330030/189229.m3u8
+RECORD NEWS SD	http://txup.live:80/live/0454713149/6189330030/189232.m3u8
+RECORD PARANA FHD	http://txup.live:80/live/0454713149/6189330030/926702.m3u8
+RECORD PARANA HD	http://txup.live:80/live/0454713149/6189330030/926703.m3u8
+RECORD SP FHD	http://txup.live:80/live/0454713149/6189330030/188789.m3u8
+RECORD SP SD	http://txup.live:80/live/0454713149/6189330030/188792.m3u8
+REDE BRASIL	http://txup.live:80/live/0454713149/6189330030/200362.m3u8
+REDE TV FHD	http://txup.live:80/live/0454713149/6189330030/188870.m3u8
+REDE TV FHD H265	http://txup.live:80/live/0454713149/6189330030/188869.m3u8
+REDE TV SD	http://txup.live:80/live/0454713149/6189330030/188873.m3u8
+REDE VIDA FHD	http://txup.live:80/live/0454713149/6189330030/211908.m3u8
+REDE VIDA SD	http://txup.live:80/live/0454713149/6189330030/211911.m3u8
+SBT PARANA FHD [ALT]	http://txup.live:80/live/0454713149/6189330030/299398.m3u8
+SBT PARANA SD [ALT]	http://txup.live:80/live/0454713149/6189330030/217318.m3u8
+SBT RECIFE FHD	http://txup.live:80/live/0454713149/6189330030/188734.m3u8
+SBT RJ FHD	http://txup.live:80/live/0454713149/6189330030/217133.m3u8
+SBT RJ SD	http://txup.live:80/live/0454713149/6189330030/217135.m3u8
+SBT SERRA DOURADA [ALT]	http://txup.live:80/live/0454713149/6189330030/299394.m3u8
+SBT SP FHD	http://txup.live:80/live/0454713149/6189330030/188726.m3u8
+SBT SP FHD H265	http://txup.live:80/live/0454713149/6189330030/188725.m3u8
+SBT SP SD	http://txup.live:80/live/0454713149/6189330030/188729.m3u8
+SPACE FHD	http://txup.live:80/live/0454713149/6189330030/188545.m3u8
+SPACE FHD H265	http://txup.live:80/live/0454713149/6189330030/188544.m3u8
+SPACE SD	http://txup.live:80/live/0454713149/6189330030/188548.m3u8
+SPORTV FHD	http://txup.live:80/live/0454713149/6189330030/211828.m3u8
+SPORTV FHD H265	http://txup.live:80/live/0454713149/6189330030/211827.m3u8
+SPORTV SD	http://txup.live:80/live/0454713149/6189330030/211831.m3u8
+SPORTV 2 FHD	http://txup.live:80/live/0454713149/6189330030/211834.m3u8
+SPORTV 2 FHD H265	http://txup.live:80/live/0454713149/6189330030/211833.m3u8
+SPORTV 2 SD	http://txup.live:80/live/0454713149/6189330030/211837.m3u8
+SPORTV 3 FHD	http://txup.live:80/live/0454713149/6189330030/211840.m3u8
+SPORTV 3 FHD H265	http://txup.live:80/live/0454713149/6189330030/211839.m3u8
+SPORTV 3 SD	http://txup.live:80/live/0454713149/6189330030/211843.m3u8
+STAR CHANNEL FHD	http://txup.live:80/live/0454713149/6189330030/188497.m3u8
+STAR CHANNEL FHD H265	http://txup.live:80/live/0454713149/6189330030/188496.m3u8
+STAR CHANNEL SD	http://txup.live:80/live/0454713149/6189330030/188500.m3u8
+CINECANAL FHD	http://txup.live:80/live/0454713149/6189330030/188503.m3u8
+CINECANAL FHD H265	http://txup.live:80/live/0454713149/6189330030/188502.m3u8
+CINECANAL SD	http://txup.live:80/live/0454713149/6189330030/188506.m3u8
+STAR PLUS 01 [ALT]	http://txup.live:80/live/0454713149/6189330030/927287.m3u8
+STAR PLUS 02 [ALT]	http://txup.live:80/live/0454713149/6189330030/927288.m3u8
+STAR PLUS 03 [ALT]	http://txup.live:80/live/0454713149/6189330030/927289.m3u8
+STUDIO UNIVERSAL FHD	http://txup.live:80/live/0454713149/6189330030/188551.m3u8
+STUDIO UNIVERSAL FHD H265	http://txup.live:80/live/0454713149/6189330030/188550.m3u8
+STUDIO UNIVERSAL SD	http://txup.live:80/live/0454713149/6189330030/188554.m3u8
+SYFY FHD	http://txup.live:80/live/0454713149/6189330030/188557.m3u8
+SYFY FHD H265	http://txup.live:80/live/0454713149/6189330030/188556.m3u8
+SYFY SD	http://txup.live:80/live/0454713149/6189330030/188560.m3u8
+TCM SD	http://txup.live:80/live/0454713149/6189330030/188597.m3u8
+TELECINE ACTION FHD	http://txup.live:80/live/0454713149/6189330030/188425.m3u8
+TELECINE ACTION FHD H265	http://txup.live:80/live/0454713149/6189330030/188424.m3u8
+TELECINE ACTION SD	http://txup.live:80/live/0454713149/6189330030/188428.m3u8
+TELECINE CULT FHD	http://txup.live:80/live/0454713149/6189330030/188431.m3u8
+TELECINE CULT FHD H265	http://txup.live:80/live/0454713149/6189330030/188430.m3u8
+TELECINE CULT SD	http://txup.live:80/live/0454713149/6189330030/188434.m3u8
+TELECINE FUN FHD	http://txup.live:80/live/0454713149/6189330030/188437.m3u8
+TELECINE FUN FHD H265	http://txup.live:80/live/0454713149/6189330030/188436.m3u8
+TELECINE FUN SD	http://txup.live:80/live/0454713149/6189330030/188440.m3u8
+TELECINE PIPOCA FHD	http://txup.live:80/live/0454713149/6189330030/188443.m3u8
+TELECINE PIPOCA FHD H265	http://txup.live:80/live/0454713149/6189330030/188442.m3u8
+TELECINE PIPOCA SD	http://txup.live:80/live/0454713149/6189330030/188446.m3u8
+TELECINE PREMIUM FHD	http://txup.live:80/live/0454713149/6189330030/188449.m3u8
+TELECINE PREMIUM FHD H265	http://txup.live:80/live/0454713149/6189330030/188448.m3u8
+TELECINE PREMIUM SD	http://txup.live:80/live/0454713149/6189330030/188452.m3u8
+TELECINE TOUCH FHD	http://txup.live:80/live/0454713149/6189330030/188455.m3u8
+TELECINE TOUCH FHD H265	http://txup.live:80/live/0454713149/6189330030/188454.m3u8
+TELECINE TOUCH SD	http://txup.live:80/live/0454713149/6189330030/188458.m3u8
+TNT FHD	http://txup.live:80/live/0454713149/6189330030/188569.m3u8
+TNT FHD H265	http://txup.live:80/live/0454713149/6189330030/188568.m3u8
+TNT SD	http://txup.live:80/live/0454713149/6189330030/188572.m3u8
+TNT SERIES FHD	http://txup.live:80/live/0454713149/6189330030/188575.m3u8
+TNT SERIES FHD H265	http://txup.live:80/live/0454713149/6189330030/188574.m3u8
+TNT SERIES SD	http://txup.live:80/live/0454713149/6189330030/188578.m3u8
+TNT NOVELAS FHD	http://txup.live:80/live/0454713149/6189330030/188562.m3u8
+TNT NOVELAS SD	http://txup.live:80/live/0454713149/6189330030/188566.m3u8
+TOONCAST FHD	http://txup.live:80/live/0454713149/6189330030/189030.m3u8
+TOONCAST SD	http://txup.live:80/live/0454713149/6189330030/189034.m3u8
+TV ALTEROSA FHD [ALT]	http://txup.live:80/live/0454713149/6189330030/299392.m3u8
+TV BRASIL FHD	http://txup.live:80/live/0454713149/6189330030/282455.m3u8
+TV BRASIL SD	http://txup.live:80/live/0454713149/6189330030/282457.m3u8
+TV CAMARA SD	http://txup.live:80/live/0454713149/6189330030/189894.m3u8
+TV CULTURA SD	http://txup.live:80/live/0454713149/6189330030/188882.m3u8
+TV DIARIO FORTALEZA FHD	http://txup.live:80/live/0454713149/6189330030/188406.m3u8
+TV EVANGELIZAR FHD	http://txup.live:80/live/0454713149/6189330030/211903.m3u8
+TV GAZETA SP FHD	http://txup.live:80/live/0454713149/6189330030/188875.m3u8
+TV GLOOBINHO SD	http://txup.live:80/live/0454713149/6189330030/189036.m3u8
+TV INTEGRAÇAO JUIZ DE FORA FHD	http://txup.live:80/live/0454713149/6189330030/212283.m3u8
+TV INTEGRAÇAO JUIZ DE FORA SD	http://txup.live:80/live/0454713149/6189330030/212284.m3u8
+TV MUNDIAL SD	http://txup.live:80/live/0454713149/6189330030/211913.m3u8
+TV NOVO TEMPO SD	http://txup.live:80/live/0454713149/6189330030/211906.m3u8
+TV PAI ETERNO SD	http://txup.live:80/live/0454713149/6189330030/212528.m3u8
+TV RATIMBUM SD	http://txup.live:80/live/0454713149/6189330030/189042.m3u8
+TV SENADO SD	http://txup.live:80/live/0454713149/6189330030/208023.m3u8
+UNIVERSAL TV FHD	http://txup.live:80/live/0454713149/6189330030/188581.m3u8
+UNIVERSAL TV FHD H265	http://txup.live:80/live/0454713149/6189330030/188580.m3u8
+UNIVERSAL TV SD	http://txup.live:80/live/0454713149/6189330030/188584.m3u8
+VH1 MEGAHITS SD	http://txup.live:80/live/0454713149/6189330030/189094.m3u8
+VIVA FHD	http://txup.live:80/live/0454713149/6189330030/189128.m3u8
+VIVA FHD H265	http://txup.live:80/live/0454713149/6189330030/189127.m3u8
+VIVA SD	http://txup.live:80/live/0454713149/6189330030/189131.m3u8
+WARNER CHANNEL FHD	http://txup.live:80/live/0454713149/6189330030/188587.m3u8
+WARNER CHANNEL FHD H265	http://txup.live:80/live/0454713149/6189330030/188586.m3u8
+WARNER CHANNEL SD	http://txup.live:80/live/0454713149/6189330030/188590.m3u8
+WOOHOO FHD	http://txup.live:80/live/0454713149/6189330030/189044.m3u8
+WOOHOO FHD H265	http://txup.live:80/live/0454713149/6189330030/189045.m3u8
+WOOHOO SD	http://txup.live:80/live/0454713149/6189330030/189048.m3u8
+ZOOMO SD	http://txup.live:80/live/0454713149/6189330030/189053.m3u8
+Caze TV 02	http://txup.live:80/live/0454713149/6189330030/632146.m3u8
+Caze TV 03	http://txup.live:80/live/0454713149/6189330030/899515.m3u8
+REDE SUPER SD	http://txup.live:80/live/0454713149/6189330030/319582.m3u8
+TRACE BRAZUCA SD	http://txup.live:80/live/0454713149/6189330030/319581.m3u8
+BAND Brasilia FHD	http://txup.live:80/live/0454713149/6189330030/336659.m3u8
+TRAVEL BOX BRAZIL SD	http://txup.live:80/live/0454713149/6189330030/340971.m3u8
+PARAMOUNT + 01 [ALT]	http://txup.live:80/live/0454713149/6189330030/932424.m3u8
+PARAMOUNT + 02 [ALT]	http://txup.live:80/live/0454713149/6189330030/932425.m3u8
+TV FRONTEIRA PAULISTA SD	http://txup.live:80/live/0454713149/6189330030/361011.m3u8
+TV CIDADE CANAL 9 - TERESÓPOLIS	http://txup.live:80/live/0454713149/6189330030/415099.m3u8
+Canal GOAT 01	http://txup.live:80/live/0454713149/6189330030/626150.m3u8
+Canal GOAT 02	http://txup.live:80/live/0454713149/6189330030/930096.m3u8
+Canal GOAT 03	http://txup.live:80/live/0454713149/6189330030/930097.m3u8
+SBT JANGADEIRO CE	http://txup.live:80/live/0454713149/6189330030/905102.m3u8
+BAND TV GOIANIA FHD	http://txup.live:80/live/0454713149/6189330030/926704.m3u8
+BAND TV GOIANIA HD	http://txup.live:80/live/0454713149/6189330030/926705.m3u8
+A GRANDE CONQUISTA 01	http://txup.live:80/live/0454713149/6189330030/929145.m3u8
+A GRANDE CONQUISTA 01 [ALT]	http://txup.live:80/live/0454713149/6189330030/929146.m3u8
+A GRANDE CONQUISTA 02	http://txup.live:80/live/0454713149/6189330030/929147.m3u8
+A GRANDE CONQUISTA 02 [ALT]	http://txup.live:80/live/0454713149/6189330030/929148.m3u8
+A GRANDE CONQUISTA 03	http://txup.live:80/live/0454713149/6189330030/929149.m3u8
+A GRANDE CONQUISTA 03 [ALT]	http://txup.live:80/live/0454713149/6189330030/929150.m3u8
+A GRANDE CONQUISTA 04	http://txup.live:80/live/0454713149/6189330030/929159.m3u8
+A GRANDE CONQUISTA 04 [ALT]	http://txup.live:80/live/0454713149/6189330030/929160.m3u8
+ZAPPING TV 01	http://txup.live:80/live/0454713149/6189330030/929161.m3u8
+Radio Hits 99,7	http://txup.live:80/live/0454713149/6189330030/25273.m3u8
+Nativa 95.3 FM	http://txup.live:80/live/0454713149/6189330030/25325.m3u8
+Transamerica SP 100,1 FM	http://txup.live:80/live/0454713149/6189330030/25327.m3u8
+Cidade 103,10 FM	http://txup.live:80/live/0454713149/6189330030/25329.m3u8
+Melody 94,1 FM	http://txup.live:80/live/0454713149/6189330030/25331.m3u8
+Antena 1 SP FM	http://txup.live:80/live/0454713149/6189330030/25332.m3u8
+Estilo FM 102,1	http://txup.live:80/live/0454713149/6189330030/25333.m3u8
+Radio Clube Do Forro - Antigas	http://txup.live:80/live/0454713149/6189330030/25335.m3u8
+Rádio Planeta Dance	http://txup.live:80/live/0454713149/6189330030/25336.m3u8
+Jovem Pan SP 620 AM	http://txup.live:80/live/0454713149/6189330030/25337.m3u8
+CBN Grandes Lagos 90.9 FM	http://txup.live:80/live/0454713149/6189330030/25338.m3u8
+Igreja Pentecostal Deus é amor	http://txup.live:80/live/0454713149/6189330030/345736.m3u8
+96 Bauru SP - 96 FM	http://txup.live:80/live/0454713149/6189330030/345837.m3u8
+Cidade RJ - 102.9 FM	http://txup.live:80/live/0454713149/6189330030/345838.m3u8
+CINE SKY 1	http://txup.live:80/live/0454713149/6189330030/212107.m3u8
+CINE SKY 2	http://txup.live:80/live/0454713149/6189330030/212109.m3u8
+CINE SKY 3	http://txup.live:80/live/0454713149/6189330030/212111.m3u8
+CINE SKY 4	http://txup.live:80/live/0454713149/6189330030/212113.m3u8
+CINE SKY 5	http://txup.live:80/live/0454713149/6189330030/212115.m3u8
+CINE SKY 6	http://txup.live:80/live/0454713149/6189330030/212117.m3u8
+CINE SKY 7	http://txup.live:80/live/0454713149/6189330030/212119.m3u8
+CINE SKY 8	http://txup.live:80/live/0454713149/6189330030/212121.m3u8
+CINE SKY 9	http://txup.live:80/live/0454713149/6189330030/212123.m3u8
+CINE SKY 10	http://txup.live:80/live/0454713149/6189330030/346765.m3u8
+GLOBO SP 4K	http://txup.live:80/live/0454713149/6189330030/211923.m3u8
+ANIMAL PLANET 4K	http://txup.live:80/live/0454713149/6189330030/211924.m3u8
+BAND SP 4K	http://txup.live:80/live/0454713149/6189330030/211925.m3u8
+CARTOON 4K	http://txup.live:80/live/0454713149/6189330030/211926.m3u8
+DISCOVERY CHANNEL 4K	http://txup.live:80/live/0454713149/6189330030/211928.m3u8
+ESPN 4 4K	http://txup.live:80/live/0454713149/6189330030/211929.m3u8
+PREMIERE CLUBES 4K	http://txup.live:80/live/0454713149/6189330030/211935.m3u8
+RECORD TV SP 4K	http://txup.live:80/live/0454713149/6189330030/211936.m3u8
+SBT SP 4K	http://txup.live:80/live/0454713149/6189330030/211938.m3u8
+STAR CHANNEL 4K	http://txup.live:80/live/0454713149/6189330030/211939.m3u8
+SPORTV 4K	http://txup.live:80/live/0454713149/6189330030/211941.m3u8
+TELECINE PIPOCA 4K	http://txup.live:80/live/0454713149/6189330030/211942.m3u8
+TELECINE PREMIUM 4K	http://txup.live:80/live/0454713149/6189330030/211943.m3u8
+ESPN 4K	http://txup.live:80/live/0454713149/6189330030/286622.m3u8
+TELECINE ACTION 4K	http://txup.live:80/live/0454713149/6189330030/286624.m3u8
+UNIVERSAL CHANNEL 4K	http://txup.live:80/live/0454713149/6189330030/286626.m3u8
+GNT 4K	http://txup.live:80/live/0454713149/6189330030/286628.m3u8
+DISCOVERY TURBO 4K	http://txup.live:80/live/0454713149/6189330030/286630.m3u8
+COMEDY CENTRAL 4K	http://txup.live:80/live/0454713149/6189330030/286631.m3u8
+VIVA 4K	http://txup.live:80/live/0454713149/6189330030/286632.m3u8
+DISCOVERY H&H 4K	http://txup.live:80/live/0454713149/6189330030/286633.m3u8
+CNN BRASIL 4K	http://txup.live:80/live/0454713149/6189330030/286634.m3u8
+GLOBO NEWS 4K	http://txup.live:80/live/0454713149/6189330030/286635.m3u8
+AXN 4K	http://txup.live:80/live/0454713149/6189330030/286636.m3u8
+JOVEM PAN NEWS 4K	http://txup.live:80/live/0454713149/6189330030/286637.m3u8
+TV FRONTEIRA PAULISTA HD	http://txup.live:80/live/0454713149/6189330030/361010.m3u8
+NBA League Pass 5 HD	http://txup.live:80/live/0454713149/6189330030/343232.m3u8
+NBA League Pass 4 HD	http://txup.live:80/live/0454713149/6189330030/343231.m3u8
+NBA League Pass 3 HD	http://txup.live:80/live/0454713149/6189330030/343230.m3u8
+NBA League Pass 2 HD	http://txup.live:80/live/0454713149/6189330030/343229.m3u8
+NBA League Pass 1 HD	http://txup.live:80/live/0454713149/6189330030/343228.m3u8
+GLOBO NSC TV CRICIUMA HD	http://txup.live:80/live/0454713149/6189330030/342621.m3u8
+TRAVEL BOX BRAZIL HD	http://txup.live:80/live/0454713149/6189330030/340970.m3u8
+BAND Brasilia HD	http://txup.live:80/live/0454713149/6189330030/336660.m3u8
+SBT Interior HD	http://txup.live:80/live/0454713149/6189330030/336657.m3u8
+SBT Brasília HD	http://txup.live:80/live/0454713149/6189330030/336656.m3u8
+TRACE BRAZUCA HD	http://txup.live:80/live/0454713149/6189330030/319580.m3u8
+FURACAO LIVE 01	http://txup.live:80/live/0454713149/6189330030/317409.m3u8
+GLOBO SERGIPE HD	http://txup.live:80/live/0454713149/6189330030/306647.m3u8
+SPORTV 2 HD [ALT]	http://txup.live:80/live/0454713149/6189330030/306566.m3u8
+SBT VTV CAMPINAS HD	http://txup.live:80/live/0454713149/6189330030/299401.m3u8
+SBT BAHIA [ALT]	http://txup.live:80/live/0454713149/6189330030/299397.m3u8
+SBT SERGIPE HD [ALT]	http://txup.live:80/live/0454713149/6189330030/299396.m3u8
+SBT RS HD [ALT]	http://txup.live:80/live/0454713149/6189330030/299395.m3u8
+TV ALTEROSA HD [ALT]	http://txup.live:80/live/0454713149/6189330030/299393.m3u8
+BAND SERGIPE HD [ALT]	http://txup.live:80/live/0454713149/6189330030/299391.m3u8
+BAND RS HD [ALT]	http://txup.live:80/live/0454713149/6189330030/299390.m3u8
+BAND PARANA (Tv Taroba) HD	http://txup.live:80/live/0454713149/6189330030/299388.m3u8
+BAND CAMPINAS HD	http://txup.live:80/live/0454713149/6189330030/299385.m3u8
+BAND BAHIA HD	http://txup.live:80/live/0454713149/6189330030/299384.m3u8
+AGROMAIS HD	http://txup.live:80/live/0454713149/6189330030/297144.m3u8
+VIVA HD [ALT]	http://txup.live:80/live/0454713149/6189330030/295706.m3u8
+SBT RJ HD [ALT]	http://txup.live:80/live/0454713149/6189330030/295705.m3u8
+SBT SP HD [ALT]	http://txup.live:80/live/0454713149/6189330030/295704.m3u8
+BAND SPORTS HD [ALT]	http://txup.live:80/live/0454713149/6189330030/295703.m3u8
+BAND SP HD [ALT]	http://txup.live:80/live/0454713149/6189330030/295702.m3u8
+COMBATE HD [ALT]	http://txup.live:80/live/0454713149/6189330030/295699.m3u8
+ESPN 4 HD [ALT]	http://txup.live:80/live/0454713149/6189330030/295698.m3u8
+ESPN 5 HD [ALT]	http://txup.live:80/live/0454713149/6189330030/295697.m3u8
+PREMIERE 4 HD [ALT]	http://txup.live:80/live/0454713149/6189330030/295696.m3u8
+PREMIERE 2 HD [ALT]	http://txup.live:80/live/0454713149/6189330030/295695.m3u8
+PREMIERE CLUBES HD [ALT]	http://txup.live:80/live/0454713149/6189330030/295694.m3u8
+RECORD SP HD [ALT]	http://txup.live:80/live/0454713149/6189330030/295693.m3u8
+RECORD RS HD [ALT]	http://txup.live:80/live/0454713149/6189330030/295692.m3u8
+RECORD RJ HD [ALT]	http://txup.live:80/live/0454713149/6189330030/295691.m3u8
+RECORD MINAS HD	http://txup.live:80/live/0454713149/6189330030/295689.m3u8
+RECORD BAHIA HD [ALT]	http://txup.live:80/live/0454713149/6189330030/295688.m3u8
+RECORD GOIAS HD [ALT]	http://txup.live:80/live/0454713149/6189330030/295687.m3u8
+RECORD BRASILIA HD [ALT]	http://txup.live:80/live/0454713149/6189330030/295686.m3u8
+GLOBO RBS PORTO ALEGRE HD [ALT]	http://txup.live:80/live/0454713149/6189330030/295684.m3u8
+GLOBO NORDESTE HD [ALT]	http://txup.live:80/live/0454713149/6189330030/295683.m3u8
+GLOBO MINAS HD [ALT]	http://txup.live:80/live/0454713149/6189330030/295682.m3u8
+GLOBO FLORIANOPOLIS HD [ALT]	http://txup.live:80/live/0454713149/6189330030/295681.m3u8
+GLOBO EPTV CAMPINAS HD [ALT]	http://txup.live:80/live/0454713149/6189330030/295680.m3u8
+GLOBO BRASILIA HD [ALT]	http://txup.live:80/live/0454713149/6189330030/295679.m3u8
+GLOBO TV VERDES MARES FORTALEZA HD [ALT]	http://txup.live:80/live/0454713149/6189330030/295678.m3u8
+GLOBO TV TEM BAURU HD [ALT]	http://txup.live:80/live/0454713149/6189330030/295677.m3u8
+GLOBO RPC CURITIBA HD [ALT]	http://txup.live:80/live/0454713149/6189330030/295676.m3u8
+ZOOMOO HD [ALT]	http://txup.live:80/live/0454713149/6189330030/295674.m3u8
+NICKELODEON HD [ALT]	http://txup.live:80/live/0454713149/6189330030/295673.m3u8
+NICK JR HD [ALT]	http://txup.live:80/live/0454713149/6189330030/295672.m3u8
+GLOOB HD [ALT]	http://txup.live:80/live/0454713149/6189330030/295670.m3u8
+DISNEY CHANNEL HD [ALT]	http://txup.live:80/live/0454713149/6189330030/295667.m3u8
+DISCOVERY KIDS HD [ALT]	http://txup.live:80/live/0454713149/6189330030/295666.m3u8
+CARTOON NETWORK HD [ALT]	http://txup.live:80/live/0454713149/6189330030/295665.m3u8
+CARTOONITO HD [ALT]	http://txup.live:80/live/0454713149/6189330030/295664.m3u8
+BABY TV HD	http://txup.live:80/live/0454713149/6189330030/295663.m3u8
+NATGEO HD [ALT]	http://txup.live:80/live/0454713149/6189330030/295662.m3u8
+ID DISCOVERY HD [ALT]	http://txup.live:80/live/0454713149/6189330030/295660.m3u8
+HISTORY HD [ALT]	http://txup.live:80/live/0454713149/6189330030/295659.m3u8
+H2 HD [ALT]	http://txup.live:80/live/0454713149/6189330030/295658.m3u8
+DISCOVERY TURBO HD [ALT]	http://txup.live:80/live/0454713149/6189330030/295657.m3u8
+DISCOVERY TLC HD [ALT]	http://txup.live:80/live/0454713149/6189330030/295656.m3u8
+DISCOVERY WORLD HD [ALT]	http://txup.live:80/live/0454713149/6189330030/295655.m3u8
+DISCOVERY THEATER HD [ALT]	http://txup.live:80/live/0454713149/6189330030/295654.m3u8
+DISCOVERY SCIENCE HD [ALT]	http://txup.live:80/live/0454713149/6189330030/295653.m3u8
+DISCOVERY H&H HD [ALT]	http://txup.live:80/live/0454713149/6189330030/295652.m3u8
+DISCOVERY CHANNEL HD [ALT]	http://txup.live:80/live/0454713149/6189330030/295651.m3u8
+ANIMAL PLANET HD [ALT]	http://txup.live:80/live/0454713149/6189330030/295650.m3u8
+HBO Xtreme HD [ALT]	http://txup.live:80/live/0454713149/6189330030/295649.m3u8
+HBO SIGNATURE HD [ALT]	http://txup.live:80/live/0454713149/6189330030/295648.m3u8
+HBO POP HD [ALT]	http://txup.live:80/live/0454713149/6189330030/295647.m3u8
+HBO PLUS HD [ALT]	http://txup.live:80/live/0454713149/6189330030/295646.m3u8
+HBO MUNDI HD [ALT]	http://txup.live:80/live/0454713149/6189330030/295645.m3u8
+HBO HD [ALT]	http://txup.live:80/live/0454713149/6189330030/295644.m3u8
+HBO FAMILY HD [ALT]	http://txup.live:80/live/0454713149/6189330030/295643.m3u8
+HBO 2 HD [ALT]	http://txup.live:80/live/0454713149/6189330030/295642.m3u8
+TELECINE PIPOCA HD [ALT]	http://txup.live:80/live/0454713149/6189330030/295641.m3u8
+COMEDY CENTRAL HD [ALT]	http://txup.live:80/live/0454713149/6189330030/295640.m3u8
+SPACE HD [ALT]	http://txup.live:80/live/0454713149/6189330030/295639.m3u8
+TELECINE TOUCH HD [ALT]	http://txup.live:80/live/0454713149/6189330030/295638.m3u8
+TELECINE PREMIUM HD [ALT]	http://txup.live:80/live/0454713149/6189330030/295637.m3u8
+TELECINE FUN HD [ALT]	http://txup.live:80/live/0454713149/6189330030/295636.m3u8
+TELECINE CULT HD [ALT]	http://txup.live:80/live/0454713149/6189330030/295635.m3u8
+TELECINE ACTION HD [ALT]	http://txup.live:80/live/0454713149/6189330030/295634.m3u8
+ESPN 3 HD [ALT]	http://txup.live:80/live/0454713149/6189330030/295633.m3u8
+ESPN 2 HD [ALT]	http://txup.live:80/live/0454713149/6189330030/295632.m3u8
+ESPN 6 HD [ALT]	http://txup.live:80/live/0454713149/6189330030/295631.m3u8
+ESPN HD [ALT]	http://txup.live:80/live/0454713149/6189330030/295630.m3u8
+WARNER CHANNEL HD [ALT]	http://txup.live:80/live/0454713149/6189330030/295629.m3u8
+UNIVERSAL TV HD [ALT]	http://txup.live:80/live/0454713149/6189330030/295628.m3u8
+TNT SERIES HD [ALT]	http://txup.live:80/live/0454713149/6189330030/295627.m3u8
+TNT HD [ALT]	http://txup.live:80/live/0454713149/6189330030/295626.m3u8
+STUDIO UNIVERSAL HD [ALT]	http://txup.live:80/live/0454713149/6189330030/295625.m3u8
+CANAL SONY HD [ALT]	http://txup.live:80/live/0454713149/6189330030/295624.m3u8
+PARAMOUNT HD [ALT]	http://txup.live:80/live/0454713149/6189330030/295623.m3u8
+MEGAPIX HD [ALT]	http://txup.live:80/live/0454713149/6189330030/295622.m3u8
+FX HD [ALT]	http://txup.live:80/live/0454713149/6189330030/295621.m3u8
+CINECANAL HD [ALT]	http://txup.live:80/live/0454713149/6189330030/295618.m3u8
+STAR CHANNEL HD [ALT]	http://txup.live:80/live/0454713149/6189330030/295617.m3u8
+CINEMAX HD [ALT]	http://txup.live:80/live/0454713149/6189330030/295616.m3u8
+AXN HD [ALT]	http://txup.live:80/live/0454713149/6189330030/295615.m3u8
+AMC HD [ALT]	http://txup.live:80/live/0454713149/6189330030/295614.m3u8
+A&E HD [ALT]	http://txup.live:80/live/0454713149/6189330030/295613.m3u8
+GLOBO RJ HD [ALT]	http://txup.live:80/live/0454713149/6189330030/295612.m3u8
+GLOBO SP HD [ALT]	http://txup.live:80/live/0454713149/6189330030/295611.m3u8
+SPORTV HD [ALT]	http://txup.live:80/live/0454713149/6189330030/295610.m3u8
+SPORTV 3 HD [ALT]	http://txup.live:80/live/0454713149/6189330030/295609.m3u8
+GLOBO RBS TV PASSO FUNDO HD	http://txup.live:80/live/0454713149/6189330030/291494.m3u8
+GLOBO TV SUBAE HD	http://txup.live:80/live/0454713149/6189330030/291343.m3u8
+GLOBO TV SANTA CRUZ HD	http://txup.live:80/live/0454713149/6189330030/291340.m3u8
+GLOBO RBS TV PELOTAS HD	http://txup.live:80/live/0454713149/6189330030/291335.m3u8
+GLOBO TV MIRANTE COCAIS HD	http://txup.live:80/live/0454713149/6189330030/291325.m3u8
+GLOBO RBS TV CAXIAS DO SUL HD	http://txup.live:80/live/0454713149/6189330030/291322.m3u8
+SBT BAHIA HD	http://txup.live:80/live/0454713149/6189330030/291051.m3u8
+CURTA! HD	http://txup.live:80/live/0454713149/6189330030/286620.m3u8
+TV BRASIL HD	http://txup.live:80/live/0454713149/6189330030/282456.m3u8
+JOVEM PAN NEWS HD	http://txup.live:80/live/0454713149/6189330030/229791.m3u8
+RECORD TV BELEM HD	http://txup.live:80/live/0454713149/6189330030/217137.m3u8
+SBT RJ HD	http://txup.live:80/live/0454713149/6189330030/217134.m3u8
+GLOBO TV CLUBE TERESINA HD	http://txup.live:80/live/0454713149/6189330030/216842.m3u8
+TV INTEGRAÇAO JUIZ DE FORA HD	http://txup.live:80/live/0454713149/6189330030/216840.m3u8
+GLOBO TV VANGUARDA S J CAMPOS HD	http://txup.live:80/live/0454713149/6189330030/216839.m3u8
+GLOBO TV TRIBUNA SANTOS HD	http://txup.live:80/live/0454713149/6189330030/216838.m3u8
+GLOBO INTER TV ALTO LITORAL HD	http://txup.live:80/live/0454713149/6189330030/216832.m3u8
+GLOBO EPTV RIBEIRÃO PRETO HD	http://txup.live:80/live/0454713149/6189330030/216829.m3u8
+GLOBO TV MORENA CAMPO GRANDE HD	http://txup.live:80/live/0454713149/6189330030/212574.m3u8
+TV PAI ETERNO HD	http://txup.live:80/live/0454713149/6189330030/212527.m3u8
+RIT TV HD	http://txup.live:80/live/0454713149/6189330030/211918.m3u8
+REDE GOSPEL HD	http://txup.live:80/live/0454713149/6189330030/211917.m3u8
+TV APARECIDA SD	http://txup.live:80/live/0454713149/6189330030/211915.m3u8
+TV APARECIDA HD	http://txup.live:80/live/0454713149/6189330030/211914.m3u8
+REDE VIDA HD [ALT]	http://txup.live:80/live/0454713149/6189330030/211910.m3u8
+REDE VIDA HD	http://txup.live:80/live/0454713149/6189330030/211909.m3u8
+TV NOVO TEMPO HD	http://txup.live:80/live/0454713149/6189330030/211905.m3u8
+TV EVANGELIZAR HD	http://txup.live:80/live/0454713149/6189330030/211904.m3u8
+CANCAO NOVA HD	http://txup.live:80/live/0454713149/6189330030/211901.m3u8
+HBO XTREME HD	http://txup.live:80/live/0454713149/6189330030/211894.m3u8
+HBO SIGNATURE HD	http://txup.live:80/live/0454713149/6189330030/211888.m3u8
+HBO POP HD	http://txup.live:80/live/0454713149/6189330030/211882.m3u8
+HBO PLUS HD	http://txup.live:80/live/0454713149/6189330030/211876.m3u8
+HBO MUNDI HD	http://txup.live:80/live/0454713149/6189330030/211870.m3u8
+HBO Familly HD	http://txup.live:80/live/0454713149/6189330030/211864.m3u8
+HBO 2 HD	http://txup.live:80/live/0454713149/6189330030/211858.m3u8
+HBO HD	http://txup.live:80/live/0454713149/6189330030/211852.m3u8
+SPORTV 3 HD	http://txup.live:80/live/0454713149/6189330030/211841.m3u8
+SPORTV 2 HD	http://txup.live:80/live/0454713149/6189330030/211835.m3u8
+SPORTV HD	http://txup.live:80/live/0454713149/6189330030/211829.m3u8
+ESPN 5 HD	http://txup.live:80/live/0454713149/6189330030/211823.m3u8
+ESPN 4 HD	http://txup.live:80/live/0454713149/6189330030/211817.m3u8
+ESPN 6 HD	http://txup.live:80/live/0454713149/6189330030/211811.m3u8
+ESPN HD	http://txup.live:80/live/0454713149/6189330030/211805.m3u8
+ESPN 3 HD	http://txup.live:80/live/0454713149/6189330030/211799.m3u8
+ESPN 2 HD	http://txup.live:80/live/0454713149/6189330030/211793.m3u8
+COMBATE HD	http://txup.live:80/live/0454713149/6189330030/211787.m3u8
+BAND SPORTS HD	http://txup.live:80/live/0454713149/6189330030/211781.m3u8
+DOGTV HD	http://txup.live:80/live/0454713149/6189330030/189896.m3u8
+TV CAMARA HD	http://txup.live:80/live/0454713149/6189330030/189895.m3u8
+MODO VIAGEM HD	http://txup.live:80/live/0454713149/6189330030/189845.m3u8
+RECORD NEWS HD	http://txup.live:80/live/0454713149/6189330030/189230.m3u8
+NHK WORLD HD	http://txup.live:80/live/0454713149/6189330030/189227.m3u8
+GLOBO NEWS HD	http://txup.live:80/live/0454713149/6189330030/189223.m3u8
+CNN INTERNACIONAL HD	http://txup.live:80/live/0454713149/6189330030/189220.m3u8
+CNN BRASIL HD	http://txup.live:80/live/0454713149/6189330030/189215.m3u8
+BAND NEWS HD	http://txup.live:80/live/0454713149/6189330030/189210.m3u8
+VIVA HD	http://txup.live:80/live/0454713149/6189330030/189129.m3u8
+PRIME BOX BRAZIL HD	http://txup.live:80/live/0454713149/6189330030/189118.m3u8
+OFF HD	http://txup.live:80/live/0454713149/6189330030/189113.m3u8
+MULTISHOW HD	http://txup.live:80/live/0454713149/6189330030/189107.m3u8
+MUSIC BOX BRAZIL HD	http://txup.live:80/live/0454713149/6189330030/189102.m3u8
+MTV HD	http://txup.live:80/live/0454713149/6189330030/189098.m3u8
+HGTV HD	http://txup.live:80/live/0454713149/6189330030/189087.m3u8
+GNT HD	http://txup.live:80/live/0454713149/6189330030/189081.m3u8
+FOOD NETWORK HD	http://txup.live:80/live/0454713149/6189330030/189075.m3u8
+E! HD	http://txup.live:80/live/0454713149/6189330030/189069.m3u8
+BIS HD	http://txup.live:80/live/0454713149/6189330030/189057.m3u8
+ZOOMO HD	http://txup.live:80/live/0454713149/6189330030/189051.m3u8
+WOOHOO HD	http://txup.live:80/live/0454713149/6189330030/189046.m3u8
+TV RATIMBUM HD	http://txup.live:80/live/0454713149/6189330030/189040.m3u8
+TV GLOOBINHO HD	http://txup.live:80/live/0454713149/6189330030/189037.m3u8
+TOONCAST HD	http://txup.live:80/live/0454713149/6189330030/189032.m3u8
+NICKELODEON HD	http://txup.live:80/live/0454713149/6189330030/189025.m3u8
+NICK JR HD	http://txup.live:80/live/0454713149/6189330030/189019.m3u8
+GLOOB HD	http://txup.live:80/live/0454713149/6189330030/189007.m3u8
+DISNEY CHANNEL HD	http://txup.live:80/live/0454713149/6189330030/188990.m3u8
+DISCOVERY KIDS HD	http://txup.live:80/live/0454713149/6189330030/188984.m3u8
+CARTOON NETWORK HD	http://txup.live:80/live/0454713149/6189330030/188978.m3u8
+CARTOONITO HD	http://txup.live:80/live/0454713149/6189330030/188972.m3u8
+TV CULTURA HD	http://txup.live:80/live/0454713149/6189330030/188880.m3u8
+TV GAZETA SP HD	http://txup.live:80/live/0454713149/6189330030/188876.m3u8
+REDE TV HD	http://txup.live:80/live/0454713149/6189330030/188871.m3u8
+FUTURA HD	http://txup.live:80/live/0454713149/6189330030/188865.m3u8
+CANAL BRASIL HD	http://txup.live:80/live/0454713149/6189330030/188859.m3u8
+RECORD RS HD	http://txup.live:80/live/0454713149/6189330030/188819.m3u8
+RECORD GOIAS SD	http://txup.live:80/live/0454713149/6189330030/188815.m3u8
+RECORD BRASILIA HD	http://txup.live:80/live/0454713149/6189330030/188808.m3u8
+RECORD BAHIA HD	http://txup.live:80/live/0454713149/6189330030/188805.m3u8
+RECORD MINAS HD [ALT]	http://txup.live:80/live/0454713149/6189330030/188799.m3u8
+RECORD RJ HD	http://txup.live:80/live/0454713149/6189330030/188795.m3u8
+RECORD SP HD	http://txup.live:80/live/0454713149/6189330030/188790.m3u8
+BAND CAMPINAS HD [ALT]	http://txup.live:80/live/0454713149/6189330030/188752.m3u8
+BAND RJ HD	http://txup.live:80/live/0454713149/6189330030/188747.m3u8
+BAND SP HD	http://txup.live:80/live/0454713149/6189330030/188742.m3u8
+SBT TV JORNAL HD	http://txup.live:80/live/0454713149/6189330030/188738.m3u8
+SBT SP HD	http://txup.live:80/live/0454713149/6189330030/188727.m3u8
+DISCOVERY TLC HD	http://txup.live:80/live/0454713149/6189330030/188721.m3u8
+NATGEO HD	http://txup.live:80/live/0454713149/6189330030/188709.m3u8
+ID DISCOVERY HD	http://txup.live:80/live/0454713149/6189330030/188703.m3u8
+HISTORY HD	http://txup.live:80/live/0454713149/6189330030/188697.m3u8
+H2 HD	http://txup.live:80/live/0454713149/6189330030/188691.m3u8
+FISH TV HD	http://txup.live:80/live/0454713149/6189330030/188685.m3u8
+DISCOVERY WORLD HD	http://txup.live:80/live/0454713149/6189330030/188679.m3u8
+DISCOVERY TURBO HD	http://txup.live:80/live/0454713149/6189330030/188673.m3u8
+DISCOVERY THEATER HD	http://txup.live:80/live/0454713149/6189330030/188667.m3u8
+DISCOVERY SCIENCE HD	http://txup.live:80/live/0454713149/6189330030/188661.m3u8
+DISCOVERY H&H HD	http://txup.live:80/live/0454713149/6189330030/188655.m3u8
+DISCOVERY CHANNEL HD	http://txup.live:80/live/0454713149/6189330030/188649.m3u8
+ANIMAL PLANET HD	http://txup.live:80/live/0454713149/6189330030/188643.m3u8
+PREMIERE 7 HD	http://txup.live:80/live/0454713149/6189330030/188637.m3u8
+PREMIERE 6 HD	http://txup.live:80/live/0454713149/6189330030/188632.m3u8
+PREMIERE 5 HD	http://txup.live:80/live/0454713149/6189330030/188626.m3u8
+PREMIERE 4 HD	http://txup.live:80/live/0454713149/6189330030/188620.m3u8
+PREMIERE 3 HD	http://txup.live:80/live/0454713149/6189330030/188614.m3u8
+PREMIERE 2 HD	http://txup.live:80/live/0454713149/6189330030/188608.m3u8
+PREMIERE CLUBES HD	http://txup.live:80/live/0454713149/6189330030/188602.m3u8
+TCM HD	http://txup.live:80/live/0454713149/6189330030/188596.m3u8
+WARNER CHANNEL HD	http://txup.live:80/live/0454713149/6189330030/188588.m3u8
+UNIVERSAL TV HD	http://txup.live:80/live/0454713149/6189330030/188582.m3u8
+TNT SERIES HD	http://txup.live:80/live/0454713149/6189330030/188576.m3u8
+TNT HD	http://txup.live:80/live/0454713149/6189330030/188570.m3u8
+TNT NOVELAS HD	http://txup.live:80/live/0454713149/6189330030/188564.m3u8
+SYFY HD	http://txup.live:80/live/0454713149/6189330030/188558.m3u8
+STUDIO UNIVERSAL HD	http://txup.live:80/live/0454713149/6189330030/188552.m3u8
+SPACE HD	http://txup.live:80/live/0454713149/6189330030/188546.m3u8
+PARAMOUNT HD	http://txup.live:80/live/0454713149/6189330030/188540.m3u8
+MEGAPIX HD	http://txup.live:80/live/0454713149/6189330030/188534.m3u8
+LIFETIME HD	http://txup.live:80/live/0454713149/6189330030/188528.m3u8
+FX HD	http://txup.live:80/live/0454713149/6189330030/188522.m3u8
+CINECANAL HD	http://txup.live:80/live/0454713149/6189330030/188504.m3u8
+STAR CHANNEL HD	http://txup.live:80/live/0454713149/6189330030/188498.m3u8
+COMEDY CENTRAL HD	http://txup.live:80/live/0454713149/6189330030/188492.m3u8
+CINEMAX HD	http://txup.live:80/live/0454713149/6189330030/188486.m3u8
+CANAL SONY HD	http://txup.live:80/live/0454713149/6189330030/188480.m3u8
+AXN HD	http://txup.live:80/live/0454713149/6189330030/188474.m3u8
+AMC HD	http://txup.live:80/live/0454713149/6189330030/188468.m3u8
+A&E HD	http://txup.live:80/live/0454713149/6189330030/188462.m3u8
+TELECINE TOUCH HD	http://txup.live:80/live/0454713149/6189330030/188456.m3u8
+TELECINE PREMIUM HD	http://txup.live:80/live/0454713149/6189330030/188450.m3u8
+TELECINE PIPOCA HD	http://txup.live:80/live/0454713149/6189330030/188444.m3u8
+TELECINE FUN HD	http://txup.live:80/live/0454713149/6189330030/188438.m3u8
+TELECINE CULT HD	http://txup.live:80/live/0454713149/6189330030/188432.m3u8
+TELECINE ACTION HD	http://txup.live:80/live/0454713149/6189330030/188426.m3u8
+GLOBO TV VERDES MARES FORTALEZA HD	http://txup.live:80/live/0454713149/6189330030/188421.m3u8
+GLOBO TV TEM SOROCABA HD	http://txup.live:80/live/0454713149/6189330030/188418.m3u8
+GLOBO TV TEM BAURU HD	http://txup.live:80/live/0454713149/6189330030/188417.m3u8
+GLOBO TV RIO SUL HD	http://txup.live:80/live/0454713149/6189330030/188413.m3u8
+GLOBO TV MIRANTE SAO LUIS HD	http://txup.live:80/live/0454713149/6189330030/188411.m3u8
+TV DIARIO FORTALEZA HD	http://txup.live:80/live/0454713149/6189330030/188407.m3u8
+GLOBO TV CABO BRANCO HD	http://txup.live:80/live/0454713149/6189330030/188404.m3u8
+GLOBO TV CENTRO AMERICA HD	http://txup.live:80/live/0454713149/6189330030/188402.m3u8
+GLOBO TV ASA BRANCA HD	http://txup.live:80/live/0454713149/6189330030/188399.m3u8
+GLOBO TV ANHANGUERA GOIANIA HD	http://txup.live:80/live/0454713149/6189330030/188395.m3u8
+GLOBO RPC MARINGA HD	http://txup.live:80/live/0454713149/6189330030/188394.m3u8
+GLOBO TV TEM S. J. DO RIO PRETO HD	http://txup.live:80/live/0454713149/6189330030/188393.m3u8
+GLOBO SERGIPE SD	http://txup.live:80/live/0454713149/6189330030/188391.m3u8
+GLOBO RPC PONTA GROSSA HD	http://txup.live:80/live/0454713149/6189330030/188389.m3u8
+GLOBO RPC FOZ DO IGUACU HD	http://txup.live:80/live/0454713149/6189330030/188386.m3u8
+GLOBO RPC CURITIBA HD	http://txup.live:80/live/0454713149/6189330030/188383.m3u8
+GLOBO TV REDE AMAZONICA MANAUS HD	http://txup.live:80/live/0454713149/6189330030/188381.m3u8
+GLOBO RBS TV SANTA MARIA HD	http://txup.live:80/live/0454713149/6189330030/188377.m3u8
+GLOBO RBS PORTO ALEGRE HD	http://txup.live:80/live/0454713149/6189330030/188371.m3u8
+GLOBO TV REDE AMAZONICA PORTO VELHO HD	http://txup.live:80/live/0454713149/6189330030/188369.m3u8
+GLOBO NSC TV JOINVILLE HD	http://txup.live:80/live/0454713149/6189330030/188368.m3u8
+GLOBO GAZETA VITORIA ES HD	http://txup.live:80/live/0454713149/6189330030/188367.m3u8
+GLOBO TV GAZETA SUL ES HD	http://txup.live:80/live/0454713149/6189330030/188365.m3u8
+GLOBO TV GAZETA DE ALAGOAS HD	http://txup.live:80/live/0454713149/6189330030/188363.m3u8
+GLOBO FLORIANOPOLIS HD	http://txup.live:80/live/0454713149/6189330030/188360.m3u8
+GLOBO NSC TV CHAPECO HD	http://txup.live:80/live/0454713149/6189330030/188358.m3u8
+GLOBO NSC TV BLUMENAL HD	http://txup.live:80/live/0454713149/6189330030/188357.m3u8
+GLOBO NORDESTE HD	http://txup.live:80/live/0454713149/6189330030/188353.m3u8
+GLOBO INTER TV SERRA MAR HD	http://txup.live:80/live/0454713149/6189330030/188347.m3u8
+GLOBO INTER TV GRANDE MINAS HD	http://txup.live:80/live/0454713149/6189330030/188346.m3u8
+GLOBO INTER TV DOS VALES HD	http://txup.live:80/live/0454713149/6189330030/188345.m3u8
+GLOBO INTER TV CABUGI HD	http://txup.live:80/live/0454713149/6189330030/188344.m3u8
+GLOBO EPTV SUL DE MINAS HD	http://txup.live:80/live/0454713149/6189330030/188341.m3u8
+GLOBO EPTV CAMPINAS HD	http://txup.live:80/live/0454713149/6189330030/188334.m3u8
+GLOBO BRASILIA HD	http://txup.live:80/live/0454713149/6189330030/188329.m3u8
+GLOBO BOA VISTA HD	http://txup.live:80/live/0454713149/6189330030/188326.m3u8
+GLOBO BELEM HD	http://txup.live:80/live/0454713149/6189330030/188324.m3u8
+GLOBO BAHIA HD	http://txup.live:80/live/0454713149/6189330030/188318.m3u8
+GLOBO MINAS HD	http://txup.live:80/live/0454713149/6189330030/188313.m3u8
+GLOBO RJ HD	http://txup.live:80/live/0454713149/6189330030/188308.m3u8
+GLOBO SP HD	http://txup.live:80/live/0454713149/6189330030/188302.m3u8
+MAX 1	http://txup.live:80/live/0454713149/6189330030/286681.m3u8
+MAX 2	http://txup.live:80/live/0454713149/6189330030/286682.m3u8
+MAX 3	http://txup.live:80/live/0454713149/6189330030/286683.m3u8
+MAX 4	http://txup.live:80/live/0454713149/6189330030/286684.m3u8
+STAR PLUS 01	http://txup.live:80/live/0454713149/6189330030/286687.m3u8
+STAR PLUS 02	http://txup.live:80/live/0454713149/6189330030/286688.m3u8
+STAR PLUS 03	http://txup.live:80/live/0454713149/6189330030/286689.m3u8
+STAR PLUS 04	http://txup.live:80/live/0454713149/6189330030/286690.m3u8
+PARAMOUNT + 04	http://txup.live:80/live/0454713149/6189330030/298814.m3u8
+PARAMOUNT + 03	http://txup.live:80/live/0454713149/6189330030/298815.m3u8
+PARAMOUNT + 02	http://txup.live:80/live/0454713149/6189330030/298816.m3u8
+PARAMOUNT + 01	http://txup.live:80/live/0454713149/6189330030/298817.m3u8
+Caze TV 01	http://txup.live:80/live/0454713149/6189330030/310708.m3u8
+LNF 02	http://txup.live:80/live/0454713149/6189330030/310709.m3u8
+LNF 01	http://txup.live:80/live/0454713149/6189330030/310710.m3u8
+DAZN1	http://txup.live:80/live/0454713149/6189330030/310716.m3u8
+DAZN2	http://txup.live:80/live/0454713149/6189330030/310717.m3u8
+DAZN3	http://txup.live:80/live/0454713149/6189330030/310718.m3u8
+DAZN4	http://txup.live:80/live/0454713149/6189330030/310719.m3u8
+STAR PLUS 06	http://txup.live:80/live/0454713149/6189330030/310728.m3u8
+STAR PLUS 05	http://txup.live:80/live/0454713149/6189330030/310729.m3u8
+FURACAO LIVE 02	http://txup.live:80/live/0454713149/6189330030/338675.m3u8
+MAX 5	http://txup.live:80/live/0454713149/6189330030/341357.m3u8
+MAX 6	http://txup.live:80/live/0454713149/6189330030/341358.m3u8
+NOSSO FUTEBOL 01	http://txup.live:80/live/0454713149/6189330030/345480.m3u8
+NOSSO FUTEBOL 02	http://txup.live:80/live/0454713149/6189330030/345481.m3u8
+NOSSO FUTEBOL 03	http://txup.live:80/live/0454713149/6189330030/345482.m3u8
+NOSSO FUTEBOL 04	http://txup.live:80/live/0454713149/6189330030/369956.m3u8
+UFC FIGHT PASS 01	http://txup.live:80/live/0454713149/6189330030/345044.m3u8
+UFC FIGHT PASS 02	http://txup.live:80/live/0454713149/6189330030/345045.m3u8
+UFC FIGHT PASS 03	http://txup.live:80/live/0454713149/6189330030/345046.m3u8
+BAND MINAS HD 	http://txup.live:80/live/0454713149/6189330030/299387.m3u8
 ------[Africa]------	http://kmkus.wanicelife.com:8880/live/3ca7223n03/sdf32r323/26641.m3u8
 AF001:1 KZN	http://kmkus.wanicelife.com:8880/live/3ca7223n03/sdf32r323/26640.m3u8
 AF002:1 MAGIC	http://kmkus.wanicelife.com:8880/live/3ca7223n03/sdf32r323/26638.m3u8
