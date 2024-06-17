@@ -4,10 +4,10 @@ ID  PSJ TV	https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
 ID  SpoTV 1	https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-spotv/sa_hls/rcti-spotv.m3u8?c
 ID  Sport 1	https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar/sa_hls/rcti-sportstar.m3u8?c
 ID  Sport 2	https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar2/sa_hls/rcti-sportstar2.m3u8?c
-ID  Sport 4	https://dsgtq5sngxkde.cloudfront.net/live/eds/VplusLiveRplus/sa_hls/VplusLiveRplus.m3u8?c
-Sky Sports 251	https://linear311-it-dash1-prd-akp2.cdn13.skycdp.com/31917/FHD/skysport251/master.mpd``00368000eaecbeeafd84c05b3b8243af:8f84185910e18ae0ca8a45004625a000
-TV 2 Sport 1	https://aws-appeartv-cdn.rikstv.no/rikstv/1/11/dash/TV2_HD/manifest.mpd``bfb0134de69d76d25b5b4b202df11431:025915bd3062c4bde44a13916c5bfefe
+ID  Sport 4 Euro	https://dsgtq5sngxkde.cloudfront.net/live/eds/VplusLiveRplus/sa_hls/VplusLiveRplus.m3u8?c
+Sky Sports 251 Euro	https://linear311-it-dash1-prd-akp2.cdn13.skycdp.com/31917/FHD/skysport251/master.mpd``00368000eaecbeeafd84c05b3b8243af:8f84185910e18ae0ca8a45004625a000
 ID  RCTI	https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-2/sa_hls/rcti-2.m3u8?c
+TV 2 Sport 1	https://aws-appeartv-cdn.rikstv.no/rikstv/1/11/dash/TV2_HD/manifest.mpd``bfb0134de69d76d25b5b4b202df11431:025915bd3062c4bde44a13916c5bfefe
 SG  MeWatch 5	https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd``607b7d22565c4bc3b95ff6c33ce65425:28cc5367df666c44be4382e64af64d57
 CCTV 4	https://op-group1-swiftservesd-1.dens.tv/s/s19/index.m3u8
 CCTV 5	https://cors-proxy.elfsight.com/https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
