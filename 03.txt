@@ -5,10 +5,10 @@ AR  beIN Sports 4 Euro	01`03d1829.m3u8
 AR  beIN Sports 5	01`03d1830.m3u8
 AR  beIN Sports 6	01`03d1831.m3u8
 AR  beIN Sports 7	01`03d1832.m3u8
-ID. Moji	01`03c4.m3u8?c
-ID. Indosiar	01`03c228.m3u8?c
-US  Fox 502	01`03d1876.m3u8
-US  Fox 504	01`03d1877.m3u8
+ID. Moji	01`03c4.m3u8?2
+ID. Indosiar	01`03c228.m3u8?2
+US  Fox 502	01`03d1876.m3u8?2
+US  Fox 504	01`03d1877.m3u8?2
 ------|USA|------	http://a.b/c
 US001:A&E HD	00`d003167.m3u8
 US002:ABC HD	00`d003166.m3u8
