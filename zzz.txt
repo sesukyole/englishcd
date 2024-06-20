@@ -2,6 +2,21 @@ Moji	http://103.155.250.139:25461/live/v3/Ub5dHa4TJp/4.m3u8?2
 Indosiar	http://103.155.250.139:25461/live/v3/Ub5dHa4TJp/228.m3u8?2
 FOX 502	http://iptvkita.my.id:25461/live/direct/hometv/1876.m3u8?2
 FOX 504	http://iptvkita.my.id:25461/live/direct/hometv/1877.m3u8?2
+JP  100%! Space Shower Plus	https://dev.freemiumiptv.top/gdp/jptv/4217466D581B24A23E02E2CA2E806587.m3u8?token=MkpVRmp0S3BTdGdEV1BXaHM0dVgrcXcxWkdyMHpiMWZzOUdIM2JSbDBCWWs4VlVMWkdMeVo0UDFsMGR1WGIvSzo63b66FncLRmAtl6xY69E1LQ%3D%3D
+MY  8TV (G!)	https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/live.isml/4.m3u8
+TR  A Spor	https://bozztv.com/inim03/live1/aspor/playlist.m3u8
+PK  A Sports (t)	https://rek.freemiumiptv.top/gdp/live/asport/index.m3u8?token=MkpVRmp0S3BTdGdEV1BXaHM0dVgrcXcxWkdyMHpiMWZzOUdIM2JSbDBCWWs4VlVMWkdMeVo0UDFsMGR1WGIvSzo63b66FncLRmAtl6xY69E1LQ%3D%3D
+AU  ABC News	https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+US  ABC News	https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+US  ABC TV (t)	https://rek.freemiumiptv.top/gdp/dd/premium51.m3u8?token=MkpVRmp0S3BTdGdEV1BXaHM0dVgrcXcxWkdyMHpiMWZzOUdIM2JSbDBCWWs4VlVMWkdMeVo0UDFsMGR1WGIvSzo63b66FncLRmAtl6xY69E1LQ%3D%3D
+JP  ABC TV	https://dev.freemiumiptv.top/gdp/jptv/1B654512DD750F6850C9EC6996D2C015.m3u8?token=MkpVRmp0S3BTdGdEV1BXaHM0dVgrcXcxWkdyMHpiMWZzOUdIM2JSbDBCWWs4VlVMWkdMeVo0UDFsMGR1WGIvSzo63b66FncLRmAtl6xY69E1LQ%3D%3D
+KR  ABN TV	https://vod2.abn.co.kr/IPHONE/abn.m3u8
+IN  ABN Telugu	https://dev.freemiumiptv.top/gdp/yt/UC_2irx_BQR7RsBKmUV9fePQ.m3u8?token=MkpVRmp0S3BTdGdEV1BXaHM0dVgrcXcxWkdyMHpiMWZzOUdIM2JSbDBCWWs4VlVMWkdMeVo0UDFsMGR1WGIvSzo63b66FncLRmAtl6xY69E1LQ%3D%3D
+JP  ANN News	https://dev.freemiumiptv.top/gdp/yt/UCGCZAYq5Xxojl_tSXcVJhiQ.m3u8?token=MkpVRmp0S3BTdGdEV1BXaHM0dVgrcXcxWkdyMHpiMWZzOUdIM2JSbDBCWWs4VlVMWkdMeVo0UDFsMGR1WGIvSzo63b66FncLRmAtl6xY69E1LQ%3D%3D
+PK  ARY News	https://dev.freemiumiptv.top/gdp/yt/UCMmpLL2ucRHAXbNHiCPyIyg.m3u8?token=MkpVRmp0S3BTdGdEV1BXaHM0dVgrcXcxWkdyMHpiMWZzOUdIM2JSbDBCWWs4VlVMWkdMeVo0UDFsMGR1WGIvSzo63b66FncLRmAtl6xY69E1LQ%3D%3D
+JP  AT-X TV	https://dev.freemiumiptv.top/gdp/jptv/37193BC4C9A3EDD57B8AAFE4D3CA767D.m3u8?token=MkpVRmp0S3BTdGdEV1BXaHM0dVgrcXcxWkdyMHpiMWZzOUdIM2JSbDBCWWs4VlVMWkdMeVo0UDFsMGR1WGIvSzo63b66FncLRmAtl6xY69E1LQ%3D%3D
+JP  AXN Mystery	https://dev.freemiumiptv.top/gdp/jptv/6A37EF7E3CD3A116913C00F43BCDFE31.m3u8?token=MkpVRmp0S3BTdGdEV1BXaHM0dVgrcXcxWkdyMHpiMWZzOUdIM2JSbDBCWWs4VlVMWkdMeVo0UDFsMGR1WGIvSzo63b66FncLRmAtl6xY69E1LQ%3D%3D
+ID  AXN TV	https://dev.freemiumiptv.top/mnclokal/live/eds/AXN/sa_dash_vmx/AXN.mpd__w@https://dev.freemiumiptv.top/gdp/mncwidevine/?token=SDdSVkNhaTdONS85VFRadVJUN2hyQ3BsY0VwK3pIN2NZbURnc3h1NGdUajJHTTFOSjVaZ2twQ2hDbDFGK1NETDo6QPDJsBFyDRCoR%2B5RJW4GUQ%3D%3D
 007: NOVA GERACAO	http://txup.live:80/live/0454713149/6189330030/934070.m3u8
 007: RETRO	http://txup.live:80/live/0454713149/6189330030/934071.m3u8
 A ERA DO GELO	http://txup.live:80/live/0454713149/6189330030/934082.m3u8
