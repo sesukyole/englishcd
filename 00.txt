@@ -10,9 +10,9 @@ IT  Rai 1 Euro	https://da-d436236920010b8800010303000000000000000b.id.cdn.upcbro
 IT  Rai 2 Euro	https://da-d436236920010b8800010303000000000000000b.id.cdn.upcbroadband.com/wp/wp1-obc1112-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV09103/manifest.mpd``8398533768ae49be862f458edc78f828:609273c26c31a4090310e3945c0db5df
 TV 2 Sport 1 Euro	https://aws-appeartv-cdn.rikstv.no/rikstv/1/11/dash/TV2_HD/manifest.mpd``bfb0134de69d76d25b5b4b202df11431:025915bd3062c4bde44a13916c5bfefe
 CCTV 5 Euro	https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
-RU  Match! Euro	https://corsanywhere-jqogydb25a-uc.a.run.app/https://video.beeline.tv/live/d/channel317.isml/manifest-stb.mpd``5e1c798b16d24dc8cbfc7819abf77b4d:4ba5d9aeba2239b425d1cf7b45474333
-QAZ Sport Euro	https://corsanywhere-jqogydb25a-uc.a.run.app/https://bkm.beetv.kz/btv/live/hls/000003038.m3u8
-Persiana Sport	https://persianasport.mastercast.cloud/memfs/ae5f15e4-63eb-48b3-a0b4-5346c34a8f37.m3u8
+QAZ Sport Euro	https://cors-proxy.cooks.fyi/https://bkm.beetv.kz/btv/live/hls/000003038.m3u8
+QAZ Sport Premium	https://gameslive.akamaized.net/hls/live-97eee134-2b19-4781-b794-04d3490229e4_720p2800kbs/index.m3u8
+MY  TV Okey	https://cors-proxy.cooks.fyi/https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 ID  Sports 1	01`00a133/beib1/index.m3u8?c
 ID  Sports 3	01`00a133/beib2/index.m3u8?c
 ID  PSJ TV	https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
@@ -97,6 +97,20 @@ Arena Sport 4	https://webtvstream.bhtelecom.ba/hls6/arena4.mpd``c18b6aa739be4c0b
 Arena Sport 5	https://webtvstream.bhtelecom.ba/hls6/arena5.mpd``c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 Arena Sport 6	https://webtvstream.bhtelecom.ba/hls6/arena6.mpd``c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 Arena Fight	https://webtvstream.bhtelecom.ba/hls6/arena_fight.mpd``c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+PT  Eleven Pro League 2	https://cors-proxy.cooks.fyi/https://tvvvideolive3.solocoo.tv:443/blueskytvvlive7dash/blueelevenproleague2nl/Manifest.mpd``16251e842a834570a8c5a34d45a0d64d:b7243739698cad0d58af01f142d13eae
+PT  Eleven Pro League 3	https://cors-proxy.cooks.fyi/https://tvvvideolive3.solocoo.tv:443/blueskytvvlive7dash/blueelevenproleague3nl/Manifest.mpd``c6455c5a1ad1484fa4029ba498659838:4329fb08c3444a8ae9b3c477efe11002
+V Sport Premium	https://cors-proxy.cooks.fyi/https://director.streaming.telia.com/tvm-packager-prod/group1/60896c3647a23d7f115cd57a/manifest.mpd``eab13e69793756eda77d8d71fda90d5d:cd022e9bffa6a0d1523ee5d9fcda9ed4
+V Sport Ultra HD	https://cors-proxy.cooks.fyi/https://director.streaming.telia.com/tvm-packager-prod/group3/60b76e87baa9d5ddc9262457/manifest.mpd``c02b1c0a644d5aa4b7176ae585c572dc:5a7799ea89ea65e3bac9a10684e616bc
+V Sport Extra	https://cors-proxy.cooks.fyi/https://director.streaming.telia.com/tvm-packager-prod/group3/60ae4f5e1522bd739f6959a1/manifest.mpd``bc972382f04c531983b7aab6bf642ad8:ddfd212680eb891b755610eac5becf85
+V Sport 1	https://cors-proxy.cooks.fyi/https://director.streaming.telia.com/tvm-packager-prod/group1/6089c17d47a23d76645ceaf4/manifest.mpd``04c5eaf62cd75f2d947ab4d621f39256:76967598962e7a7314a2b251e9070725
+TV4 Sportkanalen	https://cors-proxy.cooks.fyi/https://director.streaming.telia.com/tvm-packager-prod/group3/60ae4bff1522bd2d466954df/manifest.mpd``a9e0ecea640959c6aec904a1f34934a5:284ea8e5fa0de4bc90c17c21148dbdea
+TV4 Sport Live 1	https://cors-proxy.cooks.fyi/https://director.streaming.telia.com/tvm-packager-prod/group1/60896cc147a23d68775cd5c3/manifest.mpd``d094d1401faa5cd29cfb361274629aad:793d3bf7e16e9300c0298fb2b3ba6f68
+TV4 Sport Live 2	https://cors-proxy.cooks.fyi/https://director.streaming.telia.com/tvm-packager-prod/group1/60896d1247a23dae065cd5f4/manifest.mpd``d7a1fb185df6505fbc8b63df59c31f55:368257ec8b55026bc42e2de5b60aa737
+TV4 Sport Live 3	https://cors-proxy.cooks.fyi/https://director.streaming.telia.com/tvm-packager-prod/group1/60896d3547a23d6bbd5cd609/manifest.mpd``90397fef042351ec88035875ada6d1dd:6edb6ccecf50362a74d647e6ea285365
+TV4 Sport Live 4	https://cors-proxy.cooks.fyi/https://director.streaming.telia.com/tvm-packager-prod/group1/60896d5647a23d19495cd627/manifest.mpd``99c9c1d2eff15da09b1b64ed16a17a84:6f7174c7e2d5e07fff7ba012e2e94956
+RU  Match! Sport Arena	https://cors-proxy.cooks.fyi/https://video.beeline.tv/live/d/channel512.isml/manifest-stb.mpd``9839b170b4fc384f243bffd8929b71a2:34cdd6f3e1bf6a9f9d54e9165abf8c09
+HU  Match 4	https://cors-proxy.cooks.fyi/https://m7huvideolive.solocoo.tv/blueskylive2dash/bluedigisport1hu/Manifest.mpd``36d6377bb94b43a58af1c415ac686f4b:82fcba8160b4f88948cd3268bb330dbf
+Ziggo Sport Golf	https://cors-proxy.cooks.fyi/https://cdsvideolive3.solocoo.tv/blueskycdslive7dash/blueziggosportgolf/Manifest.mpd``bb4b78ef397646e3ae5f13bdb23d56ed:c1247a942c7126443a93214c67431fe8
 ES  beIN Sports Xtra	https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
 ES  Real Madrid ENG	https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
 ES  Real Madrid ESP	https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
@@ -137,7 +151,6 @@ SSC Sport Extra 1	https://ssc-extra1-ak.akamaized.net/out/v1/647c58693f1d46af92b
 SSC Sport Extra 2	https://ssc-extra2-ak.akamaized.net/out/v1/8b70de2b70d447ba8a7450ba90926a2d/index.mpd``4d89249bd4ca4ebc9e70443265f9507d:cf074ffd2646c9c2f8513b47fa57bc30
 SSC Sport Extra 3	https://ssc-extra3-ak.akamaized.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/index.mpd``98cfd6fd4812497fb24dc75f7545f2ee:d3006ee69e77b25939728ebf30d3180a
 SSC News	https://ssc-news-live-ak.akamaized.net/out/v1/ef466f43623c4bbaa3f905b566ec35ea/index.mpd``3d04975236a44f62857d181597705ee6:362133e9cb13189ad4fe095ced216f60
-QAZ Sport Premium	https://gameslive.akamaized.net/hls/live-97eee134-2b19-4781-b794-04d3490229e4_720p2800kbs/index.m3u8
 ETB 1	https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
 DAZN F1	https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/cqbcvgkb83/out/v1/4dbe05ecfb1540448d82d68eeebfbb1c/cenc.mpd``1061be12d303247426ec25e8369b2647:bd622b0e610295de3b0bccb850ccaaaa
 Redbull TV	https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
@@ -237,8 +250,9 @@ UCL Infinity 6	https://live03p-seg.msf.cdn.mediaset.net/live/ch-u6/u6-dash-widev
 CCTV 5+	https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 CCTV 16	https://node1.olelive.com:6443/live/CCTV16HD/hls.m3u8
 T Sports 7	https://cors-proxy.elfsight.com/https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0129/HLS/B0129.m3u8
-Setanta Sports 1	https://corsanywhere-jqogydb25a-uc.a.run.app/https://bkm.beetv.kz/btv/live/hls/000006998.m3u8
-Setanta Sports 2	https://corsanywhere-jqogydb25a-uc.a.run.app/https://bkm.beetv.kz/btv/live/hls/000006899.m3u8
+Setanta Sports 1	https://cors-proxy.cooks.fyi/https://bkm.beetv.kz/btv/live/hls/000006998.m3u8
+Setanta Sports 2	https://cors-proxy.cooks.fyi/https://bkm.beetv.kz/btv/live/hls/000006899.m3u8
+Persiana Sport	https://persianasport.mastercast.cloud/memfs/ae5f15e4-63eb-48b3-a0b4-5346c34a8f37.m3u8
 TH  Football 1	https://cors-proxy.elfsight.com/https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL001/HLS/TL001.m3u8
 TH  Football 2	https://cors-proxy.elfsight.com/https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL002/HLS/TL002.m3u8
 TH  Football 3	https://cors-proxy.elfsight.com/https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL003/HLS/TL003.m3u8
@@ -267,21 +281,7 @@ beIN Sports 5	https://cors-proxy.elfsight.com/https://49-231-36-188-rewriter.ais
 beIN Sports 6	https://cors-proxy.elfsight.com/https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0006/DASH/S0006.mpd``ceac4607562049abb9d1b0309d9cd6f3:d396d277a364fab00d0193d25b700847
 beIN Sports 7	https://cors-proxy.elfsight.com/https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0007/DASH/S0007.mpd``94a28a75b3891e92a97efbe76f941095:7b39cd0e318ee481b98c36a125c540fb
 RTHK Channel 32	https://cors-proxy.elfsight.com/https://rthktv32-vos-live.akamaized.net/Content/HLS/Live/channel(rthk_ch32)/index.m3u8
-MY  TV Okey	https://cors-proxy.cooks.fyi/https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
-PT  Eleven Pro League 2	https://cors-proxy.cooks.fyi/https://tvvvideolive3.solocoo.tv:443/blueskytvvlive7dash/blueelevenproleague2nl/Manifest.mpd``16251e842a834570a8c5a34d45a0d64d:b7243739698cad0d58af01f142d13eae
-PT  Eleven Pro League 3	https://cors-proxy.cooks.fyi/https://tvvvideolive3.solocoo.tv:443/blueskytvvlive7dash/blueelevenproleague3nl/Manifest.mpd``c6455c5a1ad1484fa4029ba498659838:4329fb08c3444a8ae9b3c477efe11002
-V Sport Premium	https://cors-proxy.cooks.fyi/https://director.streaming.telia.com/tvm-packager-prod/group1/60896c3647a23d7f115cd57a/manifest.mpd``eab13e69793756eda77d8d71fda90d5d:cd022e9bffa6a0d1523ee5d9fcda9ed4
-V Sport Ultra HD	https://cors-proxy.cooks.fyi/https://director.streaming.telia.com/tvm-packager-prod/group3/60b76e87baa9d5ddc9262457/manifest.mpd``c02b1c0a644d5aa4b7176ae585c572dc:5a7799ea89ea65e3bac9a10684e616bc
-V Sport Extra	https://cors-proxy.cooks.fyi/https://director.streaming.telia.com/tvm-packager-prod/group3/60ae4f5e1522bd739f6959a1/manifest.mpd``bc972382f04c531983b7aab6bf642ad8:ddfd212680eb891b755610eac5becf85
-V Sport 1	https://cors-proxy.cooks.fyi/https://director.streaming.telia.com/tvm-packager-prod/group1/6089c17d47a23d76645ceaf4/manifest.mpd``04c5eaf62cd75f2d947ab4d621f39256:76967598962e7a7314a2b251e9070725
-TV4 Sportkanalen	https://cors-proxy.cooks.fyi/https://director.streaming.telia.com/tvm-packager-prod/group3/60ae4bff1522bd2d466954df/manifest.mpd``a9e0ecea640959c6aec904a1f34934a5:284ea8e5fa0de4bc90c17c21148dbdea
-TV4 Sport Live 1	https://cors-proxy.cooks.fyi/https://director.streaming.telia.com/tvm-packager-prod/group1/60896cc147a23d68775cd5c3/manifest.mpd``d094d1401faa5cd29cfb361274629aad:793d3bf7e16e9300c0298fb2b3ba6f68
-TV4 Sport Live 2	https://cors-proxy.cooks.fyi/https://director.streaming.telia.com/tvm-packager-prod/group1/60896d1247a23dae065cd5f4/manifest.mpd``d7a1fb185df6505fbc8b63df59c31f55:368257ec8b55026bc42e2de5b60aa737
-TV4 Sport Live 3	https://cors-proxy.cooks.fyi/https://director.streaming.telia.com/tvm-packager-prod/group1/60896d3547a23d6bbd5cd609/manifest.mpd``90397fef042351ec88035875ada6d1dd:6edb6ccecf50362a74d647e6ea285365
-TV4 Sport Live 4	https://cors-proxy.cooks.fyi/https://director.streaming.telia.com/tvm-packager-prod/group1/60896d5647a23d19495cd627/manifest.mpd``99c9c1d2eff15da09b1b64ed16a17a84:6f7174c7e2d5e07fff7ba012e2e94956
-RU  Match! Sport Arena	https://cors-proxy.cooks.fyi/https://video.beeline.tv/live/d/channel512.isml/manifest-stb.mpd``9839b170b4fc384f243bffd8929b71a2:34cdd6f3e1bf6a9f9d54e9165abf8c09
-HU  Match 4	https://cors-proxy.cooks.fyi/https://m7huvideolive.solocoo.tv/blueskylive2dash/bluedigisport1hu/Manifest.mpd``36d6377bb94b43a58af1c415ac686f4b:82fcba8160b4f88948cd3268bb330dbf
-Ziggo Sport Golf	https://cors-proxy.cooks.fyi/https://cdsvideolive3.solocoo.tv/blueskycdslive7dash/blueziggosportgolf/Manifest.mpd``bb4b78ef397646e3ae5f13bdb23d56ed:c1247a942c7126443a93214c67431fe8
+RU  Match! Euro	https://video.beeline.tv/live/d/channel317.isml/manifest-stb.mpd``5e1c798b16d24dc8cbfc7819abf77b4d:4ba5d9aeba2239b425d1cf7b45474333
 UK  ViaPlay Premier League	https://cors-proxy.mcjeffr.com/https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/vssp/vssp.isml/index.mpd``d8d0506523d95fc082d6caef60e84979:69992fd2d7b9211d41ecc2243803e87c
 UK  ViaPlay Sport 1	https://cors-proxy.mcjeffr.com/https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/vpsports1uk/vpsports1uk.isml/index.mpd``4d4ace310f235981bef56897fe94e766:06383cd4cdcc92bb3e83d8ea49245472
 UK  ViaPlay Sport 2	https://cors-proxy.mcjeffr.com/https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/vpsports2uk/vpsports2uk.isml/index.mpd``6fe6d9cf50835945881cb56a38839fce:213ad868126fd2cb352b189b07b25421
@@ -438,3 +438,4 @@ DAZN Eleven 3	01`01a5601`01b
 DAZN Eleven 4	01`01a5701`01b
 DAZN Eleven 5	01`01a5801`01b
 DAZN Eleven 6	01`01a5901`01b
+CN  Euro Live	https://lebo.huminbird.cn/live/ballbar_22420.m3u8
