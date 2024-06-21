@@ -1,4 +1,4 @@
-------[Africa]------	00`06alive00`06b26641.m3u8
+------[Africa]------	http://a.b/c
 AF001:1 KZN	00`06alive00`06b26640.m3u8
 AF002:1 MAGIC	00`06alive00`06b26638.m3u8
 AF003:2STV	00`06alive00`06b26635.m3u8
@@ -164,7 +164,7 @@ AF162:RTI 1	00`06alive00`06b60759.m3u8
 AF163:RTI 2	00`06alive00`06b60760.m3u8
 AF164:SABC 1	00`06alive00`06b60761.m3u8
 AF165:SABC 2	00`06alive00`06b60762.m3u8
-------[South Africa]------	00`06alive00`06b60507.m3u8
+------[South Africa]------	http://a.b/c
 ZA001:BBC World News	00`06alive00`06b60508.m3u8
 ZA002:Business	00`06alive00`06b60509.m3u8
 ZA003:DW	00`06alive00`06b60510.m3u8
@@ -187,7 +187,7 @@ ZA075:SuperSport Football	00`06alive00`06b60582.m3u8
 ZA076:SuperSport Rugby	00`06alive00`06b60583.m3u8
 ZA077:Supersport Blitz	00`06alive00`06b60584.m3u8
 ZA078:SuperSport MáXimo	00`06alive00`06b60585.m3u8
-------[Arab Netflix]------	00`06alive00`06b60289.m3u8
+------[Arab Netflix]------	http://a.b/c
 ARNF001:Netflix Animation	00`06alive00`06b60464.m3u8
 ARNF002:Netflix Arabic 1	00`06alive00`06b60409.m3u8
 ARNF003:Netflix Arabic 2	00`06alive00`06b60475.m3u8
@@ -208,7 +208,7 @@ ARNF012:Netflix Comedy 2	00`06alive00`06b60479.m3u8
 ARNF013:Netflix Crime 1	00`06alive00`06b60480.m3u8
 ARNF019:Netflix Masrahiyat 1	00`06alive00`06b60481.m3u8
 ARNF020:Netflix Masrahiyat 2	00`06alive00`06b60482.m3u8
-------[Arabic-BeIN]------	00`06alive00`06b2142.m3u8
+------[Arabic-BeIN]------	http://a.b/c
 BN001:BeIN Sport News	00`06alive00`06b2141.m3u8
 BN002:BeIN Sport 1 HD	00`06alive00`06b2140.m3u8
 BN003:BeIN Sport 2 HD	00`06alive00`06b2139.m3u8
@@ -244,7 +244,7 @@ BN036:Bein Sports Max 2	00`06alive00`06b59263.m3u8
 BN037:Bein Sports Max 3	00`06alive00`06b59262.m3u8
 BN038:Bein Sports Max 4	00`06alive00`06b59261.m3u8
 BN039:Bein Sports Max 5	00`06alive00`06b59260.m3u8
-------[Arabic-News]------	00`06alive00`06b1990.m3u8
+------[Arabic-News]------	http://a.b/c
 NS001:AL Arabiya	00`06alive00`06b1989.m3u8
 NS002:AL Hadath News	00`06alive00`06b1988.m3u8
 NS003:AL Jazeera Arabic	00`06alive00`06b1987.m3u8
@@ -263,7 +263,7 @@ NS019:AL Sharqiya News	00`06alive00`06b1971.m3u8
 NS020:Orient News	00`06alive00`06b1970.m3u8
 NS021:Syria Ikhbariya News	00`06alive00`06b1969.m3u8
 NS023:Nile News	00`06alive00`06b1967.m3u8
-------[Arabic-Kids]------	00`06alive00`06b2071.m3u8
+------[Arabic-Kids]------	http://a.b/c
 KS001:Ajyal TV	00`06alive00`06b2070.m3u8
 KS002:Cartoon Network	00`06alive00`06b2069.m3u8
 KS003:Karameesh	00`06alive00`06b2068.m3u8
@@ -272,7 +272,7 @@ KS009:SAT7 Kids	00`06alive00`06b2062.m3u8
 KS010:SemSem	00`06alive00`06b2061.m3u8
 KS011:Space Toon	00`06alive00`06b2060.m3u8
 KS012:Taha	00`06alive00`06b2059.m3u8
-------[Arabic-MBC]------	00`06alive00`06b2084.m3u8
+------[Arabic-MBC]------	http://a.b/c
 MBC001:MBC 1	00`06alive00`06b2083.m3u8
 MBC002:MBC 2	00`06alive00`06b2082.m3u8
 MBC003:MBC 3	00`06alive00`06b2081.m3u8
@@ -285,7 +285,7 @@ MBC009:MASR 1	00`06alive00`06b2075.m3u8
 MBC010:MASR 2	00`06alive00`06b2074.m3u8
 MBC011:MAX	00`06alive00`06b2073.m3u8
 MBC012:Variety	00`06alive00`06b2072.m3u8
-------[Arabic-OSN]------	00`06alive00`06b2173.m3u8
+------[Arabic-OSN]------	http://a.b/c
 OSN001:ART AFLAM 1	00`06alive00`06b2172.m3u8
 OSN002:ART AFLAM 2	00`06alive00`06b2171.m3u8
 OSN003:ART CINEMA	00`06alive00`06b2170.m3u8
@@ -323,7 +323,7 @@ OSN034:MOONBUG KIDS	00`06alive00`06b69413.m3u8
 OSN035:Music Now	00`06alive00`06b69414.m3u8
 OSN036:NEWS	00`06alive00`06b69415.m3u8
 OSN037:W	00`06alive00`06b69416.m3u8
-------[Arabic-Sports]------	00`06alive00`06b2100.m3u8
+------[Arabic-Sports]------	http://a.b/c
 ST001:Abu Dhabi Sport 1	00`06alive00`06b2099.m3u8
 ST002:Abu Dhabi Sport 2	00`06alive00`06b2098.m3u8
 ST003:Alkass 1	00`06alive00`06b2097.m3u8
@@ -344,7 +344,7 @@ AC480:SSC Sports 4	00`06alive00`06b27438.m3u8
 AC481:SSC Sports 5	00`06alive00`06b27437.m3u8
 AC483:SSC Sports 6	00`06alive00`06b27435.m3u8
 AC488:SSC Sports 7	00`06alive00`06b27430.m3u8
-------[Arabic-general]------	00`06alive00`06b2320.m3u8
+------[Arabic-general]------	http://a.b/c
 AC001:Rotana Aflam	00`06alive00`06b2319.m3u8
 AC002:Rotana Cinema	00`06alive00`06b2318.m3u8
 AC003:Rotana Classic	00`06alive00`06b2317.m3u8
@@ -732,12 +732,12 @@ AC269:HALA HD (PSE)	00`06alive00`06b27649.m3u8
 AC531:MUSAWA TV (PSE)	00`06alive00`06b27387.m3u8
 AC532:Palestine News (PSE)	00`06alive00`06b27386.m3u8
 AC534:Palestine TV (PSE)	00`06alive00`06b27384.m3u8
-------[Arabic-Dhabi]------	00`06alive00`06b27633.m3u8
+------[Arabic-Dhabi]------	http://a.b/c
 AC027:Abu Dhabi AL Emarat	00`06alive00`06b2292.m3u8
 AC028:Abu Dhabi Drama	00`06alive00`06b2291.m3u8
 AC029:Abu Dhabi TV	00`06alive00`06b2290.m3u8
 AC150:AL Naeem	00`06alive00`06b27768.m3u8
-------[Arabic-Dubai]------	00`06alive00`06b27557.m3u8
+------[Arabic-Dubai]------	http://a.b/c
 AC097:Dubai Sports	00`06alive00`06b2222.m3u8
 AC127:Dubai Noor	00`06alive00`06b2193.m3u8
 AC128:Dhabi AL Emarat	00`06alive00`06b2192.m3u8
@@ -759,7 +759,7 @@ AC400:DUBAI SPORT 4 HD	00`06alive00`06b27518.m3u8
 AC403:Dubai Racing 3 HD	00`06alive00`06b27515.m3u8
 AC517:Noor Dubai	00`06alive00`06b27401.m3u8
 AC550:Sama Dubai HD	00`06alive00`06b27368.m3u8
-------[Arabic-Lebanon]------	00`06alive00`06b27556.m3u8
+------[Arabic-Lebanon]------	http://a.b/c
 AC036:Lebanon LBC	00`06alive00`06b2283.m3u8
 AC102:Lebanon LDC	00`06alive00`06b2217.m3u8
 AC111:Lebanon Future	00`06alive00`06b2209.m3u8
@@ -773,7 +773,7 @@ AC146:Lebanon Arabica TV	00`06alive00`06b2174.m3u8
 AC296:AlJadeed (LEB)	00`06alive00`06b27622.m3u8
 AC307:AL Manar	00`06alive00`06b27611.m3u8
 AC273:Alaan TV Lebanon	00`06alive00`06b27645.m3u8
-------[Arabic-Moroc]------	00`06alive00`06b27555.m3u8
+------[Arabic-Moroc]------	http://a.b/c
 AC118: 2M (Moroc)	00`06alive00`06b2202.m3u8
 AC119: maghribia el-Ekhbaria (Moroc)	00`06alive00`06b2201.m3u8
 AC120: Medi 1 Sat (Moroc)	00`06alive00`06b2200.m3u8
@@ -787,7 +787,7 @@ AC322:Chada (Moroc)	00`06alive00`06b27596.m3u8
 AC426:Aoula (Moroc)	00`06alive00`06b27492.m3u8
 AC525:Canal Atlas (Moroc)	00`06alive00`06b27393.m3u8
 AC547:Aflam TV 7 HD (Moroc)	00`06alive00`06b27371.m3u8
-------[Arabic-Saudi]------	00`06alive00`06b27558.m3u8
+------[Arabic-Saudi]------	http://a.b/c
 AC101:KSA SPORT 2	00`06alive00`06b2218.m3u8
 AC162:Saudi 2 TV	00`06alive00`06b27756.m3u8
 AC163:Saudi 1 TV	00`06alive00`06b27755.m3u8
@@ -797,14 +797,14 @@ AC432:Saudi News	00`06alive00`06b27486.m3u8
 AC462:SAUDI AL HAJ	00`06alive00`06b27456.m3u8
 AC495:Saudi 24	00`06alive00`06b27423.m3u8
 AC533:Melody Hits	00`06alive00`06b27385.m3u8
-------[Arabic-Kuwait]------	00`06alive00`06b27686.m3u8
+------[Arabic-Kuwait]------	http://a.b/c
 AC065:Kuwait AL Arabi	00`06alive00`06b2254.m3u8
 AC066:Kuwait AL Majlis	00`06alive00`06b2253.m3u8
 AC464:Kuwait Ethraa HD	00`06alive00`06b27454.m3u8
 AC465:Kuwait TV Sport Plus	00`06alive00`06b27453.m3u8
 AC516:Kuwait Qurain HD	00`06alive00`06b27402.m3u8
 AC593:Kuwait Ethraa	00`06alive00`06b65905.m3u8
-------[Arabic-Algerien]------	00`06alive00`06b2014.m3u8
+------[Arabic-Algerien]------	http://a.b/c
 AN001:Algerie 4	00`06alive00`06b2013.m3u8
 AN002:Algerie 2	00`06alive00`06b2012.m3u8
 AN003:Algerie 3	00`06alive00`06b2011.m3u8
@@ -836,7 +836,7 @@ AN032:Echourouk News	00`06alive00`06b27551.m3u8
 AN033:AL HADEF	00`06alive00`06b27502.m3u8
 AN034:KBC	00`06alive00`06b27429.m3u8
 AC314:AL NAHAR DRAMA	00`06alive00`06b27604.m3u8
-------[Arabic-Iraq]------	00`06alive00`06b2041.m3u8
+------[Arabic-Iraq]------	http://a.b/c
 IQ002:Aghani	00`06alive00`06b2039.m3u8
 IQ003:AL Anwar TV	00`06alive00`06b2038.m3u8
 IQ004:MBC IQ	00`06alive00`06b2037.m3u8
@@ -862,7 +862,7 @@ IQ023:Samarra	00`06alive00`06b2018.m3u8
 IQ024:NRT	00`06alive00`06b2017.m3u8
 AC337:EDU (Iraq)	00`06alive00`06b27581.m3u8
 AC447:Sport (Iraq)	00`06alive00`06b27471.m3u8
-------[Arabic-Islamic]------	00`06alive00`06b2056.m3u8
+------[Arabic-Islamic]------	http://a.b/c
 IC001:AL afasy	00`06alive00`06b2055.m3u8
 IC002:Azhari	00`06alive00`06b2054.m3u8
 IC003:Albasira Islamic	00`06alive00`06b2053.m3u8
@@ -880,7 +880,7 @@ AC319:Ahel Alquran (Islamic)	00`06alive00`06b27599.m3u8
 AC348:Azhari TV	00`06alive00`06b27570.m3u8
 AC536:Alafasy (Islamic)	00`06alive00`06b27382.m3u8
 AC537:ZAD TV (Islamic)	00`06alive00`06b27381.m3u8
-------[Arabic-Tunisie]------	00`06alive00`06b2114.m3u8
+------[Arabic-Tunisie]------	http://a.b/c
 TE001:Al majd	00`06alive00`06b2113.m3u8
 TE003:janoubia	00`06alive00`06b2111.m3u8
 TE004:Zaytouna	00`06alive00`06b2110.m3u8
@@ -896,7 +896,7 @@ AC332:Bahrain INT	00`06alive00`06b27586.m3u8
 AC056:AL Wataniya 1  (Tunisie)	00`06alive00`06b2263.m3u8
 AC069:AL Wataniya 2 (Tunisie)	00`06alive00`06b2250.m3u8
 AC293:Teveza  (Tunisie)	00`06alive00`06b27625.m3u8
-------[Arab Egypt]------	00`06alive00`06b65932.m3u8
+------[Arab Egypt]------	http://a.b/c
 AC518:Egyptian TV (Egypt)	00`06alive00`06b27400.m3u8
 AC557:AL Masriya (Egypt)	00`06alive00`06b65856.m3u8
 AC558:AL ANIS (Egypt)	00`06alive00`06b65859.m3u8
@@ -922,8 +922,8 @@ AC604:Huda TV (Egypt)	00`06alive00`06b65920.m3u8
 AC606:Outdoor	00`06alive00`06b65923.m3u8
 AC610:Star Cinema 2 HD (Egypt)	00`06alive00`06b65927.m3u8
 AC612:TEN HD (Egypt)	00`06alive00`06b65929.m3u8
-------[USA]------	00`06alive00`06b3168.m3u8
-USA:-----[GENERAL]--------------------------------	00`06alive00`06b60607.m3u8
+------[USA]------	http://a.b/c
+USA:-----[GENERAL]-----	00`06alive00`06b60607.m3u8
 US001:A&E HD	00`06alive00`06b3167.m3u8
 US006:AMC HD	00`06alive00`06b3162.m3u8
 US007:Animal Planet HD	00`06alive00`06b3161.m3u8
@@ -1065,7 +1065,7 @@ US753:3ABN (KBLN)	00`06alive00`06b29437.m3u8
 US757:Justice Central	00`06alive00`06b29433.m3u8
 US800:Cheddar	00`06alive00`06b64375.m3u8
 US932:mun2tv	00`06alive00`06b31052.m3u8
-USA:-----[SPORTS]---------------------------------	00`06alive00`06b60609.m3u8
+USA:-----[SPORTS]-----	00`06alive00`06b60609.m3u8
 US009:BeIN Sports 1 HD	00`06alive00`06b3159.m3u8
 US012:PAC-12 Washington	00`06alive00`06b3156.m3u8
 US013:PAC-12 Los Angeles	00`06alive00`06b3155.m3u8
@@ -1130,7 +1130,7 @@ US897:AT&T Sportsnet Rocky Mountain	00`06alive00`06b60236.m3u8
 US933:AT&T SportsNet Southwest	00`06alive00`06b31051.m3u8
 US934:UFC FIGHT PASS	00`06alive00`06b31050.m3u8
 US900:Spectrum SportsNet Lakers	00`06alive00`06b60983.m3u8
-USA:-----[MOVIES]---------------------------------	00`06alive00`06b60608.m3u8
+USA:-----[MOVIES]-----	00`06alive00`06b60608.m3u8
 US005:ACTION MAX	00`06alive00`06b3163.m3u8
 US044:Hallmark Movies & Mysteries	00`06alive00`06b3124.m3u8
 US045:HBO Comedy	00`06alive00`06b3123.m3u8
@@ -1183,7 +1183,7 @@ US782:MoreMax HD	00`06alive00`06b64357.m3u8
 US884:Disney + HD	00`06alive00`06b60230.m3u8
 US805:EPIX	00`06alive00`06b59225.m3u8
 US806:EPIX 2	00`06alive00`06b59224.m3u8
-USA:-----[FOX]------------------------------------	00`06alive00`06b60610.m3u8
+USA:-----[FOX]-----	00`06alive00`06b60610.m3u8
 US036:FOX-HD	00`06alive00`06b3132.m3u8
 US037:FOX-News	00`06alive00`06b3131.m3u8
 US038:FOX-Sports1	00`06alive00`06b3130.m3u8
@@ -1317,7 +1317,7 @@ US499:FOX SACRAMENTO	00`06alive00`06b29691.m3u8
 US500:US FOX 33 (KMSS) Shreveport	00`06alive00`06b29690.m3u8
 US501:FOX 4 (KFQX) Grand Junction	00`06alive00`06b29689.m3u8
 US817:FOX 27 (KLWY) Cheyenne/Scottsbluff	00`06alive00`06b31565.m3u8
-USA:-----[CBS]------------------------------------	00`06alive00`06b60611.m3u8
+USA:-----[CBS]-----	00`06alive00`06b60611.m3u8
 US017:CBS-HD	00`06alive00`06b3151.m3u8
 US088:CBS Sports Network	00`06alive00`06b3080.m3u8
 US154:CBS (KCBS) Los Angeles	00`06alive00`06b30036.m3u8
@@ -1435,7 +1435,7 @@ US330:CBS 5 (WTVH) SYRACUSE	00`06alive00`06b29860.m3u8
 US331:CBS (KFDA) Amarillo	00`06alive00`06b29859.m3u8
 US332:CBS (KXDF) Fairbanks	00`06alive00`06b29858.m3u8
 US824:CBS 6 (KOIN) PORTLAND/OREGON	00`06alive00`06b31576.m3u8
-USA:-----[NBC]------------------------------------	00`06alive00`06b60612.m3u8
+USA:-----[NBC]-----	00`06alive00`06b60612.m3u8
 US061:NBC-Golf	00`06alive00`06b3107.m3u8
 US062:NBC-HD	00`06alive00`06b3106.m3u8
 US156:NBC_Golf_Channel	00`06alive00`06b30034.m3u8
@@ -1561,7 +1561,7 @@ US611:NBC 6 (WECT) WILMINGTON	00`06alive00`06b29579.m3u8
 US612:NBC 6 (WOWT) OMAHA	00`06alive00`06b29578.m3u8
 US808:NBC 6 (WTVJ) MIAMI	00`06alive00`06b59234.m3u8
 US807:NBC 6 (WPSD) PADUCAH/CAPE GIRARDEAU/HARRISBURG/MT VERNO	00`06alive00`06b59235.m3u8
-USA:-----[ABC]------------------------------------	00`06alive00`06b60617.m3u8
+USA:-----[ABC]-----	00`06alive00`06b60617.m3u8
 US002:ABC HD	00`06alive00`06b3166.m3u8
 US003:ABC-NEWS	00`06alive00`06b3165.m3u8
 US004:ABC 7	00`06alive00`06b3164.m3u8
@@ -1613,7 +1613,7 @@ US825:ABC 7 WZVN	00`06alive00`06b31575.m3u8
 US899:ABC 2 (WSB) ATLANTA	00`06alive00`06b66004.m3u8
 US836:ABC17 (KMIZ) Jefferson City	00`06alive00`06b60114.m3u8
 US883:ABC 2 (WMAR) Baltimore	00`06alive00`06b60134.m3u8
-USA:-----[NBA]------------------------------------	00`06alive00`06b60615.m3u8
+USA:-----[NBA]-----	00`06alive00`06b60615.m3u8
 US060:NBA-TV	00`06alive00`06b3108.m3u8
 US665:NBA ORLANDO MAGIC	00`06alive00`06b29525.m3u8
 US666:NBA Miami Heat	00`06alive00`06b29524.m3u8
@@ -1636,7 +1636,7 @@ US926:NBA DETROIT PISTONS	00`06alive00`06b60975.m3u8
 US925:NBA DALLAS MAVERICKS	00`06alive00`06b60974.m3u8
 US924:NBA CHARLOTTE HORNETS	00`06alive00`06b60973.m3u8
 US922:NBA ATLANTA HAWKS	00`06alive00`06b60971.m3u8
-USA:-----[NFL]------------------------------------	00`06alive00`06b60613.m3u8
+USA:-----[NFL]-----	00`06alive00`06b60613.m3u8
 US064:NFL-Network	00`06alive00`06b3104.m3u8
 US089:NFL RedZone	00`06alive00`06b3079.m3u8
 US618:NFL-Browns SD	00`06alive00`06b29572.m3u8
@@ -1691,7 +1691,7 @@ US954:NFL-Seahawks FHD	00`06alive00`06b68770.m3u8
 US955:NFL-Steelers FHD	00`06alive00`06b68771.m3u8
 US956:NFL-Texans FHD	00`06alive00`06b60979.m3u8
 US957:NFL-Titans	00`06alive00`06b60980.m3u8
-USA:-----[MLB]------------------------------------	00`06alive00`06b60614.m3u8
+USA:-----[MLB]-----	00`06alive00`06b60614.m3u8
 US056:MLB-Network	00`06alive00`06b3112.m3u8
 US630:MLB 01	00`06alive00`06b29560.m3u8
 US631:MLB 02	00`06alive00`06b29559.m3u8
@@ -1708,7 +1708,7 @@ US641:MLB 12	00`06alive00`06b29549.m3u8
 US642:MLB 13	00`06alive00`06b29548.m3u8
 US643:MLB 14	00`06alive00`06b29547.m3u8
 US644:MLB Strike Zone	00`06alive00`06b29546.m3u8
-USA:-----[NHL]------------------------------------	00`06alive00`06b60616.m3u8
+USA:-----[NHL]-----	00`06alive00`06b60616.m3u8
 US736:NHL NETWORK	00`06alive00`06b29454.m3u8
 US675:NHL Montreal Canadiens	00`06alive00`06b29515.m3u8
 US676:NHL Minnesota Wild	00`06alive00`06b29514.m3u8
@@ -1742,14 +1742,14 @@ US915:NHL Chicago Blackhawks	00`06alive00`06b59241.m3u8
 US916:NHL Carolina Hurricanes	00`06alive00`06b59243.m3u8
 US917:NHL Calgary Flames	00`06alive00`06b59244.m3u8
 US918:NHL Buffalo Sabres	00`06alive00`06b59245.m3u8
-USA:-----[PPV]------------------------------------	00`06alive00`06b68729.m3u8
+USA:-----[PPV]-----	00`06alive00`06b68729.m3u8
 PPV001:PPV EVENTS 01	00`06alive00`06b68730.m3u8
 PPV002:PPV EVENTS 02	00`06alive00`06b68731.m3u8
 PPV003:PPV EVENTS 03	00`06alive00`06b68732.m3u8
 PPV004:PPV EVENTS 04	00`06alive00`06b68733.m3u8
 US923:NBA BOSTON CELTICS	00`06alive00`06b60972.m3u8
 ------[Canada]------	00`06alive00`06b3069.m3u8
-CA:-----[GENERAL]-------------------------------------	00`06alive00`06b60628.m3u8
+CA:-----[GENERAL]-----	00`06alive00`06b60628.m3u8
 CA001:ABC Spark HD	00`06alive00`06b3068.m3u8
 CA006:BET	00`06alive00`06b3063.m3u8
 CA011:CHCH HD	00`06alive00`06b3058.m3u8
@@ -1830,7 +1830,7 @@ CA208:UNIS TV	00`06alive00`06b30106.m3u8
 CA213:SALT	00`06alive00`06b30101.m3u8
 CA215:City Calgary	00`06alive00`06b30099.m3u8
 CA221:CBC Winnipeg	00`06alive00`06b59195.m3u8
-CA:-----[SPORTS]--------------------------------------	00`06alive00`06b60630.m3u8
+CA:-----[SPORTS]-----	00`06alive00`06b60630.m3u8
 CA002:Sportnet Ontario HD	00`06alive00`06b3067.m3u8
 CA008:NFL Network HD	00`06alive00`06b3061.m3u8
 CA032:NBA HD	00`06alive00`06b3037.m3u8
@@ -1860,7 +1860,7 @@ CA126:Super Sports CH 477	00`06alive00`06b30188.m3u8
 CA180:Super Sports CH 476	00`06alive00`06b30134.m3u8
 CA188:Sportnet Pacific HD	00`06alive00`06b30126.m3u8
 CA203:MLB Network HD	00`06alive00`06b30111.m3u8
-CA:-----[MOVIES]--------------------------------------	00`06alive00`06b60629.m3u8
+CA:-----[MOVIES]-----	00`06alive00`06b60629.m3u8
 CA003:AMC HD	00`06alive00`06b3066.m3u8
 CA014:CTV COMEDY HD	00`06alive00`06b3055.m3u8
 CA128:CTV Sci-Fi	00`06alive00`06b30186.m3u8
@@ -1887,7 +1887,7 @@ CA211:FX FHD	00`06alive00`06b30103.m3u8
 CA079:Super Channel Vault	00`06alive00`06b2990.m3u8
 CA123:W Network	00`06alive00`06b30191.m3u8
 CA219:Super Channel Heart & Home	00`06alive00`06b30095.m3u8
-CA:-----[NEWS]----------------------------------------	00`06alive00`06b60631.m3u8
+CA:-----[NEWS]-----	00`06alive00`06b60631.m3u8
 CA007:BNN Bloomberg	00`06alive00`06b3062.m3u8
 CA009:CBC Edmonton HD	00`06alive00`06b3060.m3u8
 CA010:CBC News Network HD	00`06alive00`06b3059.m3u8
@@ -1931,7 +1931,7 @@ CA212:Rogers TV London	00`06alive00`06b30102.m3u8
 CA214:CBC Calgary	00`06alive00`06b30100.m3u8
 CA216:CTV Calgary	00`06alive00`06b30098.m3u8
 CA222:(FR) NOOVO	00`06alive00`06b59197.m3u8
-CA:-----[KIDS]----------------------------------------	00`06alive00`06b60632.m3u8
+CA:-----[KIDS]-----	00`06alive00`06b60632.m3u8
 CA023:Disney Channel HD	00`06alive00`06b3046.m3u8
 CA024:Disney Junior HD	00`06alive00`06b3045.m3u8
 CA025:Disney XD HD	00`06alive00`06b3044.m3u8
@@ -1945,7 +1945,7 @@ CA142:MOONBUG	00`06alive00`06b30172.m3u8
 CA197:Teletoon	00`06alive00`06b30117.m3u8
 CA209:Nicktoon	00`06alive00`06b30105.m3u8
 CA223:Nickelodeon	00`06alive00`06b59196.m3u8
-CA:-----[DOCUMENTARY]---------------------------------	00`06alive00`06b60633.m3u8
+CA:-----[DOCUMENTARY]-----	00`06alive00`06b60633.m3u8
 CA004:Animal Planet HD	00`06alive00`06b3065.m3u8
 CA022:Discovery HD	00`06alive00`06b3047.m3u8
 CA026:DIY Network HD	00`06alive00`06b3043.m3u8
@@ -2250,7 +2250,7 @@ CA084:Vision	00`06alive00`06b30230.m3u8
 24/7 285:SHERLOCK	00`06alive00`06b60004.m3u8
 24/7 286:SIMPSONS	00`06alive00`06b30265.m3u8
 ------[United Kingdom]------	00`06alive00`06b2957.m3u8
-UK:------[ENTERTAINMENT]-------------------------------	00`06alive00`06b60641.m3u8
+UK:------[ENTERTAINMENT]-----	00`06alive00`06b60641.m3u8
 UK001:4Music	00`06alive00`06b2956.m3u8
 UK002:4Seven	00`06alive00`06b2955.m3u8
 UK003:5Star	00`06alive00`06b2954.m3u8
@@ -2329,7 +2329,7 @@ UK286:STV 	00`06alive00`06b28773.m3u8
 UK288:YESTERDAY 	00`06alive00`06b28771.m3u8
 UK293:ZING 	00`06alive00`06b28766.m3u8
 UK294:VICELAND 	00`06alive00`06b28765.m3u8
-UK:------[CINEMA]--------------------------------------	00`06alive00`06b60645.m3u8
+UK:------[CINEMA]-----	00`06alive00`06b60645.m3u8
 UK022:CBS Action	00`06alive00`06b2935.m3u8
 UK023:CBS Drama	00`06alive00`06b2934.m3u8
 UK024:CBS Reality	00`06alive00`06b2933.m3u8
@@ -2371,7 +2371,7 @@ UK237:SONY MAX 2	00`06alive00`06b28822.m3u8
 UK238:SONY SAB	00`06alive00`06b28821.m3u8
 UK268:COMEDY CENTRAL EXTRA	00`06alive00`06b28791.m3u8
 UK269:SKY CRIME 	00`06alive00`06b28790.m3u8
-UK:------[DOCUMENTARY]---------------------------------	00`06alive00`06b60646.m3u8
+UK:------[DOCUMENTARY]-----	00`06alive00`06b60646.m3u8
 UK005:Animal Planet	00`06alive00`06b2952.m3u8
 UK030:Crime Investigiation	00`06alive00`06b2927.m3u8
 UK032:Discovery	00`06alive00`06b2925.m3u8
@@ -2392,7 +2392,7 @@ UK250:History Channel 2 HD	00`06alive00`06b28809.m3u8
 UK266:Love Nature	00`06alive00`06b28793.m3u8
 UK289:SKY NATURE 	00`06alive00`06b28770.m3u8
 UK290:SKY DOCUMENTARIES 	00`06alive00`06b28769.m3u8
-UK:------[KIDS]----------------------------------------	00`06alive00`06b60642.m3u8
+UK:------[KIDS]-----	00`06alive00`06b60642.m3u8
 UK006:Baby TV	00`06alive00`06b2951.m3u8
 UK013:Boomerang	00`06alive00`06b2944.m3u8
 UK019:Cartoon network	00`06alive00`06b2938.m3u8
@@ -2409,7 +2409,7 @@ UK169:Nick Jr	00`06alive00`06b28890.m3u8
 UK172:RTE JR	00`06alive00`06b28887.m3u8
 UK177:POP	00`06alive00`06b28882.m3u8
 UK219:CITV	00`06alive00`06b28840.m3u8
-UK:------[NEWS]----------------------------------------	00`06alive00`06b60644.m3u8
+UK:------[NEWS]-----	00`06alive00`06b60644.m3u8
 UK011:BBC News	00`06alive00`06b2946.m3u8
 UK018:CNN	00`06alive00`06b2939.m3u8
 UK047:MSNBC	00`06alive00`06b2910.m3u8
@@ -2428,7 +2428,7 @@ UK232:FRANCE 24	00`06alive00`06b28827.m3u8
 UK245:GB NEWS	00`06alive00`06b28814.m3u8
 UK246:CHALLENGE	00`06alive00`06b28813.m3u8
 UK305:Bloomberg HD	00`06alive00`06b28754.m3u8
-UK:------[SPORT]---------------------------------------	00`06alive00`06b60643.m3u8
+UK:------[SPORT]-----	00`06alive00`06b60643.m3u8
 UK014:BT Sport 1 HD	00`06alive00`06b2943.m3u8
 UK015:BT Sport 2 HD	00`06alive00`06b2942.m3u8
 UK016:BT Sport 3 HD	00`06alive00`06b2941.m3u8
@@ -2478,7 +2478,7 @@ UK257:BEIN SPORTS 7 	00`06alive00`06b28802.m3u8
 UK291:Sky Sports NFL	00`06alive00`06b28768.m3u8
 UK318:Sky Sports Racing FHD	00`06alive00`06b28741.m3u8
 ------[France]------	00`06alive00`06b2866.m3u8
-FR:-----[ENTERTAINMENT]----------------------	00`06alive00`06b60622.m3u8
+FR:-----[ENTERTAINMENT]-----	00`06alive00`06b60622.m3u8
 FR001:13EME RUE HD	00`06alive00`06b2865.m3u8
 FR002:6 TER HD	00`06alive00`06b2864.m3u8
 FR014:AB 1 HD	00`06alive00`06b2852.m3u8
@@ -2589,7 +2589,7 @@ FR217:TRACE CARIBBEAN	00`06alive00`06b28080.m3u8
 FR218:TRACE GOSPEL	00`06alive00`06b28079.m3u8
 FR219:TRACE SPORT STARS HD	00`06alive00`06b28078.m3u8
 FR220:TRACE NAIJA	00`06alive00`06b28077.m3u8
-FR:-----[SPORT]------------------------------	00`06alive00`06b60618.m3u8
+FR:-----[SPORT]-----	00`06alive00`06b60618.m3u8
 FR019:AMAZON PRIME 1 (MATCH TIME)	00`06alive00`06b2847.m3u8
 FR020:AMAZON PRIME 2 (MATCH TIME)	00`06alive00`06b2846.m3u8
 FR021:AMAZON PRIME 3 (MATCH TIME)	00`06alive00`06b2845.m3u8
@@ -2634,7 +2634,7 @@ FR176:RMC SPORT 8	00`06alive00`06b28127.m3u8
 FR177:RMC SPORT 9	00`06alive00`06b28126.m3u8
 FR178:RMC SPORT 10	00`06alive00`06b28125.m3u8
 FR213:FOOT+ 24/24 HD	00`06alive00`06b28084.m3u8
-FR:-----[CINEMA]-----------------------------	00`06alive00`06b60619.m3u8
+FR:-----[CINEMA]-----	00`06alive00`06b60619.m3u8
 FR003:A LA CARTE 1 HD	00`06alive00`06b2863.m3u8
 FR004:A LA CARTE 2 HD	00`06alive00`06b2862.m3u8
 FR005:A LA CARTE 3 HD	00`06alive00`06b2861.m3u8
@@ -2689,13 +2689,13 @@ FR161:PARAMOUNT CHANNEL	00`06alive00`06b28142.m3u8
 FR190:SYFY	00`06alive00`06b28110.m3u8
 FR191:TCM CINEMA	00`06alive00`06b28109.m3u8
 FR211:WARNER	00`06alive00`06b28086.m3u8
-FR:-----[NEWS]-------------------------------	00`06alive00`06b60620.m3u8
+FR:-----[NEWS]-----	00`06alive00`06b60620.m3u8
 FR032:BFM HD	00`06alive00`06b2834.m3u8
 FR046:C NEWS FHD	00`06alive00`06b2820.m3u8
 FR111:EURONEWS	00`06alive00`06b28193.m3u8
 FR130:I24 NEWS	00`06alive00`06b28173.m3u8
 FR179:RMC SPORT NEWS	00`06alive00`06b28124.m3u8
-FR:-----[KIDS]-------------------------------	00`06alive00`06b60621.m3u8
+FR:-----[KIDS]-----	00`06alive00`06b60621.m3u8
 FR029:BABY TV FHD	00`06alive00`06b2837.m3u8
 FR072:CANAL+ KIDS	00`06alive00`06b2794.m3u8
 FR101:DISNEY CHANNEL	00`06alive00`06b28206.m3u8
@@ -2705,7 +2705,7 @@ FR152:NICKELODEON	00`06alive00`06b28151.m3u8
 FR153:NICKELODEON JR	00`06alive00`06b28150.m3u8
 FR154:NICKELODEON TEEN	00`06alive00`06b28149.m3u8
 ------[Netherlands]------	00`06alive00`06b31531.m3u8
-NL:-----[GENERAL]-------------------------------------	00`06alive00`06b61052.m3u8
+NL:-----[GENERAL]-----	00`06alive00`06b61052.m3u8
 NL007:NPO 1 FHD	00`06alive00`06b31524.m3u8
 NL043:NPO 1 HD	00`06alive00`06b31488.m3u8
 NL006:NPO 2 FHD	00`06alive00`06b31525.m3u8
@@ -2780,7 +2780,7 @@ NL079:VTM 3	00`06alive00`06b31452.m3u8
 NL056:TV Ellef	00`06alive00`06b31475.m3u8
 NL136:WOS	00`06alive00`06b31395.m3u8
 NL155:RTL Z HD	00`06alive00`06b31376.m3u8
-NL:-----[SPORTS]--------------------------------------	00`06alive00`06b61053.m3u8
+NL:-----[SPORTS]-----	00`06alive00`06b61053.m3u8
 NL001:Ziggo Sport Select FHD	00`06alive00`06b31530.m3u8
 NL027:Ziggo Sport Select HD	00`06alive00`06b31504.m3u8
 NL174:Ziggo Sport Select SD	00`06alive00`06b31357.m3u8
@@ -2820,7 +2820,7 @@ NL107:ESPN 2 FHD	00`06alive00`06b31424.m3u8
 NL108:ESPN 3 FHD	00`06alive00`06b31423.m3u8
 NL109:ESPN 4 HD	00`06alive00`06b31422.m3u8
 NL127:Ziggo Sport DOCU HD	00`06alive00`06b31404.m3u8
-NL:-----[DOCUMENTARY]---------------------------------	00`06alive00`06b61056.m3u8
+NL:-----[DOCUMENTARY]-----	00`06alive00`06b61056.m3u8
 NL020:Horse & Country TV	00`06alive00`06b31511.m3u8
 NL046:National Geographic	00`06alive00`06b31485.m3u8
 NL050:History FHD	00`06alive00`06b31481.m3u8
@@ -2835,7 +2835,7 @@ NL131:NAT GEO HD	00`06alive00`06b31400.m3u8
 NL132:NAT GEO WILD HD	00`06alive00`06b31399.m3u8
 NL033:TLC	00`06alive00`06b31498.m3u8
 NL170:Viceland FHD	00`06alive00`06b31361.m3u8
-NL:-----[KIDS]----------------------------------------	00`06alive00`06b61055.m3u8
+NL:-----[KIDS]-----	00`06alive00`06b61055.m3u8
 NL022:Nicktoons	00`06alive00`06b31509.m3u8
 NL045:Nick Jr	00`06alive00`06b31486.m3u8
 NL063:RTL Telekids	00`06alive00`06b31468.m3u8
@@ -2848,7 +2848,7 @@ NL086:Disney XD HD	00`06alive00`06b31445.m3u8
 NL134:Nick Junior	00`06alive00`06b31397.m3u8
 NL137:Nickelodeon HD	00`06alive00`06b31394.m3u8
 NL148:Pebble TV HD	00`06alive00`06b31383.m3u8
-NL:-----[MOVIES]--------------------------------------	00`06alive00`06b61054.m3u8
+NL:-----[MOVIES]-----	00`06alive00`06b61054.m3u8
 NL016:Film1 Premiere FHD	00`06alive00`06b31515.m3u8
 NL036:RTL lounge	00`06alive00`06b31495.m3u8
 NL062:Comedy Central	00`06alive00`06b31469.m3u8
@@ -2860,7 +2860,7 @@ NL059:Film1 Drama	00`06alive00`06b31472.m3u8
 NL095:Film1 Action	00`06alive00`06b31436.m3u8
 NL153:RTL Crime HD	00`06alive00`06b31378.m3u8
 ------[Spain]------	00`06alive00`06b2604.m3u8
-ES:-----[ES Entretenimiento]--------------------	00`06alive00`06b60623.m3u8
+ES:-----[ES Entretenimiento]-----	00`06alive00`06b60623.m3u8
 ES002:13 TV	00`06alive00`06b2602.m3u8
 ES003:24H	00`06alive00`06b2601.m3u8
 ES004:7RM	00`06alive00`06b2600.m3u8
@@ -2942,14 +2942,14 @@ ES197:SEVILLA FC	00`06alive00`06b52410.m3u8
 ES198:SOFY TV	00`06alive00`06b52409.m3u8
 ES199:SOMOS	00`06alive00`06b52408.m3u8
 ES200:STAR TVE	00`06alive00`06b52407.m3u8
-ES:-----[ES Cultura]---------------	00`06alive00`06b60627.m3u8
+ES:-----[ES Cultura]-----	00`06alive00`06b60627.m3u8
 ES044:CRIME & INVESTIGATION	00`06alive00`06b2560.m3u8
 ES056:DISCOVERY CHANNEL	00`06alive00`06b2548.m3u8
 ES062:DMAX	00`06alive00`06b2542.m3u8
 ES084:HISTORIA	00`06alive00`06b29308.m3u8
 ES166:NAT GEO	00`06alive00`06b29226.m3u8
 ES167:NAT GEO WILD	00`06alive00`06b29225.m3u8
-ES:-----[ES Ninos]--------------------	00`06alive00`06b60626.m3u8
+ES:-----[ES Ninos]-----	00`06alive00`06b60626.m3u8
 ES017:BABY TV	00`06alive00`06b2587.m3u8
 ES023:BOING	00`06alive00`06b2581.m3u8
 ES033:CANAL PANDA	00`06alive00`06b2571.m3u8
@@ -2959,7 +2959,7 @@ ES058:DISNEY JR	00`06alive00`06b2546.m3u8
 ES059:DISNEY XD	00`06alive00`06b2545.m3u8
 ES186:NICK JR	00`06alive00`06b52421.m3u8
 ES187:NICKELODEON	00`06alive00`06b52420.m3u8
-ES:-----[ES Musica]--------------	00`06alive00`06b62169.m3u8
+ES:-----[ES Musica]-----	00`06alive00`06b62169.m3u8
 ES040:CLASSICA	00`06alive00`06b2564.m3u8
 ES141:MEZZO	00`06alive00`06b29251.m3u8
 ES142:MEZZO LIVE	00`06alive00`06b29250.m3u8
@@ -2968,7 +2968,7 @@ ES163:MTV 00s	00`06alive00`06b29229.m3u8
 ES164:MTV ROCKS	00`06alive00`06b29228.m3u8
 ES201:VH1	00`06alive00`06b52406.m3u8
 ES202:SUNDANCE TV	00`06alive00`06b52405.m3u8
-ES:-----[ES Deportes]--------------------	00`06alive00`06b60624.m3u8
+ES:-----[ES Deportes]-----	00`06alive00`06b60624.m3u8
 ES001:#0 HD	00`06alive00`06b2603.m3u8
 ES047:DAZN 1	00`06alive00`06b2557.m3u8
 ES048:DAZN 2	00`06alive00`06b2556.m3u8
@@ -3024,7 +3024,7 @@ ES157:MOVISTAR FORMULA 1	00`06alive00`06b29235.m3u8
 ES158:MOVISTAR FUTBOL	00`06alive00`06b29234.m3u8
 ES159:MOVISTAR GOLF	00`06alive00`06b29233.m3u8
 ES160:MOVISTAR MOTOGP	00`06alive00`06b29232.m3u8
-ES:-----[ES Cine]--------------------	00`06alive00`06b60625.m3u8
+ES:-----[ES Cine]-----	00`06alive00`06b60625.m3u8
 ES009:AMC	00`06alive00`06b2595.m3u8
 ES010:AMC Break	00`06alive00`06b2594.m3u8
 ES011:AMC Crime	00`06alive00`06b2593.m3u8
@@ -3064,7 +3064,7 @@ ES206:TAQUILLA 3	00`06alive00`06b52401.m3u8
 ES207:TAQUILLA 4	00`06alive00`06b52400.m3u8
 ES208:TAQUILLA 5	00`06alive00`06b52399.m3u8
 ES209:TAQUILLA 6	00`06alive00`06b52398.m3u8
-ES:-----[ES Alquiler]------------	00`06alive00`06b62170.m3u8
+ES:-----[ES Alquiler]-----	00`06alive00`06b62170.m3u8
 ES143:MOVISTAR ALQUILER 1	00`06alive00`06b29249.m3u8
 ES144:MOVISTAR ALQUILER 2	00`06alive00`06b29248.m3u8
 ES145:MOVISTAR ALQUILER 3	00`06alive00`06b29247.m3u8
@@ -3076,8 +3076,8 @@ ES150:MOVISTAR ALQUILER 9	00`06alive00`06b29242.m3u8
 ES151:MOVISTAR ALQUILER 10	00`06alive00`06b29241.m3u8
 ES152:MOVISTAR ALQUILER 12	00`06alive00`06b29240.m3u8
 ES153:MOVISTAR ALQUILER 18	00`06alive00`06b29239.m3u8
-DE:-----[ENTERTAINMENT]-------------	00`06alive00`06b60654.m3u8
 ------[German]------	00`06alive00`06b2683.m3u8
+DE:-----[ENTERTAINMENT]-----	00`06alive00`06b60654.m3u8
 DE001:1.2.3 TV	00`06alive00`06b2682.m3u8
 DE002:13TH STREET	00`06alive00`06b2681.m3u8
 DE003:3 SAT	00`06alive00`06b2680.m3u8
@@ -3189,7 +3189,7 @@ DE256:ZDF	00`06alive00`06b29026.m3u8
 DE257:ZDF INFO	00`06alive00`06b29025.m3u8
 DE258:ZDF NEO	00`06alive00`06b29024.m3u8
 DE260:RTL 2	00`06alive00`06b29022.m3u8
-DE:-----[SPORT]---------------------	00`06alive00`06b60652.m3u8
+DE:-----[SPORT]-----	00`06alive00`06b60652.m3u8
 DE010:AUTO MOTOR SPORT	00`06alive00`06b2673.m3u8
 DE024:DAZN 1	00`06alive00`06b2659.m3u8
 DE025:DAZN 2	00`06alive00`06b2658.m3u8
@@ -3260,7 +3260,7 @@ DE234:TELEKOM BUNDESLIGA 3	00`06alive00`06b29048.m3u8
 DE235:TELEKOM BUNDESLIGA 4	00`06alive00`06b29047.m3u8
 DE236:TRACE SPORT STARS	00`06alive00`06b29046.m3u8
 DE239:UFC FIGHT PASS	00`06alive00`06b29043.m3u8
-DE:-----[CINEMA]--------------------	00`06alive00`06b60656.m3u8
+DE:-----[CINEMA]-----	00`06alive00`06b60656.m3u8
 DE011:AXN	00`06alive00`06b2672.m3u8
 DE020:CINE STAR ACTION HD	00`06alive00`06b2663.m3u8
 DE033:DISNEY CINEMAGIC	00`06alive00`06b2650.m3u8
@@ -3316,7 +3316,7 @@ DE248:WAIDWERK TV	00`06alive00`06b29034.m3u8
 DE249:WARNER COMEDY	00`06alive00`06b29033.m3u8
 DE250:WARNER TV FILM	00`06alive00`06b29032.m3u8
 DE251:WARNER TV SERIE	00`06alive00`06b29031.m3u8
-DE:-----[DOCUMENTARY]---------------	00`06alive00`06b60653.m3u8
+DE:-----[DOCUMENTARY]-----	00`06alive00`06b60653.m3u8
 DE004:ANIMAL PLANET	00`06alive00`06b2679.m3u8
 DE022:CRIME & INVESTIGATION	00`06alive00`06b2661.m3u8
 DE031:DISCOVERY CHANNEL	00`06alive00`06b2652.m3u8
@@ -3328,11 +3328,11 @@ DE095:NAT GEO WILD	00`06alive00`06b29189.m3u8
 DE143:SKY ARTS	00`06alive00`06b29141.m3u8
 DE163:SKY NATURE	00`06alive00`06b29120.m3u8
 DE238:TLC	00`06alive00`06b29044.m3u8
-DE:-----[NEWS]----------------------	00`06alive00`06b60657.m3u8
+DE:-----[NEWS]-----	00`06alive00`06b60657.m3u8
 DE042:EURONEWS	00`06alive00`06b2641.m3u8
 DE092:N-TV	00`06alive00`06b29192.m3u8
 DE210:SKY SPORT NEWS	00`06alive00`06b29072.m3u8
-DE:-----[KIDS]----------------------	00`06alive00`06b60655.m3u8
+DE:-----[KIDS]-----	00`06alive00`06b60655.m3u8
 DE016:BOOMERANG	00`06alive00`06b2667.m3u8
 DE019:CARTOON NETWORK	00`06alive00`06b2664.m3u8
 DE032:DISNEY CHANNEL	00`06alive00`06b2651.m3u8
@@ -3344,7 +3344,7 @@ DE099:NICKELODEON	00`06alive00`06b29185.m3u8
 DE100:NICKTOONS	00`06alive00`06b29184.m3u8
 DE259:BABY TV	00`06alive00`06b29023.m3u8
 ------[Italy]------	00`06alive00`06b2772.m3u8
-IT:-----[GENERAL]--------------------------------------	00`06alive00`06b60634.m3u8
+IT:-----[GENERAL]-----	00`06alive00`06b60634.m3u8
 IT003:Camera dei Deputati 	00`06alive00`06b2769.m3u8
 IT004:CANALE 5 	00`06alive00`06b2768.m3u8
 IT007:COMEDY CENTRAL 	00`06alive00`06b2765.m3u8
@@ -3414,7 +3414,7 @@ IT119:ITALIA 1	00`06alive00`06b28436.m3u8
 IT120:ITALIA 2	00`06alive00`06b28435.m3u8
 IT123:TELEPACE	00`06alive00`06b28432.m3u8
 IT124:IRIS	00`06alive00`06b28431.m3u8
-IT:-----[SPORT]----------------------------------------	00`06alive00`06b60637.m3u8
+IT:-----[SPORT]-----	00`06alive00`06b60637.m3u8
 IT009:DAZN SPORT 2 	00`06alive00`06b2763.m3u8
 IT057:RAI SPORT 1 	00`06alive00`06b2715.m3u8
 IT058:RAI SPORT+ 	00`06alive00`06b2714.m3u8
@@ -3434,7 +3434,7 @@ IT117:MS MOTOR TV	00`06alive00`06b28438.m3u8
 IT125:DAZN 2	00`06alive00`06b28430.m3u8
 IT126:Dazn Zona 3	00`06alive00`06b28429.m3u8
 IT127:Dazn Zona 4	00`06alive00`06b28428.m3u8
-IT:-----[MOVIES]---------------------------------------	00`06alive00`06b60635.m3u8
+IT:-----[MOVIES]-----	00`06alive00`06b60635.m3u8
 IT034:MEDIASET CINE34	00`06alive00`06b2738.m3u8
 IT038:PARAMOUNT CHANNEL 	00`06alive00`06b2734.m3u8
 IT040:SKY PRIMAFILA 1 HD	00`06alive00`06b2732.m3u8
@@ -3459,7 +3459,7 @@ IT101:TOP CRIME 	00`06alive00`06b28461.m3u8
 IT118:SKY CINEMA ACTRION	00`06alive00`06b28437.m3u8
 IT121:SKY CINEMA COLLECTION	00`06alive00`06b28434.m3u8
 IT122:SKY CINEMA UNO PLUS 24	00`06alive00`06b28433.m3u8
-IT:-----[CULTURA]--------------------------------------	00`06alive00`06b60638.m3u8
+IT:-----[CULTURA]-----	00`06alive00`06b60638.m3u8
 IT001:ANIMAL PLANET 	00`06alive00`06b2771.m3u8
 IT011:DISCOVERY CHANNEL 	00`06alive00`06b2761.m3u8
 IT012:DISCOVERY FOCUS 	00`06alive00`06b2760.m3u8
@@ -3467,7 +3467,7 @@ IT013:DISCOVERY NOVE 	00`06alive00`06b2759.m3u8
 IT015:DMAX 	00`06alive00`06b2757.m3u8
 IT026:HISTORY 	00`06alive00`06b2746.m3u8
 IT036:NAT GEO 	00`06alive00`06b2736.m3u8
-IT:-----[KIDS]------------------------------------------	00`06alive00`06b60639.m3u8
+IT:-----[KIDS]-----	00`06alive00`06b60639.m3u8
 IT002:BOING 	00`06alive00`06b2770.m3u8
 IT005:CARTOON NETWORK 	00`06alive00`06b2767.m3u8
 IT006:CARTOONITO 	00`06alive00`06b2766.m3u8
@@ -3475,7 +3475,7 @@ IT008:CIELO HD	00`06alive00`06b2764.m3u8
 IT014:DISNEY JR 	00`06alive00`06b2758.m3u8
 IT037:NICK JUNIOR 	00`06alive00`06b2735.m3u8
 IT096:SUPER! 	00`06alive00`06b28466.m3u8
-IT:-----[PLUTO]--------------------------------------	00`06alive00`06b77280.m3u8
+IT:-----[PLUTO]-----	00`06alive00`06b77280.m3u8
 IT: (Pluto) Ex On The Beach	00`06alive00`06b52716.m3u8
 IT: (Pluto) People are Awesome	00`06alive00`06b52713.m3u8
 IT: (Pluto) Real life HD	00`06alive00`06b52712.m3u8
@@ -3484,7 +3484,7 @@ IT: (Pluto) Super! Mystery	00`06alive00`06b52718.m3u8
 IT: (Pluto) Super! Pop	00`06alive00`06b52715.m3u8
 IT: (Pluto) World Poker Tour	00`06alive00`06b52714.m3u8
 ------[Portugal]------	00`06alive00`06b3169.m3u8
-PT:-----[GENERAL]-------------------------------------	00`06alive00`06b60647.m3u8
+PT:-----[GENERAL]-----	00`06alive00`06b60647.m3u8
 PT003:Afro Music	00`06alive00`06b3247.m3u8
 PT005:ARTV	00`06alive00`06b3245.m3u8
 PT014:Deutsche Welle	00`06alive00`06b3236.m3u8
@@ -3550,7 +3550,7 @@ PT150:BVN	00`06alive00`06b29340.m3u8
 PT152:NLO TV 2	00`06alive00`06b29338.m3u8
 PT074:Globo Now	00`06alive00`06b3176.m3u8
 PT154:Game Toon	00`06alive00`06b29336.m3u8
-PT:-----[SPORTS]--------------------------------------	00`06alive00`06b60650.m3u8
+PT:-----[SPORTS]-----	00`06alive00`06b60650.m3u8
 PT002:A Bola TV	00`06alive00`06b3248.m3u8
 PT011:Benfica TV 1 FHD	00`06alive00`06b3239.m3u8
 PT012:Benfica TV 1 HD	00`06alive00`06b3238.m3u8
@@ -3589,7 +3589,7 @@ PT146:Eleven Sports 4 SD	00`06alive00`06b29344.m3u8
 PT121:Eleven Sports 5 SD	00`06alive00`06b29369.m3u8
 PT124:Sport TV NBA	00`06alive00`06b29366.m3u8
 PT141:NBA FHD	00`06alive00`06b29349.m3u8
-PT:-----[MOVIES]--------------------------------------	00`06alive00`06b60648.m3u8
+PT:-----[MOVIES]-----	00`06alive00`06b60648.m3u8
 PT001:A&E	00`06alive00`06b3249.m3u8
 PT004:AMC	00`06alive00`06b3246.m3u8
 PT006:AXN	00`06alive00`06b3244.m3u8
@@ -3609,7 +3609,7 @@ PT072:TV Cine Edition	00`06alive00`06b3178.m3u8
 PT092:NOS Studios	00`06alive00`06b29398.m3u8
 PT131:A3 Cine	00`06alive00`06b29359.m3u8
 PT155:A3 Series	00`06alive00`06b29335.m3u8
-PT:-----[KIDS]----------------------------------------	00`06alive00`06b60651.m3u8
+PT:-----[KIDS]-----	00`06alive00`06b60651.m3u8
 PT009:Baby First	00`06alive00`06b3241.m3u8
 PT010:Baby TV	00`06alive00`06b3240.m3u8
 PT015:Canal Panda	00`06alive00`06b3235.m3u8
@@ -3624,7 +3624,7 @@ PT091:KIKA	00`06alive00`06b29399.m3u8
 PT136:Nick Jr	00`06alive00`06b29354.m3u8
 PT151:Kuriakos TV	00`06alive00`06b29339.m3u8
 PT149:SIC Kids	00`06alive00`06b29341.m3u8
-PT:-----[DOCUMENTARY]---------------------------------	00`06alive00`06b60649.m3u8
+PT:-----[DOCUMENTARY]-----	00`06alive00`06b60649.m3u8
 PT020:Discovery Channel	00`06alive00`06b3230.m3u8
 PT021:Discovery Showcase	00`06alive00`06b3229.m3u8
 PT035:Historia	00`06alive00`06b3215.m3u8
@@ -3639,7 +3639,7 @@ PT123:Investigation Discovery HD	00`06alive00`06b29367.m3u8
 PT127:Caca Vision	00`06alive00`06b29363.m3u8
 PT144:Canal Cocina	00`06alive00`06b29346.m3u8
 ------[Turkey]------	00`06alive00`06b33069.m3u8
-TR:------[ULUSAL]--------------	00`06alive00`06b61755.m3u8
+TR:------[ULUSAL]-----	00`06alive00`06b61755.m3u8
 TR001:24	00`06alive00`06b33068.m3u8
 TR002:24 KITCHEN	00`06alive00`06b33067.m3u8
 TR003:360	00`06alive00`06b33066.m3u8
@@ -3781,7 +3781,7 @@ TR270:VIZYON 58 TV SIVAS	00`06alive00`06b32799.m3u8
 TR271:VUSLAT TV	00`06alive00`06b32798.m3u8
 TR272:YABAN TV	00`06alive00`06b32797.m3u8
 TR276:YOL TV	00`06alive00`06b32793.m3u8
-TR:------[SINEMA]--------------	00`06alive00`06b61752.m3u8
+TR:------[SINEMA]-----	00`06alive00`06b61752.m3u8
 TR025:BEIN BOX OFFICE 1	00`06alive00`06b33044.m3u8
 TR026:BEIN BOX OFFICE 2	00`06alive00`06b33043.m3u8
 TR027:BEIN BOX OFFICE 3	00`06alive00`06b33042.m3u8
@@ -3850,7 +3850,7 @@ TR218:SINEVIZYON TURK 10	00`06alive00`06b32851.m3u8
 TR273:YESILCAM	00`06alive00`06b32796.m3u8
 TR274:YESILCAM BOX 2	00`06alive00`06b32795.m3u8
 TR275:YESILCAM BOX 3	00`06alive00`06b32794.m3u8
-TR:------[SPORT]---------------------	00`06alive00`06b61748.m3u8
+TR:------[SPORT]-----	00`06alive00`06b61748.m3u8
 TR008:A SPOR	00`06alive00`06b33061.m3u8
 TR041:BEIN SPORTS 1	00`06alive00`06b33028.m3u8
 TR042:BEIN SPORTS 2	00`06alive00`06b33027.m3u8
@@ -3881,7 +3881,7 @@ TR234:TIVIBU SPOR 2	00`06alive00`06b32835.m3u8
 TR235:TIVIBU SPOR 3	00`06alive00`06b32834.m3u8
 TR251:TRT SPOR	00`06alive00`06b32818.m3u8
 TR252:TRT SPOR YILDIZ	00`06alive00`06b32817.m3u8
-TR:------[COCUK]----------------------	00`06alive00`06b61749.m3u8
+TR:------[COCUK]-----	00`06alive00`06b61749.m3u8
 TR022:BABY TV	00`06alive00`06b33047.m3u8
 TR055:CAILLOU TV	00`06alive00`06b33014.m3u8
 TR057:CARTOON NETWORK	00`06alive00`06b33012.m3u8
@@ -3896,7 +3896,7 @@ TR172:NICK JR	00`06alive00`06b32897.m3u8
 TR173:NICKELODEON	00`06alive00`06b32896.m3u8
 TR220:SMART COCUK	00`06alive00`06b32849.m3u8
 TR243:TRT COCUK	00`06alive00`06b32826.m3u8
-TR:------[HABER]----------------------	00`06alive00`06b61750.m3u8
+TR:------[HABER]-----	00`06alive00`06b61750.m3u8
 TR005:A HABER	00`06alive00`06b33064.m3u8
 TR006:A NEWS	00`06alive00`06b33063.m3u8
 TR051:BLOOMBERG	00`06alive00`06b33018.m3u8
@@ -3905,7 +3905,7 @@ TR120:HABER TURK	00`06alive00`06b32949.m3u8
 TR231:TGRT HABER	00`06alive00`06b32838.m3u8
 TR248:TRT HABER	00`06alive00`06b32821.m3u8
 TR265:UZAY HABER	00`06alive00`06b32804.m3u8
-TR:------[BELGESEL]--------------	00`06alive00`06b61751.m3u8
+TR:------[BELGESEL]-----	00`06alive00`06b61751.m3u8
 TR017:ANIMAL PLANET	00`06alive00`06b33052.m3u8
 TR024:BBC EARTH	00`06alive00`06b33045.m3u8
 TR065:DISCOVERY CHANNEL	00`06alive00`06b33004.m3u8
@@ -3921,7 +3921,7 @@ TR242:TRT BELGESEL	00`06alive00`06b32827.m3u8
 TR267:VIASAT EXPLORE	00`06alive00`06b32802.m3u8
 TR268:VIASAT HISTORY	00`06alive00`06b32801.m3u8
 ------[Poland]------	00`06alive00`06b33532.m3u8
-PL:------[ENTERTAINMENT]------------------------------	00`06alive00`06b61057.m3u8
+PL:------[ENTERTAINMENT]-----	00`06alive00`06b61057.m3u8
 PL005:ATM Rozrywka TV	00`06alive00`06b33527.m3u8
 PL023:CBS Europa HD	00`06alive00`06b33509.m3u8
 PL024:CBS Reality HD	00`06alive00`06b33508.m3u8
@@ -3969,7 +3969,7 @@ PL198:Polsat Romans HD	00`06alive00`06b33334.m3u8
 PL124:TV Puls FHD	00`06alive00`06b33408.m3u8
 PL109:PULS 2	00`06alive00`06b33423.m3u8
 PL184:TV 4	00`06alive00`06b33348.m3u8
-PL:------[CINEMA]-------------------------------------	00`06alive00`06b61060.m3u8
+PL:------[CINEMA]-----	00`06alive00`06b61060.m3u8
 PL001:13 Ulica FHD	00`06alive00`06b33531.m3u8
 PL002:Ale Kino +	00`06alive00`06b33530.m3u8
 PL104:Canal+ Discovery HD	00`06alive00`06b33428.m3u8
@@ -4006,7 +4006,7 @@ PL163:Red Carpet	00`06alive00`06b33369.m3u8
 PL179:FOX HD	00`06alive00`06b33353.m3u8
 PL086:Paramount Channel FHD	00`06alive00`06b33446.m3u8
 PL193:Paramount Channel HD	00`06alive00`06b33339.m3u8
-PL:------[MUSIC]---------------------------------------	00`06alive00`06b66166.m3u8
+PL:------[MUSIC]-----	00`06alive00`06b66166.m3u8
 PL003:4Fun TV	00`06alive00`06b33529.m3u8
 PL074:STARS TV	00`06alive00`06b33458.m3u8
 PL082:TVP HD	00`06alive00`06b33450.m3u8
@@ -4023,7 +4023,7 @@ PL190:MTV Polska HD	00`06alive00`06b33342.m3u8
 PL203:Power TV	00`06alive00`06b33329.m3u8
 PL029:Disco Polo Music	00`06alive00`06b33503.m3u8
 PL078:Kino Polska Muzyka	00`06alive00`06b33454.m3u8
-PL:------[SPORT]--------------------------------------	00`06alive00`06b61058.m3u8
+PL:------[SPORT]-----	00`06alive00`06b61058.m3u8
 PL010:CANAL+ SPORT FHD	00`06alive00`06b33522.m3u8
 PL011:CANAL+ SPORT 2 FHD	00`06alive00`06b33521.m3u8
 PL012:CANAL+ SPORT 3 FHD	00`06alive00`06b33520.m3u8
@@ -4055,7 +4055,7 @@ PL199:Polsat Sport Fight HD	00`06alive00`06b33333.m3u8
 PL158:Food Network HD	00`06alive00`06b33374.m3u8
 PL192:KSW Fight  PPV (Live Matches  Only)	00`06alive00`06b33340.m3u8
 PL191:Nat Geo People HD	00`06alive00`06b33341.m3u8
-PL:------[DOCUMENTARY]--------------------------------	00`06alive00`06b61062.m3u8
+PL:------[DOCUMENTARY]-----	00`06alive00`06b61062.m3u8
 PL004:Animal Planet HD	00`06alive00`06b33528.m3u8
 PL020:BBC Earth HD	00`06alive00`06b33512.m3u8
 PL031:Discovery Historia	00`06alive00`06b33501.m3u8
@@ -4088,7 +4088,7 @@ PL194:Planete+ HD	00`06alive00`06b33338.m3u8
 PL200:Polsat Viasat Explore HD	00`06alive00`06b33332.m3u8
 PL201:Polsat Viasat History HD	00`06alive00`06b33331.m3u8
 PL202:Polsat Viasat Nature	00`06alive00`06b33330.m3u8
-PL:------[KIDS]---------------------------------------	00`06alive00`06b61059.m3u8
+PL:------[KIDS]-----	00`06alive00`06b61059.m3u8
 PL014:Boomerang FHD	00`06alive00`06b33518.m3u8
 PL019:Nickelodeon	00`06alive00`06b33513.m3u8
 PL021:Cartoon Network HD	00`06alive00`06b33511.m3u8
@@ -4106,7 +4106,7 @@ PL146:BBC CBeebies	00`06alive00`06b33386.m3u8
 PL159:Cartoon Network HD	00`06alive00`06b33373.m3u8
 PL169:Disney Junior	00`06alive00`06b33363.m3u8
 PL204:Nick JR	00`06alive00`06b33328.m3u8
-PL:------[NEWS]---------------------------------------	00`06alive00`06b61061.m3u8
+PL:------[NEWS]-----	00`06alive00`06b61061.m3u8
 PL083:Kujawy	00`06alive00`06b33449.m3u8
 PL096:Polsat News HD	00`06alive00`06b33436.m3u8
 PL102:Polsat Sport News HD	00`06alive00`06b33430.m3u8
@@ -5537,7 +5537,7 @@ SK023:Retro Music TV	00`06alive00`06b61210.m3u8
 SK024:Senzi	00`06alive00`06b61211.m3u8
 SK025:Šláger Muzika	00`06alive00`06b61212.m3u8
 ------[Brazil]------	00`06alive00`06b2532.m3u8
-BR:-----[Filmes e Series]---------------------------------	00`06alive00`06b66011.m3u8
+BR:-----[Filmes e Series]-----	00`06alive00`06b66011.m3u8
 BR104:A&E FHD	00`06alive00`06b65659.m3u8
 BR001:A&E HD	00`06alive00`06b2531.m3u8
 BR105:A&E SD	00`06alive00`06b65660.m3u8
@@ -5585,7 +5585,7 @@ BR259:TNT Series FHD	00`06alive00`06b65814.m3u8
 BR101:TNT Series  HD	00`06alive00`06b2431.m3u8
 BR260:TNT Series SD	00`06alive00`06b65815.m3u8
 BR272:CANAL BRASIL	00`06alive00`06b66008.m3u8
-BR:-----[Esportes]---------------------------------	00`06alive00`06b66013.m3u8
+BR:-----[Esportes]-----	00`06alive00`06b66013.m3u8
 BR008:Band Sports HD	00`06alive00`06b2524.m3u8
 BR015:Combate HD	00`06alive00`06b2517.m3u8
 BR033:ESPN HD	00`06alive00`06b2499.m3u8
@@ -5602,7 +5602,7 @@ BR089:Sport TV 1 HD	00`06alive00`06b2443.m3u8
 BR034:DAZN 1 HD	00`06alive00`06b2498.m3u8
 BR032:WOOHOO HD	00`06alive00`06b2500.m3u8
 BR268:Woohoo FHD	00`06alive00`06b65823.m3u8
-BR:-----[Musicas]--------------------------	00`06alive00`06b66168.m3u8
+BR:-----[Musicas]-----	00`06alive00`06b66168.m3u8
 BR009:Tooncast	00`06alive00`06b2523.m3u8
 BR010:BIS HD	00`06alive00`06b2522.m3u8
 BR205:Mtv FHD	00`06alive00`06b65760.m3u8
@@ -5611,7 +5611,7 @@ BR207:Multishow FHD	00`06alive00`06b65762.m3u8
 BR066:Multishow HD	00`06alive00`06b2466.m3u8
 BR209:Music Box SD	00`06alive00`06b65764.m3u8
 BR067:BG MUSIC HD	00`06alive00`06b2465.m3u8
-BR:-----[Canais Hbo]---------------------------------	00`06alive00`06b66018.m3u8
+BR:-----[Canais Hbo]-----	00`06alive00`06b66018.m3u8
 BR189:Hbo FHD	00`06alive00`06b65744.m3u8
 BR054:HBO HD	00`06alive00`06b2478.m3u8
 BR193:Hbo SD	00`06alive00`06b65748.m3u8
@@ -5629,7 +5629,7 @@ BR195:Hbo Signature SD	00`06alive00`06b65750.m3u8
 BR196:Hbo Xtreme FHD	00`06alive00`06b65751.m3u8
 BR197:Hbo Xtreme SD	00`06alive00`06b65752.m3u8
 BR190:Hbo Mundi SD	00`06alive00`06b65745.m3u8
-BR:-----[Canais Telecine]---------------------------------	00`06alive00`06b66012.m3u8
+BR:-----[Canais Telecine]-----	00`06alive00`06b66012.m3u8
 BR245:Telecine Action FHD	00`06alive00`06b65800.m3u8
 BR093:Telecine Action HD	00`06alive00`06b2439.m3u8
 BR246:Telecine Action SD	00`06alive00`06b65801.m3u8
@@ -5648,7 +5648,7 @@ BR254:Telecine Premium SD	00`06alive00`06b65809.m3u8
 BR255:Telecine Touch FHD	00`06alive00`06b65810.m3u8
 BR098:Telecine Touch HD	00`06alive00`06b2434.m3u8
 BR256:Telecine Touch SD	00`06alive00`06b65811.m3u8
-BR:-----[Canais Premiere]---------------------------------	00`06alive00`06b66019.m3u8
+BR:-----[Canais Premiere]-----	00`06alive00`06b66019.m3u8
 BR220:Premiere 2 FHD	00`06alive00`06b65775.m3u8
 BR075:Premiere 2 HD	00`06alive00`06b2457.m3u8
 BR221:Premiere 2 SD	00`06alive00`06b65776.m3u8
@@ -5663,7 +5663,7 @@ BR226:Premiere 5 SD	00`06alive00`06b65781.m3u8
 BR227:Premiere Clubes FHD	00`06alive00`06b65782.m3u8
 BR081:Premiere Clubes HD	00`06alive00`06b2451.m3u8
 BR228:Premiere Clubes SD	00`06alive00`06b65783.m3u8
-BR:-----[Variedades]---------------------------------	00`06alive00`06b66014.m3u8
+BR:-----[Variedades]-----	00`06alive00`06b66014.m3u8
 BR128:comedy central FHD	00`06alive00`06b65683.m3u8
 BR016:Comedy Central HD	00`06alive00`06b2516.m3u8
 BR129:comedy central SD	00`06alive00`06b65684.m3u8
@@ -5685,7 +5685,7 @@ BR273:REDE VIDA HD	00`06alive00`06b49959.m3u8
 BR264:Viva FHD	00`06alive00`06b65819.m3u8
 BR035:VIVA HD	00`06alive00`06b2497.m3u8
 BR265:Viva SD	00`06alive00`06b65820.m3u8
-BR:-----[Documentarios]---------------------------------	00`06alive00`06b66167.m3u8
+BR:-----[Documentarios]-----	00`06alive00`06b66167.m3u8
 BR108:Animal Planet FHD	00`06alive00`06b65663.m3u8
 BR003:Animal Planet HD	00`06alive00`06b2529.m3u8
 BR018:Discovery HD	00`06alive00`06b2514.m3u8
@@ -5710,7 +5710,7 @@ BR199:History Channel SD	00`06alive00`06b65754.m3u8
 BR068:NAT GEO HD	00`06alive00`06b2464.m3u8
 BR070:NAT GEO Wild HD	00`06alive00`06b2462.m3u8
 BR142:Discovery TLC SD	00`06alive00`06b65697.m3u8
-BR:-----[Infantis]---------------------------------	00`06alive00`06b66016.m3u8
+BR:-----[Infantis]-----	00`06alive00`06b66016.m3u8
 BR017:Baby TV HD	00`06alive00`06b2515.m3u8
 BR118:Boomerang FHD	00`06alive00`06b65673.m3u8
 BR011:Boomerang HD	00`06alive00`06b2521.m3u8
@@ -5738,13 +5738,13 @@ BR216:Nickelodeon SD	00`06alive00`06b65771.m3u8
 BR180:Gloob FHD	00`06alive00`06b65735.m3u8
 BR102:TV Ra Tim Bum	00`06alive00`06b2430.m3u8
 BR181:Gloob SD	00`06alive00`06b65736.m3u8
-BR:-----[Noticias]-----------------------	00`06alive00`06b66165.m3u8
+BR:-----[Noticias]-----	00`06alive00`06b66165.m3u8
 BR079:CNN BRASIL HD	00`06alive00`06b2453.m3u8
 BR007:Band News HD	00`06alive00`06b2525.m3u8
 BR176:Globo News FHD	00`06alive00`06b65731.m3u8
 BR177:Globo News SD	00`06alive00`06b65732.m3u8
 BR045:Globo News HD	00`06alive00`06b2487.m3u8
-BR:-----[Rede Globo]---------------------------------	00`06alive00`06b66015.m3u8
+BR:-----[Rede Globo]-----	00`06alive00`06b66015.m3u8
 BR046:Globo Rbs Porto Alegre	00`06alive00`06b2486.m3u8
 BR048:Globo HD	00`06alive00`06b2484.m3u8
 BR047:Globo RJ HD	00`06alive00`06b2485.m3u8
@@ -5753,7 +5753,7 @@ BR179:GLOBO MINAS	00`06alive00`06b65734.m3u8
 BR178:Globo Amazonas	00`06alive00`06b65733.m3u8
 BR271:Globo Rio HD	00`06alive00`06b66007.m3u8
 BR270:Globo Nordeste HD	00`06alive00`06b66006.m3u8
-BR:-----[Canais Abertos]---------------------------------	00`06alive00`06b66017.m3u8
+BR:-----[Canais Abertos]-----	00`06alive00`06b66017.m3u8
 BR230:Sbt FHD	00`06alive00`06b65785.m3u8
 BR085:SBT HD	00`06alive00`06b2447.m3u8
 BR231:Sbt SD	00`06alive00`06b65786.m3u8
@@ -7439,1543 +7439,1543 @@ AT020:Tirol TV	00`06alive00`06b60434.m3u8
 AT021:SIXX	00`06alive00`06b51472.m3u8
 AT022:SRF 1 HD	00`06alive00`06b51471.m3u8
 AT023:SRF 2 HD	00`06alive00`06b51470.m3u8
-007: NOVA GERACAO	01`03f934070.m3u8
-007: RETRO	01`03f934071.m3u8
-A ERA DO GELO	01`03f934082.m3u8
-A HORA DO PESADELO	01`03f934098.m3u8
-AMERICAN PIE: NOVA GERACAO	01`03f934105.m3u8
-AMERICAN PIE: RETRO	01`03f934106.m3u8
-ANIMAIS FANTASTICOS E ONDE HABITAM	01`03f934108.m3u8
-ANJOS DA NOITE	01`03f934111.m3u8
-BATMAN: NOVA GERACAO	01`03f934132.m3u8
-BATMAN: RETRO	01`03f934133.m3u8
-BLADE	01`03f934140.m3u8
-BRINQUEDO ASSASSINO	01`03f934150.m3u8
-CHUCKY	01`03f934176.m3u8
-CINE CATASTROFE 01	01`03f934178.m3u8
-CINE CATASTROFE 02	01`03f934179.m3u8
-CINE CATASTROFE 03	01`03f934180.m3u8
-CINE CATASTROFE 04	01`03f934181.m3u8
-CINE CATASTROFE 05	01`03f934182.m3u8
-CINE CATASTROFE 06	01`03f934183.m3u8
-CINE CATASTROFE 07	01`03f934184.m3u8
-CINE CATASTROFE 08	01`03f934185.m3u8
-CINE COMEDIA 01	01`03f934186.m3u8
-CINE COMEDIA 02	01`03f934187.m3u8
-CINE COMEDIA 03	01`03f934188.m3u8
-CINE COMEDIA 04	01`03f934189.m3u8
-CINE COMEDIA 05	01`03f934190.m3u8
-CINE COMEDIA 06	01`03f934191.m3u8
-CINE COMEDIA 07	01`03f934192.m3u8
-CINE COMEDIA 08: NACIONAL 01	01`03f934193.m3u8
-CINE COMEDIA 09: NACIONAL 02	01`03f934194.m3u8
-CINE COMEDIA 10	01`03f934195.m3u8
-CINE COMEDIA 11	01`03f934196.m3u8
-CINE COMEDIA 12	01`03f934197.m3u8
-CINE COMEDIA 13: SE BEBER NAO CASE	01`03f934198.m3u8
-CINE COMEDIA 14	01`03f934199.m3u8
-CINE DC 01	01`03f934200.m3u8
-CINE DC 02	01`03f934201.m3u8
-CINE DC 03	01`03f934202.m3u8
-CINE DRAMA 01	01`03f934203.m3u8
-CINE DRAMA 02	01`03f934204.m3u8
-CINE DRAMA 03	01`03f934205.m3u8
-CINE FANTASIA 01	01`03f934206.m3u8
-CINE FANTASIA 02	01`03f934207.m3u8
-CINE FANTASIA 03	01`03f934208.m3u8
-CINE FANTASIA 04	01`03f934209.m3u8
-CINE FANTASIA 05	01`03f934210.m3u8
-CINE FANTASIA 06	01`03f934211.m3u8
-CINE FANTASIA 07: MAGIA 01	01`03f934212.m3u8
-CINE FANTASIA 08: MAGIA 02	01`03f934213.m3u8
-CINE FANTASIA 09: TERROR 01	01`03f934214.m3u8
-CINE FANTASIA 10: TERROR 02	01`03f934215.m3u8
-CINE MARVEL 01	01`03f934216.m3u8
-CINE MARVEL 02	01`03f934217.m3u8
-CINE MARVEL 03	01`03f934218.m3u8
-CINE TERROR 01	01`03f934219.m3u8
-CINE TERROR 02	01`03f934220.m3u8
-CINE TERROR 04: ZUMBI	01`03f934222.m3u8
-CINE TERROR 05: VAMPIROS 01	01`03f934223.m3u8
-CINE TERROR 06: VAMPIROS 02	01`03f934224.m3u8
-CINE TERROR 07	01`03f934225.m3u8
-CINE TERROR 08: EXORCISMOS	01`03f934226.m3u8
-CINE TERROR 09: SOBRENATURAL	01`03f934227.m3u8
-CINE TERROR 10	01`03f934228.m3u8
-CINE TERROR 11: RETRO	01`03f934229.m3u8
-CINE TERROR 12	01`03f934230.m3u8
-CINE TERROR 03	01`03f934221.m3u8
-CINE TERROR 14	01`03f934232.m3u8
-CINE TERROR 13	01`03f934231.m3u8
-CREPUSCULO	01`03f934238.m3u8
-DIVERGENTE	01`03f934246.m3u8
-EFEITO BORBOLETA	01`03f934280.m3u8
-HALLOWEEN	01`03f934327.m3u8
-HARRY POTTER 01	01`03f934328.m3u8
-HARRY POTTER 02	01`03f934329.m3u8
-HOMEM DE FERRO	01`03f934332.m3u8
-HOMEM-ARANHA 01	01`03f934333.m3u8
-HOMEM-ARANHA 02: O ESPETACULAR	01`03f934334.m3u8
-HOMEM-ARANHA 03: NOVA GERACAO	01`03f934335.m3u8
-HOMENS DE PRETO	01`03f934336.m3u8
-INVOCACAO DO MAL	01`03f934350.m3u8
-JASON	01`03f934354.m3u8
-JOGOS MORTAIS	01`03f934356.m3u8
-JOGOS VORAZES	01`03f934357.m3u8
-JOHN WICK	01`03f934358.m3u8
-JUMANJI	01`03f934359.m3u8
-JURASSIC PARK	01`03f934361.m3u8
-JURASSIC WORLD	01`03f934362.m3u8
-MATRIX	01`03f934387.m3u8
-MAZE RUNNER	01`03f934388.m3u8
-MEU MALVADO FAVORITO	01`03f934390.m3u8
-MINHA MAE E UMA PECA	01`03f934394.m3u8
-O ALBERGUE	01`03f934409.m3u8
-O EXTERMINADOR DO FUTURO	01`03f934410.m3u8
-O REI LEAO	01`03f934415.m3u8
-PANICO	01`03f934489.m3u8
-PANICO NA FLORESTA	01`03f934490.m3u8
-PIRATAS DO CARIBE	01`03f934501.m3u8
-PLANETA DOS MACACOS	01`03f934503.m3u8
-PREMONICAO	01`03f934509.m3u8
-QUARTETO FANTASTICO	01`03f934517.m3u8
-RESIDENT EVIL	01`03f934520.m3u8
-STAR WARS	01`03f934559.m3u8
-SUPERMAN	01`03f934565.m3u8
-THOR	01`03f934629.m3u8
-TODO MUNDO EM PANICO	01`03f934630.m3u8
-TOY STORY	01`03f934639.m3u8
-UMA NOITE NO MUSEU	01`03f934648.m3u8
-VELOZES E FURIOSOS	01`03f934652.m3u8
-VINGADORES	01`03f934655.m3u8
-X-MEN: NOVA GERACAO	01`03f934661.m3u8
-X-MEN: WOLWERINE	01`03f934663.m3u8
-X-MEN: TRILOGIA	01`03f934662.m3u8
-DIGIMON ADVENTURE 01	01`03f934243.m3u8
-DIGIMON ADVENTURE 02	01`03f934244.m3u8
-DIGIMON ADVENTURE 03	01`03f934245.m3u8
-DRAGON BALL SUPER 01	01`03f934263.m3u8
-DRAGON BALL SUPER 02	01`03f934264.m3u8
-DRAGON BALL SUPER 03	01`03f934265.m3u8
-DRAGON BALL Z: BABIDI	01`03f934266.m3u8
-DRAGON BALL Z: CELL 01	01`03f934267.m3u8
-DRAGON BALL Z: CELL PERFEITO 03	01`03f934268.m3u8
-DRAGON BALL Z: CELL SEMI-PERFEITO 02	01`03f934269.m3u8
-DRAGON BALL Z: MAJIN BOO 01	01`03f934270.m3u8
-DRAGON BALL Z: MAJIN BOO 02	01`03f934271.m3u8
-DRAGON BALL Z: MAJIN BOO KID	01`03f934272.m3u8
-DRAGON BALL Z: MAJIN BOO SUPER	01`03f934273.m3u8
-DRAGON BALL Z: SAGA ANDROIDES	01`03f934274.m3u8
-DRAGON BALL Z: SAGA FREEZA	01`03f934275.m3u8
-DRAGON BALL Z: SAYAJIN	01`03f934276.m3u8
-DRAGON BALL Z: SUPER SAYAJIN	01`03f934277.m3u8
-DRAGON BALL: CLASSIC	01`03f934278.m3u8
-FREAKAZOID	01`03f934302.m3u8
-INUYASHA	01`03f934348.m3u8
-NANATSU NO TAIZAI	01`03f934405.m3u8
-NARUTO BORUTO	01`03f934406.m3u8
-NARUTO CLASSICO	01`03f934407.m3u8
-NARUTO SHIPPUDEN	01`03f934408.m3u8
-OS CAVALEIROS DO ZODIACO: A SAGA DO SANTUARIO	01`03f934423.m3u8
-OS CAVALEIROS DO ZODIACO: A SAGA DOS ELISEOS	01`03f934424.m3u8
-OS CAVALEIROS DO ZODIACO: ALMA DE OURO	01`03f934425.m3u8
-OS CAVALEIROS DO ZODIACO: CAVALEIROS DE PRATA 01	01`03f934426.m3u8
-OS CAVALEIROS DO ZODIACO: CAVALEIROS DE PRATA 02	01`03f934427.m3u8
-OS CAVALEIROS DO ZODIACO: CAVALEIROS DE PRATA 03	01`03f934428.m3u8
-OS CAVALEIROS DO ZODIACO: HADES A SAGA DO INFERNO	01`03f934429.m3u8
-OS CAVALEIROS DO ZODIACO: OMEGA 01	01`03f934430.m3u8
-OS CAVALEIROS DO ZODIACO: OMEGA 02	01`03f934431.m3u8
-OS CAVALEIROS DO ZODIACO: OMEGA 03	01`03f934432.m3u8
-OS CAVALEIROS DO ZODIACO: SAGA DE ASGARD 01	01`03f934433.m3u8
-OS CAVALEIROS DO ZODIACO: SAGA DE ASGARD 02	01`03f934434.m3u8
-OS CAVALEIROS DO ZODIACO: SAGA DE POSEIDON 01	01`03f934435.m3u8
-OS CAVALEIROS DO ZODIACO: SAGA DE POSEIDON 02	01`03f934436.m3u8
-OS CAVALEIROS DO ZODIACO: SAGA DOZE CASAS 01	01`03f934437.m3u8
-OS CAVALEIROS DO ZODIACO: SAGA DOZE CASAS 02	01`03f934438.m3u8
-OS CAVALEIROS DO ZODIACO: SAINT SEIYA 01	01`03f934439.m3u8
-OS CAVALEIROS DO ZODIACO: SAINT SEIYA 02	01`03f934440.m3u8
-OS CAVALEIROS DO ZODIACO: SAINT SEIYA 03	01`03f934441.m3u8
-OS CAVALEIROS DO ZODIACO: THE LOST CANVAS 01	01`03f934442.m3u8
-OS CAVALEIROS DO ZODIACO: THE LOST CANVAS 02	01`03f934443.m3u8
-OS CAVALEIROS DO ZODIACO: TORNEIO GALACTICOS	01`03f934444.m3u8
-SAKURA CARDS	01`03f934532.m3u8
-SHAMAN KING	01`03f934541.m3u8
-SHURATO	01`03f934544.m3u8
-GEORGE O CURIOSO	01`03f934324.m3u8
-A ESCRAVA ISAURA 01	01`03f934779.m3u8
-A ESCRAVA ISAURA 02	01`03f934780.m3u8
-A FAVORITA 01	01`03f934781.m3u8
-A FAVORITA 02	01`03f934782.m3u8
-A FORCA DO QUERER 01	01`03f934783.m3u8
-A FORCA DO QUERER 02	01`03f934784.m3u8
-A TERRA PROMETIDA 01	01`03f934785.m3u8
-A TERRA PROMETIDA 02	01`03f934786.m3u8
-A USURPADORA 01	01`03f934787.m3u8
-A USURPADORA 02	01`03f934788.m3u8
-AMOR DE MAE 01	01`03f934789.m3u8
-AMOR DE MAE 02	01`03f934790.m3u8
-AVENIDA BRASIL 01	01`03f934791.m3u8
-AVENIDA BRASIL 02	01`03f934792.m3u8
-CHEIAS DE CHARME 01	01`03f934793.m3u8
-CHEIAS DE CHARME 02	01`03f934794.m3u8
-CHIQUITITAS 01	01`03f934795.m3u8
-CHIQUITITAS 02	01`03f934796.m3u8
-CHOCOLATE COM PIMENTA 01	01`03f934797.m3u8
-CHOCOLATE COM PIMENTA 02	01`03f934798.m3u8
-DA COR DO PECADO 01	01`03f934799.m3u8
-DA COR DO PECADO 02	01`03f934800.m3u8
-GENESIS 01	01`03f934801.m3u8
-GENESIS 02	01`03f934802.m3u8
-KUBANACAN 01	01`03f934803.m3u8
-KUBANACAN 02	01`03f934804.m3u8
-LACOS DE FAMILIA 01	01`03f934805.m3u8
-LACOS DE FAMILIA 02	01`03f934806.m3u8
-MARIA DO BAIRRO 01	01`03f934807.m3u8
-MARIA DO BAIRRO 02	01`03f934808.m3u8
-O BEIJO DO VAMPIRO 01	01`03f934809.m3u8
-O BEIJO DO VAMPIRO 02	01`03f934810.m3u8
-O BEIJO DO VAMPIRO 03	01`03f934811.m3u8
-O CLONE 01	01`03f934812.m3u8
-O CLONE 02	01`03f934813.m3u8
-O REI DO GADO 01	01`03f934814.m3u8
-O REI DO GADO 02	01`03f934815.m3u8
-OS DEZ MANDAMENTOS 01	01`03f934816.m3u8
-OS DEZ MANDAMENTOS 02	01`03f934817.m3u8
-OS DEZ MANDAMENTOS 03	01`03f934818.m3u8
-OS DEZ MANDAMENTOS 04	01`03f934819.m3u8
-PANTANAL 01	01`03f934820.m3u8
-PANTANAL 02	01`03f934821.m3u8
-REBELDE 01	01`03f934822.m3u8
-REBELDE 02	01`03f934823.m3u8
-REBELDE 03	01`03f934824.m3u8
-TERRA E PAIXAO 01	01`03f934825.m3u8
-TERRA E PAIXAO 02	01`03f934826.m3u8
-VAMP 01	01`03f934827.m3u8
-VAMP 02	01`03f934828.m3u8
-VERDADES SECRETAS 01	01`03f934829.m3u8
-VERDADES SECRETAS 02	01`03f934830.m3u8
-VERDADES SECRETAS 03	01`03f934831.m3u8
-VERDADES SECRETAS 04	01`03f934832.m3u8
-9-1-1: 01	01`03f934074.m3u8
-9-1-1: 02	01`03f934075.m3u8
-9-1-1: 03	01`03f934076.m3u8
-9-1-1: 04	01`03f934077.m3u8
-9-1-1: 05	01`03f934078.m3u8
-9-1-1: 06	01`03f934079.m3u8
-A ESCOLINHA DO PROFESSOR RAIMUNDO	01`03f934083.m3u8
-A GRANDE FAMILIA 01	01`03f934089.m3u8
-A GRANDE FAMILIA 02	01`03f934090.m3u8
-A GRANDE FAMILIA 03	01`03f934091.m3u8
-A GRANDE FAMILIA 04	01`03f934092.m3u8
-A GRANDE FAMILIA 05	01`03f934093.m3u8
-A GRANDE FAMILIA 06	01`03f934094.m3u8
-A GRANDE FAMILIA 07	01`03f934095.m3u8
-A GRANDE FAMILIA 08	01`03f934096.m3u8
-A GRANDE FAMILIA 09	01`03f934097.m3u8
-CHAPOLIN 01	01`03f934160.m3u8
-CHAPOLIN 02	01`03f934161.m3u8
-CHAPOLIN 03	01`03f934162.m3u8
-CHAPOLIN 04	01`03f934163.m3u8
-CHAPOLIN 05	01`03f934164.m3u8
-CHAPOLIN 06	01`03f934165.m3u8
-CHAPOLIN 07	01`03f934166.m3u8
-CHAVES 00	01`03f934167.m3u8
-CHAVES 01	01`03f934168.m3u8
-CHAVES 02	01`03f934169.m3u8
-CHAVES 03	01`03f934170.m3u8
-CHAVES 04	01`03f934171.m3u8
-CHAVES 05	01`03f934172.m3u8
-CHAVES 06	01`03f934173.m3u8
-CHAVES 07	01`03f934174.m3u8
-CHAVES 08	01`03f934175.m3u8
-DOIS HOMENS E MEIO 01	01`03f934247.m3u8
-DOIS HOMENS E MEIO 02	01`03f934248.m3u8
-DOIS HOMENS E MEIO 03	01`03f934249.m3u8
-DOIS HOMENS E MEIO 04	01`03f934250.m3u8
-DOIS HOMENS E MEIO 05	01`03f934251.m3u8
-DOIS HOMENS E MEIO 06	01`03f934252.m3u8
-DOIS HOMENS E MEIO 07	01`03f934253.m3u8
-DOIS HOMENS E MEIO 08	01`03f934254.m3u8
-DOIS HOMENS E MEIO 09	01`03f934255.m3u8
-DOIS HOMENS E MEIO 10	01`03f934256.m3u8
-DOIS HOMENS E MEIO 11	01`03f934257.m3u8
-DOIS HOMENS E MEIO 12	01`03f934258.m3u8
-ELITE 01	01`03f934281.m3u8
-ELITE 02	01`03f934282.m3u8
-ELITE 03	01`03f934283.m3u8
-ELITE 04	01`03f934284.m3u8
-EU A PATROA E AS CRIANCAS 01	01`03f934285.m3u8
-EU A PATROA E AS CRIANCAS 02	01`03f934286.m3u8
-EU A PATROA E AS CRIANCAS 03	01`03f934287.m3u8
-EU A PATROA E AS CRIANCAS 04	01`03f934288.m3u8
-EU A PATROA E AS CRIANCAS 05	01`03f934289.m3u8
-EXPRESSO DO AMANHA 01	01`03f934291.m3u8
-EXPRESSO DO AMANHA 02	01`03f934292.m3u8
-FAMILIA DINOSSAURO 01	01`03f934295.m3u8
-FAMILIA DINOSSAURO 02	01`03f934296.m3u8
-FAMILIA DINOSSAURO 03	01`03f934297.m3u8
-FAMILIA DINOSSAURO 04	01`03f934298.m3u8
-GAME OF THRONES 01	01`03f934307.m3u8
-GAME OF THRONES 02	01`03f934308.m3u8
-GAME OF THRONES 03	01`03f934309.m3u8
-GAME OF THRONES 04	01`03f934310.m3u8
-GAME OF THRONES 05	01`03f934311.m3u8
-GAME OF THRONES 06	01`03f934312.m3u8
-GAME OF THRONES 07	01`03f934313.m3u8
-GAME OF THRONES 08	01`03f934314.m3u8
-GREYS ANATOMY	01`03f934326.m3u8
-HOUSE 01	01`03f934340.m3u8
-HOUSE 02	01`03f934341.m3u8
-HOUSE 03	01`03f934342.m3u8
-HOUSE 04	01`03f934343.m3u8
-HOUSE 05	01`03f934344.m3u8
-HOUSE 06	01`03f934345.m3u8
-HOUSE 07	01`03f934346.m3u8
-HOUSE 08	01`03f934347.m3u8
-JASPION	01`03f934355.m3u8
-LA CASA DE PAPEL 01	01`03f934364.m3u8
-LA CASA DE PAPEL 02	01`03f934365.m3u8
-LA CASA DE PAPEL 03	01`03f934366.m3u8
-LA CASA DE PAPEL 04	01`03f934367.m3u8
-LOST 01	01`03f934375.m3u8
-LOST 02	01`03f934376.m3u8
-LOST 03	01`03f934377.m3u8
-LOST 04	01`03f934378.m3u8
-LOST 05	01`03f934379.m3u8
-LOST 06	01`03f934380.m3u8
-MARIA CLARA E JP	01`03f934385.m3u8
-MUNDO DE BEAKEMAN 01	01`03f934399.m3u8
-MUNDO DE BEAKEMAN 02	01`03f934400.m3u8
-MUNDO DE BEAKEMAN 03	01`03f934401.m3u8
-MUNDO DE BEAKEMAN 04	01`03f934402.m3u8
-ORIGEM 01	01`03f934419.m3u8
-OS TRAPALHOES	01`03f934488.m3u8
-PRISON BREAKE 01	01`03f934510.m3u8
-PRISON BREAKE 02	01`03f934511.m3u8
-PRISON BREAKE 03	01`03f934512.m3u8
-PRISON BREAKE 04	01`03f934513.m3u8
-PRISON BREAKE 05	01`03f934514.m3u8
-SAI DE BAIXO 01	01`03f934525.m3u8
-SAI DE BAIXO 02	01`03f934526.m3u8
-SAI DE BAIXO 03	01`03f934527.m3u8
-SAI DE BAIXO 04	01`03f934528.m3u8
-SAI DE BAIXO 05	01`03f934529.m3u8
-SAI DE BAIXO 06	01`03f934530.m3u8
-SAI DE BAIXO 07	01`03f934531.m3u8
-SMALLVILLE 01	01`03f934546.m3u8
-SMALLVILLE 02	01`03f934547.m3u8
-SMALLVILLE 03	01`03f934548.m3u8
-SMALLVILLE 04	01`03f934549.m3u8
-SMALLVILLE 05	01`03f934550.m3u8
-SMALLVILLE 06	01`03f934551.m3u8
-SMALLVILLE 07	01`03f934552.m3u8
-SMALLVILLE 08	01`03f934553.m3u8
-SMALLVILLE 09	01`03f934554.m3u8
-SMALLVILLE 10	01`03f934555.m3u8
-SUPERNATURAL 01	01`03f934566.m3u8
-SUPERNATURAL 02	01`03f934567.m3u8
-SUPERNATURAL 03	01`03f934568.m3u8
-SUPERNATURAL 04	01`03f934569.m3u8
-SUPERNATURAL 05	01`03f934570.m3u8
-SUPERNATURAL 06	01`03f934571.m3u8
-SUPERNATURAL 07	01`03f934572.m3u8
-SUPERNATURAL 08	01`03f934573.m3u8
-SUPERNATURAL 09	01`03f934574.m3u8
-SUPERNATURAL 10	01`03f934575.m3u8
-THE BIG BANG 01	01`03f934578.m3u8
-THE BIG BANG 02	01`03f934579.m3u8
-THE BIG BANG 03	01`03f934580.m3u8
-THE BIG BANG 04	01`03f934581.m3u8
-THE BIG BANG 05	01`03f934582.m3u8
-THE BIG BANG 06	01`03f934583.m3u8
-THE BIG BANG 07	01`03f934584.m3u8
-THE BIG BANG 08	01`03f934585.m3u8
-THE BIG BANG 09	01`03f934586.m3u8
-THE BIG BANG 10	01`03f934587.m3u8
-THE BIG BANG 11	01`03f934588.m3u8
-THE BIG BANG 12	01`03f934589.m3u8
-THE BOYS 01	01`03f934590.m3u8
-THE BOYS 02	01`03f934591.m3u8
-THE GOOD DOCTOR 01	01`03f934592.m3u8
-THE GOOD DOCTOR 02	01`03f934593.m3u8
-THE GOOD DOCTOR 03	01`03f934594.m3u8
-THE GOOD DOCTOR 04	01`03f934595.m3u8
-THE MIDDLE 01	01`03f934596.m3u8
-THE MIDDLE 02	01`03f934597.m3u8
-THE MIDDLE 03	01`03f934598.m3u8
-THE MIDDLE 04	01`03f934599.m3u8
-THE MIDDLE 05	01`03f934600.m3u8
-THE MIDDLE 06	01`03f934601.m3u8
-THE MIDDLE 07	01`03f934602.m3u8
-THE MIDDLE 08	01`03f934603.m3u8
-THE MIDDLE 09	01`03f934604.m3u8
-THE WALKING DEAD	01`03f934605.m3u8
-THE WALKING DEAD 01	01`03f934606.m3u8
-THE WALKING DEAD 02	01`03f934607.m3u8
-THE WALKING DEAD 03	01`03f934608.m3u8
-THE WALKING DEAD 04	01`03f934609.m3u8
-THE WALKING DEAD 05	01`03f934610.m3u8
-THE WALKING DEAD 06	01`03f934611.m3u8
-THE WALKING DEAD 07	01`03f934612.m3u8
-THE WALKING DEAD 08	01`03f934613.m3u8
-THE WALKING DEAD 09	01`03f934614.m3u8
-THE WALKING DEAD 10: PARTE 01	01`03f934615.m3u8
-THE WALKING DEAD 10: PARTE 02	01`03f934616.m3u8
-THE WALKING DEAD 11: PARTE 01	01`03f934617.m3u8
-THE WALKING DEAD 11: PARTE 02	01`03f934618.m3u8
-THE WALKING DEAD 11: PARTE 03	01`03f934619.m3u8
-THE WALKING DEAD: FEAR 01	01`03f934620.m3u8
-THE WALKING DEAD: FEAR 02	01`03f934621.m3u8
-THE WALKING DEAD: FEAR 03	01`03f934622.m3u8
-THE WALKING DEAD: FEAR 04	01`03f934623.m3u8
-THE WALKING DEAD: FEAR 05	01`03f934624.m3u8
-THE WALKING DEAD: FEAR 06	01`03f934625.m3u8
-THE WALKING DEAD: FEAR 07	01`03f934626.m3u8
-THE WALKING DEAD: MUNDO NOVO 01	01`03f934627.m3u8
-THE WALKING DEAD: MUNDO NOVO 02	01`03f934628.m3u8
-TODO MUNDO ODEIA O CHRIS 01	01`03f934631.m3u8
-TODO MUNDO ODEIA O CHRIS 02	01`03f934632.m3u8
-TODO MUNDO ODEIA O CHRIS 03	01`03f934633.m3u8
-TODO MUNDO ODEIA O CHRIS 04	01`03f934634.m3u8
-YOUNG SHELDON 01	01`03f934703.m3u8
-YOUNG SHELDON 02	01`03f934704.m3u8
-YOUNG SHELDON 03	01`03f934705.m3u8
-YOUNG SHELDON 04	01`03f934706.m3u8
-AEROPORTO AREA RESTRITA 01	01`03f934708.m3u8
-AEROPORTO AREA RESTRITA 02	01`03f934709.m3u8
-AEROPORTO AREA RESTRITA 03	01`03f934710.m3u8
-CASAMENTO AS CEGAS 01	01`03f934711.m3u8
-CASAMENTO AS CEGAS 02	01`03f934712.m3u8
-CASAMENTO AS CEGAS 03	01`03f934713.m3u8
-CHEF 5 ESTRELAS	01`03f934714.m3u8
-COMPRAMOS VENDEMOS E TROCAMOS	01`03f934715.m3u8
-CONFEITARIA CONTRA O TEMPO	01`03f934716.m3u8
-DE FERIAS COM O EX BRASIL 01	01`03f934717.m3u8
-DE FERIAS COM O EX BRASIL 02	01`03f934718.m3u8
-DE FERIAS COM O EX BRASIL 03	01`03f934719.m3u8
-DE FERIAS COM O EX BRASIL 04	01`03f934720.m3u8
-ESCOLA DE CHOCOLATE	01`03f934721.m3u8
-FILHINHO DA MAMAE 01	01`03f934722.m3u8
-FILHINHO DA MAMAE 02	01`03f934723.m3u8
-FILHINHO DA MAMAE 03	01`03f934724.m3u8
-ILHADOS COM A SOGRA	01`03f934725.m3u8
-IRMAOS A OBRA 01	01`03f934726.m3u8
-IRMAOS A OBRA 02	01`03f934727.m3u8
-IRMAOS A OBRA 03	01`03f934728.m3u8
-IRMAOS A OBRA 04	01`03f934729.m3u8
-IRON CHEF BRASIL	01`03f934730.m3u8
-ISSO É UM BOLO	01`03f934731.m3u8
-LARGADOS E PELADOS 01	01`03f934732.m3u8
-LARGADOS E PELADOS BRASIL 01	01`03f934733.m3u8
-LARGADOS E PELADOS BRASIL 02	01`03f934734.m3u8
-LARGADOS E PELADOS FRANCA 01	01`03f934735.m3u8
-LARGADOS E PELADOS FRANCA 02	01`03f934736.m3u8
-LARGADOS E PELADOS: A TRIBO 01	01`03f934737.m3u8
-LARGADOS E PELADOS: A TRIBO 02	01`03f934738.m3u8
-LARGADOS E PELADOS: A TRIBO 03	01`03f934739.m3u8
-LARGADOS E PELADOS: A TRIBO 04	01`03f934740.m3u8
-LARGADOS PELADOS E CONGELADOS	01`03f934741.m3u8
-MANICOMIOS ASSOMBRADOS 01	01`03f934742.m3u8
-MANICOMIOS ASSOMBRADOS 02	01`03f934743.m3u8
-MANICOMIOS ASSOMBRADOS 03	01`03f934744.m3u8
-MASTERCHEF PROFISSIONAIS 01	01`03f934745.m3u8
-MASTERCHEF PROFISSIONAIS 02	01`03f934746.m3u8
-MASTERCHEF PROFISSIONAIS 03	01`03f934747.m3u8
-MASTERCHEF PROFISSIONAIS 04	01`03f934748.m3u8
-MIDAS DO FERRO VELHO 01	01`03f934749.m3u8
-MIDAS DO FERRO VELHO 02	01`03f934750.m3u8
-MIDAS DO FERRO VELHO 03	01`03f934751.m3u8
-O SOCIO 01	01`03f934752.m3u8
-O SOCIO 02	01`03f934753.m3u8
-O SOCIO 03	01`03f934754.m3u8
-O SOCIO 04	01`03f934755.m3u8
-O SOCIO 05	01`03f934756.m3u8
-O SOCIO 06	01`03f934757.m3u8
-PESADELO NA COZINHA 03	01`03f934768.m3u8
-POLICIA 24 HORAS	01`03f934769.m3u8
-QUILOS MORTAIS 01	01`03f934770.m3u8
-QUILOS MORTAIS 02	01`03f934771.m3u8
-QUILOS MORTAIS 03	01`03f934772.m3u8
-QUILOS MORTAIS 04	01`03f934773.m3u8
-STAND UP 01	01`03f934774.m3u8
-STAND UP 02	01`03f934775.m3u8
-VIDRADOS NO NATAL	01`03f934776.m3u8
-Z MUSICAL MARILIA MENDONCA	01`03f934777.m3u8
-Z MUSICAL PAGODE	01`03f934778.m3u8
-O SOCIO 07	01`03f934758.m3u8
-O SOCIO 08	01`03f934759.m3u8
-O ULTIMATO: CASA OU VAZA 01	01`03f934760.m3u8
-O ULTIMATO: CASA OU VAZA 02	01`03f934761.m3u8
-OPERACAO FRONTEIRA AMERICA DO SUL 01	01`03f934762.m3u8
-OPERACAO FRONTEIRA AMERICA DO SUL 02	01`03f934763.m3u8
-PEGADINHAS ESPECIAL	01`03f934764.m3u8
-PEGADINHAS ESPECIAL INTERNACIONAL	01`03f934765.m3u8
-PESADELO NA COZINHA 01	01`03f934766.m3u8
-PESADELO NA COZINHA 02	01`03f934767.m3u8
-3 PALAVRINHAS	01`03f934072.m3u8
-44 GATOS	01`03f934073.m3u8
-A CASA DE MICKEY	01`03f934080.m3u8
-A DONA ARANHA	01`03f934081.m3u8
-A FAMILIA URSO	01`03f934084.m3u8
-A LENDA DE OZ	01`03f934099.m3u8
-A PANTERA COR DE ROSA	01`03f934100.m3u8
-A TURMA DO ZE COLMEIA	01`03f934101.m3u8
-A VACA E O FRANGO	01`03f934102.m3u8
-ALF E.T. 01	01`03f934103.m3u8
-ALF E.T. 02	01`03f934104.m3u8
-AMIGAOZAO	01`03f934107.m3u8
-ANIMANIACS	01`03f934109.m3u8
-ANIMAZOON	01`03f934110.m3u8
-APENAS UM SHOW	01`03f934112.m3u8
-AS TARTARUGAS NINJAS 01	01`03f934113.m3u8
-AS TARTARUGAS NINJAS 02	01`03f934114.m3u8
-AS TRAPALHADAS DE FLAPJACK	01`03f934115.m3u8
-AVATAR: A LENDA DE KORRA 01	01`03f934116.m3u8
-AVATAR: A LENDA DE KORRA 02	01`03f934117.m3u8
-AVATAR: THE LAST AIRBENDER 01	01`03f934118.m3u8
-AVATAR: THE LAST AIRBENDER 02	01`03f934119.m3u8
-AVENTURAS COM OS KRATTS	01`03f934120.m3u8
-BABY LOONEY TUNES	01`03f934121.m3u8
-BABY NINAR ZzzzZzzZ	01`03f934122.m3u8
-BABYBUS	01`03f934123.m3u8
-BANANAS DE PIJAMAS	01`03f934124.m3u8
-BARBIE 01	01`03f934125.m3u8
-BARBIE 02	01`03f934126.m3u8
-BARBIE 03	01`03f934127.m3u8
-BARBIE 04	01`03f934128.m3u8
-BARBIE 05	01`03f934129.m3u8
-BARNEY E AMIGOS	01`03f934130.m3u8
-BATMAN: A SERIE ANIMADA	01`03f934131.m3u8
-BEBE CAMINHAO	01`03f934134.m3u8
-BEBE TUBARAO	01`03f934135.m3u8
-BEN 10	01`03f934136.m3u8
-BEN 10: FORCA ALIENIGENA	01`03f934137.m3u8
-BEN 10: OMNIVERSE 01	01`03f934138.m3u8
-BEN 10: OMNIVERSE 02	01`03f934139.m3u8
-BLAZE MONSTER	01`03f934141.m3u8
-BOB ESPONJA 01	01`03f934142.m3u8
-BOB ESPONJA 02	01`03f934143.m3u8
-BOB ESPONJA 03	01`03f934144.m3u8
-BOB O CONSTRUTOR	01`03f934145.m3u8
-BOB ZOOM	01`03f934146.m3u8
-BOLOFOFOS	01`03f934147.m3u8
-BOOBA	01`03f934148.m3u8
-BRANCA DE NEVE	01`03f934149.m3u8
-BUBBLE GUPPIES	01`03f934151.m3u8
-BUBU E AS CORUJINHAS	01`03f934152.m3u8
-CAILLOU	01`03f934153.m3u8
-CAMINHOES E ANIMAIS	01`03f934154.m3u8
-CAPITAO AMERICA	01`03f934155.m3u8
-CAPITAO CAVERNA	01`03f934156.m3u8
-CAPITAO PLANETA	01`03f934157.m3u8
-CAVALO DE FOGO	01`03f934158.m3u8
-CAVERNA DO DRAGAO	01`03f934159.m3u8
-CINDERELA E SUAS AVENTURAS	01`03f934177.m3u8
-CLARENCIO O OTIMISTA	01`03f934233.m3u8
-COCOMELON	01`03f934234.m3u8
-COMANDOS EM ACAO	01`03f934235.m3u8
-CONTOS ASSUSTADORES DA MASHA	01`03f934236.m3u8
-CORAGEM O CAO COVARDE	01`03f934237.m3u8
-DANIEL TIGRES	01`03f934239.m3u8
-DC SUPER HERO GIRLS	01`03f934240.m3u8
-DESENCANTO	01`03f934241.m3u8
-DESENHOS BIBLICOS	01`03f934242.m3u8
-DORA A AVENTURA	01`03f934259.m3u8
-DOUG FUNNY	01`03f934260.m3u8
-DOUTOR BRINQUEDOS	01`03f934261.m3u8
-DOUTOR ESTRANHO	01`03f934262.m3u8
-DUCK TALES	01`03f934279.m3u8
-EU SOU O MAXIMO	01`03f934290.m3u8
-FABULAS DA DISNEY	01`03f934293.m3u8
-FAISCA E FUMACA	01`03f934294.m3u8
-FLY O PEQUENO GUERREIRO	01`03f934299.m3u8
-FORMIGA ATOMICA	01`03f934300.m3u8
-FRANKSTEIN JR E OS IMPOSSIVEIS	01`03f934301.m3u8
-FUTURAMA	01`03f934303.m3u8
-GALINHA BABY	01`03f934304.m3u8
-GALINHA PINTADINHA	01`03f934305.m3u8
-GALINHA PINTADINHA MINI	01`03f934306.m3u8
-GARAGEM DO GECKO	01`03f934315.m3u8
-GARFIELD	01`03f934316.m3u8
-GARGULAS	01`03f934317.m3u8
-GATO DE BOTAS 01	01`03f934318.m3u8
-GATO DE BOTAS 02	01`03f934319.m3u8
-GATO DE BOTAS 03	01`03f934320.m3u8
-GATO DE BOTAS 04	01`03f934321.m3u8
-GATO DE BOTAS 05	01`03f934322.m3u8
-GATO DE BOTAS 06	01`03f934323.m3u8
-GRAVITY FALLS	01`03f934325.m3u8
-HE-MAN	01`03f934330.m3u8
-HISTORIAS BIBLICAS PARA CRIANCAS	01`03f934331.m3u8
-HORA DE AVENTURA 01	01`03f934337.m3u8
-HORA DE AVENTURA 02	01`03f934338.m3u8
-HORA DE AVENTURA 03	01`03f934339.m3u8
-INVENCIVEL	01`03f934349.m3u8
-IRMAO DO JOREL	01`03f934351.m3u8
-JACARELVIS	01`03f934352.m3u8
-JAKE E OS PIRATAS	01`03f934353.m3u8
-JURASSIC CRY BABES	01`03f934360.m3u8
-KONDOSAN	01`03f934363.m3u8
-LARANJA IRRITANTE	01`03f934368.m3u8
-LARVA	01`03f934369.m3u8
-LEGO UMA AVENTURA NA CIDADE	01`03f934370.m3u8
-LELLOBEE	01`03f934371.m3u8
-LEO E TIGRE	01`03f934372.m3u8
-LIGA DA JUSTICA	01`03f934373.m3u8
-LOONEY TUNES	01`03f934374.m3u8
-LOUIE	01`03f934381.m3u8
-LULUZINHA	01`03f934382.m3u8
-MAD	01`03f934383.m3u8
-MARATONA DE SESAMO	01`03f934384.m3u8
-MASHA E URSO	01`03f934386.m3u8
-MECANIMAIS	01`03f934389.m3u8
-MICKEY MOUSE	01`03f934391.m3u8
-MICKEY MOUSE CLASSIC	01`03f934392.m3u8
-MILA MORPHLE	01`03f934393.m3u8
-MISTER MAKE	01`03f934395.m3u8
-MONICA TOY	01`03f934396.m3u8
-MORANGUINHO	01`03f934397.m3u8
-MUMIAS VIVAS	01`03f934398.m3u8
-MUNDO RIPILICA	01`03f934403.m3u8
-MY LITTLE PONEY	01`03f934404.m3u8
-O EXTRAORDINARIO MUNDO DE BITA	01`03f934411.m3u8
-O INCRIVEL MUNDO DE GUMBALL	01`03f934412.m3u8
-O MUNDO DE MIA	01`03f934413.m3u8
-O PEQUENO SCOOBY-DOO	01`03f934414.m3u8
-O SHOW DA LUNA	01`03f934416.m3u8
-O SURFISTA PRATEADO	01`03f934417.m3u8
-OCTONAUTAS	01`03f934418.m3u8
-OS BACKYARDIGANS	01`03f934420.m3u8
-OS CACA FANTASMAS	01`03f934421.m3u8
-OS CASTORES PIRADOS	01`03f934422.m3u8
-OS DOZES TRABALHOS DE ASTERIX	01`03f934445.m3u8
-OS FLINTSONS	01`03f934446.m3u8
-OS HERCULOIDES	01`03f934447.m3u8
-OS JETSONS	01`03f934448.m3u8
-OS JOVENS TITAS EM ACAO	01`03f934449.m3u8
-OS MISTERIOS DE PIU-PIU E FRAJOLA	01`03f934450.m3u8
-OS MUZZARELA	01`03f934451.m3u8
-OS PADRINHOS MAGICOS	01`03f934452.m3u8
-OS SIMPSONS 01	01`03f934453.m3u8
-OS SIMPSONS 02	01`03f934454.m3u8
-OS SIMPSONS 03	01`03f934455.m3u8
-OS SIMPSONS 04	01`03f934456.m3u8
-OS SIMPSONS 05	01`03f934457.m3u8
-OS SIMPSONS 06	01`03f934458.m3u8
-OS SIMPSONS 07	01`03f934459.m3u8
-OS SIMPSONS 08	01`03f934460.m3u8
-OS SIMPSONS 09	01`03f934461.m3u8
-OS SIMPSONS 10	01`03f934462.m3u8
-OS SIMPSONS 11	01`03f934463.m3u8
-OS SIMPSONS 12	01`03f934464.m3u8
-OS SIMPSONS 13	01`03f934465.m3u8
-OS SIMPSONS 14	01`03f934466.m3u8
-OS SIMPSONS 15	01`03f934467.m3u8
-OS SIMPSONS 16	01`03f934468.m3u8
-OS SIMPSONS 17	01`03f934469.m3u8
-OS SIMPSONS 18	01`03f934470.m3u8
-OS SIMPSONS 19	01`03f934471.m3u8
-OS SIMPSONS 20	01`03f934472.m3u8
-OS SIMPSONS 21	01`03f934473.m3u8
-OS SIMPSONS 22	01`03f934474.m3u8
-OS SIMPSONS 23	01`03f934475.m3u8
-OS SIMPSONS 24	01`03f934476.m3u8
-OS SIMPSONS 25	01`03f934477.m3u8
-OS SIMPSONS 26	01`03f934478.m3u8
-OS SIMPSONS 27	01`03f934479.m3u8
-OS SIMPSONS 28	01`03f934480.m3u8
-OS SIMPSONS 29	01`03f934481.m3u8
-OS SIMPSONS 30	01`03f934482.m3u8
-OS SIMPSONS: ESPECIAL DE HALLOWEEN 01	01`03f934483.m3u8
-OS SIMPSONS: ESPECIAL DE HALLOWEEN 02	01`03f934484.m3u8
-OS SIMPSONS: ESPECIAL DE HALLOWEEN 03	01`03f934485.m3u8
-OS SIMPSONS: ESPECIAL DE HALLOWEEN 04	01`03f934486.m3u8
-OS SMURFS	01`03f934487.m3u8
-PAPA LEGUAS E O COIOTE	01`03f934491.m3u8
-PATATI PATATA	01`03f934492.m3u8
-PATO DONALD	01`03f934493.m3u8
-PATOLINO	01`03f934494.m3u8
-PATRULHA CANINA	01`03f934495.m3u8
-PEIXONAUTA	01`03f934496.m3u8
-PERDIDO NAS ESTRELAS	01`03f934497.m3u8
-PERNALONGA	01`03f934498.m3u8
-PICA-PAU	01`03f934499.m3u8
-PINK E O CEREBRO	01`03f934500.m3u8
-PJ MASKS	01`03f934502.m3u8
-POCOYO	01`03f934505.m3u8
-POLE POSITION	01`03f934506.m3u8
-POLLY POCKET	01`03f934507.m3u8
-POPEYE	01`03f934508.m3u8
-PUCCA	01`03f934515.m3u8
-PUNK BREWSTER	01`03f934516.m3u8
-RAMBO	01`03f934518.m3u8
-RAPUNZEL	01`03f934519.m3u8
-RICKY SUPER RAPIDO	01`03f934521.m3u8
-ROBCOCAR POLI	01`03f934522.m3u8
-ROBOCOP	01`03f934523.m3u8
-ROBOCOP	01`03f934524.m3u8
-SAMURAI JACK	01`03f934533.m3u8
-SCOOBY-DOO 01	01`03f934534.m3u8
-SCOOBY-DOO 02	01`03f934535.m3u8
-SCOOBY-DOO: CADE VOCE	01`03f934536.m3u8
-SCOOBY-DOO: MISTERIO S.A	01`03f934537.m3u8
-SCOOBY-DOO: O QUE HA DE NOVO	01`03f934538.m3u8
-SENDOKAI	01`03f934539.m3u8
-SHAUN O CARNEIRO	01`03f934542.m3u8
-SHE-RA E AS PRINCESAS	01`03f934543.m3u8
-SITIO DO PICA-PAU AMARELO	01`03f934545.m3u8
-SONIC	01`03f934556.m3u8
-SOUTH PARK 01	01`03f934557.m3u8
-SOUTH PARK 02	01`03f934558.m3u8
-STREET FIGHT	01`03f934560.m3u8
-SUPA STRIKAS	01`03f934561.m3u8
-SUPER CAMPEOES	01`03f934562.m3u8
-SUPER CHOQUE	01`03f934563.m3u8
-SUPER IMA	01`03f934564.m3u8
-TAZ MANIA	01`03f934576.m3u8
-TELETUBBIES	01`03f934577.m3u8
-TOM E JERRY 01	01`03f934635.m3u8
-TOM E JERRY 02	01`03f934636.m3u8
-TOM E JERRY 03	01`03f934637.m3u8
-TOM E JERRY 04	01`03f934638.m3u8
-TRANSFORMERS PRIME	01`03f934640.m3u8
-TRANSFORMERS RESCUE BOTS	01`03f934641.m3u8
-TRES ESPIAS	01`03f934642.m3u8
-TURMA DA MONICA	01`03f934643.m3u8
-TURMA DO RONALDINHO GAUCHO	01`03f934644.m3u8
-UMA FAMILIA DA PESADA 01	01`03f934645.m3u8
-UMA FAMILIA DA PESADA 02	01`03f934646.m3u8
-UMA FAZENDA MALUCA	01`03f934647.m3u8
-URSINHOS CARINHOSOS	01`03f934649.m3u8
-URSO SEM CURSO	01`03f934650.m3u8
-VELMA	01`03f934651.m3u8
-VELOZES E FURIOSOS: ESPIOES DO ASFALTO	01`03f934653.m3u8
-VERA E O REINO DO ARCO IRIS	01`03f934654.m3u8
-VINGADORES OS SUPER HEROIS	01`03f934656.m3u8
-VINGADORES UNIDOS	01`03f934657.m3u8
-VOVO SMURF	01`03f934658.m3u8
-X-MEN A SERIE	01`03f934659.m3u8
-X-MEN EVOLUTION	01`03f934660.m3u8
-ZUZUBALANDIA	01`03f934707.m3u8
-A&E FHD	01`03f188461.m3u8
-A&E FHD H265	01`03f188460.m3u8
-A&E SD	01`03f188464.m3u8
-AGROMAIS FHD	01`03f297143.m3u8
-AGROMAIS SD	01`03f297145.m3u8
-AMC FHD	01`03f188467.m3u8
-AMC FHD H265	01`03f188466.m3u8
-AMC SD	01`03f188470.m3u8
-ANIMAL PLANET FHD	01`03f188642.m3u8
-ANIMAL PLANET FHD H265	01`03f188641.m3u8
-ANIMAL PLANET SD	01`03f188645.m3u8
-AXN FHD	01`03f188473.m3u8
-AXN FHD H265	01`03f188472.m3u8
-AXN SD	01`03f188476.m3u8
-BABY TV SD	01`03f188968.m3u8
-BAND MINAS SD	01`03f299386.m3u8
-BAND NEWS FHD	01`03f189209.m3u8
-BAND NEWS FHD H265	01`03f189208.m3u8
-BAND NEWS SD	01`03f189212.m3u8
-BAND RJ FHD	01`03f299389.m3u8
-BAND SP FHD	01`03f188741.m3u8
-BAND SP FHD H265	01`03f188740.m3u8
-BAND SP SD	01`03f188744.m3u8
-BAND SPORTS FHD	01`03f211780.m3u8
-BAND SPORTS FHD H265	01`03f211779.m3u8
-BAND SPORTS SD	01`03f211783.m3u8
-BIS FHD	01`03f189056.m3u8
-BIS FHD H265	01`03f189055.m3u8
-BIS SD	01`03f189059.m3u8
-CANAL BRASIL FHD	01`03f188858.m3u8
-CANAL BRASIL FHD H265	01`03f188857.m3u8
-CANAL BRASIL SD	01`03f188861.m3u8
-CANAL DO BOI SD	01`03f297941.m3u8
-CANAL RURAL SD	01`03f297942.m3u8
-CANAL SONY FHD	01`03f188479.m3u8
-CANAL SONY FHD H265	01`03f188478.m3u8
-CANAL SONY SD	01`03f188482.m3u8
-CANCAO NOVA SD	01`03f211902.m3u8
-CARTOON NETWORK FHD	01`03f188977.m3u8
-CARTOON NETWORK FHD H265	01`03f188976.m3u8
-CARTOON NETWORK SD	01`03f188980.m3u8
-CARTOONITO FHD	01`03f188971.m3u8
-CARTOONITO FHD H265	01`03f188970.m3u8
-CARTOONITO SD	01`03f188974.m3u8
-CINEMAX FHD	01`03f188485.m3u8
-CINEMAX FHD H265	01`03f188484.m3u8
-CINEMAX SD	01`03f188488.m3u8
-CNN BRASIL FHD	01`03f189214.m3u8
-CNN BRASIL FHD H265	01`03f291368.m3u8
-CNN BRASIL SD	01`03f189217.m3u8
-COMBATE FHD	01`03f211786.m3u8
-COMBATE FHD H265	01`03f211785.m3u8
-COMBATE SD	01`03f211789.m3u8
-COMEDY CENTRAL FHD	01`03f188491.m3u8
-COMEDY CENTRAL FHD H265	01`03f188490.m3u8
-COMEDY CENTRAL SD	01`03f188494.m3u8
-CURTA! FHD	01`03f189062.m3u8
-CURTA! FHD H265	01`03f189061.m3u8
-CURTA! SD	01`03f286619.m3u8
-DISCOVERY CHANNEL FHD	01`03f188648.m3u8
-DISCOVERY CHANNEL FHD H265	01`03f188647.m3u8
-DISCOVERY CHANNEL SD	01`03f188651.m3u8
-DISCOVERY H&H FHD	01`03f188654.m3u8
-DISCOVERY H&H FHD H265	01`03f188653.m3u8
-DISCOVERY H&H SD	01`03f188657.m3u8
-DISCOVERY KIDS FHD	01`03f188983.m3u8
-DISCOVERY KIDS FHD H265	01`03f188982.m3u8
-DISCOVERY KIDS SD	01`03f188986.m3u8
-DISCOVERY SCIENCE FHD	01`03f188660.m3u8
-DISCOVERY SCIENCE FHD H265	01`03f188659.m3u8
-DISCOVERY SCIENCE SD	01`03f188663.m3u8
-DISCOVERY THEATER FHD	01`03f188666.m3u8
-DISCOVERY THEATER FHD H265	01`03f188665.m3u8
-DISCOVERY THEATER SD	01`03f188669.m3u8
-DISCOVERY TLC FHD	01`03f188720.m3u8
-DISCOVERY TLC FHD H265	01`03f188719.m3u8
-DISCOVERY TLC SD	01`03f188723.m3u8
-DISCOVERY TURBO FHD	01`03f188672.m3u8
-DISCOVERY TURBO FHD H265	01`03f188671.m3u8
-DISCOVERY TURBO SD	01`03f188675.m3u8
-DISCOVERY WORLD FHD	01`03f188678.m3u8
-DISCOVERY WORLD FHD H265	01`03f188677.m3u8
-DISCOVERY WORLD SD	01`03f188681.m3u8
-DISNEY CHANNEL FHD	01`03f188989.m3u8
-DISNEY CHANNEL FHD H265	01`03f188988.m3u8
-DISNEY CHANNEL SD	01`03f188992.m3u8
-DOGTV FHD	01`03f189897.m3u8
-E! FHD	01`03f189068.m3u8
-E! FHD H265	01`03f189067.m3u8
-E! SD	01`03f189071.m3u8
-ESPN FHD	01`03f211804.m3u8
-ESPN FHD H265	01`03f211803.m3u8
-ESPN SD	01`03f211807.m3u8
-ESPN 2 FHD	01`03f211792.m3u8
-ESPN 2 FHD H265	01`03f211791.m3u8
-ESPN 2 SD	01`03f211795.m3u8
-ESPN 3 FHD	01`03f211798.m3u8
-ESPN 3 FHD H265	01`03f211797.m3u8
-ESPN 3 SD	01`03f211801.m3u8
-ESPN 4 FHD	01`03f211816.m3u8
-ESPN 4 FHD H265	01`03f211815.m3u8
-ESPN 4 SD	01`03f211819.m3u8
-ESPN 5 FHD	01`03f211822.m3u8
-ESPN 5 FHD H265	01`03f211821.m3u8
-ESPN 5 SD	01`03f211825.m3u8
-ESPN 6 FHD	01`03f211810.m3u8
-ESPN 6 FHD H265	01`03f211809.m3u8
-ESPN 6 SD	01`03f211813.m3u8
-FISH TV FHD	01`03f188684.m3u8
-FISH TV FHD H265	01`03f188683.m3u8
-FISH TV SD	01`03f188687.m3u8
-FOOD NETWORK FHD	01`03f189074.m3u8
-FOOD NETWORK FHD H265	01`03f189073.m3u8
-FOOD NETWORK SD	01`03f189077.m3u8
-FUTURA SD	01`03f188866.m3u8
-FX FHD	01`03f188521.m3u8
-FX FHD H265	01`03f188520.m3u8
-FX SD	01`03f188524.m3u8
-GLOBO SP FHD	01`03f188301.m3u8
-GLOBO SP FHD H265	01`03f188300.m3u8
-GLOBO SP SD	01`03f188304.m3u8
-GLOBO RJ FHD	01`03f188307.m3u8
-GLOBO RJ FHD H265	01`03f188306.m3u8
-GLOBO RJ SD	01`03f188310.m3u8
-GLOBO MINAS FHD	01`03f188312.m3u8
-GLOBO MINAS FHD H265	01`03f291503.m3u8
-GLOBO MINAS SD	01`03f216833.m3u8
-GLOBO BAHIA SD	01`03f216825.m3u8
-GLOBO BAHIA FHD	01`03f188316.m3u8
-GLOBO BELEM FHD	01`03f216826.m3u8
-GLOBO BELEM SD	01`03f188323.m3u8
-GLOBO BOA VISTA SD	01`03f188325.m3u8
-GLOBO BRASILIA FHD	01`03f188328.m3u8
-GLOBO BRASILIA FHD H265	01`03f188327.m3u8
-GLOBO BRASILIA SD	01`03f216827.m3u8
-GLOBO EPTV CAMPINAS FHD	01`03f216828.m3u8
-GLOBO EPTV CAMPINAS SD	01`03f188335.m3u8
-GLOBO EPTV RIBEIRÃO PRETO FHD	01`03f216830.m3u8
-GLOBO EPTV RIBEIRÃO PRETO SD	01`03f188337.m3u8
-GLOBO EPTV SAO CARLOS SD	01`03f188338.m3u8
-GLOBO FLORIANOPOLIS FHD	01`03f216831.m3u8
-GLOBO FLORIANOPOLIS SD	01`03f188362.m3u8
-GLOBO GAZETA VITORIA ES FHD	01`03f188366.m3u8
-GLOBO INTER TV ALTO LITORAL FHD	01`03f188342.m3u8
-GLOBO INTER TV CABUGI FHD	01`03f188343.m3u8
-GLOBO NEWS FHD	01`03f189222.m3u8
-GLOBO NEWS FHD H265	01`03f189221.m3u8
-GLOBO NEWS SD	01`03f189225.m3u8
-GLOBO NORDESTE FHD	01`03f188352.m3u8
-GLOBO NORDESTE SD	01`03f188355.m3u8
-GLOBO NSC TV BLUMENAL FHD	01`03f291318.m3u8
-GLOBO NSC TV BLUMENAL SD	01`03f291319.m3u8
-GLOBO NSC TV CHAPECO FHD	01`03f291328.m3u8
-GLOBO NSC TV CHAPECO SD	01`03f291329.m3u8
-GLOBO NSC TV CRICIUMA FHD	01`03f342620.m3u8
-GLOBO NSC TV CRICIUMA SD	01`03f342622.m3u8
-GLOBO NSC TV JOINVILLE FHD	01`03f291330.m3u8
-GLOBO NSC TV JOINVILLE SD	01`03f291331.m3u8
-GLOBO RBS PORTO ALEGRE FHD	01`03f216834.m3u8
-GLOBO RBS PORTO ALEGRE FHD H265	01`03f291317.m3u8
-GLOBO RBS PORTO ALEGRE SD	01`03f188373.m3u8
-GLOBO RBS TV CAXIAS DO SUL FHD	01`03f291321.m3u8
-GLOBO RBS TV CAXIAS DO SUL SD	01`03f291323.m3u8
-GLOBO RBS TV PASSO FUNDO FHD	01`03f291493.m3u8
-GLOBO RBS TV PASSO FUNDO SD	01`03f291495.m3u8
-GLOBO RBS TV PELOTAS FHD	01`03f291334.m3u8
-GLOBO RBS TV PELOTAS SD	01`03f291336.m3u8
-GLOBO RBS TV SANTA MARIA FHD	01`03f291338.m3u8
-GLOBO RBS TV SANTA MARIA SD	01`03f291337.m3u8
-GLOBO RPC TV MARINGA FHD	01`03f188387.m3u8
-GLOBO RPC CURITIBA FHD	01`03f216835.m3u8
-GLOBO RPC CURITIBA SD	01`03f188384.m3u8
-GLOBO RPC LONDRINA	01`03f188388.m3u8
-GLOBO SERGIPE FHD	01`03f188390.m3u8
-GLOBO TV ANHANGUERA GOIANIA FHD	01`03f212566.m3u8
-GLOBO TV ANHANGUERA GOIANIA SD	01`03f188397.m3u8
-GLOBO TV CENTRO AMERICA FHD	01`03f188401.m3u8
-GLOBO TV CLUBE TERESINA FHD	01`03f216841.m3u8
-GLOBO TV GAZETA DE ALAGOAS FHD	01`03f216836.m3u8
-GLOBO TV GAZETA DE ALAGOAS SD	01`03f297576.m3u8
-GLOBO TV GAZETA SUL ES FHD	01`03f291320.m3u8
-GLOBO TV MIRANTE COCAIS FHD	01`03f291324.m3u8
-GLOBO TV MIRANTE COCAIS SD	01`03f291326.m3u8
-GLOBO TV MIRANTE SAO LUIS FHD	01`03f212568.m3u8
-GLOBO TV MIRANTE SAO LUIS SD	01`03f212571.m3u8
-GLOBO TV MORENA CAMPO GRANDE FHD	01`03f212573.m3u8
-GLOBO TV MORENA CAMPO GRANDE SD	01`03f291327.m3u8
-GLOBO TV REDE AMAZONICA MANAUS SD	01`03f188382.m3u8
-GLOBO TV REDE AMAZONICA PORTO VELHO SD	01`03f188370.m3u8
-GLOBO TV RIO SUL SD	01`03f188415.m3u8
-GLOBO TV SANTA CRUZ FHD	01`03f291339.m3u8
-GLOBO TV SANTA CRUZ SD	01`03f291341.m3u8
-GLOBO TV SUBAE SD	01`03f291344.m3u8
-GLOBO TV TEM SOROCABA FHD	01`03f216837.m3u8
-GLOBO TV TRIBUNA SANTOS SD	01`03f188419.m3u8
-GLOBO TV VANGUARDA S J CAMPOS SD	01`03f188420.m3u8
-GLOBO TV VERDES MARES FORTALEZA FHD	01`03f212576.m3u8
-GLOBO TV VERDES MARES FORTALEZA FHD H265	01`03f212577.m3u8
-GLOBO TV VERDES MARES FORTALEZA SD	01`03f212578.m3u8
-GLOOB FHD	01`03f189006.m3u8
-GLOOB FHD H265	01`03f189005.m3u8
-GLOOB SD	01`03f189009.m3u8
-GNT FHD	01`03f189080.m3u8
-GNT FHD H265	01`03f189079.m3u8
-GNT SD	01`03f189083.m3u8
-H2 FHD	01`03f188689.m3u8
-H2 FHD H265	01`03f188690.m3u8
-H2 SD	01`03f188693.m3u8
-HBO 2 FHD	01`03f211857.m3u8
-HBO 2 FHD H265	01`03f211856.m3u8
-HBO 2 SD	01`03f211860.m3u8
-HBO Familly FHD	01`03f211863.m3u8
-HBO Familly FHD H265	01`03f211862.m3u8
-HBO Familly SD	01`03f211866.m3u8
-HBO FHD	01`03f211851.m3u8
-HBO FHD H265	01`03f211850.m3u8
-HBO SD	01`03f211854.m3u8
-HBO MUNDI FHD	01`03f211869.m3u8
-HBO MUNDI FHD H265	01`03f211868.m3u8
-HBO MUNDI SD	01`03f211872.m3u8
-HBO PLUS FHD	01`03f211875.m3u8
-HBO PLUS FHD H265	01`03f211874.m3u8
-HBO PLUS SD	01`03f211878.m3u8
-HBO POP FHD	01`03f211881.m3u8
-HBO POP FHD H265	01`03f211880.m3u8
-HBO POP SD	01`03f211884.m3u8
-HBO SIGNATURE FHD	01`03f211887.m3u8
-HBO SIGNATURE FHD H265	01`03f211886.m3u8
-HBO SIGNATURE SD	01`03f211890.m3u8
-HBO XTREME FHD	01`03f211893.m3u8
-HBO XTREME FHD H265	01`03f211892.m3u8
-HBO XTREME SD	01`03f211896.m3u8
-HGTV FHD	01`03f189086.m3u8
-HGTV FHD H265	01`03f189085.m3u8
-HGTV SD	01`03f189089.m3u8
-HISTORY FHD	01`03f188696.m3u8
-HISTORY FHD H265	01`03f188695.m3u8
-HISTORY SD	01`03f188699.m3u8
-ID DISCOVERY FHD	01`03f188702.m3u8
-ID DISCOVERY FHD H265	01`03f188701.m3u8
-ID DISCOVERY SD	01`03f188705.m3u8
-JOVEM PAN NEWS FHD	01`03f229790.m3u8
-JOVEM PAN NEWS FHD H265	01`03f229789.m3u8
-JOVEM PAN NEWS SD	01`03f229792.m3u8
-LIFETIME FHD	01`03f188527.m3u8
-LIFETIME FHD H265	01`03f188526.m3u8
-LIFETIME SD	01`03f188530.m3u8
-MODO VIAGEM FHD	01`03f189844.m3u8
-MODO VIAGEM FHD H265	01`03f189843.m3u8
-MODO VIAGEM SD	01`03f189847.m3u8
-MEGAPIX FHD	01`03f188533.m3u8
-MEGAPIX FHD H265	01`03f188532.m3u8
-MEGAPIX SD	01`03f188536.m3u8
-MTV FHD	01`03f189097.m3u8
-MTV FHD H265	01`03f189096.m3u8
-MTV SD	01`03f189100.m3u8
-MULTISHOW FHD	01`03f189106.m3u8
-MULTISHOW FHD H265	01`03f189105.m3u8
-MULTISHOW SD	01`03f189109.m3u8
-MUSIC BOX BRAZIL FHD	01`03f286617.m3u8
-MUSIC BOX BRAZIL FHD H265	01`03f286618.m3u8
-MUSIC BOX BRAZIL SD	01`03f189103.m3u8
-NATGEO FHD	01`03f188708.m3u8
-NATGEO FHD H265	01`03f188707.m3u8
-NATGEO SD	01`03f188711.m3u8
-NHK WORLD SD	01`03f189228.m3u8
-NICK JR FHD	01`03f189018.m3u8
-NICK JR FHD H265	01`03f189017.m3u8
-NICK JR SD	01`03f189021.m3u8
-NICKELODEON FHD	01`03f189024.m3u8
-NICKELODEON FHD H265	01`03f189023.m3u8
-NICKELODEON SD	01`03f189027.m3u8
-OFF FHD	01`03f189112.m3u8
-OFF FHD H265	01`03f189111.m3u8
-OFF SD	01`03f189115.m3u8
-PARAMOUNT FHD	01`03f188539.m3u8
-PARAMOUNT FHD H265	01`03f188538.m3u8
-PARAMOUNT SD	01`03f188542.m3u8
-POLISHOP SD	01`03f189120.m3u8
-PREMIERE CLUBES FHD	01`03f188601.m3u8
-PREMIERE CLUBES FHD H265	01`03f188600.m3u8
-PREMIERE CLUBES SD	01`03f188604.m3u8
-PREMIERE 2 FHD	01`03f188607.m3u8
-PREMIERE 2 FHD H265	01`03f188606.m3u8
-PREMIERE 2 SD	01`03f188610.m3u8
-PREMIERE 3 FHD	01`03f188613.m3u8
-PREMIERE 3 FHD H265	01`03f188612.m3u8
-PREMIERE 3 SD	01`03f188616.m3u8
-PREMIERE 4 FHD	01`03f188619.m3u8
-PREMIERE 4 FHD H265	01`03f188618.m3u8
-PREMIERE 4 SD	01`03f188622.m3u8
-PREMIERE 5 FHD	01`03f188625.m3u8
-PREMIERE 5 FHD H265	01`03f188624.m3u8
-PREMIERE 5 SD	01`03f188628.m3u8
-PREMIERE 6 FHD	01`03f188631.m3u8
-PREMIERE 6 FHD H265	01`03f188630.m3u8
-PREMIERE 6 SD	01`03f188634.m3u8
-PREMIERE 7 FHD	01`03f188636.m3u8
-PREMIERE 7 SD	01`03f188639.m3u8
-PRIME BOX BRAZIL FHD	01`03f189117.m3u8
-PRIME BOX BRAZIL FHD H265	01`03f286616.m3u8
-PRIME BOX BRAZIL SD	01`03f286615.m3u8
-PRIME VIDEO 01	01`03f299403.m3u8
-PRIME VIDEO 02	01`03f338638.m3u8
-PRIME VIDEO 03	01`03f299402.m3u8
-PRIME VIDEO 04	01`03f899513.m3u8
-RECORD BAHIA SD	01`03f188806.m3u8
-RECORD BRASILIA SD	01`03f286625.m3u8
-RECORD GOIAS HD	01`03f188814.m3u8
-RECORD MINAS SD	01`03f188801.m3u8
-RECORD NEWS FHD	01`03f291369.m3u8
-RECORD NEWS FHD H265	01`03f189229.m3u8
-RECORD NEWS SD	01`03f189232.m3u8
-RECORD PARANA FHD	01`03f926702.m3u8
-RECORD PARANA HD	01`03f926703.m3u8
-RECORD SP FHD	01`03f188789.m3u8
-RECORD SP SD	01`03f188792.m3u8
-REDE BRASIL	01`03f200362.m3u8
-REDE TV FHD	01`03f188870.m3u8
-REDE TV FHD H265	01`03f188869.m3u8
-REDE TV SD	01`03f188873.m3u8
-REDE VIDA FHD	01`03f211908.m3u8
-REDE VIDA SD	01`03f211911.m3u8
-SBT PARANA FHD [ALT]	01`03f299398.m3u8
-SBT PARANA SD [ALT]	01`03f217318.m3u8
-SBT RECIFE FHD	01`03f188734.m3u8
-SBT RJ FHD	01`03f217133.m3u8
-SBT RJ SD	01`03f217135.m3u8
-SBT SERRA DOURADA [ALT]	01`03f299394.m3u8
-SBT SP FHD	01`03f188726.m3u8
-SBT SP FHD H265	01`03f188725.m3u8
-SBT SP SD	01`03f188729.m3u8
-SPACE FHD	01`03f188545.m3u8
-SPACE FHD H265	01`03f188544.m3u8
-SPACE SD	01`03f188548.m3u8
-SPORTV FHD	01`03f211828.m3u8
-SPORTV FHD H265	01`03f211827.m3u8
-SPORTV SD	01`03f211831.m3u8
-SPORTV 2 FHD	01`03f211834.m3u8
-SPORTV 2 FHD H265	01`03f211833.m3u8
-SPORTV 2 SD	01`03f211837.m3u8
-SPORTV 3 FHD	01`03f211840.m3u8
-SPORTV 3 FHD H265	01`03f211839.m3u8
-SPORTV 3 SD	01`03f211843.m3u8
-STAR CHANNEL FHD	01`03f188497.m3u8
-STAR CHANNEL FHD H265	01`03f188496.m3u8
-STAR CHANNEL SD	01`03f188500.m3u8
-CINECANAL FHD	01`03f188503.m3u8
-CINECANAL FHD H265	01`03f188502.m3u8
-CINECANAL SD	01`03f188506.m3u8
-STAR PLUS 01 [ALT]	01`03f927287.m3u8
-STAR PLUS 02 [ALT]	01`03f927288.m3u8
-STAR PLUS 03 [ALT]	01`03f927289.m3u8
-STUDIO UNIVERSAL FHD	01`03f188551.m3u8
-STUDIO UNIVERSAL FHD H265	01`03f188550.m3u8
-STUDIO UNIVERSAL SD	01`03f188554.m3u8
-SYFY FHD	01`03f188557.m3u8
-SYFY FHD H265	01`03f188556.m3u8
-SYFY SD	01`03f188560.m3u8
-TCM SD	01`03f188597.m3u8
-TELECINE ACTION FHD	01`03f188425.m3u8
-TELECINE ACTION FHD H265	01`03f188424.m3u8
-TELECINE ACTION SD	01`03f188428.m3u8
-TELECINE CULT FHD	01`03f188431.m3u8
-TELECINE CULT FHD H265	01`03f188430.m3u8
-TELECINE CULT SD	01`03f188434.m3u8
-TELECINE FUN FHD	01`03f188437.m3u8
-TELECINE FUN FHD H265	01`03f188436.m3u8
-TELECINE FUN SD	01`03f188440.m3u8
-TELECINE PIPOCA FHD	01`03f188443.m3u8
-TELECINE PIPOCA FHD H265	01`03f188442.m3u8
-TELECINE PIPOCA SD	01`03f188446.m3u8
-TELECINE PREMIUM FHD	01`03f188449.m3u8
-TELECINE PREMIUM FHD H265	01`03f188448.m3u8
-TELECINE PREMIUM SD	01`03f188452.m3u8
-TELECINE TOUCH FHD	01`03f188455.m3u8
-TELECINE TOUCH FHD H265	01`03f188454.m3u8
-TELECINE TOUCH SD	01`03f188458.m3u8
-TNT FHD	01`03f188569.m3u8
-TNT FHD H265	01`03f188568.m3u8
-TNT SD	01`03f188572.m3u8
-TNT SERIES FHD	01`03f188575.m3u8
-TNT SERIES FHD H265	01`03f188574.m3u8
-TNT SERIES SD	01`03f188578.m3u8
-TNT NOVELAS FHD	01`03f188562.m3u8
-TNT NOVELAS SD	01`03f188566.m3u8
-TOONCAST FHD	01`03f189030.m3u8
-TOONCAST SD	01`03f189034.m3u8
-TV ALTEROSA FHD [ALT]	01`03f299392.m3u8
-TV BRASIL FHD	01`03f282455.m3u8
-TV BRASIL SD	01`03f282457.m3u8
-TV CAMARA SD	01`03f189894.m3u8
-TV CULTURA SD	01`03f188882.m3u8
-TV DIARIO FORTALEZA FHD	01`03f188406.m3u8
-TV EVANGELIZAR FHD	01`03f211903.m3u8
-TV GAZETA SP FHD	01`03f188875.m3u8
-TV GLOOBINHO SD	01`03f189036.m3u8
-TV INTEGRAÇAO JUIZ DE FORA FHD	01`03f212283.m3u8
-TV INTEGRAÇAO JUIZ DE FORA SD	01`03f212284.m3u8
-TV MUNDIAL SD	01`03f211913.m3u8
-TV NOVO TEMPO SD	01`03f211906.m3u8
-TV PAI ETERNO SD	01`03f212528.m3u8
-TV RATIMBUM SD	01`03f189042.m3u8
-TV SENADO SD	01`03f208023.m3u8
-UNIVERSAL TV FHD	01`03f188581.m3u8
-UNIVERSAL TV FHD H265	01`03f188580.m3u8
-UNIVERSAL TV SD	01`03f188584.m3u8
-VH1 MEGAHITS SD	01`03f189094.m3u8
-VIVA FHD	01`03f189128.m3u8
-VIVA FHD H265	01`03f189127.m3u8
-VIVA SD	01`03f189131.m3u8
-WARNER CHANNEL FHD	01`03f188587.m3u8
-WARNER CHANNEL FHD H265	01`03f188586.m3u8
-WARNER CHANNEL SD	01`03f188590.m3u8
-WOOHOO FHD	01`03f189044.m3u8
-WOOHOO FHD H265	01`03f189045.m3u8
-WOOHOO SD	01`03f189048.m3u8
-ZOOMO SD	01`03f189053.m3u8
-Caze TV 02	01`03f632146.m3u8
-Caze TV 03	01`03f899515.m3u8
-REDE SUPER SD	01`03f319582.m3u8
-TRACE BRAZUCA SD	01`03f319581.m3u8
-BAND Brasilia FHD	01`03f336659.m3u8
-TRAVEL BOX BRAZIL SD	01`03f340971.m3u8
-PARAMOUNT + 01 [ALT]	01`03f932424.m3u8
-PARAMOUNT + 02 [ALT]	01`03f932425.m3u8
-TV FRONTEIRA PAULISTA SD	01`03f361011.m3u8
-TV CIDADE CANAL 9 - TERESÓPOLIS	01`03f415099.m3u8
-Canal GOAT 01	01`03f626150.m3u8
-Canal GOAT 02	01`03f930096.m3u8
-Canal GOAT 03	01`03f930097.m3u8
-SBT JANGADEIRO CE	01`03f905102.m3u8
-BAND TV GOIANIA FHD	01`03f926704.m3u8
-BAND TV GOIANIA HD	01`03f926705.m3u8
-A GRANDE CONQUISTA 01	01`03f929145.m3u8
-A GRANDE CONQUISTA 01 [ALT]	01`03f929146.m3u8
-A GRANDE CONQUISTA 02	01`03f929147.m3u8
-A GRANDE CONQUISTA 02 [ALT]	01`03f929148.m3u8
-A GRANDE CONQUISTA 03	01`03f929149.m3u8
-A GRANDE CONQUISTA 03 [ALT]	01`03f929150.m3u8
-A GRANDE CONQUISTA 04	01`03f929159.m3u8
-A GRANDE CONQUISTA 04 [ALT]	01`03f929160.m3u8
-ZAPPING TV 01	01`03f929161.m3u8
-Radio Hits 99,7	01`03f25273.m3u8
-Nativa 95.3 FM	01`03f25325.m3u8
-Transamerica SP 100,1 FM	01`03f25327.m3u8
-Cidade 103,10 FM	01`03f25329.m3u8
-Melody 94,1 FM	01`03f25331.m3u8
-Antena 1 SP FM	01`03f25332.m3u8
-Estilo FM 102,1	01`03f25333.m3u8
-Radio Clube Do Forro - Antigas	01`03f25335.m3u8
-Rádio Planeta Dance	01`03f25336.m3u8
-Jovem Pan SP 620 AM	01`03f25337.m3u8
-CBN Grandes Lagos 90.9 FM	01`03f25338.m3u8
-Igreja Pentecostal Deus é amor	01`03f345736.m3u8
-96 Bauru SP - 96 FM	01`03f345837.m3u8
-Cidade RJ - 102.9 FM	01`03f345838.m3u8
-CINE SKY 1	01`03f212107.m3u8
-CINE SKY 2	01`03f212109.m3u8
-CINE SKY 3	01`03f212111.m3u8
-CINE SKY 4	01`03f212113.m3u8
-CINE SKY 5	01`03f212115.m3u8
-CINE SKY 6	01`03f212117.m3u8
-CINE SKY 7	01`03f212119.m3u8
-CINE SKY 8	01`03f212121.m3u8
-CINE SKY 9	01`03f212123.m3u8
-CINE SKY 10	01`03f346765.m3u8
-GLOBO SP 4K	01`03f211923.m3u8
-ANIMAL PLANET 4K	01`03f211924.m3u8
-BAND SP 4K	01`03f211925.m3u8
-CARTOON 4K	01`03f211926.m3u8
-DISCOVERY CHANNEL 4K	01`03f211928.m3u8
-ESPN 4 4K	01`03f211929.m3u8
-PREMIERE CLUBES 4K	01`03f211935.m3u8
-RECORD TV SP 4K	01`03f211936.m3u8
-SBT SP 4K	01`03f211938.m3u8
-STAR CHANNEL 4K	01`03f211939.m3u8
-SPORTV 4K	01`03f211941.m3u8
-TELECINE PIPOCA 4K	01`03f211942.m3u8
-TELECINE PREMIUM 4K	01`03f211943.m3u8
-ESPN 4K	01`03f286622.m3u8
-TELECINE ACTION 4K	01`03f286624.m3u8
-UNIVERSAL CHANNEL 4K	01`03f286626.m3u8
-GNT 4K	01`03f286628.m3u8
-DISCOVERY TURBO 4K	01`03f286630.m3u8
-COMEDY CENTRAL 4K	01`03f286631.m3u8
-VIVA 4K	01`03f286632.m3u8
-DISCOVERY H&H 4K	01`03f286633.m3u8
-CNN BRASIL 4K	01`03f286634.m3u8
-GLOBO NEWS 4K	01`03f286635.m3u8
-AXN 4K	01`03f286636.m3u8
-JOVEM PAN NEWS 4K	01`03f286637.m3u8
-TV FRONTEIRA PAULISTA HD	01`03f361010.m3u8
-NBA League Pass 5 HD	01`03f343232.m3u8
-NBA League Pass 4 HD	01`03f343231.m3u8
-NBA League Pass 3 HD	01`03f343230.m3u8
-NBA League Pass 2 HD	01`03f343229.m3u8
-NBA League Pass 1 HD	01`03f343228.m3u8
-GLOBO NSC TV CRICIUMA HD	01`03f342621.m3u8
-TRAVEL BOX BRAZIL HD	01`03f340970.m3u8
-BAND Brasilia HD	01`03f336660.m3u8
-SBT Interior HD	01`03f336657.m3u8
-SBT Brasília HD	01`03f336656.m3u8
-TRACE BRAZUCA HD	01`03f319580.m3u8
-FURACAO LIVE 01	01`03f317409.m3u8
-GLOBO SERGIPE HD	01`03f306647.m3u8
-SPORTV 2 HD [ALT]	01`03f306566.m3u8
-SBT VTV CAMPINAS HD	01`03f299401.m3u8
-SBT BAHIA [ALT]	01`03f299397.m3u8
-SBT SERGIPE HD [ALT]	01`03f299396.m3u8
-SBT RS HD [ALT]	01`03f299395.m3u8
-TV ALTEROSA HD [ALT]	01`03f299393.m3u8
-BAND SERGIPE HD [ALT]	01`03f299391.m3u8
-BAND RS HD [ALT]	01`03f299390.m3u8
-BAND PARANA (Tv Taroba) HD	01`03f299388.m3u8
-BAND CAMPINAS HD	01`03f299385.m3u8
-BAND BAHIA HD	01`03f299384.m3u8
-AGROMAIS HD	01`03f297144.m3u8
-VIVA HD [ALT]	01`03f295706.m3u8
-SBT RJ HD [ALT]	01`03f295705.m3u8
-SBT SP HD [ALT]	01`03f295704.m3u8
-BAND SPORTS HD [ALT]	01`03f295703.m3u8
-BAND SP HD [ALT]	01`03f295702.m3u8
-COMBATE HD [ALT]	01`03f295699.m3u8
-ESPN 4 HD [ALT]	01`03f295698.m3u8
-ESPN 5 HD [ALT]	01`03f295697.m3u8
-PREMIERE 4 HD [ALT]	01`03f295696.m3u8
-PREMIERE 2 HD [ALT]	01`03f295695.m3u8
-PREMIERE CLUBES HD [ALT]	01`03f295694.m3u8
-RECORD SP HD [ALT]	01`03f295693.m3u8
-RECORD RS HD [ALT]	01`03f295692.m3u8
-RECORD RJ HD [ALT]	01`03f295691.m3u8
-RECORD MINAS HD	01`03f295689.m3u8
-RECORD BAHIA HD [ALT]	01`03f295688.m3u8
-RECORD GOIAS HD [ALT]	01`03f295687.m3u8
-RECORD BRASILIA HD [ALT]	01`03f295686.m3u8
-GLOBO RBS PORTO ALEGRE HD [ALT]	01`03f295684.m3u8
-GLOBO NORDESTE HD [ALT]	01`03f295683.m3u8
-GLOBO MINAS HD [ALT]	01`03f295682.m3u8
-GLOBO FLORIANOPOLIS HD [ALT]	01`03f295681.m3u8
-GLOBO EPTV CAMPINAS HD [ALT]	01`03f295680.m3u8
-GLOBO BRASILIA HD [ALT]	01`03f295679.m3u8
-GLOBO TV VERDES MARES FORTALEZA HD [ALT]	01`03f295678.m3u8
-GLOBO TV TEM BAURU HD [ALT]	01`03f295677.m3u8
-GLOBO RPC CURITIBA HD [ALT]	01`03f295676.m3u8
-ZOOMOO HD [ALT]	01`03f295674.m3u8
-NICKELODEON HD [ALT]	01`03f295673.m3u8
-NICK JR HD [ALT]	01`03f295672.m3u8
-GLOOB HD [ALT]	01`03f295670.m3u8
-DISNEY CHANNEL HD [ALT]	01`03f295667.m3u8
-DISCOVERY KIDS HD [ALT]	01`03f295666.m3u8
-CARTOON NETWORK HD [ALT]	01`03f295665.m3u8
-CARTOONITO HD [ALT]	01`03f295664.m3u8
-BABY TV HD	01`03f295663.m3u8
-NATGEO HD [ALT]	01`03f295662.m3u8
-ID DISCOVERY HD [ALT]	01`03f295660.m3u8
-HISTORY HD [ALT]	01`03f295659.m3u8
-H2 HD [ALT]	01`03f295658.m3u8
-DISCOVERY TURBO HD [ALT]	01`03f295657.m3u8
-DISCOVERY TLC HD [ALT]	01`03f295656.m3u8
-DISCOVERY WORLD HD [ALT]	01`03f295655.m3u8
-DISCOVERY THEATER HD [ALT]	01`03f295654.m3u8
-DISCOVERY SCIENCE HD [ALT]	01`03f295653.m3u8
-DISCOVERY H&H HD [ALT]	01`03f295652.m3u8
-DISCOVERY CHANNEL HD [ALT]	01`03f295651.m3u8
-ANIMAL PLANET HD [ALT]	01`03f295650.m3u8
-HBO Xtreme HD [ALT]	01`03f295649.m3u8
-HBO SIGNATURE HD [ALT]	01`03f295648.m3u8
-HBO POP HD [ALT]	01`03f295647.m3u8
-HBO PLUS HD [ALT]	01`03f295646.m3u8
-HBO MUNDI HD [ALT]	01`03f295645.m3u8
-HBO HD [ALT]	01`03f295644.m3u8
-HBO FAMILY HD [ALT]	01`03f295643.m3u8
-HBO 2 HD [ALT]	01`03f295642.m3u8
-TELECINE PIPOCA HD [ALT]	01`03f295641.m3u8
-COMEDY CENTRAL HD [ALT]	01`03f295640.m3u8
-SPACE HD [ALT]	01`03f295639.m3u8
-TELECINE TOUCH HD [ALT]	01`03f295638.m3u8
-TELECINE PREMIUM HD [ALT]	01`03f295637.m3u8
-TELECINE FUN HD [ALT]	01`03f295636.m3u8
-TELECINE CULT HD [ALT]	01`03f295635.m3u8
-TELECINE ACTION HD [ALT]	01`03f295634.m3u8
-ESPN 3 HD [ALT]	01`03f295633.m3u8
-ESPN 2 HD [ALT]	01`03f295632.m3u8
-ESPN 6 HD [ALT]	01`03f295631.m3u8
-ESPN HD [ALT]	01`03f295630.m3u8
-WARNER CHANNEL HD [ALT]	01`03f295629.m3u8
-UNIVERSAL TV HD [ALT]	01`03f295628.m3u8
-TNT SERIES HD [ALT]	01`03f295627.m3u8
-TNT HD [ALT]	01`03f295626.m3u8
-STUDIO UNIVERSAL HD [ALT]	01`03f295625.m3u8
-CANAL SONY HD [ALT]	01`03f295624.m3u8
-PARAMOUNT HD [ALT]	01`03f295623.m3u8
-MEGAPIX HD [ALT]	01`03f295622.m3u8
-FX HD [ALT]	01`03f295621.m3u8
-CINECANAL HD [ALT]	01`03f295618.m3u8
-STAR CHANNEL HD [ALT]	01`03f295617.m3u8
-CINEMAX HD [ALT]	01`03f295616.m3u8
-AXN HD [ALT]	01`03f295615.m3u8
-AMC HD [ALT]	01`03f295614.m3u8
-A&E HD [ALT]	01`03f295613.m3u8
-GLOBO RJ HD [ALT]	01`03f295612.m3u8
-GLOBO SP HD [ALT]	01`03f295611.m3u8
-SPORTV HD [ALT]	01`03f295610.m3u8
-SPORTV 3 HD [ALT]	01`03f295609.m3u8
-GLOBO RBS TV PASSO FUNDO HD	01`03f291494.m3u8
-GLOBO TV SUBAE HD	01`03f291343.m3u8
-GLOBO TV SANTA CRUZ HD	01`03f291340.m3u8
-GLOBO RBS TV PELOTAS HD	01`03f291335.m3u8
-GLOBO TV MIRANTE COCAIS HD	01`03f291325.m3u8
-GLOBO RBS TV CAXIAS DO SUL HD	01`03f291322.m3u8
-SBT BAHIA HD	01`03f291051.m3u8
-CURTA! HD	01`03f286620.m3u8
-TV BRASIL HD	01`03f282456.m3u8
-JOVEM PAN NEWS HD	01`03f229791.m3u8
-RECORD TV BELEM HD	01`03f217137.m3u8
-SBT RJ HD	01`03f217134.m3u8
-GLOBO TV CLUBE TERESINA HD	01`03f216842.m3u8
-TV INTEGRAÇAO JUIZ DE FORA HD	01`03f216840.m3u8
-GLOBO TV VANGUARDA S J CAMPOS HD	01`03f216839.m3u8
-GLOBO TV TRIBUNA SANTOS HD	01`03f216838.m3u8
-GLOBO INTER TV ALTO LITORAL HD	01`03f216832.m3u8
-GLOBO EPTV RIBEIRÃO PRETO HD	01`03f216829.m3u8
-GLOBO TV MORENA CAMPO GRANDE HD	01`03f212574.m3u8
-TV PAI ETERNO HD	01`03f212527.m3u8
-RIT TV HD	01`03f211918.m3u8
-REDE GOSPEL HD	01`03f211917.m3u8
-TV APARECIDA SD	01`03f211915.m3u8
-TV APARECIDA HD	01`03f211914.m3u8
-REDE VIDA HD [ALT]	01`03f211910.m3u8
-REDE VIDA HD	01`03f211909.m3u8
-TV NOVO TEMPO HD	01`03f211905.m3u8
-TV EVANGELIZAR HD	01`03f211904.m3u8
-CANCAO NOVA HD	01`03f211901.m3u8
-HBO XTREME HD	01`03f211894.m3u8
-HBO SIGNATURE HD	01`03f211888.m3u8
-HBO POP HD	01`03f211882.m3u8
-HBO PLUS HD	01`03f211876.m3u8
-HBO MUNDI HD	01`03f211870.m3u8
-HBO Familly HD	01`03f211864.m3u8
-HBO 2 HD	01`03f211858.m3u8
-HBO HD	01`03f211852.m3u8
-SPORTV 3 HD	01`03f211841.m3u8
-SPORTV 2 HD	01`03f211835.m3u8
-SPORTV HD	01`03f211829.m3u8
-ESPN 5 HD	01`03f211823.m3u8
-ESPN 4 HD	01`03f211817.m3u8
-ESPN 6 HD	01`03f211811.m3u8
-ESPN HD	01`03f211805.m3u8
-ESPN 3 HD	01`03f211799.m3u8
-ESPN 2 HD	01`03f211793.m3u8
-COMBATE HD	01`03f211787.m3u8
-BAND SPORTS HD	01`03f211781.m3u8
-DOGTV HD	01`03f189896.m3u8
-TV CAMARA HD	01`03f189895.m3u8
-MODO VIAGEM HD	01`03f189845.m3u8
-RECORD NEWS HD	01`03f189230.m3u8
-NHK WORLD HD	01`03f189227.m3u8
-GLOBO NEWS HD	01`03f189223.m3u8
-CNN INTERNACIONAL HD	01`03f189220.m3u8
-CNN BRASIL HD	01`03f189215.m3u8
-BAND NEWS HD	01`03f189210.m3u8
-VIVA HD	01`03f189129.m3u8
-PRIME BOX BRAZIL HD	01`03f189118.m3u8
-OFF HD	01`03f189113.m3u8
-MULTISHOW HD	01`03f189107.m3u8
-MUSIC BOX BRAZIL HD	01`03f189102.m3u8
-MTV HD	01`03f189098.m3u8
-HGTV HD	01`03f189087.m3u8
-GNT HD	01`03f189081.m3u8
-FOOD NETWORK HD	01`03f189075.m3u8
-E! HD	01`03f189069.m3u8
-BIS HD	01`03f189057.m3u8
-ZOOMO HD	01`03f189051.m3u8
-WOOHOO HD	01`03f189046.m3u8
-TV RATIMBUM HD	01`03f189040.m3u8
-TV GLOOBINHO HD	01`03f189037.m3u8
-TOONCAST HD	01`03f189032.m3u8
-NICKELODEON HD	01`03f189025.m3u8
-NICK JR HD	01`03f189019.m3u8
-GLOOB HD	01`03f189007.m3u8
-DISNEY CHANNEL HD	01`03f188990.m3u8
-DISCOVERY KIDS HD	01`03f188984.m3u8
-CARTOON NETWORK HD	01`03f188978.m3u8
-CARTOONITO HD	01`03f188972.m3u8
-TV CULTURA HD	01`03f188880.m3u8
-TV GAZETA SP HD	01`03f188876.m3u8
-REDE TV HD	01`03f188871.m3u8
-FUTURA HD	01`03f188865.m3u8
-CANAL BRASIL HD	01`03f188859.m3u8
-RECORD RS HD	01`03f188819.m3u8
-RECORD GOIAS SD	01`03f188815.m3u8
-RECORD BRASILIA HD	01`03f188808.m3u8
-RECORD BAHIA HD	01`03f188805.m3u8
-RECORD MINAS HD [ALT]	01`03f188799.m3u8
-RECORD RJ HD	01`03f188795.m3u8
-RECORD SP HD	01`03f188790.m3u8
-BAND CAMPINAS HD [ALT]	01`03f188752.m3u8
-BAND RJ HD	01`03f188747.m3u8
-BAND SP HD	01`03f188742.m3u8
-SBT TV JORNAL HD	01`03f188738.m3u8
-SBT SP HD	01`03f188727.m3u8
-DISCOVERY TLC HD	01`03f188721.m3u8
-NATGEO HD	01`03f188709.m3u8
-ID DISCOVERY HD	01`03f188703.m3u8
-HISTORY HD	01`03f188697.m3u8
-H2 HD	01`03f188691.m3u8
-FISH TV HD	01`03f188685.m3u8
-DISCOVERY WORLD HD	01`03f188679.m3u8
-DISCOVERY TURBO HD	01`03f188673.m3u8
-DISCOVERY THEATER HD	01`03f188667.m3u8
-DISCOVERY SCIENCE HD	01`03f188661.m3u8
-DISCOVERY H&H HD	01`03f188655.m3u8
-DISCOVERY CHANNEL HD	01`03f188649.m3u8
-ANIMAL PLANET HD	01`03f188643.m3u8
-PREMIERE 7 HD	01`03f188637.m3u8
-PREMIERE 6 HD	01`03f188632.m3u8
-PREMIERE 5 HD	01`03f188626.m3u8
-PREMIERE 4 HD	01`03f188620.m3u8
-PREMIERE 3 HD	01`03f188614.m3u8
-PREMIERE 2 HD	01`03f188608.m3u8
-PREMIERE CLUBES HD	01`03f188602.m3u8
-TCM HD	01`03f188596.m3u8
-WARNER CHANNEL HD	01`03f188588.m3u8
-UNIVERSAL TV HD	01`03f188582.m3u8
-TNT SERIES HD	01`03f188576.m3u8
-TNT HD	01`03f188570.m3u8
-TNT NOVELAS HD	01`03f188564.m3u8
-SYFY HD	01`03f188558.m3u8
-STUDIO UNIVERSAL HD	01`03f188552.m3u8
-SPACE HD	01`03f188546.m3u8
-PARAMOUNT HD	01`03f188540.m3u8
-MEGAPIX HD	01`03f188534.m3u8
-LIFETIME HD	01`03f188528.m3u8
-FX HD	01`03f188522.m3u8
-CINECANAL HD	01`03f188504.m3u8
-STAR CHANNEL HD	01`03f188498.m3u8
-COMEDY CENTRAL HD	01`03f188492.m3u8
-CINEMAX HD	01`03f188486.m3u8
-CANAL SONY HD	01`03f188480.m3u8
-AXN HD	01`03f188474.m3u8
-AMC HD	01`03f188468.m3u8
-A&E HD	01`03f188462.m3u8
-TELECINE TOUCH HD	01`03f188456.m3u8
-TELECINE PREMIUM HD	01`03f188450.m3u8
-TELECINE PIPOCA HD	01`03f188444.m3u8
-TELECINE FUN HD	01`03f188438.m3u8
-TELECINE CULT HD	01`03f188432.m3u8
-TELECINE ACTION HD	01`03f188426.m3u8
-GLOBO TV VERDES MARES FORTALEZA HD	01`03f188421.m3u8
-GLOBO TV TEM SOROCABA HD	01`03f188418.m3u8
-GLOBO TV TEM BAURU HD	01`03f188417.m3u8
-GLOBO TV RIO SUL HD	01`03f188413.m3u8
-GLOBO TV MIRANTE SAO LUIS HD	01`03f188411.m3u8
-TV DIARIO FORTALEZA HD	01`03f188407.m3u8
-GLOBO TV CABO BRANCO HD	01`03f188404.m3u8
-GLOBO TV CENTRO AMERICA HD	01`03f188402.m3u8
-GLOBO TV ASA BRANCA HD	01`03f188399.m3u8
-GLOBO TV ANHANGUERA GOIANIA HD	01`03f188395.m3u8
-GLOBO RPC MARINGA HD	01`03f188394.m3u8
-GLOBO TV TEM S. J. DO RIO PRETO HD	01`03f188393.m3u8
-GLOBO SERGIPE SD	01`03f188391.m3u8
-GLOBO RPC PONTA GROSSA HD	01`03f188389.m3u8
-GLOBO RPC FOZ DO IGUACU HD	01`03f188386.m3u8
-GLOBO RPC CURITIBA HD	01`03f188383.m3u8
-GLOBO TV REDE AMAZONICA MANAUS HD	01`03f188381.m3u8
-GLOBO RBS TV SANTA MARIA HD	01`03f188377.m3u8
-GLOBO RBS PORTO ALEGRE HD	01`03f188371.m3u8
-GLOBO TV REDE AMAZONICA PORTO VELHO HD	01`03f188369.m3u8
-GLOBO NSC TV JOINVILLE HD	01`03f188368.m3u8
-GLOBO GAZETA VITORIA ES HD	01`03f188367.m3u8
-GLOBO TV GAZETA SUL ES HD	01`03f188365.m3u8
-GLOBO TV GAZETA DE ALAGOAS HD	01`03f188363.m3u8
-GLOBO FLORIANOPOLIS HD	01`03f188360.m3u8
-GLOBO NSC TV CHAPECO HD	01`03f188358.m3u8
-GLOBO NSC TV BLUMENAL HD	01`03f188357.m3u8
-GLOBO NORDESTE HD	01`03f188353.m3u8
-GLOBO INTER TV SERRA MAR HD	01`03f188347.m3u8
-GLOBO INTER TV GRANDE MINAS HD	01`03f188346.m3u8
-GLOBO INTER TV DOS VALES HD	01`03f188345.m3u8
-GLOBO INTER TV CABUGI HD	01`03f188344.m3u8
-GLOBO EPTV SUL DE MINAS HD	01`03f188341.m3u8
-GLOBO EPTV CAMPINAS HD	01`03f188334.m3u8
-GLOBO BRASILIA HD	01`03f188329.m3u8
-GLOBO BOA VISTA HD	01`03f188326.m3u8
-GLOBO BELEM HD	01`03f188324.m3u8
-GLOBO BAHIA HD	01`03f188318.m3u8
-GLOBO MINAS HD	01`03f188313.m3u8
-GLOBO RJ HD	01`03f188308.m3u8
-GLOBO SP HD	01`03f188302.m3u8
-MAX 1	01`03f286681.m3u8
-MAX 2	01`03f286682.m3u8
-MAX 3	01`03f286683.m3u8
-MAX 4	01`03f286684.m3u8
-STAR PLUS 01	01`03f286687.m3u8
-STAR PLUS 02	01`03f286688.m3u8
-STAR PLUS 03	01`03f286689.m3u8
-STAR PLUS 04	01`03f286690.m3u8
-PARAMOUNT + 04	01`03f298814.m3u8
-PARAMOUNT + 03	01`03f298815.m3u8
-PARAMOUNT + 02	01`03f298816.m3u8
-PARAMOUNT + 01	01`03f298817.m3u8
-Caze TV 01	01`03f310708.m3u8
-LNF 02	01`03f310709.m3u8
-LNF 01	01`03f310710.m3u8
-DAZN1	01`03f310716.m3u8
-DAZN2	01`03f310717.m3u8
-DAZN3	01`03f310718.m3u8
-DAZN4	01`03f310719.m3u8
-STAR PLUS 06	01`03f310728.m3u8
-STAR PLUS 05	01`03f310729.m3u8
-FURACAO LIVE 02	01`03f338675.m3u8
-MAX 5	01`03f341357.m3u8
-MAX 6	01`03f341358.m3u8
-NOSSO FUTEBOL 01	01`03f345480.m3u8
-NOSSO FUTEBOL 02	01`03f345481.m3u8
-NOSSO FUTEBOL 03	01`03f345482.m3u8
-NOSSO FUTEBOL 04	01`03f369956.m3u8
-UFC FIGHT PASS 01	01`03f345044.m3u8
-UFC FIGHT PASS 02	01`03f345045.m3u8
-UFC FIGHT PASS 03	01`03f345046.m3u8
-BAND MINAS HD 	01`03f299387.m3u8
+007: NOVA GERACAO	01`03f934070.m3u8?2
+007: RETRO	01`03f934071.m3u8?2
+A ERA DO GELO	01`03f934082.m3u8?2
+A HORA DO PESADELO	01`03f934098.m3u8?2
+AMERICAN PIE: NOVA GERACAO	01`03f934105.m3u8?2
+AMERICAN PIE: RETRO	01`03f934106.m3u8?2
+ANIMAIS FANTASTICOS E ONDE HABITAM	01`03f934108.m3u8?2
+ANJOS DA NOITE	01`03f934111.m3u8?2
+BATMAN: NOVA GERACAO	01`03f934132.m3u8?2
+BATMAN: RETRO	01`03f934133.m3u8?2
+BLADE	01`03f934140.m3u8?2
+BRINQUEDO ASSASSINO	01`03f934150.m3u8?2
+CHUCKY	01`03f934176.m3u8?2
+CINE CATASTROFE 01	01`03f934178.m3u8?2
+CINE CATASTROFE 02	01`03f934179.m3u8?2
+CINE CATASTROFE 03	01`03f934180.m3u8?2
+CINE CATASTROFE 04	01`03f934181.m3u8?2
+CINE CATASTROFE 05	01`03f934182.m3u8?2
+CINE CATASTROFE 06	01`03f934183.m3u8?2
+CINE CATASTROFE 07	01`03f934184.m3u8?2
+CINE CATASTROFE 08	01`03f934185.m3u8?2
+CINE COMEDIA 01	01`03f934186.m3u8?2
+CINE COMEDIA 02	01`03f934187.m3u8?2
+CINE COMEDIA 03	01`03f934188.m3u8?2
+CINE COMEDIA 04	01`03f934189.m3u8?2
+CINE COMEDIA 05	01`03f934190.m3u8?2
+CINE COMEDIA 06	01`03f934191.m3u8?2
+CINE COMEDIA 07	01`03f934192.m3u8?2
+CINE COMEDIA 08: NACIONAL 01	01`03f934193.m3u8?2
+CINE COMEDIA 09: NACIONAL 02	01`03f934194.m3u8?2
+CINE COMEDIA 10	01`03f934195.m3u8?2
+CINE COMEDIA 11	01`03f934196.m3u8?2
+CINE COMEDIA 12	01`03f934197.m3u8?2
+CINE COMEDIA 13: SE BEBER NAO CASE	01`03f934198.m3u8?2
+CINE COMEDIA 14	01`03f934199.m3u8?2
+CINE DC 01	01`03f934200.m3u8?2
+CINE DC 02	01`03f934201.m3u8?2
+CINE DC 03	01`03f934202.m3u8?2
+CINE DRAMA 01	01`03f934203.m3u8?2
+CINE DRAMA 02	01`03f934204.m3u8?2
+CINE DRAMA 03	01`03f934205.m3u8?2
+CINE FANTASIA 01	01`03f934206.m3u8?2
+CINE FANTASIA 02	01`03f934207.m3u8?2
+CINE FANTASIA 03	01`03f934208.m3u8?2
+CINE FANTASIA 04	01`03f934209.m3u8?2
+CINE FANTASIA 05	01`03f934210.m3u8?2
+CINE FANTASIA 06	01`03f934211.m3u8?2
+CINE FANTASIA 07: MAGIA 01	01`03f934212.m3u8?2
+CINE FANTASIA 08: MAGIA 02	01`03f934213.m3u8?2
+CINE FANTASIA 09: TERROR 01	01`03f934214.m3u8?2
+CINE FANTASIA 10: TERROR 02	01`03f934215.m3u8?2
+CINE MARVEL 01	01`03f934216.m3u8?2
+CINE MARVEL 02	01`03f934217.m3u8?2
+CINE MARVEL 03	01`03f934218.m3u8?2
+CINE TERROR 01	01`03f934219.m3u8?2
+CINE TERROR 02	01`03f934220.m3u8?2
+CINE TERROR 04: ZUMBI	01`03f934222.m3u8?2
+CINE TERROR 05: VAMPIROS 01	01`03f934223.m3u8?2
+CINE TERROR 06: VAMPIROS 02	01`03f934224.m3u8?2
+CINE TERROR 07	01`03f934225.m3u8?2
+CINE TERROR 08: EXORCISMOS	01`03f934226.m3u8?2
+CINE TERROR 09: SOBRENATURAL	01`03f934227.m3u8?2
+CINE TERROR 10	01`03f934228.m3u8?2
+CINE TERROR 11: RETRO	01`03f934229.m3u8?2
+CINE TERROR 12	01`03f934230.m3u8?2
+CINE TERROR 03	01`03f934221.m3u8?2
+CINE TERROR 14	01`03f934232.m3u8?2
+CINE TERROR 13	01`03f934231.m3u8?2
+CREPUSCULO	01`03f934238.m3u8?2
+DIVERGENTE	01`03f934246.m3u8?2
+EFEITO BORBOLETA	01`03f934280.m3u8?2
+HALLOWEEN	01`03f934327.m3u8?2
+HARRY POTTER 01	01`03f934328.m3u8?2
+HARRY POTTER 02	01`03f934329.m3u8?2
+HOMEM DE FERRO	01`03f934332.m3u8?2
+HOMEM-ARANHA 01	01`03f934333.m3u8?2
+HOMEM-ARANHA 02: O ESPETACULAR	01`03f934334.m3u8?2
+HOMEM-ARANHA 03: NOVA GERACAO	01`03f934335.m3u8?2
+HOMENS DE PRETO	01`03f934336.m3u8?2
+INVOCACAO DO MAL	01`03f934350.m3u8?2
+JASON	01`03f934354.m3u8?2
+JOGOS MORTAIS	01`03f934356.m3u8?2
+JOGOS VORAZES	01`03f934357.m3u8?2
+JOHN WICK	01`03f934358.m3u8?2
+JUMANJI	01`03f934359.m3u8?2
+JURASSIC PARK	01`03f934361.m3u8?2
+JURASSIC WORLD	01`03f934362.m3u8?2
+MATRIX	01`03f934387.m3u8?2
+MAZE RUNNER	01`03f934388.m3u8?2
+MEU MALVADO FAVORITO	01`03f934390.m3u8?2
+MINHA MAE E UMA PECA	01`03f934394.m3u8?2
+O ALBERGUE	01`03f934409.m3u8?2
+O EXTERMINADOR DO FUTURO	01`03f934410.m3u8?2
+O REI LEAO	01`03f934415.m3u8?2
+PANICO	01`03f934489.m3u8?2
+PANICO NA FLORESTA	01`03f934490.m3u8?2
+PIRATAS DO CARIBE	01`03f934501.m3u8?2
+PLANETA DOS MACACOS	01`03f934503.m3u8?2
+PREMONICAO	01`03f934509.m3u8?2
+QUARTETO FANTASTICO	01`03f934517.m3u8?2
+RESIDENT EVIL	01`03f934520.m3u8?2
+STAR WARS	01`03f934559.m3u8?2
+SUPERMAN	01`03f934565.m3u8?2
+THOR	01`03f934629.m3u8?2
+TODO MUNDO EM PANICO	01`03f934630.m3u8?2
+TOY STORY	01`03f934639.m3u8?2
+UMA NOITE NO MUSEU	01`03f934648.m3u8?2
+VELOZES E FURIOSOS	01`03f934652.m3u8?2
+VINGADORES	01`03f934655.m3u8?2
+X-MEN: NOVA GERACAO	01`03f934661.m3u8?2
+X-MEN: WOLWERINE	01`03f934663.m3u8?2
+X-MEN: TRILOGIA	01`03f934662.m3u8?2
+DIGIMON ADVENTURE 01	01`03f934243.m3u8?2
+DIGIMON ADVENTURE 02	01`03f934244.m3u8?2
+DIGIMON ADVENTURE 03	01`03f934245.m3u8?2
+DRAGON BALL SUPER 01	01`03f934263.m3u8?2
+DRAGON BALL SUPER 02	01`03f934264.m3u8?2
+DRAGON BALL SUPER 03	01`03f934265.m3u8?2
+DRAGON BALL Z: BABIDI	01`03f934266.m3u8?2
+DRAGON BALL Z: CELL 01	01`03f934267.m3u8?2
+DRAGON BALL Z: CELL PERFEITO 03	01`03f934268.m3u8?2
+DRAGON BALL Z: CELL SEMI-PERFEITO 02	01`03f934269.m3u8?2
+DRAGON BALL Z: MAJIN BOO 01	01`03f934270.m3u8?2
+DRAGON BALL Z: MAJIN BOO 02	01`03f934271.m3u8?2
+DRAGON BALL Z: MAJIN BOO KID	01`03f934272.m3u8?2
+DRAGON BALL Z: MAJIN BOO SUPER	01`03f934273.m3u8?2
+DRAGON BALL Z: SAGA ANDROIDES	01`03f934274.m3u8?2
+DRAGON BALL Z: SAGA FREEZA	01`03f934275.m3u8?2
+DRAGON BALL Z: SAYAJIN	01`03f934276.m3u8?2
+DRAGON BALL Z: SUPER SAYAJIN	01`03f934277.m3u8?2
+DRAGON BALL: CLASSIC	01`03f934278.m3u8?2
+FREAKAZOID	01`03f934302.m3u8?2
+INUYASHA	01`03f934348.m3u8?2
+NANATSU NO TAIZAI	01`03f934405.m3u8?2
+NARUTO BORUTO	01`03f934406.m3u8?2
+NARUTO CLASSICO	01`03f934407.m3u8?2
+NARUTO SHIPPUDEN	01`03f934408.m3u8?2
+OS CAVALEIROS DO ZODIACO: A SAGA DO SANTUARIO	01`03f934423.m3u8?2
+OS CAVALEIROS DO ZODIACO: A SAGA DOS ELISEOS	01`03f934424.m3u8?2
+OS CAVALEIROS DO ZODIACO: ALMA DE OURO	01`03f934425.m3u8?2
+OS CAVALEIROS DO ZODIACO: CAVALEIROS DE PRATA 01	01`03f934426.m3u8?2
+OS CAVALEIROS DO ZODIACO: CAVALEIROS DE PRATA 02	01`03f934427.m3u8?2
+OS CAVALEIROS DO ZODIACO: CAVALEIROS DE PRATA 03	01`03f934428.m3u8?2
+OS CAVALEIROS DO ZODIACO: HADES A SAGA DO INFERNO	01`03f934429.m3u8?2
+OS CAVALEIROS DO ZODIACO: OMEGA 01	01`03f934430.m3u8?2
+OS CAVALEIROS DO ZODIACO: OMEGA 02	01`03f934431.m3u8?2
+OS CAVALEIROS DO ZODIACO: OMEGA 03	01`03f934432.m3u8?2
+OS CAVALEIROS DO ZODIACO: SAGA DE ASGARD 01	01`03f934433.m3u8?2
+OS CAVALEIROS DO ZODIACO: SAGA DE ASGARD 02	01`03f934434.m3u8?2
+OS CAVALEIROS DO ZODIACO: SAGA DE POSEIDON 01	01`03f934435.m3u8?2
+OS CAVALEIROS DO ZODIACO: SAGA DE POSEIDON 02	01`03f934436.m3u8?2
+OS CAVALEIROS DO ZODIACO: SAGA DOZE CASAS 01	01`03f934437.m3u8?2
+OS CAVALEIROS DO ZODIACO: SAGA DOZE CASAS 02	01`03f934438.m3u8?2
+OS CAVALEIROS DO ZODIACO: SAINT SEIYA 01	01`03f934439.m3u8?2
+OS CAVALEIROS DO ZODIACO: SAINT SEIYA 02	01`03f934440.m3u8?2
+OS CAVALEIROS DO ZODIACO: SAINT SEIYA 03	01`03f934441.m3u8?2
+OS CAVALEIROS DO ZODIACO: THE LOST CANVAS 01	01`03f934442.m3u8?2
+OS CAVALEIROS DO ZODIACO: THE LOST CANVAS 02	01`03f934443.m3u8?2
+OS CAVALEIROS DO ZODIACO: TORNEIO GALACTICOS	01`03f934444.m3u8?2
+SAKURA CARDS	01`03f934532.m3u8?2
+SHAMAN KING	01`03f934541.m3u8?2
+SHURATO	01`03f934544.m3u8?2
+GEORGE O CURIOSO	01`03f934324.m3u8?2
+A ESCRAVA ISAURA 01	01`03f934779.m3u8?2
+A ESCRAVA ISAURA 02	01`03f934780.m3u8?2
+A FAVORITA 01	01`03f934781.m3u8?2
+A FAVORITA 02	01`03f934782.m3u8?2
+A FORCA DO QUERER 01	01`03f934783.m3u8?2
+A FORCA DO QUERER 02	01`03f934784.m3u8?2
+A TERRA PROMETIDA 01	01`03f934785.m3u8?2
+A TERRA PROMETIDA 02	01`03f934786.m3u8?2
+A USURPADORA 01	01`03f934787.m3u8?2
+A USURPADORA 02	01`03f934788.m3u8?2
+AMOR DE MAE 01	01`03f934789.m3u8?2
+AMOR DE MAE 02	01`03f934790.m3u8?2
+AVENIDA BRASIL 01	01`03f934791.m3u8?2
+AVENIDA BRASIL 02	01`03f934792.m3u8?2
+CHEIAS DE CHARME 01	01`03f934793.m3u8?2
+CHEIAS DE CHARME 02	01`03f934794.m3u8?2
+CHIQUITITAS 01	01`03f934795.m3u8?2
+CHIQUITITAS 02	01`03f934796.m3u8?2
+CHOCOLATE COM PIMENTA 01	01`03f934797.m3u8?2
+CHOCOLATE COM PIMENTA 02	01`03f934798.m3u8?2
+DA COR DO PECADO 01	01`03f934799.m3u8?2
+DA COR DO PECADO 02	01`03f934800.m3u8?2
+GENESIS 01	01`03f934801.m3u8?2
+GENESIS 02	01`03f934802.m3u8?2
+KUBANACAN 01	01`03f934803.m3u8?2
+KUBANACAN 02	01`03f934804.m3u8?2
+LACOS DE FAMILIA 01	01`03f934805.m3u8?2
+LACOS DE FAMILIA 02	01`03f934806.m3u8?2
+MARIA DO BAIRRO 01	01`03f934807.m3u8?2
+MARIA DO BAIRRO 02	01`03f934808.m3u8?2
+O BEIJO DO VAMPIRO 01	01`03f934809.m3u8?2
+O BEIJO DO VAMPIRO 02	01`03f934810.m3u8?2
+O BEIJO DO VAMPIRO 03	01`03f934811.m3u8?2
+O CLONE 01	01`03f934812.m3u8?2
+O CLONE 02	01`03f934813.m3u8?2
+O REI DO GADO 01	01`03f934814.m3u8?2
+O REI DO GADO 02	01`03f934815.m3u8?2
+OS DEZ MANDAMENTOS 01	01`03f934816.m3u8?2
+OS DEZ MANDAMENTOS 02	01`03f934817.m3u8?2
+OS DEZ MANDAMENTOS 03	01`03f934818.m3u8?2
+OS DEZ MANDAMENTOS 04	01`03f934819.m3u8?2
+PANTANAL 01	01`03f934820.m3u8?2
+PANTANAL 02	01`03f934821.m3u8?2
+REBELDE 01	01`03f934822.m3u8?2
+REBELDE 02	01`03f934823.m3u8?2
+REBELDE 03	01`03f934824.m3u8?2
+TERRA E PAIXAO 01	01`03f934825.m3u8?2
+TERRA E PAIXAO 02	01`03f934826.m3u8?2
+VAMP 01	01`03f934827.m3u8?2
+VAMP 02	01`03f934828.m3u8?2
+VERDADES SECRETAS 01	01`03f934829.m3u8?2
+VERDADES SECRETAS 02	01`03f934830.m3u8?2
+VERDADES SECRETAS 03	01`03f934831.m3u8?2
+VERDADES SECRETAS 04	01`03f934832.m3u8?2
+9-1-1: 01	01`03f934074.m3u8?2
+9-1-1: 02	01`03f934075.m3u8?2
+9-1-1: 03	01`03f934076.m3u8?2
+9-1-1: 04	01`03f934077.m3u8?2
+9-1-1: 05	01`03f934078.m3u8?2
+9-1-1: 06	01`03f934079.m3u8?2
+A ESCOLINHA DO PROFESSOR RAIMUNDO	01`03f934083.m3u8?2
+A GRANDE FAMILIA 01	01`03f934089.m3u8?2
+A GRANDE FAMILIA 02	01`03f934090.m3u8?2
+A GRANDE FAMILIA 03	01`03f934091.m3u8?2
+A GRANDE FAMILIA 04	01`03f934092.m3u8?2
+A GRANDE FAMILIA 05	01`03f934093.m3u8?2
+A GRANDE FAMILIA 06	01`03f934094.m3u8?2
+A GRANDE FAMILIA 07	01`03f934095.m3u8?2
+A GRANDE FAMILIA 08	01`03f934096.m3u8?2
+A GRANDE FAMILIA 09	01`03f934097.m3u8?2
+CHAPOLIN 01	01`03f934160.m3u8?2
+CHAPOLIN 02	01`03f934161.m3u8?2
+CHAPOLIN 03	01`03f934162.m3u8?2
+CHAPOLIN 04	01`03f934163.m3u8?2
+CHAPOLIN 05	01`03f934164.m3u8?2
+CHAPOLIN 06	01`03f934165.m3u8?2
+CHAPOLIN 07	01`03f934166.m3u8?2
+CHAVES 00	01`03f934167.m3u8?2
+CHAVES 01	01`03f934168.m3u8?2
+CHAVES 02	01`03f934169.m3u8?2
+CHAVES 03	01`03f934170.m3u8?2
+CHAVES 04	01`03f934171.m3u8?2
+CHAVES 05	01`03f934172.m3u8?2
+CHAVES 06	01`03f934173.m3u8?2
+CHAVES 07	01`03f934174.m3u8?2
+CHAVES 08	01`03f934175.m3u8?2
+DOIS HOMENS E MEIO 01	01`03f934247.m3u8?2
+DOIS HOMENS E MEIO 02	01`03f934248.m3u8?2
+DOIS HOMENS E MEIO 03	01`03f934249.m3u8?2
+DOIS HOMENS E MEIO 04	01`03f934250.m3u8?2
+DOIS HOMENS E MEIO 05	01`03f934251.m3u8?2
+DOIS HOMENS E MEIO 06	01`03f934252.m3u8?2
+DOIS HOMENS E MEIO 07	01`03f934253.m3u8?2
+DOIS HOMENS E MEIO 08	01`03f934254.m3u8?2
+DOIS HOMENS E MEIO 09	01`03f934255.m3u8?2
+DOIS HOMENS E MEIO 10	01`03f934256.m3u8?2
+DOIS HOMENS E MEIO 11	01`03f934257.m3u8?2
+DOIS HOMENS E MEIO 12	01`03f934258.m3u8?2
+ELITE 01	01`03f934281.m3u8?2
+ELITE 02	01`03f934282.m3u8?2
+ELITE 03	01`03f934283.m3u8?2
+ELITE 04	01`03f934284.m3u8?2
+EU A PATROA E AS CRIANCAS 01	01`03f934285.m3u8?2
+EU A PATROA E AS CRIANCAS 02	01`03f934286.m3u8?2
+EU A PATROA E AS CRIANCAS 03	01`03f934287.m3u8?2
+EU A PATROA E AS CRIANCAS 04	01`03f934288.m3u8?2
+EU A PATROA E AS CRIANCAS 05	01`03f934289.m3u8?2
+EXPRESSO DO AMANHA 01	01`03f934291.m3u8?2
+EXPRESSO DO AMANHA 02	01`03f934292.m3u8?2
+FAMILIA DINOSSAURO 01	01`03f934295.m3u8?2
+FAMILIA DINOSSAURO 02	01`03f934296.m3u8?2
+FAMILIA DINOSSAURO 03	01`03f934297.m3u8?2
+FAMILIA DINOSSAURO 04	01`03f934298.m3u8?2
+GAME OF THRONES 01	01`03f934307.m3u8?2
+GAME OF THRONES 02	01`03f934308.m3u8?2
+GAME OF THRONES 03	01`03f934309.m3u8?2
+GAME OF THRONES 04	01`03f934310.m3u8?2
+GAME OF THRONES 05	01`03f934311.m3u8?2
+GAME OF THRONES 06	01`03f934312.m3u8?2
+GAME OF THRONES 07	01`03f934313.m3u8?2
+GAME OF THRONES 08	01`03f934314.m3u8?2
+GREYS ANATOMY	01`03f934326.m3u8?2
+HOUSE 01	01`03f934340.m3u8?2
+HOUSE 02	01`03f934341.m3u8?2
+HOUSE 03	01`03f934342.m3u8?2
+HOUSE 04	01`03f934343.m3u8?2
+HOUSE 05	01`03f934344.m3u8?2
+HOUSE 06	01`03f934345.m3u8?2
+HOUSE 07	01`03f934346.m3u8?2
+HOUSE 08	01`03f934347.m3u8?2
+JASPION	01`03f934355.m3u8?2
+LA CASA DE PAPEL 01	01`03f934364.m3u8?2
+LA CASA DE PAPEL 02	01`03f934365.m3u8?2
+LA CASA DE PAPEL 03	01`03f934366.m3u8?2
+LA CASA DE PAPEL 04	01`03f934367.m3u8?2
+LOST 01	01`03f934375.m3u8?2
+LOST 02	01`03f934376.m3u8?2
+LOST 03	01`03f934377.m3u8?2
+LOST 04	01`03f934378.m3u8?2
+LOST 05	01`03f934379.m3u8?2
+LOST 06	01`03f934380.m3u8?2
+MARIA CLARA E JP	01`03f934385.m3u8?2
+MUNDO DE BEAKEMAN 01	01`03f934399.m3u8?2
+MUNDO DE BEAKEMAN 02	01`03f934400.m3u8?2
+MUNDO DE BEAKEMAN 03	01`03f934401.m3u8?2
+MUNDO DE BEAKEMAN 04	01`03f934402.m3u8?2
+ORIGEM 01	01`03f934419.m3u8?2
+OS TRAPALHOES	01`03f934488.m3u8?2
+PRISON BREAKE 01	01`03f934510.m3u8?2
+PRISON BREAKE 02	01`03f934511.m3u8?2
+PRISON BREAKE 03	01`03f934512.m3u8?2
+PRISON BREAKE 04	01`03f934513.m3u8?2
+PRISON BREAKE 05	01`03f934514.m3u8?2
+SAI DE BAIXO 01	01`03f934525.m3u8?2
+SAI DE BAIXO 02	01`03f934526.m3u8?2
+SAI DE BAIXO 03	01`03f934527.m3u8?2
+SAI DE BAIXO 04	01`03f934528.m3u8?2
+SAI DE BAIXO 05	01`03f934529.m3u8?2
+SAI DE BAIXO 06	01`03f934530.m3u8?2
+SAI DE BAIXO 07	01`03f934531.m3u8?2
+SMALLVILLE 01	01`03f934546.m3u8?2
+SMALLVILLE 02	01`03f934547.m3u8?2
+SMALLVILLE 03	01`03f934548.m3u8?2
+SMALLVILLE 04	01`03f934549.m3u8?2
+SMALLVILLE 05	01`03f934550.m3u8?2
+SMALLVILLE 06	01`03f934551.m3u8?2
+SMALLVILLE 07	01`03f934552.m3u8?2
+SMALLVILLE 08	01`03f934553.m3u8?2
+SMALLVILLE 09	01`03f934554.m3u8?2
+SMALLVILLE 10	01`03f934555.m3u8?2
+SUPERNATURAL 01	01`03f934566.m3u8?2
+SUPERNATURAL 02	01`03f934567.m3u8?2
+SUPERNATURAL 03	01`03f934568.m3u8?2
+SUPERNATURAL 04	01`03f934569.m3u8?2
+SUPERNATURAL 05	01`03f934570.m3u8?2
+SUPERNATURAL 06	01`03f934571.m3u8?2
+SUPERNATURAL 07	01`03f934572.m3u8?2
+SUPERNATURAL 08	01`03f934573.m3u8?2
+SUPERNATURAL 09	01`03f934574.m3u8?2
+SUPERNATURAL 10	01`03f934575.m3u8?2
+THE BIG BANG 01	01`03f934578.m3u8?2
+THE BIG BANG 02	01`03f934579.m3u8?2
+THE BIG BANG 03	01`03f934580.m3u8?2
+THE BIG BANG 04	01`03f934581.m3u8?2
+THE BIG BANG 05	01`03f934582.m3u8?2
+THE BIG BANG 06	01`03f934583.m3u8?2
+THE BIG BANG 07	01`03f934584.m3u8?2
+THE BIG BANG 08	01`03f934585.m3u8?2
+THE BIG BANG 09	01`03f934586.m3u8?2
+THE BIG BANG 10	01`03f934587.m3u8?2
+THE BIG BANG 11	01`03f934588.m3u8?2
+THE BIG BANG 12	01`03f934589.m3u8?2
+THE BOYS 01	01`03f934590.m3u8?2
+THE BOYS 02	01`03f934591.m3u8?2
+THE GOOD DOCTOR 01	01`03f934592.m3u8?2
+THE GOOD DOCTOR 02	01`03f934593.m3u8?2
+THE GOOD DOCTOR 03	01`03f934594.m3u8?2
+THE GOOD DOCTOR 04	01`03f934595.m3u8?2
+THE MIDDLE 01	01`03f934596.m3u8?2
+THE MIDDLE 02	01`03f934597.m3u8?2
+THE MIDDLE 03	01`03f934598.m3u8?2
+THE MIDDLE 04	01`03f934599.m3u8?2
+THE MIDDLE 05	01`03f934600.m3u8?2
+THE MIDDLE 06	01`03f934601.m3u8?2
+THE MIDDLE 07	01`03f934602.m3u8?2
+THE MIDDLE 08	01`03f934603.m3u8?2
+THE MIDDLE 09	01`03f934604.m3u8?2
+THE WALKING DEAD	01`03f934605.m3u8?2
+THE WALKING DEAD 01	01`03f934606.m3u8?2
+THE WALKING DEAD 02	01`03f934607.m3u8?2
+THE WALKING DEAD 03	01`03f934608.m3u8?2
+THE WALKING DEAD 04	01`03f934609.m3u8?2
+THE WALKING DEAD 05	01`03f934610.m3u8?2
+THE WALKING DEAD 06	01`03f934611.m3u8?2
+THE WALKING DEAD 07	01`03f934612.m3u8?2
+THE WALKING DEAD 08	01`03f934613.m3u8?2
+THE WALKING DEAD 09	01`03f934614.m3u8?2
+THE WALKING DEAD 10: PARTE 01	01`03f934615.m3u8?2
+THE WALKING DEAD 10: PARTE 02	01`03f934616.m3u8?2
+THE WALKING DEAD 11: PARTE 01	01`03f934617.m3u8?2
+THE WALKING DEAD 11: PARTE 02	01`03f934618.m3u8?2
+THE WALKING DEAD 11: PARTE 03	01`03f934619.m3u8?2
+THE WALKING DEAD: FEAR 01	01`03f934620.m3u8?2
+THE WALKING DEAD: FEAR 02	01`03f934621.m3u8?2
+THE WALKING DEAD: FEAR 03	01`03f934622.m3u8?2
+THE WALKING DEAD: FEAR 04	01`03f934623.m3u8?2
+THE WALKING DEAD: FEAR 05	01`03f934624.m3u8?2
+THE WALKING DEAD: FEAR 06	01`03f934625.m3u8?2
+THE WALKING DEAD: FEAR 07	01`03f934626.m3u8?2
+THE WALKING DEAD: MUNDO NOVO 01	01`03f934627.m3u8?2
+THE WALKING DEAD: MUNDO NOVO 02	01`03f934628.m3u8?2
+TODO MUNDO ODEIA O CHRIS 01	01`03f934631.m3u8?2
+TODO MUNDO ODEIA O CHRIS 02	01`03f934632.m3u8?2
+TODO MUNDO ODEIA O CHRIS 03	01`03f934633.m3u8?2
+TODO MUNDO ODEIA O CHRIS 04	01`03f934634.m3u8?2
+YOUNG SHELDON 01	01`03f934703.m3u8?2
+YOUNG SHELDON 02	01`03f934704.m3u8?2
+YOUNG SHELDON 03	01`03f934705.m3u8?2
+YOUNG SHELDON 04	01`03f934706.m3u8?2
+AEROPORTO AREA RESTRITA 01	01`03f934708.m3u8?2
+AEROPORTO AREA RESTRITA 02	01`03f934709.m3u8?2
+AEROPORTO AREA RESTRITA 03	01`03f934710.m3u8?2
+CASAMENTO AS CEGAS 01	01`03f934711.m3u8?2
+CASAMENTO AS CEGAS 02	01`03f934712.m3u8?2
+CASAMENTO AS CEGAS 03	01`03f934713.m3u8?2
+CHEF 5 ESTRELAS	01`03f934714.m3u8?2
+COMPRAMOS VENDEMOS E TROCAMOS	01`03f934715.m3u8?2
+CONFEITARIA CONTRA O TEMPO	01`03f934716.m3u8?2
+DE FERIAS COM O EX BRASIL 01	01`03f934717.m3u8?2
+DE FERIAS COM O EX BRASIL 02	01`03f934718.m3u8?2
+DE FERIAS COM O EX BRASIL 03	01`03f934719.m3u8?2
+DE FERIAS COM O EX BRASIL 04	01`03f934720.m3u8?2
+ESCOLA DE CHOCOLATE	01`03f934721.m3u8?2
+FILHINHO DA MAMAE 01	01`03f934722.m3u8?2
+FILHINHO DA MAMAE 02	01`03f934723.m3u8?2
+FILHINHO DA MAMAE 03	01`03f934724.m3u8?2
+ILHADOS COM A SOGRA	01`03f934725.m3u8?2
+IRMAOS A OBRA 01	01`03f934726.m3u8?2
+IRMAOS A OBRA 02	01`03f934727.m3u8?2
+IRMAOS A OBRA 03	01`03f934728.m3u8?2
+IRMAOS A OBRA 04	01`03f934729.m3u8?2
+IRON CHEF BRASIL	01`03f934730.m3u8?2
+ISSO É UM BOLO	01`03f934731.m3u8?2
+LARGADOS E PELADOS 01	01`03f934732.m3u8?2
+LARGADOS E PELADOS BRASIL 01	01`03f934733.m3u8?2
+LARGADOS E PELADOS BRASIL 02	01`03f934734.m3u8?2
+LARGADOS E PELADOS FRANCA 01	01`03f934735.m3u8?2
+LARGADOS E PELADOS FRANCA 02	01`03f934736.m3u8?2
+LARGADOS E PELADOS: A TRIBO 01	01`03f934737.m3u8?2
+LARGADOS E PELADOS: A TRIBO 02	01`03f934738.m3u8?2
+LARGADOS E PELADOS: A TRIBO 03	01`03f934739.m3u8?2
+LARGADOS E PELADOS: A TRIBO 04	01`03f934740.m3u8?2
+LARGADOS PELADOS E CONGELADOS	01`03f934741.m3u8?2
+MANICOMIOS ASSOMBRADOS 01	01`03f934742.m3u8?2
+MANICOMIOS ASSOMBRADOS 02	01`03f934743.m3u8?2
+MANICOMIOS ASSOMBRADOS 03	01`03f934744.m3u8?2
+MASTERCHEF PROFISSIONAIS 01	01`03f934745.m3u8?2
+MASTERCHEF PROFISSIONAIS 02	01`03f934746.m3u8?2
+MASTERCHEF PROFISSIONAIS 03	01`03f934747.m3u8?2
+MASTERCHEF PROFISSIONAIS 04	01`03f934748.m3u8?2
+MIDAS DO FERRO VELHO 01	01`03f934749.m3u8?2
+MIDAS DO FERRO VELHO 02	01`03f934750.m3u8?2
+MIDAS DO FERRO VELHO 03	01`03f934751.m3u8?2
+O SOCIO 01	01`03f934752.m3u8?2
+O SOCIO 02	01`03f934753.m3u8?2
+O SOCIO 03	01`03f934754.m3u8?2
+O SOCIO 04	01`03f934755.m3u8?2
+O SOCIO 05	01`03f934756.m3u8?2
+O SOCIO 06	01`03f934757.m3u8?2
+PESADELO NA COZINHA 03	01`03f934768.m3u8?2
+POLICIA 24 HORAS	01`03f934769.m3u8?2
+QUILOS MORTAIS 01	01`03f934770.m3u8?2
+QUILOS MORTAIS 02	01`03f934771.m3u8?2
+QUILOS MORTAIS 03	01`03f934772.m3u8?2
+QUILOS MORTAIS 04	01`03f934773.m3u8?2
+STAND UP 01	01`03f934774.m3u8?2
+STAND UP 02	01`03f934775.m3u8?2
+VIDRADOS NO NATAL	01`03f934776.m3u8?2
+Z MUSICAL MARILIA MENDONCA	01`03f934777.m3u8?2
+Z MUSICAL PAGODE	01`03f934778.m3u8?2
+O SOCIO 07	01`03f934758.m3u8?2
+O SOCIO 08	01`03f934759.m3u8?2
+O ULTIMATO: CASA OU VAZA 01	01`03f934760.m3u8?2
+O ULTIMATO: CASA OU VAZA 02	01`03f934761.m3u8?2
+OPERACAO FRONTEIRA AMERICA DO SUL 01	01`03f934762.m3u8?2
+OPERACAO FRONTEIRA AMERICA DO SUL 02	01`03f934763.m3u8?2
+PEGADINHAS ESPECIAL	01`03f934764.m3u8?2
+PEGADINHAS ESPECIAL INTERNACIONAL	01`03f934765.m3u8?2
+PESADELO NA COZINHA 01	01`03f934766.m3u8?2
+PESADELO NA COZINHA 02	01`03f934767.m3u8?2
+3 PALAVRINHAS	01`03f934072.m3u8?2
+44 GATOS	01`03f934073.m3u8?2
+A CASA DE MICKEY	01`03f934080.m3u8?2
+A DONA ARANHA	01`03f934081.m3u8?2
+A FAMILIA URSO	01`03f934084.m3u8?2
+A LENDA DE OZ	01`03f934099.m3u8?2
+A PANTERA COR DE ROSA	01`03f934100.m3u8?2
+A TURMA DO ZE COLMEIA	01`03f934101.m3u8?2
+A VACA E O FRANGO	01`03f934102.m3u8?2
+ALF E.T. 01	01`03f934103.m3u8?2
+ALF E.T. 02	01`03f934104.m3u8?2
+AMIGAOZAO	01`03f934107.m3u8?2
+ANIMANIACS	01`03f934109.m3u8?2
+ANIMAZOON	01`03f934110.m3u8?2
+APENAS UM SHOW	01`03f934112.m3u8?2
+AS TARTARUGAS NINJAS 01	01`03f934113.m3u8?2
+AS TARTARUGAS NINJAS 02	01`03f934114.m3u8?2
+AS TRAPALHADAS DE FLAPJACK	01`03f934115.m3u8?2
+AVATAR: A LENDA DE KORRA 01	01`03f934116.m3u8?2
+AVATAR: A LENDA DE KORRA 02	01`03f934117.m3u8?2
+AVATAR: THE LAST AIRBENDER 01	01`03f934118.m3u8?2
+AVATAR: THE LAST AIRBENDER 02	01`03f934119.m3u8?2
+AVENTURAS COM OS KRATTS	01`03f934120.m3u8?2
+BABY LOONEY TUNES	01`03f934121.m3u8?2
+BABY NINAR ZzzzZzzZ	01`03f934122.m3u8?2
+BABYBUS	01`03f934123.m3u8?2
+BANANAS DE PIJAMAS	01`03f934124.m3u8?2
+BARBIE 01	01`03f934125.m3u8?2
+BARBIE 02	01`03f934126.m3u8?2
+BARBIE 03	01`03f934127.m3u8?2
+BARBIE 04	01`03f934128.m3u8?2
+BARBIE 05	01`03f934129.m3u8?2
+BARNEY E AMIGOS	01`03f934130.m3u8?2
+BATMAN: A SERIE ANIMADA	01`03f934131.m3u8?2
+BEBE CAMINHAO	01`03f934134.m3u8?2
+BEBE TUBARAO	01`03f934135.m3u8?2
+BEN 10	01`03f934136.m3u8?2
+BEN 10: FORCA ALIENIGENA	01`03f934137.m3u8?2
+BEN 10: OMNIVERSE 01	01`03f934138.m3u8?2
+BEN 10: OMNIVERSE 02	01`03f934139.m3u8?2
+BLAZE MONSTER	01`03f934141.m3u8?2
+BOB ESPONJA 01	01`03f934142.m3u8?2
+BOB ESPONJA 02	01`03f934143.m3u8?2
+BOB ESPONJA 03	01`03f934144.m3u8?2
+BOB O CONSTRUTOR	01`03f934145.m3u8?2
+BOB ZOOM	01`03f934146.m3u8?2
+BOLOFOFOS	01`03f934147.m3u8?2
+BOOBA	01`03f934148.m3u8?2
+BRANCA DE NEVE	01`03f934149.m3u8?2
+BUBBLE GUPPIES	01`03f934151.m3u8?2
+BUBU E AS CORUJINHAS	01`03f934152.m3u8?2
+CAILLOU	01`03f934153.m3u8?2
+CAMINHOES E ANIMAIS	01`03f934154.m3u8?2
+CAPITAO AMERICA	01`03f934155.m3u8?2
+CAPITAO CAVERNA	01`03f934156.m3u8?2
+CAPITAO PLANETA	01`03f934157.m3u8?2
+CAVALO DE FOGO	01`03f934158.m3u8?2
+CAVERNA DO DRAGAO	01`03f934159.m3u8?2
+CINDERELA E SUAS AVENTURAS	01`03f934177.m3u8?2
+CLARENCIO O OTIMISTA	01`03f934233.m3u8?2
+COCOMELON	01`03f934234.m3u8?2
+COMANDOS EM ACAO	01`03f934235.m3u8?2
+CONTOS ASSUSTADORES DA MASHA	01`03f934236.m3u8?2
+CORAGEM O CAO COVARDE	01`03f934237.m3u8?2
+DANIEL TIGRES	01`03f934239.m3u8?2
+DC SUPER HERO GIRLS	01`03f934240.m3u8?2
+DESENCANTO	01`03f934241.m3u8?2
+DESENHOS BIBLICOS	01`03f934242.m3u8?2
+DORA A AVENTURA	01`03f934259.m3u8?2
+DOUG FUNNY	01`03f934260.m3u8?2
+DOUTOR BRINQUEDOS	01`03f934261.m3u8?2
+DOUTOR ESTRANHO	01`03f934262.m3u8?2
+DUCK TALES	01`03f934279.m3u8?2
+EU SOU O MAXIMO	01`03f934290.m3u8?2
+FABULAS DA DISNEY	01`03f934293.m3u8?2
+FAISCA E FUMACA	01`03f934294.m3u8?2
+FLY O PEQUENO GUERREIRO	01`03f934299.m3u8?2
+FORMIGA ATOMICA	01`03f934300.m3u8?2
+FRANKSTEIN JR E OS IMPOSSIVEIS	01`03f934301.m3u8?2
+FUTURAMA	01`03f934303.m3u8?2
+GALINHA BABY	01`03f934304.m3u8?2
+GALINHA PINTADINHA	01`03f934305.m3u8?2
+GALINHA PINTADINHA MINI	01`03f934306.m3u8?2
+GARAGEM DO GECKO	01`03f934315.m3u8?2
+GARFIELD	01`03f934316.m3u8?2
+GARGULAS	01`03f934317.m3u8?2
+GATO DE BOTAS 01	01`03f934318.m3u8?2
+GATO DE BOTAS 02	01`03f934319.m3u8?2
+GATO DE BOTAS 03	01`03f934320.m3u8?2
+GATO DE BOTAS 04	01`03f934321.m3u8?2
+GATO DE BOTAS 05	01`03f934322.m3u8?2
+GATO DE BOTAS 06	01`03f934323.m3u8?2
+GRAVITY FALLS	01`03f934325.m3u8?2
+HE-MAN	01`03f934330.m3u8?2
+HISTORIAS BIBLICAS PARA CRIANCAS	01`03f934331.m3u8?2
+HORA DE AVENTURA 01	01`03f934337.m3u8?2
+HORA DE AVENTURA 02	01`03f934338.m3u8?2
+HORA DE AVENTURA 03	01`03f934339.m3u8?2
+INVENCIVEL	01`03f934349.m3u8?2
+IRMAO DO JOREL	01`03f934351.m3u8?2
+JACARELVIS	01`03f934352.m3u8?2
+JAKE E OS PIRATAS	01`03f934353.m3u8?2
+JURASSIC CRY BABES	01`03f934360.m3u8?2
+KONDOSAN	01`03f934363.m3u8?2
+LARANJA IRRITANTE	01`03f934368.m3u8?2
+LARVA	01`03f934369.m3u8?2
+LEGO UMA AVENTURA NA CIDADE	01`03f934370.m3u8?2
+LELLOBEE	01`03f934371.m3u8?2
+LEO E TIGRE	01`03f934372.m3u8?2
+LIGA DA JUSTICA	01`03f934373.m3u8?2
+LOONEY TUNES	01`03f934374.m3u8?2
+LOUIE	01`03f934381.m3u8?2
+LULUZINHA	01`03f934382.m3u8?2
+MAD	01`03f934383.m3u8?2
+MARATONA DE SESAMO	01`03f934384.m3u8?2
+MASHA E URSO	01`03f934386.m3u8?2
+MECANIMAIS	01`03f934389.m3u8?2
+MICKEY MOUSE	01`03f934391.m3u8?2
+MICKEY MOUSE CLASSIC	01`03f934392.m3u8?2
+MILA MORPHLE	01`03f934393.m3u8?2
+MISTER MAKE	01`03f934395.m3u8?2
+MONICA TOY	01`03f934396.m3u8?2
+MORANGUINHO	01`03f934397.m3u8?2
+MUMIAS VIVAS	01`03f934398.m3u8?2
+MUNDO RIPILICA	01`03f934403.m3u8?2
+MY LITTLE PONEY	01`03f934404.m3u8?2
+O EXTRAORDINARIO MUNDO DE BITA	01`03f934411.m3u8?2
+O INCRIVEL MUNDO DE GUMBALL	01`03f934412.m3u8?2
+O MUNDO DE MIA	01`03f934413.m3u8?2
+O PEQUENO SCOOBY-DOO	01`03f934414.m3u8?2
+O SHOW DA LUNA	01`03f934416.m3u8?2
+O SURFISTA PRATEADO	01`03f934417.m3u8?2
+OCTONAUTAS	01`03f934418.m3u8?2
+OS BACKYARDIGANS	01`03f934420.m3u8?2
+OS CACA FANTASMAS	01`03f934421.m3u8?2
+OS CASTORES PIRADOS	01`03f934422.m3u8?2
+OS DOZES TRABALHOS DE ASTERIX	01`03f934445.m3u8?2
+OS FLINTSONS	01`03f934446.m3u8?2
+OS HERCULOIDES	01`03f934447.m3u8?2
+OS JETSONS	01`03f934448.m3u8?2
+OS JOVENS TITAS EM ACAO	01`03f934449.m3u8?2
+OS MISTERIOS DE PIU-PIU E FRAJOLA	01`03f934450.m3u8?2
+OS MUZZARELA	01`03f934451.m3u8?2
+OS PADRINHOS MAGICOS	01`03f934452.m3u8?2
+OS SIMPSONS 01	01`03f934453.m3u8?2
+OS SIMPSONS 02	01`03f934454.m3u8?2
+OS SIMPSONS 03	01`03f934455.m3u8?2
+OS SIMPSONS 04	01`03f934456.m3u8?2
+OS SIMPSONS 05	01`03f934457.m3u8?2
+OS SIMPSONS 06	01`03f934458.m3u8?2
+OS SIMPSONS 07	01`03f934459.m3u8?2
+OS SIMPSONS 08	01`03f934460.m3u8?2
+OS SIMPSONS 09	01`03f934461.m3u8?2
+OS SIMPSONS 10	01`03f934462.m3u8?2
+OS SIMPSONS 11	01`03f934463.m3u8?2
+OS SIMPSONS 12	01`03f934464.m3u8?2
+OS SIMPSONS 13	01`03f934465.m3u8?2
+OS SIMPSONS 14	01`03f934466.m3u8?2
+OS SIMPSONS 15	01`03f934467.m3u8?2
+OS SIMPSONS 16	01`03f934468.m3u8?2
+OS SIMPSONS 17	01`03f934469.m3u8?2
+OS SIMPSONS 18	01`03f934470.m3u8?2
+OS SIMPSONS 19	01`03f934471.m3u8?2
+OS SIMPSONS 20	01`03f934472.m3u8?2
+OS SIMPSONS 21	01`03f934473.m3u8?2
+OS SIMPSONS 22	01`03f934474.m3u8?2
+OS SIMPSONS 23	01`03f934475.m3u8?2
+OS SIMPSONS 24	01`03f934476.m3u8?2
+OS SIMPSONS 25	01`03f934477.m3u8?2
+OS SIMPSONS 26	01`03f934478.m3u8?2
+OS SIMPSONS 27	01`03f934479.m3u8?2
+OS SIMPSONS 28	01`03f934480.m3u8?2
+OS SIMPSONS 29	01`03f934481.m3u8?2
+OS SIMPSONS 30	01`03f934482.m3u8?2
+OS SIMPSONS: ESPECIAL DE HALLOWEEN 01	01`03f934483.m3u8?2
+OS SIMPSONS: ESPECIAL DE HALLOWEEN 02	01`03f934484.m3u8?2
+OS SIMPSONS: ESPECIAL DE HALLOWEEN 03	01`03f934485.m3u8?2
+OS SIMPSONS: ESPECIAL DE HALLOWEEN 04	01`03f934486.m3u8?2
+OS SMURFS	01`03f934487.m3u8?2
+PAPA LEGUAS E O COIOTE	01`03f934491.m3u8?2
+PATATI PATATA	01`03f934492.m3u8?2
+PATO DONALD	01`03f934493.m3u8?2
+PATOLINO	01`03f934494.m3u8?2
+PATRULHA CANINA	01`03f934495.m3u8?2
+PEIXONAUTA	01`03f934496.m3u8?2
+PERDIDO NAS ESTRELAS	01`03f934497.m3u8?2
+PERNALONGA	01`03f934498.m3u8?2
+PICA-PAU	01`03f934499.m3u8?2
+PINK E O CEREBRO	01`03f934500.m3u8?2
+PJ MASKS	01`03f934502.m3u8?2
+POCOYO	01`03f934505.m3u8?2
+POLE POSITION	01`03f934506.m3u8?2
+POLLY POCKET	01`03f934507.m3u8?2
+POPEYE	01`03f934508.m3u8?2
+PUCCA	01`03f934515.m3u8?2
+PUNK BREWSTER	01`03f934516.m3u8?2
+RAMBO	01`03f934518.m3u8?2
+RAPUNZEL	01`03f934519.m3u8?2
+RICKY SUPER RAPIDO	01`03f934521.m3u8?2
+ROBCOCAR POLI	01`03f934522.m3u8?2
+ROBOCOP	01`03f934523.m3u8?2
+ROBOCOP	01`03f934524.m3u8?2
+SAMURAI JACK	01`03f934533.m3u8?2
+SCOOBY-DOO 01	01`03f934534.m3u8?2
+SCOOBY-DOO 02	01`03f934535.m3u8?2
+SCOOBY-DOO: CADE VOCE	01`03f934536.m3u8?2
+SCOOBY-DOO: MISTERIO S.A	01`03f934537.m3u8?2
+SCOOBY-DOO: O QUE HA DE NOVO	01`03f934538.m3u8?2
+SENDOKAI	01`03f934539.m3u8?2
+SHAUN O CARNEIRO	01`03f934542.m3u8?2
+SHE-RA E AS PRINCESAS	01`03f934543.m3u8?2
+SITIO DO PICA-PAU AMARELO	01`03f934545.m3u8?2
+SONIC	01`03f934556.m3u8?2
+SOUTH PARK 01	01`03f934557.m3u8?2
+SOUTH PARK 02	01`03f934558.m3u8?2
+STREET FIGHT	01`03f934560.m3u8?2
+SUPA STRIKAS	01`03f934561.m3u8?2
+SUPER CAMPEOES	01`03f934562.m3u8?2
+SUPER CHOQUE	01`03f934563.m3u8?2
+SUPER IMA	01`03f934564.m3u8?2
+TAZ MANIA	01`03f934576.m3u8?2
+TELETUBBIES	01`03f934577.m3u8?2
+TOM E JERRY 01	01`03f934635.m3u8?2
+TOM E JERRY 02	01`03f934636.m3u8?2
+TOM E JERRY 03	01`03f934637.m3u8?2
+TOM E JERRY 04	01`03f934638.m3u8?2
+TRANSFORMERS PRIME	01`03f934640.m3u8?2
+TRANSFORMERS RESCUE BOTS	01`03f934641.m3u8?2
+TRES ESPIAS	01`03f934642.m3u8?2
+TURMA DA MONICA	01`03f934643.m3u8?2
+TURMA DO RONALDINHO GAUCHO	01`03f934644.m3u8?2
+UMA FAMILIA DA PESADA 01	01`03f934645.m3u8?2
+UMA FAMILIA DA PESADA 02	01`03f934646.m3u8?2
+UMA FAZENDA MALUCA	01`03f934647.m3u8?2
+URSINHOS CARINHOSOS	01`03f934649.m3u8?2
+URSO SEM CURSO	01`03f934650.m3u8?2
+VELMA	01`03f934651.m3u8?2
+VELOZES E FURIOSOS: ESPIOES DO ASFALTO	01`03f934653.m3u8?2
+VERA E O REINO DO ARCO IRIS	01`03f934654.m3u8?2
+VINGADORES OS SUPER HEROIS	01`03f934656.m3u8?2
+VINGADORES UNIDOS	01`03f934657.m3u8?2
+VOVO SMURF	01`03f934658.m3u8?2
+X-MEN A SERIE	01`03f934659.m3u8?2
+X-MEN EVOLUTION	01`03f934660.m3u8?2
+ZUZUBALANDIA	01`03f934707.m3u8?2
+A&E FHD	01`03f188461.m3u8?2
+A&E FHD H265	01`03f188460.m3u8?2
+A&E SD	01`03f188464.m3u8?2
+AGROMAIS FHD	01`03f297143.m3u8?2
+AGROMAIS SD	01`03f297145.m3u8?2
+AMC FHD	01`03f188467.m3u8?2
+AMC FHD H265	01`03f188466.m3u8?2
+AMC SD	01`03f188470.m3u8?2
+ANIMAL PLANET FHD	01`03f188642.m3u8?2
+ANIMAL PLANET FHD H265	01`03f188641.m3u8?2
+ANIMAL PLANET SD	01`03f188645.m3u8?2
+AXN FHD	01`03f188473.m3u8?2
+AXN FHD H265	01`03f188472.m3u8?2
+AXN SD	01`03f188476.m3u8?2
+BABY TV SD	01`03f188968.m3u8?2
+BAND MINAS SD	01`03f299386.m3u8?2
+BAND NEWS FHD	01`03f189209.m3u8?2
+BAND NEWS FHD H265	01`03f189208.m3u8?2
+BAND NEWS SD	01`03f189212.m3u8?2
+BAND RJ FHD	01`03f299389.m3u8?2
+BAND SP FHD	01`03f188741.m3u8?2
+BAND SP FHD H265	01`03f188740.m3u8?2
+BAND SP SD	01`03f188744.m3u8?2
+BAND SPORTS FHD	01`03f211780.m3u8?2
+BAND SPORTS FHD H265	01`03f211779.m3u8?2
+BAND SPORTS SD	01`03f211783.m3u8?2
+BIS FHD	01`03f189056.m3u8?2
+BIS FHD H265	01`03f189055.m3u8?2
+BIS SD	01`03f189059.m3u8?2
+CANAL BRASIL FHD	01`03f188858.m3u8?2
+CANAL BRASIL FHD H265	01`03f188857.m3u8?2
+CANAL BRASIL SD	01`03f188861.m3u8?2
+CANAL DO BOI SD	01`03f297941.m3u8?2
+CANAL RURAL SD	01`03f297942.m3u8?2
+CANAL SONY FHD	01`03f188479.m3u8?2
+CANAL SONY FHD H265	01`03f188478.m3u8?2
+CANAL SONY SD	01`03f188482.m3u8?2
+CANCAO NOVA SD	01`03f211902.m3u8?2
+CARTOON NETWORK FHD	01`03f188977.m3u8?2
+CARTOON NETWORK FHD H265	01`03f188976.m3u8?2
+CARTOON NETWORK SD	01`03f188980.m3u8?2
+CARTOONITO FHD	01`03f188971.m3u8?2
+CARTOONITO FHD H265	01`03f188970.m3u8?2
+CARTOONITO SD	01`03f188974.m3u8?2
+CINEMAX FHD	01`03f188485.m3u8?2
+CINEMAX FHD H265	01`03f188484.m3u8?2
+CINEMAX SD	01`03f188488.m3u8?2
+CNN BRASIL FHD	01`03f189214.m3u8?2
+CNN BRASIL FHD H265	01`03f291368.m3u8?2
+CNN BRASIL SD	01`03f189217.m3u8?2
+COMBATE FHD	01`03f211786.m3u8?2
+COMBATE FHD H265	01`03f211785.m3u8?2
+COMBATE SD	01`03f211789.m3u8?2
+COMEDY CENTRAL FHD	01`03f188491.m3u8?2
+COMEDY CENTRAL FHD H265	01`03f188490.m3u8?2
+COMEDY CENTRAL SD	01`03f188494.m3u8?2
+CURTA! FHD	01`03f189062.m3u8?2
+CURTA! FHD H265	01`03f189061.m3u8?2
+CURTA! SD	01`03f286619.m3u8?2
+DISCOVERY CHANNEL FHD	01`03f188648.m3u8?2
+DISCOVERY CHANNEL FHD H265	01`03f188647.m3u8?2
+DISCOVERY CHANNEL SD	01`03f188651.m3u8?2
+DISCOVERY H&H FHD	01`03f188654.m3u8?2
+DISCOVERY H&H FHD H265	01`03f188653.m3u8?2
+DISCOVERY H&H SD	01`03f188657.m3u8?2
+DISCOVERY KIDS FHD	01`03f188983.m3u8?2
+DISCOVERY KIDS FHD H265	01`03f188982.m3u8?2
+DISCOVERY KIDS SD	01`03f188986.m3u8?2
+DISCOVERY SCIENCE FHD	01`03f188660.m3u8?2
+DISCOVERY SCIENCE FHD H265	01`03f188659.m3u8?2
+DISCOVERY SCIENCE SD	01`03f188663.m3u8?2
+DISCOVERY THEATER FHD	01`03f188666.m3u8?2
+DISCOVERY THEATER FHD H265	01`03f188665.m3u8?2
+DISCOVERY THEATER SD	01`03f188669.m3u8?2
+DISCOVERY TLC FHD	01`03f188720.m3u8?2
+DISCOVERY TLC FHD H265	01`03f188719.m3u8?2
+DISCOVERY TLC SD	01`03f188723.m3u8?2
+DISCOVERY TURBO FHD	01`03f188672.m3u8?2
+DISCOVERY TURBO FHD H265	01`03f188671.m3u8?2
+DISCOVERY TURBO SD	01`03f188675.m3u8?2
+DISCOVERY WORLD FHD	01`03f188678.m3u8?2
+DISCOVERY WORLD FHD H265	01`03f188677.m3u8?2
+DISCOVERY WORLD SD	01`03f188681.m3u8?2
+DISNEY CHANNEL FHD	01`03f188989.m3u8?2
+DISNEY CHANNEL FHD H265	01`03f188988.m3u8?2
+DISNEY CHANNEL SD	01`03f188992.m3u8?2
+DOGTV FHD	01`03f189897.m3u8?2
+E! FHD	01`03f189068.m3u8?2
+E! FHD H265	01`03f189067.m3u8?2
+E! SD	01`03f189071.m3u8?2
+ESPN FHD	01`03f211804.m3u8?2
+ESPN FHD H265	01`03f211803.m3u8?2
+ESPN SD	01`03f211807.m3u8?2
+ESPN 2 FHD	01`03f211792.m3u8?2
+ESPN 2 FHD H265	01`03f211791.m3u8?2
+ESPN 2 SD	01`03f211795.m3u8?2
+ESPN 3 FHD	01`03f211798.m3u8?2
+ESPN 3 FHD H265	01`03f211797.m3u8?2
+ESPN 3 SD	01`03f211801.m3u8?2
+ESPN 4 FHD	01`03f211816.m3u8?2
+ESPN 4 FHD H265	01`03f211815.m3u8?2
+ESPN 4 SD	01`03f211819.m3u8?2
+ESPN 5 FHD	01`03f211822.m3u8?2
+ESPN 5 FHD H265	01`03f211821.m3u8?2
+ESPN 5 SD	01`03f211825.m3u8?2
+ESPN 6 FHD	01`03f211810.m3u8?2
+ESPN 6 FHD H265	01`03f211809.m3u8?2
+ESPN 6 SD	01`03f211813.m3u8?2
+FISH TV FHD	01`03f188684.m3u8?2
+FISH TV FHD H265	01`03f188683.m3u8?2
+FISH TV SD	01`03f188687.m3u8?2
+FOOD NETWORK FHD	01`03f189074.m3u8?2
+FOOD NETWORK FHD H265	01`03f189073.m3u8?2
+FOOD NETWORK SD	01`03f189077.m3u8?2
+FUTURA SD	01`03f188866.m3u8?2
+FX FHD	01`03f188521.m3u8?2
+FX FHD H265	01`03f188520.m3u8?2
+FX SD	01`03f188524.m3u8?2
+GLOBO SP FHD	01`03f188301.m3u8?2
+GLOBO SP FHD H265	01`03f188300.m3u8?2
+GLOBO SP SD	01`03f188304.m3u8?2
+GLOBO RJ FHD	01`03f188307.m3u8?2
+GLOBO RJ FHD H265	01`03f188306.m3u8?2
+GLOBO RJ SD	01`03f188310.m3u8?2
+GLOBO MINAS FHD	01`03f188312.m3u8?2
+GLOBO MINAS FHD H265	01`03f291503.m3u8?2
+GLOBO MINAS SD	01`03f216833.m3u8?2
+GLOBO BAHIA SD	01`03f216825.m3u8?2
+GLOBO BAHIA FHD	01`03f188316.m3u8?2
+GLOBO BELEM FHD	01`03f216826.m3u8?2
+GLOBO BELEM SD	01`03f188323.m3u8?2
+GLOBO BOA VISTA SD	01`03f188325.m3u8?2
+GLOBO BRASILIA FHD	01`03f188328.m3u8?2
+GLOBO BRASILIA FHD H265	01`03f188327.m3u8?2
+GLOBO BRASILIA SD	01`03f216827.m3u8?2
+GLOBO EPTV CAMPINAS FHD	01`03f216828.m3u8?2
+GLOBO EPTV CAMPINAS SD	01`03f188335.m3u8?2
+GLOBO EPTV RIBEIRÃO PRETO FHD	01`03f216830.m3u8?2
+GLOBO EPTV RIBEIRÃO PRETO SD	01`03f188337.m3u8?2
+GLOBO EPTV SAO CARLOS SD	01`03f188338.m3u8?2
+GLOBO FLORIANOPOLIS FHD	01`03f216831.m3u8?2
+GLOBO FLORIANOPOLIS SD	01`03f188362.m3u8?2
+GLOBO GAZETA VITORIA ES FHD	01`03f188366.m3u8?2
+GLOBO INTER TV ALTO LITORAL FHD	01`03f188342.m3u8?2
+GLOBO INTER TV CABUGI FHD	01`03f188343.m3u8?2
+GLOBO NEWS FHD	01`03f189222.m3u8?2
+GLOBO NEWS FHD H265	01`03f189221.m3u8?2
+GLOBO NEWS SD	01`03f189225.m3u8?2
+GLOBO NORDESTE FHD	01`03f188352.m3u8?2
+GLOBO NORDESTE SD	01`03f188355.m3u8?2
+GLOBO NSC TV BLUMENAL FHD	01`03f291318.m3u8?2
+GLOBO NSC TV BLUMENAL SD	01`03f291319.m3u8?2
+GLOBO NSC TV CHAPECO FHD	01`03f291328.m3u8?2
+GLOBO NSC TV CHAPECO SD	01`03f291329.m3u8?2
+GLOBO NSC TV CRICIUMA FHD	01`03f342620.m3u8?2
+GLOBO NSC TV CRICIUMA SD	01`03f342622.m3u8?2
+GLOBO NSC TV JOINVILLE FHD	01`03f291330.m3u8?2
+GLOBO NSC TV JOINVILLE SD	01`03f291331.m3u8?2
+GLOBO RBS PORTO ALEGRE FHD	01`03f216834.m3u8?2
+GLOBO RBS PORTO ALEGRE FHD H265	01`03f291317.m3u8?2
+GLOBO RBS PORTO ALEGRE SD	01`03f188373.m3u8?2
+GLOBO RBS TV CAXIAS DO SUL FHD	01`03f291321.m3u8?2
+GLOBO RBS TV CAXIAS DO SUL SD	01`03f291323.m3u8?2
+GLOBO RBS TV PASSO FUNDO FHD	01`03f291493.m3u8?2
+GLOBO RBS TV PASSO FUNDO SD	01`03f291495.m3u8?2
+GLOBO RBS TV PELOTAS FHD	01`03f291334.m3u8?2
+GLOBO RBS TV PELOTAS SD	01`03f291336.m3u8?2
+GLOBO RBS TV SANTA MARIA FHD	01`03f291338.m3u8?2
+GLOBO RBS TV SANTA MARIA SD	01`03f291337.m3u8?2
+GLOBO RPC TV MARINGA FHD	01`03f188387.m3u8?2
+GLOBO RPC CURITIBA FHD	01`03f216835.m3u8?2
+GLOBO RPC CURITIBA SD	01`03f188384.m3u8?2
+GLOBO RPC LONDRINA	01`03f188388.m3u8?2
+GLOBO SERGIPE FHD	01`03f188390.m3u8?2
+GLOBO TV ANHANGUERA GOIANIA FHD	01`03f212566.m3u8?2
+GLOBO TV ANHANGUERA GOIANIA SD	01`03f188397.m3u8?2
+GLOBO TV CENTRO AMERICA FHD	01`03f188401.m3u8?2
+GLOBO TV CLUBE TERESINA FHD	01`03f216841.m3u8?2
+GLOBO TV GAZETA DE ALAGOAS FHD	01`03f216836.m3u8?2
+GLOBO TV GAZETA DE ALAGOAS SD	01`03f297576.m3u8?2
+GLOBO TV GAZETA SUL ES FHD	01`03f291320.m3u8?2
+GLOBO TV MIRANTE COCAIS FHD	01`03f291324.m3u8?2
+GLOBO TV MIRANTE COCAIS SD	01`03f291326.m3u8?2
+GLOBO TV MIRANTE SAO LUIS FHD	01`03f212568.m3u8?2
+GLOBO TV MIRANTE SAO LUIS SD	01`03f212571.m3u8?2
+GLOBO TV MORENA CAMPO GRANDE FHD	01`03f212573.m3u8?2
+GLOBO TV MORENA CAMPO GRANDE SD	01`03f291327.m3u8?2
+GLOBO TV REDE AMAZONICA MANAUS SD	01`03f188382.m3u8?2
+GLOBO TV REDE AMAZONICA PORTO VELHO SD	01`03f188370.m3u8?2
+GLOBO TV RIO SUL SD	01`03f188415.m3u8?2
+GLOBO TV SANTA CRUZ FHD	01`03f291339.m3u8?2
+GLOBO TV SANTA CRUZ SD	01`03f291341.m3u8?2
+GLOBO TV SUBAE SD	01`03f291344.m3u8?2
+GLOBO TV TEM SOROCABA FHD	01`03f216837.m3u8?2
+GLOBO TV TRIBUNA SANTOS SD	01`03f188419.m3u8?2
+GLOBO TV VANGUARDA S J CAMPOS SD	01`03f188420.m3u8?2
+GLOBO TV VERDES MARES FORTALEZA FHD	01`03f212576.m3u8?2
+GLOBO TV VERDES MARES FORTALEZA FHD H265	01`03f212577.m3u8?2
+GLOBO TV VERDES MARES FORTALEZA SD	01`03f212578.m3u8?2
+GLOOB FHD	01`03f189006.m3u8?2
+GLOOB FHD H265	01`03f189005.m3u8?2
+GLOOB SD	01`03f189009.m3u8?2
+GNT FHD	01`03f189080.m3u8?2
+GNT FHD H265	01`03f189079.m3u8?2
+GNT SD	01`03f189083.m3u8?2
+H2 FHD	01`03f188689.m3u8?2
+H2 FHD H265	01`03f188690.m3u8?2
+H2 SD	01`03f188693.m3u8?2
+HBO 2 FHD	01`03f211857.m3u8?2
+HBO 2 FHD H265	01`03f211856.m3u8?2
+HBO 2 SD	01`03f211860.m3u8?2
+HBO Familly FHD	01`03f211863.m3u8?2
+HBO Familly FHD H265	01`03f211862.m3u8?2
+HBO Familly SD	01`03f211866.m3u8?2
+HBO FHD	01`03f211851.m3u8?2
+HBO FHD H265	01`03f211850.m3u8?2
+HBO SD	01`03f211854.m3u8?2
+HBO MUNDI FHD	01`03f211869.m3u8?2
+HBO MUNDI FHD H265	01`03f211868.m3u8?2
+HBO MUNDI SD	01`03f211872.m3u8?2
+HBO PLUS FHD	01`03f211875.m3u8?2
+HBO PLUS FHD H265	01`03f211874.m3u8?2
+HBO PLUS SD	01`03f211878.m3u8?2
+HBO POP FHD	01`03f211881.m3u8?2
+HBO POP FHD H265	01`03f211880.m3u8?2
+HBO POP SD	01`03f211884.m3u8?2
+HBO SIGNATURE FHD	01`03f211887.m3u8?2
+HBO SIGNATURE FHD H265	01`03f211886.m3u8?2
+HBO SIGNATURE SD	01`03f211890.m3u8?2
+HBO XTREME FHD	01`03f211893.m3u8?2
+HBO XTREME FHD H265	01`03f211892.m3u8?2
+HBO XTREME SD	01`03f211896.m3u8?2
+HGTV FHD	01`03f189086.m3u8?2
+HGTV FHD H265	01`03f189085.m3u8?2
+HGTV SD	01`03f189089.m3u8?2
+HISTORY FHD	01`03f188696.m3u8?2
+HISTORY FHD H265	01`03f188695.m3u8?2
+HISTORY SD	01`03f188699.m3u8?2
+ID DISCOVERY FHD	01`03f188702.m3u8?2
+ID DISCOVERY FHD H265	01`03f188701.m3u8?2
+ID DISCOVERY SD	01`03f188705.m3u8?2
+JOVEM PAN NEWS FHD	01`03f229790.m3u8?2
+JOVEM PAN NEWS FHD H265	01`03f229789.m3u8?2
+JOVEM PAN NEWS SD	01`03f229792.m3u8?2
+LIFETIME FHD	01`03f188527.m3u8?2
+LIFETIME FHD H265	01`03f188526.m3u8?2
+LIFETIME SD	01`03f188530.m3u8?2
+MODO VIAGEM FHD	01`03f189844.m3u8?2
+MODO VIAGEM FHD H265	01`03f189843.m3u8?2
+MODO VIAGEM SD	01`03f189847.m3u8?2
+MEGAPIX FHD	01`03f188533.m3u8?2
+MEGAPIX FHD H265	01`03f188532.m3u8?2
+MEGAPIX SD	01`03f188536.m3u8?2
+MTV FHD	01`03f189097.m3u8?2
+MTV FHD H265	01`03f189096.m3u8?2
+MTV SD	01`03f189100.m3u8?2
+MULTISHOW FHD	01`03f189106.m3u8?2
+MULTISHOW FHD H265	01`03f189105.m3u8?2
+MULTISHOW SD	01`03f189109.m3u8?2
+MUSIC BOX BRAZIL FHD	01`03f286617.m3u8?2
+MUSIC BOX BRAZIL FHD H265	01`03f286618.m3u8?2
+MUSIC BOX BRAZIL SD	01`03f189103.m3u8?2
+NATGEO FHD	01`03f188708.m3u8?2
+NATGEO FHD H265	01`03f188707.m3u8?2
+NATGEO SD	01`03f188711.m3u8?2
+NHK WORLD SD	01`03f189228.m3u8?2
+NICK JR FHD	01`03f189018.m3u8?2
+NICK JR FHD H265	01`03f189017.m3u8?2
+NICK JR SD	01`03f189021.m3u8?2
+NICKELODEON FHD	01`03f189024.m3u8?2
+NICKELODEON FHD H265	01`03f189023.m3u8?2
+NICKELODEON SD	01`03f189027.m3u8?2
+OFF FHD	01`03f189112.m3u8?2
+OFF FHD H265	01`03f189111.m3u8?2
+OFF SD	01`03f189115.m3u8?2
+PARAMOUNT FHD	01`03f188539.m3u8?2
+PARAMOUNT FHD H265	01`03f188538.m3u8?2
+PARAMOUNT SD	01`03f188542.m3u8?2
+POLISHOP SD	01`03f189120.m3u8?2
+PREMIERE CLUBES FHD	01`03f188601.m3u8?2
+PREMIERE CLUBES FHD H265	01`03f188600.m3u8?2
+PREMIERE CLUBES SD	01`03f188604.m3u8?2
+PREMIERE 2 FHD	01`03f188607.m3u8?2
+PREMIERE 2 FHD H265	01`03f188606.m3u8?2
+PREMIERE 2 SD	01`03f188610.m3u8?2
+PREMIERE 3 FHD	01`03f188613.m3u8?2
+PREMIERE 3 FHD H265	01`03f188612.m3u8?2
+PREMIERE 3 SD	01`03f188616.m3u8?2
+PREMIERE 4 FHD	01`03f188619.m3u8?2
+PREMIERE 4 FHD H265	01`03f188618.m3u8?2
+PREMIERE 4 SD	01`03f188622.m3u8?2
+PREMIERE 5 FHD	01`03f188625.m3u8?2
+PREMIERE 5 FHD H265	01`03f188624.m3u8?2
+PREMIERE 5 SD	01`03f188628.m3u8?2
+PREMIERE 6 FHD	01`03f188631.m3u8?2
+PREMIERE 6 FHD H265	01`03f188630.m3u8?2
+PREMIERE 6 SD	01`03f188634.m3u8?2
+PREMIERE 7 FHD	01`03f188636.m3u8?2
+PREMIERE 7 SD	01`03f188639.m3u8?2
+PRIME BOX BRAZIL FHD	01`03f189117.m3u8?2
+PRIME BOX BRAZIL FHD H265	01`03f286616.m3u8?2
+PRIME BOX BRAZIL SD	01`03f286615.m3u8?2
+PRIME VIDEO 01	01`03f299403.m3u8?2
+PRIME VIDEO 02	01`03f338638.m3u8?2
+PRIME VIDEO 03	01`03f299402.m3u8?2
+PRIME VIDEO 04	01`03f899513.m3u8?2
+RECORD BAHIA SD	01`03f188806.m3u8?2
+RECORD BRASILIA SD	01`03f286625.m3u8?2
+RECORD GOIAS HD	01`03f188814.m3u8?2
+RECORD MINAS SD	01`03f188801.m3u8?2
+RECORD NEWS FHD	01`03f291369.m3u8?2
+RECORD NEWS FHD H265	01`03f189229.m3u8?2
+RECORD NEWS SD	01`03f189232.m3u8?2
+RECORD PARANA FHD	01`03f926702.m3u8?2
+RECORD PARANA HD	01`03f926703.m3u8?2
+RECORD SP FHD	01`03f188789.m3u8?2
+RECORD SP SD	01`03f188792.m3u8?2
+REDE BRASIL	01`03f200362.m3u8?2
+REDE TV FHD	01`03f188870.m3u8?2
+REDE TV FHD H265	01`03f188869.m3u8?2
+REDE TV SD	01`03f188873.m3u8?2
+REDE VIDA FHD	01`03f211908.m3u8?2
+REDE VIDA SD	01`03f211911.m3u8?2
+SBT PARANA FHD [ALT]	01`03f299398.m3u8?2
+SBT PARANA SD [ALT]	01`03f217318.m3u8?2
+SBT RECIFE FHD	01`03f188734.m3u8?2
+SBT RJ FHD	01`03f217133.m3u8?2
+SBT RJ SD	01`03f217135.m3u8?2
+SBT SERRA DOURADA [ALT]	01`03f299394.m3u8?2
+SBT SP FHD	01`03f188726.m3u8?2
+SBT SP FHD H265	01`03f188725.m3u8?2
+SBT SP SD	01`03f188729.m3u8?2
+SPACE FHD	01`03f188545.m3u8?2
+SPACE FHD H265	01`03f188544.m3u8?2
+SPACE SD	01`03f188548.m3u8?2
+SPORTV FHD	01`03f211828.m3u8?2
+SPORTV FHD H265	01`03f211827.m3u8?2
+SPORTV SD	01`03f211831.m3u8?2
+SPORTV 2 FHD	01`03f211834.m3u8?2
+SPORTV 2 FHD H265	01`03f211833.m3u8?2
+SPORTV 2 SD	01`03f211837.m3u8?2
+SPORTV 3 FHD	01`03f211840.m3u8?2
+SPORTV 3 FHD H265	01`03f211839.m3u8?2
+SPORTV 3 SD	01`03f211843.m3u8?2
+STAR CHANNEL FHD	01`03f188497.m3u8?2
+STAR CHANNEL FHD H265	01`03f188496.m3u8?2
+STAR CHANNEL SD	01`03f188500.m3u8?2
+CINECANAL FHD	01`03f188503.m3u8?2
+CINECANAL FHD H265	01`03f188502.m3u8?2
+CINECANAL SD	01`03f188506.m3u8?2
+STAR PLUS 01 [ALT]	01`03f927287.m3u8?2
+STAR PLUS 02 [ALT]	01`03f927288.m3u8?2
+STAR PLUS 03 [ALT]	01`03f927289.m3u8?2
+STUDIO UNIVERSAL FHD	01`03f188551.m3u8?2
+STUDIO UNIVERSAL FHD H265	01`03f188550.m3u8?2
+STUDIO UNIVERSAL SD	01`03f188554.m3u8?2
+SYFY FHD	01`03f188557.m3u8?2
+SYFY FHD H265	01`03f188556.m3u8?2
+SYFY SD	01`03f188560.m3u8?2
+TCM SD	01`03f188597.m3u8?2
+TELECINE ACTION FHD	01`03f188425.m3u8?2
+TELECINE ACTION FHD H265	01`03f188424.m3u8?2
+TELECINE ACTION SD	01`03f188428.m3u8?2
+TELECINE CULT FHD	01`03f188431.m3u8?2
+TELECINE CULT FHD H265	01`03f188430.m3u8?2
+TELECINE CULT SD	01`03f188434.m3u8?2
+TELECINE FUN FHD	01`03f188437.m3u8?2
+TELECINE FUN FHD H265	01`03f188436.m3u8?2
+TELECINE FUN SD	01`03f188440.m3u8?2
+TELECINE PIPOCA FHD	01`03f188443.m3u8?2
+TELECINE PIPOCA FHD H265	01`03f188442.m3u8?2
+TELECINE PIPOCA SD	01`03f188446.m3u8?2
+TELECINE PREMIUM FHD	01`03f188449.m3u8?2
+TELECINE PREMIUM FHD H265	01`03f188448.m3u8?2
+TELECINE PREMIUM SD	01`03f188452.m3u8?2
+TELECINE TOUCH FHD	01`03f188455.m3u8?2
+TELECINE TOUCH FHD H265	01`03f188454.m3u8?2
+TELECINE TOUCH SD	01`03f188458.m3u8?2
+TNT FHD	01`03f188569.m3u8?2
+TNT FHD H265	01`03f188568.m3u8?2
+TNT SD	01`03f188572.m3u8?2
+TNT SERIES FHD	01`03f188575.m3u8?2
+TNT SERIES FHD H265	01`03f188574.m3u8?2
+TNT SERIES SD	01`03f188578.m3u8?2
+TNT NOVELAS FHD	01`03f188562.m3u8?2
+TNT NOVELAS SD	01`03f188566.m3u8?2
+TOONCAST FHD	01`03f189030.m3u8?2
+TOONCAST SD	01`03f189034.m3u8?2
+TV ALTEROSA FHD [ALT]	01`03f299392.m3u8?2
+TV BRASIL FHD	01`03f282455.m3u8?2
+TV BRASIL SD	01`03f282457.m3u8?2
+TV CAMARA SD	01`03f189894.m3u8?2
+TV CULTURA SD	01`03f188882.m3u8?2
+TV DIARIO FORTALEZA FHD	01`03f188406.m3u8?2
+TV EVANGELIZAR FHD	01`03f211903.m3u8?2
+TV GAZETA SP FHD	01`03f188875.m3u8?2
+TV GLOOBINHO SD	01`03f189036.m3u8?2
+TV INTEGRAÇAO JUIZ DE FORA FHD	01`03f212283.m3u8?2
+TV INTEGRAÇAO JUIZ DE FORA SD	01`03f212284.m3u8?2
+TV MUNDIAL SD	01`03f211913.m3u8?2
+TV NOVO TEMPO SD	01`03f211906.m3u8?2
+TV PAI ETERNO SD	01`03f212528.m3u8?2
+TV RATIMBUM SD	01`03f189042.m3u8?2
+TV SENADO SD	01`03f208023.m3u8?2
+UNIVERSAL TV FHD	01`03f188581.m3u8?2
+UNIVERSAL TV FHD H265	01`03f188580.m3u8?2
+UNIVERSAL TV SD	01`03f188584.m3u8?2
+VH1 MEGAHITS SD	01`03f189094.m3u8?2
+VIVA FHD	01`03f189128.m3u8?2
+VIVA FHD H265	01`03f189127.m3u8?2
+VIVA SD	01`03f189131.m3u8?2
+WARNER CHANNEL FHD	01`03f188587.m3u8?2
+WARNER CHANNEL FHD H265	01`03f188586.m3u8?2
+WARNER CHANNEL SD	01`03f188590.m3u8?2
+WOOHOO FHD	01`03f189044.m3u8?2
+WOOHOO FHD H265	01`03f189045.m3u8?2
+WOOHOO SD	01`03f189048.m3u8?2
+ZOOMO SD	01`03f189053.m3u8?2
+Caze TV 02	01`03f632146.m3u8?2
+Caze TV 03	01`03f899515.m3u8?2
+REDE SUPER SD	01`03f319582.m3u8?2
+TRACE BRAZUCA SD	01`03f319581.m3u8?2
+BAND Brasilia FHD	01`03f336659.m3u8?2
+TRAVEL BOX BRAZIL SD	01`03f340971.m3u8?2
+PARAMOUNT + 01 [ALT]	01`03f932424.m3u8?2
+PARAMOUNT + 02 [ALT]	01`03f932425.m3u8?2
+TV FRONTEIRA PAULISTA SD	01`03f361011.m3u8?2
+TV CIDADE CANAL 9 - TERESÓPOLIS	01`03f415099.m3u8?2
+Canal GOAT 01	01`03f626150.m3u8?2
+Canal GOAT 02	01`03f930096.m3u8?2
+Canal GOAT 03	01`03f930097.m3u8?2
+SBT JANGADEIRO CE	01`03f905102.m3u8?2
+BAND TV GOIANIA FHD	01`03f926704.m3u8?2
+BAND TV GOIANIA HD	01`03f926705.m3u8?2
+A GRANDE CONQUISTA 01	01`03f929145.m3u8?2
+A GRANDE CONQUISTA 01 [ALT]	01`03f929146.m3u8?2
+A GRANDE CONQUISTA 02	01`03f929147.m3u8?2
+A GRANDE CONQUISTA 02 [ALT]	01`03f929148.m3u8?2
+A GRANDE CONQUISTA 03	01`03f929149.m3u8?2
+A GRANDE CONQUISTA 03 [ALT]	01`03f929150.m3u8?2
+A GRANDE CONQUISTA 04	01`03f929159.m3u8?2
+A GRANDE CONQUISTA 04 [ALT]	01`03f929160.m3u8?2
+ZAPPING TV 01	01`03f929161.m3u8?2
+Radio Hits 99,7	01`03f25273.m3u8?2
+Nativa 95.3 FM	01`03f25325.m3u8?2
+Transamerica SP 100,1 FM	01`03f25327.m3u8?2
+Cidade 103,10 FM	01`03f25329.m3u8?2
+Melody 94,1 FM	01`03f25331.m3u8?2
+Antena 1 SP FM	01`03f25332.m3u8?2
+Estilo FM 102,1	01`03f25333.m3u8?2
+Radio Clube Do Forro - Antigas	01`03f25335.m3u8?2
+Rádio Planeta Dance	01`03f25336.m3u8?2
+Jovem Pan SP 620 AM	01`03f25337.m3u8?2
+CBN Grandes Lagos 90.9 FM	01`03f25338.m3u8?2
+Igreja Pentecostal Deus é amor	01`03f345736.m3u8?2
+96 Bauru SP - 96 FM	01`03f345837.m3u8?2
+Cidade RJ - 102.9 FM	01`03f345838.m3u8?2
+CINE SKY 1	01`03f212107.m3u8?2
+CINE SKY 2	01`03f212109.m3u8?2
+CINE SKY 3	01`03f212111.m3u8?2
+CINE SKY 4	01`03f212113.m3u8?2
+CINE SKY 5	01`03f212115.m3u8?2
+CINE SKY 6	01`03f212117.m3u8?2
+CINE SKY 7	01`03f212119.m3u8?2
+CINE SKY 8	01`03f212121.m3u8?2
+CINE SKY 9	01`03f212123.m3u8?2
+CINE SKY 10	01`03f346765.m3u8?2
+GLOBO SP 4K	01`03f211923.m3u8?2
+ANIMAL PLANET 4K	01`03f211924.m3u8?2
+BAND SP 4K	01`03f211925.m3u8?2
+CARTOON 4K	01`03f211926.m3u8?2
+DISCOVERY CHANNEL 4K	01`03f211928.m3u8?2
+ESPN 4 4K	01`03f211929.m3u8?2
+PREMIERE CLUBES 4K	01`03f211935.m3u8?2
+RECORD TV SP 4K	01`03f211936.m3u8?2
+SBT SP 4K	01`03f211938.m3u8?2
+STAR CHANNEL 4K	01`03f211939.m3u8?2
+SPORTV 4K	01`03f211941.m3u8?2
+TELECINE PIPOCA 4K	01`03f211942.m3u8?2
+TELECINE PREMIUM 4K	01`03f211943.m3u8?2
+ESPN 4K	01`03f286622.m3u8?2
+TELECINE ACTION 4K	01`03f286624.m3u8?2
+UNIVERSAL CHANNEL 4K	01`03f286626.m3u8?2
+GNT 4K	01`03f286628.m3u8?2
+DISCOVERY TURBO 4K	01`03f286630.m3u8?2
+COMEDY CENTRAL 4K	01`03f286631.m3u8?2
+VIVA 4K	01`03f286632.m3u8?2
+DISCOVERY H&H 4K	01`03f286633.m3u8?2
+CNN BRASIL 4K	01`03f286634.m3u8?2
+GLOBO NEWS 4K	01`03f286635.m3u8?2
+AXN 4K	01`03f286636.m3u8?2
+JOVEM PAN NEWS 4K	01`03f286637.m3u8?2
+TV FRONTEIRA PAULISTA HD	01`03f361010.m3u8?2
+NBA League Pass 5 HD	01`03f343232.m3u8?2
+NBA League Pass 4 HD	01`03f343231.m3u8?2
+NBA League Pass 3 HD	01`03f343230.m3u8?2
+NBA League Pass 2 HD	01`03f343229.m3u8?2
+NBA League Pass 1 HD	01`03f343228.m3u8?2
+GLOBO NSC TV CRICIUMA HD	01`03f342621.m3u8?2
+TRAVEL BOX BRAZIL HD	01`03f340970.m3u8?2
+BAND Brasilia HD	01`03f336660.m3u8?2
+SBT Interior HD	01`03f336657.m3u8?2
+SBT Brasília HD	01`03f336656.m3u8?2
+TRACE BRAZUCA HD	01`03f319580.m3u8?2
+FURACAO LIVE 01	01`03f317409.m3u8?2
+GLOBO SERGIPE HD	01`03f306647.m3u8?2
+SPORTV 2 HD [ALT]	01`03f306566.m3u8?2
+SBT VTV CAMPINAS HD	01`03f299401.m3u8?2
+SBT BAHIA [ALT]	01`03f299397.m3u8?2
+SBT SERGIPE HD [ALT]	01`03f299396.m3u8?2
+SBT RS HD [ALT]	01`03f299395.m3u8?2
+TV ALTEROSA HD [ALT]	01`03f299393.m3u8?2
+BAND SERGIPE HD [ALT]	01`03f299391.m3u8?2
+BAND RS HD [ALT]	01`03f299390.m3u8?2
+BAND PARANA (Tv Taroba) HD	01`03f299388.m3u8?2
+BAND CAMPINAS HD	01`03f299385.m3u8?2
+BAND BAHIA HD	01`03f299384.m3u8?2
+AGROMAIS HD	01`03f297144.m3u8?2
+VIVA HD [ALT]	01`03f295706.m3u8?2
+SBT RJ HD [ALT]	01`03f295705.m3u8?2
+SBT SP HD [ALT]	01`03f295704.m3u8?2
+BAND SPORTS HD [ALT]	01`03f295703.m3u8?2
+BAND SP HD [ALT]	01`03f295702.m3u8?2
+COMBATE HD [ALT]	01`03f295699.m3u8?2
+ESPN 4 HD [ALT]	01`03f295698.m3u8?2
+ESPN 5 HD [ALT]	01`03f295697.m3u8?2
+PREMIERE 4 HD [ALT]	01`03f295696.m3u8?2
+PREMIERE 2 HD [ALT]	01`03f295695.m3u8?2
+PREMIERE CLUBES HD [ALT]	01`03f295694.m3u8?2
+RECORD SP HD [ALT]	01`03f295693.m3u8?2
+RECORD RS HD [ALT]	01`03f295692.m3u8?2
+RECORD RJ HD [ALT]	01`03f295691.m3u8?2
+RECORD MINAS HD	01`03f295689.m3u8?2
+RECORD BAHIA HD [ALT]	01`03f295688.m3u8?2
+RECORD GOIAS HD [ALT]	01`03f295687.m3u8?2
+RECORD BRASILIA HD [ALT]	01`03f295686.m3u8?2
+GLOBO RBS PORTO ALEGRE HD [ALT]	01`03f295684.m3u8?2
+GLOBO NORDESTE HD [ALT]	01`03f295683.m3u8?2
+GLOBO MINAS HD [ALT]	01`03f295682.m3u8?2
+GLOBO FLORIANOPOLIS HD [ALT]	01`03f295681.m3u8?2
+GLOBO EPTV CAMPINAS HD [ALT]	01`03f295680.m3u8?2
+GLOBO BRASILIA HD [ALT]	01`03f295679.m3u8?2
+GLOBO TV VERDES MARES FORTALEZA HD [ALT]	01`03f295678.m3u8?2
+GLOBO TV TEM BAURU HD [ALT]	01`03f295677.m3u8?2
+GLOBO RPC CURITIBA HD [ALT]	01`03f295676.m3u8?2
+ZOOMOO HD [ALT]	01`03f295674.m3u8?2
+NICKELODEON HD [ALT]	01`03f295673.m3u8?2
+NICK JR HD [ALT]	01`03f295672.m3u8?2
+GLOOB HD [ALT]	01`03f295670.m3u8?2
+DISNEY CHANNEL HD [ALT]	01`03f295667.m3u8?2
+DISCOVERY KIDS HD [ALT]	01`03f295666.m3u8?2
+CARTOON NETWORK HD [ALT]	01`03f295665.m3u8?2
+CARTOONITO HD [ALT]	01`03f295664.m3u8?2
+BABY TV HD	01`03f295663.m3u8?2
+NATGEO HD [ALT]	01`03f295662.m3u8?2
+ID DISCOVERY HD [ALT]	01`03f295660.m3u8?2
+HISTORY HD [ALT]	01`03f295659.m3u8?2
+H2 HD [ALT]	01`03f295658.m3u8?2
+DISCOVERY TURBO HD [ALT]	01`03f295657.m3u8?2
+DISCOVERY TLC HD [ALT]	01`03f295656.m3u8?2
+DISCOVERY WORLD HD [ALT]	01`03f295655.m3u8?2
+DISCOVERY THEATER HD [ALT]	01`03f295654.m3u8?2
+DISCOVERY SCIENCE HD [ALT]	01`03f295653.m3u8?2
+DISCOVERY H&H HD [ALT]	01`03f295652.m3u8?2
+DISCOVERY CHANNEL HD [ALT]	01`03f295651.m3u8?2
+ANIMAL PLANET HD [ALT]	01`03f295650.m3u8?2
+HBO Xtreme HD [ALT]	01`03f295649.m3u8?2
+HBO SIGNATURE HD [ALT]	01`03f295648.m3u8?2
+HBO POP HD [ALT]	01`03f295647.m3u8?2
+HBO PLUS HD [ALT]	01`03f295646.m3u8?2
+HBO MUNDI HD [ALT]	01`03f295645.m3u8?2
+HBO HD [ALT]	01`03f295644.m3u8?2
+HBO FAMILY HD [ALT]	01`03f295643.m3u8?2
+HBO 2 HD [ALT]	01`03f295642.m3u8?2
+TELECINE PIPOCA HD [ALT]	01`03f295641.m3u8?2
+COMEDY CENTRAL HD [ALT]	01`03f295640.m3u8?2
+SPACE HD [ALT]	01`03f295639.m3u8?2
+TELECINE TOUCH HD [ALT]	01`03f295638.m3u8?2
+TELECINE PREMIUM HD [ALT]	01`03f295637.m3u8?2
+TELECINE FUN HD [ALT]	01`03f295636.m3u8?2
+TELECINE CULT HD [ALT]	01`03f295635.m3u8?2
+TELECINE ACTION HD [ALT]	01`03f295634.m3u8?2
+ESPN 3 HD [ALT]	01`03f295633.m3u8?2
+ESPN 2 HD [ALT]	01`03f295632.m3u8?2
+ESPN 6 HD [ALT]	01`03f295631.m3u8?2
+ESPN HD [ALT]	01`03f295630.m3u8?2
+WARNER CHANNEL HD [ALT]	01`03f295629.m3u8?2
+UNIVERSAL TV HD [ALT]	01`03f295628.m3u8?2
+TNT SERIES HD [ALT]	01`03f295627.m3u8?2
+TNT HD [ALT]	01`03f295626.m3u8?2
+STUDIO UNIVERSAL HD [ALT]	01`03f295625.m3u8?2
+CANAL SONY HD [ALT]	01`03f295624.m3u8?2
+PARAMOUNT HD [ALT]	01`03f295623.m3u8?2
+MEGAPIX HD [ALT]	01`03f295622.m3u8?2
+FX HD [ALT]	01`03f295621.m3u8?2
+CINECANAL HD [ALT]	01`03f295618.m3u8?2
+STAR CHANNEL HD [ALT]	01`03f295617.m3u8?2
+CINEMAX HD [ALT]	01`03f295616.m3u8?2
+AXN HD [ALT]	01`03f295615.m3u8?2
+AMC HD [ALT]	01`03f295614.m3u8?2
+A&E HD [ALT]	01`03f295613.m3u8?2
+GLOBO RJ HD [ALT]	01`03f295612.m3u8?2
+GLOBO SP HD [ALT]	01`03f295611.m3u8?2
+SPORTV HD [ALT]	01`03f295610.m3u8?2
+SPORTV 3 HD [ALT]	01`03f295609.m3u8?2
+GLOBO RBS TV PASSO FUNDO HD	01`03f291494.m3u8?2
+GLOBO TV SUBAE HD	01`03f291343.m3u8?2
+GLOBO TV SANTA CRUZ HD	01`03f291340.m3u8?2
+GLOBO RBS TV PELOTAS HD	01`03f291335.m3u8?2
+GLOBO TV MIRANTE COCAIS HD	01`03f291325.m3u8?2
+GLOBO RBS TV CAXIAS DO SUL HD	01`03f291322.m3u8?2
+SBT BAHIA HD	01`03f291051.m3u8?2
+CURTA! HD	01`03f286620.m3u8?2
+TV BRASIL HD	01`03f282456.m3u8?2
+JOVEM PAN NEWS HD	01`03f229791.m3u8?2
+RECORD TV BELEM HD	01`03f217137.m3u8?2
+SBT RJ HD	01`03f217134.m3u8?2
+GLOBO TV CLUBE TERESINA HD	01`03f216842.m3u8?2
+TV INTEGRAÇAO JUIZ DE FORA HD	01`03f216840.m3u8?2
+GLOBO TV VANGUARDA S J CAMPOS HD	01`03f216839.m3u8?2
+GLOBO TV TRIBUNA SANTOS HD	01`03f216838.m3u8?2
+GLOBO INTER TV ALTO LITORAL HD	01`03f216832.m3u8?2
+GLOBO EPTV RIBEIRÃO PRETO HD	01`03f216829.m3u8?2
+GLOBO TV MORENA CAMPO GRANDE HD	01`03f212574.m3u8?2
+TV PAI ETERNO HD	01`03f212527.m3u8?2
+RIT TV HD	01`03f211918.m3u8?2
+REDE GOSPEL HD	01`03f211917.m3u8?2
+TV APARECIDA SD	01`03f211915.m3u8?2
+TV APARECIDA HD	01`03f211914.m3u8?2
+REDE VIDA HD [ALT]	01`03f211910.m3u8?2
+REDE VIDA HD	01`03f211909.m3u8?2
+TV NOVO TEMPO HD	01`03f211905.m3u8?2
+TV EVANGELIZAR HD	01`03f211904.m3u8?2
+CANCAO NOVA HD	01`03f211901.m3u8?2
+HBO XTREME HD	01`03f211894.m3u8?2
+HBO SIGNATURE HD	01`03f211888.m3u8?2
+HBO POP HD	01`03f211882.m3u8?2
+HBO PLUS HD	01`03f211876.m3u8?2
+HBO MUNDI HD	01`03f211870.m3u8?2
+HBO Familly HD	01`03f211864.m3u8?2
+HBO 2 HD	01`03f211858.m3u8?2
+HBO HD	01`03f211852.m3u8?2
+SPORTV 3 HD	01`03f211841.m3u8?2
+SPORTV 2 HD	01`03f211835.m3u8?2
+SPORTV HD	01`03f211829.m3u8?2
+ESPN 5 HD	01`03f211823.m3u8?2
+ESPN 4 HD	01`03f211817.m3u8?2
+ESPN 6 HD	01`03f211811.m3u8?2
+ESPN HD	01`03f211805.m3u8?2
+ESPN 3 HD	01`03f211799.m3u8?2
+ESPN 2 HD	01`03f211793.m3u8?2
+COMBATE HD	01`03f211787.m3u8?2
+BAND SPORTS HD	01`03f211781.m3u8?2
+DOGTV HD	01`03f189896.m3u8?2
+TV CAMARA HD	01`03f189895.m3u8?2
+MODO VIAGEM HD	01`03f189845.m3u8?2
+RECORD NEWS HD	01`03f189230.m3u8?2
+NHK WORLD HD	01`03f189227.m3u8?2
+GLOBO NEWS HD	01`03f189223.m3u8?2
+CNN INTERNACIONAL HD	01`03f189220.m3u8?2
+CNN BRASIL HD	01`03f189215.m3u8?2
+BAND NEWS HD	01`03f189210.m3u8?2
+VIVA HD	01`03f189129.m3u8?2
+PRIME BOX BRAZIL HD	01`03f189118.m3u8?2
+OFF HD	01`03f189113.m3u8?2
+MULTISHOW HD	01`03f189107.m3u8?2
+MUSIC BOX BRAZIL HD	01`03f189102.m3u8?2
+MTV HD	01`03f189098.m3u8?2
+HGTV HD	01`03f189087.m3u8?2
+GNT HD	01`03f189081.m3u8?2
+FOOD NETWORK HD	01`03f189075.m3u8?2
+E! HD	01`03f189069.m3u8?2
+BIS HD	01`03f189057.m3u8?2
+ZOOMO HD	01`03f189051.m3u8?2
+WOOHOO HD	01`03f189046.m3u8?2
+TV RATIMBUM HD	01`03f189040.m3u8?2
+TV GLOOBINHO HD	01`03f189037.m3u8?2
+TOONCAST HD	01`03f189032.m3u8?2
+NICKELODEON HD	01`03f189025.m3u8?2
+NICK JR HD	01`03f189019.m3u8?2
+GLOOB HD	01`03f189007.m3u8?2
+DISNEY CHANNEL HD	01`03f188990.m3u8?2
+DISCOVERY KIDS HD	01`03f188984.m3u8?2
+CARTOON NETWORK HD	01`03f188978.m3u8?2
+CARTOONITO HD	01`03f188972.m3u8?2
+TV CULTURA HD	01`03f188880.m3u8?2
+TV GAZETA SP HD	01`03f188876.m3u8?2
+REDE TV HD	01`03f188871.m3u8?2
+FUTURA HD	01`03f188865.m3u8?2
+CANAL BRASIL HD	01`03f188859.m3u8?2
+RECORD RS HD	01`03f188819.m3u8?2
+RECORD GOIAS SD	01`03f188815.m3u8?2
+RECORD BRASILIA HD	01`03f188808.m3u8?2
+RECORD BAHIA HD	01`03f188805.m3u8?2
+RECORD MINAS HD [ALT]	01`03f188799.m3u8?2
+RECORD RJ HD	01`03f188795.m3u8?2
+RECORD SP HD	01`03f188790.m3u8?2
+BAND CAMPINAS HD [ALT]	01`03f188752.m3u8?2
+BAND RJ HD	01`03f188747.m3u8?2
+BAND SP HD	01`03f188742.m3u8?2
+SBT TV JORNAL HD	01`03f188738.m3u8?2
+SBT SP HD	01`03f188727.m3u8?2
+DISCOVERY TLC HD	01`03f188721.m3u8?2
+NATGEO HD	01`03f188709.m3u8?2
+ID DISCOVERY HD	01`03f188703.m3u8?2
+HISTORY HD	01`03f188697.m3u8?2
+H2 HD	01`03f188691.m3u8?2
+FISH TV HD	01`03f188685.m3u8?2
+DISCOVERY WORLD HD	01`03f188679.m3u8?2
+DISCOVERY TURBO HD	01`03f188673.m3u8?2
+DISCOVERY THEATER HD	01`03f188667.m3u8?2
+DISCOVERY SCIENCE HD	01`03f188661.m3u8?2
+DISCOVERY H&H HD	01`03f188655.m3u8?2
+DISCOVERY CHANNEL HD	01`03f188649.m3u8?2
+ANIMAL PLANET HD	01`03f188643.m3u8?2
+PREMIERE 7 HD	01`03f188637.m3u8?2
+PREMIERE 6 HD	01`03f188632.m3u8?2
+PREMIERE 5 HD	01`03f188626.m3u8?2
+PREMIERE 4 HD	01`03f188620.m3u8?2
+PREMIERE 3 HD	01`03f188614.m3u8?2
+PREMIERE 2 HD	01`03f188608.m3u8?2
+PREMIERE CLUBES HD	01`03f188602.m3u8?2
+TCM HD	01`03f188596.m3u8?2
+WARNER CHANNEL HD	01`03f188588.m3u8?2
+UNIVERSAL TV HD	01`03f188582.m3u8?2
+TNT SERIES HD	01`03f188576.m3u8?2
+TNT HD	01`03f188570.m3u8?2
+TNT NOVELAS HD	01`03f188564.m3u8?2
+SYFY HD	01`03f188558.m3u8?2
+STUDIO UNIVERSAL HD	01`03f188552.m3u8?2
+SPACE HD	01`03f188546.m3u8?2
+PARAMOUNT HD	01`03f188540.m3u8?2
+MEGAPIX HD	01`03f188534.m3u8?2
+LIFETIME HD	01`03f188528.m3u8?2
+FX HD	01`03f188522.m3u8?2
+CINECANAL HD	01`03f188504.m3u8?2
+STAR CHANNEL HD	01`03f188498.m3u8?2
+COMEDY CENTRAL HD	01`03f188492.m3u8?2
+CINEMAX HD	01`03f188486.m3u8?2
+CANAL SONY HD	01`03f188480.m3u8?2
+AXN HD	01`03f188474.m3u8?2
+AMC HD	01`03f188468.m3u8?2
+A&E HD	01`03f188462.m3u8?2
+TELECINE TOUCH HD	01`03f188456.m3u8?2
+TELECINE PREMIUM HD	01`03f188450.m3u8?2
+TELECINE PIPOCA HD	01`03f188444.m3u8?2
+TELECINE FUN HD	01`03f188438.m3u8?2
+TELECINE CULT HD	01`03f188432.m3u8?2
+TELECINE ACTION HD	01`03f188426.m3u8?2
+GLOBO TV VERDES MARES FORTALEZA HD	01`03f188421.m3u8?2
+GLOBO TV TEM SOROCABA HD	01`03f188418.m3u8?2
+GLOBO TV TEM BAURU HD	01`03f188417.m3u8?2
+GLOBO TV RIO SUL HD	01`03f188413.m3u8?2
+GLOBO TV MIRANTE SAO LUIS HD	01`03f188411.m3u8?2
+TV DIARIO FORTALEZA HD	01`03f188407.m3u8?2
+GLOBO TV CABO BRANCO HD	01`03f188404.m3u8?2
+GLOBO TV CENTRO AMERICA HD	01`03f188402.m3u8?2
+GLOBO TV ASA BRANCA HD	01`03f188399.m3u8?2
+GLOBO TV ANHANGUERA GOIANIA HD	01`03f188395.m3u8?2
+GLOBO RPC MARINGA HD	01`03f188394.m3u8?2
+GLOBO TV TEM S. J. DO RIO PRETO HD	01`03f188393.m3u8?2
+GLOBO SERGIPE SD	01`03f188391.m3u8?2
+GLOBO RPC PONTA GROSSA HD	01`03f188389.m3u8?2
+GLOBO RPC FOZ DO IGUACU HD	01`03f188386.m3u8?2
+GLOBO RPC CURITIBA HD	01`03f188383.m3u8?2
+GLOBO TV REDE AMAZONICA MANAUS HD	01`03f188381.m3u8?2
+GLOBO RBS TV SANTA MARIA HD	01`03f188377.m3u8?2
+GLOBO RBS PORTO ALEGRE HD	01`03f188371.m3u8?2
+GLOBO TV REDE AMAZONICA PORTO VELHO HD	01`03f188369.m3u8?2
+GLOBO NSC TV JOINVILLE HD	01`03f188368.m3u8?2
+GLOBO GAZETA VITORIA ES HD	01`03f188367.m3u8?2
+GLOBO TV GAZETA SUL ES HD	01`03f188365.m3u8?2
+GLOBO TV GAZETA DE ALAGOAS HD	01`03f188363.m3u8?2
+GLOBO FLORIANOPOLIS HD	01`03f188360.m3u8?2
+GLOBO NSC TV CHAPECO HD	01`03f188358.m3u8?2
+GLOBO NSC TV BLUMENAL HD	01`03f188357.m3u8?2
+GLOBO NORDESTE HD	01`03f188353.m3u8?2
+GLOBO INTER TV SERRA MAR HD	01`03f188347.m3u8?2
+GLOBO INTER TV GRANDE MINAS HD	01`03f188346.m3u8?2
+GLOBO INTER TV DOS VALES HD	01`03f188345.m3u8?2
+GLOBO INTER TV CABUGI HD	01`03f188344.m3u8?2
+GLOBO EPTV SUL DE MINAS HD	01`03f188341.m3u8?2
+GLOBO EPTV CAMPINAS HD	01`03f188334.m3u8?2
+GLOBO BRASILIA HD	01`03f188329.m3u8?2
+GLOBO BOA VISTA HD	01`03f188326.m3u8?2
+GLOBO BELEM HD	01`03f188324.m3u8?2
+GLOBO BAHIA HD	01`03f188318.m3u8?2
+GLOBO MINAS HD	01`03f188313.m3u8?2
+GLOBO RJ HD	01`03f188308.m3u8?2
+GLOBO SP HD	01`03f188302.m3u8?2
+MAX 1	01`03f286681.m3u8?2
+MAX 2	01`03f286682.m3u8?2
+MAX 3	01`03f286683.m3u8?2
+MAX 4	01`03f286684.m3u8?2
+STAR PLUS 01	01`03f286687.m3u8?2
+STAR PLUS 02	01`03f286688.m3u8?2
+STAR PLUS 03	01`03f286689.m3u8?2
+STAR PLUS 04	01`03f286690.m3u8?2
+PARAMOUNT + 04	01`03f298814.m3u8?2
+PARAMOUNT + 03	01`03f298815.m3u8?2
+PARAMOUNT + 02	01`03f298816.m3u8?2
+PARAMOUNT + 01	01`03f298817.m3u8?2
+Caze TV 01	01`03f310708.m3u8?2
+LNF 02	01`03f310709.m3u8?2
+LNF 01	01`03f310710.m3u8?2
+DAZN1	01`03f310716.m3u8?2
+DAZN2	01`03f310717.m3u8?2
+DAZN3	01`03f310718.m3u8?2
+DAZN4	01`03f310719.m3u8?2
+STAR PLUS 06	01`03f310728.m3u8?2
+STAR PLUS 05	01`03f310729.m3u8?2
+FURACAO LIVE 02	01`03f338675.m3u8?2
+MAX 5	01`03f341357.m3u8?2
+MAX 6	01`03f341358.m3u8?2
+NOSSO FUTEBOL 01	01`03f345480.m3u8?2
+NOSSO FUTEBOL 02	01`03f345481.m3u8?2
+NOSSO FUTEBOL 03	01`03f345482.m3u8?2
+NOSSO FUTEBOL 04	01`03f369956.m3u8?2
+UFC FIGHT PASS 01	01`03f345044.m3u8?2
+UFC FIGHT PASS 02	01`03f345045.m3u8?2
+UFC FIGHT PASS 03	01`03f345046.m3u8?2
+BAND MINAS HD 	01`03f299387.m3u8?2
