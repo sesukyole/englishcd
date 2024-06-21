@@ -2,10 +2,12 @@ AR  beIN Sports 1 Euro	http://ikitv-online.webhop.me:9590/ar-s/B-S-pre-1-stop-Ti
 AR  beIN Sports 2 Euro	http://ikitv-online.webhop.me:9590/ar-s/B-S-pre-2-stop-TimeSheft/tracks-v1a1/mono.m3u8?2
 AR  beIN Sports 3 Euro	http://ikitv-online.webhop.me:9590/ar-s/B-S-pre-3-stop-TimeSheft/tracks-v1a1/mono.m3u8?2
 AR  beIN Sports 4 Euro	01`03d1829.m3u8
+ID. Moji 1	01`03c4.m3u8?2
+ID. Moji 2	01`03c4.m3u8
+ID. Indosiar 1	01`03c228.m3u8?2
+ID. Indosiar 2	01`03c228.m3u8
 AR  beIN Sports 5	01`03d1830.m3u8
 AR  beIN Sports 7	01`03d1832.m3u8
-ID. Moji	01`03c4.m3u8?2
-ID. Indosiar	01`03c228.m3u8?2
 US  Fox 502	01`03d1876.m3u8?2
 US  Fox 504	01`03d1877.m3u8?2
 AR  beIN Sports 1	01`03d1826.m3u8
