@@ -8,7 +8,6 @@ IT  Rai 1 Euro	https://da-d436236920010b8800010303000000000000000b.id.cdn.upcbro
 IT  Rai 2 Euro	https://da-d436236920010b8800010303000000000000000b.id.cdn.upcbroadband.com/wp/wp1-obc1112-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV09103/manifest.mpd``8398533768ae49be862f458edc78f828:609273c26c31a4090310e3945c0db5df
 itv1 Sport Euro	https://da-d436236920010b8800010303000000000000000b.id.cdn.upcbroadband.com/wp/wp2-obc1112-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV09212/manifest.mpd``5d9937d586414096948337ac314d79c1:22ca2e250b729982c97209e0ff3f7e9b
 La Une Euro	https://daiconnect.com/live/dash/rtbf/laune-premium-drm-2/.mpd``1a8315e4b64c4e638dc24d93134b9b2d:2821b54058fb3adc9c6252c631aef9e5
-NL NOS Euro	https://nlziet-live.akamaized.net/L6/76fd047c/c427bd9d.isml/.mpd``7545f9301bf94e7a9132dccf32920e51:94fc134c1b1cb1ea9075781417eca48b
 RTL Euro	https://pnowlive-a.akamaized.net/live/rtlhd/dash/rtlhd.mpd``57e48b99f3f6d4f13f5c5afdcca084ca:29379a5e2d3405fad2f5d9cbe92586c3
 Sky Sports 251 Euro	https://linear311-it-dash1-prd-akp2.cdn13.skycdp.com/31917/FHD/skysport251/master.mpd``00368000eaecbeeafd84c05b3b8243af:8f84185910e18ae0ca8a45004625a000
 Tipik Euro	https://daiconnect.com/live/dash/rtbf/tipik-premium-drm-2/.mpd``2f794d3c19854f4fa6f0183b993b86fa:37077d010758ce2cb85ca46720884b01
@@ -22,6 +21,10 @@ ES  La1	https://cache3.zapitv.com/live/eds_c2/la1_4k/dash_live_enc/la1_4k.mpd``a
 ES  N4V	https://telecorporacion-es.cdn.vustreams.com/live/65b52a0a-415d-4686-8ef5-7a0b07b83992/live.isml/.m3u8
 USA East	https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd``882c9f5613b43b47adc70aa968a308ce:de534ef8914bfe62ba3cdd6bdb9e1c04
 USA West	https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd``252a671825ba31ec8433f978c32ccf6d:ee560759ecc8d2274df2e63fcef56915
+NL NPO 1	https://nlziet-live.akamaized.net/L6/76fd047c/c427bd9d.isml/.mpd``7545f9301bf94e7a9132dccf32920e51:94fc134c1b1cb1ea9075781417eca48b
+NL NPO 2	https://nlziet-live.akamaized.net/L27/576200ff/17f23d2b.isml/.mpd``cd2e51e9dadd4e38b2b8df5680f7aa43:ce1083c14ed247bbc693bbe6bf0fd36b
+NL NPO 3	https://nlziet-live.akamaized.net/L7/7be0c2b0/358f270a.isml/.mpd``fe20b1562fc045caa0e341cfad93e153:cea73dbdf65c288dbff24ad6af8d535e
+NL NPO 4	https://nlziet-live.akamaized.net/L27/3d5aac95/1698e278.isml/.mpd``8adf9e686f6b4c35a65c273c6ba5f50b:1db98fc062825c57a3369aa5fb762786
 Channel 4	https://da-d436236920010b8800010303000000000000000b.id.cdn.upcbroadband.com/wp/wp2-obc1112-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV09211/manifest.mpd``d56ff9db826b4a41af9dbd0234c31116:ac6eaee980dff46e15670004663132a9
 Channel 6	https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
 MY  TV Okey	https://cors-proxy.cooks.fyi/https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
@@ -111,6 +114,8 @@ Sky Sports 24	https://linear301-it-dash1-prd-ll.cdn13.skycdp.com/31035/FHD/skysp
 Sky Open	https://linear-p.media.skyone.co.nz/primeplus1.clear.m3u8
 IT  EuroSports 1	https://linear311-it-dash1-prd-ll.cdn13.skycdp.com/313073/FHD/eurosport/master.mpd``0036bb3fa7e6f2c334d7cba5c28b6caf:217fa35739cd68e90b2cd23322c01312
 IT  EuroSports 2	https://linear312-it-dash1-prd-ll.cdn13.skycdp.com/31150/FHD/eurosport2/master.mpd``003670a7034342a4a07c91173818c61c:7b90055c1a1ea34d9090e9ebf6c4db8a
+EuroSports HD 1	http://edge02.odtv.az/o7/eurosport/playlist.m3u8
+EuroSports HD 2	http://edge02.odtv.az/o3/eurosport2/playlist.m3u8
 Sky Sports 252	https://linear311-it-dash1-prd-akg0.cdn13.skycdp.com/32951/FHD/skysport252/master.mpd``0036c4797608fc64296d437bc6f8b790:1689af84b23f514005f9bb854da7667f
 UK  MUTV	https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 DAZN International Football	https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64b79c057d934100080b3583livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
@@ -192,7 +197,7 @@ SSC Sport Extra 3	https://ssc-extra3-ak.akamaized.net/out/v1/8f1c6c3f05ef4284a64
 SSC News	https://ssc-news-live-ak.akamaized.net/out/v1/ef466f43623c4bbaa3f905b566ec35ea/index.mpd``3d04975236a44f62857d181597705ee6:362133e9cb13189ad4fe095ced216f60
 ETB 1	https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
 DAZN F1	https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/cqbcvgkb83/out/v1/4dbe05ecfb1540448d82d68eeebfbb1c/cenc.mpd``1061be12d303247426ec25e8369b2647:bd622b0e610295de3b0bccb850ccaaaa
-Redbull TV	https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+Redbull TV	https://db38umy8gexon.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-f561zwy85csh9/playlist.m3u8
 NHL Sports	https://nhl-firetv.amagi.tv/playlist480p.m3u8
 K19 Sports	https://1853185335.rsc.cdn77.org/K192/tv/K19/tv_480/chunks.m3u8
 PT  Benefica	`0https://sportsonline.si/channels/pt/btv.php
@@ -218,10 +223,9 @@ Live Sports 8	`0https://sportsonline.si/channels/bra/br8.php
 Dubai Sports 1	https://dmitnthfr.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
 Dubai Sports 2	https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
 Dubai Sports 3	https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
-Dubai Racing 1	https://dmisvthvll.cdn.mgmlcdn.com/events/smil:events.stream.smil/playlist.m3u8
-Dubai Racing 2	https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8
-Dubai Racing 3	https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
-BR  BandSports	https://cdn2.connectbr.com.br/Band-Sports/index.m3u8
+Dubai Racing 1	https://dmisvthvll.cdn.mgmlcdn.com/events/smil:events.stream.smil/chunklist.m3u8
+Dubai Racing 2	https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8
+Dubai Racing 3	https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/chunklist.m3u8
 TyC Sports 2	https://d107yb993altze.cloudfront.net/out/v1/772e0b0193134726ad84693b7baca6c6/index.m3u8
 RU  Match! Futbol 1	https://strm.yandex.ru/kal/match_football1_hd/manifest.mpd``5269ab07e6a6db7585324ae20542f191:dba0dccffba1b26f658ec85a616102e8
 RU  Match! Futbol 2	https://strm.yandex.ru/kal/match_football2_hd/manifest.mpd``56f7dcb5d20eeed212ff58620acb8931:76e139c0676ed2d7ae46392ce6fd9e89
@@ -230,6 +234,9 @@ Global Trekker	https://tglmp04.akamaized.net/out/v1/179412178c874c7fba3ca6b0d382
 BEK Sports	https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
 MAVTV	https://d70mb4nkspm3g.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vvwqo3j029lz0/playlist.m3u8
 Fite TV	https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
+Motorvision	https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
+Motorvision Plus	https://op-group1-swiftservehd-1.dens.tv/h/h242/index.m3u8
+US  AXS TV Fights	https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
 US  MotoAmerica	https://dcj-ak-livedazn.akamaized.net/dash/dazn-linear-507/stream.mpd``cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
 US  ACL Cornhole	https://dcj-ak-livedazn.akamaized.net/dash/dazn-linear-508/stream.mpd``cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
 US  Boxing	https://dcj-ak-livedazn.akamaized.net/dash/dazn-linear-509/stream.mpd``cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
@@ -288,8 +295,11 @@ UCL Infinity 5	https://live03p-seg.msf.cdn.mediaset.net/live/ch-u5/u5-dash-widev
 UCL Infinity 6	https://live03p-seg.msf.cdn.mediaset.net/live/ch-u6/u6-dash-widevine.isml/manifest.mpd``00f9f3c0783536b834ba7888b9f960a4:852ebe5446caa8fad99c440b86ad128c
 CCTV 5+	https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 CCTV 16	https://node1.olelive.com:6443/live/CCTV16HD/hls.m3u8
+Setanta Sports KZ	https://cors-proxy.cooks.fyi/https://bkm.beetv.kz/btv/live/hls/000004619.m3u8
 Setanta Sports 1	https://cors-proxy.cooks.fyi/https://bkm.beetv.kz/btv/live/hls/000006998.m3u8
 Setanta Sports 2	https://cors-proxy.cooks.fyi/https://bkm.beetv.kz/btv/live/hls/000006899.m3u8
+Belarus 5	https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
+Belarus 5 Int	https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8
 Persiana Sport	https://persianasport.mastercast.cloud/memfs/ae5f15e4-63eb-48b3-a0b4-5346c34a8f37.m3u8
 T Sports 7	https://cors-proxy.elfsight.com/https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0129/HLS/B0129.m3u8
 TH  Football 1	https://cors-proxy.elfsight.com/https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL001/HLS/TL001.m3u8
@@ -326,6 +336,8 @@ UK  ViaPlay Sport 1	https://cors-proxy.mcjeffr.com/https://live-dash-cdn7-vp.cdn
 UK  ViaPlay Sport 2	https://cors-proxy.mcjeffr.com/https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/vpsports2uk/vpsports2uk.isml/index.mpd``6fe6d9cf50835945881cb56a38839fce:213ad868126fd2cb352b189b07b25421
 ViaPlay Extra 65	https://cors-proxy.mcjeffr.com/https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra65/xtra65.isml/index.mpd``2e2e68763da359799dd279ffa7476c81:b9e5d7d8f547aafa41634e845a47e051
 ViaPlay Extra 12	https://cors-proxy.mcjeffr.com/https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra12/xtra12.isml/index.mpd``ed4086de5e445f9bac5c093362a0f549:599aa72e49e4736f58e947ea0c34f235
+Viju+ Sport	http://edge02.odtv.az/o7/viasatsport/playlist.m3u8
+W Sport	https://op-group1-swiftservehd-1.dens.tv/h/h26/S4/mnf.m3u8
 NO  TV 3	https://cors-proxy.mcjeffr.com/https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra100/xtra100.isml/index.mpd``b08d9804e8ea51bb8d71fd4bf77c3f5b:b9fe3237a5f11a2a084264074b125c9c
 PT  Sport TV 1	https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SPORTTV1_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
 PT  Sport TV 2	https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SPORTTV2_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
@@ -380,6 +392,7 @@ V Sport 2	https://live-aws-scalstrm-cdn.rikstv.no/live/rikstv/644bb6e91dbc891fd4
 V Sport 3	https://live-aws-scalstrm-cdn.rikstv.no/live/rikstv/644bb6ea1dbc891fd422f01e/manifest.mpd``fdcb8ee4623458e5832a92801fc723b1:634a67c44b7b7030872043df95c1a55e
 TyC Sports	https://bvsat02.cdn.rcs.net.ar/mnp/tyc/output.mpd
 AR  TNT Sports	https://bvsat02.cdn.rcs.net.ar/mnp/tntsports/output.mpd
+BR  BandSports	https://cdn2.connectbr.com.br/Band-Sports/index.m3u8
 TNT Sports Premium	https://clbpktstvdash-1.clarovideo.com/bpk-tv/TNTSPHD/dash_fk/index.mpd``eb9b87786bf9905fd14cbf1ac572d3d1:050a5d1da667693dbb327351b2f60c08
 TNT Sports AR	https://clbpktstvdash-1.clarovideo.com/bpk-tv/TNTSP3HD/dash_fk/index.mpd``046af5c1b08fcc86435ba97f119c9ada:fdd13d5b0151b1165d556c04d03a46fc
 CR  Tigo Sports	https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8

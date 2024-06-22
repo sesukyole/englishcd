@@ -2,7 +2,6 @@ SA  Makkah	https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
 SA  Medina	https://op-group1-swiftservesd-1.dens.tv/s/s27/index.m3u8
 PS  Palestine Today	https://live.paltodaytv.com/paltv/live/playlist.m3u8
 ID  Makkah TV	01`00a130/alquran/index.m3u8?c
-ID  VTV	https://flv.intechmedia.net/live/ch107.m3u8
 ID  AFN	01`00a133/afc/index.m3u8?c
 ID  Animal Planet	01`00a194/animalplanet/index.m3u8?c
 ID  AniMax	01`00a130/animax/index.m3u8?c
@@ -85,6 +84,8 @@ ID  Metro Global Network	https://edge.medcom.id/live-edge/smil:mgnch.smil/chunkl
 ID  Indosiar 1	https://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
 ID  Moji TV 2	https://op-group1-swiftservesd-1.dens.tv/s/s41/index.m3u8
 ID  SCTV 1	https://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
+ID  GTV	https://melon-live-cdn.mncnow.id/live/eds/GTV-2/sa_hls/GTV-2.m3u8
+ID  iNews	https://melon-live-cdn.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8
 ID  RCTI	https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-2/sa_hls/rcti-2.m3u8?c
 ID  ANTV 2	https://flv.intechmedia.net/live/ch108.m3u8
 ID  Dunia Games	https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6854467f-52fe-48ee-9822-00233c678709)/index.m3u8
@@ -96,6 +97,7 @@ ID  CNBC Indonesia	https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/mast
 ID  CNN Indonesia	https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 ID  CCTV 4	https://op-group1-swiftservesd-1.dens.tv/s/s19/index.m3u8
 ID  K Plus	https://op-group1-swiftservehd-1.dens.tv/h/h08/index.m3u8
+ID  K Plus	https://op-group1-swiftservehd-1.dens.tv/h/h219/index.m3u8
 ID  Nadoo Korean	https://op-group1-swiftservehd-1.dens.tv/h/h125/live.m3u8
 ID  My Cinema Europe	https://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8
 ID  ATV	https://streaming.indihometv.com/atm/DASH/atv/manifest.mpd
@@ -131,15 +133,20 @@ ID  Sakti TV	https://saktitv.siar.us/saktitv/live/playlist.m3u8
 ID  UGTV	https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
 ID  Wesal TV	https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
 ID  TVRI Sport	https://op-group1-swiftservesd-1.dens.tv/s/s107/index.m3u8
+ID  VTV	https://flv.intechmedia.net/live/ch107.m3u8
 US  Discovery Kids	https://raw.githubusercontent.com/mimipipi22/lalajo/main/discoverykids.m3u8
 US  Tortues Ninja 🇺🇸 🟤	https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d0c16d686454ead733d08f8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 Angry Birds	https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=514
 Shaun The Sheep	https://stream.ads.ottera.tv/playlist.m3u8?network_id=547
 Anime TV	https://stmv1.srvif.com/animetv/animetv/chunklist.m3u8
 Da Vinci Learning	https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00406-tinizinelimited-davinciuk-lggb/playlist.m3u8
-ESR Games TV	https://eyeonesports.com/480/ESR-003SCTE35.m3u8
+ESR Games	https://eyeonesports.com/480/ESR-003SCTE35.m3u8
+Kidoodle	https://kidoodletv-kdtv-1-us.samsung.wurl.tv/playlist.m3u8
+Kidsflix	https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 Moonbug Kids	https://moonbug-rokuus.amagi.tv/playlist.m3u8
+PBS Kids	https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 Spacetoon	https://raw.githubusercontent.com/mimipipi22/lalajo/main/spacetoon.m3u8
+Toonzkids	https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/toonzkids/master.m3u8
 Universal Kids	https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv/master_en.m3u8
 ZooMoo	https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 US  AFV Family	https://linear-12.frequency.stream/mt/plex/12/hls/master/playlist.m3u8
@@ -358,7 +365,7 @@ Dove Kids	https://sr-live4-frndly.akamaized.net/out/v1/dfed6dba20b8471993a7d14ab
 Best Action	https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/anyaott4_sofast/3857ca76-db9a-4928-ba0f-cc43be5eb7c9_0_HLS/manifest.m3u8
 Best Thriller	https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/anyaott4_sofast/60917caa-de31-4fed-9e63-bafffb5f5a7e_0_HLS/manifest.m3u8
 Xplore	https://xlpore-samsungus.amagi.tv/playlist.m3u8
-Animal Planet	https://raw.githubusercontent.com/mimipipi22/lalajo/main/animalplanet.m3u8
+Animal Planet	https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
 Highway Thru Channel	https://linear-120.frequency.stream/dist/localnow/120/hls/master/playlist.m3u8
 Local Now Zen	https://linear-125.frequency.stream/dist/localnow/125/hls/master/playlist.m3u8
 Weather Gone Viral	https://linear-128.frequency.stream/dist/localnow/128/hls/master/playlist.m3u8
@@ -669,7 +676,7 @@ VE  TeleSurᴴᴰ 🇬🇧🇻🇪	https://cdnenmain.telesur.ultrabase.net/mbliv
 VE  TeleSurᴴᴰ 🇻🇪	https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 Vivaldiᴴᴰ 🟤	https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01297-mezzo-vivalditv-xiaomi/playlist.m3u8
 Wild Earthᴴᴰ 🇺🇸🇧🇷 🟤	https://wildearth-roku.amagi.tv/masterR720P.m3u8
-Sony PIX	https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
+IN  Sony Kal	https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 KR  K Plus [Indonesian Sub]	https://raw.githubusercontent.com/kusnadipepenk/campeign/master/kplus.m3u8?c
 Trace Urban 🟤	https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-samsungnz/playlist.m3u8
 TLC 🇮🇳🇺🇸	https://raw.githubusercontent.com/inspirationlinks/m3u/live/Streams/TLC.m3u8
@@ -782,3 +789,4 @@ Bollywood	https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761
 |SHAHID| MUHAMMAD ABDO	https://mohammed-abdou-ak.akamaized.net/out/v1/3b57275cf54747cda4cda03ecf146f92/index_19.m3u8
 002 Radio TV	https://cdn.002radio.com:3909/live/radio002live.m3u8
 ID  TV Kesehatan	https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8
+Sony PIX	https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
