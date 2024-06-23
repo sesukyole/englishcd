@@ -1,4 +1,5 @@
 ID  Sport 4 Euro	https://dsgtq5sngxkde.cloudfront.net/live/eds/VplusLiveRplus/sa_hls/VplusLiveRplus.m3u8?c
+ID  Soccer Euro	https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_hls/rcti-soccerchannel-hd.m3u8?c
 SportDigital Fussball	01`01a2201`01b
 TVMax Copa America	https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
 TRT1 Canli Euro	https://d1u68oyra9spme.cloudfront.net/master.m3u8
@@ -20,6 +21,7 @@ RU  Match! Euro	https://cors-proxy.cooks.fyi/https://video.beeline.tv/live/d/cha
 QAZ Sport Euro	https://cors-proxy.cooks.fyi/https://bkm.beetv.kz/btv/live/hls/000003038.m3u8
 QAZ Sport Premium	https://gameslive.akamaized.net/hls/live-97eee134-2b19-4781-b794-04d3490229e4_720p2800kbs/index.m3u8
 ES  La1	https://cache3.zapitv.com/live/eds_c2/la1_4k/dash_live_enc/la1_4k.mpd``a3abc44525eef3b0a7af9138a9dbe34a:7740f8ae4223ce5ba293028f7f78f1c1
+ES  TDP	https://cache3.zapitv.com/live/eds_c2/teledeporte_hd/dash_live_enc/teledeporte_hd.mpd``1937b8f0dc833e0a8f457240972e440d:8cbb79a6410cc0d0d80d148f282afd95
 Canal 4 Elsalvador	https://telecorporacion-es.cdn.vustreams.com/live/65b52a0a-415d-4686-8ef5-7a0b07b83992/live.isml/.m3u8
 Go3 Sport 1	https://cors-proxy.cooks.fyi/https://tr.live.cdn.cgates.lt/live/dash/560502/index.mpd``f48a8131e05f4d6e84de19f086c781a6:fd28f2f966a906f4d4dcfd72ae90094e
 Go3 Sport 2	https://cors-proxy.cooks.fyi/https://tr.live.cdn.cgates.lt/live/dash/560505/index.mpd``8315b1996d92477b965cb29100a3dc07:0081c0674e9047e219caa27a07da9d4b
@@ -118,6 +120,8 @@ Sky Sports NBA	https://linear301-it-dash1-prd-ll.cdn13.skycdp.com/31764/FHD/skys
 Sky Sports Uno	https://linear301-it-dash1-prd-ll.cdn13.skycdp.com/31023/FHD/skysportuno/master_stereo.mpd``00362452ed102000ccea64c311921dc2:02f27bd6caab7633d3083b94d3958b1c
 Sky Sports F1	https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/31478/FHD/skysportf1/master.mpd``00366649eb2eb82ee172e1bd310e4136:27e85c17d97722288ffa5970389d8baf
 Sky Sports 24	https://linear301-it-dash1-prd-ll.cdn13.skycdp.com/31035/FHD/skysport24/master_stereo.mpd``003618ccd7be22b6367207ed8d64d505:36e97f29ec5ea6126077cc040cc2ceeb
+Sky Sports Golf	https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/32768/FHD/skysportgolf/master.mpd``0036a02f08506f8428164d78e3ebb6de:8708612971e3cfa8e03698996b1a3b7f
+Sky Sports Tennis	https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/32559/FHD/skysporttennis/master.mpd``00360f4f90045f029a53a022738c2422:fa39fd500dc4e291801a710499634330
 Sky Open	https://linear-p.media.skyone.co.nz/primeplus1.clear.m3u8
 IT  EuroSports 1	https://linear311-it-dash1-prd-ll.cdn13.skycdp.com/313073/FHD/eurosport/master.mpd``0036bb3fa7e6f2c334d7cba5c28b6caf:217fa35739cd68e90b2cd23322c01312
 IT  EuroSports 2	https://linear312-it-dash1-prd-ll.cdn13.skycdp.com/31150/FHD/eurosport2/master.mpd``003670a7034342a4a07c91173818c61c:7b90055c1a1ea34d9090e9ebf6c4db8a
@@ -152,6 +156,8 @@ Arena Sport 4	https://webtvstream.bhtelecom.ba/hls6/arena4.mpd``c18b6aa739be4c0b
 Arena Sport 5	https://webtvstream.bhtelecom.ba/hls6/arena5.mpd``c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 Arena Sport 6	https://webtvstream.bhtelecom.ba/hls6/arena6.mpd``c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 Arena Fight	https://webtvstream.bhtelecom.ba/hls6/arena_fight.mpd``c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+SK  Sport 1	https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd``11223344556677889900112233445566:11223344556677889900112233445566
+SK  Sport 2	https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd``11223344556677889900112233445566:11223344556677889900112233445566
 SK  Arena Sport 1	https://dash2.antik.sk/stream/nvidia_arena_sport1/playlist_cenc.mpd``11223344556677889900112233445566:11223344556677889900112233445566
 SK  Arena Sport 2	https://dash2.antik.sk/stream/hisi_as2/playlist_cbcs.mpd``11223344556677889900112233445566:11223344556677889900112233445566
 SK  Nova Sport 1	https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd``11223344556677889900112233445566:11223344556677889900112233445566
@@ -178,6 +184,7 @@ Ziggo Sport Golf	https://cors-proxy.cooks.fyi/https://cdsvideolive3.solocoo.tv/b
 ES  beIN Sports Xtra	https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
 ES  Real Madrid ENG	https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
 ES  Real Madrid ESP	https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+Sevilla FC	https://streamer.zapitv.com/sevillafc/index.mpd
 LaLiga Plus	https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdgeVX/smil:272_HD.smil/manifest.mpd``aa724943787320593f5563048c90032d:a039276254f53769b040199a4eca8c2c
 DAZN LaLiga	https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd``43d1c3b25207ff38b22ccfe17d302367:7b1f85f6e81059473b114c16a25c829a
 DAZN 1 ES	https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd``44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
@@ -318,6 +325,7 @@ CCTV 16	https://node1.olelive.com:6443/live/CCTV16HD/hls.m3u8
 Setanta Sports KZ	https://cors-proxy.cooks.fyi/https://bkm.beetv.kz/btv/live/hls/000004619.m3u8
 Setanta Sports 1	https://cors-proxy.cooks.fyi/https://bkm.beetv.kz/btv/live/hls/000006998.m3u8
 Setanta Sports 2	https://cors-proxy.cooks.fyi/https://bkm.beetv.kz/btv/live/hls/000006899.m3u8
+https://cors-proxy.cooks.fyi/https://tr.live.cdn.cgates.lt/live/dash/561002/index.mpd``8ab2332442854e62b0018eec3ee58484:37fdee8b6eef5c96001e8c6fc47bfc08
 Belarus 5	https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
 Belarus 5 Int	https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8
 Persiana Sport	https://persianasport.mastercast.cloud/memfs/ae5f15e4-63eb-48b3-a0b4-5346c34a8f37.m3u8
@@ -382,8 +390,6 @@ Sky Sports Premier League	https://linear015-gb-dash1-prd-ak.cdn.skycdp.com/Conte
 Sky Sports Main Event	https://linear001-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_120/Live/channel(skysportsmainevent)/manifest_720.mpd``00050559cd31897cd28ef1cad1857606:32203d3d424a70258a9f676316681bea
 Sky Sports Mix	https://linear034-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportsmix)/manifest_720.mpd``00051d6cdd7231b7370dcf8eb66cf618:06f88d449edec6e4389950b0bda5cd68
 Sky Sports Action	https://linear013-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportsaction)/manifest_720.mpd``0003d0fbdf31675b39ee3ea8b9f0ce68:ebfa3109af67dc34a10321f78627b631
-Sky Sports Golf	https://linear003-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportsgolf)/manifest_720.mpd``00059e65ef792d6cfcb2a2300abdc687:043c818ab0e02389446b0cd3b89072fb
-Sky Sports Tennis	https://linear014-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportstennis)/manifest_720.mpd``000364189270b77b298a752a45f5cba3:387bbc9ca6e34310f3581ad047272c9c
 Sky Sports Cricket	https://linear007-gb-dash1-prd-cf.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportscricket)/manifest_720-120.mpd``00056d5c8882917a4463d5b42ba86c31:226c39dd7d41b6f0e27cb7d8940f644f
 Sky Sports News	https://linear030-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportsnews)/manifest_720.mpd``00057bfb9cf2fc40b5ed61f9c8a41d54:cb9908093e35e3c3f7db06f55913cce0
 Ziggo Sport	https://da-d436236920010b8800010303000000000000000b.id.cdn.upcbroadband.com/wp/wp7-vxtoken-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000014_019661/_shared_6a89db18ec4202bae4d424e84c1f46a2/NL_000014_019661.mpd``0be3d503dba13fc9a9c8ad4b89f599e6:578c2231c526c5e9eb415411e36871bf
