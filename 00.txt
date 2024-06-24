@@ -1,7 +1,6 @@
 ID  Sport 4 Euro	https://dsgtq5sngxkde.cloudfront.net/live/eds/VplusLiveRplus/sa_hls/VplusLiveRplus.m3u8?c
 SportDigital Fussball	01`01a2201`01b
 TVMax Copa America	https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
-TRT1 Canli Euro	https://d1u68oyra9spme.cloudfront.net/master.m3u8
 2DF Euro	https://p7s1-live-001-prod.akamaized.net/45371d5a/t_009/zdf-de-hd/cenc-default.mpd``7757d3fa8cdab673a2dd9f3ed7b41360:96e498b70eeecfc0164ed4e0a78e36f3
 BBC Euro	https://da-3efc67472a028801000600020000000000000007.id.cdn.upcbroadband.com/wp/wp1-obc1112-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV09091/manifest.mpd``6401e1fead9d4f43910aaad360f46dd0:598f5e4f10d4e040d25579478cadc4ee
 CT Sport Euro	https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd``11223344556677889900112233445566:11223344556677889900112233445566
@@ -13,6 +12,7 @@ RTL Euro	https://pnowlive-a.akamaized.net/live/rtlhd/dash/rtlhd.mpd``57e48b99f3f
 Sky Sports 251 Euro	https://linear311-it-dash1-prd-akp2.cdn13.skycdp.com/31917/FHD/skysport251/master.mpd``00368000eaecbeeafd84c05b3b8243af:8f84185910e18ae0ca8a45004625a000
 Tipik Euro	https://daiconnect.com/live/dash/rtbf/tipik-premium-drm-2/.mpd``2f794d3c19854f4fa6f0183b993b86fa:37077d010758ce2cb85ca46720884b01
 TV 2 Sport 1 Euro	https://aws-appeartv-cdn.rikstv.no/rikstv/1/11/dash/TV2_HD/manifest.mpd``bfb0134de69d76d25b5b4b202df11431:025915bd3062c4bde44a13916c5bfefe
+TRT1 Canli Euro	https://d1u68oyra9spme.cloudfront.net/master.m3u8
 CCTV 5 Euro	https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 TH  30TV Euro	https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/30/30.mpd``b8c8a462008a40aa91823e0b02e8dd31:4b2bff3e598043cfaf949305e3d153fa
 TH  3BB Sports 1	https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/401/401.mpd``678bbba596584ad895d2923fb0255e82:c55471086c824112b217743a31abdf8f
@@ -24,7 +24,7 @@ ES  TDP	https://cache3.zapitv.com/live/eds_c2/teledeporte_hd/dash_live_enc/teled
 Canal 4 Elsalvador	https://telecorporacion-es.cdn.vustreams.com/live/65b52a0a-415d-4686-8ef5-7a0b07b83992/live.isml/.m3u8
 Go3 Sport 1	https://cors-proxy.cooks.fyi/https://tr.live.cdn.cgates.lt/live/dash/560502/index.mpd``f48a8131e05f4d6e84de19f086c781a6:fd28f2f966a906f4d4dcfd72ae90094e
 Go3 Sport 2	https://cors-proxy.cooks.fyi/https://tr.live.cdn.cgates.lt/live/dash/560505/index.mpd``8315b1996d92477b965cb29100a3dc07:0081c0674e9047e219caa27a07da9d4b
-Go3 Sport 3	https://corsanywhere-jqogydb25a-uc.a.run.app/https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport3_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport3_HD_HVC.mpd``a2a75672057f462089c2849b8184fcb0:94899cace4911c617c27d8f878de2b43
+Go3 Sport 3	https://cors-proxy.cooks.fyi/https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport3_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport3_HD_HVC.mpd``a2a75672057f462089c2849b8184fcb0:94899cace4911c617c27d8f878de2b43
 Go3 Sport Open	https://cors-proxy.cooks.fyi/https://tr.live.cdn.cgates.lt/live/dash/561402/index.mpd``a6b967afcb974bb5a549377b4f09befd:87d993257a099324ccd0215475fc61a0
 USA East	https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd``882c9f5613b43b47adc70aa968a308ce:de534ef8914bfe62ba3cdd6bdb9e1c04
 USA West	https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd``252a671825ba31ec8433f978c32ccf6d:ee560759ecc8d2274df2e63fcef56915
