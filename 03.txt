@@ -1,9 +1,9 @@
 AR  beIN Sports 4 Euro	01`03d1829.m3u8
 AR  beIN Sports 5	01`03d1830.m3u8
 AR  beIN Sports 7	01`03d1832.m3u8
-ID. Moji 1	01`03c4.m3u8?2
+ID. Moji 1	01`03d1803.m3u8
 ID. Moji 2	01`03c4.m3u8
-ID. Indosiar 1	01`03c228.m3u8?2
+ID. Indosiar 1	01`03d3517.m3u8
 ID. Indosiar 2	01`03c228.m3u8
 US  Fox 502	01`03d1876.m3u8?2
 US  Fox 504	01`03d1877.m3u8?2
