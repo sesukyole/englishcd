@@ -22,7 +22,6 @@ QAZ Sport Euro	https://cors-proxy.cooks.fyi/https://bkm.beetv.kz/btv/live/hls/00
 QAZ Sport Premium	https://gameslive.akamaized.net/hls/live-97eee134-2b19-4781-b794-04d3490229e4_720p2800kbs/index.m3u8
 ES  La1	https://cache3.zapitv.com/live/eds_c2/la1_4k/dash_live_enc/la1_4k.mpd``a3abc44525eef3b0a7af9138a9dbe34a:7740f8ae4223ce5ba293028f7f78f1c1
 ES  TDP	https://cache3.zapitv.com/live/eds_c2/teledeporte_hd/dash_live_enc/teledeporte_hd.mpd``1937b8f0dc833e0a8f457240972e440d:8cbb79a6410cc0d0d80d148f282afd95
-Canal 4 Elsalvador	https://telecorporacion-es.cdn.vustreams.com/live/65b52a0a-415d-4686-8ef5-7a0b07b83992/live.isml/.m3u8
 Go3 Sport 1	https://cors-proxy.cooks.fyi/https://tr.live.cdn.cgates.lt/live/dash/560502/index.mpd``f48a8131e05f4d6e84de19f086c781a6:fd28f2f966a906f4d4dcfd72ae90094e
 Go3 Sport 2	https://cors-proxy.cooks.fyi/https://tr.live.cdn.cgates.lt/live/dash/560505/index.mpd``8315b1996d92477b965cb29100a3dc07:0081c0674e9047e219caa27a07da9d4b
 Go3 Sport 3	https://cors-proxy.cooks.fyi/https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport3_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport3_HD_HVC.mpd``a2a75672057f462089c2849b8184fcb0:94899cace4911c617c27d8f878de2b43
@@ -259,6 +258,15 @@ Premiere 5 BR	https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/en
 Premiere 6 BR	https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/cydwktwhqj/out/v1/c6e2919fe4e04a73935691f8284a4afe/cenc.mpd``05cedc366ce4ec735ee4b33fcefbf01f:475d6dd40eaba6896e02b26a6cf34d95
 Premiere 7 BR	https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/wczqphrl5k/out/v1/7a20b4be236a4a9484fdf5cdfcbe79d5/cenc.mpd``7ce96e01eee54fb77e5cc4e7b753d6b0:184f94303d3357b9a7381ccdeee9b611
 Premiere 8 BR	https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/dabubydklo/out/v1/c272f10312ac4e81bcf2183509703dd1/cenc.mpd``7ba384f9d983c731ab1e3702c16e2faf:f28adca4375e8a041fd22aef26440009
+CCTV 5+	https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
+CCTV 16	https://node1.olelive.com:6443/live/CCTV16HD/hls.m3u8
+Setanta Sports KZ	https://cors-proxy.cooks.fyi/https://bkm.beetv.kz/btv/live/hls/000004619.m3u8
+Setanta Sports 1a	https://cors-proxy.cooks.fyi/https://bkm.beetv.kz/btv/live/hls/000006998.m3u8
+Setanta Sports 2	https://cors-proxy.cooks.fyi/https://bkm.beetv.kz/btv/live/hls/000006899.m3u8
+Setanta Sports 1b	https://cors-proxy.cooks.fyi/https://tr.live.cdn.cgates.lt/live/dash/561002/index.mpd``8ab2332442854e62b0018eec3ee58484:37fdee8b6eef5c96001e8c6fc47bfc08
+Belarus 5	https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
+Belarus 5 Int	https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8
+Persiana Sport	https://persianasport.mastercast.cloud/memfs/ae5f15e4-63eb-48b3-a0b4-5346c34a8f37.m3u8
 Live Sports HD 1	`0https://sportsonline.si/channels/hd/hd1.php
 Live Sports HD 2	`0https://sportsonline.si/channels/hd/hd2.php
 Live Sports HD 3	`0https://sportsonline.si/channels/hd/hd3.php
@@ -316,15 +324,7 @@ UCL Infinity 3	https://live03p-seg.msf.cdn.mediaset.net/live/ch-u3/u3-dash-widev
 UCL Infinity 4	https://live03p-seg.msf.cdn.mediaset.net/live/ch-u4/u4-dash-widevine.isml/manifest.mpd``00f9f3c0783536b834357864bc2ae0a8:ae7bec66e4ac23f3d243fa6e4d767a00
 UCL Infinity 5	https://live03p-seg.msf.cdn.mediaset.net/live/ch-u5/u5-dash-widevine.isml/manifest.mpd``00f9f3c0783536b834b278760c5ba026:a9ab51a9e021da177f982de9b42eb0de
 UCL Infinity 6	https://live03p-seg.msf.cdn.mediaset.net/live/ch-u6/u6-dash-widevine.isml/manifest.mpd``00f9f3c0783536b834ba7888b9f960a4:852ebe5446caa8fad99c440b86ad128c
-CCTV 5+	https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
-CCTV 16	https://node1.olelive.com:6443/live/CCTV16HD/hls.m3u8
-Setanta Sports KZ	https://cors-proxy.cooks.fyi/https://bkm.beetv.kz/btv/live/hls/000004619.m3u8
-Setanta Sports 1	https://cors-proxy.cooks.fyi/https://bkm.beetv.kz/btv/live/hls/000006998.m3u8
-Setanta Sports 2	https://cors-proxy.cooks.fyi/https://bkm.beetv.kz/btv/live/hls/000006899.m3u8
-https://cors-proxy.cooks.fyi/https://tr.live.cdn.cgates.lt/live/dash/561002/index.mpd``8ab2332442854e62b0018eec3ee58484:37fdee8b6eef5c96001e8c6fc47bfc08
-Belarus 5	https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
-Belarus 5 Int	https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8
-Persiana Sport	https://persianasport.mastercast.cloud/memfs/ae5f15e4-63eb-48b3-a0b4-5346c34a8f37.m3u8
+Canal 4 Elsalvador	https://telecorporacion-es.cdn.vustreams.com/live/65b52a0a-415d-4686-8ef5-7a0b07b83992/live.isml/.m3u8
 TUDN	https://cors-proxy.elfsight.com/https://linear.stvacdn.spectrum.com/LIVE/1131/dash/cenc/TUDNUH_8283/manifest.mpd``85c8956b207c44a693d89984803c908b:8d8ff21c464506ef396356dd761f5ccd
 CBS Sports Network	https://cors-proxy.elfsight.com/https://linear.stvacdn.spectrum.com/LIVE/1105/dash/cenc/CBSSNHD_00500/manifest.mpd``c311b264f25748039736aa0dc64008d6:86055797afa5cb24feb2bc764b7a1813
 US  Willow	https://cors-proxy.elfsight.com/https://linear.stvacdn.spectrum.com/LIVE/1131/dash/cenc/WLLOHD_10364/manifest.mpd``6653c05e42fc4fac8f49d7cbf99498fe:3b88f2cff3affef20b265c840bafc0cc
