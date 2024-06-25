@@ -31,6 +31,9 @@ Go3 Sport 3	https://cors-proxy.cooks.fyi/https://cdnlb.tvplayhome.lt/live/eds/TV
 Go3 Sport Open	https://cors-proxy.cooks.fyi/https://tr.live.cdn.cgates.lt/live/dash/561402/index.mpd``a6b967afcb974bb5a549377b4f09befd:87d993257a099324ccd0215475fc61a0
 USA East	https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd``882c9f5613b43b47adc70aa968a308ce:de534ef8914bfe62ba3cdd6bdb9e1c04
 USA West	https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd``252a671825ba31ec8433f978c32ccf6d:ee560759ecc8d2274df2e63fcef56915
+ESPN 1	https://b.trybrett.shop/espn.m3u8
+ESPN 2	https://b.trybrett.shop/espn2.m3u8
+ESPN Live	https://b.trybrett.shop/espn3.m3u8
 NL NPO 1	https://nlziet-live.akamaized.net/L6/76fd047c/c427bd9d.isml/.mpd``7545f9301bf94e7a9132dccf32920e51:94fc134c1b1cb1ea9075781417eca48b
 NL NPO 2	https://nlziet-live.akamaized.net/L27/576200ff/17f23d2b.isml/.mpd``cd2e51e9dadd4e38b2b8df5680f7aa43:ce1083c14ed247bbc693bbe6bf0fd36b
 NL NPO 3	https://nlziet-live.akamaized.net/L7/7be0c2b0/358f270a.isml/.mpd``fe20b1562fc045caa0e341cfad93e153:cea73dbdf65c288dbff24ad6af8d535e
