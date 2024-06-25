@@ -4,7 +4,7 @@ TVMax Copa America	https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d
 Sports 1 Euro	https://katanaboss.online/chunklist/hlsch1.m3u8
 Sports 2 Euro	https://katanaboss.online/chunklist/hlsch2.m3u8
 2DF Euro	https://p7s1-live-001-prod.akamaized.net/45371d5a/t_009/zdf-de-hd/cenc-default.mpd``7757d3fa8cdab673a2dd9f3ed7b41360:96e498b70eeecfc0164ed4e0a78e36f3
-Fox Sports 1	https://proji.glitch.me/https://linear.stvacdn.spectrum.com/LIVE/5239/bpk-tv/00700/drm/manifest.mpd``ff18f095bc835e8d902be9420438729e:bbfdc8de223e8b33144d5c718f01f58b
+Fox Sports 1	https://cors-proxy.cooks.fyi/https://linear.stvacdn.spectrum.com/LIVE/5239/bpk-tv/00700/drm/manifest.mpd``ff18f095bc835e8d902be9420438729e:bbfdc8de223e8b33144d5c718f01f58b
 TV 2 Sport 1 Euro	https://aws-appeartv-cdn.rikstv.no/rikstv/1/11/dash/TV2_HD/manifest.mpd``bfb0134de69d76d25b5b4b202df11431:025915bd3062c4bde44a13916c5bfefe
 RTL Euro	https://pnowlive-a.akamaized.net/live/rtlhd/dash/rtlhd.mpd``57e48b99f3f6d4f13f5c5afdcca084ca:29379a5e2d3405fad2f5d9cbe92586c3
 TRT1 Canli Euro	https://d1u68oyra9spme.cloudfront.net/master.m3u8
