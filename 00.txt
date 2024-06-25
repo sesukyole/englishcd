@@ -325,33 +325,14 @@ https://cors-proxy.cooks.fyi/https://tr.live.cdn.cgates.lt/live/dash/561002/inde
 Belarus 5	https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
 Belarus 5 Int	https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8
 Persiana Sport	https://persianasport.mastercast.cloud/memfs/ae5f15e4-63eb-48b3-a0b4-5346c34a8f37.m3u8
-T Sports 7	https://cors-proxy.elfsight.com/https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0129/HLS/B0129.m3u8
-TH  Football 1	https://cors-proxy.elfsight.com/https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL001/HLS/TL001.m3u8
-TH  Football 2	https://cors-proxy.elfsight.com/https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL002/HLS/TL002.m3u8
-TH  Football 3	https://cors-proxy.elfsight.com/https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL003/HLS/TL003.m3u8
-TH  Football 4	https://cors-proxy.elfsight.com/https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL004/HLS/TL004.m3u8
-TH  Football 5	https://cors-proxy.elfsight.com/https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL005/HLS/TL005.m3u8
-TH  Football 6	https://cors-proxy.elfsight.com/https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL006/HLS/TL006.m3u8
-TH  Football 7	https://cors-proxy.elfsight.com/https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL007/HLS/TL007.m3u8
-TH  Football 8	https://cors-proxy.elfsight.com/https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL008/HLS/TL008.m3u8
-JP  Siam Sport J League 1	https://cors-proxy.elfsight.com/https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/JL004/HLS/JL001.m3u8
-JP  Siam Sport J League 2	https://cors-proxy.elfsight.com/https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/JL004/HLS/JL002.m3u8
-JP  Siam Sport J League 3	https://cors-proxy.elfsight.com/https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/JL004/HLS/JL003.m3u8
-JP  Siam Sport J League 4	https://cors-proxy.elfsight.com/https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/JL004/HLS/JL004.m3u8
 TUDN	https://cors-proxy.elfsight.com/https://linear.stvacdn.spectrum.com/LIVE/1131/dash/cenc/TUDNUH_8283/manifest.mpd``85c8956b207c44a693d89984803c908b:8d8ff21c464506ef396356dd761f5ccd
 CBS Sports Network	https://cors-proxy.elfsight.com/https://linear.stvacdn.spectrum.com/LIVE/1105/dash/cenc/CBSSNHD_00500/manifest.mpd``c311b264f25748039736aa0dc64008d6:86055797afa5cb24feb2bc764b7a1813
 US  Willow	https://cors-proxy.elfsight.com/https://linear.stvacdn.spectrum.com/LIVE/1131/dash/cenc/WLLOHD_10364/manifest.mpd``6653c05e42fc4fac8f49d7cbf99498fe:3b88f2cff3affef20b265c840bafc0cc
 ESPN Deportes	https://cors-proxy.elfsight.com/https://linear.stvacdn.spectrum.com/LIVE/1166/dash/cenc/ESPNDHD_13667/manifest.mpd``be65e5985fa04a49af310f0a92a0260a:1acb5ff7b0dbfdf19c4dca1aabfaaa11
 Fox Deportes	https://cors-proxy.elfsight.com/https://linear.stvacdn.spectrum.com/LIVE/1106/dash/cenc/FXDEPHD/manifest.mpd``c9231d5e7a99429382e6a5c2e588e141:ca08ab407ab9393a814d720f1f41c6cf
+Fox Sports 1	https://cors-proxy.elfsight.com/https://linear.stvacdn.spectrum.com/LIVE/1166/dash/cenc/SPEEDHD/manifest.mpd``4aa03f4ba0b54774accf43d15af7be70:843a421b633ae576f7ad62872d0d71b1
 Fox Sports 2	https://cors-proxy.elfsight.com/https://linear.stvacdn.spectrum.com/LIVE/1108/dash/cenc/FS2HD_00564/manifest.mpd``426b95e246774cb798a8c845fe6333d6:91e511fd8c290134b28c36ee1c386ea9
 Fox Sports 3	https://cors-proxy.elfsight.com/https://linear.stvacdn.spectrum.com/LIVE/1143/dash/cenc/FSCPLHD/manifest.mpd``260465aba18e40329932d47e9c7aa20b:2b79020e3f3ddc94ba84943ba72d898c
-beIN Sports 1	https://cors-proxy.elfsight.com/https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0001/DASH/S0001.mpd``3fd52d1e9ba4b180aec12c9295b62c0f:bb274e33da0c709e62c55d0cba911889
-beIN Sports 2	https://cors-proxy.elfsight.com/https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0002/DASH/S0002.mpd``30c11587a1686b72f115f34b0bf1c383:1e3a6af2408cdd78347b722728560c3b
-beIN Sports 3	https://cors-proxy.elfsight.com/https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0003/DASH/S0003.mpd``aa724943787320593f5563048c90032d:a039276254f53769b040199a4eca8c2c
-beIN Sports 4	https://cors-proxy.elfsight.com/https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0004/DASH/S0004.mpd``cb419fa5f5498e2c6cbc39363248ddd7:b5853b51f2060025a822e62973154556
-beIN Sports 5	https://cors-proxy.elfsight.com/https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0005/DASH/S0005.mpd``3a165f923cd49e616f173fc6c341cc56:4cb96186d69f1a63c40218812a6f6910
-beIN Sports 6	https://cors-proxy.elfsight.com/https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0006/DASH/S0006.mpd``ceac4607562049abb9d1b0309d9cd6f3:d396d277a364fab00d0193d25b700847
-beIN Sports 7	https://cors-proxy.elfsight.com/https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0007/DASH/S0007.mpd``94a28a75b3891e92a97efbe76f941095:7b39cd0e318ee481b98c36a125c540fb
 RTHK Channel 32	https://cors-proxy.elfsight.com/https://rthktv32-vos-live.akamaized.net/Content/HLS/Live/channel(rthk_ch32)/index.m3u8
 UK  ViaPlay Premier League	https://cors-proxy.mcjeffr.com/https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/vssp/vssp.isml/index.mpd``d8d0506523d95fc082d6caef60e84979:69992fd2d7b9211d41ecc2243803e87c
 UK  ViaPlay Sport 1	https://cors-proxy.mcjeffr.com/https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/vpsports1uk/vpsports1uk.isml/index.mpd``4d4ace310f235981bef56897fe94e766:06383cd4cdcc92bb3e83d8ea49245472
@@ -456,6 +437,26 @@ Orange Sport 1	https://ott1.cyberhost.ro/sdash/LIVE$DolceSportHD/index.mpd/Manif
 Orange Sport 2	https://ott1.cyberhost.ro/sdash/LIVE$DolceSport2HD/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC``f75302cdb04a09e43f153095bcacd123:307bf889d92969ffd3014dddb67999f6
 Orange Sport 3	https://ott1.cyberhost.ro/sdash/LIVE$DolceSport3/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC``b87857ba74ce03f9fa2866f1e086d05d:1cd289ac71ce5fb306a5e7653192ce3a
 Orange Sport 4	https://ott1.cyberhost.ro/sdash/LIVE$DolceSport4/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC``202a927cd913101de765b0e5bb3f500f:cdd399869057bc34c827f257f562643a
+T Sports 7	https://cors-proxy.elfsight.com/https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0129/HLS/B0129.m3u8
+TH  Football 1	https://cors-proxy.elfsight.com/https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL001/HLS/TL001.m3u8
+TH  Football 2	https://cors-proxy.elfsight.com/https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL002/HLS/TL002.m3u8
+TH  Football 3	https://cors-proxy.elfsight.com/https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL003/HLS/TL003.m3u8
+TH  Football 4	https://cors-proxy.elfsight.com/https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL004/HLS/TL004.m3u8
+TH  Football 5	https://cors-proxy.elfsight.com/https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL005/HLS/TL005.m3u8
+TH  Football 6	https://cors-proxy.elfsight.com/https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL006/HLS/TL006.m3u8
+TH  Football 7	https://cors-proxy.elfsight.com/https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL007/HLS/TL007.m3u8
+TH  Football 8	https://cors-proxy.elfsight.com/https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL008/HLS/TL008.m3u8
+JP  Siam Sport J League 1	https://cors-proxy.elfsight.com/https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/JL004/HLS/JL001.m3u8
+JP  Siam Sport J League 2	https://cors-proxy.elfsight.com/https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/JL004/HLS/JL002.m3u8
+JP  Siam Sport J League 3	https://cors-proxy.elfsight.com/https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/JL004/HLS/JL003.m3u8
+JP  Siam Sport J League 4	https://cors-proxy.elfsight.com/https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/JL004/HLS/JL004.m3u8
+beIN Sports 1	https://cors-proxy.elfsight.com/https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0001/DASH/S0001.mpd``3fd52d1e9ba4b180aec12c9295b62c0f:bb274e33da0c709e62c55d0cba911889
+beIN Sports 2	https://cors-proxy.elfsight.com/https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0002/DASH/S0002.mpd``30c11587a1686b72f115f34b0bf1c383:1e3a6af2408cdd78347b722728560c3b
+beIN Sports 3	https://cors-proxy.elfsight.com/https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0003/DASH/S0003.mpd``aa724943787320593f5563048c90032d:a039276254f53769b040199a4eca8c2c
+beIN Sports 4	https://cors-proxy.elfsight.com/https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0004/DASH/S0004.mpd``cb419fa5f5498e2c6cbc39363248ddd7:b5853b51f2060025a822e62973154556
+beIN Sports 5	https://cors-proxy.elfsight.com/https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0005/DASH/S0005.mpd``3a165f923cd49e616f173fc6c341cc56:4cb96186d69f1a63c40218812a6f6910
+beIN Sports 6	https://cors-proxy.elfsight.com/https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0006/DASH/S0006.mpd``ceac4607562049abb9d1b0309d9cd6f3:d396d277a364fab00d0193d25b700847
+beIN Sports 7	https://cors-proxy.elfsight.com/https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0007/DASH/S0007.mpd``94a28a75b3891e92a97efbe76f941095:7b39cd0e318ee481b98c36a125c540fb
 US  DAZN NFL	`0https://go.now.net.eu.org/p/live?embed=daznnfl&type=m
 US  DAZN MLB	`0https://go.now.net.eu.org/p/live?embed=daznmlb&type=m
 US  DAZN NBA	`0https://go.now.net.eu.org/p/live?embed=daznnba&type=m
