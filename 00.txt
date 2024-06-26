@@ -34,15 +34,12 @@ ESPN Live	https://b.trybrett.shop/espn3.m3u8
 NL NPO 1	https://nlziet-live.akamaized.net/L6/76fd047c/c427bd9d.isml/.mpd``7545f9301bf94e7a9132dccf32920e51:94fc134c1b1cb1ea9075781417eca48b
 NL NPO 2	https://nlziet-live.akamaized.net/L27/576200ff/17f23d2b.isml/.mpd``cd2e51e9dadd4e38b2b8df5680f7aa43:ce1083c14ed247bbc693bbe6bf0fd36b
 NL NPO 3	https://nlziet-live.akamaized.net/L7/7be0c2b0/358f270a.isml/.mpd``fe20b1562fc045caa0e341cfad93e153:cea73dbdf65c288dbff24ad6af8d535e
-Channel 6	https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
 MY  TV Okey	https://cors-proxy.cooks.fyi/https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 SG  MeWatch 5	https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd``607b7d22565c4bc3b95ff6c33ce65425:28cc5367df666c44be4382e64af64d57
 CCTV 4	https://op-group1-swiftservesd-1.dens.tv/s/s19/index.m3u8
 Iraq Sport	https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/imn/news1/chunks.m3u8
 Oman Sport	https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
 TH  36TV	https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/36/36.mpd``0aeffa7753674e77b99443fac7757b8a:b8c8a462008a40aa91823e0b02e8dd31
-TRT Spor 1	https://trtspor.blutv.com/blutv_trtspor/live_720p2000000kbps/index.m3u8
-TRT Spor 2	https://trtsporyildiz.blutv.com/blutv_trtsporyildiz/live_720p2000000kbps/index.m3u8
 TR  Sports TV	https://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8
 Afro Sport	https://newproxy3.vidivu.tv/vidivu_afrosport/index.m3u8
 ID  Football Euro	https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_hls/rcti-soccerchannel-hd.m3u8?c
@@ -250,14 +247,6 @@ US  Matchroom 2	https://dcj-ak-livedazn.akamaized.net/dash/dazn-linear-516/strea
 US  Motor Stories	https://dcj-ak-livedazn.akamaized.net/dash/dazn-linear-518/stream.mpd``cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
 US  SportStak	https://dcj-ak-livedazn.akamaized.net/dash/dazn-linear-520/stream.mpd``cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
 BE  RTL Sports	https://cors-proxy.cooks.fyi/https://tvvvideolive3.solocoo.tv/blueskytvvlive7dash/bluertlclubhd/Manifest.mpd``0993fbc9c0f242e8bab9483484ff974e:08d3d32f7efefb22a7a865f81b5c8276
-Premiere 1 BR	https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/4zkafrcxji/out/v1/810ebca1aff0443da717da4acdeda158/cenc.mpd``d98239180d8380b3a1bb28d875b1ddf2:cf836ced579257d1c76ae8809818e6c4
-Premiere 2 BR	https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/pgub1bh7o9/out/v1/7a59226197644bfaa2b00f488bd95288/cenc.mpd``fd2e8019f37211ca8b78a8b656f1b83a:273189c214e85b43ac36298d1c422330
-Premiere 3 BR	https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/8ci7l7dt0d/out/v1/98fe69f2cdc041388004305e63353268/cenc.mpd``9547f9aead1237c8a3b1bf0a91ed9995:534fab4541fef31921dd970c65d51848
-Premiere 4 BR	https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/zytzybatcd/out/v1/4e59aa00f6784bb98170741d40b33e3e/cenc.mpd``ce5d18ffd68650affce1985201983ab7:397c64e42507d95e5460830918c22a98
-Premiere 5 BR	https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/j4y12ucrx0/out/v1/9135597c4400465e9e752dc32de587fd/cenc.mpd``d5a3ac0b892bfccdf352b6def9cb2764:ac0936acc0036fad2273efaa42b1fafd
-Premiere 6 BR	https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/cydwktwhqj/out/v1/c6e2919fe4e04a73935691f8284a4afe/cenc.mpd``05cedc366ce4ec735ee4b33fcefbf01f:475d6dd40eaba6896e02b26a6cf34d95
-Premiere 7 BR	https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/wczqphrl5k/out/v1/7a20b4be236a4a9484fdf5cdfcbe79d5/cenc.mpd``7ce96e01eee54fb77e5cc4e7b753d6b0:184f94303d3357b9a7381ccdeee9b611
-Premiere 8 BR	https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/dabubydklo/out/v1/c272f10312ac4e81bcf2183509703dd1/cenc.mpd``7ba384f9d983c731ab1e3702c16e2faf:f28adca4375e8a041fd22aef26440009
 CCTV 5+	https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 CCTV 16	https://node1.olelive.com:6443/live/CCTV16HD/hls.m3u8
 Setanta Sports KZ	https://cors-proxy.cooks.fyi/https://bkm.beetv.kz/btv/live/hls/000004619.m3u8
@@ -266,7 +255,14 @@ Setanta Sports 2	https://cors-proxy.cooks.fyi/https://bkm.beetv.kz/btv/live/hls/
 Setanta Sports 1b	https://cors-proxy.cooks.fyi/https://tr.live.cdn.cgates.lt/live/dash/561002/index.mpd``8ab2332442854e62b0018eec3ee58484:37fdee8b6eef5c96001e8c6fc47bfc08
 Belarus 5	https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
 Belarus 5 Int	https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8
-Persiana Sport	https://persianasport.mastercast.cloud/memfs/ae5f15e4-63eb-48b3-a0b4-5346c34a8f37.m3u8
+Premiere 1 BR	https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/4zkafrcxji/out/v1/810ebca1aff0443da717da4acdeda158/cenc.mpd``d98239180d8380b3a1bb28d875b1ddf2:cf836ced579257d1c76ae8809818e6c4
+Premiere 2 BR	https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/pgub1bh7o9/out/v1/7a59226197644bfaa2b00f488bd95288/cenc.mpd``fd2e8019f37211ca8b78a8b656f1b83a:273189c214e85b43ac36298d1c422330
+Premiere 3 BR	https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/8ci7l7dt0d/out/v1/98fe69f2cdc041388004305e63353268/cenc.mpd``9547f9aead1237c8a3b1bf0a91ed9995:534fab4541fef31921dd970c65d51848
+Premiere 4 BR	https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/zytzybatcd/out/v1/4e59aa00f6784bb98170741d40b33e3e/cenc.mpd``ce5d18ffd68650affce1985201983ab7:397c64e42507d95e5460830918c22a98
+Premiere 5 BR	https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/j4y12ucrx0/out/v1/9135597c4400465e9e752dc32de587fd/cenc.mpd``d5a3ac0b892bfccdf352b6def9cb2764:ac0936acc0036fad2273efaa42b1fafd
+Premiere 6 BR	https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/cydwktwhqj/out/v1/c6e2919fe4e04a73935691f8284a4afe/cenc.mpd``05cedc366ce4ec735ee4b33fcefbf01f:475d6dd40eaba6896e02b26a6cf34d95
+Premiere 7 BR	https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/wczqphrl5k/out/v1/7a20b4be236a4a9484fdf5cdfcbe79d5/cenc.mpd``7ce96e01eee54fb77e5cc4e7b753d6b0:184f94303d3357b9a7381ccdeee9b611
+Premiere 8 BR	https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/dabubydklo/out/v1/c272f10312ac4e81bcf2183509703dd1/cenc.mpd``7ba384f9d983c731ab1e3702c16e2faf:f28adca4375e8a041fd22aef26440009
 Live Sports HD 1	`0https://sportsonline.si/channels/hd/hd1.php
 Live Sports HD 2	`0https://sportsonline.si/channels/hd/hd2.php
 Live Sports HD 3	`0https://sportsonline.si/channels/hd/hd3.php
@@ -325,6 +321,7 @@ UCL Infinity 4	https://live03p-seg.msf.cdn.mediaset.net/live/ch-u4/u4-dash-widev
 UCL Infinity 5	https://live03p-seg.msf.cdn.mediaset.net/live/ch-u5/u5-dash-widevine.isml/manifest.mpd``00f9f3c0783536b834b278760c5ba026:a9ab51a9e021da177f982de9b42eb0de
 UCL Infinity 6	https://live03p-seg.msf.cdn.mediaset.net/live/ch-u6/u6-dash-widevine.isml/manifest.mpd``00f9f3c0783536b834ba7888b9f960a4:852ebe5446caa8fad99c440b86ad128c
 Canal 4 Elsalvador	https://telecorporacion-es.cdn.vustreams.com/live/65b52a0a-415d-4686-8ef5-7a0b07b83992/live.isml/.m3u8
+Persiana Sport	https://persianasport.mastercast.cloud/memfs/ae5f15e4-63eb-48b3-a0b4-5346c34a8f37.m3u8
 TUDN	https://cors-proxy.elfsight.com/https://linear.stvacdn.spectrum.com/LIVE/1131/dash/cenc/TUDNUH_8283/manifest.mpd``85c8956b207c44a693d89984803c908b:8d8ff21c464506ef396356dd761f5ccd
 CBS Sports Network	https://cors-proxy.elfsight.com/https://linear.stvacdn.spectrum.com/LIVE/1105/dash/cenc/CBSSNHD_00500/manifest.mpd``c311b264f25748039736aa0dc64008d6:86055797afa5cb24feb2bc764b7a1813
 US  Willow	https://cors-proxy.elfsight.com/https://linear.stvacdn.spectrum.com/LIVE/1131/dash/cenc/WLLOHD_10364/manifest.mpd``6653c05e42fc4fac8f49d7cbf99498fe:3b88f2cff3affef20b265c840bafc0cc
@@ -388,6 +385,9 @@ TNT Sports Premium	https://clbpktstvdash-1.clarovideo.com/bpk-tv/TNTSPHD/dash_fk
 TNT Sports AR	https://clbpktstvdash-1.clarovideo.com/bpk-tv/TNTSP3HD/dash_fk/index.mpd``046af5c1b08fcc86435ba97f119c9ada:fdd13d5b0151b1165d556c04d03a46fc
 CR  Tigo Sports	https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
 Edge Sport	https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8
+Channel 6	https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
+TRT Spor 1	https://trtspor.blutv.com/blutv_trtspor/live_720p2000000kbps/index.m3u8
+TRT Spor 2	https://trtsporyildiz.blutv.com/blutv_trtsporyildiz/live_720p2000000kbps/index.m3u8
 beIN Sports TV 1	https://edge1.laotv.la/live/Bsport1/manifest.mpd
 beIN Sports TV 2	https://edge1.laotv.la/live/Bsport2/manifest.mpd
 True Premier Football 1	https://edge1.laotv.la/live/TSport1/sc-gaFECQ/v1/manifest.mpd
