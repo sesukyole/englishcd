@@ -2,7 +2,6 @@ ID  Sport 4 Euro	https://dsgtq5sngxkde.cloudfront.net/live/eds/VplusLiveRplus/sa
 TVMax Copa America	https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
 Sports 1 Euro	https://katanaboss.online/chunklist/hlsch1.m3u8
 Sports 2 Euro	https://katanaboss.online/chunklist/hlsch2.m3u8
-Sony Sports 2	https://colorsscreen.com/sonyliv/chunklist.m3u8?load=b9d34e92f7f06d618791206c8f4a6232c2bd9ef71ce5a574a4955f0c2e6fb0ab3d93249f78cd5d7c915e1bbac56cff202e238a1ee88673f46f3b8dca75af1d67dc8b7cb6f441de17d8edec683859a49d9b4a2ef4578e85713bc74ccbc71888b7fc1e7fa2ee06d9b3b7f106b15a86724b349a542442b0c43ff2ab38af24f9df05440ad2dcd4033857eecbc8102fac815bc17044d3f586ecefc4492feb338ef6d7248331ca9699cb511922bc0cf5fe5dcb5d27d7786576524d47cd293f96b78e58c4c0f2f97c2756757463899df9ae4d54c1d6c43e9690fb2d767a82292538b5cf5171789098f48713bd20e177f1dbe3f65b6570050203dff3a6ebb0943f4c4ad0a1c2185a7eee32f36799775e31514277db84f2c79f422cebea1aae70208de089212cd709eaed8dd56874a5f4e5302f32f32ed615136e3d2d65721486c337c9486993d9e96712489bcd56b237a07fd360707058d7688116f2c1ea3db91b5f58fd&token=
 TRT1 Canli Euro	https://d1u68oyra9spme.cloudfront.net/master.m3u8
 Daserste Euro	https://p7s1-live-001-prod.akamaized.net/28df258a/t_009/daserste-de-hd/cenc-default.mpd``667f821486adfa6df62b53e41fe60c65:be65cc2c378180153cbac97bc6ab8625
 ZDF Euro	https://p7s1-live-001-prod.akamaized.net/45371d5a/t_009/zdf-de-hd/cenc-default.mpd``7757d3fa8cdab673a2dd9f3ed7b41360:96e498b70eeecfc0164ed4e0a78e36f3
@@ -28,8 +27,6 @@ Premier Sports 2	https://skytest.starlive.workers.dev/https://linear006-ie-dash1
 CCTV 5 Euro	https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 TH  30TV Euro	https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/30/30.mpd``b8c8a462008a40aa91823e0b02e8dd31:4b2bff3e598043cfaf949305e3d153fa
 TH  3BB Sports 1	https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/401/401.mpd``678bbba596584ad895d2923fb0255e82:c55471086c824112b217743a31abdf8f
-TH  Thairath	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chthairath3/index.m3u8
-TH  MCOT	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chmcothd3/index.m3u8
 RU  Match! Euro	https://cors-proxy.cooks.fyi/https://video.beeline.tv/live/d/channel317.isml/manifest-stb.mpd``5e1c798b16d24dc8cbfc7819abf77b4d:4ba5d9aeba2239b425d1cf7b45474333
 QAZ Sport Euro	https://cors-proxy.cooks.fyi/https://bkm.beetv.kz/btv/live/hls/000003038.m3u8
 QAZ Sport Premium	https://gameslive.akamaized.net/hls/live-97eee134-2b19-4781-b794-04d3490229e4_720p2800kbs/index.m3u8
@@ -228,6 +225,7 @@ Setanta Sports KZ	https://cors-proxy.cooks.fyi/https://bkm.beetv.kz/btv/live/hls
 Setanta Sports 1a	https://cors-proxy.cooks.fyi/https://bkm.beetv.kz/btv/live/hls/000006998.m3u8
 Setanta Sports 2	https://cors-proxy.cooks.fyi/https://bkm.beetv.kz/btv/live/hls/000006899.m3u8
 Setanta Sports 1b	https://cors-proxy.cooks.fyi/https://tr.live.cdn.cgates.lt/live/dash/561002/index.mpd``8ab2332442854e62b0018eec3ee58484:37fdee8b6eef5c96001e8c6fc47bfc08
+Viju+ Sport	https://cors-proxy.cooks.fyi/https://bkm.beetv.kz/btv/live/hls/000000135.m3u8
 Belarus 5	https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
 Belarus 5 Int	https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8
 Amazon Cricket	https://cors-proxy.cooks.fyi/https://aba5sdmaaaaaaaamkycwliah6buj4.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tgcrfjcgia/out/v1/7296f026409c4e9ba8844a238628f9ad/cenc.mpd``d1badeadb11f16bbd0ad7d47914d939e:bd52d185d3537c4c1759db6d66f90f31
@@ -320,7 +318,6 @@ UK  ViaPlay Sport 1	https://cors-proxy.mcjeffr.com/https://live-dash-cdn7-vp.cdn
 UK  ViaPlay Sport 2	https://cors-proxy.mcjeffr.com/https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/vpsports2uk/vpsports2uk.isml/index.mpd``6fe6d9cf50835945881cb56a38839fce:213ad868126fd2cb352b189b07b25421
 ViaPlay Extra 65	https://cors-proxy.mcjeffr.com/https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra65/xtra65.isml/index.mpd``2e2e68763da359799dd279ffa7476c81:b9e5d7d8f547aafa41634e845a47e051
 ViaPlay Extra 12	https://cors-proxy.mcjeffr.com/https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra12/xtra12.isml/index.mpd``ed4086de5e445f9bac5c093362a0f549:599aa72e49e4736f58e947ea0c34f235
-Viju+ Sport	http://edge02.odtv.az/o7/viasatsport/playlist.m3u8
 W Sport	https://op-group1-swiftservehd-1.dens.tv/h/h26/S4/mnf.m3u8
 NO  TV 3	https://cors-proxy.mcjeffr.com/https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra100/xtra100.isml/index.mpd``b08d9804e8ea51bb8d71fd4bf77c3f5b:b9fe3237a5f11a2a084264074b125c9c
 RMC Sport 1	https://raw.githubusercontent.com/uploadplaylist/clon/main/rmcsport1.m3u8
@@ -377,7 +374,6 @@ PL  Eleven Sports 1	`0https://live.sportsnews.id/p/eleven1.html
 PL  Eleven Sports 2	`0https://live.sportsnews.id/p/eleven2.html
 PL  Eleven Sports 4	`0https://live.sportsnews.id/p/eleven4.html
 PL  Eleven Sports 3	`0https://live.sportsnews.id/p/eleven3.html
-					
 Alkass 1	https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1bup/master.m3u8
 Alkass 2	https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass2hgfdfghjikmnhygf/master.m3u8
 Alkass 3	https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass3pzrjl/master.m3u8
