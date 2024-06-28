@@ -158,8 +158,9 @@ US  AFV Family	https://linear-12.frequency.stream/mt/plex/12/hls/master/playlist
 US  WipeOut Xtra	https://d2stx9idyk58lb.cloudfront.net/wipeoutxtra-samsungus/playlist.m3u8
 DE  DW English	https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 ZA  WildEarth	https://wildearth-plex.amagi.tv/master.m3u8
+À Punt	https://bcovlive-a.akamaihd.net/a51c31c10f6e42b2bbb7c7649e9f305c/eu-west-1/6057955885001/playlist_dvr.m3u8
 ES  101TV Malaga	https://limited38.todostreaming.es/live/101tv-web101tv.m3u8
-ES  24h Canarias	https://ztnr.rtve.es/ztnr/5473142.m3u8
+ES  24h	https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
 ES  Alcarria	https://cls.alcarria.tv/live/alcarriatv-livestream.m3u8
 ES  Aragon	https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 ES  Cine Clasico	https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:2_HD.smil/index.m3u8
@@ -530,6 +531,13 @@ ES  TV3CATᴴᴰ 🇪🇸	https://directes-tv-int.ccma.cat/live-origin/tvi-hls/m
 ES  ETB 1 🇪🇸	https://multimedia.eitb.eus/live-content/etb1hd-hls/index.m3u8
 ES  ETB 2 🇪🇸	https://multimedia.eitb.eus/live-content/etb2hd-hls/index.m3u8
 ES  ETB 3 🇪🇸	https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:98_HD.smil/manifest.mpd
+ETB Eventos 1	https://multimedia.eitb.eus/live-content/oka1hd-hls/master.m3u8
+ETB Eventos 2	https://multimedia.eitb.eus/live-content/oka2hd-hls/master.m3u8
+CMM	https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_01fn4ycl/protocol/https/format/applehttp/.m3u8
+Canal Sur	https://cdnlive.codev8.net/rtvalive/DtRLVjt1.smil/.m3u8
+Canal Extremadura	https://cdnapisec.kaltura.com/p/5581662/sp/558166200/playManifest/entryId/1_in8cxw3w/protocol/https/format/applehttp/.m3u8
+Torole 1	https://media1.ultrik.com/live/torole1.m3u8
+Toros-Telemadrid	https://telemadrid-23-secure2.akamaized.net/
 Eurosport 1 🇵🇱🇺🇸ᴴᴰ	https://bkm.beetv.kz/btv/live/hls/000002478.m3u8
 Eurosport 2 🇵🇱🇺🇸ᴴᴰ	https://bkm.beetv.kz/btv/live/hls/000002479.m3u8
 Food Networkᴴᴰ 🇺🇸🇮🇳	https://raw.githubusercontent.com/inspirationlinks/m3u/live/Streams/foodNet.m3u8
