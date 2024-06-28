@@ -98,7 +98,7 @@ DAZN Combat	https://dcj-ak-livedazn.akamaized.net/dash/dazn-linear-502/stream.mp
 DAZN Women`s Football	https://dcj-ak-livedazn.akamaized.net/dash/dazn-linear-503/stream.mpd``cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
 DAZN Fast+	https://dcj-ak-livedazn.akamaized.net/dash/dazn-linear-504/stream.mpd``cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
 WWE	https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc106wh3yw)/master.mpd``00208c93f4358213b52220898b962385:8ae6063167228e350dd132d4a1573102
-NBC Sports	https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc122ycnuy)/master.mpd``0020d88a6713159839743f655c5da7de:ba9f34226301f69a4f0f13f65a1f92ec
+NBC 1	https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc122ycnuy)/master.mpd``0020d88a6713159839743f655c5da7de:ba9f34226301f69a4f0f13f65a1f92ec
 NBC 4	https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/master.mpd``0045a118e231f1326bcdb45350b1ceaa:8c13afbfa54ea37a368b8b859021f6e3
 USA Golf	https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc124phhny)/master.mpd``0020212a47511b226f7cc9d030aa171b:323c16315e1cb8d7c821facc3c1778a4
 NBC Golf 1	https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(golf)/master.mpd``d5c9203447ab38c5bf5b407cdd9de5e8:501464dfa2ac437098c35e1c4f16bb6b
@@ -148,6 +148,7 @@ Ziggo Sport Golf	https://cors-proxy.cooks.fyi/https://cdsvideolive3.solocoo.tv/b
 ES  beIN Sports Xtra	https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
 ES  Real Madrid ENG	https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
 ES  Real Madrid ESP	https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+Betis TV	https://streamer.zapitv.com/betis/index.mpd
 Sevilla FC	https://streamer.zapitv.com/sevillafc/index.mpd
 LaLiga Plus	https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdgeVX/smil:272_HD.smil/manifest.mpd``aa724943787320593f5563048c90032d:a039276254f53769b040199a4eca8c2c
 DAZN LaLiga	https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd``43d1c3b25207ff38b22ccfe17d302367:7b1f85f6e81059473b114c16a25c829a
@@ -158,7 +159,6 @@ DAZN 4 ES	https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/up
 LaLiga HyperMotion 1	https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/tu06vubgf9/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd``6d08b265a6639e32da7c880d5491e3d2:0c92556ca14b95f367993710e7cfbc94
 LaLiga HyperMotion 2	https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/woujvkfnmn/out/v1/141b52f08a1e4e97850219729ee48dc8/cenc.mpd``0b1fdeaee3ffc51e9a66cf1938d57aaf:28e3cb88ab7b476b81ab8aa0624c4d71
 LaLiga HyperMotion 3	https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/ry1hll2vi2/out/v1/7597903045b6429d8c9ef041b2ad9d98/cenc.mpd``d8235cccf08d0ff149a20dfcd11ff68b:e8ea3a1ae6892eb76a73dc1b14d216d6
-Betis TV	https://streamer.zapitv.com/betis/index.mpd
 Sportv2	https://brflu.walk-tv.com/5931/tracks-v1a1/mono.m3u8
 beIN Sports Extra	https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df975e2b27cf5000921c102/master.m3u8?c&deviceType=0&deviceMake=0&deviceModel=0&deviceVersion=0&appVersion=0&deviceLat=0&deviceLon=0&deviceDNT=0&deviceId=0&advertisingId=0&us_privacy=0&samsung_app_domain=0&samsung_app_name=0&profileLimit=&profileFloor=&embedPartner=0
 SportItalia	https://di-j16ei4yq.vo.lswcdn.net/sportitalia/smil:sihd.smil/chunklist.m3u8
@@ -172,8 +172,14 @@ US  Golf	https://dcj-ak-livedazn.akamaized.net/dash/dazn-linear-505/stream.mpd``
 FIFA Plus 1	https://6953b888.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctcHRfRklGQVBsdXNfSExT/playlist.m3u8
 FIFA Plus 2	https://4b92bb6a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1hdF9GSUZBUGx1c19ITFM/playlist.m3u8
 FIFA Plus 3	https://6d42a49f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1pdF9GSUZBUGx1c19ITFM/playlist.m3u8
-FIFA Plus 4.	https://38ca3c9c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c19ITFM/playlist.m3u8
+FIFA Plus 4	https://38ca3c9c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c19ITFM/playlist.m3u8
 FIFA Plus 5	https://9f88eeb6.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1rcl9GSUZBUGx1c19ITFM/playlist.m3u8
+Alkass 1	https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1bup/master.m3u8
+Alkass 3	https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass3pzrjl/master.m3u8
+Alkass 4	https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass4xiuytgfficcn/master.m3u8
+Alkass 5	https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass5xtwe/master.m3u8
+Alkass 2	https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass2hgfdfghjikmnhygf/master.m3u8
+Alkass 6	https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass6xydam/master.m3u8
 Bahrain Sports 1	https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
 Bahrain Sports 2	https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
 Abu Dhabi Sports 1	https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8?c
@@ -375,12 +381,6 @@ PL  Eleven Sports 1	`0https://live.sportsnews.id/p/eleven1.html
 PL  Eleven Sports 2	`0https://live.sportsnews.id/p/eleven2.html
 PL  Eleven Sports 4	`0https://live.sportsnews.id/p/eleven4.html
 PL  Eleven Sports 3	`0https://live.sportsnews.id/p/eleven3.html
-Alkass 1	https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1bup/master.m3u8
-Alkass 2	https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass2hgfdfghjikmnhygf/master.m3u8
-Alkass 3	https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass3pzrjl/master.m3u8
-Alkass 4	https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass4xiuytgfficcn/master.m3u8
-Alkass 5	https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass5xtwe/master.m3u8
-Alkass 6	https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass6xydam/master.m3u8
 Sky Sports Top Event	https://donelfantastic.github.io/webiptv/web/de/skysp0rtsTE.m3u8
 FUTV	https://cdn02.teletica.com/StreamFutv/Streamfutv04122023/playlist.m3u8
 Extreme Sports	https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:153_HD.smil/manifest.mpd``8518dcac42e4cfeb420ae4b5a633e23:d87181be4661c2b67d518860e98438fd
