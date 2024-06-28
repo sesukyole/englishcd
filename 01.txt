@@ -210,13 +210,13 @@ MY  RTB SukmaIndera	https://d1211whpimeups.cloudfront.net/smil:rtb1/chunklist.m3
 MY  RTB Aneka Go	https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
 MY  RTB Go Live	https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
 MY  Didik TV	https://raw.githubusercontent.com/mystery75/m3u8/main/DIDIKTVKPM.m3u8
-MY  Berita RTM TV	https://cors-proxy.cooks.fyi/https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
-MY  TV Okey	https://cors-proxy.cooks.fyi/https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
-MY  Sukan RTM TV	https://cors-proxy.cooks.fyi/https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
-MY  TV1	https://cors-proxy.cooks.fyi/https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
-MY  TV2	https://cors-proxy.cooks.fyi/https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
+MY  Berita RTM TV	https://corsanywhere-jqogydb25a-uc.a.run.app/https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
+MY  TV Okey	https://corsanywhere-jqogydb25a-uc.a.run.app/https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
+MY  Sukan RTM TV	https://corsanywhere-jqogydb25a-uc.a.run.app/https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
+MY  TV1	https://corsanywhere-jqogydb25a-uc.a.run.app/https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
+MY  TV2	https://corsanywhere-jqogydb25a-uc.a.run.app/https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 MY  TV3	https://raw.githubusercontent.com/mystery75/m3u8/main/TV3.m3u8
-MY  TV6	https://cors-proxy.cooks.fyi/https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
+MY  TV6	https://corsanywhere-jqogydb25a-uc.a.run.app/https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 MY  8TV	https://raw.githubusercontent.com/mystery75/m3u8/main/8TV.m3u8
 MY  TV9	https://raw.githubusercontent.com/mystery75/m3u8/main/TV9.m3u8
 MY  Siar	https://unifi-live31.secureswiftcontent.com/UnifiHD/live31.mpd``fc23c442355854992a264931a28fc1c5:3a3368fa385a049695ff4de3c36809cd
@@ -272,7 +272,8 @@ SG  HBO Family	https://tglmp03.akamaized.net/out/v1/d15476c2807d4380b0cc375a7d86
 SG  Cinemax	https://tglmp04.akamaized.net/out/v1/0f439c1d8a1a47fca9ae1fa92144306e/manifest.mpd``32bc2ee6869144b88bee3babf202f88e:50d3b9ec49e1570621d45822923607f7
 SG  Animax	https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd``edf1a715de9748638dd2fad75a419af2:2f5a3199b26e9b693ae881af7ff864cf
 SG  CNA Channel News Asia	https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-SG  Channel 2	https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd``60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271
+SG  Channel Live 1	https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
+SG  Channel Live 2	https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd``60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271
 SG  Channel 5	https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd``607b7d22565c4bc3b95ff6c33ce65425:28cc5367df666c44be4382e64af64d57
 SG  Channel 8	https://tglmp02.akamaized.net/out/v1/4f6561ad194b49ae93f4e1b075afdf41/manifest.mpd``2448fc561b0c4220a81f1008971d3088:f48eb6753f3d1774da682970c93cf260
 SG  Channel U	https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.mpd``0328a153c2994b279ab03ab25102fc59:2cc69eaaa858fed24c5623654daf8d3d
@@ -698,7 +699,7 @@ FR  RTL bel 🇫🇷	https://raw.githubusercontent.com/inspirationlinks/m3u/live
 FR  Paris Premiere 🇫🇷	https://raw.githubusercontent.com/Sphinxroot/HSL/main/PP.m3u8
 FR  Paris Premiere 🇫🇷	https://raw.githubusercontent.com/inspirationlinks/m3u/live/Streams/PaPremiere.m3u8
 Viju Nature	https://bkm.beetv.kz/btv/live/hls/000006482.m3u8
-Viju History	https://cors-proxy.cooks.fyi/https://bkm.beetv.kz/btv/live/hls/000005528.m3u8
+Viju History	https://corsanywhere-jqogydb25a-uc.a.run.app/https://bkm.beetv.kz/btv/live/hls/000005528.m3u8
 Canal tv Motor 🇺🇸	https://digicom.hls.iptvdc.com/canalmotor/tracks-v1a1/mono.m3u8
 UK  BritBox Mysteriesᴴᴰ 🇬🇧 🟤	https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,BBC-BritBox-Mysteries.m3u8
 Trvl Channelᴴᴰ 🇺🇸	https://raw.githubusercontent.com/inspirationlinks/m3u/live/Streams/trvl.m3u8
@@ -802,4 +803,3 @@ Bollywood	https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761
 002 Radio TV	https://cdn.002radio.com:3909/live/radio002live.m3u8
 ID  TV Kesehatan	https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8
 Sony PIX	https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
-IR  Irib TV3	https://cdn-bsht1c84.telewebion.com/tv3/live/720p/index.m3u8
