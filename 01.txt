@@ -203,7 +203,7 @@ Cinema One	https://cinemaone-abscbn-ono.amagi.tv/index.m3u8
 AE  Dubai One	https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8
 AE  Dubai TV	https://raw.githubusercontent.com/mimipipi22/lalajo/main/dubaitv.m3u8
 MY  Astro Awani	https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
-MY  Boo	https://cors-proxy.elfsight.com/https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/2407/default.mpd``ea4d51ade01bbf3946e0de973051ba10:f3266bec607f25879f48640f30f1c888
+MY  Boo	https://corsanywhere-jqogydb25a-uc.a.run.app/https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/2407/default.mpd``ea4d51ade01bbf3946e0de973051ba10:f3266bec607f25879f48640f30f1c888
 MY  Maah TV	https://hls.maahtv.live/hls/stream.m3u8
 MY  TV IKIM	https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
 MY  Dunia Sinema	https://unifi-live01.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
@@ -211,13 +211,13 @@ MY  RTB SukmaIndera	https://d1211whpimeups.cloudfront.net/smil:rtb1/chunklist.m3
 MY  RTB Aneka Go	https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
 MY  RTB Go Live	https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
 MY  Didik TV	https://raw.githubusercontent.com/mystery75/m3u8/main/DIDIKTVKPM.m3u8
-MY  Berita RTM TV	https://cors-proxy.cooks.fyi/https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
-MY  TV Okey	https://cors-proxy.cooks.fyi/https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
-MY  Sukan RTM TV	https://cors-proxy.cooks.fyi/https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
-MY  TV1	https://cors-proxy.cooks.fyi/https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
-MY  TV2	https://cors-proxy.cooks.fyi/https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
+MY  Berita RTM TV	https://corsanywhere-jqogydb25a-uc.a.run.app/https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
+MY  TV Okey	https://corsanywhere-jqogydb25a-uc.a.run.app/https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
+MY  Sukan RTM TV	https://corsanywhere-jqogydb25a-uc.a.run.app/https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
+MY  TV1	https://corsanywhere-jqogydb25a-uc.a.run.app/https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
+MY  TV2	https://corsanywhere-jqogydb25a-uc.a.run.app/https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 MY  TV3	https://raw.githubusercontent.com/mystery75/m3u8/main/TV3.m3u8
-MY  TV6	https://cors-proxy.cooks.fyi/https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
+MY  TV6	https://corsanywhere-jqogydb25a-uc.a.run.app/https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 MY  8TV	https://raw.githubusercontent.com/mystery75/m3u8/main/8TV.m3u8
 MY  TV9	https://raw.githubusercontent.com/mystery75/m3u8/main/TV9.m3u8
 MY  Siar	https://unifi-live31.secureswiftcontent.com/UnifiHD/live31.mpd``fc23c442355854992a264931a28fc1c5:3a3368fa385a049695ff4de3c36809cd
@@ -265,7 +265,7 @@ TH  HBO	https://cnt1-streamer9.cdn.3bbtv.com:8443/3bb/live/103/103.mpd``9c5735af
 TH  HBO Family	https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/106/106.mpd``07b138f30ad3441ca5a2f476e550af25:826ee4deef4b45cfafd5f79a591b15c6
 TH  HBO Hits	https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/105/105.mpd``7c04b8e7aa524afea879b2ed1aef8242:91e72b75fcb94c3bb36cceb741afd621
 TH  HBO Signature	https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/104/104.mpd``0db89bae851440a5994f5893ad480494:d88ef77eaedf4451a65be2e0bf6eabde
-SG  HBO Plus	https://cors-proxy.elfsight.com/http://170.254.18.106/HBO_PLUS/index.m3u8
+SG  HBO Plus	https://skytest.starlive.workers.dev/http://170.254.18.106/HBO_PLUS/index.m3u8
 SG  HBO	https://tglmp01.akamaized.net/out/v1/29687feb8f96427ca7348cd59c2338d9/manifest.mpd``a407479f074d43d798478c1212d95876:3afb53a2643939cd7128fa7ceded533a
 SG  HBO Hits	https://tglmp02.akamaized.net/out/v1/0fdcb3b643af40ceb3a5b7efa39f7b72/manifest.mpd``473fabdc05ac4d9b94fd34f33f73394f:1072b1e61206c3859607984f872e549c
 SG  HBO Signature	https://tglmp02.akamaized.net/out/v1/b37a81eb3585471cb9c639c78edcdefa/manifest.mpd``90480f571f5d410891d7add7103c1e84:b64f887d2480bcaea992c2f0826449a9
@@ -707,7 +707,7 @@ FR  RTL bel 🇫🇷	https://raw.githubusercontent.com/inspirationlinks/m3u/live
 FR  Paris Premiere 🇫🇷	https://raw.githubusercontent.com/Sphinxroot/HSL/main/PP.m3u8
 FR  Paris Premiere 🇫🇷	https://raw.githubusercontent.com/inspirationlinks/m3u/live/Streams/PaPremiere.m3u8
 Viju Nature	https://bkm.beetv.kz/btv/live/hls/000006482.m3u8
-Viju History	https://cors-proxy.cooks.fyi/https://bkm.beetv.kz/btv/live/hls/000005528.m3u8
+Viju History	https://corsanywhere-jqogydb25a-uc.a.run.app/https://bkm.beetv.kz/btv/live/hls/000005528.m3u8
 Canal tv Motor 🇺🇸	https://digicom.hls.iptvdc.com/canalmotor/tracks-v1a1/mono.m3u8
 UK  BritBox Mysteriesᴴᴰ 🇬🇧 🟤	https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,BBC-BritBox-Mysteries.m3u8
 Trvl Channelᴴᴰ 🇺🇸	https://raw.githubusercontent.com/inspirationlinks/m3u/live/Streams/trvl.m3u8
@@ -737,7 +737,7 @@ LE FIGARO LIVE	https://d358c6mfrono1y.cloudfront.net/v1/manifest/3722c60a815c199
 I24 NEWS FR	https://bcovlive-a.akamaihd.net/cc8266d36bb5469b8b4a3097497e06e6/eu-central-1/5377161796001/playlist-all.m3u8
 CGTN FRANÇAIS	https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
 RDI CANADA	https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
-AFRICA 24	https://cors-proxy.elfsight.com/https://edge12.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
+AFRICA 24	https://corsanywhere-jqogydb25a-uc.a.run.app/https://edge12.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
 BFM BUSINESS	https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&end=END
 BFM ALPES	https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_DICI_ALPESDUSUD/index.m3u8?start=LIVE&end=END
 BFM ALSACE	https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_ALSACE/index.m3u8?start=LIVE&end=END
