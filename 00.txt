@@ -15,6 +15,20 @@ Markiza Sport https://dash2.antik.sk/stream/nvidia_markiza/playlist_cenc.mpd``11
 La Une Euro	https://daiconnect.com/live/dash/rtbf/laune-premium-drm-2/.mpd``1a8315e4b64c4e638dc24d93134b9b2d:2821b54058fb3adc9c6252c631aef9e5
 Tipik Euro	https://daiconnect.com/live/dash/rtbf/tipik-premium-drm-2/.mpd``2f794d3c19854f4fa6f0183b993b86fa:37077d010758ce2cb85ca46720884b01
 NL  Channel S Euro	https://live.vrtcdn.be/groupc/live/8edf3bdf-7db3-41c3-a318-72cb7f82de66/live.isml/.mpd``ef4daa3c90333621e4115ff1ca5bfbda:424c9902fce5a2e7dcbeb37ffc06b906
+Sport TV 1	`0https://popcdn.day/go.php?stream=SPT1
+Sport TV 2	`0https://popcdn.day/go.php?stream=SPT2
+Sport TV 3	`0https://popcdn.day/go.php?stream=SPT3
+Sport TV 4	`0https://popcdn.day/go.php?stream=SPT4
+Sport TV 5	`0https://popcdn.day/go.php?stream=SPT5
+Sport TV 6	`0https://popcdn.day/go.php?stream=SPT6
+Sport TV +	`0https://popcdn.day/go.php?stream=SPTPlus
+beIN Sports US	`0https://popcdn.day/cue.php?stream=beINSPORTSUS
+beIN Sports 1 FR	`0https://popcdn.day/go.php?stream=BEINSPORT1FR
+beIN Sports 2 FR	`0https://popcdn.day/go.php?stream=BEINSPORT2FR
+beIN Sports 2 FR	`0https://popcdn.day/go.php?stream=BEINSPORT3FR
+beIN Sports 1 TR	`0https://popcdn.day/go.php?stream=beINSPORTS1TR
+beIN Sports 2 TR	`0https://popcdn.day/go.php?stream=beINSPORTS2TR
+beIN Sports 3 TR	`0https://popcdn.day/go.php?stream=beINSPORTS3TR
 ES  La1	https://cache3.zapitv.com/live/eds_c2/la1_4k/dash_live_enc/la1_4k.mpd``a3abc44525eef3b0a7af9138a9dbe34a:7740f8ae4223ce5ba293028f7f78f1c1
 ES  TDP	https://cache3.zapitv.com/live/eds_c2/teledeporte_hd/dash_live_enc/teledeporte_hd.mpd``1937b8f0dc833e0a8f457240972e440d:8cbb79a6410cc0d0d80d148f282afd95
 NL  NPO 1	https://nlziet-live.akamaized.net/L6/76fd047c/c427bd9d.isml/.mpd``7545f9301bf94e7a9132dccf32920e51:94fc134c1b1cb1ea9075781417eca48b
@@ -517,6 +531,3 @@ DAZN Eleven 3	01`01a5601`01b
 DAZN Eleven 4	01`01a5701`01b
 DAZN Eleven 5	01`01a5801`01b
 DAZN Eleven 6	01`01a5901`01b
-Sport TV 1	`0https://love2live.wideiptv.top/SPT1/embed.html?token=ede53b9ea6c3df84a29362fd4205c629d354736c-94bbad99e383bcf92d5ce6926a04d5cd-1719654765-1719643965&remote=no_check_ip
-Sport TV 2	`0https://love2live.wideiptv.top/SPT2/embed.html?token=e00b6c8be633ac0851ed9698eafe3025055c701c-2ae01543e7de237fae22865e63dc300c-1719655083-1719644283&remote=no_check_ip
-Sport TV 2	`0https://popcdn.day/go.php?stream=SPT3
