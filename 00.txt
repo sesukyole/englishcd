@@ -519,3 +519,4 @@ DAZN Eleven 5	01`01a5801`01b
 DAZN Eleven 6	01`01a5901`01b
 Sport TV 1	`0https://love2live.wideiptv.top/SPT1/embed.html?token=ede53b9ea6c3df84a29362fd4205c629d354736c-94bbad99e383bcf92d5ce6926a04d5cd-1719654765-1719643965&remote=no_check_ip
 Sport TV 2	`0https://love2live.wideiptv.top/SPT2/embed.html?token=e00b6c8be633ac0851ed9698eafe3025055c701c-2ae01543e7de237fae22865e63dc300c-1719655083-1719644283&remote=no_check_ip
+Sport TV 2	`0https://popcdn.day/go.php?stream=SPT3
