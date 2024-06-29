@@ -1,5 +1,4 @@
 ID  Sport 4 Euro	https://dsgtq5sngxkde.cloudfront.net/live/eds/VplusLiveRplus/sa_hls/VplusLiveRplus.m3u8?c
-TVMax Copa America	https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
 Sports 1 Euro	https://katanaboss.online/chunklist/hlsch1.m3u8
 Sports 2 Euro	https://katanaboss.online/chunklist/hlsch2.m3u8
 TRT1 Canli Euro	https://d1u68oyra9spme.cloudfront.net/master.m3u8
@@ -64,12 +63,6 @@ beIN Sports 4 MY	https://pop5clustera00de07172379a62d6189.hypp.tv:443/PLTV/88888
 MY  SpoTV 1	https://pop5clustera00de07172379a62d6189.hypp.tv:443/PLTV/88888888/224/3221227608/3221227608.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawWP5a6lzyDPJ57LXeuC05Cs44sM6v4Pb96oLcepTGODErcymHBIhx5oJP4jv2fPK0%3D%3A20230206101724%3AUTC%2C1003663983%2C115.164.187.20%2C20230206101724%2Curn:Huawei:liveTV:XTV100000161%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOy27CMBRE_8ZLK3YehIVXIKRKVahE6Laa2NcmihODHZD695A2bGfmjM4coeljr1B2dV7Zqsu1LeoS2EhRk611tu2MFYYlujVBSabhfT-5JpgF-z7tfkTGMy6l4EKydrk7eLh12dzHjqLK39iJ4qPXpEyy_IHE4Vwkh7kPE__y-D1Hv04YtauaqDZltc0KKQuZs3lJW6Th1bAL0i6MV0Qyn8H9AcrCJ2JX6AGOGoykprv3_9wxmpfNEzpVq7L0AAAA&tenantId=6001``7de0fa3c35f52f8a8517f1600dd11ed7:2d59cf94d10020aeee01a97cd0716eea
 MY  SpoTV 2	https://pop5clustera00de07172379a62d6189.hypp.tv:443/PLTV/88888888/224/3221227726/3221227726.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawRjfkMvdAX9TZ5I%2BbsmfrUeOV6Zn1IaYCsVySN%2F6aTU0rcymHBIhx5oJP4jv2fPK0%3D%3A20230206102855%3AUTC%2C1003663983%2C115.164.187.20%2C20230206102855%2Curn:Huawei:liveTV:XTV100000162%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOwY6CMBiE36bHpi0I9tCTGxOTDbuJrFczhZ9KLNRt0cS3X1D2NpmZbzJTREOHD5PZwoqt0IXSXZ7JEnqWCp2WFhtlBUv0WwWjWAPv-9FVoV2w03F3loILrpTkUrF6mdt7uLVZ3QdL0WT_2JHio2_ItKnjDyQO5yI5TH0Y-bfH8yf6tcKoXq_JotwUWuSlyvOSTYtbI13nhF2QdmG4IVL7GdwLMB18InZDc4WjCgOZ8e79m_uK7fzmD_CkDoH0AAAA&tenantId=6001``7c67cb7de9465062c06ac94e8e065462:5931fc07f285ffe40eb98e130bb090f9
 Unifi Sports 1	https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227877/3221227877.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=pDVeBhPtc549NayvHFA0JHqiwYJ%2FKEP6UdMtjXIjIzrjYyGN4h5HPUHLEk%2FvL80xPjG9KTt82xXCdpGInMoKWMBLe9Ie9rQgSTZ%2FmsUArMht5J0dsgfU28LWZM15p3G2%3A20221124103114%3AUTC%2C10001002142071%2C115.164.56.153%2C20221124103114%2Curn:Huawei:liveTV:XTV54185493%2C10001002142071%2C-1%2C0%2C1%2C%2C%2C2%2CHESA0002%2C%2C%2C2%2C10000104188313%2C0%2C10000103564441%2C798506651%2C%2C%2C2%2C1%2CEND&GuardEncType=2&tenantId=6003``cbb673fb120882354735ed57eeb05b4c:fe003f7aeec40eb65d20b14edfda2a86
-beIN Sports 1 US	https://love2live.wideiptv.top/beINSPORTSUS/index.m3u8?token=44f3576d170afd9d73d2c4084623f7b913ce051f-c4b9c643fa947ed48e8c5286ba89e767-1719616298-1719605498
-beIN Sports 1 FR	https://love2live.wideiptv.top/BEINSPORT1FR/index.m3u8?token=c706dff0054719b0a277887f853003cf46ad04f8-f7902719f64e6057620b522a0b17d230-1719615379-1719604579
-beIN Sports 2 FR	https://love2live.wideiptv.top/BEINSPORT2FR/index.m3u8?token=8ccfec473d5ffbf01cf0f5dc4d886536a901b01c-17f1a5cb72aae6416d4c7426b769dbb6-1719615245-1719604445
-beIN Sports 1 TR	https://love2live.wideiptv.top/beINSPORTS1TR/index.m3u8?token=32f477119ea474fe02c12d701799969cafd00da6-0f0869e93c5c4cdd654a14ca878e6671-1719614940-1719604140
-beIN Sports 2 TR	https://love2live.wideiptv.top/beINSPORTS2TR/index.m3u8?token=171db8840ada9518c53d8896a7dbcc9c8438d199-e574be8ab7cfc5ec24846bdd91e38557-1719614791-1719603991
-beIN Sports 3 TR	https://love2live.wideiptv.top/beINSPORTS3TR/index.m3u8?token=693569fab7c9b3f86598524fb8e05449234720e6-e696f5c04e39fe3283cc37db848f43c6-1719614604-1719603804
 DAZN Eleven League 02	https://cors-proxy.cooks.fyi/https://tvvvideolive3.solocoo.tv:443/blueskytvvlive7dash/blueelevenproleague2nl/Manifest.mpd``16251e842a834570a8c5a34d45a0d64d:b7243739698cad0d58af01f142d13eae
 DAZN Eleven League 03	https://cors-proxy.cooks.fyi/https://tvvvideolive3.solocoo.tv:443/blueskytvvlive7dash/blueelevenproleague3nl/Manifest.mpd``c6455c5a1ad1484fa4029ba498659838:4329fb08c3444a8ae9b3c477efe11002
 TNT Sports 1	https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd``ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
@@ -486,6 +479,7 @@ FR  beIN Sports Max 10	`0https://go.now.net.eu.org/p/live?embed=beinmax10fr&type
 MY  Premier League	`0https://go.now.net.eu.org/p/lol/live?embed=bein4my&type=m
 MY  Astro SuperSport 2	`0https://go.now.net.eu.org/p/lol/live?embed=assp2&type=m
 MY  Astro SuperSport 4	`0https://go.now.net.eu.org/p/lol/live?embed=assp4&type=m
+TVMax Copa America	https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
 DAZN F1	01`01a1601`01b
 DAZN 1 DE	01`01a1701`01b
 DAZN 2 DE	01`01a1801`01b
@@ -523,3 +517,5 @@ DAZN Eleven 3	01`01a5601`01b
 DAZN Eleven 4	01`01a5701`01b
 DAZN Eleven 5	01`01a5801`01b
 DAZN Eleven 6	01`01a5901`01b
+Sport TV 1	`0https://love2live.wideiptv.top/SPT1/embed.html?token=ede53b9ea6c3df84a29362fd4205c629d354736c-94bbad99e383bcf92d5ce6926a04d5cd-1719654765-1719643965&remote=no_check_ip
+Sport TV 2	`0https://love2live.wideiptv.top/SPT2/embed.html?token=e00b6c8be633ac0851ed9698eafe3025055c701c-2ae01543e7de237fae22865e63dc300c-1719655083-1719644283&remote=no_check_ip
