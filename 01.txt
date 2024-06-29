@@ -91,6 +91,7 @@ ID  GTV	https://melon-live-cdn.mncnow.id/live/eds/GTV-2/sa_hls/GTV-2.m3u8
 ID  iNews	https://melon-live-cdn.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8
 ID  RCTI	https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-2/sa_hls/rcti-2.m3u8?c
 ID  ANTV 2	https://flv.intechmedia.net/live/ch108.m3u8
+ID  VTV	https://flv.intechmedia.net/live/ch107.m3u8
 ID  Dunia Games	https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6854467f-52fe-48ee-9822-00233c678709)/index.m3u8
 ID  AniPlus	https://op-group1-swiftservehd-1.dens.tv/h/h114/S4/mnf.m3u8
 ID  Net TV 2	https://op-group1-swiftservehd-1.dens.tv/h/h223/index.m3u8
@@ -136,7 +137,6 @@ ID  Sakti TV	https://saktitv.siar.us/saktitv/live/playlist.m3u8
 ID  UGTV	https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
 ID  Wesal TV	https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
 ID  TVRI Sport	https://op-group1-swiftservesd-1.dens.tv/s/s107/index.m3u8
-ID  VTV	https://flv.intechmedia.net/live/ch107.m3u8
 US  Discovery Kids	https://raw.githubusercontent.com/mimipipi22/lalajo/main/discoverykids.m3u8
 US  Tortues Ninja 🇺🇸 🟤	https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d0c16d686454ead733d08f8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 Angry Birds	https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=514
