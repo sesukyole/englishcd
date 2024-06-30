@@ -18,6 +18,11 @@ Tipik Euro	https://daiconnect.com/live/dash/rtbf/tipik-premium-drm-2/.mpd``2f794
 NL  Channel S Euro	https://live.vrtcdn.be/groupc/live/8edf3bdf-7db3-41c3-a318-72cb7f82de66/live.isml/.mpd``ef4daa3c90333621e4115ff1ca5bfbda:424c9902fce5a2e7dcbeb37ffc06b906
 Sky Sports Uno	https://linear301-it-dash1-prd-akg0.cdn13.skycdp.com/31023/FHD/skysportuno/master_stereo.mpd``0036dc70e4d659fe5ae57b52793a1ff3:55517f806b6be917c2bf0e9cf9acc44f
 Sky Sports Calcio	https://linear302-it-dash1-prd-ll.cdn13.skycdp.com/31209/FHD/skysportseriea/master.mpd``00369a2c69176d5a2deff777247b6637:e122d4bad34c1e430ee349f5aac0060b
+TSN 1	https://livecdn-iptv001.rumsport.com/stream/770/manifest.mpd
+TSN 2	https://livecdn-iptv001.rumsport.com/stream/771/manifest.mpd
+TSN 3	https://livecdn-iptv001.rumsport.com/stream/772/manifest.mpd
+TSN 4	https://livecdn-iptv001.rumsport.com/stream/773/manifest.mpd
+TSN 5	https://livecdn-iptv001.rumsport.com/stream/774/manifest.mpd
 HRT1	https://webtvstream.bhtelecom.ba/hrt1.m3u8
 HRT2	https://webtvstream.bhtelecom.ba/hrt2.m3u8
 DAZN F1	01`01a1601`01b
@@ -405,11 +410,6 @@ ESPN 1 NL	https://da-d436234320010b88000103020000000000000005.id.cdn.upcbroadban
 ESPN 2 NL	https://da-d436234420010b88000103020000000000000006.id.cdn.upcbroadband.com/wp/wp2-vxtoken-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000108_019561/_shared_05e8c13b39b3f30524c26012f903ed7f/NL_000108_019561.mpd``3e999e38253834baa63881ea451f2839:99b88d9cde1d8986decbc5985da87187
 ESPN 3 NL	https://da-d436234320010b88000103020000000000000005.id.cdn.upcbroadband.com/wp/wp3-vxtoken-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000109_019464/_shared_05e8c13b39b3f30524c26012f903ed7f/NL_000109_019464.mpd``3e999e38253834baa63881ea451f2839:99b88d9cde1d8986decbc5985da87187
 ESPN 4 NL	https://da-d436234b20010b8800010302000000000000000d.id.cdn.upcbroadband.com/wp/wp4-vxtoken-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000110_019562/_shared_05e8c13b39b3f30524c26012f903ed7f/NL_000110_019562.mpd``3e999e38253834baa63881ea451f2839:99b88d9cde1d8986decbc5985da87187
-TSN 1	https://live-ctv.video.9c9media.com/f/TSN/TSN1/manifest.mpd``dea83ced0141424e983e1afe463b4b0d:c00dd5dd17b0799aa4013f365a1393ce
-TSN 2	https://live-ctv.video.9c9media.com/f/TSN/TSN2/manifest.mpd``ddc52c88e2c24d38a5bc8dda8a2acb61:ad5ea485464a13eec7dda3249c556446
-TSN 3	https://live-ctv.video.9c9media.com/f/TSN/TSN3/manifest.mpd``c0f378ad54e14a9c85a3d8c986d2a51f:5e1d040743ff78715e464ffb905e68a9
-TSN 4	https://live-ctv.video.9c9media.com/f/TSN/TSN4/manifest.mpd``f0a2efd11e0643c3a45d6f67d02f1a97:85bf4469003bd28f01ea4fefedd5a431
-TSN 5	https://live-ctv.video.9c9media.com/f/TSN/TSN5/manifest.mpd``cb57741a1cee422690c6294a06eb1320:7a0cfd493df6ef7cc0d0bb3ad95cec8c
 ESPN Premium	https://tvfuego.cdn.rcs.net.ar/mnp/espnpremium/output.mpd
 ESPN 4	https://tvfuego.cdn.rcs.net.ar/mnp/espn_extra/output.mpd
 Sony Sports 1	https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
