@@ -1,7 +1,7 @@
 Moji 1	01`03c4.m3u8
 Indosiar 1	01`03c228.m3u8
-Makkah TV	01`03g11584.m3u8
-Indosiar	01`03g9721.m3u8
+Indosiar 2	01`03g9721.m3u8
+Indosiar 3	01`03f8.m3u8
 iNews	01`03g32.m3u8
 MNC TV	01`03g11.m3u8
 Okey	01`03g11630.m3u8
@@ -14,37 +14,25 @@ Astro Sport 1	01`03g118.m3u8
 Astro Sport 2	01`03g119.m3u8
 Astro Sport 3	01`03g120.m3u8
 Astro Sport 4	01`03g121.m3u8
-beIN 1 Id	01`03g139.m3u8
-beIN 3 Id	01`03g140.m3u8
-beIN Sports AR 1	01`03g12114.m3u8
-beIN Sports AR 2	01`03g12115.m3u8
-beIN Sports AR 3	01`03g12116.m3u8
-beIN Sports AR 4	01`03g12117.m3u8
-beIN Sports AR 5	01`03g12118.m3u8
-beIN Sports AR 6	01`03g12119.m3u8
-beIN Sports AR 7	01`03g12120.m3u8
+beIN 1 ID	01`03g139.m3u8
+beIN 3 ID	01`03g140.m3u8
 beIN Sports MY 1	01`03g11937.m3u8
 beIN Sports MY 2	01`03g12517.m3u8
 beIN Sports MY 3	01`03g11939.m3u8
-Bundes Liga 1	01`03g12502.m3u8
-Bundes Liga 2	01`03g12503.m3u8
-Bundes Liga 3	01`03g12504.m3u8
-Cricket 1	01`03g122.m3u8
-Cricket 2	01`03g9804.m3u8
-Dazn Eleven 1	01`03g12125.m3u8
-Dazn Eleven 2	01`03g12126.m3u8
-Dazn Eleven 3	01`03g12127.m3u8
-Dazn Eleven 4	01`03g12128.m3u8
+Spo TV 1 MY	01`03g12723.m3u8
+Spo TV 2 MY	01`03g12724.m3u8
+Cricket 1	01`03g9804.m3u8
+DAZN Eleven 1	01`03g12125.m3u8
+DAZN Eleven 2	01`03g12126.m3u8
+DAZN Eleven 3	01`03g12127.m3u8
+DAZN Eleven 4	01`03g12128.m3u8
 EPL 1	01`03g96.m3u8
 EPL 2	01`03g97.m3u8
-EPL 3	01`03g98.m3u8
-EPL 4	01`03g12570.m3u8
 Eurosports 1 Uk	01`03g9808.m3u8
 Eurosports 2 Uk	01`03g9809.m3u8
-F One 1	01`03g9798.m3u8
-F One 2	01`03g12169.m3u8
-F One 3	01`03g12107.m3u8
-Football	01`03g116.m3u8
+Formula One 1	01`03g9798.m3u8
+Formula One 2	01`03g12169.m3u8
+Formula One 3	01`03g12107.m3u8
 Fox 502	01`03g83.m3u8
 Fox 504	01`03g84.m3u8
 Golf 1	01`03g142.m3u8
@@ -71,10 +59,9 @@ Sky Sports Premier Uk	01`03g9796.m3u8
 Sony Ten 1	01`03g12173.m3u8
 Sony Ten 2	01`03g12174.m3u8
 Sony Ten 3	01`03g12175.m3u8
-Spo TV 1 MY	01`03g12723.m3u8
 Spo TV 1	01`03g110.m3u8
-Spo TV 2 MY	01`03g12724.m3u8
 Spo TV 2	01`03g111.m3u8
+Football	01`03g116.m3u8
 Sport 1	01`03g112.m3u8
 Sport 2	01`03g113.m3u8
 Sport 3	01`03g114.m3u8
@@ -101,6 +88,20 @@ Ziggo Select	01`03g12113.m3u8
 Ziggo Sports	01`03g12109.m3u8
 Ziggo Tennis	01`03g12515.m3u8
 Ziggo Voetbal	01`03g12111.m3u8
+beIN Sports AR 1	01`03g12114.m3u8
+beIN Sports AR 2	01`03g12115.m3u8
+beIN Sports AR 3	01`03g12116.m3u8
+beIN Sports AR 4	01`03g12117.m3u8
+beIN Sports AR 5	01`03g12118.m3u8
+beIN Sports AR 6	01`03g12119.m3u8
+beIN Sports AR 7	01`03g12120.m3u8
+Bundes Liga 1	01`03g12502.m3u8
+Bundes Liga 2	01`03g12503.m3u8
+Bundes Liga 3	01`03g12504.m3u8
+Cricket 2	01`03g122.m3u8
+EPL 3	01`03g98.m3u8
+EPL 4	01`03g12570.m3u8
+Makkah TV	01`03g11584.m3u8
 ABC Australia	01`03g11558.m3u8
 Adi TV	01`03g11974.m3u8
 Adventure Earth	01`03g12738.m3u8
