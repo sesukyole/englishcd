@@ -1,3 +1,5 @@
+Indosiar A	https://cors-proxy-s47hjsqcra-uc.a.run.app/pull.niues.live/live/stream-9912077_lhd.m3u8?7
+Indosiar B	https://pull.niues.live/live/stream-9912084_lsd.m3u8?auth_key=1719843077-0-0-d2233f2164a750b87a60540f87e0b557?7
 Moji 1	01`03c4.m3u8
 Indosiar 1	01`03c228.m3u8
 Moji 2	01`03g117.m3u8
