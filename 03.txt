@@ -1,7 +1,9 @@
 Moji 1	01`03c4.m3u8
 Indosiar 1	01`03c228.m3u8
-Indosiar 2	01`03g9721.m3u8
-Indosiar 3	01`03f8.m3u8
+Moji 2	01`03g117.m3u8
+Indosiar 2	01`03g12192.m3u8
+Indosiar 3	01`03g9721.m3u8
+Indosiar 4	01`03f8.m3u8
 iNews	01`03g32.m3u8
 MNC TV	01`03g11.m3u8
 Okey	01`03g11630.m3u8
@@ -28,6 +30,8 @@ DAZN Eleven 3	01`03g12127.m3u8
 DAZN Eleven 4	01`03g12128.m3u8
 EPL 1	01`03g96.m3u8
 EPL 2	01`03g97.m3u8
+EPL 3	01`03g98.m3u8
+EPL 4	01`03g12570.m3u8
 Eurosports 1 Uk	01`03g9808.m3u8
 Eurosports 2 Uk	01`03g9809.m3u8
 Formula One 1	01`03g9798.m3u8
@@ -41,24 +45,16 @@ Golf 3	01`03g9805.m3u8
 Laliga 1	01`03g133.m3u8
 Laliga 2	01`03g134.m3u8
 Laliga 3	01`03g135.m3u8
-Liga 1 Bri	01`03g12192.m3u8
 Motogp 1	01`03g9806.m3u8
 Motogp 2	01`03g12199.m3u8
 Motogp 3	01`03g12106.m3u8
 Premier Sports	01`03g12725.m3u8
-ProLiga	01`03g117.m3u8
 RMC Fight	01`03g12576.m3u8
-Seri A 1	01`03g12499.m3u8
-Seri A 2	01`03g12500.m3u8
-Seri A 3	01`03g12501.m3u8
 Sky Sports Action Uk	01`03g9801.m3u8
 Sky Sports Arena Uk	01`03g9802.m3u8
 Sky Sports Football Uk	01`03g9797.m3u8
 Sky Sports Main Events Uk	01`03g9800.m3u8
 Sky Sports Premier Uk	01`03g9796.m3u8
-Sony Ten 1	01`03g12173.m3u8
-Sony Ten 2	01`03g12174.m3u8
-Sony Ten 3	01`03g12175.m3u8
 Spo TV 1	01`03g110.m3u8
 Spo TV 2	01`03g111.m3u8
 Football	01`03g116.m3u8
@@ -73,13 +69,13 @@ Sport TV 4	01`03g12732.m3u8
 Supersport Action	01`03g12671.m3u8
 Tennis 1	01`03g11938.m3u8
 Tennis 2	01`03g9799.m3u8
-Tennis 3	01`03g12110.m3u8
-Tennis 4	01`03g9807.m3u8
-Tennis 5	01`03g12108.m3u8
-TNT 1 Hd	01`03g12121.m3u8
-TNT 2 Hd	01`03g12122.m3u8
-TNT 3 Hd	01`03g12123.m3u8
-TNT 4 Hd	01`03g12124.m3u8
+Tennis 3	01`03g12108.m3u8
+Tennis 4	01`03g12110.m3u8
+Tennis 5	01`03g9807.m3u8
+TNT Sports 1	01`03g12121.m3u8
+TNT Sports 2	01`03g12122.m3u8
+TNT Sports 3	01`03g12123.m3u8
+TNT Sports 4	01`03g12124.m3u8
 UFC	01`03g12571.m3u8
 W-Sports	01`03g12726.m3u8
 WWE	01`03g11943.m3u8
@@ -99,8 +95,12 @@ Bundes Liga 1	01`03g12502.m3u8
 Bundes Liga 2	01`03g12503.m3u8
 Bundes Liga 3	01`03g12504.m3u8
 Cricket 2	01`03g122.m3u8
-EPL 3	01`03g98.m3u8
-EPL 4	01`03g12570.m3u8
+Seri A 1	01`03g12499.m3u8
+Seri A 2	01`03g12500.m3u8
+Seri A 3	01`03g12501.m3u8
+Sony Ten 1	01`03g12173.m3u8
+Sony Ten 2	01`03g12174.m3u8
+Sony Ten 3	01`03g12175.m3u8
 Makkah TV	01`03g11584.m3u8
 ABC Australia	01`03g11558.m3u8
 Adi TV	01`03g11974.m3u8
