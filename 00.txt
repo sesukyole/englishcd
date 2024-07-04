@@ -534,3 +534,6 @@ MY  Premier League	`0https://go.now.net.eu.org/p/lol/live?embed=bein4my&type=m
 MY  Astro SuperSport 2	`0https://go.now.net.eu.org/p/lol/live?embed=assp2&type=m
 MY  Astro SuperSport 4	`0https://go.now.net.eu.org/p/lol/live?embed=assp4&type=m
 TVMax Copa America	https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
+Indosiar 1	https://sundel.freemiumiptv.top/denslokal/h/h207/02.m3u8
+Indosiar 2	`1https://en.gdplayertv.to/live-tv/indosiar/?alt=1&embed=1
+Indosiar 3	`1https://en.gdplayertv.to/live-tv/indosiar/?alt=2&embed=1
