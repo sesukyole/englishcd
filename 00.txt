@@ -1,5 +1,5 @@
 ID  Sport 4 Euro	https://dsgtq5sngxkde.cloudfront.net/live/eds/VplusLiveRplus/sa_hls/VplusLiveRplus.m3u8?c
-Sports 1 Euro & Copa America	https://katanaboss.online/chunklist/hlsch1.m3u8
+Sports 1 Euro & Copa America	https://katanaboss.online/chunklist/hlsch1.m3u8?7
 ES  La1	https://cache3.zapitv.com/live/eds_c2/la1_4k/dash_live_enc/la1_4k.mpd``a3abc44525eef3b0a7af9138a9dbe34a:7740f8ae4223ce5ba293028f7f78f1c1
 ZDF Euro	https://p7s1-live-001-prod.akamaized.net/45371d5a/t_009/zdf-de-hd/cenc-default.mpd``7757d3fa8cdab673a2dd9f3ed7b41360:96e498b70eeecfc0164ed4e0a78e36f3
 NL  Channel S Euro	https://live.vrtcdn.be/groupc/live/8edf3bdf-7db3-41c3-a318-72cb7f82de66/live.isml/.mpd``ef4daa3c90333621e4115ff1ca5bfbda:424c9902fce5a2e7dcbeb37ffc06b906
@@ -70,9 +70,9 @@ DAZN Eleven 5	01`01a5801`01b
 DAZN Eleven 6	01`01a5901`01b
 DAZN Eleven League 02	https://cors-proxy.cooks.fyi/https://tvvvideolive3.solocoo.tv:443/blueskytvvlive7dash/blueelevenproleague2nl/Manifest.mpd``16251e842a834570a8c5a34d45a0d64d:b7243739698cad0d58af01f142d13eae
 DAZN Eleven League 03	https://cors-proxy.cooks.fyi/https://tvvvideolive3.solocoo.tv:443/blueskytvvlive7dash/blueelevenproleague3nl/Manifest.mpd``c6455c5a1ad1484fa4029ba498659838:4329fb08c3444a8ae9b3c477efe11002
-Sports 2	https://katanaboss.online/chunklist/hlsch2.m3u8
-Sports 3	https://katanaboss.online/chunklist/hlsch3.m3u8
-Sports 4	https://katanaboss.online/chunklist/hlsch4.m3u8
+Sports 2	https://katanaboss.online/chunklist/hlsch2.m3u8?7
+Sports 3	https://katanaboss.online/chunklist/hlsch3.m3u8?7
+Sports 4	https://katanaboss.online/chunklist/hlsch4.m3u8?7
 ID  RCTI	https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-2/sa_hls/rcti-2.m3u8?c
 ID  PSJ TV	https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
 ID  Football Euro	https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_hls/rcti-soccerchannel-hd.m3u8?c
