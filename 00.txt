@@ -1,8 +1,7 @@
 ID  Sport 4 Euro	https://dsgtq5sngxkde.cloudfront.net/live/eds/VplusLiveRplus/sa_hls/VplusLiveRplus.m3u8?c
-Sports 1 UEFA Euro	https://katanaboss.online/chunklist/hlsch1.m3u8
+Sports 1 Euro & Copa America	https://katanaboss.online/chunklist/hlsch1.m3u8
 ES  La1	https://cache3.zapitv.com/live/eds_c2/la1_4k/dash_live_enc/la1_4k.mpd``a3abc44525eef3b0a7af9138a9dbe34a:7740f8ae4223ce5ba293028f7f78f1c1
 ZDF Euro	https://p7s1-live-001-prod.akamaized.net/45371d5a/t_009/zdf-de-hd/cenc-default.mpd``7757d3fa8cdab673a2dd9f3ed7b41360:96e498b70eeecfc0164ed4e0a78e36f3
-TRT1 Canli Euro	https://d1u68oyra9spme.cloudfront.net/master.m3u8
 NL  Channel S Euro	https://live.vrtcdn.be/groupc/live/8edf3bdf-7db3-41c3-a318-72cb7f82de66/live.isml/.mpd``ef4daa3c90333621e4115ff1ca5bfbda:424c9902fce5a2e7dcbeb37ffc06b906
 CT Sport Euro	https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cbcs.mpd``11223344556677889900112233445566:11223344556677889900112233445566
 Sky Sports Calcio	https://linear302-it-dash1-prd-ll.cdn13.skycdp.com/31209/FHD/skysportseriea/master.mpd``00369a2c69176d5a2deff777247b6637:e122d4bad34c1e430ee349f5aac0060b
@@ -25,13 +24,16 @@ USA West	https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(
 ESPN 1	https://b.trybrett.shop/espn.m3u8
 ESPN 2	https://b.trybrett.shop/espn2.m3u8
 ESPN Live	https://b.trybrett.shop/espn3.m3u8
+Sports 2	https://katanaboss.online/chunklist/hlsch2.m3u8
+Sports 3	https://katanaboss.online/chunklist/hlsch3.m3u8
+Sports 4	https://katanaboss.online/chunklist/hlsch4.m3u8
+ID  RCTI	https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-2/sa_hls/rcti-2.m3u8?c
+ID  PSJ TV	https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
 ID  Football Euro	https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_hls/rcti-soccerchannel-hd.m3u8?c
 ID  Sport 1	https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar/sa_hls/rcti-sportstar.m3u8?c
 ID  Sport 2	https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar2/sa_hls/rcti-sportstar2.m3u8?c
 ID  SpoTV 1	https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-spotv/sa_hls/rcti-spotv.m3u8?c
-ID  RCTI	https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-2/sa_hls/rcti-2.m3u8?c
 ID  iNews	https://dsgtq5sngxkde.cloudfront.net/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8?c
-ID  PSJ TV	https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
 ID  Sports 1	01`00a133/beib1/index.m3u8?c
 ID  Sports 3	01`00a133/beib2/index.m3u8?c
 MY  RTB Aneka Go	https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
@@ -78,7 +80,6 @@ Go3 Sport 1	https://cors-proxy.cooks.fyi/https://tr.live.cdn.cgates.lt/live/dash
 Go3 Sport 2	https://cors-proxy.cooks.fyi/https://tr.live.cdn.cgates.lt/live/dash/560505/index.mpd``8315b1996d92477b965cb29100a3dc07:0081c0674e9047e219caa27a07da9d4b
 Go3 Sport 3	https://cors-proxy.cooks.fyi/https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport3_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport3_HD_HVC.mpd``a2a75672057f462089c2849b8184fcb0:94899cace4911c617c27d8f878de2b43
 Go3 Sport Open	https://cors-proxy.cooks.fyi/https://tr.live.cdn.cgates.lt/live/dash/561402/index.mpd``a6b967afcb974bb5a549377b4f09befd:87d993257a099324ccd0215475fc61a0
-Sports 2 UEFA Euro	https://katanaboss.online/chunklist/hlsch2.m3u8
 SportItalia Copa America	https://di-j16ei4yq.vo.lswcdn.net/sportitalia/smil:sihd.smil/chunklist.m3u8
 TV 2 Sport Euro	https://skytest.starlive.workers.dev/https://aws-appeartv-cdn.rikstv.no/rikstv/1/11/dash/TV2_HD/manifest.mpd``bfb0134de69d76d25b5b4b202df11431:025915bd3062c4bde44a13916c5bfefe
 Tipik Euro	https://daiconnect.com/live/dash/rtbf/tipik-premium-drm-2/.mpd``2f794d3c19854f4fa6f0183b993b86fa:37077d010758ce2cb85ca46720884b01
@@ -87,7 +88,7 @@ CCTV 4	https://op-group1-swiftservesd-1.dens.tv/s/s19/index.m3u8
 Iraq Sport	https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/imn/news1/chunks.m3u8
 Oman Sport	https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
 TH  PPTV 36TV	https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/36/36.mpd``0aeffa7753674e77b99443fac7757b8a:b8c8a462008a40aa91823e0b02e8dd31
-TR  Sports TV	https://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8
+TRT1 Canli Euro	https://d1u68oyra9spme.cloudfront.net/master.m3u8
 Afro Sport	https://newproxy3.vidivu.tv/vidivu_afrosport/index.m3u8
 DAZN Eleven League 02	https://cors-proxy.cooks.fyi/https://tvvvideolive3.solocoo.tv:443/blueskytvvlive7dash/blueelevenproleague2nl/Manifest.mpd``16251e842a834570a8c5a34d45a0d64d:b7243739698cad0d58af01f142d13eae
 DAZN Eleven League 03	https://cors-proxy.cooks.fyi/https://tvvvideolive3.solocoo.tv:443/blueskytvvlive7dash/blueelevenproleague3nl/Manifest.mpd``c6455c5a1ad1484fa4029ba498659838:4329fb08c3444a8ae9b3c477efe11002
@@ -534,6 +535,7 @@ DAZN Eleven 4	01`01a5701`01b
 DAZN Eleven 5	01`01a5801`01b
 DAZN Eleven 6	01`01a5901`01b
 TVMax Copa America	https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
+TR  Sports TV	https://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8
 Indosiar 1	`1https://en.gdplayertv.to/live-tv/indosiar/?alt=0&embed=1
 Indosiar 2	`1https://en.gdplayertv.to/live-tv/indosiar/?alt=1&embed=1
 Indosiar 3	`1https://en.gdplayertv.to/live-tv/indosiar/?alt=2&embed=1

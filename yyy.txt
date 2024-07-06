@@ -1,0 +1,1254 @@
+ID: Indosiar HD	http://mykingtv.net:2082/live/zaki880/8890/5117.m3u8
+ID: Citra Drama	http://mykingtv.net:2082/live/zaki880/8890/5118.m3u8
+ID: Citra Dangdut	http://mykingtv.net:2082/live/zaki880/8890/5120.m3u8
+ID: Jitv	http://mykingtv.net:2082/live/zaki880/8890/5123.m3u8
+ID: ANTV	http://mykingtv.net:2082/live/zaki880/8890/5124.m3u8
+ID: DAAI TV	http://mykingtv.net:2082/live/zaki880/8890/5126.m3u8
+ID: GTV	http://mykingtv.net:2082/live/zaki880/8890/5127.m3u8
+ID: IDX Channel	http://mykingtv.net:2082/live/zaki880/8890/5129.m3u8
+ID: Berita Satu	http://mykingtv.net:2082/live/zaki880/8890/5131.m3u8
+ID: INews TV[A]	http://mykingtv.net:2082/live/zaki880/8890/5132.m3u8
+ID: INews TV[B]	http://mykingtv.net:2082/live/zaki880/8890/5133.m3u8
+ID: CNN Indonesia	http://mykingtv.net:2082/live/zaki880/8890/5135.m3u8
+ID: Kompas TV	http://mykingtv.net:2082/live/zaki880/8890/5138.m3u8
+ID: MNC TV HD	http://mykingtv.net:2082/live/zaki880/8890/5139.m3u8
+ID: Net TV	http://mykingtv.net:2082/live/zaki880/8890/5140.m3u8
+ID: Jak TV	http://mykingtv.net:2082/live/zaki880/8890/5142.m3u8
+ID: RCTI HD	http://mykingtv.net:2082/live/zaki880/8890/5144.m3u8
+ID: SCTV	http://mykingtv.net:2082/live/zaki880/8890/5147.m3u8
+ID: Trans 7	http://mykingtv.net:2082/live/zaki880/8890/5149.m3u8
+ID: TransTV	http://mykingtv.net:2082/live/zaki880/8890/5151.m3u8
+ID: TVRI[A]	http://mykingtv.net:2082/live/zaki880/8890/5154.m3u8
+ID: TVRI[B]	http://mykingtv.net:2082/live/zaki880/8890/5155.m3u8
+ID: TVRI SPORT	http://mykingtv.net:2082/live/zaki880/8890/5156.m3u8
+ID: TVRI JAWA BARAT	http://mykingtv.net:2082/live/zaki880/8890/5158.m3u8
+ID: TVRI NASIONAL	http://mykingtv.net:2082/live/zaki880/8890/5159.m3u8
+ID: Magna Tv	http://mykingtv.net:2082/live/zaki880/8890/5162.m3u8
+ID: The Indonesia Channel	http://mykingtv.net:2082/live/zaki880/8890/5163.m3u8
+ID: Smithsonian Channel[A]	http://mykingtv.net:2082/live/zaki880/8890/5164.m3u8
+MY: CHUTTI TV	http://mykingtv.net:2082/live/zaki880/8890/5178.m3u8
+MY: MAKKAL TV	http://mykingtv.net:2082/live/zaki880/8890/5180.m3u8
+MY: Jaya TV	http://mykingtv.net:2082/live/zaki880/8890/5181.m3u8
+MY: Star Vijay	http://mykingtv.net:2082/live/zaki880/8890/5182.m3u8
+MY: SUN TV HD	http://mykingtv.net:2082/live/zaki880/8890/5183.m3u8
+MY: Zee TV HD	http://mykingtv.net:2082/live/zaki880/8890/5184.m3u8
+MY: Zee Action HD	http://mykingtv.net:2082/live/zaki880/8890/5185.m3u8
+MY: ZEE TAMIL	http://mykingtv.net:2082/live/zaki880/8890/5186.m3u8
+IN: ZEE ANMOL CINEMA	http://mykingtv.net:2082/live/zaki880/8890/5197.m3u8
+IN: Zee Tamil HD	http://mykingtv.net:2082/live/zaki880/8890/5204.m3u8
+IN: &TV HD	http://mykingtv.net:2082/live/zaki880/8890/5208.m3u8
+IN: B4U Plus	http://mykingtv.net:2082/live/zaki880/8890/5211.m3u8
+IN: ZING[B]	http://mykingtv.net:2082/live/zaki880/8890/5218.m3u8
+IN: TIME NOW	http://mykingtv.net:2082/live/zaki880/8890/5219.m3u8
+IN: 7Star	http://mykingtv.net:2082/live/zaki880/8890/5220.m3u8
+IN:MK TV	http://mykingtv.net:2082/live/zaki880/8890/5221.m3u8
+IN:KTV	http://mykingtv.net:2082/live/zaki880/8890/5222.m3u8
+IN:MANORANJAN MOVIES	http://mykingtv.net:2082/live/zaki880/8890/5224.m3u8
+IN:Wow Cinema	http://mykingtv.net:2082/live/zaki880/8890/5225.m3u8
+IN:Bolloywood HD	http://mykingtv.net:2082/live/zaki880/8890/5228.m3u8
+MY: Astro Ceria [A]	http://mykingtv.net:2082/live/zaki880/8890/5274.m3u8
+MY: Astro Ceria [B]	http://mykingtv.net:2082/live/zaki880/8890/5275.m3u8
+MY: Animax	http://mykingtv.net:2082/live/zaki880/8890/5277.m3u8
+MY: Boomerang	http://mykingtv.net:2082/live/zaki880/8890/5279.m3u8
+MY: Cartoon Network FHD	http://mykingtv.net:2082/live/zaki880/8890/5280.m3u8
+MY: Nickelodeon	http://mykingtv.net:2082/live/zaki880/8890/5281.m3u8
+MY: Nick Jr	http://mykingtv.net:2082/live/zaki880/8890/5282.m3u8
+MY: Baby Tv	http://mykingtv.net:2082/live/zaki880/8890/5286.m3u8
+Horee	http://mykingtv.net:2082/live/zaki880/8890/5287.m3u8
+Hip Hip Horee!	http://mykingtv.net:2082/live/zaki880/8890/5289.m3u8
+Dreamwork	http://mykingtv.net:2082/live/zaki880/8890/5290.m3u8
+Anime	http://mykingtv.net:2082/live/zaki880/8890/5292.m3u8
+MY: Animal Planet	http://mykingtv.net:2082/live/zaki880/8890/5296.m3u8
+MY: Nat Geo Wild	http://mykingtv.net:2082/live/zaki880/8890/5299.m3u8
+MY: History	http://mykingtv.net:2082/live/zaki880/8890/5300.m3u8
+MY: HGTV HD	http://mykingtv.net:2082/live/zaki880/8890/5301.m3u8
+MY: AFN HD	http://mykingtv.net:2082/live/zaki880/8890/5302.m3u8
+MY: Crime + Investigation HD	http://mykingtv.net:2082/live/zaki880/8890/5303.m3u8
+CGTN	http://mykingtv.net:2082/live/zaki880/8890/5305.m3u8
+CGTN Documentary	http://mykingtv.net:2082/live/zaki880/8890/5306.m3u8
+ID:Nagaswara	http://mykingtv.net:2082/live/zaki880/8890/6726.m3u8
+TVN FHD	http://mykingtv.net:2082/live/zaki880/8890/6949.m3u8
+TVN Movies FHD	http://mykingtv.net:2082/live/zaki880/8890/6950.m3u8
+K PLUS FHD	http://mykingtv.net:2082/live/zaki880/8890/6951.m3u8
+KIX FHD	http://mykingtv.net:2082/live/zaki880/8890/6952.m3u8
+Sony GEM FHD	http://mykingtv.net:2082/live/zaki880/8890/6954.m3u8
+KBSWorld FHD	http://mykingtv.net:2082/live/zaki880/8890/6955.m3u8
+Cinemax by HBO FHD	http://mykingtv.net:2082/live/zaki880/8890/6963.m3u8
+HBO FHD	http://mykingtv.net:2082/live/zaki880/8890/6964.m3u8
+HBO Hits FHD	http://mykingtv.net:2082/live/zaki880/8890/6965.m3u8
+HBO Signature FHD	http://mykingtv.net:2082/live/zaki880/8890/6966.m3u8
+HBO Family FHD	http://mykingtv.net:2082/live/zaki880/8890/6967.m3u8
+Sony Pix FHD	http://mykingtv.net:2082/live/zaki880/8890/7024.m3u8
+Galaxy FHD	http://mykingtv.net:2082/live/zaki880/8890/6969.m3u8
+Galaxy Premium FHD	http://mykingtv.net:2082/live/zaki880/8890/6970.m3u8
+Warner TV FHD	http://mykingtv.net:2082/live/zaki880/8890/6971.m3u8
+CinemaWorld FHD	http://mykingtv.net:2082/live/zaki880/8890/6972.m3u8
+Flik FHD	http://mykingtv.net:2082/live/zaki880/8890/6973.m3u8
+IMC FHD	http://mykingtv.net:2082/live/zaki880/8890/6974.m3u8
+TRANS TV FHD	http://mykingtv.net:2082/live/zaki880/8890/6975.m3u8
+TRANS 7 FHD	http://mykingtv.net:2082/live/zaki880/8890/6976.m3u8
+GTV FHD	http://mykingtv.net:2082/live/zaki880/8890/6977.m3u8
+Jowo Channel FHD	http://mykingtv.net:2082/live/zaki880/8890/6981.m3u8
+INDOSIAR FHD	http://mykingtv.net:2082/live/zaki880/8890/6982.m3u8
+NET FHD	http://mykingtv.net:2082/live/zaki880/8890/6983.m3u8
+SCTV FHD	http://mykingtv.net:2082/live/zaki880/8890/6984.m3u8
+AXN FHD	http://mykingtv.net:2082/live/zaki880/8890/6985.m3u8
+BlueAnt FHD	http://mykingtv.net:2082/live/zaki880/8890/6987.m3u8
+Blue Ant Extreame FHD	http://mykingtv.net:2082/live/zaki880/8890/6988.m3u8
+Animal Planet FHD	http://mykingtv.net:2082/live/zaki880/8890/6989.m3u8
+History FHD	http://mykingtv.net:2082/live/zaki880/8890/6990.m3u8
+Discovery Channel HD	http://mykingtv.net:2082/live/zaki880/8890/6991.m3u8
+Nat Geo Wild FHD	http://mykingtv.net:2082/live/zaki880/8890/6994.m3u8
+HGTV FHD	http://mykingtv.net:2082/live/zaki880/8890/6995.m3u8
+AFN FHD	http://mykingtv.net:2082/live/zaki880/8890/6996.m3u8
+Lifetime FHD	http://mykingtv.net:2082/live/zaki880/8890/6997.m3u8
+Star Movies FHD	http://mykingtv.net:2082/live/zaki880/8890/7025.m3u8
+MY: BBC Earth	http://mykingtv.net:2082/live/zaki880/8890/5304.m3u8
+MY:RTM Sport FHD	http://mykingtv.net:2082/live/zaki880/8890/7155.m3u8
+MY: Astro Arena[A]	http://mykingtv.net:2082/live/zaki880/8890/7156.m3u8
+MY: Astro Arena[B]	http://mykingtv.net:2082/live/zaki880/8890/7157.m3u8
+MY: WWE [A]	http://mykingtv.net:2082/live/zaki880/8890/7169.m3u8
+MY: WWE [B]	http://mykingtv.net:2082/live/zaki880/8890/7170.m3u8
+MY: Astro Golf	http://mykingtv.net:2082/live/zaki880/8890/7516.m3u8
+MY: Astro Cricket	http://mykingtv.net:2082/live/zaki880/8890/7517.m3u8
+RedBull Tv	http://mykingtv.net:2082/live/zaki880/8890/7186.m3u8
+UFC Fight	http://mykingtv.net:2082/live/zaki880/8890/7187.m3u8
+MUTV(B)	http://mykingtv.net:2082/live/zaki880/8890/7271.m3u8
+LiverPool Fc	http://mykingtv.net:2082/live/zaki880/8890/7218.m3u8
+Era FM	http://mykingtv.net:2082/live/zaki880/8890/1290.m3u8
+Hot FM	http://mykingtv.net:2082/live/zaki880/8890/1291.m3u8
+Sinar FM	http://mykingtv.net:2082/live/zaki880/8890/1293.m3u8
+Dunia Lain	http://mykingtv.net:2082/live/zaki880/8890/8264.m3u8
+MY: Aniplus FHD	http://mykingtv.net:2082/live/zaki880/8890/5278.m3u8
+MY: TV 1 [B]	http://mykingtv.net:2082/live/zaki880/8890/8428.m3u8
+MY: TV 2 [A]	http://mykingtv.net:2082/live/zaki880/8890/8429.m3u8
+MY: TV 2 [B]	http://mykingtv.net:2082/live/zaki880/8890/8430.m3u8
+MY: TV 3 [A]	http://mykingtv.net:2082/live/zaki880/8890/8431.m3u8
+MY: TV 3 [B]	http://mykingtv.net:2082/live/zaki880/8890/8432.m3u8
+MY: NTV 7 [A]	http://mykingtv.net:2082/live/zaki880/8890/8434.m3u8
+MY: Tv 8 [A]	http://mykingtv.net:2082/live/zaki880/8890/8436.m3u8
+MY: Tv 9 [A]	http://mykingtv.net:2082/live/zaki880/8890/8438.m3u8
+MY: Tv 9 [B]	http://mykingtv.net:2082/live/zaki880/8890/8439.m3u8
+MY: Awesome TV-REPAIRING	http://mykingtv.net:2082/live/zaki880/8890/8442.m3u8
+MY: Astro Ria [A]	http://mykingtv.net:2082/live/zaki880/8890/8444.m3u8
+MY: Astro Ria [B]	http://mykingtv.net:2082/live/zaki880/8890/8445.m3u8
+MY: Astro Prima [A]	http://mykingtv.net:2082/live/zaki880/8890/8446.m3u8
+MY: Astro Prima [B]	http://mykingtv.net:2082/live/zaki880/8890/8447.m3u8
+MY: Astro Warna [A]	http://mykingtv.net:2082/live/zaki880/8890/8448.m3u8
+MY: Astro Warna [B]	http://mykingtv.net:2082/live/zaki880/8890/8449.m3u8
+MY: Astro Oasis [A]	http://mykingtv.net:2082/live/zaki880/8890/8451.m3u8
+MY: Astro Oasis [B]	http://mykingtv.net:2082/live/zaki880/8890/8452.m3u8
+MY: Astro Citra [A]	http://mykingtv.net:2082/live/zaki880/8890/8453.m3u8
+MY: Astro Citra [B]	http://mykingtv.net:2082/live/zaki880/8890/8454.m3u8
+MY: Astro Rania	http://mykingtv.net:2082/live/zaki880/8890/8455.m3u8
+MY: Astro Aura	http://mykingtv.net:2082/live/zaki880/8890/8456.m3u8
+MY: Astro BOO	http://mykingtv.net:2082/live/zaki880/8890/8457.m3u8
+MY: TVS	http://mykingtv.net:2082/live/zaki880/8890/8458.m3u8
+MY: K+	http://mykingtv.net:2082/live/zaki880/8890/8467.m3u8
+MY: ONE HD	http://mykingtv.net:2082/live/zaki880/8890/8468.m3u8
+MY: iQIYI	http://mykingtv.net:2082/live/zaki880/8890/8469.m3u8
+MY: GO SHOP 120 Gaya	http://mykingtv.net:2082/live/zaki880/8890/8471.m3u8
+MY: GO SHOP HD	http://mykingtv.net:2082/live/zaki880/8890/8472.m3u8
+MY: Bernama	http://mykingtv.net:2082/live/zaki880/8890/8474.m3u8
+MY: PARLIMEN RTM	http://mykingtv.net:2082/live/zaki880/8890/8475.m3u8
+MY:TLC	http://mykingtv.net:2082/live/zaki880/8890/8476.m3u8
+MY:RTB GO	http://mykingtv.net:2082/live/zaki880/8890/8477.m3u8
+MY:IKIM	http://mykingtv.net:2082/live/zaki880/8890/8478.m3u8
+MY: Astro Awani	http://mykingtv.net:2082/live/zaki880/8890/8479.m3u8
+MY: TV ALHIJRAH	http://mykingtv.net:2082/live/zaki880/8890/8480.m3u8
+MY: Astro Aec(down)	http://mykingtv.net:2082/live/zaki880/8890/8483.m3u8
+MY: Astro Quanjia(down)	http://mykingtv.net:2082/live/zaki880/8890/8485.m3u8
+MY: Astro Hua Hee Dai	http://mykingtv.net:2082/live/zaki880/8890/8486.m3u8
+MY: TVBS News	http://mykingtv.net:2082/live/zaki880/8890/8489.m3u8
+MY: TVBJ	http://mykingtv.net:2082/live/zaki880/8890/8490.m3u8
+MY: TVB XING HE	http://mykingtv.net:2082/live/zaki880/8890/8491.m3u8
+MY: TVB CLASSIC	http://mykingtv.net:2082/live/zaki880/8890/8492.m3u8
+MY: CCTV4	http://mykingtv.net:2082/live/zaki880/8890/8498.m3u8
+ Vijay Tv	http://mykingtv.net:2082/live/zaki880/8890/8506.m3u8
+MY:Bein 3	http://mykingtv.net:2082/live/zaki880/8890/8413.m3u8
+MY:Bein Sports 1	http://mykingtv.net:2082/live/zaki880/8890/8414.m3u8
+MY: Astro Super Sport 1	http://mykingtv.net:2082/live/zaki880/8890/8416.m3u8
+MY: Astro Super Sport 2	http://mykingtv.net:2082/live/zaki880/8890/8417.m3u8
+MY: Astro Super Sport 3	http://mykingtv.net:2082/live/zaki880/8890/8418.m3u8
+MY: Astro Super Sport 4	http://mykingtv.net:2082/live/zaki880/8890/8419.m3u8
+MY: Astro Vaanavil	http://mykingtv.net:2082/live/zaki880/8890/5175.m3u8
+MY: Colors HD	http://mykingtv.net:2082/live/zaki880/8890/5179.m3u8
+SG: Channel 5	http://mykingtv.net:2082/live/zaki880/8890/8507.m3u8
+SG: Channel 8	http://mykingtv.net:2082/live/zaki880/8890/8508.m3u8
+SG: Channel U	http://mykingtv.net:2082/live/zaki880/8890/8509.m3u8
+SG: Suria	http://mykingtv.net:2082/live/zaki880/8890/8510.m3u8
+SG: Vasantham	http://mykingtv.net:2082/live/zaki880/8890/8511.m3u8
+SG: CNA	http://mykingtv.net:2082/live/zaki880/8890/8512.m3u8
+Food Network	http://mykingtv.net:2082/live/zaki880/8890/8635.m3u8
+ Disney Jr	http://mykingtv.net:2082/live/zaki880/8890/5284.m3u8
+ Disney Channel	http://mykingtv.net:2082/live/zaki880/8890/5283.m3u8
+Disney XD HD	http://mykingtv.net:2082/live/zaki880/8890/8647.m3u8
+MY: Astro Super Sport 5	http://mykingtv.net:2082/live/zaki880/8890/8649.m3u8
+Spotv	http://mykingtv.net:2082/live/zaki880/8890/8650.m3u8
+Al Quran Al Kareem (Mecca)	http://mykingtv.net:2082/live/zaki880/8890/8654.m3u8
+Al Sunnah (Medina)	http://mykingtv.net:2082/live/zaki880/8890/8655.m3u8
+Makkah TV	http://mykingtv.net:2082/live/zaki880/8890/8656.m3u8
+MY:Arena 2	http://mykingtv.net:2082/live/zaki880/8890/8648.m3u8
+BEIN SPORT 1 ID 60FPS FHD	http://mykingtv.net:2082/live/zaki880/8890/8651.m3u8
+BEIN SPORT 2 ID 60FPS FHD	http://mykingtv.net:2082/live/zaki880/8890/8652.m3u8
+[001] Surah Al-Fatihah (Pembukaan)	http://mykingtv.net:2082/live/zaki880/8890/8716.m3u8
+[002] Surah Al-Baqarah 	http://mykingtv.net:2082/live/zaki880/8890/8717.m3u8
+[003] Surah Ali 'Imran (Keluarga Imran)	http://mykingtv.net:2082/live/zaki880/8890/8718.m3u8
+[004] Surah An-Nisaa' (Wanita)	http://mykingtv.net:2082/live/zaki880/8890/8719.m3u8
+[005] Surah Al-Maa'idah (Hidangan)	http://mykingtv.net:2082/live/zaki880/8890/8720.m3u8
+[006] Surah Al-An'aam 	http://mykingtv.net:2082/live/zaki880/8890/8721.m3u8
+[007] Surah Al-A'raaf (Tempat Tertinggi)	http://mykingtv.net:2082/live/zaki880/8890/8722.m3u8
+[008] Surah Al-Anfaal (Rampasan Perang)	http://mykingtv.net:2082/live/zaki880/8890/8723.m3u8
+[009] Surah At-Taubah (Pengampunan)	http://mykingtv.net:2082/live/zaki880/8890/8724.m3u8
+[010] Surah Yunus (Nabi Yunus a.s.)	http://mykingtv.net:2082/live/zaki880/8890/8725.m3u8
+[011] Surah Hud (Nabi Hud a.s.)	http://mykingtv.net:2082/live/zaki880/8890/8726.m3u8
+[012] Surah Yusuf (Nabi Yusuf a.s.)	http://mykingtv.net:2082/live/zaki880/8890/8727.m3u8
+[013] Surah Ar-Ra'd (Guruh)	http://mykingtv.net:2082/live/zaki880/8890/8728.m3u8
+[014] Surah Ibrahim (Nabi Ibrahim a.	http://mykingtv.net:2082/live/zaki880/8890/8729.m3u8
+[015] Surah Al-Hijr (Kawasan Berbatu)	http://mykingtv.net:2082/live/zaki880/8890/8730.m3u8
+[016] Surah An-Nahl 	http://mykingtv.net:2082/live/zaki880/8890/8731.m3u8
+[017] Surah Al-Israa' (Perjalanan Malam)	http://mykingtv.net:2082/live/zaki880/8890/8732.m3u8
+[018] Surah Al-Kahfi (Gua)	http://mykingtv.net:2082/live/zaki880/8890/8733.m3u8
+[019] Surah Maryam (Siti Maryam)	http://mykingtv.net:2082/live/zaki880/8890/8734.m3u8
+[020] Surah Taahaa	http://mykingtv.net:2082/live/zaki880/8890/8735.m3u8
+[021] Surah Al-Anbiyaa' (Para Nabi)	http://mykingtv.net:2082/live/zaki880/8890/8736.m3u8
+[022] Surah Al-Hajj (Haji)	http://mykingtv.net:2082/live/zaki880/8890/8737.m3u8
+[023] Surah Al-Mu'minun (Orang-Orang Mukmin)	http://mykingtv.net:2082/live/zaki880/8890/8738.m3u8
+[024] Surah An-Nur (Cahaya)	http://mykingtv.net:2082/live/zaki880/8890/8739.m3u8
+[025] Surah Al-Furqaan (Pembeda)	http://mykingtv.net:2082/live/zaki880/8890/8740.m3u8
+[026] Surah Asy-Syu'ara' (Para Penyair)	http://mykingtv.net:2082/live/zaki880/8890/8741.m3u8
+[027] Surah An-Naml 	http://mykingtv.net:2082/live/zaki880/8890/8742.m3u8
+[028] Surah Al-Qasas (Cerita-cerita)	http://mykingtv.net:2082/live/zaki880/8890/8743.m3u8
+[029] Surah Al-'Ankabut 	http://mykingtv.net:2082/live/zaki880/8890/8744.m3u8
+[030] Surah Ar-Rum (Bangsa Rom)	http://mykingtv.net:2082/live/zaki880/8890/8745.m3u8
+[031] Surah Luqman (Luqman)	http://mykingtv.net:2082/live/zaki880/8890/8746.m3u8
+[032] Surah As-Sajdah (Sujud)	http://mykingtv.net:2082/live/zaki880/8890/8747.m3u8
+[033] Surah Al-Ahzab (Golongan yang Bersekutu)	http://mykingtv.net:2082/live/zaki880/8890/8748.m3u8
+[034] Surah Saba' (Kaum Saba')	http://mykingtv.net:2082/live/zaki880/8890/8749.m3u8
+[035] Surah Faatir (Pencipta)	http://mykingtv.net:2082/live/zaki880/8890/8750.m3u8
+[036] Surah Yaasin	http://mykingtv.net:2082/live/zaki880/8890/8751.m3u8
+[037] Surah As-Saffat (Barisan-Barisan)	http://mykingtv.net:2082/live/zaki880/8890/8752.m3u8
+[038] Surah Saad	http://mykingtv.net:2082/live/zaki880/8890/8753.m3u8
+[039] Surah Az-Zumar (Rombongan)	http://mykingtv.net:2082/live/zaki880/8890/8754.m3u8
+[040] Surah Fussilat (Dijelaskan)	http://mykingtv.net:2082/live/zaki880/8890/8755.m3u8
+[041] Surah Fussilat (Dijelaskan)	http://mykingtv.net:2082/live/zaki880/8890/8756.m3u8
+[042] Surah Asy-Syuraa (Permesyuaratan)	http://mykingtv.net:2082/live/zaki880/8890/8757.m3u8
+[043] Surah Az-Zukhruf (Perhiasan Emas)	http://mykingtv.net:2082/live/zaki880/8890/8758.m3u8
+[044] Surah Ad-Dukhan (Kabut)	http://mykingtv.net:2082/live/zaki880/8890/8759.m3u8
+[045] Surah Al-Jatsiyah (Yang Berlutut)	http://mykingtv.net:2082/live/zaki880/8890/8760.m3u8
+[046] Surah Al-Ahqaaf (Bukit-bukit Pasir)	http://mykingtv.net:2082/live/zaki880/8890/8761.m3u8
+[047] Surah Muhammad (Nabi Muhammad SAW)	http://mykingtv.net:2082/live/zaki880/8890/8762.m3u8
+[048] Surah Al-Fath (Kemenangan)	http://mykingtv.net:2082/live/zaki880/8890/8763.m3u8
+[049] Surah Al-Hujurat (Bilik-bilik)	http://mykingtv.net:2082/live/zaki880/8890/8764.m3u8
+[050] Surah Qaaf	http://mykingtv.net:2082/live/zaki880/8890/8765.m3u8
+[051] Surah Adz-Dzariyaat (Angin yang Menerbangkan)	http://mykingtv.net:2082/live/zaki880/8890/8766.m3u8
+[052] Surah At-Tur (Bukit)	http://mykingtv.net:2082/live/zaki880/8890/8767.m3u8
+[053] Surah An-Najm 	http://mykingtv.net:2082/live/zaki880/8890/8768.m3u8
+[054] Surah Al-Qamar (Bulan)	http://mykingtv.net:2082/live/zaki880/8890/8769.m3u8
+[055] Surah Ar-Rahman (Yang Maha Pemurah)	http://mykingtv.net:2082/live/zaki880/8890/8770.m3u8
+[056] Surah Al-Waqi'ah (Hari Kiamat)	http://mykingtv.net:2082/live/zaki880/8890/8771.m3u8
+[057] Surah Al-Hadid (Besi)	http://mykingtv.net:2082/live/zaki880/8890/8772.m3u8
+[058] Surah Al-Mujadilah (Perempuan yang Merayu)	http://mykingtv.net:2082/live/zaki880/8890/8773.m3u8
+[059] Surah Al-Hasyr (Pengusiran)	http://mykingtv.net:2082/live/zaki880/8890/8774.m3u8
+[060] Surah Al-Mumtahanah (Perempuan yang Diuji)	http://mykingtv.net:2082/live/zaki880/8890/8775.m3u8
+[061] Surah As-Saf (Barisan)	http://mykingtv.net:2082/live/zaki880/8890/8776.m3u8
+[062] Surah Al-Jumu'ah (Hari Jumaat)	http://mykingtv.net:2082/live/zaki880/8890/8777.m3u8
+[063] Surah Al-Munafiquun (Golongan Munafik)	http://mykingtv.net:2082/live/zaki880/8890/8778.m3u8
+[064] Surah At-Taghabun (Dinampakkan Kesalahan)	http://mykingtv.net:2082/live/zaki880/8890/8779.m3u8
+[065] Surah At-Talaq	http://mykingtv.net:2082/live/zaki880/8890/8780.m3u8
+[066] Surah At-Tahrim (Mengharamkan)	http://mykingtv.net:2082/live/zaki880/8890/8781.m3u8
+[067] Surah Al-Mulk (Kerajaan)	http://mykingtv.net:2082/live/zaki880/8890/8782.m3u8
+[068] Surah Al-Qalam (Pena / Kalam)	http://mykingtv.net:2082/live/zaki880/8890/8783.m3u8
+[069] Surah Al-Haaqqah (Keadaan Sebenar / Hari Kiamat)	http://mykingtv.net:2082/live/zaki880/8890/8784.m3u8
+[070] Surah Al-Maâarij (Tempat Naik)	http://mykingtv.net:2082/live/zaki880/8890/8785.m3u8
+[071] Surah Nuh (Nabi Nuh a.s.)	http://mykingtv.net:2082/live/zaki880/8890/8786.m3u8
+[072] Surah Al-Jinn (Jin)	http://mykingtv.net:2082/live/zaki880/8890/8787.m3u8
+[073] Surah Al-Muzammil (Yang Berselimut)	http://mykingtv.net:2082/live/zaki880/8890/8788.m3u8
+[074] Surah Al-Muddathir (Yang Berselubung)	http://mykingtv.net:2082/live/zaki880/8890/8789.m3u8
+[075] Surah Al-Qiyaamah (Hari Kebangkitan / Kiamat)	http://mykingtv.net:2082/live/zaki880/8890/8790.m3u8
+[076] Surah Al-Insan (Manusia)	http://mykingtv.net:2082/live/zaki880/8890/8791.m3u8
+[077] Surah Al-Mursalat (Malaikat Yang Diutus)	http://mykingtv.net:2082/live/zaki880/8890/8792.m3u8
+[078] Surah An-Naba' (Berita Besar)	http://mykingtv.net:2082/live/zaki880/8890/8793.m3u8
+[079] Surah An-Naazi'aat (Malaikat Yang Mencabut)	http://mykingtv.net:2082/live/zaki880/8890/8794.m3u8
+[080] Surah 'Abasa (Dia Bermasam Muka)	http://mykingtv.net:2082/live/zaki880/8890/8795.m3u8
+[081] Surah At-Takwiir (Menggulung)	http://mykingtv.net:2082/live/zaki880/8890/8796.m3u8
+[082] Surah Al-Infitar (Terbelah)	http://mykingtv.net:2082/live/zaki880/8890/8797.m3u8
+[083] Surah Al-Mutaffifiin (Golongan yang Curang)	http://mykingtv.net:2082/live/zaki880/8890/8798.m3u8
+[084] Surah Al-Insyiqaaq (Terbelah)	http://mykingtv.net:2082/live/zaki880/8890/8799.m3u8
+[085] Surah Al-Buruj 	http://mykingtv.net:2082/live/zaki880/8890/8800.m3u8
+[086] Surah At-Taariq (Pengunjung Malam)	http://mykingtv.net:2082/live/zaki880/8890/8801.m3u8
+[087] Surah Al-A'la (Maha Tinggi)	http://mykingtv.net:2082/live/zaki880/8890/8802.m3u8
+[088] Surah Al-Ghaasyiah (Peristiwa Menggelisahkan/Hari Pembalasan)	http://mykingtv.net:2082/live/zaki880/8890/8803.m3u8
+[089] Surah Al-Fajr (Fajar / Sinar Mentari)	http://mykingtv.net:2082/live/zaki880/8890/8804.m3u8
+[090] Surah Al-Balad (Negeri)	http://mykingtv.net:2082/live/zaki880/8890/8805.m3u8
+[091] Surah Asy-Syams (Matahari)	http://mykingtv.net:2082/live/zaki880/8890/8806.m3u8
+[092] Surah Al-Lail (Malam)	http://mykingtv.net:2082/live/zaki880/8890/8807.m3u8
+[093] Surah Adh-Dhuha (Pagi yang Cemerlang / Matahari Meninggi)	http://mykingtv.net:2082/live/zaki880/8890/8808.m3u8
+[094] Surah Al-Insyirah/An-Nasyrah (Melapangkan)	http://mykingtv.net:2082/live/zaki880/8890/8809.m3u8
+[095] Surah At-Tin (Buah Tin / Buah Ara)	http://mykingtv.net:2082/live/zaki880/8890/8810.m3u8
+[096] Surah Al-'Alaq (Segumpal Darah)	http://mykingtv.net:2082/live/zaki880/8890/8811.m3u8
+[097] Surah Al-Qadr (Kemuliaan)	http://mykingtv.net:2082/live/zaki880/8890/8812.m3u8
+[098] Surah Al-Baiyinah (Bukti yang Nyata)	http://mykingtv.net:2082/live/zaki880/8890/8813.m3u8
+[099] Surah Al-Zalzalah (Kegoncangan)	http://mykingtv.net:2082/live/zaki880/8890/8814.m3u8
+[100] Surah Al-'Aadiyaat (Yang Berlari Kencang)	http://mykingtv.net:2082/live/zaki880/8890/8815.m3u8
+[101] Surah Al-Qari'ah (Hari Yang Hingar Bingar/kiamat)	http://mykingtv.net:2082/live/zaki880/8890/8816.m3u8
+[102] Surah At-Takathur (Bermegah-Megah)	http://mykingtv.net:2082/live/zaki880/8890/8817.m3u8
+[103] Surah Al-'Asr (Masa)	http://mykingtv.net:2082/live/zaki880/8890/8818.m3u8
+[104] Surah Al-Humazah (Pengumpat)	http://mykingtv.net:2082/live/zaki880/8890/8819.m3u8
+[105] Surah Al-Fil 	http://mykingtv.net:2082/live/zaki880/8890/8820.m3u8
+[106] Surah Quraisy (Kaum Quraisy)	http://mykingtv.net:2082/live/zaki880/8890/8821.m3u8
+[111] Surah Al-Masad / Al-Lahab (Nyalaan Api)	http://mykingtv.net:2082/live/zaki880/8890/8822.m3u8
+[112] Surah Al-Ikhlas (Tulus Ikhlas / Memurnikan Keesaan Allah)	http://mykingtv.net:2082/live/zaki880/8890/8823.m3u8
+[113] Surah Al-Falaq (Waktu Subuh / Dinihari)	http://mykingtv.net:2082/live/zaki880/8890/8824.m3u8
+[114] Surah An-Naas (Manusia)	http://mykingtv.net:2082/live/zaki880/8890/8825.m3u8
+SAUDI QURAN TV	http://mykingtv.net:2082/live/zaki880/8890/8840.m3u8
+SAUDI QURAN TV (Intech)	http://mykingtv.net:2082/live/zaki880/8890/8841.m3u8
+INSAN TV	http://mykingtv.net:2082/live/zaki880/8890/8849.m3u8
+AL IMAN TV (Intech)	http://mykingtv.net:2082/live/zaki880/8890/8851.m3u8
+WESAL TV	http://mykingtv.net:2082/live/zaki880/8890/8852.m3u8
+WESAL TV (Intech)	http://mykingtv.net:2082/live/zaki880/8890/8853.m3u8
+SURAU TV (Intech)	http://mykingtv.net:2082/live/zaki880/8890/8855.m3u8
+AHSAN TV	http://mykingtv.net:2082/live/zaki880/8890/8856.m3u8
+NIAGA TV (Intech)	http://mykingtv.net:2082/live/zaki880/8890/8858.m3u8
+ASHIIL TV (Intech)	http://mykingtv.net:2082/live/zaki880/8890/8860.m3u8
+binbaz TV	http://mykingtv.net:2082/live/zaki880/8890/8861.m3u8
+Muadz TV	http://mykingtv.net:2082/live/zaki880/8890/8862.m3u8
+Muadz TV (Intech)	http://mykingtv.net:2082/live/zaki880/8890/8863.m3u8
+RadioKita TV	http://mykingtv.net:2082/live/zaki880/8890/8864.m3u8
+Hijrah TV	http://mykingtv.net:2082/live/zaki880/8890/8865.m3u8
+RIFQAN TV	http://mykingtv.net:2082/live/zaki880/8890/8866.m3u8
+Al Furqon TV	http://mykingtv.net:2082/live/zaki880/8890/8867.m3u8
+Rasyaad TV	http://mykingtv.net:2082/live/zaki880/8890/8869.m3u8
+MGI TV	http://mykingtv.net:2082/live/zaki880/8890/8870.m3u8
+IZZAH TV	http://mykingtv.net:2082/live/zaki880/8890/8871.m3u8
+IZZAH TV 2	http://mykingtv.net:2082/live/zaki880/8890/8872.m3u8
+IZZAH TV (Intech)	http://mykingtv.net:2082/live/zaki880/8890/8873.m3u8
+Salam TV	http://mykingtv.net:2082/live/zaki880/8890/8875.m3u8
+Sunnah TV	http://mykingtv.net:2082/live/zaki880/8890/8876.m3u8
+Media Sunnah Aceh	http://mykingtv.net:2082/live/zaki880/8890/8878.m3u8
+RTV Rwanda	http://mykingtv.net:2082/live/zaki880/8890/8926.m3u8
+RTV Rwanda (576p)	http://mykingtv.net:2082/live/zaki880/8890/8927.m3u8
+Bloomberg TV EMEA Live Event (720p)	http://mykingtv.net:2082/live/zaki880/8890/8928.m3u8
+Bloomberg TV Asia (720p)	http://mykingtv.net:2082/live/zaki880/8890/8929.m3u8
+Bloomberg TV Asia (720p)	http://mykingtv.net:2082/live/zaki880/8890/8930.m3u8
+Bloomberg TV Asia Live Event (720p)	http://mykingtv.net:2082/live/zaki880/8890/8931.m3u8
+Channel V	http://mykingtv.net:2082/live/zaki880/8890/8932.m3u8
+Bloomberg TV EMEA Live Event (720p)	http://mykingtv.net:2082/live/zaki880/8890/8933.m3u8
+Bloomberg TV Europe (2160p)	http://mykingtv.net:2082/live/zaki880/8890/8934.m3u8
+Bloomberg TV Europe (720p)	http://mykingtv.net:2082/live/zaki880/8890/8935.m3u8
+Bloomberg TV Europe (720p)	http://mykingtv.net:2082/live/zaki880/8890/8936.m3u8
+MTV Hits Europe (576p)	http://mykingtv.net:2082/live/zaki880/8890/8937.m3u8
+San Marino RTV (720p)	http://mykingtv.net:2082/live/zaki880/8890/8938.m3u8
+San Marino RTV Sport (240p)	http://mykingtv.net:2082/live/zaki880/8890/8939.m3u8
+22 TV	http://mykingtv.net:2082/live/zaki880/8890/8940.m3u8
+3eesh Al Aan TV	http://mykingtv.net:2082/live/zaki880/8890/8941.m3u8
+Abu Dhabi Drama (1080p)	http://mykingtv.net:2082/live/zaki880/8890/8942.m3u8
+Abu Dhabi Sports 1 (1080p)	http://mykingtv.net:2082/live/zaki880/8890/8943.m3u8
+Abu Dhabi Sports 4 (1080p) [Geo-blocked]	http://mykingtv.net:2082/live/zaki880/8890/8944.m3u8
+Africa TV2 (720p)	http://mykingtv.net:2082/live/zaki880/8890/8945.m3u8
+Africa TV3 (720p)	http://mykingtv.net:2082/live/zaki880/8890/8946.m3u8
+Ahlu Al Quran TV (720p)	http://mykingtv.net:2082/live/zaki880/8890/8947.m3u8
+Al Arabiya (1080p)	http://mykingtv.net:2082/live/zaki880/8890/8948.m3u8
+Al Ekhbariya (1080p)	http://mykingtv.net:2082/live/zaki880/8890/8949.m3u8
+AL HOKAIR Group TV	http://mykingtv.net:2082/live/zaki880/8890/8950.m3u8
+like Gecko) Mobile/15E148	http://mykingtv.net:2082/live/zaki880/8890/8951.m3u8
+Al Jazeera Arabic (1080p)	http://mykingtv.net:2082/live/zaki880/8890/8952.m3u8
+Al Jazeera Documentary (576p)	http://mykingtv.net:2082/live/zaki880/8890/8953.m3u8
+Al Jazeera Documentary (1080p) [Geo-blocked]	http://mykingtv.net:2082/live/zaki880/8890/8954.m3u8
+Al Jazeera Mubasher (1080p)	http://mykingtv.net:2082/live/zaki880/8890/8955.m3u8
+Al Khalij (1080p)	http://mykingtv.net:2082/live/zaki880/8890/8956.m3u8
+Al Khalij TV	http://mykingtv.net:2082/live/zaki880/8890/8957.m3u8
+Al Qamar TV (360p)	http://mykingtv.net:2082/live/zaki880/8890/8958.m3u8
+Al Quran Al Kareem TV	http://mykingtv.net:2082/live/zaki880/8890/8959.m3u8
+Al Quran Al Kareem TV (Mecca) (720p)	http://mykingtv.net:2082/live/zaki880/8890/8960.m3u8
+Al Quran Al Kareem TV (Mecca) (360p)	http://mykingtv.net:2082/live/zaki880/8890/8961.m3u8
+Al Quran Al Kareem TV (Mecca) (1080p)	http://mykingtv.net:2082/live/zaki880/8890/8962.m3u8
+Al Saudiya (360p)	http://mykingtv.net:2082/live/zaki880/8890/8963.m3u8
+Al Saudiya (1080p)	http://mykingtv.net:2082/live/zaki880/8890/8964.m3u8
+Al Sunnah Al Nabawiyah TV (Medina)	http://mykingtv.net:2082/live/zaki880/8890/8965.m3u8
+Al Sunnah Al Nabawiyah TV (Medina) (360p)	http://mykingtv.net:2082/live/zaki880/8890/8966.m3u8
+Al Sunnah Al Nabawiyah TV (Medina) (1080p)	http://mykingtv.net:2082/live/zaki880/8890/8967.m3u8
+Al-Resalah (1080p) [Geo-blocked]	http://mykingtv.net:2082/live/zaki880/8890/8968.m3u8
+Al-Resalah (1080p)	http://mykingtv.net:2082/live/zaki880/8890/8969.m3u8
+Alaraby TV (1080p)	http://mykingtv.net:2082/live/zaki880/8890/8970.m3u8
+Alhiwar TV (1080p)	http://mykingtv.net:2082/live/zaki880/8890/8971.m3u8
+Asharq (1280p) [Portrait]	http://mykingtv.net:2082/live/zaki880/8890/8972.m3u8
+Asharq (1080p)	http://mykingtv.net:2082/live/zaki880/8890/8973.m3u8
+Atfal Wa Mawaheb	http://mykingtv.net:2082/live/zaki880/8890/8974.m3u8
+BBC Arabic (720p)	http://mykingtv.net:2082/live/zaki880/8890/8975.m3u8
+BBC Arabic (540p)	http://mykingtv.net:2082/live/zaki880/8890/8976.m3u8
+Beity	http://mykingtv.net:2082/live/zaki880/8890/8977.m3u8
+Bloomberg TV EMEA Live Event (720p)	http://mykingtv.net:2082/live/zaki880/8890/8978.m3u8
+Cartoon Network Arabic (1080p)	http://mykingtv.net:2082/live/zaki880/8890/8979.m3u8
+Dubai One (1080p)	http://mykingtv.net:2082/live/zaki880/8890/8980.m3u8
+DW Arabic (400p)	http://mykingtv.net:2082/live/zaki880/8890/8981.m3u8
+EN TV	http://mykingtv.net:2082/live/zaki880/8890/8982.m3u8
+France 24 Arabic (1080p)	http://mykingtv.net:2082/live/zaki880/8890/8983.m3u8
+France 24 Arabic (576p)	http://mykingtv.net:2082/live/zaki880/8890/8984.m3u8
+Iqraa	http://mykingtv.net:2082/live/zaki880/8890/8985.m3u8
+Iqraa (576p)	http://mykingtv.net:2082/live/zaki880/8890/8986.m3u8
+Iqraa Europe	http://mykingtv.net:2082/live/zaki880/8890/8987.m3u8
+Iqraa Europe Africa (576p)	http://mykingtv.net:2082/live/zaki880/8890/8988.m3u8
+Iqraa Int'l (KSA) [EN]	http://mykingtv.net:2082/live/zaki880/8890/8989.m3u8
+Jasco Events TV	http://mykingtv.net:2082/live/zaki880/8890/8990.m3u8
+Kaif TV	http://mykingtv.net:2082/live/zaki880/8890/8991.m3u8
+KSA Sports +1	http://mykingtv.net:2082/live/zaki880/8890/8992.m3u8
+KSA Sports 1	http://mykingtv.net:2082/live/zaki880/8890/8993.m3u8
+KSA Sports 2	http://mykingtv.net:2082/live/zaki880/8890/8994.m3u8
+Makkah TV (480p)	http://mykingtv.net:2082/live/zaki880/8890/8995.m3u8
+Makkah TV	http://mykingtv.net:2082/live/zaki880/8890/8996.m3u8
+MBC 1 KSA (1080p)	http://mykingtv.net:2082/live/zaki880/8890/8997.m3u8
+MBC 1 USA (1080p)	http://mykingtv.net:2082/live/zaki880/8890/8998.m3u8
+MBC 2 (1080p)	http://mykingtv.net:2082/live/zaki880/8890/8999.m3u8
+MBC 3 (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9000.m3u8
+MBC 3 EUR (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9001.m3u8
+MBC 3 USA (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9002.m3u8
+MBC 4 (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9003.m3u8
+MBC Action (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9004.m3u8
+MBC Bollywood (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9005.m3u8
+MBC Drama KSA (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9006.m3u8
+MBC Drama USA (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9007.m3u8
+MBC FM (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9008.m3u8
+MBC Max (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9009.m3u8
+MBC Plus Drama (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9010.m3u8
+Mekka tv (480p)	http://mykingtv.net:2082/live/zaki880/8890/9011.m3u8
+Minbij TV	http://mykingtv.net:2082/live/zaki880/8890/9012.m3u8
+National Geographic Abu Dhabi (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9013.m3u8
+Panorama FM (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9014.m3u8
+Quran TV	http://mykingtv.net:2082/live/zaki880/8890/9015.m3u8
+Rotana Cinema HD (1080p) [Geo-blocked]	http://mykingtv.net:2082/live/zaki880/8890/9016.m3u8
+Rotana Cinema HD (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9017.m3u8
+Rotana Cinema HD KSA (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9018.m3u8
+Rotana Classic HD (1080p) [Geo-blocked]	http://mykingtv.net:2082/live/zaki880/8890/9019.m3u8
+Rotana Classic HD (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9020.m3u8
+Rotana Comedy HD (1080p) [Geo-blocked]	http://mykingtv.net:2082/live/zaki880/8890/9021.m3u8
+Rotana Drama HD (1080p) [Geo-blocked]	http://mykingtv.net:2082/live/zaki880/8890/9022.m3u8
+Rotana Drama HD (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9023.m3u8
+Rotana Khalijia HD (1080p) [Geo-blocked]	http://mykingtv.net:2082/live/zaki880/8890/9024.m3u8
+Rotana Khalijia HD (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9025.m3u8
+Rotana Kids (1080p) [Geo-blocked]	http://mykingtv.net:2082/live/zaki880/8890/9026.m3u8
+Rotana Kids (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9027.m3u8
+Rotana Music (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9028.m3u8
+Rotana+ (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9029.m3u8
+RT Arabic (720p)	http://mykingtv.net:2082/live/zaki880/8890/9030.m3u8
+SAT-7 ARABIC (720p)	http://mykingtv.net:2082/live/zaki880/8890/9031.m3u8
+SAT-7 KIDS (720p)	http://mykingtv.net:2082/live/zaki880/8890/9032.m3u8
+SBC (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9033.m3u8
+Sky News Arabia (720p)	http://mykingtv.net:2082/live/zaki880/8890/9034.m3u8
+Spacetoon	http://mykingtv.net:2082/live/zaki880/8890/9035.m3u8
+Thikrayat TV (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9036.m3u8
+TRT Arabi (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9037.m3u8
+Wanasah (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9038.m3u8
+ZAD TV	http://mykingtv.net:2082/live/zaki880/8890/9039.m3u8
+A2i Music	http://mykingtv.net:2082/live/zaki880/8890/9040.m3u8
+A2i Naja	http://mykingtv.net:2082/live/zaki880/8890/9041.m3u8
+A2i Religion	http://mykingtv.net:2082/live/zaki880/8890/9042.m3u8
+A2i TV	http://mykingtv.net:2082/live/zaki880/8890/9043.m3u8
+Bloomberg TV EMEA Live Event (720p)	http://mykingtv.net:2082/live/zaki880/8890/9044.m3u8
+Al Jazeera Balkans (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9045.m3u8
+Bloomberg TV EMEA Live Event (720p)	http://mykingtv.net:2082/live/zaki880/8890/9046.m3u8
+Bloomberg TV Europe (2160p)	http://mykingtv.net:2082/live/zaki880/8890/9047.m3u8
+Bloomberg TV Europe (720p)	http://mykingtv.net:2082/live/zaki880/8890/9048.m3u8
+Bloomberg TV Europe (720p)	http://mykingtv.net:2082/live/zaki880/8890/9049.m3u8
+Kurir TV (720p)	http://mykingtv.net:2082/live/zaki880/8890/9050.m3u8
+Kurir TV (360p)	http://mykingtv.net:2082/live/zaki880/8890/9051.m3u8
+MTV Hits Europe (576p)	http://mykingtv.net:2082/live/zaki880/8890/9052.m3u8
+Muzzik AMVA 2020 (RS)	http://mykingtv.net:2082/live/zaki880/8890/9053.m3u8
+Muzzik Cafe&Club Serbia (720p)	http://mykingtv.net:2082/live/zaki880/8890/9054.m3u8
+Muzzik HipHop Serbia (720p)	http://mykingtv.net:2082/live/zaki880/8890/9055.m3u8
+Muzzik Jeka Serbia (720p)	http://mykingtv.net:2082/live/zaki880/8890/9056.m3u8
+Muzzik Mediteraneo Serbia (720p)	http://mykingtv.net:2082/live/zaki880/8890/9057.m3u8
+Muzzik OKK Serbia (720p)	http://mykingtv.net:2082/live/zaki880/8890/9058.m3u8
+Muzzik Replay Serbia (720p)	http://mykingtv.net:2082/live/zaki880/8890/9059.m3u8
+Muzzik Rock&Roll Serbia (720p)	http://mykingtv.net:2082/live/zaki880/8890/9060.m3u8
+Muzzik Saculatac Serbia (720p)	http://mykingtv.net:2082/live/zaki880/8890/9061.m3u8
+Muzzik TV Serbia (720p)	http://mykingtv.net:2082/live/zaki880/8890/9062.m3u8
+Muzzik Worldwide Serbia (720p)	http://mykingtv.net:2082/live/zaki880/8890/9063.m3u8
+Red TV (720p)	http://mykingtv.net:2082/live/zaki880/8890/9064.m3u8
+RTV 1	http://mykingtv.net:2082/live/zaki880/8890/9065.m3u8
+RTV 2	http://mykingtv.net:2082/live/zaki880/8890/9066.m3u8
+RTV AS (576p)	http://mykingtv.net:2082/live/zaki880/8890/9067.m3u8
+RTV City Ub (576p)	http://mykingtv.net:2082/live/zaki880/8890/9068.m3u8
+RTV Novi Pazar (576p)	http://mykingtv.net:2082/live/zaki880/8890/9069.m3u8
+TV Belle Amie (720p) [Not 24/7]	http://mykingtv.net:2082/live/zaki880/8890/9070.m3u8
+TV Duga Plus (480p)	http://mykingtv.net:2082/live/zaki880/8890/9071.m3u8
+TV Hram (576p)	http://mykingtv.net:2082/live/zaki880/8890/9072.m3u8
+TV Pi Canal Pirot (576p) [Not 24/7]	http://mykingtv.net:2082/live/zaki880/8890/9073.m3u8
+Bloomberg TV EMEA Live Event (720p)	http://mykingtv.net:2082/live/zaki880/8890/9074.m3u8
+AYV	http://mykingtv.net:2082/live/zaki880/8890/9075.m3u8
+Bloomberg TV EMEA Live Event (720p)	http://mykingtv.net:2082/live/zaki880/8890/9076.m3u8
+Bloomberg TV Asia (720p)	http://mykingtv.net:2082/live/zaki880/8890/9077.m3u8
+Bloomberg TV Asia (720p)	http://mykingtv.net:2082/live/zaki880/8890/9078.m3u8
+Bloomberg TV Asia Live Event (720p)	http://mykingtv.net:2082/live/zaki880/8890/9079.m3u8
+Celestial Movies (480p)	http://mykingtv.net:2082/live/zaki880/8890/9080.m3u8
+Channel V	http://mykingtv.net:2082/live/zaki880/8890/9081.m3u8
+CNA (576p)	http://mykingtv.net:2082/live/zaki880/8890/9082.m3u8
+CNA (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9083.m3u8
+CNA	http://mykingtv.net:2082/live/zaki880/8890/9084.m3u8
+CNA	http://mykingtv.net:2082/live/zaki880/8890/9085.m3u8
+妙米	http://mykingtv.net:2082/live/zaki880/8890/9086.m3u8
+Docurama (1080p) [Geo-blocked]	http://mykingtv.net:2082/live/zaki880/8890/9087.m3u8
+Docurama (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9088.m3u8
+Bloomberg TV EMEA Live Event (720p)	http://mykingtv.net:2082/live/zaki880/8890/9089.m3u8
+Bloomberg TV Europe (2160p)	http://mykingtv.net:2082/live/zaki880/8890/9090.m3u8
+Bloomberg TV Europe (720p)	http://mykingtv.net:2082/live/zaki880/8890/9091.m3u8
+Bloomberg TV Europe (720p)	http://mykingtv.net:2082/live/zaki880/8890/9092.m3u8
+BTV	http://mykingtv.net:2082/live/zaki880/8890/9093.m3u8
+Duck TV	http://mykingtv.net:2082/live/zaki880/8890/9094.m3u8
+Duck Tv (Denmark)	http://mykingtv.net:2082/live/zaki880/8890/9095.m3u8
+Duck Tv (Finland)	http://mykingtv.net:2082/live/zaki880/8890/9096.m3u8
+Duck Tv (Norway)	http://mykingtv.net:2082/live/zaki880/8890/9097.m3u8
+Duck TV (Spain)	http://mykingtv.net:2082/live/zaki880/8890/9098.m3u8
+FashionTV Czech&Slovak (450p)	http://mykingtv.net:2082/live/zaki880/8890/9099.m3u8
+JOJ	http://mykingtv.net:2082/live/zaki880/8890/9100.m3u8
+JOJ	http://mykingtv.net:2082/live/zaki880/8890/9101.m3u8
+JOJ Family	http://mykingtv.net:2082/live/zaki880/8890/9102.m3u8
+JOJ Family	http://mykingtv.net:2082/live/zaki880/8890/9103.m3u8
+JOJ HD	http://mykingtv.net:2082/live/zaki880/8890/9104.m3u8
+Košice:dnes (450p)	http://mykingtv.net:2082/live/zaki880/8890/9105.m3u8
+Life.tv (720p)	http://mykingtv.net:2082/live/zaki880/8890/9106.m3u8
+LocAll	http://mykingtv.net:2082/live/zaki880/8890/9107.m3u8
+MTV Hits Europe (576p)	http://mykingtv.net:2082/live/zaki880/8890/9108.m3u8
+Nove Zamky (486p)	http://mykingtv.net:2082/live/zaki880/8890/9109.m3u8
+Plus	http://mykingtv.net:2082/live/zaki880/8890/9110.m3u8
+Raj TV	http://mykingtv.net:2082/live/zaki880/8890/9111.m3u8
+Reduta (486p)	http://mykingtv.net:2082/live/zaki880/8890/9112.m3u8
+Retro Music TV (360p)	http://mykingtv.net:2082/live/zaki880/8890/9113.m3u8
+RetroMusicTV (360p)	http://mykingtv.net:2082/live/zaki880/8890/9114.m3u8
+RetroMusicTV	http://mykingtv.net:2082/live/zaki880/8890/9115.m3u8
+Rik	http://mykingtv.net:2082/live/zaki880/8890/9116.m3u8
+Senzi TV	http://mykingtv.net:2082/live/zaki880/8890/9117.m3u8
+Severka	http://mykingtv.net:2082/live/zaki880/8890/9118.m3u8
+Severka TV	http://mykingtv.net:2082/live/zaki880/8890/9119.m3u8
+Televizia OSEM (360p)	http://mykingtv.net:2082/live/zaki880/8890/9120.m3u8
+Televízia OSEM (576p)	http://mykingtv.net:2082/live/zaki880/8890/9121.m3u8
+TV DK	http://mykingtv.net:2082/live/zaki880/8890/9122.m3u8
+TV Jojko (540p)	http://mykingtv.net:2082/live/zaki880/8890/9123.m3u8
+TV Lux (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9124.m3u8
+TV Lux (360p)	http://mykingtv.net:2082/live/zaki880/8890/9125.m3u8
+TV Markíza	http://mykingtv.net:2082/live/zaki880/8890/9126.m3u8
+TV Nové Zámky (486p)	http://mykingtv.net:2082/live/zaki880/8890/9127.m3u8
+TV Nové Zámky	http://mykingtv.net:2082/live/zaki880/8890/9128.m3u8
+TV Poprad	http://mykingtv.net:2082/live/zaki880/8890/9129.m3u8
+TV Povazie	http://mykingtv.net:2082/live/zaki880/8890/9130.m3u8
+TV Reduta	http://mykingtv.net:2082/live/zaki880/8890/9131.m3u8
+TV Ružinov (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9132.m3u8
+TV Turzovka	http://mykingtv.net:2082/live/zaki880/8890/9133.m3u8
+WAU HD	http://mykingtv.net:2082/live/zaki880/8890/9134.m3u8
+Wau TV	http://mykingtv.net:2082/live/zaki880/8890/9135.m3u8
+Wau TV (540p)	http://mykingtv.net:2082/live/zaki880/8890/9136.m3u8
+Óčko (540p)	http://mykingtv.net:2082/live/zaki880/8890/9137.m3u8
+Óčko	http://mykingtv.net:2082/live/zaki880/8890/9138.m3u8
+Šlágr 2	http://mykingtv.net:2082/live/zaki880/8890/9139.m3u8
+Šlágr TV	http://mykingtv.net:2082/live/zaki880/8890/9140.m3u8
+Al Jazeera Balkans (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9141.m3u8
+Bloomberg TV EMEA Live Event (720p)	http://mykingtv.net:2082/live/zaki880/8890/9142.m3u8
+Bloomberg TV Europe (2160p)	http://mykingtv.net:2082/live/zaki880/8890/9143.m3u8
+Bloomberg TV Europe (720p)	http://mykingtv.net:2082/live/zaki880/8890/9144.m3u8
+Bloomberg TV Europe (720p)	http://mykingtv.net:2082/live/zaki880/8890/9145.m3u8
+GTV	http://mykingtv.net:2082/live/zaki880/8890/9146.m3u8
+MMC (720p)	http://mykingtv.net:2082/live/zaki880/8890/9147.m3u8
+MTV Hits Europe (576p)	http://mykingtv.net:2082/live/zaki880/8890/9148.m3u8
+TV KOPER (720p)	http://mykingtv.net:2082/live/zaki880/8890/9149.m3u8
+TV KOPER (720p)	http://mykingtv.net:2082/live/zaki880/8890/9150.m3u8
+TV MARIBOR (720p)	http://mykingtv.net:2082/live/zaki880/8890/9151.m3u8
+TV MARIBOR (720p)	http://mykingtv.net:2082/live/zaki880/8890/9152.m3u8
+TV SLOVENIJA 1 (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9153.m3u8
+TV SLOVENIJA 1 (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9154.m3u8
+TV SLOVENIJA 2 (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9155.m3u8
+TV SLOVENIJA 2 (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9156.m3u8
+TV SLOVENIJA 3 (720p)	http://mykingtv.net:2082/live/zaki880/8890/9157.m3u8
+TV SLOVENIJA 3 (720p)	http://mykingtv.net:2082/live/zaki880/8890/9158.m3u8
+Bloomberg TV Asia (720p)	http://mykingtv.net:2082/live/zaki880/8890/9159.m3u8
+Bloomberg TV Asia (720p)	http://mykingtv.net:2082/live/zaki880/8890/9160.m3u8
+Bloomberg TV Asia Live Event (720p)	http://mykingtv.net:2082/live/zaki880/8890/9161.m3u8
+Channel V	http://mykingtv.net:2082/live/zaki880/8890/9162.m3u8
+3eesh Al Aan TV	http://mykingtv.net:2082/live/zaki880/8890/9163.m3u8
+Abu Dhabi Drama (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9164.m3u8
+Abu Dhabi Sports 1 (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9165.m3u8
+Abu Dhabi Sports 4 (1080p) [Geo-blocked]	http://mykingtv.net:2082/live/zaki880/8890/9166.m3u8
+Al Arabiya (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9167.m3u8
+like Gecko) Mobile/15E148	http://mykingtv.net:2082/live/zaki880/8890/9168.m3u8
+Al Jazeera Arabic (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9169.m3u8
+Al Jazeera Documentary (576p)	http://mykingtv.net:2082/live/zaki880/8890/9170.m3u8
+Al Jazeera Documentary (1080p) [Geo-blocked]	http://mykingtv.net:2082/live/zaki880/8890/9171.m3u8
+Al Jazeera Mubasher (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9172.m3u8
+Al Qamar TV (360p)	http://mykingtv.net:2082/live/zaki880/8890/9173.m3u8
+Alaraby TV (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9174.m3u8
+Alhiwar TV (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9175.m3u8
+BBC Arabic (720p)	http://mykingtv.net:2082/live/zaki880/8890/9176.m3u8
+BBC Arabic (540p)	http://mykingtv.net:2082/live/zaki880/8890/9177.m3u8
+Bloomberg TV EMEA Live Event (720p)	http://mykingtv.net:2082/live/zaki880/8890/9178.m3u8
+Dubai One (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9179.m3u8
+DW Arabic (400p)	http://mykingtv.net:2082/live/zaki880/8890/9180.m3u8
+France 24 Arabic (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9181.m3u8
+France 24 Arabic (576p)	http://mykingtv.net:2082/live/zaki880/8890/9182.m3u8
+Horn Cable TV [Not 24/7]	http://mykingtv.net:2082/live/zaki880/8890/9183.m3u8
+Kalsan TV	http://mykingtv.net:2082/live/zaki880/8890/9184.m3u8
+Kalsan TV	http://mykingtv.net:2082/live/zaki880/8890/9185.m3u8
+MBC 1 KSA (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9186.m3u8
+MBC 1 USA (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9187.m3u8
+MBC 2 (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9188.m3u8
+MBC 3 (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9189.m3u8
+MBC 3 EUR (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9190.m3u8
+MBC 3 USA (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9191.m3u8
+MBC 4 (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9192.m3u8
+MBC Action (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9193.m3u8
+MBC Bollywood (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9194.m3u8
+MBC Drama KSA (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9195.m3u8
+MBC Drama USA (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9196.m3u8
+MBC Max (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9197.m3u8
+MBC Plus Drama (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9198.m3u8
+National Geographic Abu Dhabi (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9199.m3u8
+Puntland TV	http://mykingtv.net:2082/live/zaki880/8890/9200.m3u8
+RT Arabic (720p)	http://mykingtv.net:2082/live/zaki880/8890/9201.m3u8
+SAT-7 ARABIC (720p)	http://mykingtv.net:2082/live/zaki880/8890/9202.m3u8
+SAT-7 KIDS (720p)	http://mykingtv.net:2082/live/zaki880/8890/9203.m3u8
+Sky News Arabia (720p)	http://mykingtv.net:2082/live/zaki880/8890/9204.m3u8
+Somali cable	http://mykingtv.net:2082/live/zaki880/8890/9205.m3u8
+Somali National TV	http://mykingtv.net:2082/live/zaki880/8890/9206.m3u8
+TRT Arabi (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9207.m3u8
+Wanasah (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9208.m3u8
+Bloomberg TV EMEA Live Event (720p)	http://mykingtv.net:2082/live/zaki880/8890/9209.m3u8
+Animax	http://mykingtv.net:2082/live/zaki880/8890/9210.m3u8
+Bloomberg TV Asia (720p)	http://mykingtv.net:2082/live/zaki880/8890/9211.m3u8
+Bloomberg TV Asia (720p)	http://mykingtv.net:2082/live/zaki880/8890/9212.m3u8
+Bloomberg TV Asia Live Event (720p)	http://mykingtv.net:2082/live/zaki880/8890/9213.m3u8
+Channel V	http://mykingtv.net:2082/live/zaki880/8890/9214.m3u8
+Hallypop (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9215.m3u8
+K+ (576p)	http://mykingtv.net:2082/live/zaki880/8890/9216.m3u8
+KBS 1	http://mykingtv.net:2082/live/zaki880/8890/9217.m3u8
+KBS World (576p)	http://mykingtv.net:2082/live/zaki880/8890/9218.m3u8
+KTV	http://mykingtv.net:2082/live/zaki880/8890/9219.m3u8
+Maeil Business Newspaper	http://mykingtv.net:2082/live/zaki880/8890/9220.m3u8
+Mnet	http://mykingtv.net:2082/live/zaki880/8890/9221.m3u8
+TBC 대구(SBS 大邱) (540p)	http://mykingtv.net:2082/live/zaki880/8890/9222.m3u8
+제주 MBC(MBC Jeju)	http://mykingtv.net:2082/live/zaki880/8890/9223.m3u8
+Bloomberg TV EMEA Live Event (720p)	http://mykingtv.net:2082/live/zaki880/8890/9224.m3u8
++24 (576p)	http://mykingtv.net:2082/live/zaki880/8890/9225.m3u8
++tdp [Geo-blocked]	http://mykingtv.net:2082/live/zaki880/8890/9226.m3u8
+101 Tele Antequera	http://mykingtv.net:2082/live/zaki880/8890/9227.m3u8
+101TV Malaga	http://mykingtv.net:2082/live/zaki880/8890/9228.m3u8
+24 Horas	http://mykingtv.net:2082/live/zaki880/8890/9229.m3u8
+24 Horas	http://mykingtv.net:2082/live/zaki880/8890/9230.m3u8
+24h (576p)	http://mykingtv.net:2082/live/zaki880/8890/9231.m3u8
+24h (576p)	http://mykingtv.net:2082/live/zaki880/8890/9232.m3u8
+24h (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9233.m3u8
+25 TV	http://mykingtv.net:2082/live/zaki880/8890/9234.m3u8
+25 TV	http://mykingtv.net:2082/live/zaki880/8890/9235.m3u8
+28 Kanala (720p)	http://mykingtv.net:2082/live/zaki880/8890/9236.m3u8
+28 kanala (720p)	http://mykingtv.net:2082/live/zaki880/8890/9237.m3u8
+3/24 (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9238.m3u8
+3/24	http://mykingtv.net:2082/live/zaki880/8890/9239.m3u8
+324 (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9240.m3u8
+7 La Rioja (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9241.m3u8
+7 Murcia	http://mykingtv.net:2082/live/zaki880/8890/9242.m3u8
+7 Televisión Región de Murcia (360p)	http://mykingtv.net:2082/live/zaki880/8890/9243.m3u8
+7 TV Andalucía	http://mykingtv.net:2082/live/zaki880/8890/9244.m3u8
+7 TV Andalucía (Bahía)	http://mykingtv.net:2082/live/zaki880/8890/9245.m3u8
+7 TV Andalucía (Costa Noroeste)	http://mykingtv.net:2082/live/zaki880/8890/9246.m3u8
+7 TV Andalucía (Córdoba)	http://mykingtv.net:2082/live/zaki880/8890/9247.m3u8
+7 TV Andalucía (Jaén)	http://mykingtv.net:2082/live/zaki880/8890/9248.m3u8
+7 TV Andalucía (Jerez)	http://mykingtv.net:2082/live/zaki880/8890/9249.m3u8
+7 TV Andalucía (Málaga)	http://mykingtv.net:2082/live/zaki880/8890/9250.m3u8
+7 TV Andalucía (Sevilla)	http://mykingtv.net:2082/live/zaki880/8890/9251.m3u8
+7 TV Andalucía (Sierra)	http://mykingtv.net:2082/live/zaki880/8890/9252.m3u8
+8 TV Cádiz	http://mykingtv.net:2082/live/zaki880/8890/9253.m3u8
+9 la Loma TV	http://mykingtv.net:2082/live/zaki880/8890/9254.m3u8
+Action Movies (720p)	http://mykingtv.net:2082/live/zaki880/8890/9255.m3u8
+Activa TV (720p)	http://mykingtv.net:2082/live/zaki880/8890/9256.m3u8
+Alacantí TV	http://mykingtv.net:2082/live/zaki880/8890/9257.m3u8
+Alcarria TV	http://mykingtv.net:2082/live/zaki880/8890/9258.m3u8
+Alcarria TV (576p)	http://mykingtv.net:2082/live/zaki880/8890/9259.m3u8
+Alcarria TV	http://mykingtv.net:2082/live/zaki880/8890/9260.m3u8
+Anime Zone TV	http://mykingtv.net:2082/live/zaki880/8890/9261.m3u8
+Aragón Radio (Zaragoza)	http://mykingtv.net:2082/live/zaki880/8890/9262.m3u8
+Aragón TV (720p)	http://mykingtv.net:2082/live/zaki880/8890/9263.m3u8
+Atres Series Internacional	http://mykingtv.net:2082/live/zaki880/8890/9264.m3u8
+Bailén TV (720p)	http://mykingtv.net:2082/live/zaki880/8890/9265.m3u8
+BARVA.TV	http://mykingtv.net:2082/live/zaki880/8890/9266.m3u8
+Barça TV	http://mykingtv.net:2082/live/zaki880/8890/9267.m3u8
+betevé (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9268.m3u8
+Big Name (720p)	http://mykingtv.net:2082/live/zaki880/8890/9269.m3u8
+Bloomberg TV EMEA Live Event (720p)	http://mykingtv.net:2082/live/zaki880/8890/9270.m3u8
+Bloomberg TV Europe (2160p)	http://mykingtv.net:2082/live/zaki880/8890/9271.m3u8
+Bloomberg TV Europe (720p)	http://mykingtv.net:2082/live/zaki880/8890/9272.m3u8
+Bloomberg TV Europe (720p)	http://mykingtv.net:2082/live/zaki880/8890/9273.m3u8
+Bon Dia TV (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9274.m3u8
+Cadena Elite [Not 24/7]	http://mykingtv.net:2082/live/zaki880/8890/9275.m3u8
+Campiña Sur TV [Not 24/7]	http://mykingtv.net:2082/live/zaki880/8890/9276.m3u8
+Canal 10 Empordà	http://mykingtv.net:2082/live/zaki880/8890/9277.m3u8
+Canal 2000 La Solana	http://mykingtv.net:2082/live/zaki880/8890/9278.m3u8
+Canal 25 TV (Barbastro) [Not 24/7]	http://mykingtv.net:2082/live/zaki880/8890/9279.m3u8
+Canal 33 Madrid (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9280.m3u8
+Canal 4	http://mykingtv.net:2082/live/zaki880/8890/9281.m3u8
+Canal 4 Mancha Centro	http://mykingtv.net:2082/live/zaki880/8890/9282.m3u8
+Canal 4 Tenerife (576p)	http://mykingtv.net:2082/live/zaki880/8890/9283.m3u8
+CANAL 45 TV	http://mykingtv.net:2082/live/zaki880/8890/9284.m3u8
+Canal 45 TV	http://mykingtv.net:2082/live/zaki880/8890/9285.m3u8
+Canal 56	http://mykingtv.net:2082/live/zaki880/8890/9286.m3u8
+Canal Cinesverdi	http://mykingtv.net:2082/live/zaki880/8890/9287.m3u8
+Canal d	http://mykingtv.net:2082/live/zaki880/8890/9288.m3u8
+Canal Diocesano	http://mykingtv.net:2082/live/zaki880/8890/9289.m3u8
+Canal Doñana [Not 24/7]	http://mykingtv.net:2082/live/zaki880/8890/9290.m3u8
+Canal Extremadura	http://mykingtv.net:2082/live/zaki880/8890/9291.m3u8
+Canal Feel good	http://mykingtv.net:2082/live/zaki880/8890/9292.m3u8
+Canal Málaga RTV (720p) [Not 24/7]	http://mykingtv.net:2082/live/zaki880/8890/9293.m3u8
+Canal Parlamento	http://mykingtv.net:2082/live/zaki880/8890/9294.m3u8
+Canal Parlamento (360p)	http://mykingtv.net:2082/live/zaki880/8890/9295.m3u8
+Canal San Roque	http://mykingtv.net:2082/live/zaki880/8890/9296.m3u8
+Canal Sierra de Cádiz HD	http://mykingtv.net:2082/live/zaki880/8890/9297.m3u8
+Canal Sierra de Cádiz SD	http://mykingtv.net:2082/live/zaki880/8890/9298.m3u8
+Canal Super 3	http://mykingtv.net:2082/live/zaki880/8890/9299.m3u8
+Canal Sur Andalucía	http://mykingtv.net:2082/live/zaki880/8890/9300.m3u8
+Canal Sur Andalucía	http://mykingtv.net:2082/live/zaki880/8890/9301.m3u8
+Canal Sur Andalucía	http://mykingtv.net:2082/live/zaki880/8890/9302.m3u8
+Canal Taronja Osona i Moianés (480p)	http://mykingtv.net:2082/live/zaki880/8890/9303.m3u8
+Canal4 televisió (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9304.m3u8
+CCMA Exclusiu 1 (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9305.m3u8
+CCMA Exclusiu 2 (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9306.m3u8
+Clan TVE (1080p) [Geo-blocked]	http://mykingtv.net:2082/live/zaki880/8890/9307.m3u8
+CMM Castilla La Mancha	http://mykingtv.net:2082/live/zaki880/8890/9308.m3u8
+CMM HD	http://mykingtv.net:2082/live/zaki880/8890/9309.m3u8
+Comedy Movies (720p)	http://mykingtv.net:2082/live/zaki880/8890/9310.m3u8
+Condavision (720p)	http://mykingtv.net:2082/live/zaki880/8890/9311.m3u8
+Condavisión (720p)	http://mykingtv.net:2082/live/zaki880/8890/9312.m3u8
+Condavisión (720p)	http://mykingtv.net:2082/live/zaki880/8890/9313.m3u8
+Congreso de los Diputados 1 (360p)	http://mykingtv.net:2082/live/zaki880/8890/9314.m3u8
+Congreso de los Diputados 2 (360p)	http://mykingtv.net:2082/live/zaki880/8890/9315.m3u8
+Congreso de los Diputados 3 (360p)	http://mykingtv.net:2082/live/zaki880/8890/9316.m3u8
+Congreso de los Diputados 4 (360p)	http://mykingtv.net:2082/live/zaki880/8890/9317.m3u8
+Congreso de los Diputados 5 (360p)	http://mykingtv.net:2082/live/zaki880/8890/9318.m3u8
+COSMO TV 2 (720p)	http://mykingtv.net:2082/live/zaki880/8890/9319.m3u8
+COSMO TV HD	http://mykingtv.net:2082/live/zaki880/8890/9320.m3u8
+COSMO TV HD ESP	http://mykingtv.net:2082/live/zaki880/8890/9321.m3u8
+Costa Noroeste TV	http://mykingtv.net:2082/live/zaki880/8890/9322.m3u8
+Cuatro	http://mykingtv.net:2082/live/zaki880/8890/9323.m3u8
+CUATRO 4 TV VALL UXA	http://mykingtv.net:2082/live/zaki880/8890/9324.m3u8
+Diez TV	http://mykingtv.net:2082/live/zaki880/8890/9325.m3u8
+Disney Channel España	http://mykingtv.net:2082/live/zaki880/8890/9326.m3u8
+Distrito TV	http://mykingtv.net:2082/live/zaki880/8890/9327.m3u8
+Durangaldeko TV	http://mykingtv.net:2082/live/zaki880/8890/9328.m3u8
+DW Español (400p)	http://mykingtv.net:2082/live/zaki880/8890/9329.m3u8
+DW Español (400p)	http://mykingtv.net:2082/live/zaki880/8890/9330.m3u8
+Déjate de Historias TV	http://mykingtv.net:2082/live/zaki880/8890/9331.m3u8
+EITB	http://mykingtv.net:2082/live/zaki880/8890/9332.m3u8
+EITB (360p)	http://mykingtv.net:2082/live/zaki880/8890/9333.m3u8
+EiTB 2	http://mykingtv.net:2082/live/zaki880/8890/9334.m3u8
+El 33 (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9335.m3u8
+El Garage TV (480p)	http://mykingtv.net:2082/live/zaki880/8890/9336.m3u8
+El Toro TV (720p)	http://mykingtv.net:2082/live/zaki880/8890/9337.m3u8
+Elche 7 TV	http://mykingtv.net:2082/live/zaki880/8890/9338.m3u8
+ESNE TV (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9339.m3u8
+Esport3 (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9340.m3u8
+Esport3 (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9341.m3u8
+Estepona Televisión (720p)	http://mykingtv.net:2082/live/zaki880/8890/9342.m3u8
+Estepona Televisión (720p)	http://mykingtv.net:2082/live/zaki880/8890/9343.m3u8
+ETB 1	http://mykingtv.net:2082/live/zaki880/8890/9344.m3u8
+ETB 1 (720p)	http://mykingtv.net:2082/live/zaki880/8890/9345.m3u8
+ETB 2	http://mykingtv.net:2082/live/zaki880/8890/9346.m3u8
+ETB 2 (720p)	http://mykingtv.net:2082/live/zaki880/8890/9347.m3u8
+ETB Eventos 1 (720p)	http://mykingtv.net:2082/live/zaki880/8890/9348.m3u8
+Euronews en Español (720p)	http://mykingtv.net:2082/live/zaki880/8890/9349.m3u8
+EuropaPress TV	http://mykingtv.net:2082/live/zaki880/8890/9350.m3u8
+Factoría de Ficción (FDF)	http://mykingtv.net:2082/live/zaki880/8890/9351.m3u8
+Family Movies (720p)	http://mykingtv.net:2082/live/zaki880/8890/9352.m3u8
+Fibracat TV (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9353.m3u8
+Fibwi (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9354.m3u8
+Fion TV (720p)	http://mykingtv.net:2082/live/zaki880/8890/9355.m3u8
+France 24 Español (576p)	http://mykingtv.net:2082/live/zaki880/8890/9356.m3u8
+GALICIA HD	http://mykingtv.net:2082/live/zaki880/8890/9357.m3u8
+GCM TV [Not 24/7]	http://mykingtv.net:2082/live/zaki880/8890/9358.m3u8
+Goiena Eus	http://mykingtv.net:2082/live/zaki880/8890/9359.m3u8
+GOL (720p) [Geo-blocked]	http://mykingtv.net:2082/live/zaki880/8890/9360.m3u8
+Guada TV [Not 24/7]	http://mykingtv.net:2082/live/zaki880/8890/9361.m3u8
+Hamaika Telebista (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9362.m3u8
+Hermes TV	http://mykingtv.net:2082/live/zaki880/8890/9363.m3u8
+Hermes TV	http://mykingtv.net:2082/live/zaki880/8890/9364.m3u8
+HQM Arabic	http://mykingtv.net:2082/live/zaki880/8890/9365.m3u8
+HQM Baladas	http://mykingtv.net:2082/live/zaki880/8890/9366.m3u8
+HQM Blues	http://mykingtv.net:2082/live/zaki880/8890/9367.m3u8
+HQM Chill Out	http://mykingtv.net:2082/live/zaki880/8890/9368.m3u8
+HQM Classic	http://mykingtv.net:2082/live/zaki880/8890/9369.m3u8
+HQM Dance	http://mykingtv.net:2082/live/zaki880/8890/9370.m3u8
+HQM Folk	http://mykingtv.net:2082/live/zaki880/8890/9371.m3u8
+HQM Gym	http://mykingtv.net:2082/live/zaki880/8890/9372.m3u8
+HQM Hip Hop	http://mykingtv.net:2082/live/zaki880/8890/9373.m3u8
+HQM Hits	http://mykingtv.net:2082/live/zaki880/8890/9374.m3u8
+HQM Jazz	http://mykingtv.net:2082/live/zaki880/8890/9375.m3u8
+HQM Kids	http://mykingtv.net:2082/live/zaki880/8890/9376.m3u8
+HQM Latin	http://mykingtv.net:2082/live/zaki880/8890/9377.m3u8
+HQM Pop	http://mykingtv.net:2082/live/zaki880/8890/9378.m3u8
+HQM Relax	http://mykingtv.net:2082/live/zaki880/8890/9379.m3u8
+HQM Remember	http://mykingtv.net:2082/live/zaki880/8890/9380.m3u8
+HQM Rock	http://mykingtv.net:2082/live/zaki880/8890/9381.m3u8
+HQM Spanish	http://mykingtv.net:2082/live/zaki880/8890/9382.m3u8
+Huesca TV	http://mykingtv.net:2082/live/zaki880/8890/9383.m3u8
+Ibiza Global TV (720p)	http://mykingtv.net:2082/live/zaki880/8890/9384.m3u8
+Imás TV	http://mykingtv.net:2082/live/zaki880/8890/9385.m3u8
+Interalmeria TV	http://mykingtv.net:2082/live/zaki880/8890/9386.m3u8
+Intercomarcal TV	http://mykingtv.net:2082/live/zaki880/8890/9387.m3u8
+Intercomarcal TV	http://mykingtv.net:2082/live/zaki880/8890/9388.m3u8
+Islatel [Not 24/7]	http://mykingtv.net:2082/live/zaki880/8890/9389.m3u8
+Junta Castilla y León [Not 24/7]	http://mykingtv.net:2082/live/zaki880/8890/9390.m3u8
+KTO (404p)	http://mykingtv.net:2082/live/zaki880/8890/9391.m3u8
+La 1	http://mykingtv.net:2082/live/zaki880/8890/9392.m3u8
+La 1	http://mykingtv.net:2082/live/zaki880/8890/9393.m3u8
+La 1 (720p)	http://mykingtv.net:2082/live/zaki880/8890/9394.m3u8
+La 1 (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9395.m3u8
+La 1 Canarias (576p)	http://mykingtv.net:2082/live/zaki880/8890/9396.m3u8
+La 1 Catalunya (576p)	http://mykingtv.net:2082/live/zaki880/8890/9397.m3u8
+La 1 Catalunya (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9398.m3u8
+La 2 (720p)	http://mykingtv.net:2082/live/zaki880/8890/9399.m3u8
+La 8 Avila	http://mykingtv.net:2082/live/zaki880/8890/9400.m3u8
+La 8 Bierzo	http://mykingtv.net:2082/live/zaki880/8890/9401.m3u8
+La 8 Burgos	http://mykingtv.net:2082/live/zaki880/8890/9402.m3u8
+La 8 Leon	http://mykingtv.net:2082/live/zaki880/8890/9403.m3u8
+La 8 Mediterráneo	http://mykingtv.net:2082/live/zaki880/8890/9404.m3u8
+La 8 Palencia	http://mykingtv.net:2082/live/zaki880/8890/9405.m3u8
+La 8 Salamanca	http://mykingtv.net:2082/live/zaki880/8890/9406.m3u8
+La 8 Segovia	http://mykingtv.net:2082/live/zaki880/8890/9407.m3u8
+La 8 Soria	http://mykingtv.net:2082/live/zaki880/8890/9408.m3u8
+La 8 Valladolid	http://mykingtv.net:2082/live/zaki880/8890/9409.m3u8
+La 8 Zamora	http://mykingtv.net:2082/live/zaki880/8890/9410.m3u8
+La Voz 24h	http://mykingtv.net:2082/live/zaki880/8890/9411.m3u8
+LA7	http://mykingtv.net:2082/live/zaki880/8890/9412.m3u8
+LA7	http://mykingtv.net:2082/live/zaki880/8890/9413.m3u8
+Lancelot Televisión (360p)	http://mykingtv.net:2082/live/zaki880/8890/9414.m3u8
+Lancelot Televisión (360p)	http://mykingtv.net:2082/live/zaki880/8890/9415.m3u8
+Lancelot TV	http://mykingtv.net:2082/live/zaki880/8890/9416.m3u8
+Lancelot TV (360p)	http://mykingtv.net:2082/live/zaki880/8890/9417.m3u8
+Lancelot TV	http://mykingtv.net:2082/live/zaki880/8890/9418.m3u8
+LaOtra (720p)	http://mykingtv.net:2082/live/zaki880/8890/9419.m3u8
+Lebrija TV	http://mykingtv.net:2082/live/zaki880/8890/9420.m3u8
+Lebrija TV (360p)	http://mykingtv.net:2082/live/zaki880/8890/9421.m3u8
+Levante TV	http://mykingtv.net:2082/live/zaki880/8890/9422.m3u8
+Lleida Televisio	http://mykingtv.net:2082/live/zaki880/8890/9423.m3u8
+Locomotion TV (480p)	http://mykingtv.net:2082/live/zaki880/8890/9424.m3u8
+Logos TV	http://mykingtv.net:2082/live/zaki880/8890/9425.m3u8
+Logos TV (720p)	http://mykingtv.net:2082/live/zaki880/8890/9426.m3u8
+M95 Televisión Marbella	http://mykingtv.net:2082/live/zaki880/8890/9427.m3u8
+Maestrat TV	http://mykingtv.net:2082/live/zaki880/8890/9428.m3u8
+Mar TV	http://mykingtv.net:2082/live/zaki880/8890/9429.m3u8
+MMA TV (720p)	http://mykingtv.net:2082/live/zaki880/8890/9430.m3u8
+Moods (720p)	http://mykingtv.net:2082/live/zaki880/8890/9431.m3u8
+mtmad 24h	http://mykingtv.net:2082/live/zaki880/8890/9432.m3u8
+mtmad 24h	http://mykingtv.net:2082/live/zaki880/8890/9433.m3u8
+MTV Hits Europe (576p)	http://mykingtv.net:2082/live/zaki880/8890/9434.m3u8
+My Surf TV (720p)	http://mykingtv.net:2082/live/zaki880/8890/9435.m3u8
+Mírame TV	http://mykingtv.net:2082/live/zaki880/8890/9436.m3u8
+Navarra TV HD	http://mykingtv.net:2082/live/zaki880/8890/9437.m3u8
+Navarra TV SD	http://mykingtv.net:2082/live/zaki880/8890/9438.m3u8
+Negocios TV (720p)	http://mykingtv.net:2082/live/zaki880/8890/9439.m3u8
+NIUS	http://mykingtv.net:2082/live/zaki880/8890/9440.m3u8
+Nius SD	http://mykingtv.net:2082/live/zaki880/8890/9441.m3u8
+Noroeste TV (720p)	http://mykingtv.net:2082/live/zaki880/8890/9442.m3u8
+NORTEvisión	http://mykingtv.net:2082/live/zaki880/8890/9443.m3u8
+Oizmendi Telebista (404p)	http://mykingtv.net:2082/live/zaki880/8890/9444.m3u8
+Onda 15 TV (224p)	http://mykingtv.net:2082/live/zaki880/8890/9445.m3u8
+Onda Cádiz (480p)	http://mykingtv.net:2082/live/zaki880/8890/9446.m3u8
+Onda Madrid (360p)	http://mykingtv.net:2082/live/zaki880/8890/9447.m3u8
+Onda Madrid	http://mykingtv.net:2082/live/zaki880/8890/9448.m3u8
+Onda Madrid (360p)	http://mykingtv.net:2082/live/zaki880/8890/9449.m3u8
+OndaMezquita 7 TV	http://mykingtv.net:2082/live/zaki880/8890/9450.m3u8
+People are Awesome (720p)	http://mykingtv.net:2082/live/zaki880/8890/9451.m3u8
+Pequeradio	http://mykingtv.net:2082/live/zaki880/8890/9452.m3u8
+Planeta Kids (720p)	http://mykingtv.net:2082/live/zaki880/8890/9453.m3u8
+Popular TV Cantabria	http://mykingtv.net:2082/live/zaki880/8890/9454.m3u8
+Popular TV Melilla	http://mykingtv.net:2082/live/zaki880/8890/9455.m3u8
+Popular TV Melilla (720p)	http://mykingtv.net:2082/live/zaki880/8890/9456.m3u8
+Popular TV Murcia [Not 24/7]	http://mykingtv.net:2082/live/zaki880/8890/9457.m3u8
+Punt 3 Vall Uixó	http://mykingtv.net:2082/live/zaki880/8890/9458.m3u8
+PUNT CANAL 3 HD	http://mykingtv.net:2082/live/zaki880/8890/9459.m3u8
+Radio Televisión Marbella	http://mykingtv.net:2082/live/zaki880/8890/9460.m3u8
+Radio Televisión Melilla (720p)	http://mykingtv.net:2082/live/zaki880/8890/9461.m3u8
+Radio Televisión Mogán (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9462.m3u8
+Rakuten Action (Denmark)	http://mykingtv.net:2082/live/zaki880/8890/9463.m3u8
+Rakuten Action (Netherland)	http://mykingtv.net:2082/live/zaki880/8890/9464.m3u8
+Rakuten Action (Norway)	http://mykingtv.net:2082/live/zaki880/8890/9465.m3u8
+Rakuten Action (Sweden)	http://mykingtv.net:2082/live/zaki880/8890/9466.m3u8
+Rakuten Action Movies 1	http://mykingtv.net:2082/live/zaki880/8890/9467.m3u8
+Rakuten Action Movies 2	http://mykingtv.net:2082/live/zaki880/8890/9468.m3u8
+Rakuten Action Movies 3	http://mykingtv.net:2082/live/zaki880/8890/9469.m3u8
+Rakuten Comedy (Denmark)	http://mykingtv.net:2082/live/zaki880/8890/9470.m3u8
+Rakuten Comedy (Finland)	http://mykingtv.net:2082/live/zaki880/8890/9471.m3u8
+Rakuten Comedy (Netherlands)	http://mykingtv.net:2082/live/zaki880/8890/9472.m3u8
+Rakuten Comedy (Norway)	http://mykingtv.net:2082/live/zaki880/8890/9473.m3u8
+Rakuten Comedy (Sweden)	http://mykingtv.net:2082/live/zaki880/8890/9474.m3u8
+Rakuten Comedy Movies 1	http://mykingtv.net:2082/live/zaki880/8890/9475.m3u8
+Rakuten Comedy Movies 2	http://mykingtv.net:2082/live/zaki880/8890/9476.m3u8
+Rakuten Comedy Movies 3	http://mykingtv.net:2082/live/zaki880/8890/9477.m3u8
+Rakuten Comedy Movies 6	http://mykingtv.net:2082/live/zaki880/8890/9478.m3u8
+Rakuten Comedy Movies 7	http://mykingtv.net:2082/live/zaki880/8890/9479.m3u8
+Rakuten Documentaries (Denmark)	http://mykingtv.net:2082/live/zaki880/8890/9480.m3u8
+Rakuten Documentaries (Finland)	http://mykingtv.net:2082/live/zaki880/8890/9481.m3u8
+Rakuten Documentaries (France)	http://mykingtv.net:2082/live/zaki880/8890/9482.m3u8
+Rakuten Documentaries (Italy)	http://mykingtv.net:2082/live/zaki880/8890/9483.m3u8
+Rakuten Documentaries (Netherland)	http://mykingtv.net:2082/live/zaki880/8890/9484.m3u8
+Rakuten Documentaries (Norway)	http://mykingtv.net:2082/live/zaki880/8890/9485.m3u8
+Rakuten Documentaries (Sweden)	http://mykingtv.net:2082/live/zaki880/8890/9486.m3u8
+Rakuten Drama (Denmark)	http://mykingtv.net:2082/live/zaki880/8890/9487.m3u8
+Rakuten Drama (Finland)	http://mykingtv.net:2082/live/zaki880/8890/9488.m3u8
+Rakuten Drama (Netherlands)	http://mykingtv.net:2082/live/zaki880/8890/9489.m3u8
+Rakuten Drama (Norway)	http://mykingtv.net:2082/live/zaki880/8890/9490.m3u8
+Rakuten Drama (Sweden)	http://mykingtv.net:2082/live/zaki880/8890/9491.m3u8
+Rakuten Family (Denmark)	http://mykingtv.net:2082/live/zaki880/8890/9492.m3u8
+Rakuten Family (Finland)	http://mykingtv.net:2082/live/zaki880/8890/9493.m3u8
+Rakuten Family (Netherlands)	http://mykingtv.net:2082/live/zaki880/8890/9494.m3u8
+Rakuten Family (Norway)	http://mykingtv.net:2082/live/zaki880/8890/9495.m3u8
+Rakuten Family (Sweden)	http://mykingtv.net:2082/live/zaki880/8890/9496.m3u8
+Rakuten Spotlight (Denmark)	http://mykingtv.net:2082/live/zaki880/8890/9497.m3u8
+Rakuten Spotlight (Finland)	http://mykingtv.net:2082/live/zaki880/8890/9498.m3u8
+Rakuten Spotlight (Netherlands)	http://mykingtv.net:2082/live/zaki880/8890/9499.m3u8
+Rakuten Spotlight (Norway)	http://mykingtv.net:2082/live/zaki880/8890/9500.m3u8
+Rakuten Spotlight (Sweden)	http://mykingtv.net:2082/live/zaki880/8890/9501.m3u8
+Rakuten Spotlight 1	http://mykingtv.net:2082/live/zaki880/8890/9502.m3u8
+Rakuten Spotlight 2	http://mykingtv.net:2082/live/zaki880/8890/9503.m3u8
+Rakuten Spotlight 3	http://mykingtv.net:2082/live/zaki880/8890/9504.m3u8
+Rakuten Spotlight 6	http://mykingtv.net:2082/live/zaki880/8890/9505.m3u8
+Rakuten Spotlight 7	http://mykingtv.net:2082/live/zaki880/8890/9506.m3u8
+Rakuten Top Free 1	http://mykingtv.net:2082/live/zaki880/8890/9507.m3u8
+Rakuten Top Free 2	http://mykingtv.net:2082/live/zaki880/8890/9508.m3u8
+Rakuten Top Free 3	http://mykingtv.net:2082/live/zaki880/8890/9509.m3u8
+Rakuten Top Free 6	http://mykingtv.net:2082/live/zaki880/8890/9510.m3u8
+Rakuten Top Free 7	http://mykingtv.net:2082/live/zaki880/8890/9511.m3u8
+Rakuten TV Shows 1	http://mykingtv.net:2082/live/zaki880/8890/9512.m3u8
+Rakuten TV Shows 2	http://mykingtv.net:2082/live/zaki880/8890/9513.m3u8
+Rakuten TV Shows 3	http://mykingtv.net:2082/live/zaki880/8890/9514.m3u8
+Rakuten TV Shows 6	http://mykingtv.net:2082/live/zaki880/8890/9515.m3u8
+Rakuten TV Shows 7	http://mykingtv.net:2082/live/zaki880/8890/9516.m3u8
+Real Madrid TV	http://mykingtv.net:2082/live/zaki880/8890/9517.m3u8
+Real Madrid TV (404p)	http://mykingtv.net:2082/live/zaki880/8890/9518.m3u8
+Channel V	http://mykingtv.net:2082/live/zaki880/8890/9519.m3u8
+RTV 1	http://mykingtv.net:2082/live/zaki880/8890/9520.m3u8
+RTV 2	http://mykingtv.net:2082/live/zaki880/8890/9521.m3u8
+Channel V	http://mykingtv.net:2082/live/zaki880/8890/9522.m3u8
+BTV	http://mykingtv.net:2082/live/zaki880/8890/9523.m3u8
+Severka	http://mykingtv.net:2082/live/zaki880/8890/9524.m3u8
+TV Nové Zámky	http://mykingtv.net:2082/live/zaki880/8890/9525.m3u8
+TV Reduta	http://mykingtv.net:2082/live/zaki880/8890/9526.m3u8
+TV Turzovka	http://mykingtv.net:2082/live/zaki880/8890/9527.m3u8
+Channel V	http://mykingtv.net:2082/live/zaki880/8890/9528.m3u8
+Channel V	http://mykingtv.net:2082/live/zaki880/8890/9529.m3u8
+KTV	http://mykingtv.net:2082/live/zaki880/8890/9530.m3u8
+Maeil Business Newspaper	http://mykingtv.net:2082/live/zaki880/8890/9531.m3u8
+CH: Blue 美剧频道	http://mykingtv.net:2082/live/zaki880/8890/5664.m3u8
+CH: CCTV PLUS LD (360p)	http://mykingtv.net:2082/live/zaki880/8890/5665.m3u8
+CH: CCTV-1	http://mykingtv.net:2082/live/zaki880/8890/5666.m3u8
+CH: CCTV中国中央电视台-2 财经	http://mykingtv.net:2082/live/zaki880/8890/5667.m3u8
+CH: CCTV 3	http://mykingtv.net:2082/live/zaki880/8890/5668.m3u8
+CH: CCTV-3FHD	http://mykingtv.net:2082/live/zaki880/8890/5669.m3u8
+CH: CCTV 4	http://mykingtv.net:2082/live/zaki880/8890/5670.m3u8
+CH: CCTV-5+HD	http://mykingtv.net:2082/live/zaki880/8890/5671.m3u8
+CH: CCTV-5+ 体育赛事	http://mykingtv.net:2082/live/zaki880/8890/5672.m3u8
+CCTV中国中央电视台-6 电影	http://mykingtv.net:2082/live/zaki880/8890/5673.m3u8
+CH: CCTV中国中央电视台-7 国防军事	http://mykingtv.net:2082/live/zaki880/8890/5674.m3u8
+CH: CCTV-8	http://mykingtv.net:2082/live/zaki880/8890/5675.m3u8
+CH: CCTV-9英	http://mykingtv.net:2082/live/zaki880/8890/5676.m3u8
+CH: CCTV-10	http://mykingtv.net:2082/live/zaki880/8890/5677.m3u8
+CCTV-12	http://mykingtv.net:2082/live/zaki880/8890/5678.m3u8
+CH: CCTV-13 新闻	http://mykingtv.net:2082/live/zaki880/8890/5679.m3u8
+CH: CCTV-15	http://mykingtv.net:2082/live/zaki880/8890/5680.m3u8
+CH: CCTV-15	http://mykingtv.net:2082/live/zaki880/8890/5681.m3u8
+CH: CCTV-女性时尚	http://mykingtv.net:2082/live/zaki880/8890/5682.m3u8
+CH: CGTN	http://mykingtv.net:2082/live/zaki880/8890/5683.m3u8
+CH: TVBS NEWS	http://mykingtv.net:2082/live/zaki880/8890/5684.m3u8
+CH: TVBS NEWS HD	http://mykingtv.net:2082/live/zaki880/8890/5685.m3u8
+CH: Phoenix News	http://mykingtv.net:2082/live/zaki880/8890/5686.m3u8
+CH: Phoenix InfoNews	http://mykingtv.net:2082/live/zaki880/8890/5687.m3u8
+CH: Phoenix Learning	http://mykingtv.net:2082/live/zaki880/8890/5688.m3u8
+CH: Fox Crime HK	http://mykingtv.net:2082/live/zaki880/8890/5689.m3u8
+CH: Fox Action Hk	http://mykingtv.net:2082/live/zaki880/8890/5690.m3u8
+CH: Zhejiang tv	http://mykingtv.net:2082/live/zaki880/8890/5691.m3u8
+CH: Jiangsu Tv	http://mykingtv.net:2082/live/zaki880/8890/5692.m3u8
+CH: Viutv	http://mykingtv.net:2082/live/zaki880/8890/5693.m3u8
+CH: Viutv6 English	http://mykingtv.net:2082/live/zaki880/8890/5694.m3u8
+CH: Now Sports	http://mykingtv.net:2082/live/zaki880/8890/5695.m3u8
+CH: Tvb pearl english	http://mykingtv.net:2082/live/zaki880/8890/5696.m3u8
+CH: Tvb jade hk	http://mykingtv.net:2082/live/zaki880/8890/5697.m3u8
+CH: Andxiju Taiwan Tv	http://mykingtv.net:2082/live/zaki880/8890/5698.m3u8
+KOR: Animax [Indonesian Sub]	http://mykingtv.net:2082/live/zaki880/8890/5699.m3u8
+KOR: AniPlus [B]	http://mykingtv.net:2082/live/zaki880/8890/5700.m3u8
+KOR: AniPlus [C]	http://mykingtv.net:2082/live/zaki880/8890/5701.m3u8
+KOR: AniPlus [D]	http://mykingtv.net:2082/live/zaki880/8890/5702.m3u8
+KOR: Arirang (1080p)	http://mykingtv.net:2082/live/zaki880/8890/5703.m3u8
+KOR: Arirang	http://mykingtv.net:2082/live/zaki880/8890/5704.m3u8
+KOR: Arirang	http://mykingtv.net:2082/live/zaki880/8890/5705.m3u8
+KOR: arirang 1	http://mykingtv.net:2082/live/zaki880/8890/5706.m3u8
+KOR: arirang 3	http://mykingtv.net:2082/live/zaki880/8890/5707.m3u8
+KOR: Arirang HD (1080p)	http://mykingtv.net:2082/live/zaki880/8890/5708.m3u8
+KOR: Arirang Korea	http://mykingtv.net:2082/live/zaki880/8890/5709.m3u8
+KOR: Arirang Radio	http://mykingtv.net:2082/live/zaki880/8890/5710.m3u8
+KOR: Arirang TV	http://mykingtv.net:2082/live/zaki880/8890/5711.m3u8
+KOR: Arirang TV Korea EN	http://mykingtv.net:2082/live/zaki880/8890/5712.m3u8
+KOR: Arte HD (1080p)	http://mykingtv.net:2082/live/zaki880/8890/5713.m3u8
+KOR: BBS Buddhist Broadcasting	http://mykingtv.net:2082/live/zaki880/8890/5714.m3u8
+KOR: BBS Buddhist Broadcasting (1080p)	http://mykingtv.net:2082/live/zaki880/8890/5715.m3u8
+KOR: BBS 불교방송	http://mykingtv.net:2082/live/zaki880/8890/5716.m3u8
+KOR: CBS (1080p)	http://mykingtv.net:2082/live/zaki880/8890/5717.m3u8
+KOR: CBS (1080p)	http://mykingtv.net:2082/live/zaki880/8890/5718.m3u8
+KOR: CBS (1080p)	http://mykingtv.net:2082/live/zaki880/8890/5719.m3u8
+CGNTV	http://mykingtv.net:2082/live/zaki880/8890/5720.m3u8
+KOR: Channel 67	http://mykingtv.net:2082/live/zaki880/8890/5721.m3u8
+KOR: CJB청주방송(SBS 淸州) (540p)	http://mykingtv.net:2082/live/zaki880/8890/5722.m3u8
+KOR: CTS기독교TV (720p)	http://mykingtv.net:2082/live/zaki880/8890/5723.m3u8
+KOR: EBS 1	http://mykingtv.net:2082/live/zaki880/8890/5724.m3u8
+KOR: EBS 1	http://mykingtv.net:2082/live/zaki880/8890/5725.m3u8
+KOR: EBS 2 (400p)	http://mykingtv.net:2082/live/zaki880/8890/5726.m3u8
+KOR: EBS e (400p)	http://mykingtv.net:2082/live/zaki880/8890/5727.m3u8
+KOR: EBS KIDS (360p)	http://mykingtv.net:2082/live/zaki880/8890/5728.m3u8
+EBS Kids (360p)	http://mykingtv.net:2082/live/zaki880/8890/5729.m3u8
+KOR: EBS Plus 1 (360p)	http://mykingtv.net:2082/live/zaki880/8890/5730.m3u8
+KOR: EBS Plus 2 (360p)	http://mykingtv.net:2082/live/zaki880/8890/5731.m3u8
+KOR: EBS+ 1	http://mykingtv.net:2082/live/zaki880/8890/5732.m3u8
+KOR: EBS+ 2	http://mykingtv.net:2082/live/zaki880/8890/5733.m3u8
+KOR: EBSe	http://mykingtv.net:2082/live/zaki880/8890/5734.m3u8
+KOR: Edaily TV (720p)	http://mykingtv.net:2082/live/zaki880/8890/5735.m3u8
+KOR: GCN	http://mykingtv.net:2082/live/zaki880/8890/5736.m3u8
+KOR: Gugbang TV (404p)	http://mykingtv.net:2082/live/zaki880/8890/5737.m3u8
+KOR: JIBS SBS	http://mykingtv.net:2082/live/zaki880/8890/5738.m3u8
+KOR: JTBC	http://mykingtv.net:2082/live/zaki880/8890/5739.m3u8
+KOR: KBC 광주방송(SBS 光州)	http://mykingtv.net:2082/live/zaki880/8890/5740.m3u8
+KOR: KBS 1	http://mykingtv.net:2082/live/zaki880/8890/5742.m3u8
+KOR: KBS LiveCam DokDo	http://mykingtv.net:2082/live/zaki880/8890/5743.m3u8
+KOR: KBS2	http://mykingtv.net:2082/live/zaki880/8890/5745.m3u8
+KOR: KCTV 광주 CH05	http://mykingtv.net:2082/live/zaki880/8890/5746.m3u8
+KOR: KTV	http://mykingtv.net:2082/live/zaki880/8890/5747.m3u8
+KOR: MBC	http://mykingtv.net:2082/live/zaki880/8890/5748.m3u8
+KOR: Mnet	http://mykingtv.net:2082/live/zaki880/8890/5749.m3u8
+KOR: MTN	http://mykingtv.net:2082/live/zaki880/8890/5750.m3u8
+KOR: MTN	http://mykingtv.net:2082/live/zaki880/8890/5751.m3u8
+KOR: NBS Korea Agricultural Broadcasting (720p)	http://mykingtv.net:2082/live/zaki880/8890/5752.m3u8
+KOR: One (Indonesian Sub)	http://mykingtv.net:2082/live/zaki880/8890/5753.m3u8
+KOR: SBS	http://mykingtv.net:2082/live/zaki880/8890/5754.m3u8
+KOR: SBS International	http://mykingtv.net:2082/live/zaki880/8890/5755.m3u8
+KOR: SBS International (480p)	http://mykingtv.net:2082/live/zaki880/8890/5756.m3u8
+KOR: SBS KNN (450p)	http://mykingtv.net:2082/live/zaki880/8890/5757.m3u8
+KOR: SBS Plus (480p)	http://mykingtv.net:2082/live/zaki880/8890/5758.m3u8
+KOR: SBS Plus International	http://mykingtv.net:2082/live/zaki880/8890/5759.m3u8
+KOR: SBS Star	http://mykingtv.net:2082/live/zaki880/8890/5760.m3u8
+KOR: SBS Star (480p)	http://mykingtv.net:2082/live/zaki880/8890/5761.m3u8
+KOR: TBS	http://mykingtv.net:2082/live/zaki880/8890/5762.m3u8
+KOR: TBS (720p)	http://mykingtv.net:2082/live/zaki880/8890/5763.m3u8
+KOR: TJB 대전방송(SBS 大田)	http://mykingtv.net:2082/live/zaki880/8890/5764.m3u8
+KOR: TVWorkNet (480p)	http://mykingtv.net:2082/live/zaki880/8890/5765.m3u8
+KOR: YTN (720p)	http://mykingtv.net:2082/live/zaki880/8890/5766.m3u8
+KOR: YTN DMB (270p)	http://mykingtv.net:2082/live/zaki880/8890/5767.m3u8
+KOR: YTN SCIENCE	http://mykingtv.net:2082/live/zaki880/8890/5768.m3u8
+KOR: YTN SCIENCE (270p)	http://mykingtv.net:2082/live/zaki880/8890/5769.m3u8
+KOR: 가요TV	http://mykingtv.net:2082/live/zaki880/8890/5770.m3u8
+KOR: 국악방송	http://mykingtv.net:2082/live/zaki880/8890/5771.m3u8
+KOR: 대구 MBC(MBC Daegu)	http://mykingtv.net:2082/live/zaki880/8890/5772.m3u8
+KOR: 대전MBC(MBC Daejeon)	http://mykingtv.net:2082/live/zaki880/8890/5773.m3u8
+KOR: 여수MBC(MBC Yeosu)	http://mykingtv.net:2082/live/zaki880/8890/5774.m3u8
+KOR: 춘천MBC(MBC Chuncheon)	http://mykingtv.net:2082/live/zaki880/8890/5775.m3u8
+KOR: 한국선거방송	http://mykingtv.net:2082/live/zaki880/8890/5776.m3u8
+JPN: Animax	http://mykingtv.net:2082/live/zaki880/8890/5777.m3u8
+JPN: Animax Japan (Indonesian Subs)	http://mykingtv.net:2082/live/zaki880/8890/5778.m3u8
+JPN: Animax Japan (Vietnamese Subs)	http://mykingtv.net:2082/live/zaki880/8890/5779.m3u8
+JPN: AT-X	http://mykingtv.net:2082/live/zaki880/8890/5780.m3u8
+JPN: BS Asahi	http://mykingtv.net:2082/live/zaki880/8890/5781.m3u8
+JPN: BS Fuji (BS181)	http://mykingtv.net:2082/live/zaki880/8890/5782.m3u8
+JPN: BS TV Tokyo (BS171)	http://mykingtv.net:2082/live/zaki880/8890/5783.m3u8
+JPN: BS 日テレ	http://mykingtv.net:2082/live/zaki880/8890/5784.m3u8
+JPN: BS-TBS	http://mykingtv.net:2082/live/zaki880/8890/5785.m3u8
+JPN: CGNTV Japan (720p)	http://mykingtv.net:2082/live/zaki880/8890/5786.m3u8
+JPN: Fuji TV	http://mykingtv.net:2082/live/zaki880/8890/5787.m3u8
+JPN: Fuji TV (JOCX-DTV)	http://mykingtv.net:2082/live/zaki880/8890/5788.m3u8
+JPN: GSTV (720p)	http://mykingtv.net:2082/live/zaki880/8890/5789.m3u8
+JPN: GTN Typhome (English Subs) (720p) [Not 24/7]	http://mykingtv.net:2082/live/zaki880/8890/5790.m3u8
+JPN: Gunma TV	http://mykingtv.net:2082/live/zaki880/8890/5791.m3u8
+JPN: Japanet Channel DX (1080p)	http://mykingtv.net:2082/live/zaki880/8890/5792.m3u8
+JPN: JSTV 2	http://mykingtv.net:2082/live/zaki880/8890/5793.m3u8
+JPN: MX Live (Webcam)	http://mykingtv.net:2082/live/zaki880/8890/5794.m3u8
+JPN: MX1	http://mykingtv.net:2082/live/zaki880/8890/5795.m3u8
+JPN: MX2	http://mykingtv.net:2082/live/zaki880/8890/5796.m3u8
+JPN: New Japan Pro Wrestling World	http://mykingtv.net:2082/live/zaki880/8890/5797.m3u8
+JPN: NHK BS Premium (BS103)	http://mykingtv.net:2082/live/zaki880/8890/5798.m3u8
+JPN: NHK BS1 (BS101)	http://mykingtv.net:2082/live/zaki880/8890/5799.m3u8
+JPN: NHK Chinese Vision	http://mykingtv.net:2082/live/zaki880/8890/5800.m3u8
+JPN: NHK General (JOAK-DTV)	http://mykingtv.net:2082/live/zaki880/8890/5801.m3u8
+JPN: NHK General TV	http://mykingtv.net:2082/live/zaki880/8890/5802.m3u8
+JPN: NHK World (720p)	http://mykingtv.net:2082/live/zaki880/8890/5803.m3u8
+JPN: NHK World Japan (1080p)	http://mykingtv.net:2082/live/zaki880/8890/5804.m3u8
+JPN: NHK World Japan	http://mykingtv.net:2082/live/zaki880/8890/5805.m3u8
+JPN: NHK World Japan (720p)	http://mykingtv.net:2082/live/zaki880/8890/5806.m3u8
+JPN: NHK WORLD TV	http://mykingtv.net:2082/live/zaki880/8890/5807.m3u8
+JPN: NHK华语视界 (720p)	http://mykingtv.net:2082/live/zaki880/8890/5808.m3u8
+JPN: Nippon TV (JOAX-DTV)	http://mykingtv.net:2082/live/zaki880/8890/5809.m3u8
+JPN: Nippon TV News 24	http://mykingtv.net:2082/live/zaki880/8890/5810.m3u8
+JPN: Nippon TV News 24	http://mykingtv.net:2082/live/zaki880/8890/5811.m3u8
+JPN: NTV News24 (480p)	http://mykingtv.net:2082/live/zaki880/8890/5812.m3u8
+JPN: Shop Channel	http://mykingtv.net:2082/live/zaki880/8890/5813.m3u8
+JPN: TBS	http://mykingtv.net:2082/live/zaki880/8890/5814.m3u8
+JPN: TBS (JORX-DTV)	http://mykingtv.net:2082/live/zaki880/8890/5815.m3u8
+JPN: Tokyo MX1 (360p) [Not 24-7]	http://mykingtv.net:2082/live/zaki880/8890/5816.m3u8
+JPN: Tokyo MX2 (360p)	http://mykingtv.net:2082/live/zaki880/8890/5817.m3u8
+JPN: TV Asahi	http://mykingtv.net:2082/live/zaki880/8890/5818.m3u8
+JPN: TV Asahi 1	http://mykingtv.net:2082/live/zaki880/8890/5819.m3u8
+JPN: TV Tokyo	http://mykingtv.net:2082/live/zaki880/8890/5820.m3u8
+JPN: TV Tokyo	http://mykingtv.net:2082/live/zaki880/8890/5821.m3u8
+JPN: Weather Channel (ウェザーニュース) (BS | WNI) (720p)	http://mykingtv.net:2082/live/zaki880/8890/5822.m3u8
+JPN: Weather News	http://mykingtv.net:2082/live/zaki880/8890/5823.m3u8
+JPN: WeatherNews	http://mykingtv.net:2082/live/zaki880/8890/5824.m3u8
+JPN: ジャパネットチャンネルDX	http://mykingtv.net:2082/live/zaki880/8890/5825.m3u8
+JPN: 日本购物1	http://mykingtv.net:2082/live/zaki880/8890/5826.m3u8
+JPN: 日本购物2	http://mykingtv.net:2082/live/zaki880/8890/5827.m3u8
+JPN: 日本购物3	http://mykingtv.net:2082/live/zaki880/8890/5828.m3u8
+JPN: 日本购物4	http://mykingtv.net:2082/live/zaki880/8890/5829.m3u8
+Hitz FM	http://mykingtv.net:2082/live/zaki880/8890/9889.m3u8
+DMAX	http://mykingtv.net:2082/live/zaki880/8890/9973.m3u8
+MY: Berita RTM	http://mykingtv.net:2082/live/zaki880/8890/8473.m3u8
+MY: Astro Super Sport 1(B)	http://mykingtv.net:2082/live/zaki880/8890/8548.m3u8
+MY: Astro Super Sport 2(B)	http://mykingtv.net:2082/live/zaki880/8890/8549.m3u8
+MY: Astro Super Sport 3(B)	http://mykingtv.net:2082/live/zaki880/8890/8550.m3u8
+MY: Astro Super Sport 4(B)	http://mykingtv.net:2082/live/zaki880/8890/8551.m3u8
+Discovery Channel 	http://mykingtv.net:2082/live/zaki880/8890/10125.m3u8
+MY: Okey Tv	http://mykingtv.net:2082/live/zaki880/8890/8440.m3u8
+MY: HBO	http://mykingtv.net:2082/live/zaki880/8890/7123.m3u8
+MY: HBO Hits	http://mykingtv.net:2082/live/zaki880/8890/7124.m3u8
+MY: HBO Signature	http://mykingtv.net:2082/live/zaki880/8890/7125.m3u8
+MY: HBO Family	http://mykingtv.net:2082/live/zaki880/8890/7126.m3u8
+MY: CINEMAX HD	http://mykingtv.net:2082/live/zaki880/8890/7127.m3u8
+MY: HITS	http://mykingtv.net:2082/live/zaki880/8890/7128.m3u8
+MY: HITS Movies	http://mykingtv.net:2082/live/zaki880/8890/7129.m3u8
+MY:AXN	http://mykingtv.net:2082/live/zaki880/8890/7130.m3u8
+MY: Cinema world	http://mykingtv.net:2082/live/zaki880/8890/7131.m3u8
+MY: Thrill	http://mykingtv.net:2082/live/zaki880/8890/7132.m3u8
+MY: Tvn Movie	http://mykingtv.net:2082/live/zaki880/8890/7133.m3u8
+MY: Tvn HD	http://mykingtv.net:2082/live/zaki880/8890/7134.m3u8
+MY: Warner TV	http://mykingtv.net:2082/live/zaki880/8890/7135.m3u8
+MY: CCM	http://mykingtv.net:2082/live/zaki880/8890/7136.m3u8
+MY:Celestial Movies	http://mykingtv.net:2082/live/zaki880/8890/7137.m3u8
+MY: KIX	http://mykingtv.net:2082/live/zaki880/8890/7138.m3u8
+ID: Bioskop Indonesia	http://mykingtv.net:2082/live/zaki880/8890/7139.m3u8
+ID: FLIK	http://mykingtv.net:2082/live/zaki880/8890/7140.m3u8
+ID: IMC	http://mykingtv.net:2082/live/zaki880/8890/7141.m3u8
+Wau	http://mykingtv.net:2082/live/zaki880/8890/7143.m3u8
+Blue Ant Extreme	http://mykingtv.net:2082/live/zaki880/8890/7148.m3u8
+Blue Ant Entertaiment	http://mykingtv.net:2082/live/zaki880/8890/7149.m3u8
+Galaxy HD	http://mykingtv.net:2082/live/zaki880/8890/7152.m3u8
+Galaxy Premium HD	http://mykingtv.net:2082/live/zaki880/8890/7153.m3u8
+STAR Movies Select HD	http://mykingtv.net:2082/live/zaki880/8890/8288.m3u8
+Showcase Movies	http://mykingtv.net:2082/live/zaki880/8890/8409.m3u8
+MyCinema HD	http://mykingtv.net:2082/live/zaki880/8890/8658.m3u8
+MyCinema Asia HD	http://mykingtv.net:2082/live/zaki880/8890/8660.m3u8
+MyFamily Channel HD	http://mykingtv.net:2082/live/zaki880/8890/8662.m3u8
+Syfy	http://mykingtv.net:2082/live/zaki880/8890/9673.m3u8
+MY:TV6	http://mykingtv.net:2082/live/zaki880/8890/8433.m3u8
+MY:MTV Channel	http://mykingtv.net:2082/live/zaki880/8890/12214.m3u8
+MY: BOO Sub Malay	http://mykingtv.net:2082/live/zaki880/8890/12224.m3u8
+3 Tamil TV [Not 24/7]	http://mykingtv.net:2082/live/zaki880/8890/12226.m3u8
+Aathavan TV Tamil[Not 24/7]	http://mykingtv.net:2082/live/zaki880/8890/12227.m3u8
+EET TV Tamil[Not 24/7]	http://mykingtv.net:2082/live/zaki880/8890/12228.m3u8
+Marutam TV Tamil 	http://mykingtv.net:2082/live/zaki880/8890/12229.m3u8
+Sana TV Tamil [Not 24/7]	http://mykingtv.net:2082/live/zaki880/8890/12230.m3u8
+Tamil Vision International (1080p)	http://mykingtv.net:2082/live/zaki880/8890/12231.m3u8
+Santhora Short Flim Tamil	http://mykingtv.net:2082/live/zaki880/8890/12236.m3u8
+Santhora TV Tamil (720p)	http://mykingtv.net:2082/live/zaki880/8890/12237.m3u8
+Discovery Asia	http://mykingtv.net:2082/live/zaki880/8890/12240.m3u8
+MY:Rubby Pass	http://mykingtv.net:2082/live/zaki880/8890/12215.m3u8
+Moonbug	http://mykingtv.net:2082/live/zaki880/8890/13313.m3u8
+Dunia Anak	http://mykingtv.net:2082/live/zaki880/8890/13314.m3u8
+TV3 C	http://mykingtv.net:2082/live/zaki880/8890/16114.m3u8
+Spotv 2	http://mykingtv.net:2082/live/zaki880/8890/11832.m3u8
+MY: ADITHYA	http://mykingtv.net:2082/live/zaki880/8890/12239.m3u8
+RTB GO	http://mykingtv.net:2082/live/zaki880/8890/18011.m3u8
+MY: Astro Vinmeen -REpairing	http://mykingtv.net:2082/live/zaki880/8890/5176.m3u8
+MY: Dunia Sinema HD	http://mykingtv.net:2082/live/zaki880/8890/8459.m3u8
+MY: Bollyone 	http://mykingtv.net:2082/live/zaki880/8890/12222.m3u8
+Astro Vellithirai	http://mykingtv.net:2082/live/zaki880/8890/9884.m3u8
+Arena Bola 2	http://mykingtv.net:2082/live/zaki880/8890/18864.m3u8
+TRAXXfm	http://mykingtv.net:2082/live/zaki880/8890/19153.m3u8
+MY: Fight Sports	http://mykingtv.net:2082/live/zaki880/8890/7179.m3u8
+Eurosport	http://mykingtv.net:2082/live/zaki880/8890/19745.m3u8
+Siaran Langsung Live 1ᴴᴰ	http://mykingtv.net:2082/live/zaki880/8890/20399.m3u8
+MY: Astro Premiere	http://mykingtv.net:2082/live/zaki880/8890/20770.m3u8
+MY:Bein 2	http://mykingtv.net:2082/live/zaki880/8890/20773.m3u8
+Arena Bola SPECIAL LIVE 2	http://mykingtv.net:2082/live/zaki880/8890/19068.m3u8
+Arena Bola SPECIAL LIVE	http://mykingtv.net:2082/live/zaki880/8890/19067.m3u8
+National Geographic FHD	http://mykingtv.net:2082/live/zaki880/8890/6992.m3u8
+MY: National Geographic HD	http://mykingtv.net:2082/live/zaki880/8890/5297.m3u8
+Movie Now FHD	http://mykingtv.net:2082/live/zaki880/8890/8542.m3u8
+Suria FM	http://mykingtv.net:2082/live/zaki880/8890/1292.m3u8
+AIfm	http://mykingtv.net:2082/live/zaki880/8890/22051.m3u8
+RADIO KLASIK	http://mykingtv.net:2082/live/zaki880/8890/22052.m3u8
+ASYIKfm	http://mykingtv.net:2082/live/zaki880/8890/22053.m3u8
+Mutiara FM	http://mykingtv.net:2082/live/zaki880/8890/22054.m3u8
+Rentak Kota FM	http://mykingtv.net:2082/live/zaki880/8890/22055.m3u8
+Selangor FM	http://mykingtv.net:2082/live/zaki880/8890/22056.m3u8
+Sabah FM 	http://mykingtv.net:2082/live/zaki880/8890/22057.m3u8
+Kedah FM	http://mykingtv.net:2082/live/zaki880/8890/22058.m3u8
+Kelantan FM	http://mykingtv.net:2082/live/zaki880/8890/22059.m3u8
+Terangganu FM	http://mykingtv.net:2082/live/zaki880/8890/22060.m3u8
+Negeri 9 FM	http://mykingtv.net:2082/live/zaki880/8890/22061.m3u8
+Johor FM	http://mykingtv.net:2082/live/zaki880/8890/22062.m3u8
+Pahang FM	http://mykingtv.net:2082/live/zaki880/8890/22063.m3u8
+Sarawak FM	http://mykingtv.net:2082/live/zaki880/8890/22064.m3u8
+Perak FM	http://mykingtv.net:2082/live/zaki880/8890/22065.m3u8
+Perlis FM	http://mykingtv.net:2082/live/zaki880/8890/22066.m3u8
+Melaka FM	http://mykingtv.net:2082/live/zaki880/8890/22067.m3u8
+Gegar Muzik FM	http://mykingtv.net:2082/live/zaki880/8890/22068.m3u8
+Gegar FM	http://mykingtv.net:2082/live/zaki880/8890/22069.m3u8
+Zayan	http://mykingtv.net:2082/live/zaki880/8890/22070.m3u8
+FLyz FM	http://mykingtv.net:2082/live/zaki880/8890/22071.m3u8
+Sony Ten3	http://mykingtv.net:2082/live/zaki880/8890/12991.m3u8
+Sony Ten2	http://mykingtv.net:2082/live/zaki880/8890/12990.m3u8
+Sony Ten1	http://mykingtv.net:2082/live/zaki880/8890/12989.m3u8
+Sony Six	http://mykingtv.net:2082/live/zaki880/8890/12988.m3u8
+DSTV:Maximo	http://mykingtv.net:2082/live/zaki880/8890/12738.m3u8
+DSTV: WWE	http://mykingtv.net:2082/live/zaki880/8890/12739.m3u8
+DSTV: SUPERSPORT CRICKET	http://mykingtv.net:2082/live/zaki880/8890/12740.m3u8
+DSTV: SUPERSPORT LA LIGA	http://mykingtv.net:2082/live/zaki880/8890/12741.m3u8
+DSTV: SUPERSPORT RUGBY	http://mykingtv.net:2082/live/zaki880/8890/12742.m3u8
+DSTV: SUPERSPORT VARIETY 1	http://mykingtv.net:2082/live/zaki880/8890/12743.m3u8
+DSTV: SUPERSPORT VARIETY 2	http://mykingtv.net:2082/live/zaki880/8890/12744.m3u8
+DSTV: SUPERSPORT VARIETY 3	http://mykingtv.net:2082/live/zaki880/8890/12745.m3u8
+DSTV: SUPERSPORT VARIETY 4	http://mykingtv.net:2082/live/zaki880/8890/12746.m3u8
+DSTV: SUPERSPORT GRANDSTAND	http://mykingtv.net:2082/live/zaki880/8890/12747.m3u8
+DSTV: SUPERSPORT PREMIER LEAGUE	http://mykingtv.net:2082/live/zaki880/8890/12748.m3u8
+DSTV: SUPERSPORT FOOTBALL	http://mykingtv.net:2082/live/zaki880/8890/12749.m3u8
+DSTV: SUPERSPORTS PSL	http://mykingtv.net:2082/live/zaki880/8890/12750.m3u8
+DSTV: SUPERSPORT BLITZ	http://mykingtv.net:2082/live/zaki880/8890/12752.m3u8
+DSTV: SUPERSPORT TENNIS	http://mykingtv.net:2082/live/zaki880/8890/12753.m3u8
+DSTV: SUPERSPORTS ACTION	http://mykingtv.net:2082/live/zaki880/8890/12754.m3u8
+DSTV: SUPERSPORT GOLF	http://mykingtv.net:2082/live/zaki880/8890/12755.m3u8
+DSTV: SUPERSPORT MOTORSPORT	http://mykingtv.net:2082/live/zaki880/8890/12756.m3u8
+LIGA ARAB SSC Sports 5 ᴴᴰ	http://mykingtv.net:2082/live/zaki880/8890/20458.m3u8
+LIGA ARAB SSC Sports 4 ᴴᴰ	http://mykingtv.net:2082/live/zaki880/8890/20457.m3u8
+LIGA ARAB SSC Sports 3 ᴴᴰ	http://mykingtv.net:2082/live/zaki880/8890/20456.m3u8
+LIGA ARAB SSC Sports 2 ᴴᴰ	http://mykingtv.net:2082/live/zaki880/8890/20455.m3u8
+LIGA ARAB SSC Sports 1 ᴴᴰ	http://mykingtv.net:2082/live/zaki880/8890/20454.m3u8
+Arena Bola 1	http://mykingtv.net:2082/live/zaki880/8890/18863.m3u8
+SIAR	http://mykingtv.net:2082/live/zaki880/8890/23348.m3u8
+MY: Drama Sangat	http://mykingtv.net:2082/live/zaki880/8890/8441.m3u8
+ID: Global Trekker	http://mykingtv.net:2082/live/zaki880/8890/19488.m3u8
+ID: Rock Action HD	http://mykingtv.net:2082/live/zaki880/8890/19487.m3u8
+ID: Cinemachi XTRA	http://mykingtv.net:2082/live/zaki880/8890/19486.m3u8
+ID: Cinemachi MAX	http://mykingtv.net:2082/live/zaki880/8890/19485.m3u8
+ID: Cinemachi Action	http://mykingtv.net:2082/live/zaki880/8890/19484.m3u8
+ID: Cinemachi Kids	http://mykingtv.net:2082/live/zaki880/8890/19483.m3u8
+ID: Cinemachi	http://mykingtv.net:2082/live/zaki880/8890/19482.m3u8
+IN: &Flix-REPAIRING	http://mykingtv.net:2082/live/zaki880/8890/5205.m3u8
+EURO 1	http://mykingtv.net:2082/live/zaki880/8890/24648.m3u8
+EURO 2	http://mykingtv.net:2082/live/zaki880/8890/24649.m3u8
+EURO 3	http://mykingtv.net:2082/live/zaki880/8890/24650.m3u8
+EURO 4	http://mykingtv.net:2082/live/zaki880/8890/24651.m3u8
+EURO 5	http://mykingtv.net:2082/live/zaki880/8890/24652.m3u8
+EURO 6	http://mykingtv.net:2082/live/zaki880/8890/24653.m3u8
+EURO 7-LIVE ONLY 	http://mykingtv.net:2082/live/zaki880/8890/24654.m3u8
+EURO 8	http://mykingtv.net:2082/live/zaki880/8890/24655.m3u8
+COPA 1	http://mykingtv.net:2082/live/zaki880/8890/24657.m3u8
+COPA 2	http://mykingtv.net:2082/live/zaki880/8890/24658.m3u8
+COPA 3	http://mykingtv.net:2082/live/zaki880/8890/24756.m3u8
+COPA 4	http://mykingtv.net:2082/live/zaki880/8890/24757.m3u8
+COPA 5	http://mykingtv.net:2082/live/zaki880/8890/24758.m3u8
+EURO 9	http://mykingtv.net:2082/live/zaki880/8890/24816.m3u8
+EURO 10	http://mykingtv.net:2082/live/zaki880/8890/24817.m3u8
+EURO 11	http://mykingtv.net:2082/live/zaki880/8890/24818.m3u8
+EURO 12	http://mykingtv.net:2082/live/zaki880/8890/24819.m3u8
+EURO 13	http://mykingtv.net:2082/live/zaki880/8890/24820.m3u8
+UEFA 1	http://mykingtv.net:2082/live/zaki880/8890/21475.m3u8
+UEFA 2	http://mykingtv.net:2082/live/zaki880/8890/21476.m3u8
+UEFA 	http://mykingtv.net:2082/live/zaki880/8890/21477.m3u8
+UEFA 4	http://mykingtv.net:2082/live/zaki880/8890/21478.m3u8

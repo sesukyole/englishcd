@@ -1,1254 +1,914 @@
-ID: Indosiar HD	http://mykingtv.net:2082/live/zaki880/8890/5117.m3u8
-ID: Citra Drama	http://mykingtv.net:2082/live/zaki880/8890/5118.m3u8
-ID: Citra Dangdut	http://mykingtv.net:2082/live/zaki880/8890/5120.m3u8
-ID: Jitv	http://mykingtv.net:2082/live/zaki880/8890/5123.m3u8
-ID: ANTV	http://mykingtv.net:2082/live/zaki880/8890/5124.m3u8
-ID: DAAI TV	http://mykingtv.net:2082/live/zaki880/8890/5126.m3u8
-ID: GTV	http://mykingtv.net:2082/live/zaki880/8890/5127.m3u8
-ID: IDX Channel	http://mykingtv.net:2082/live/zaki880/8890/5129.m3u8
-ID: Berita Satu	http://mykingtv.net:2082/live/zaki880/8890/5131.m3u8
-ID: INews TV[A]	http://mykingtv.net:2082/live/zaki880/8890/5132.m3u8
-ID: INews TV[B]	http://mykingtv.net:2082/live/zaki880/8890/5133.m3u8
-ID: CNN Indonesia	http://mykingtv.net:2082/live/zaki880/8890/5135.m3u8
-ID: Kompas TV	http://mykingtv.net:2082/live/zaki880/8890/5138.m3u8
-ID: MNC TV HD	http://mykingtv.net:2082/live/zaki880/8890/5139.m3u8
-ID: Net TV	http://mykingtv.net:2082/live/zaki880/8890/5140.m3u8
-ID: Jak TV	http://mykingtv.net:2082/live/zaki880/8890/5142.m3u8
-ID: RCTI HD	http://mykingtv.net:2082/live/zaki880/8890/5144.m3u8
-ID: SCTV	http://mykingtv.net:2082/live/zaki880/8890/5147.m3u8
-ID: Trans 7	http://mykingtv.net:2082/live/zaki880/8890/5149.m3u8
-ID: TransTV	http://mykingtv.net:2082/live/zaki880/8890/5151.m3u8
-ID: TVRI[A]	http://mykingtv.net:2082/live/zaki880/8890/5154.m3u8
-ID: TVRI[B]	http://mykingtv.net:2082/live/zaki880/8890/5155.m3u8
-ID: TVRI SPORT	http://mykingtv.net:2082/live/zaki880/8890/5156.m3u8
-ID: TVRI JAWA BARAT	http://mykingtv.net:2082/live/zaki880/8890/5158.m3u8
-ID: TVRI NASIONAL	http://mykingtv.net:2082/live/zaki880/8890/5159.m3u8
-ID: Magna Tv	http://mykingtv.net:2082/live/zaki880/8890/5162.m3u8
-ID: The Indonesia Channel	http://mykingtv.net:2082/live/zaki880/8890/5163.m3u8
-ID: Smithsonian Channel[A]	http://mykingtv.net:2082/live/zaki880/8890/5164.m3u8
-MY: CHUTTI TV	http://mykingtv.net:2082/live/zaki880/8890/5178.m3u8
-MY: MAKKAL TV	http://mykingtv.net:2082/live/zaki880/8890/5180.m3u8
-MY: Jaya TV	http://mykingtv.net:2082/live/zaki880/8890/5181.m3u8
-MY: Star Vijay	http://mykingtv.net:2082/live/zaki880/8890/5182.m3u8
-MY: SUN TV HD	http://mykingtv.net:2082/live/zaki880/8890/5183.m3u8
-MY: Zee TV HD	http://mykingtv.net:2082/live/zaki880/8890/5184.m3u8
-MY: Zee Action HD	http://mykingtv.net:2082/live/zaki880/8890/5185.m3u8
-MY: ZEE TAMIL	http://mykingtv.net:2082/live/zaki880/8890/5186.m3u8
-IN: ZEE ANMOL CINEMA	http://mykingtv.net:2082/live/zaki880/8890/5197.m3u8
-IN: Zee Tamil HD	http://mykingtv.net:2082/live/zaki880/8890/5204.m3u8
-IN: &TV HD	http://mykingtv.net:2082/live/zaki880/8890/5208.m3u8
-IN: B4U Plus	http://mykingtv.net:2082/live/zaki880/8890/5211.m3u8
-IN: ZING[B]	http://mykingtv.net:2082/live/zaki880/8890/5218.m3u8
-IN: TIME NOW	http://mykingtv.net:2082/live/zaki880/8890/5219.m3u8
-IN: 7Star	http://mykingtv.net:2082/live/zaki880/8890/5220.m3u8
-IN:MK TV	http://mykingtv.net:2082/live/zaki880/8890/5221.m3u8
-IN:KTV	http://mykingtv.net:2082/live/zaki880/8890/5222.m3u8
-IN:MANORANJAN MOVIES	http://mykingtv.net:2082/live/zaki880/8890/5224.m3u8
-IN:Wow Cinema	http://mykingtv.net:2082/live/zaki880/8890/5225.m3u8
-IN:Bolloywood HD	http://mykingtv.net:2082/live/zaki880/8890/5228.m3u8
-MY: Astro Ceria [A]	http://mykingtv.net:2082/live/zaki880/8890/5274.m3u8
-MY: Astro Ceria [B]	http://mykingtv.net:2082/live/zaki880/8890/5275.m3u8
-MY: Animax	http://mykingtv.net:2082/live/zaki880/8890/5277.m3u8
-MY: Boomerang	http://mykingtv.net:2082/live/zaki880/8890/5279.m3u8
-MY: Cartoon Network FHD	http://mykingtv.net:2082/live/zaki880/8890/5280.m3u8
-MY: Nickelodeon	http://mykingtv.net:2082/live/zaki880/8890/5281.m3u8
-MY: Nick Jr	http://mykingtv.net:2082/live/zaki880/8890/5282.m3u8
-MY: Baby Tv	http://mykingtv.net:2082/live/zaki880/8890/5286.m3u8
-Horee	http://mykingtv.net:2082/live/zaki880/8890/5287.m3u8
-Hip Hip Horee!	http://mykingtv.net:2082/live/zaki880/8890/5289.m3u8
-Dreamwork	http://mykingtv.net:2082/live/zaki880/8890/5290.m3u8
-Anime	http://mykingtv.net:2082/live/zaki880/8890/5292.m3u8
-MY: Animal Planet	http://mykingtv.net:2082/live/zaki880/8890/5296.m3u8
-MY: Nat Geo Wild	http://mykingtv.net:2082/live/zaki880/8890/5299.m3u8
-MY: History	http://mykingtv.net:2082/live/zaki880/8890/5300.m3u8
-MY: HGTV HD	http://mykingtv.net:2082/live/zaki880/8890/5301.m3u8
-MY: AFN HD	http://mykingtv.net:2082/live/zaki880/8890/5302.m3u8
-MY: Crime + Investigation HD	http://mykingtv.net:2082/live/zaki880/8890/5303.m3u8
-CGTN	http://mykingtv.net:2082/live/zaki880/8890/5305.m3u8
-CGTN Documentary	http://mykingtv.net:2082/live/zaki880/8890/5306.m3u8
-ID:Nagaswara	http://mykingtv.net:2082/live/zaki880/8890/6726.m3u8
-TVN FHD	http://mykingtv.net:2082/live/zaki880/8890/6949.m3u8
-TVN Movies FHD	http://mykingtv.net:2082/live/zaki880/8890/6950.m3u8
-K PLUS FHD	http://mykingtv.net:2082/live/zaki880/8890/6951.m3u8
-KIX FHD	http://mykingtv.net:2082/live/zaki880/8890/6952.m3u8
-Sony GEM FHD	http://mykingtv.net:2082/live/zaki880/8890/6954.m3u8
-KBSWorld FHD	http://mykingtv.net:2082/live/zaki880/8890/6955.m3u8
-Cinemax by HBO FHD	http://mykingtv.net:2082/live/zaki880/8890/6963.m3u8
-HBO FHD	http://mykingtv.net:2082/live/zaki880/8890/6964.m3u8
-HBO Hits FHD	http://mykingtv.net:2082/live/zaki880/8890/6965.m3u8
-HBO Signature FHD	http://mykingtv.net:2082/live/zaki880/8890/6966.m3u8
-HBO Family FHD	http://mykingtv.net:2082/live/zaki880/8890/6967.m3u8
-Sony Pix FHD	http://mykingtv.net:2082/live/zaki880/8890/7024.m3u8
-Galaxy FHD	http://mykingtv.net:2082/live/zaki880/8890/6969.m3u8
-Galaxy Premium FHD	http://mykingtv.net:2082/live/zaki880/8890/6970.m3u8
-Warner TV FHD	http://mykingtv.net:2082/live/zaki880/8890/6971.m3u8
-CinemaWorld FHD	http://mykingtv.net:2082/live/zaki880/8890/6972.m3u8
-Flik FHD	http://mykingtv.net:2082/live/zaki880/8890/6973.m3u8
-IMC FHD	http://mykingtv.net:2082/live/zaki880/8890/6974.m3u8
-TRANS TV FHD	http://mykingtv.net:2082/live/zaki880/8890/6975.m3u8
-TRANS 7 FHD	http://mykingtv.net:2082/live/zaki880/8890/6976.m3u8
-GTV FHD	http://mykingtv.net:2082/live/zaki880/8890/6977.m3u8
-Jowo Channel FHD	http://mykingtv.net:2082/live/zaki880/8890/6981.m3u8
-INDOSIAR FHD	http://mykingtv.net:2082/live/zaki880/8890/6982.m3u8
-NET FHD	http://mykingtv.net:2082/live/zaki880/8890/6983.m3u8
-SCTV FHD	http://mykingtv.net:2082/live/zaki880/8890/6984.m3u8
-AXN FHD	http://mykingtv.net:2082/live/zaki880/8890/6985.m3u8
-BlueAnt FHD	http://mykingtv.net:2082/live/zaki880/8890/6987.m3u8
-Blue Ant Extreame FHD	http://mykingtv.net:2082/live/zaki880/8890/6988.m3u8
-Animal Planet FHD	http://mykingtv.net:2082/live/zaki880/8890/6989.m3u8
-History FHD	http://mykingtv.net:2082/live/zaki880/8890/6990.m3u8
-Discovery Channel HD	http://mykingtv.net:2082/live/zaki880/8890/6991.m3u8
-Nat Geo Wild FHD	http://mykingtv.net:2082/live/zaki880/8890/6994.m3u8
-HGTV FHD	http://mykingtv.net:2082/live/zaki880/8890/6995.m3u8
-AFN FHD	http://mykingtv.net:2082/live/zaki880/8890/6996.m3u8
-Lifetime FHD	http://mykingtv.net:2082/live/zaki880/8890/6997.m3u8
-Star Movies FHD	http://mykingtv.net:2082/live/zaki880/8890/7025.m3u8
-MY: BBC Earth	http://mykingtv.net:2082/live/zaki880/8890/5304.m3u8
-MY:RTM Sport FHD	http://mykingtv.net:2082/live/zaki880/8890/7155.m3u8
-MY: Astro Arena[A]	http://mykingtv.net:2082/live/zaki880/8890/7156.m3u8
-MY: Astro Arena[B]	http://mykingtv.net:2082/live/zaki880/8890/7157.m3u8
-MY: WWE [A]	http://mykingtv.net:2082/live/zaki880/8890/7169.m3u8
-MY: WWE [B]	http://mykingtv.net:2082/live/zaki880/8890/7170.m3u8
-MY: Astro Golf	http://mykingtv.net:2082/live/zaki880/8890/7516.m3u8
-MY: Astro Cricket	http://mykingtv.net:2082/live/zaki880/8890/7517.m3u8
-RedBull Tv	http://mykingtv.net:2082/live/zaki880/8890/7186.m3u8
-UFC Fight	http://mykingtv.net:2082/live/zaki880/8890/7187.m3u8
-MUTV(B)	http://mykingtv.net:2082/live/zaki880/8890/7271.m3u8
-LiverPool Fc	http://mykingtv.net:2082/live/zaki880/8890/7218.m3u8
-Era FM	http://mykingtv.net:2082/live/zaki880/8890/1290.m3u8
-Hot FM	http://mykingtv.net:2082/live/zaki880/8890/1291.m3u8
-Sinar FM	http://mykingtv.net:2082/live/zaki880/8890/1293.m3u8
-Dunia Lain	http://mykingtv.net:2082/live/zaki880/8890/8264.m3u8
-MY: Aniplus FHD	http://mykingtv.net:2082/live/zaki880/8890/5278.m3u8
-MY: TV 1 [B]	http://mykingtv.net:2082/live/zaki880/8890/8428.m3u8
-MY: TV 2 [A]	http://mykingtv.net:2082/live/zaki880/8890/8429.m3u8
-MY: TV 2 [B]	http://mykingtv.net:2082/live/zaki880/8890/8430.m3u8
-MY: TV 3 [A]	http://mykingtv.net:2082/live/zaki880/8890/8431.m3u8
-MY: TV 3 [B]	http://mykingtv.net:2082/live/zaki880/8890/8432.m3u8
-MY: NTV 7 [A]	http://mykingtv.net:2082/live/zaki880/8890/8434.m3u8
-MY: Tv 8 [A]	http://mykingtv.net:2082/live/zaki880/8890/8436.m3u8
-MY: Tv 9 [A]	http://mykingtv.net:2082/live/zaki880/8890/8438.m3u8
-MY: Tv 9 [B]	http://mykingtv.net:2082/live/zaki880/8890/8439.m3u8
-MY: Awesome TV-REPAIRING	http://mykingtv.net:2082/live/zaki880/8890/8442.m3u8
-MY: Astro Ria [A]	http://mykingtv.net:2082/live/zaki880/8890/8444.m3u8
-MY: Astro Ria [B]	http://mykingtv.net:2082/live/zaki880/8890/8445.m3u8
-MY: Astro Prima [A]	http://mykingtv.net:2082/live/zaki880/8890/8446.m3u8
-MY: Astro Prima [B]	http://mykingtv.net:2082/live/zaki880/8890/8447.m3u8
-MY: Astro Warna [A]	http://mykingtv.net:2082/live/zaki880/8890/8448.m3u8
-MY: Astro Warna [B]	http://mykingtv.net:2082/live/zaki880/8890/8449.m3u8
-MY: Astro Oasis [A]	http://mykingtv.net:2082/live/zaki880/8890/8451.m3u8
-MY: Astro Oasis [B]	http://mykingtv.net:2082/live/zaki880/8890/8452.m3u8
-MY: Astro Citra [A]	http://mykingtv.net:2082/live/zaki880/8890/8453.m3u8
-MY: Astro Citra [B]	http://mykingtv.net:2082/live/zaki880/8890/8454.m3u8
-MY: Astro Rania	http://mykingtv.net:2082/live/zaki880/8890/8455.m3u8
-MY: Astro Aura	http://mykingtv.net:2082/live/zaki880/8890/8456.m3u8
-MY: Astro BOO	http://mykingtv.net:2082/live/zaki880/8890/8457.m3u8
-MY: TVS	http://mykingtv.net:2082/live/zaki880/8890/8458.m3u8
-MY: K+	http://mykingtv.net:2082/live/zaki880/8890/8467.m3u8
-MY: ONE HD	http://mykingtv.net:2082/live/zaki880/8890/8468.m3u8
-MY: iQIYI	http://mykingtv.net:2082/live/zaki880/8890/8469.m3u8
-MY: GO SHOP 120 Gaya	http://mykingtv.net:2082/live/zaki880/8890/8471.m3u8
-MY: GO SHOP HD	http://mykingtv.net:2082/live/zaki880/8890/8472.m3u8
-MY: Bernama	http://mykingtv.net:2082/live/zaki880/8890/8474.m3u8
-MY: PARLIMEN RTM	http://mykingtv.net:2082/live/zaki880/8890/8475.m3u8
-MY:TLC	http://mykingtv.net:2082/live/zaki880/8890/8476.m3u8
-MY:RTB GO	http://mykingtv.net:2082/live/zaki880/8890/8477.m3u8
-MY:IKIM	http://mykingtv.net:2082/live/zaki880/8890/8478.m3u8
-MY: Astro Awani	http://mykingtv.net:2082/live/zaki880/8890/8479.m3u8
-MY: TV ALHIJRAH	http://mykingtv.net:2082/live/zaki880/8890/8480.m3u8
-MY: Astro Aec(down)	http://mykingtv.net:2082/live/zaki880/8890/8483.m3u8
-MY: Astro Quanjia(down)	http://mykingtv.net:2082/live/zaki880/8890/8485.m3u8
-MY: Astro Hua Hee Dai	http://mykingtv.net:2082/live/zaki880/8890/8486.m3u8
-MY: TVBS News	http://mykingtv.net:2082/live/zaki880/8890/8489.m3u8
-MY: TVBJ	http://mykingtv.net:2082/live/zaki880/8890/8490.m3u8
-MY: TVB XING HE	http://mykingtv.net:2082/live/zaki880/8890/8491.m3u8
-MY: TVB CLASSIC	http://mykingtv.net:2082/live/zaki880/8890/8492.m3u8
-MY: CCTV4	http://mykingtv.net:2082/live/zaki880/8890/8498.m3u8
- Vijay Tv	http://mykingtv.net:2082/live/zaki880/8890/8506.m3u8
-MY:Bein 3	http://mykingtv.net:2082/live/zaki880/8890/8413.m3u8
-MY:Bein Sports 1	http://mykingtv.net:2082/live/zaki880/8890/8414.m3u8
-MY: Astro Super Sport 1	http://mykingtv.net:2082/live/zaki880/8890/8416.m3u8
-MY: Astro Super Sport 2	http://mykingtv.net:2082/live/zaki880/8890/8417.m3u8
-MY: Astro Super Sport 3	http://mykingtv.net:2082/live/zaki880/8890/8418.m3u8
-MY: Astro Super Sport 4	http://mykingtv.net:2082/live/zaki880/8890/8419.m3u8
-MY: Astro Vaanavil	http://mykingtv.net:2082/live/zaki880/8890/5175.m3u8
-MY: Colors HD	http://mykingtv.net:2082/live/zaki880/8890/5179.m3u8
-SG: Channel 5	http://mykingtv.net:2082/live/zaki880/8890/8507.m3u8
-SG: Channel 8	http://mykingtv.net:2082/live/zaki880/8890/8508.m3u8
-SG: Channel U	http://mykingtv.net:2082/live/zaki880/8890/8509.m3u8
-SG: Suria	http://mykingtv.net:2082/live/zaki880/8890/8510.m3u8
-SG: Vasantham	http://mykingtv.net:2082/live/zaki880/8890/8511.m3u8
-SG: CNA	http://mykingtv.net:2082/live/zaki880/8890/8512.m3u8
-Food Network	http://mykingtv.net:2082/live/zaki880/8890/8635.m3u8
- Disney Jr	http://mykingtv.net:2082/live/zaki880/8890/5284.m3u8
- Disney Channel	http://mykingtv.net:2082/live/zaki880/8890/5283.m3u8
-Disney XD HD	http://mykingtv.net:2082/live/zaki880/8890/8647.m3u8
-MY: Astro Super Sport 5	http://mykingtv.net:2082/live/zaki880/8890/8649.m3u8
-Spotv	http://mykingtv.net:2082/live/zaki880/8890/8650.m3u8
-Al Quran Al Kareem (Mecca)	http://mykingtv.net:2082/live/zaki880/8890/8654.m3u8
-Al Sunnah (Medina)	http://mykingtv.net:2082/live/zaki880/8890/8655.m3u8
-Makkah TV	http://mykingtv.net:2082/live/zaki880/8890/8656.m3u8
-MY:Arena 2	http://mykingtv.net:2082/live/zaki880/8890/8648.m3u8
-BEIN SPORT 1 ID 60FPS FHD	http://mykingtv.net:2082/live/zaki880/8890/8651.m3u8
-BEIN SPORT 2 ID 60FPS FHD	http://mykingtv.net:2082/live/zaki880/8890/8652.m3u8
-[001] Surah Al-Fatihah (Pembukaan)	http://mykingtv.net:2082/live/zaki880/8890/8716.m3u8
-[002] Surah Al-Baqarah 	http://mykingtv.net:2082/live/zaki880/8890/8717.m3u8
-[003] Surah Ali 'Imran (Keluarga Imran)	http://mykingtv.net:2082/live/zaki880/8890/8718.m3u8
-[004] Surah An-Nisaa' (Wanita)	http://mykingtv.net:2082/live/zaki880/8890/8719.m3u8
-[005] Surah Al-Maa'idah (Hidangan)	http://mykingtv.net:2082/live/zaki880/8890/8720.m3u8
-[006] Surah Al-An'aam 	http://mykingtv.net:2082/live/zaki880/8890/8721.m3u8
-[007] Surah Al-A'raaf (Tempat Tertinggi)	http://mykingtv.net:2082/live/zaki880/8890/8722.m3u8
-[008] Surah Al-Anfaal (Rampasan Perang)	http://mykingtv.net:2082/live/zaki880/8890/8723.m3u8
-[009] Surah At-Taubah (Pengampunan)	http://mykingtv.net:2082/live/zaki880/8890/8724.m3u8
-[010] Surah Yunus (Nabi Yunus a.s.)	http://mykingtv.net:2082/live/zaki880/8890/8725.m3u8
-[011] Surah Hud (Nabi Hud a.s.)	http://mykingtv.net:2082/live/zaki880/8890/8726.m3u8
-[012] Surah Yusuf (Nabi Yusuf a.s.)	http://mykingtv.net:2082/live/zaki880/8890/8727.m3u8
-[013] Surah Ar-Ra'd (Guruh)	http://mykingtv.net:2082/live/zaki880/8890/8728.m3u8
-[014] Surah Ibrahim (Nabi Ibrahim a.	http://mykingtv.net:2082/live/zaki880/8890/8729.m3u8
-[015] Surah Al-Hijr (Kawasan Berbatu)	http://mykingtv.net:2082/live/zaki880/8890/8730.m3u8
-[016] Surah An-Nahl 	http://mykingtv.net:2082/live/zaki880/8890/8731.m3u8
-[017] Surah Al-Israa' (Perjalanan Malam)	http://mykingtv.net:2082/live/zaki880/8890/8732.m3u8
-[018] Surah Al-Kahfi (Gua)	http://mykingtv.net:2082/live/zaki880/8890/8733.m3u8
-[019] Surah Maryam (Siti Maryam)	http://mykingtv.net:2082/live/zaki880/8890/8734.m3u8
-[020] Surah Taahaa	http://mykingtv.net:2082/live/zaki880/8890/8735.m3u8
-[021] Surah Al-Anbiyaa' (Para Nabi)	http://mykingtv.net:2082/live/zaki880/8890/8736.m3u8
-[022] Surah Al-Hajj (Haji)	http://mykingtv.net:2082/live/zaki880/8890/8737.m3u8
-[023] Surah Al-Mu'minun (Orang-Orang Mukmin)	http://mykingtv.net:2082/live/zaki880/8890/8738.m3u8
-[024] Surah An-Nur (Cahaya)	http://mykingtv.net:2082/live/zaki880/8890/8739.m3u8
-[025] Surah Al-Furqaan (Pembeda)	http://mykingtv.net:2082/live/zaki880/8890/8740.m3u8
-[026] Surah Asy-Syu'ara' (Para Penyair)	http://mykingtv.net:2082/live/zaki880/8890/8741.m3u8
-[027] Surah An-Naml 	http://mykingtv.net:2082/live/zaki880/8890/8742.m3u8
-[028] Surah Al-Qasas (Cerita-cerita)	http://mykingtv.net:2082/live/zaki880/8890/8743.m3u8
-[029] Surah Al-'Ankabut 	http://mykingtv.net:2082/live/zaki880/8890/8744.m3u8
-[030] Surah Ar-Rum (Bangsa Rom)	http://mykingtv.net:2082/live/zaki880/8890/8745.m3u8
-[031] Surah Luqman (Luqman)	http://mykingtv.net:2082/live/zaki880/8890/8746.m3u8
-[032] Surah As-Sajdah (Sujud)	http://mykingtv.net:2082/live/zaki880/8890/8747.m3u8
-[033] Surah Al-Ahzab (Golongan yang Bersekutu)	http://mykingtv.net:2082/live/zaki880/8890/8748.m3u8
-[034] Surah Saba' (Kaum Saba')	http://mykingtv.net:2082/live/zaki880/8890/8749.m3u8
-[035] Surah Faatir (Pencipta)	http://mykingtv.net:2082/live/zaki880/8890/8750.m3u8
-[036] Surah Yaasin	http://mykingtv.net:2082/live/zaki880/8890/8751.m3u8
-[037] Surah As-Saffat (Barisan-Barisan)	http://mykingtv.net:2082/live/zaki880/8890/8752.m3u8
-[038] Surah Saad	http://mykingtv.net:2082/live/zaki880/8890/8753.m3u8
-[039] Surah Az-Zumar (Rombongan)	http://mykingtv.net:2082/live/zaki880/8890/8754.m3u8
-[040] Surah Fussilat (Dijelaskan)	http://mykingtv.net:2082/live/zaki880/8890/8755.m3u8
-[041] Surah Fussilat (Dijelaskan)	http://mykingtv.net:2082/live/zaki880/8890/8756.m3u8
-[042] Surah Asy-Syuraa (Permesyuaratan)	http://mykingtv.net:2082/live/zaki880/8890/8757.m3u8
-[043] Surah Az-Zukhruf (Perhiasan Emas)	http://mykingtv.net:2082/live/zaki880/8890/8758.m3u8
-[044] Surah Ad-Dukhan (Kabut)	http://mykingtv.net:2082/live/zaki880/8890/8759.m3u8
-[045] Surah Al-Jatsiyah (Yang Berlutut)	http://mykingtv.net:2082/live/zaki880/8890/8760.m3u8
-[046] Surah Al-Ahqaaf (Bukit-bukit Pasir)	http://mykingtv.net:2082/live/zaki880/8890/8761.m3u8
-[047] Surah Muhammad (Nabi Muhammad SAW)	http://mykingtv.net:2082/live/zaki880/8890/8762.m3u8
-[048] Surah Al-Fath (Kemenangan)	http://mykingtv.net:2082/live/zaki880/8890/8763.m3u8
-[049] Surah Al-Hujurat (Bilik-bilik)	http://mykingtv.net:2082/live/zaki880/8890/8764.m3u8
-[050] Surah Qaaf	http://mykingtv.net:2082/live/zaki880/8890/8765.m3u8
-[051] Surah Adz-Dzariyaat (Angin yang Menerbangkan)	http://mykingtv.net:2082/live/zaki880/8890/8766.m3u8
-[052] Surah At-Tur (Bukit)	http://mykingtv.net:2082/live/zaki880/8890/8767.m3u8
-[053] Surah An-Najm 	http://mykingtv.net:2082/live/zaki880/8890/8768.m3u8
-[054] Surah Al-Qamar (Bulan)	http://mykingtv.net:2082/live/zaki880/8890/8769.m3u8
-[055] Surah Ar-Rahman (Yang Maha Pemurah)	http://mykingtv.net:2082/live/zaki880/8890/8770.m3u8
-[056] Surah Al-Waqi'ah (Hari Kiamat)	http://mykingtv.net:2082/live/zaki880/8890/8771.m3u8
-[057] Surah Al-Hadid (Besi)	http://mykingtv.net:2082/live/zaki880/8890/8772.m3u8
-[058] Surah Al-Mujadilah (Perempuan yang Merayu)	http://mykingtv.net:2082/live/zaki880/8890/8773.m3u8
-[059] Surah Al-Hasyr (Pengusiran)	http://mykingtv.net:2082/live/zaki880/8890/8774.m3u8
-[060] Surah Al-Mumtahanah (Perempuan yang Diuji)	http://mykingtv.net:2082/live/zaki880/8890/8775.m3u8
-[061] Surah As-Saf (Barisan)	http://mykingtv.net:2082/live/zaki880/8890/8776.m3u8
-[062] Surah Al-Jumu'ah (Hari Jumaat)	http://mykingtv.net:2082/live/zaki880/8890/8777.m3u8
-[063] Surah Al-Munafiquun (Golongan Munafik)	http://mykingtv.net:2082/live/zaki880/8890/8778.m3u8
-[064] Surah At-Taghabun (Dinampakkan Kesalahan)	http://mykingtv.net:2082/live/zaki880/8890/8779.m3u8
-[065] Surah At-Talaq	http://mykingtv.net:2082/live/zaki880/8890/8780.m3u8
-[066] Surah At-Tahrim (Mengharamkan)	http://mykingtv.net:2082/live/zaki880/8890/8781.m3u8
-[067] Surah Al-Mulk (Kerajaan)	http://mykingtv.net:2082/live/zaki880/8890/8782.m3u8
-[068] Surah Al-Qalam (Pena / Kalam)	http://mykingtv.net:2082/live/zaki880/8890/8783.m3u8
-[069] Surah Al-Haaqqah (Keadaan Sebenar / Hari Kiamat)	http://mykingtv.net:2082/live/zaki880/8890/8784.m3u8
-[070] Surah Al-Maâarij (Tempat Naik)	http://mykingtv.net:2082/live/zaki880/8890/8785.m3u8
-[071] Surah Nuh (Nabi Nuh a.s.)	http://mykingtv.net:2082/live/zaki880/8890/8786.m3u8
-[072] Surah Al-Jinn (Jin)	http://mykingtv.net:2082/live/zaki880/8890/8787.m3u8
-[073] Surah Al-Muzammil (Yang Berselimut)	http://mykingtv.net:2082/live/zaki880/8890/8788.m3u8
-[074] Surah Al-Muddathir (Yang Berselubung)	http://mykingtv.net:2082/live/zaki880/8890/8789.m3u8
-[075] Surah Al-Qiyaamah (Hari Kebangkitan / Kiamat)	http://mykingtv.net:2082/live/zaki880/8890/8790.m3u8
-[076] Surah Al-Insan (Manusia)	http://mykingtv.net:2082/live/zaki880/8890/8791.m3u8
-[077] Surah Al-Mursalat (Malaikat Yang Diutus)	http://mykingtv.net:2082/live/zaki880/8890/8792.m3u8
-[078] Surah An-Naba' (Berita Besar)	http://mykingtv.net:2082/live/zaki880/8890/8793.m3u8
-[079] Surah An-Naazi'aat (Malaikat Yang Mencabut)	http://mykingtv.net:2082/live/zaki880/8890/8794.m3u8
-[080] Surah 'Abasa (Dia Bermasam Muka)	http://mykingtv.net:2082/live/zaki880/8890/8795.m3u8
-[081] Surah At-Takwiir (Menggulung)	http://mykingtv.net:2082/live/zaki880/8890/8796.m3u8
-[082] Surah Al-Infitar (Terbelah)	http://mykingtv.net:2082/live/zaki880/8890/8797.m3u8
-[083] Surah Al-Mutaffifiin (Golongan yang Curang)	http://mykingtv.net:2082/live/zaki880/8890/8798.m3u8
-[084] Surah Al-Insyiqaaq (Terbelah)	http://mykingtv.net:2082/live/zaki880/8890/8799.m3u8
-[085] Surah Al-Buruj 	http://mykingtv.net:2082/live/zaki880/8890/8800.m3u8
-[086] Surah At-Taariq (Pengunjung Malam)	http://mykingtv.net:2082/live/zaki880/8890/8801.m3u8
-[087] Surah Al-A'la (Maha Tinggi)	http://mykingtv.net:2082/live/zaki880/8890/8802.m3u8
-[088] Surah Al-Ghaasyiah (Peristiwa Menggelisahkan/Hari Pembalasan)	http://mykingtv.net:2082/live/zaki880/8890/8803.m3u8
-[089] Surah Al-Fajr (Fajar / Sinar Mentari)	http://mykingtv.net:2082/live/zaki880/8890/8804.m3u8
-[090] Surah Al-Balad (Negeri)	http://mykingtv.net:2082/live/zaki880/8890/8805.m3u8
-[091] Surah Asy-Syams (Matahari)	http://mykingtv.net:2082/live/zaki880/8890/8806.m3u8
-[092] Surah Al-Lail (Malam)	http://mykingtv.net:2082/live/zaki880/8890/8807.m3u8
-[093] Surah Adh-Dhuha (Pagi yang Cemerlang / Matahari Meninggi)	http://mykingtv.net:2082/live/zaki880/8890/8808.m3u8
-[094] Surah Al-Insyirah/An-Nasyrah (Melapangkan)	http://mykingtv.net:2082/live/zaki880/8890/8809.m3u8
-[095] Surah At-Tin (Buah Tin / Buah Ara)	http://mykingtv.net:2082/live/zaki880/8890/8810.m3u8
-[096] Surah Al-'Alaq (Segumpal Darah)	http://mykingtv.net:2082/live/zaki880/8890/8811.m3u8
-[097] Surah Al-Qadr (Kemuliaan)	http://mykingtv.net:2082/live/zaki880/8890/8812.m3u8
-[098] Surah Al-Baiyinah (Bukti yang Nyata)	http://mykingtv.net:2082/live/zaki880/8890/8813.m3u8
-[099] Surah Al-Zalzalah (Kegoncangan)	http://mykingtv.net:2082/live/zaki880/8890/8814.m3u8
-[100] Surah Al-'Aadiyaat (Yang Berlari Kencang)	http://mykingtv.net:2082/live/zaki880/8890/8815.m3u8
-[101] Surah Al-Qari'ah (Hari Yang Hingar Bingar/kiamat)	http://mykingtv.net:2082/live/zaki880/8890/8816.m3u8
-[102] Surah At-Takathur (Bermegah-Megah)	http://mykingtv.net:2082/live/zaki880/8890/8817.m3u8
-[103] Surah Al-'Asr (Masa)	http://mykingtv.net:2082/live/zaki880/8890/8818.m3u8
-[104] Surah Al-Humazah (Pengumpat)	http://mykingtv.net:2082/live/zaki880/8890/8819.m3u8
-[105] Surah Al-Fil 	http://mykingtv.net:2082/live/zaki880/8890/8820.m3u8
-[106] Surah Quraisy (Kaum Quraisy)	http://mykingtv.net:2082/live/zaki880/8890/8821.m3u8
-[111] Surah Al-Masad / Al-Lahab (Nyalaan Api)	http://mykingtv.net:2082/live/zaki880/8890/8822.m3u8
-[112] Surah Al-Ikhlas (Tulus Ikhlas / Memurnikan Keesaan Allah)	http://mykingtv.net:2082/live/zaki880/8890/8823.m3u8
-[113] Surah Al-Falaq (Waktu Subuh / Dinihari)	http://mykingtv.net:2082/live/zaki880/8890/8824.m3u8
-[114] Surah An-Naas (Manusia)	http://mykingtv.net:2082/live/zaki880/8890/8825.m3u8
-SAUDI QURAN TV	http://mykingtv.net:2082/live/zaki880/8890/8840.m3u8
-SAUDI QURAN TV (Intech)	http://mykingtv.net:2082/live/zaki880/8890/8841.m3u8
-INSAN TV	http://mykingtv.net:2082/live/zaki880/8890/8849.m3u8
-AL IMAN TV (Intech)	http://mykingtv.net:2082/live/zaki880/8890/8851.m3u8
-WESAL TV	http://mykingtv.net:2082/live/zaki880/8890/8852.m3u8
-WESAL TV (Intech)	http://mykingtv.net:2082/live/zaki880/8890/8853.m3u8
-SURAU TV (Intech)	http://mykingtv.net:2082/live/zaki880/8890/8855.m3u8
-AHSAN TV	http://mykingtv.net:2082/live/zaki880/8890/8856.m3u8
-NIAGA TV (Intech)	http://mykingtv.net:2082/live/zaki880/8890/8858.m3u8
-ASHIIL TV (Intech)	http://mykingtv.net:2082/live/zaki880/8890/8860.m3u8
-binbaz TV	http://mykingtv.net:2082/live/zaki880/8890/8861.m3u8
-Muadz TV	http://mykingtv.net:2082/live/zaki880/8890/8862.m3u8
-Muadz TV (Intech)	http://mykingtv.net:2082/live/zaki880/8890/8863.m3u8
-RadioKita TV	http://mykingtv.net:2082/live/zaki880/8890/8864.m3u8
-Hijrah TV	http://mykingtv.net:2082/live/zaki880/8890/8865.m3u8
-RIFQAN TV	http://mykingtv.net:2082/live/zaki880/8890/8866.m3u8
-Al Furqon TV	http://mykingtv.net:2082/live/zaki880/8890/8867.m3u8
-Rasyaad TV	http://mykingtv.net:2082/live/zaki880/8890/8869.m3u8
-MGI TV	http://mykingtv.net:2082/live/zaki880/8890/8870.m3u8
-IZZAH TV	http://mykingtv.net:2082/live/zaki880/8890/8871.m3u8
-IZZAH TV 2	http://mykingtv.net:2082/live/zaki880/8890/8872.m3u8
-IZZAH TV (Intech)	http://mykingtv.net:2082/live/zaki880/8890/8873.m3u8
-Salam TV	http://mykingtv.net:2082/live/zaki880/8890/8875.m3u8
-Sunnah TV	http://mykingtv.net:2082/live/zaki880/8890/8876.m3u8
-Media Sunnah Aceh	http://mykingtv.net:2082/live/zaki880/8890/8878.m3u8
-RTV Rwanda	http://mykingtv.net:2082/live/zaki880/8890/8926.m3u8
-RTV Rwanda (576p)	http://mykingtv.net:2082/live/zaki880/8890/8927.m3u8
-Bloomberg TV EMEA Live Event (720p)	http://mykingtv.net:2082/live/zaki880/8890/8928.m3u8
-Bloomberg TV Asia (720p)	http://mykingtv.net:2082/live/zaki880/8890/8929.m3u8
-Bloomberg TV Asia (720p)	http://mykingtv.net:2082/live/zaki880/8890/8930.m3u8
-Bloomberg TV Asia Live Event (720p)	http://mykingtv.net:2082/live/zaki880/8890/8931.m3u8
-Channel V	http://mykingtv.net:2082/live/zaki880/8890/8932.m3u8
-Bloomberg TV EMEA Live Event (720p)	http://mykingtv.net:2082/live/zaki880/8890/8933.m3u8
-Bloomberg TV Europe (2160p)	http://mykingtv.net:2082/live/zaki880/8890/8934.m3u8
-Bloomberg TV Europe (720p)	http://mykingtv.net:2082/live/zaki880/8890/8935.m3u8
-Bloomberg TV Europe (720p)	http://mykingtv.net:2082/live/zaki880/8890/8936.m3u8
-MTV Hits Europe (576p)	http://mykingtv.net:2082/live/zaki880/8890/8937.m3u8
-San Marino RTV (720p)	http://mykingtv.net:2082/live/zaki880/8890/8938.m3u8
-San Marino RTV Sport (240p)	http://mykingtv.net:2082/live/zaki880/8890/8939.m3u8
-22 TV	http://mykingtv.net:2082/live/zaki880/8890/8940.m3u8
-3eesh Al Aan TV	http://mykingtv.net:2082/live/zaki880/8890/8941.m3u8
-Abu Dhabi Drama (1080p)	http://mykingtv.net:2082/live/zaki880/8890/8942.m3u8
-Abu Dhabi Sports 1 (1080p)	http://mykingtv.net:2082/live/zaki880/8890/8943.m3u8
-Abu Dhabi Sports 4 (1080p) [Geo-blocked]	http://mykingtv.net:2082/live/zaki880/8890/8944.m3u8
-Africa TV2 (720p)	http://mykingtv.net:2082/live/zaki880/8890/8945.m3u8
-Africa TV3 (720p)	http://mykingtv.net:2082/live/zaki880/8890/8946.m3u8
-Ahlu Al Quran TV (720p)	http://mykingtv.net:2082/live/zaki880/8890/8947.m3u8
-Al Arabiya (1080p)	http://mykingtv.net:2082/live/zaki880/8890/8948.m3u8
-Al Ekhbariya (1080p)	http://mykingtv.net:2082/live/zaki880/8890/8949.m3u8
-AL HOKAIR Group TV	http://mykingtv.net:2082/live/zaki880/8890/8950.m3u8
-like Gecko) Mobile/15E148	http://mykingtv.net:2082/live/zaki880/8890/8951.m3u8
-Al Jazeera Arabic (1080p)	http://mykingtv.net:2082/live/zaki880/8890/8952.m3u8
-Al Jazeera Documentary (576p)	http://mykingtv.net:2082/live/zaki880/8890/8953.m3u8
-Al Jazeera Documentary (1080p) [Geo-blocked]	http://mykingtv.net:2082/live/zaki880/8890/8954.m3u8
-Al Jazeera Mubasher (1080p)	http://mykingtv.net:2082/live/zaki880/8890/8955.m3u8
-Al Khalij (1080p)	http://mykingtv.net:2082/live/zaki880/8890/8956.m3u8
-Al Khalij TV	http://mykingtv.net:2082/live/zaki880/8890/8957.m3u8
-Al Qamar TV (360p)	http://mykingtv.net:2082/live/zaki880/8890/8958.m3u8
-Al Quran Al Kareem TV	http://mykingtv.net:2082/live/zaki880/8890/8959.m3u8
-Al Quran Al Kareem TV (Mecca) (720p)	http://mykingtv.net:2082/live/zaki880/8890/8960.m3u8
-Al Quran Al Kareem TV (Mecca) (360p)	http://mykingtv.net:2082/live/zaki880/8890/8961.m3u8
-Al Quran Al Kareem TV (Mecca) (1080p)	http://mykingtv.net:2082/live/zaki880/8890/8962.m3u8
-Al Saudiya (360p)	http://mykingtv.net:2082/live/zaki880/8890/8963.m3u8
-Al Saudiya (1080p)	http://mykingtv.net:2082/live/zaki880/8890/8964.m3u8
-Al Sunnah Al Nabawiyah TV (Medina)	http://mykingtv.net:2082/live/zaki880/8890/8965.m3u8
-Al Sunnah Al Nabawiyah TV (Medina) (360p)	http://mykingtv.net:2082/live/zaki880/8890/8966.m3u8
-Al Sunnah Al Nabawiyah TV (Medina) (1080p)	http://mykingtv.net:2082/live/zaki880/8890/8967.m3u8
-Al-Resalah (1080p) [Geo-blocked]	http://mykingtv.net:2082/live/zaki880/8890/8968.m3u8
-Al-Resalah (1080p)	http://mykingtv.net:2082/live/zaki880/8890/8969.m3u8
-Alaraby TV (1080p)	http://mykingtv.net:2082/live/zaki880/8890/8970.m3u8
-Alhiwar TV (1080p)	http://mykingtv.net:2082/live/zaki880/8890/8971.m3u8
-Asharq (1280p) [Portrait]	http://mykingtv.net:2082/live/zaki880/8890/8972.m3u8
-Asharq (1080p)	http://mykingtv.net:2082/live/zaki880/8890/8973.m3u8
-Atfal Wa Mawaheb	http://mykingtv.net:2082/live/zaki880/8890/8974.m3u8
-BBC Arabic (720p)	http://mykingtv.net:2082/live/zaki880/8890/8975.m3u8
-BBC Arabic (540p)	http://mykingtv.net:2082/live/zaki880/8890/8976.m3u8
-Beity	http://mykingtv.net:2082/live/zaki880/8890/8977.m3u8
-Bloomberg TV EMEA Live Event (720p)	http://mykingtv.net:2082/live/zaki880/8890/8978.m3u8
-Cartoon Network Arabic (1080p)	http://mykingtv.net:2082/live/zaki880/8890/8979.m3u8
-Dubai One (1080p)	http://mykingtv.net:2082/live/zaki880/8890/8980.m3u8
-DW Arabic (400p)	http://mykingtv.net:2082/live/zaki880/8890/8981.m3u8
-EN TV	http://mykingtv.net:2082/live/zaki880/8890/8982.m3u8
-France 24 Arabic (1080p)	http://mykingtv.net:2082/live/zaki880/8890/8983.m3u8
-France 24 Arabic (576p)	http://mykingtv.net:2082/live/zaki880/8890/8984.m3u8
-Iqraa	http://mykingtv.net:2082/live/zaki880/8890/8985.m3u8
-Iqraa (576p)	http://mykingtv.net:2082/live/zaki880/8890/8986.m3u8
-Iqraa Europe	http://mykingtv.net:2082/live/zaki880/8890/8987.m3u8
-Iqraa Europe Africa (576p)	http://mykingtv.net:2082/live/zaki880/8890/8988.m3u8
-Iqraa Int'l (KSA) [EN]	http://mykingtv.net:2082/live/zaki880/8890/8989.m3u8
-Jasco Events TV	http://mykingtv.net:2082/live/zaki880/8890/8990.m3u8
-Kaif TV	http://mykingtv.net:2082/live/zaki880/8890/8991.m3u8
-KSA Sports +1	http://mykingtv.net:2082/live/zaki880/8890/8992.m3u8
-KSA Sports 1	http://mykingtv.net:2082/live/zaki880/8890/8993.m3u8
-KSA Sports 2	http://mykingtv.net:2082/live/zaki880/8890/8994.m3u8
-Makkah TV (480p)	http://mykingtv.net:2082/live/zaki880/8890/8995.m3u8
-Makkah TV	http://mykingtv.net:2082/live/zaki880/8890/8996.m3u8
-MBC 1 KSA (1080p)	http://mykingtv.net:2082/live/zaki880/8890/8997.m3u8
-MBC 1 USA (1080p)	http://mykingtv.net:2082/live/zaki880/8890/8998.m3u8
-MBC 2 (1080p)	http://mykingtv.net:2082/live/zaki880/8890/8999.m3u8
-MBC 3 (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9000.m3u8
-MBC 3 EUR (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9001.m3u8
-MBC 3 USA (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9002.m3u8
-MBC 4 (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9003.m3u8
-MBC Action (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9004.m3u8
-MBC Bollywood (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9005.m3u8
-MBC Drama KSA (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9006.m3u8
-MBC Drama USA (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9007.m3u8
-MBC FM (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9008.m3u8
-MBC Max (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9009.m3u8
-MBC Plus Drama (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9010.m3u8
-Mekka tv (480p)	http://mykingtv.net:2082/live/zaki880/8890/9011.m3u8
-Minbij TV	http://mykingtv.net:2082/live/zaki880/8890/9012.m3u8
-National Geographic Abu Dhabi (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9013.m3u8
-Panorama FM (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9014.m3u8
-Quran TV	http://mykingtv.net:2082/live/zaki880/8890/9015.m3u8
-Rotana Cinema HD (1080p) [Geo-blocked]	http://mykingtv.net:2082/live/zaki880/8890/9016.m3u8
-Rotana Cinema HD (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9017.m3u8
-Rotana Cinema HD KSA (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9018.m3u8
-Rotana Classic HD (1080p) [Geo-blocked]	http://mykingtv.net:2082/live/zaki880/8890/9019.m3u8
-Rotana Classic HD (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9020.m3u8
-Rotana Comedy HD (1080p) [Geo-blocked]	http://mykingtv.net:2082/live/zaki880/8890/9021.m3u8
-Rotana Drama HD (1080p) [Geo-blocked]	http://mykingtv.net:2082/live/zaki880/8890/9022.m3u8
-Rotana Drama HD (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9023.m3u8
-Rotana Khalijia HD (1080p) [Geo-blocked]	http://mykingtv.net:2082/live/zaki880/8890/9024.m3u8
-Rotana Khalijia HD (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9025.m3u8
-Rotana Kids (1080p) [Geo-blocked]	http://mykingtv.net:2082/live/zaki880/8890/9026.m3u8
-Rotana Kids (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9027.m3u8
-Rotana Music (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9028.m3u8
-Rotana+ (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9029.m3u8
-RT Arabic (720p)	http://mykingtv.net:2082/live/zaki880/8890/9030.m3u8
-SAT-7 ARABIC (720p)	http://mykingtv.net:2082/live/zaki880/8890/9031.m3u8
-SAT-7 KIDS (720p)	http://mykingtv.net:2082/live/zaki880/8890/9032.m3u8
-SBC (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9033.m3u8
-Sky News Arabia (720p)	http://mykingtv.net:2082/live/zaki880/8890/9034.m3u8
-Spacetoon	http://mykingtv.net:2082/live/zaki880/8890/9035.m3u8
-Thikrayat TV (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9036.m3u8
-TRT Arabi (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9037.m3u8
-Wanasah (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9038.m3u8
-ZAD TV	http://mykingtv.net:2082/live/zaki880/8890/9039.m3u8
-A2i Music	http://mykingtv.net:2082/live/zaki880/8890/9040.m3u8
-A2i Naja	http://mykingtv.net:2082/live/zaki880/8890/9041.m3u8
-A2i Religion	http://mykingtv.net:2082/live/zaki880/8890/9042.m3u8
-A2i TV	http://mykingtv.net:2082/live/zaki880/8890/9043.m3u8
-Bloomberg TV EMEA Live Event (720p)	http://mykingtv.net:2082/live/zaki880/8890/9044.m3u8
-Al Jazeera Balkans (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9045.m3u8
-Bloomberg TV EMEA Live Event (720p)	http://mykingtv.net:2082/live/zaki880/8890/9046.m3u8
-Bloomberg TV Europe (2160p)	http://mykingtv.net:2082/live/zaki880/8890/9047.m3u8
-Bloomberg TV Europe (720p)	http://mykingtv.net:2082/live/zaki880/8890/9048.m3u8
-Bloomberg TV Europe (720p)	http://mykingtv.net:2082/live/zaki880/8890/9049.m3u8
-Kurir TV (720p)	http://mykingtv.net:2082/live/zaki880/8890/9050.m3u8
-Kurir TV (360p)	http://mykingtv.net:2082/live/zaki880/8890/9051.m3u8
-MTV Hits Europe (576p)	http://mykingtv.net:2082/live/zaki880/8890/9052.m3u8
-Muzzik AMVA 2020 (RS)	http://mykingtv.net:2082/live/zaki880/8890/9053.m3u8
-Muzzik Cafe&Club Serbia (720p)	http://mykingtv.net:2082/live/zaki880/8890/9054.m3u8
-Muzzik HipHop Serbia (720p)	http://mykingtv.net:2082/live/zaki880/8890/9055.m3u8
-Muzzik Jeka Serbia (720p)	http://mykingtv.net:2082/live/zaki880/8890/9056.m3u8
-Muzzik Mediteraneo Serbia (720p)	http://mykingtv.net:2082/live/zaki880/8890/9057.m3u8
-Muzzik OKK Serbia (720p)	http://mykingtv.net:2082/live/zaki880/8890/9058.m3u8
-Muzzik Replay Serbia (720p)	http://mykingtv.net:2082/live/zaki880/8890/9059.m3u8
-Muzzik Rock&Roll Serbia (720p)	http://mykingtv.net:2082/live/zaki880/8890/9060.m3u8
-Muzzik Saculatac Serbia (720p)	http://mykingtv.net:2082/live/zaki880/8890/9061.m3u8
-Muzzik TV Serbia (720p)	http://mykingtv.net:2082/live/zaki880/8890/9062.m3u8
-Muzzik Worldwide Serbia (720p)	http://mykingtv.net:2082/live/zaki880/8890/9063.m3u8
-Red TV (720p)	http://mykingtv.net:2082/live/zaki880/8890/9064.m3u8
-RTV 1	http://mykingtv.net:2082/live/zaki880/8890/9065.m3u8
-RTV 2	http://mykingtv.net:2082/live/zaki880/8890/9066.m3u8
-RTV AS (576p)	http://mykingtv.net:2082/live/zaki880/8890/9067.m3u8
-RTV City Ub (576p)	http://mykingtv.net:2082/live/zaki880/8890/9068.m3u8
-RTV Novi Pazar (576p)	http://mykingtv.net:2082/live/zaki880/8890/9069.m3u8
-TV Belle Amie (720p) [Not 24/7]	http://mykingtv.net:2082/live/zaki880/8890/9070.m3u8
-TV Duga Plus (480p)	http://mykingtv.net:2082/live/zaki880/8890/9071.m3u8
-TV Hram (576p)	http://mykingtv.net:2082/live/zaki880/8890/9072.m3u8
-TV Pi Canal Pirot (576p) [Not 24/7]	http://mykingtv.net:2082/live/zaki880/8890/9073.m3u8
-Bloomberg TV EMEA Live Event (720p)	http://mykingtv.net:2082/live/zaki880/8890/9074.m3u8
-AYV	http://mykingtv.net:2082/live/zaki880/8890/9075.m3u8
-Bloomberg TV EMEA Live Event (720p)	http://mykingtv.net:2082/live/zaki880/8890/9076.m3u8
-Bloomberg TV Asia (720p)	http://mykingtv.net:2082/live/zaki880/8890/9077.m3u8
-Bloomberg TV Asia (720p)	http://mykingtv.net:2082/live/zaki880/8890/9078.m3u8
-Bloomberg TV Asia Live Event (720p)	http://mykingtv.net:2082/live/zaki880/8890/9079.m3u8
-Celestial Movies (480p)	http://mykingtv.net:2082/live/zaki880/8890/9080.m3u8
-Channel V	http://mykingtv.net:2082/live/zaki880/8890/9081.m3u8
-CNA (576p)	http://mykingtv.net:2082/live/zaki880/8890/9082.m3u8
-CNA (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9083.m3u8
-CNA	http://mykingtv.net:2082/live/zaki880/8890/9084.m3u8
-CNA	http://mykingtv.net:2082/live/zaki880/8890/9085.m3u8
-妙米	http://mykingtv.net:2082/live/zaki880/8890/9086.m3u8
-Docurama (1080p) [Geo-blocked]	http://mykingtv.net:2082/live/zaki880/8890/9087.m3u8
-Docurama (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9088.m3u8
-Bloomberg TV EMEA Live Event (720p)	http://mykingtv.net:2082/live/zaki880/8890/9089.m3u8
-Bloomberg TV Europe (2160p)	http://mykingtv.net:2082/live/zaki880/8890/9090.m3u8
-Bloomberg TV Europe (720p)	http://mykingtv.net:2082/live/zaki880/8890/9091.m3u8
-Bloomberg TV Europe (720p)	http://mykingtv.net:2082/live/zaki880/8890/9092.m3u8
-BTV	http://mykingtv.net:2082/live/zaki880/8890/9093.m3u8
-Duck TV	http://mykingtv.net:2082/live/zaki880/8890/9094.m3u8
-Duck Tv (Denmark)	http://mykingtv.net:2082/live/zaki880/8890/9095.m3u8
-Duck Tv (Finland)	http://mykingtv.net:2082/live/zaki880/8890/9096.m3u8
-Duck Tv (Norway)	http://mykingtv.net:2082/live/zaki880/8890/9097.m3u8
-Duck TV (Spain)	http://mykingtv.net:2082/live/zaki880/8890/9098.m3u8
-FashionTV Czech&Slovak (450p)	http://mykingtv.net:2082/live/zaki880/8890/9099.m3u8
-JOJ	http://mykingtv.net:2082/live/zaki880/8890/9100.m3u8
-JOJ	http://mykingtv.net:2082/live/zaki880/8890/9101.m3u8
-JOJ Family	http://mykingtv.net:2082/live/zaki880/8890/9102.m3u8
-JOJ Family	http://mykingtv.net:2082/live/zaki880/8890/9103.m3u8
-JOJ HD	http://mykingtv.net:2082/live/zaki880/8890/9104.m3u8
-Košice:dnes (450p)	http://mykingtv.net:2082/live/zaki880/8890/9105.m3u8
-Life.tv (720p)	http://mykingtv.net:2082/live/zaki880/8890/9106.m3u8
-LocAll	http://mykingtv.net:2082/live/zaki880/8890/9107.m3u8
-MTV Hits Europe (576p)	http://mykingtv.net:2082/live/zaki880/8890/9108.m3u8
-Nove Zamky (486p)	http://mykingtv.net:2082/live/zaki880/8890/9109.m3u8
-Plus	http://mykingtv.net:2082/live/zaki880/8890/9110.m3u8
-Raj TV	http://mykingtv.net:2082/live/zaki880/8890/9111.m3u8
-Reduta (486p)	http://mykingtv.net:2082/live/zaki880/8890/9112.m3u8
-Retro Music TV (360p)	http://mykingtv.net:2082/live/zaki880/8890/9113.m3u8
-RetroMusicTV (360p)	http://mykingtv.net:2082/live/zaki880/8890/9114.m3u8
-RetroMusicTV	http://mykingtv.net:2082/live/zaki880/8890/9115.m3u8
-Rik	http://mykingtv.net:2082/live/zaki880/8890/9116.m3u8
-Senzi TV	http://mykingtv.net:2082/live/zaki880/8890/9117.m3u8
-Severka	http://mykingtv.net:2082/live/zaki880/8890/9118.m3u8
-Severka TV	http://mykingtv.net:2082/live/zaki880/8890/9119.m3u8
-Televizia OSEM (360p)	http://mykingtv.net:2082/live/zaki880/8890/9120.m3u8
-Televízia OSEM (576p)	http://mykingtv.net:2082/live/zaki880/8890/9121.m3u8
-TV DK	http://mykingtv.net:2082/live/zaki880/8890/9122.m3u8
-TV Jojko (540p)	http://mykingtv.net:2082/live/zaki880/8890/9123.m3u8
-TV Lux (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9124.m3u8
-TV Lux (360p)	http://mykingtv.net:2082/live/zaki880/8890/9125.m3u8
-TV Markíza	http://mykingtv.net:2082/live/zaki880/8890/9126.m3u8
-TV Nové Zámky (486p)	http://mykingtv.net:2082/live/zaki880/8890/9127.m3u8
-TV Nové Zámky	http://mykingtv.net:2082/live/zaki880/8890/9128.m3u8
-TV Poprad	http://mykingtv.net:2082/live/zaki880/8890/9129.m3u8
-TV Povazie	http://mykingtv.net:2082/live/zaki880/8890/9130.m3u8
-TV Reduta	http://mykingtv.net:2082/live/zaki880/8890/9131.m3u8
-TV Ružinov (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9132.m3u8
-TV Turzovka	http://mykingtv.net:2082/live/zaki880/8890/9133.m3u8
-WAU HD	http://mykingtv.net:2082/live/zaki880/8890/9134.m3u8
-Wau TV	http://mykingtv.net:2082/live/zaki880/8890/9135.m3u8
-Wau TV (540p)	http://mykingtv.net:2082/live/zaki880/8890/9136.m3u8
-Óčko (540p)	http://mykingtv.net:2082/live/zaki880/8890/9137.m3u8
-Óčko	http://mykingtv.net:2082/live/zaki880/8890/9138.m3u8
-Šlágr 2	http://mykingtv.net:2082/live/zaki880/8890/9139.m3u8
-Šlágr TV	http://mykingtv.net:2082/live/zaki880/8890/9140.m3u8
-Al Jazeera Balkans (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9141.m3u8
-Bloomberg TV EMEA Live Event (720p)	http://mykingtv.net:2082/live/zaki880/8890/9142.m3u8
-Bloomberg TV Europe (2160p)	http://mykingtv.net:2082/live/zaki880/8890/9143.m3u8
-Bloomberg TV Europe (720p)	http://mykingtv.net:2082/live/zaki880/8890/9144.m3u8
-Bloomberg TV Europe (720p)	http://mykingtv.net:2082/live/zaki880/8890/9145.m3u8
-GTV	http://mykingtv.net:2082/live/zaki880/8890/9146.m3u8
-MMC (720p)	http://mykingtv.net:2082/live/zaki880/8890/9147.m3u8
-MTV Hits Europe (576p)	http://mykingtv.net:2082/live/zaki880/8890/9148.m3u8
-TV KOPER (720p)	http://mykingtv.net:2082/live/zaki880/8890/9149.m3u8
-TV KOPER (720p)	http://mykingtv.net:2082/live/zaki880/8890/9150.m3u8
-TV MARIBOR (720p)	http://mykingtv.net:2082/live/zaki880/8890/9151.m3u8
-TV MARIBOR (720p)	http://mykingtv.net:2082/live/zaki880/8890/9152.m3u8
-TV SLOVENIJA 1 (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9153.m3u8
-TV SLOVENIJA 1 (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9154.m3u8
-TV SLOVENIJA 2 (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9155.m3u8
-TV SLOVENIJA 2 (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9156.m3u8
-TV SLOVENIJA 3 (720p)	http://mykingtv.net:2082/live/zaki880/8890/9157.m3u8
-TV SLOVENIJA 3 (720p)	http://mykingtv.net:2082/live/zaki880/8890/9158.m3u8
-Bloomberg TV Asia (720p)	http://mykingtv.net:2082/live/zaki880/8890/9159.m3u8
-Bloomberg TV Asia (720p)	http://mykingtv.net:2082/live/zaki880/8890/9160.m3u8
-Bloomberg TV Asia Live Event (720p)	http://mykingtv.net:2082/live/zaki880/8890/9161.m3u8
-Channel V	http://mykingtv.net:2082/live/zaki880/8890/9162.m3u8
-3eesh Al Aan TV	http://mykingtv.net:2082/live/zaki880/8890/9163.m3u8
-Abu Dhabi Drama (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9164.m3u8
-Abu Dhabi Sports 1 (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9165.m3u8
-Abu Dhabi Sports 4 (1080p) [Geo-blocked]	http://mykingtv.net:2082/live/zaki880/8890/9166.m3u8
-Al Arabiya (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9167.m3u8
-like Gecko) Mobile/15E148	http://mykingtv.net:2082/live/zaki880/8890/9168.m3u8
-Al Jazeera Arabic (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9169.m3u8
-Al Jazeera Documentary (576p)	http://mykingtv.net:2082/live/zaki880/8890/9170.m3u8
-Al Jazeera Documentary (1080p) [Geo-blocked]	http://mykingtv.net:2082/live/zaki880/8890/9171.m3u8
-Al Jazeera Mubasher (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9172.m3u8
-Al Qamar TV (360p)	http://mykingtv.net:2082/live/zaki880/8890/9173.m3u8
-Alaraby TV (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9174.m3u8
-Alhiwar TV (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9175.m3u8
-BBC Arabic (720p)	http://mykingtv.net:2082/live/zaki880/8890/9176.m3u8
-BBC Arabic (540p)	http://mykingtv.net:2082/live/zaki880/8890/9177.m3u8
-Bloomberg TV EMEA Live Event (720p)	http://mykingtv.net:2082/live/zaki880/8890/9178.m3u8
-Dubai One (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9179.m3u8
-DW Arabic (400p)	http://mykingtv.net:2082/live/zaki880/8890/9180.m3u8
-France 24 Arabic (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9181.m3u8
-France 24 Arabic (576p)	http://mykingtv.net:2082/live/zaki880/8890/9182.m3u8
-Horn Cable TV [Not 24/7]	http://mykingtv.net:2082/live/zaki880/8890/9183.m3u8
-Kalsan TV	http://mykingtv.net:2082/live/zaki880/8890/9184.m3u8
-Kalsan TV	http://mykingtv.net:2082/live/zaki880/8890/9185.m3u8
-MBC 1 KSA (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9186.m3u8
-MBC 1 USA (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9187.m3u8
-MBC 2 (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9188.m3u8
-MBC 3 (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9189.m3u8
-MBC 3 EUR (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9190.m3u8
-MBC 3 USA (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9191.m3u8
-MBC 4 (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9192.m3u8
-MBC Action (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9193.m3u8
-MBC Bollywood (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9194.m3u8
-MBC Drama KSA (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9195.m3u8
-MBC Drama USA (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9196.m3u8
-MBC Max (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9197.m3u8
-MBC Plus Drama (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9198.m3u8
-National Geographic Abu Dhabi (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9199.m3u8
-Puntland TV	http://mykingtv.net:2082/live/zaki880/8890/9200.m3u8
-RT Arabic (720p)	http://mykingtv.net:2082/live/zaki880/8890/9201.m3u8
-SAT-7 ARABIC (720p)	http://mykingtv.net:2082/live/zaki880/8890/9202.m3u8
-SAT-7 KIDS (720p)	http://mykingtv.net:2082/live/zaki880/8890/9203.m3u8
-Sky News Arabia (720p)	http://mykingtv.net:2082/live/zaki880/8890/9204.m3u8
-Somali cable	http://mykingtv.net:2082/live/zaki880/8890/9205.m3u8
-Somali National TV	http://mykingtv.net:2082/live/zaki880/8890/9206.m3u8
-TRT Arabi (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9207.m3u8
-Wanasah (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9208.m3u8
-Bloomberg TV EMEA Live Event (720p)	http://mykingtv.net:2082/live/zaki880/8890/9209.m3u8
-Animax	http://mykingtv.net:2082/live/zaki880/8890/9210.m3u8
-Bloomberg TV Asia (720p)	http://mykingtv.net:2082/live/zaki880/8890/9211.m3u8
-Bloomberg TV Asia (720p)	http://mykingtv.net:2082/live/zaki880/8890/9212.m3u8
-Bloomberg TV Asia Live Event (720p)	http://mykingtv.net:2082/live/zaki880/8890/9213.m3u8
-Channel V	http://mykingtv.net:2082/live/zaki880/8890/9214.m3u8
-Hallypop (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9215.m3u8
-K+ (576p)	http://mykingtv.net:2082/live/zaki880/8890/9216.m3u8
-KBS 1	http://mykingtv.net:2082/live/zaki880/8890/9217.m3u8
-KBS World (576p)	http://mykingtv.net:2082/live/zaki880/8890/9218.m3u8
-KTV	http://mykingtv.net:2082/live/zaki880/8890/9219.m3u8
-Maeil Business Newspaper	http://mykingtv.net:2082/live/zaki880/8890/9220.m3u8
-Mnet	http://mykingtv.net:2082/live/zaki880/8890/9221.m3u8
-TBC 대구(SBS 大邱) (540p)	http://mykingtv.net:2082/live/zaki880/8890/9222.m3u8
-제주 MBC(MBC Jeju)	http://mykingtv.net:2082/live/zaki880/8890/9223.m3u8
-Bloomberg TV EMEA Live Event (720p)	http://mykingtv.net:2082/live/zaki880/8890/9224.m3u8
-+24 (576p)	http://mykingtv.net:2082/live/zaki880/8890/9225.m3u8
-+tdp [Geo-blocked]	http://mykingtv.net:2082/live/zaki880/8890/9226.m3u8
-101 Tele Antequera	http://mykingtv.net:2082/live/zaki880/8890/9227.m3u8
-101TV Malaga	http://mykingtv.net:2082/live/zaki880/8890/9228.m3u8
-24 Horas	http://mykingtv.net:2082/live/zaki880/8890/9229.m3u8
-24 Horas	http://mykingtv.net:2082/live/zaki880/8890/9230.m3u8
-24h (576p)	http://mykingtv.net:2082/live/zaki880/8890/9231.m3u8
-24h (576p)	http://mykingtv.net:2082/live/zaki880/8890/9232.m3u8
-24h (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9233.m3u8
-25 TV	http://mykingtv.net:2082/live/zaki880/8890/9234.m3u8
-25 TV	http://mykingtv.net:2082/live/zaki880/8890/9235.m3u8
-28 Kanala (720p)	http://mykingtv.net:2082/live/zaki880/8890/9236.m3u8
-28 kanala (720p)	http://mykingtv.net:2082/live/zaki880/8890/9237.m3u8
-3/24 (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9238.m3u8
-3/24	http://mykingtv.net:2082/live/zaki880/8890/9239.m3u8
-324 (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9240.m3u8
-7 La Rioja (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9241.m3u8
-7 Murcia	http://mykingtv.net:2082/live/zaki880/8890/9242.m3u8
-7 Televisión Región de Murcia (360p)	http://mykingtv.net:2082/live/zaki880/8890/9243.m3u8
-7 TV Andalucía	http://mykingtv.net:2082/live/zaki880/8890/9244.m3u8
-7 TV Andalucía (Bahía)	http://mykingtv.net:2082/live/zaki880/8890/9245.m3u8
-7 TV Andalucía (Costa Noroeste)	http://mykingtv.net:2082/live/zaki880/8890/9246.m3u8
-7 TV Andalucía (Córdoba)	http://mykingtv.net:2082/live/zaki880/8890/9247.m3u8
-7 TV Andalucía (Jaén)	http://mykingtv.net:2082/live/zaki880/8890/9248.m3u8
-7 TV Andalucía (Jerez)	http://mykingtv.net:2082/live/zaki880/8890/9249.m3u8
-7 TV Andalucía (Málaga)	http://mykingtv.net:2082/live/zaki880/8890/9250.m3u8
-7 TV Andalucía (Sevilla)	http://mykingtv.net:2082/live/zaki880/8890/9251.m3u8
-7 TV Andalucía (Sierra)	http://mykingtv.net:2082/live/zaki880/8890/9252.m3u8
-8 TV Cádiz	http://mykingtv.net:2082/live/zaki880/8890/9253.m3u8
-9 la Loma TV	http://mykingtv.net:2082/live/zaki880/8890/9254.m3u8
-Action Movies (720p)	http://mykingtv.net:2082/live/zaki880/8890/9255.m3u8
-Activa TV (720p)	http://mykingtv.net:2082/live/zaki880/8890/9256.m3u8
-Alacantí TV	http://mykingtv.net:2082/live/zaki880/8890/9257.m3u8
-Alcarria TV	http://mykingtv.net:2082/live/zaki880/8890/9258.m3u8
-Alcarria TV (576p)	http://mykingtv.net:2082/live/zaki880/8890/9259.m3u8
-Alcarria TV	http://mykingtv.net:2082/live/zaki880/8890/9260.m3u8
-Anime Zone TV	http://mykingtv.net:2082/live/zaki880/8890/9261.m3u8
-Aragón Radio (Zaragoza)	http://mykingtv.net:2082/live/zaki880/8890/9262.m3u8
-Aragón TV (720p)	http://mykingtv.net:2082/live/zaki880/8890/9263.m3u8
-Atres Series Internacional	http://mykingtv.net:2082/live/zaki880/8890/9264.m3u8
-Bailén TV (720p)	http://mykingtv.net:2082/live/zaki880/8890/9265.m3u8
-BARVA.TV	http://mykingtv.net:2082/live/zaki880/8890/9266.m3u8
-Barça TV	http://mykingtv.net:2082/live/zaki880/8890/9267.m3u8
-betevé (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9268.m3u8
-Big Name (720p)	http://mykingtv.net:2082/live/zaki880/8890/9269.m3u8
-Bloomberg TV EMEA Live Event (720p)	http://mykingtv.net:2082/live/zaki880/8890/9270.m3u8
-Bloomberg TV Europe (2160p)	http://mykingtv.net:2082/live/zaki880/8890/9271.m3u8
-Bloomberg TV Europe (720p)	http://mykingtv.net:2082/live/zaki880/8890/9272.m3u8
-Bloomberg TV Europe (720p)	http://mykingtv.net:2082/live/zaki880/8890/9273.m3u8
-Bon Dia TV (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9274.m3u8
-Cadena Elite [Not 24/7]	http://mykingtv.net:2082/live/zaki880/8890/9275.m3u8
-Campiña Sur TV [Not 24/7]	http://mykingtv.net:2082/live/zaki880/8890/9276.m3u8
-Canal 10 Empordà	http://mykingtv.net:2082/live/zaki880/8890/9277.m3u8
-Canal 2000 La Solana	http://mykingtv.net:2082/live/zaki880/8890/9278.m3u8
-Canal 25 TV (Barbastro) [Not 24/7]	http://mykingtv.net:2082/live/zaki880/8890/9279.m3u8
-Canal 33 Madrid (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9280.m3u8
-Canal 4	http://mykingtv.net:2082/live/zaki880/8890/9281.m3u8
-Canal 4 Mancha Centro	http://mykingtv.net:2082/live/zaki880/8890/9282.m3u8
-Canal 4 Tenerife (576p)	http://mykingtv.net:2082/live/zaki880/8890/9283.m3u8
-CANAL 45 TV	http://mykingtv.net:2082/live/zaki880/8890/9284.m3u8
-Canal 45 TV	http://mykingtv.net:2082/live/zaki880/8890/9285.m3u8
-Canal 56	http://mykingtv.net:2082/live/zaki880/8890/9286.m3u8
-Canal Cinesverdi	http://mykingtv.net:2082/live/zaki880/8890/9287.m3u8
-Canal d	http://mykingtv.net:2082/live/zaki880/8890/9288.m3u8
-Canal Diocesano	http://mykingtv.net:2082/live/zaki880/8890/9289.m3u8
-Canal Doñana [Not 24/7]	http://mykingtv.net:2082/live/zaki880/8890/9290.m3u8
-Canal Extremadura	http://mykingtv.net:2082/live/zaki880/8890/9291.m3u8
-Canal Feel good	http://mykingtv.net:2082/live/zaki880/8890/9292.m3u8
-Canal Málaga RTV (720p) [Not 24/7]	http://mykingtv.net:2082/live/zaki880/8890/9293.m3u8
-Canal Parlamento	http://mykingtv.net:2082/live/zaki880/8890/9294.m3u8
-Canal Parlamento (360p)	http://mykingtv.net:2082/live/zaki880/8890/9295.m3u8
-Canal San Roque	http://mykingtv.net:2082/live/zaki880/8890/9296.m3u8
-Canal Sierra de Cádiz HD	http://mykingtv.net:2082/live/zaki880/8890/9297.m3u8
-Canal Sierra de Cádiz SD	http://mykingtv.net:2082/live/zaki880/8890/9298.m3u8
-Canal Super 3	http://mykingtv.net:2082/live/zaki880/8890/9299.m3u8
-Canal Sur Andalucía	http://mykingtv.net:2082/live/zaki880/8890/9300.m3u8
-Canal Sur Andalucía	http://mykingtv.net:2082/live/zaki880/8890/9301.m3u8
-Canal Sur Andalucía	http://mykingtv.net:2082/live/zaki880/8890/9302.m3u8
-Canal Taronja Osona i Moianés (480p)	http://mykingtv.net:2082/live/zaki880/8890/9303.m3u8
-Canal4 televisió (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9304.m3u8
-CCMA Exclusiu 1 (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9305.m3u8
-CCMA Exclusiu 2 (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9306.m3u8
-Clan TVE (1080p) [Geo-blocked]	http://mykingtv.net:2082/live/zaki880/8890/9307.m3u8
-CMM Castilla La Mancha	http://mykingtv.net:2082/live/zaki880/8890/9308.m3u8
-CMM HD	http://mykingtv.net:2082/live/zaki880/8890/9309.m3u8
-Comedy Movies (720p)	http://mykingtv.net:2082/live/zaki880/8890/9310.m3u8
-Condavision (720p)	http://mykingtv.net:2082/live/zaki880/8890/9311.m3u8
-Condavisión (720p)	http://mykingtv.net:2082/live/zaki880/8890/9312.m3u8
-Condavisión (720p)	http://mykingtv.net:2082/live/zaki880/8890/9313.m3u8
-Congreso de los Diputados 1 (360p)	http://mykingtv.net:2082/live/zaki880/8890/9314.m3u8
-Congreso de los Diputados 2 (360p)	http://mykingtv.net:2082/live/zaki880/8890/9315.m3u8
-Congreso de los Diputados 3 (360p)	http://mykingtv.net:2082/live/zaki880/8890/9316.m3u8
-Congreso de los Diputados 4 (360p)	http://mykingtv.net:2082/live/zaki880/8890/9317.m3u8
-Congreso de los Diputados 5 (360p)	http://mykingtv.net:2082/live/zaki880/8890/9318.m3u8
-COSMO TV 2 (720p)	http://mykingtv.net:2082/live/zaki880/8890/9319.m3u8
-COSMO TV HD	http://mykingtv.net:2082/live/zaki880/8890/9320.m3u8
-COSMO TV HD ESP	http://mykingtv.net:2082/live/zaki880/8890/9321.m3u8
-Costa Noroeste TV	http://mykingtv.net:2082/live/zaki880/8890/9322.m3u8
-Cuatro	http://mykingtv.net:2082/live/zaki880/8890/9323.m3u8
-CUATRO 4 TV VALL UXA	http://mykingtv.net:2082/live/zaki880/8890/9324.m3u8
-Diez TV	http://mykingtv.net:2082/live/zaki880/8890/9325.m3u8
-Disney Channel España	http://mykingtv.net:2082/live/zaki880/8890/9326.m3u8
-Distrito TV	http://mykingtv.net:2082/live/zaki880/8890/9327.m3u8
-Durangaldeko TV	http://mykingtv.net:2082/live/zaki880/8890/9328.m3u8
-DW Español (400p)	http://mykingtv.net:2082/live/zaki880/8890/9329.m3u8
-DW Español (400p)	http://mykingtv.net:2082/live/zaki880/8890/9330.m3u8
-Déjate de Historias TV	http://mykingtv.net:2082/live/zaki880/8890/9331.m3u8
-EITB	http://mykingtv.net:2082/live/zaki880/8890/9332.m3u8
-EITB (360p)	http://mykingtv.net:2082/live/zaki880/8890/9333.m3u8
-EiTB 2	http://mykingtv.net:2082/live/zaki880/8890/9334.m3u8
-El 33 (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9335.m3u8
-El Garage TV (480p)	http://mykingtv.net:2082/live/zaki880/8890/9336.m3u8
-El Toro TV (720p)	http://mykingtv.net:2082/live/zaki880/8890/9337.m3u8
-Elche 7 TV	http://mykingtv.net:2082/live/zaki880/8890/9338.m3u8
-ESNE TV (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9339.m3u8
-Esport3 (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9340.m3u8
-Esport3 (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9341.m3u8
-Estepona Televisión (720p)	http://mykingtv.net:2082/live/zaki880/8890/9342.m3u8
-Estepona Televisión (720p)	http://mykingtv.net:2082/live/zaki880/8890/9343.m3u8
-ETB 1	http://mykingtv.net:2082/live/zaki880/8890/9344.m3u8
-ETB 1 (720p)	http://mykingtv.net:2082/live/zaki880/8890/9345.m3u8
-ETB 2	http://mykingtv.net:2082/live/zaki880/8890/9346.m3u8
-ETB 2 (720p)	http://mykingtv.net:2082/live/zaki880/8890/9347.m3u8
-ETB Eventos 1 (720p)	http://mykingtv.net:2082/live/zaki880/8890/9348.m3u8
-Euronews en Español (720p)	http://mykingtv.net:2082/live/zaki880/8890/9349.m3u8
-EuropaPress TV	http://mykingtv.net:2082/live/zaki880/8890/9350.m3u8
-Factoría de Ficción (FDF)	http://mykingtv.net:2082/live/zaki880/8890/9351.m3u8
-Family Movies (720p)	http://mykingtv.net:2082/live/zaki880/8890/9352.m3u8
-Fibracat TV (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9353.m3u8
-Fibwi (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9354.m3u8
-Fion TV (720p)	http://mykingtv.net:2082/live/zaki880/8890/9355.m3u8
-France 24 Español (576p)	http://mykingtv.net:2082/live/zaki880/8890/9356.m3u8
-GALICIA HD	http://mykingtv.net:2082/live/zaki880/8890/9357.m3u8
-GCM TV [Not 24/7]	http://mykingtv.net:2082/live/zaki880/8890/9358.m3u8
-Goiena Eus	http://mykingtv.net:2082/live/zaki880/8890/9359.m3u8
-GOL (720p) [Geo-blocked]	http://mykingtv.net:2082/live/zaki880/8890/9360.m3u8
-Guada TV [Not 24/7]	http://mykingtv.net:2082/live/zaki880/8890/9361.m3u8
-Hamaika Telebista (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9362.m3u8
-Hermes TV	http://mykingtv.net:2082/live/zaki880/8890/9363.m3u8
-Hermes TV	http://mykingtv.net:2082/live/zaki880/8890/9364.m3u8
-HQM Arabic	http://mykingtv.net:2082/live/zaki880/8890/9365.m3u8
-HQM Baladas	http://mykingtv.net:2082/live/zaki880/8890/9366.m3u8
-HQM Blues	http://mykingtv.net:2082/live/zaki880/8890/9367.m3u8
-HQM Chill Out	http://mykingtv.net:2082/live/zaki880/8890/9368.m3u8
-HQM Classic	http://mykingtv.net:2082/live/zaki880/8890/9369.m3u8
-HQM Dance	http://mykingtv.net:2082/live/zaki880/8890/9370.m3u8
-HQM Folk	http://mykingtv.net:2082/live/zaki880/8890/9371.m3u8
-HQM Gym	http://mykingtv.net:2082/live/zaki880/8890/9372.m3u8
-HQM Hip Hop	http://mykingtv.net:2082/live/zaki880/8890/9373.m3u8
-HQM Hits	http://mykingtv.net:2082/live/zaki880/8890/9374.m3u8
-HQM Jazz	http://mykingtv.net:2082/live/zaki880/8890/9375.m3u8
-HQM Kids	http://mykingtv.net:2082/live/zaki880/8890/9376.m3u8
-HQM Latin	http://mykingtv.net:2082/live/zaki880/8890/9377.m3u8
-HQM Pop	http://mykingtv.net:2082/live/zaki880/8890/9378.m3u8
-HQM Relax	http://mykingtv.net:2082/live/zaki880/8890/9379.m3u8
-HQM Remember	http://mykingtv.net:2082/live/zaki880/8890/9380.m3u8
-HQM Rock	http://mykingtv.net:2082/live/zaki880/8890/9381.m3u8
-HQM Spanish	http://mykingtv.net:2082/live/zaki880/8890/9382.m3u8
-Huesca TV	http://mykingtv.net:2082/live/zaki880/8890/9383.m3u8
-Ibiza Global TV (720p)	http://mykingtv.net:2082/live/zaki880/8890/9384.m3u8
-Imás TV	http://mykingtv.net:2082/live/zaki880/8890/9385.m3u8
-Interalmeria TV	http://mykingtv.net:2082/live/zaki880/8890/9386.m3u8
-Intercomarcal TV	http://mykingtv.net:2082/live/zaki880/8890/9387.m3u8
-Intercomarcal TV	http://mykingtv.net:2082/live/zaki880/8890/9388.m3u8
-Islatel [Not 24/7]	http://mykingtv.net:2082/live/zaki880/8890/9389.m3u8
-Junta Castilla y León [Not 24/7]	http://mykingtv.net:2082/live/zaki880/8890/9390.m3u8
-KTO (404p)	http://mykingtv.net:2082/live/zaki880/8890/9391.m3u8
-La 1	http://mykingtv.net:2082/live/zaki880/8890/9392.m3u8
-La 1	http://mykingtv.net:2082/live/zaki880/8890/9393.m3u8
-La 1 (720p)	http://mykingtv.net:2082/live/zaki880/8890/9394.m3u8
-La 1 (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9395.m3u8
-La 1 Canarias (576p)	http://mykingtv.net:2082/live/zaki880/8890/9396.m3u8
-La 1 Catalunya (576p)	http://mykingtv.net:2082/live/zaki880/8890/9397.m3u8
-La 1 Catalunya (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9398.m3u8
-La 2 (720p)	http://mykingtv.net:2082/live/zaki880/8890/9399.m3u8
-La 8 Avila	http://mykingtv.net:2082/live/zaki880/8890/9400.m3u8
-La 8 Bierzo	http://mykingtv.net:2082/live/zaki880/8890/9401.m3u8
-La 8 Burgos	http://mykingtv.net:2082/live/zaki880/8890/9402.m3u8
-La 8 Leon	http://mykingtv.net:2082/live/zaki880/8890/9403.m3u8
-La 8 Mediterráneo	http://mykingtv.net:2082/live/zaki880/8890/9404.m3u8
-La 8 Palencia	http://mykingtv.net:2082/live/zaki880/8890/9405.m3u8
-La 8 Salamanca	http://mykingtv.net:2082/live/zaki880/8890/9406.m3u8
-La 8 Segovia	http://mykingtv.net:2082/live/zaki880/8890/9407.m3u8
-La 8 Soria	http://mykingtv.net:2082/live/zaki880/8890/9408.m3u8
-La 8 Valladolid	http://mykingtv.net:2082/live/zaki880/8890/9409.m3u8
-La 8 Zamora	http://mykingtv.net:2082/live/zaki880/8890/9410.m3u8
-La Voz 24h	http://mykingtv.net:2082/live/zaki880/8890/9411.m3u8
-LA7	http://mykingtv.net:2082/live/zaki880/8890/9412.m3u8
-LA7	http://mykingtv.net:2082/live/zaki880/8890/9413.m3u8
-Lancelot Televisión (360p)	http://mykingtv.net:2082/live/zaki880/8890/9414.m3u8
-Lancelot Televisión (360p)	http://mykingtv.net:2082/live/zaki880/8890/9415.m3u8
-Lancelot TV	http://mykingtv.net:2082/live/zaki880/8890/9416.m3u8
-Lancelot TV (360p)	http://mykingtv.net:2082/live/zaki880/8890/9417.m3u8
-Lancelot TV	http://mykingtv.net:2082/live/zaki880/8890/9418.m3u8
-LaOtra (720p)	http://mykingtv.net:2082/live/zaki880/8890/9419.m3u8
-Lebrija TV	http://mykingtv.net:2082/live/zaki880/8890/9420.m3u8
-Lebrija TV (360p)	http://mykingtv.net:2082/live/zaki880/8890/9421.m3u8
-Levante TV	http://mykingtv.net:2082/live/zaki880/8890/9422.m3u8
-Lleida Televisio	http://mykingtv.net:2082/live/zaki880/8890/9423.m3u8
-Locomotion TV (480p)	http://mykingtv.net:2082/live/zaki880/8890/9424.m3u8
-Logos TV	http://mykingtv.net:2082/live/zaki880/8890/9425.m3u8
-Logos TV (720p)	http://mykingtv.net:2082/live/zaki880/8890/9426.m3u8
-M95 Televisión Marbella	http://mykingtv.net:2082/live/zaki880/8890/9427.m3u8
-Maestrat TV	http://mykingtv.net:2082/live/zaki880/8890/9428.m3u8
-Mar TV	http://mykingtv.net:2082/live/zaki880/8890/9429.m3u8
-MMA TV (720p)	http://mykingtv.net:2082/live/zaki880/8890/9430.m3u8
-Moods (720p)	http://mykingtv.net:2082/live/zaki880/8890/9431.m3u8
-mtmad 24h	http://mykingtv.net:2082/live/zaki880/8890/9432.m3u8
-mtmad 24h	http://mykingtv.net:2082/live/zaki880/8890/9433.m3u8
-MTV Hits Europe (576p)	http://mykingtv.net:2082/live/zaki880/8890/9434.m3u8
-My Surf TV (720p)	http://mykingtv.net:2082/live/zaki880/8890/9435.m3u8
-Mírame TV	http://mykingtv.net:2082/live/zaki880/8890/9436.m3u8
-Navarra TV HD	http://mykingtv.net:2082/live/zaki880/8890/9437.m3u8
-Navarra TV SD	http://mykingtv.net:2082/live/zaki880/8890/9438.m3u8
-Negocios TV (720p)	http://mykingtv.net:2082/live/zaki880/8890/9439.m3u8
-NIUS	http://mykingtv.net:2082/live/zaki880/8890/9440.m3u8
-Nius SD	http://mykingtv.net:2082/live/zaki880/8890/9441.m3u8
-Noroeste TV (720p)	http://mykingtv.net:2082/live/zaki880/8890/9442.m3u8
-NORTEvisión	http://mykingtv.net:2082/live/zaki880/8890/9443.m3u8
-Oizmendi Telebista (404p)	http://mykingtv.net:2082/live/zaki880/8890/9444.m3u8
-Onda 15 TV (224p)	http://mykingtv.net:2082/live/zaki880/8890/9445.m3u8
-Onda Cádiz (480p)	http://mykingtv.net:2082/live/zaki880/8890/9446.m3u8
-Onda Madrid (360p)	http://mykingtv.net:2082/live/zaki880/8890/9447.m3u8
-Onda Madrid	http://mykingtv.net:2082/live/zaki880/8890/9448.m3u8
-Onda Madrid (360p)	http://mykingtv.net:2082/live/zaki880/8890/9449.m3u8
-OndaMezquita 7 TV	http://mykingtv.net:2082/live/zaki880/8890/9450.m3u8
-People are Awesome (720p)	http://mykingtv.net:2082/live/zaki880/8890/9451.m3u8
-Pequeradio	http://mykingtv.net:2082/live/zaki880/8890/9452.m3u8
-Planeta Kids (720p)	http://mykingtv.net:2082/live/zaki880/8890/9453.m3u8
-Popular TV Cantabria	http://mykingtv.net:2082/live/zaki880/8890/9454.m3u8
-Popular TV Melilla	http://mykingtv.net:2082/live/zaki880/8890/9455.m3u8
-Popular TV Melilla (720p)	http://mykingtv.net:2082/live/zaki880/8890/9456.m3u8
-Popular TV Murcia [Not 24/7]	http://mykingtv.net:2082/live/zaki880/8890/9457.m3u8
-Punt 3 Vall Uixó	http://mykingtv.net:2082/live/zaki880/8890/9458.m3u8
-PUNT CANAL 3 HD	http://mykingtv.net:2082/live/zaki880/8890/9459.m3u8
-Radio Televisión Marbella	http://mykingtv.net:2082/live/zaki880/8890/9460.m3u8
-Radio Televisión Melilla (720p)	http://mykingtv.net:2082/live/zaki880/8890/9461.m3u8
-Radio Televisión Mogán (1080p)	http://mykingtv.net:2082/live/zaki880/8890/9462.m3u8
-Rakuten Action (Denmark)	http://mykingtv.net:2082/live/zaki880/8890/9463.m3u8
-Rakuten Action (Netherland)	http://mykingtv.net:2082/live/zaki880/8890/9464.m3u8
-Rakuten Action (Norway)	http://mykingtv.net:2082/live/zaki880/8890/9465.m3u8
-Rakuten Action (Sweden)	http://mykingtv.net:2082/live/zaki880/8890/9466.m3u8
-Rakuten Action Movies 1	http://mykingtv.net:2082/live/zaki880/8890/9467.m3u8
-Rakuten Action Movies 2	http://mykingtv.net:2082/live/zaki880/8890/9468.m3u8
-Rakuten Action Movies 3	http://mykingtv.net:2082/live/zaki880/8890/9469.m3u8
-Rakuten Comedy (Denmark)	http://mykingtv.net:2082/live/zaki880/8890/9470.m3u8
-Rakuten Comedy (Finland)	http://mykingtv.net:2082/live/zaki880/8890/9471.m3u8
-Rakuten Comedy (Netherlands)	http://mykingtv.net:2082/live/zaki880/8890/9472.m3u8
-Rakuten Comedy (Norway)	http://mykingtv.net:2082/live/zaki880/8890/9473.m3u8
-Rakuten Comedy (Sweden)	http://mykingtv.net:2082/live/zaki880/8890/9474.m3u8
-Rakuten Comedy Movies 1	http://mykingtv.net:2082/live/zaki880/8890/9475.m3u8
-Rakuten Comedy Movies 2	http://mykingtv.net:2082/live/zaki880/8890/9476.m3u8
-Rakuten Comedy Movies 3	http://mykingtv.net:2082/live/zaki880/8890/9477.m3u8
-Rakuten Comedy Movies 6	http://mykingtv.net:2082/live/zaki880/8890/9478.m3u8
-Rakuten Comedy Movies 7	http://mykingtv.net:2082/live/zaki880/8890/9479.m3u8
-Rakuten Documentaries (Denmark)	http://mykingtv.net:2082/live/zaki880/8890/9480.m3u8
-Rakuten Documentaries (Finland)	http://mykingtv.net:2082/live/zaki880/8890/9481.m3u8
-Rakuten Documentaries (France)	http://mykingtv.net:2082/live/zaki880/8890/9482.m3u8
-Rakuten Documentaries (Italy)	http://mykingtv.net:2082/live/zaki880/8890/9483.m3u8
-Rakuten Documentaries (Netherland)	http://mykingtv.net:2082/live/zaki880/8890/9484.m3u8
-Rakuten Documentaries (Norway)	http://mykingtv.net:2082/live/zaki880/8890/9485.m3u8
-Rakuten Documentaries (Sweden)	http://mykingtv.net:2082/live/zaki880/8890/9486.m3u8
-Rakuten Drama (Denmark)	http://mykingtv.net:2082/live/zaki880/8890/9487.m3u8
-Rakuten Drama (Finland)	http://mykingtv.net:2082/live/zaki880/8890/9488.m3u8
-Rakuten Drama (Netherlands)	http://mykingtv.net:2082/live/zaki880/8890/9489.m3u8
-Rakuten Drama (Norway)	http://mykingtv.net:2082/live/zaki880/8890/9490.m3u8
-Rakuten Drama (Sweden)	http://mykingtv.net:2082/live/zaki880/8890/9491.m3u8
-Rakuten Family (Denmark)	http://mykingtv.net:2082/live/zaki880/8890/9492.m3u8
-Rakuten Family (Finland)	http://mykingtv.net:2082/live/zaki880/8890/9493.m3u8
-Rakuten Family (Netherlands)	http://mykingtv.net:2082/live/zaki880/8890/9494.m3u8
-Rakuten Family (Norway)	http://mykingtv.net:2082/live/zaki880/8890/9495.m3u8
-Rakuten Family (Sweden)	http://mykingtv.net:2082/live/zaki880/8890/9496.m3u8
-Rakuten Spotlight (Denmark)	http://mykingtv.net:2082/live/zaki880/8890/9497.m3u8
-Rakuten Spotlight (Finland)	http://mykingtv.net:2082/live/zaki880/8890/9498.m3u8
-Rakuten Spotlight (Netherlands)	http://mykingtv.net:2082/live/zaki880/8890/9499.m3u8
-Rakuten Spotlight (Norway)	http://mykingtv.net:2082/live/zaki880/8890/9500.m3u8
-Rakuten Spotlight (Sweden)	http://mykingtv.net:2082/live/zaki880/8890/9501.m3u8
-Rakuten Spotlight 1	http://mykingtv.net:2082/live/zaki880/8890/9502.m3u8
-Rakuten Spotlight 2	http://mykingtv.net:2082/live/zaki880/8890/9503.m3u8
-Rakuten Spotlight 3	http://mykingtv.net:2082/live/zaki880/8890/9504.m3u8
-Rakuten Spotlight 6	http://mykingtv.net:2082/live/zaki880/8890/9505.m3u8
-Rakuten Spotlight 7	http://mykingtv.net:2082/live/zaki880/8890/9506.m3u8
-Rakuten Top Free 1	http://mykingtv.net:2082/live/zaki880/8890/9507.m3u8
-Rakuten Top Free 2	http://mykingtv.net:2082/live/zaki880/8890/9508.m3u8
-Rakuten Top Free 3	http://mykingtv.net:2082/live/zaki880/8890/9509.m3u8
-Rakuten Top Free 6	http://mykingtv.net:2082/live/zaki880/8890/9510.m3u8
-Rakuten Top Free 7	http://mykingtv.net:2082/live/zaki880/8890/9511.m3u8
-Rakuten TV Shows 1	http://mykingtv.net:2082/live/zaki880/8890/9512.m3u8
-Rakuten TV Shows 2	http://mykingtv.net:2082/live/zaki880/8890/9513.m3u8
-Rakuten TV Shows 3	http://mykingtv.net:2082/live/zaki880/8890/9514.m3u8
-Rakuten TV Shows 6	http://mykingtv.net:2082/live/zaki880/8890/9515.m3u8
-Rakuten TV Shows 7	http://mykingtv.net:2082/live/zaki880/8890/9516.m3u8
-Real Madrid TV	http://mykingtv.net:2082/live/zaki880/8890/9517.m3u8
-Real Madrid TV (404p)	http://mykingtv.net:2082/live/zaki880/8890/9518.m3u8
-Channel V	http://mykingtv.net:2082/live/zaki880/8890/9519.m3u8
-RTV 1	http://mykingtv.net:2082/live/zaki880/8890/9520.m3u8
-RTV 2	http://mykingtv.net:2082/live/zaki880/8890/9521.m3u8
-Channel V	http://mykingtv.net:2082/live/zaki880/8890/9522.m3u8
-BTV	http://mykingtv.net:2082/live/zaki880/8890/9523.m3u8
-Severka	http://mykingtv.net:2082/live/zaki880/8890/9524.m3u8
-TV Nové Zámky	http://mykingtv.net:2082/live/zaki880/8890/9525.m3u8
-TV Reduta	http://mykingtv.net:2082/live/zaki880/8890/9526.m3u8
-TV Turzovka	http://mykingtv.net:2082/live/zaki880/8890/9527.m3u8
-Channel V	http://mykingtv.net:2082/live/zaki880/8890/9528.m3u8
-Channel V	http://mykingtv.net:2082/live/zaki880/8890/9529.m3u8
-KTV	http://mykingtv.net:2082/live/zaki880/8890/9530.m3u8
-Maeil Business Newspaper	http://mykingtv.net:2082/live/zaki880/8890/9531.m3u8
-CH: Blue 美剧频道	http://mykingtv.net:2082/live/zaki880/8890/5664.m3u8
-CH: CCTV PLUS LD (360p)	http://mykingtv.net:2082/live/zaki880/8890/5665.m3u8
-CH: CCTV-1	http://mykingtv.net:2082/live/zaki880/8890/5666.m3u8
-CH: CCTV中国中央电视台-2 财经	http://mykingtv.net:2082/live/zaki880/8890/5667.m3u8
-CH: CCTV 3	http://mykingtv.net:2082/live/zaki880/8890/5668.m3u8
-CH: CCTV-3FHD	http://mykingtv.net:2082/live/zaki880/8890/5669.m3u8
-CH: CCTV 4	http://mykingtv.net:2082/live/zaki880/8890/5670.m3u8
-CH: CCTV-5+HD	http://mykingtv.net:2082/live/zaki880/8890/5671.m3u8
-CH: CCTV-5+ 体育赛事	http://mykingtv.net:2082/live/zaki880/8890/5672.m3u8
-CCTV中国中央电视台-6 电影	http://mykingtv.net:2082/live/zaki880/8890/5673.m3u8
-CH: CCTV中国中央电视台-7 国防军事	http://mykingtv.net:2082/live/zaki880/8890/5674.m3u8
-CH: CCTV-8	http://mykingtv.net:2082/live/zaki880/8890/5675.m3u8
-CH: CCTV-9英	http://mykingtv.net:2082/live/zaki880/8890/5676.m3u8
-CH: CCTV-10	http://mykingtv.net:2082/live/zaki880/8890/5677.m3u8
-CCTV-12	http://mykingtv.net:2082/live/zaki880/8890/5678.m3u8
-CH: CCTV-13 新闻	http://mykingtv.net:2082/live/zaki880/8890/5679.m3u8
-CH: CCTV-15	http://mykingtv.net:2082/live/zaki880/8890/5680.m3u8
-CH: CCTV-15	http://mykingtv.net:2082/live/zaki880/8890/5681.m3u8
-CH: CCTV-女性时尚	http://mykingtv.net:2082/live/zaki880/8890/5682.m3u8
-CH: CGTN	http://mykingtv.net:2082/live/zaki880/8890/5683.m3u8
-CH: TVBS NEWS	http://mykingtv.net:2082/live/zaki880/8890/5684.m3u8
-CH: TVBS NEWS HD	http://mykingtv.net:2082/live/zaki880/8890/5685.m3u8
-CH: Phoenix News	http://mykingtv.net:2082/live/zaki880/8890/5686.m3u8
-CH: Phoenix InfoNews	http://mykingtv.net:2082/live/zaki880/8890/5687.m3u8
-CH: Phoenix Learning	http://mykingtv.net:2082/live/zaki880/8890/5688.m3u8
-CH: Fox Crime HK	http://mykingtv.net:2082/live/zaki880/8890/5689.m3u8
-CH: Fox Action Hk	http://mykingtv.net:2082/live/zaki880/8890/5690.m3u8
-CH: Zhejiang tv	http://mykingtv.net:2082/live/zaki880/8890/5691.m3u8
-CH: Jiangsu Tv	http://mykingtv.net:2082/live/zaki880/8890/5692.m3u8
-CH: Viutv	http://mykingtv.net:2082/live/zaki880/8890/5693.m3u8
-CH: Viutv6 English	http://mykingtv.net:2082/live/zaki880/8890/5694.m3u8
-CH: Now Sports	http://mykingtv.net:2082/live/zaki880/8890/5695.m3u8
-CH: Tvb pearl english	http://mykingtv.net:2082/live/zaki880/8890/5696.m3u8
-CH: Tvb jade hk	http://mykingtv.net:2082/live/zaki880/8890/5697.m3u8
-CH: Andxiju Taiwan Tv	http://mykingtv.net:2082/live/zaki880/8890/5698.m3u8
-KOR: Animax [Indonesian Sub]	http://mykingtv.net:2082/live/zaki880/8890/5699.m3u8
-KOR: AniPlus [B]	http://mykingtv.net:2082/live/zaki880/8890/5700.m3u8
-KOR: AniPlus [C]	http://mykingtv.net:2082/live/zaki880/8890/5701.m3u8
-KOR: AniPlus [D]	http://mykingtv.net:2082/live/zaki880/8890/5702.m3u8
-KOR: Arirang (1080p)	http://mykingtv.net:2082/live/zaki880/8890/5703.m3u8
-KOR: Arirang	http://mykingtv.net:2082/live/zaki880/8890/5704.m3u8
-KOR: Arirang	http://mykingtv.net:2082/live/zaki880/8890/5705.m3u8
-KOR: arirang 1	http://mykingtv.net:2082/live/zaki880/8890/5706.m3u8
-KOR: arirang 3	http://mykingtv.net:2082/live/zaki880/8890/5707.m3u8
-KOR: Arirang HD (1080p)	http://mykingtv.net:2082/live/zaki880/8890/5708.m3u8
-KOR: Arirang Korea	http://mykingtv.net:2082/live/zaki880/8890/5709.m3u8
-KOR: Arirang Radio	http://mykingtv.net:2082/live/zaki880/8890/5710.m3u8
-KOR: Arirang TV	http://mykingtv.net:2082/live/zaki880/8890/5711.m3u8
-KOR: Arirang TV Korea EN	http://mykingtv.net:2082/live/zaki880/8890/5712.m3u8
-KOR: Arte HD (1080p)	http://mykingtv.net:2082/live/zaki880/8890/5713.m3u8
-KOR: BBS Buddhist Broadcasting	http://mykingtv.net:2082/live/zaki880/8890/5714.m3u8
-KOR: BBS Buddhist Broadcasting (1080p)	http://mykingtv.net:2082/live/zaki880/8890/5715.m3u8
-KOR: BBS 불교방송	http://mykingtv.net:2082/live/zaki880/8890/5716.m3u8
-KOR: CBS (1080p)	http://mykingtv.net:2082/live/zaki880/8890/5717.m3u8
-KOR: CBS (1080p)	http://mykingtv.net:2082/live/zaki880/8890/5718.m3u8
-KOR: CBS (1080p)	http://mykingtv.net:2082/live/zaki880/8890/5719.m3u8
-CGNTV	http://mykingtv.net:2082/live/zaki880/8890/5720.m3u8
-KOR: Channel 67	http://mykingtv.net:2082/live/zaki880/8890/5721.m3u8
-KOR: CJB청주방송(SBS 淸州) (540p)	http://mykingtv.net:2082/live/zaki880/8890/5722.m3u8
-KOR: CTS기독교TV (720p)	http://mykingtv.net:2082/live/zaki880/8890/5723.m3u8
-KOR: EBS 1	http://mykingtv.net:2082/live/zaki880/8890/5724.m3u8
-KOR: EBS 1	http://mykingtv.net:2082/live/zaki880/8890/5725.m3u8
-KOR: EBS 2 (400p)	http://mykingtv.net:2082/live/zaki880/8890/5726.m3u8
-KOR: EBS e (400p)	http://mykingtv.net:2082/live/zaki880/8890/5727.m3u8
-KOR: EBS KIDS (360p)	http://mykingtv.net:2082/live/zaki880/8890/5728.m3u8
-EBS Kids (360p)	http://mykingtv.net:2082/live/zaki880/8890/5729.m3u8
-KOR: EBS Plus 1 (360p)	http://mykingtv.net:2082/live/zaki880/8890/5730.m3u8
-KOR: EBS Plus 2 (360p)	http://mykingtv.net:2082/live/zaki880/8890/5731.m3u8
-KOR: EBS+ 1	http://mykingtv.net:2082/live/zaki880/8890/5732.m3u8
-KOR: EBS+ 2	http://mykingtv.net:2082/live/zaki880/8890/5733.m3u8
-KOR: EBSe	http://mykingtv.net:2082/live/zaki880/8890/5734.m3u8
-KOR: Edaily TV (720p)	http://mykingtv.net:2082/live/zaki880/8890/5735.m3u8
-KOR: GCN	http://mykingtv.net:2082/live/zaki880/8890/5736.m3u8
-KOR: Gugbang TV (404p)	http://mykingtv.net:2082/live/zaki880/8890/5737.m3u8
-KOR: JIBS SBS	http://mykingtv.net:2082/live/zaki880/8890/5738.m3u8
-KOR: JTBC	http://mykingtv.net:2082/live/zaki880/8890/5739.m3u8
-KOR: KBC 광주방송(SBS 光州)	http://mykingtv.net:2082/live/zaki880/8890/5740.m3u8
-KOR: KBS 1	http://mykingtv.net:2082/live/zaki880/8890/5742.m3u8
-KOR: KBS LiveCam DokDo	http://mykingtv.net:2082/live/zaki880/8890/5743.m3u8
-KOR: KBS2	http://mykingtv.net:2082/live/zaki880/8890/5745.m3u8
-KOR: KCTV 광주 CH05	http://mykingtv.net:2082/live/zaki880/8890/5746.m3u8
-KOR: KTV	http://mykingtv.net:2082/live/zaki880/8890/5747.m3u8
-KOR: MBC	http://mykingtv.net:2082/live/zaki880/8890/5748.m3u8
-KOR: Mnet	http://mykingtv.net:2082/live/zaki880/8890/5749.m3u8
-KOR: MTN	http://mykingtv.net:2082/live/zaki880/8890/5750.m3u8
-KOR: MTN	http://mykingtv.net:2082/live/zaki880/8890/5751.m3u8
-KOR: NBS Korea Agricultural Broadcasting (720p)	http://mykingtv.net:2082/live/zaki880/8890/5752.m3u8
-KOR: One (Indonesian Sub)	http://mykingtv.net:2082/live/zaki880/8890/5753.m3u8
-KOR: SBS	http://mykingtv.net:2082/live/zaki880/8890/5754.m3u8
-KOR: SBS International	http://mykingtv.net:2082/live/zaki880/8890/5755.m3u8
-KOR: SBS International (480p)	http://mykingtv.net:2082/live/zaki880/8890/5756.m3u8
-KOR: SBS KNN (450p)	http://mykingtv.net:2082/live/zaki880/8890/5757.m3u8
-KOR: SBS Plus (480p)	http://mykingtv.net:2082/live/zaki880/8890/5758.m3u8
-KOR: SBS Plus International	http://mykingtv.net:2082/live/zaki880/8890/5759.m3u8
-KOR: SBS Star	http://mykingtv.net:2082/live/zaki880/8890/5760.m3u8
-KOR: SBS Star (480p)	http://mykingtv.net:2082/live/zaki880/8890/5761.m3u8
-KOR: TBS	http://mykingtv.net:2082/live/zaki880/8890/5762.m3u8
-KOR: TBS (720p)	http://mykingtv.net:2082/live/zaki880/8890/5763.m3u8
-KOR: TJB 대전방송(SBS 大田)	http://mykingtv.net:2082/live/zaki880/8890/5764.m3u8
-KOR: TVWorkNet (480p)	http://mykingtv.net:2082/live/zaki880/8890/5765.m3u8
-KOR: YTN (720p)	http://mykingtv.net:2082/live/zaki880/8890/5766.m3u8
-KOR: YTN DMB (270p)	http://mykingtv.net:2082/live/zaki880/8890/5767.m3u8
-KOR: YTN SCIENCE	http://mykingtv.net:2082/live/zaki880/8890/5768.m3u8
-KOR: YTN SCIENCE (270p)	http://mykingtv.net:2082/live/zaki880/8890/5769.m3u8
-KOR: 가요TV	http://mykingtv.net:2082/live/zaki880/8890/5770.m3u8
-KOR: 국악방송	http://mykingtv.net:2082/live/zaki880/8890/5771.m3u8
-KOR: 대구 MBC(MBC Daegu)	http://mykingtv.net:2082/live/zaki880/8890/5772.m3u8
-KOR: 대전MBC(MBC Daejeon)	http://mykingtv.net:2082/live/zaki880/8890/5773.m3u8
-KOR: 여수MBC(MBC Yeosu)	http://mykingtv.net:2082/live/zaki880/8890/5774.m3u8
-KOR: 춘천MBC(MBC Chuncheon)	http://mykingtv.net:2082/live/zaki880/8890/5775.m3u8
-KOR: 한국선거방송	http://mykingtv.net:2082/live/zaki880/8890/5776.m3u8
-JPN: Animax	http://mykingtv.net:2082/live/zaki880/8890/5777.m3u8
-JPN: Animax Japan (Indonesian Subs)	http://mykingtv.net:2082/live/zaki880/8890/5778.m3u8
-JPN: Animax Japan (Vietnamese Subs)	http://mykingtv.net:2082/live/zaki880/8890/5779.m3u8
-JPN: AT-X	http://mykingtv.net:2082/live/zaki880/8890/5780.m3u8
-JPN: BS Asahi	http://mykingtv.net:2082/live/zaki880/8890/5781.m3u8
-JPN: BS Fuji (BS181)	http://mykingtv.net:2082/live/zaki880/8890/5782.m3u8
-JPN: BS TV Tokyo (BS171)	http://mykingtv.net:2082/live/zaki880/8890/5783.m3u8
-JPN: BS 日テレ	http://mykingtv.net:2082/live/zaki880/8890/5784.m3u8
-JPN: BS-TBS	http://mykingtv.net:2082/live/zaki880/8890/5785.m3u8
-JPN: CGNTV Japan (720p)	http://mykingtv.net:2082/live/zaki880/8890/5786.m3u8
-JPN: Fuji TV	http://mykingtv.net:2082/live/zaki880/8890/5787.m3u8
-JPN: Fuji TV (JOCX-DTV)	http://mykingtv.net:2082/live/zaki880/8890/5788.m3u8
-JPN: GSTV (720p)	http://mykingtv.net:2082/live/zaki880/8890/5789.m3u8
-JPN: GTN Typhome (English Subs) (720p) [Not 24/7]	http://mykingtv.net:2082/live/zaki880/8890/5790.m3u8
-JPN: Gunma TV	http://mykingtv.net:2082/live/zaki880/8890/5791.m3u8
-JPN: Japanet Channel DX (1080p)	http://mykingtv.net:2082/live/zaki880/8890/5792.m3u8
-JPN: JSTV 2	http://mykingtv.net:2082/live/zaki880/8890/5793.m3u8
-JPN: MX Live (Webcam)	http://mykingtv.net:2082/live/zaki880/8890/5794.m3u8
-JPN: MX1	http://mykingtv.net:2082/live/zaki880/8890/5795.m3u8
-JPN: MX2	http://mykingtv.net:2082/live/zaki880/8890/5796.m3u8
-JPN: New Japan Pro Wrestling World	http://mykingtv.net:2082/live/zaki880/8890/5797.m3u8
-JPN: NHK BS Premium (BS103)	http://mykingtv.net:2082/live/zaki880/8890/5798.m3u8
-JPN: NHK BS1 (BS101)	http://mykingtv.net:2082/live/zaki880/8890/5799.m3u8
-JPN: NHK Chinese Vision	http://mykingtv.net:2082/live/zaki880/8890/5800.m3u8
-JPN: NHK General (JOAK-DTV)	http://mykingtv.net:2082/live/zaki880/8890/5801.m3u8
-JPN: NHK General TV	http://mykingtv.net:2082/live/zaki880/8890/5802.m3u8
-JPN: NHK World (720p)	http://mykingtv.net:2082/live/zaki880/8890/5803.m3u8
-JPN: NHK World Japan (1080p)	http://mykingtv.net:2082/live/zaki880/8890/5804.m3u8
-JPN: NHK World Japan	http://mykingtv.net:2082/live/zaki880/8890/5805.m3u8
-JPN: NHK World Japan (720p)	http://mykingtv.net:2082/live/zaki880/8890/5806.m3u8
-JPN: NHK WORLD TV	http://mykingtv.net:2082/live/zaki880/8890/5807.m3u8
-JPN: NHK华语视界 (720p)	http://mykingtv.net:2082/live/zaki880/8890/5808.m3u8
-JPN: Nippon TV (JOAX-DTV)	http://mykingtv.net:2082/live/zaki880/8890/5809.m3u8
-JPN: Nippon TV News 24	http://mykingtv.net:2082/live/zaki880/8890/5810.m3u8
-JPN: Nippon TV News 24	http://mykingtv.net:2082/live/zaki880/8890/5811.m3u8
-JPN: NTV News24 (480p)	http://mykingtv.net:2082/live/zaki880/8890/5812.m3u8
-JPN: Shop Channel	http://mykingtv.net:2082/live/zaki880/8890/5813.m3u8
-JPN: TBS	http://mykingtv.net:2082/live/zaki880/8890/5814.m3u8
-JPN: TBS (JORX-DTV)	http://mykingtv.net:2082/live/zaki880/8890/5815.m3u8
-JPN: Tokyo MX1 (360p) [Not 24-7]	http://mykingtv.net:2082/live/zaki880/8890/5816.m3u8
-JPN: Tokyo MX2 (360p)	http://mykingtv.net:2082/live/zaki880/8890/5817.m3u8
-JPN: TV Asahi	http://mykingtv.net:2082/live/zaki880/8890/5818.m3u8
-JPN: TV Asahi 1	http://mykingtv.net:2082/live/zaki880/8890/5819.m3u8
-JPN: TV Tokyo	http://mykingtv.net:2082/live/zaki880/8890/5820.m3u8
-JPN: TV Tokyo	http://mykingtv.net:2082/live/zaki880/8890/5821.m3u8
-JPN: Weather Channel (ウェザーニュース) (BS | WNI) (720p)	http://mykingtv.net:2082/live/zaki880/8890/5822.m3u8
-JPN: Weather News	http://mykingtv.net:2082/live/zaki880/8890/5823.m3u8
-JPN: WeatherNews	http://mykingtv.net:2082/live/zaki880/8890/5824.m3u8
-JPN: ジャパネットチャンネルDX	http://mykingtv.net:2082/live/zaki880/8890/5825.m3u8
-JPN: 日本购物1	http://mykingtv.net:2082/live/zaki880/8890/5826.m3u8
-JPN: 日本购物2	http://mykingtv.net:2082/live/zaki880/8890/5827.m3u8
-JPN: 日本购物3	http://mykingtv.net:2082/live/zaki880/8890/5828.m3u8
-JPN: 日本购物4	http://mykingtv.net:2082/live/zaki880/8890/5829.m3u8
-Hitz FM	http://mykingtv.net:2082/live/zaki880/8890/9889.m3u8
-DMAX	http://mykingtv.net:2082/live/zaki880/8890/9973.m3u8
-MY: Berita RTM	http://mykingtv.net:2082/live/zaki880/8890/8473.m3u8
-MY: Astro Super Sport 1(B)	http://mykingtv.net:2082/live/zaki880/8890/8548.m3u8
-MY: Astro Super Sport 2(B)	http://mykingtv.net:2082/live/zaki880/8890/8549.m3u8
-MY: Astro Super Sport 3(B)	http://mykingtv.net:2082/live/zaki880/8890/8550.m3u8
-MY: Astro Super Sport 4(B)	http://mykingtv.net:2082/live/zaki880/8890/8551.m3u8
-Discovery Channel 	http://mykingtv.net:2082/live/zaki880/8890/10125.m3u8
-MY: Okey Tv	http://mykingtv.net:2082/live/zaki880/8890/8440.m3u8
-MY: HBO	http://mykingtv.net:2082/live/zaki880/8890/7123.m3u8
-MY: HBO Hits	http://mykingtv.net:2082/live/zaki880/8890/7124.m3u8
-MY: HBO Signature	http://mykingtv.net:2082/live/zaki880/8890/7125.m3u8
-MY: HBO Family	http://mykingtv.net:2082/live/zaki880/8890/7126.m3u8
-MY: CINEMAX HD	http://mykingtv.net:2082/live/zaki880/8890/7127.m3u8
-MY: HITS	http://mykingtv.net:2082/live/zaki880/8890/7128.m3u8
-MY: HITS Movies	http://mykingtv.net:2082/live/zaki880/8890/7129.m3u8
-MY:AXN	http://mykingtv.net:2082/live/zaki880/8890/7130.m3u8
-MY: Cinema world	http://mykingtv.net:2082/live/zaki880/8890/7131.m3u8
-MY: Thrill	http://mykingtv.net:2082/live/zaki880/8890/7132.m3u8
-MY: Tvn Movie	http://mykingtv.net:2082/live/zaki880/8890/7133.m3u8
-MY: Tvn HD	http://mykingtv.net:2082/live/zaki880/8890/7134.m3u8
-MY: Warner TV	http://mykingtv.net:2082/live/zaki880/8890/7135.m3u8
-MY: CCM	http://mykingtv.net:2082/live/zaki880/8890/7136.m3u8
-MY:Celestial Movies	http://mykingtv.net:2082/live/zaki880/8890/7137.m3u8
-MY: KIX	http://mykingtv.net:2082/live/zaki880/8890/7138.m3u8
-ID: Bioskop Indonesia	http://mykingtv.net:2082/live/zaki880/8890/7139.m3u8
-ID: FLIK	http://mykingtv.net:2082/live/zaki880/8890/7140.m3u8
-ID: IMC	http://mykingtv.net:2082/live/zaki880/8890/7141.m3u8
-Wau	http://mykingtv.net:2082/live/zaki880/8890/7143.m3u8
-Blue Ant Extreme	http://mykingtv.net:2082/live/zaki880/8890/7148.m3u8
-Blue Ant Entertaiment	http://mykingtv.net:2082/live/zaki880/8890/7149.m3u8
-Galaxy HD	http://mykingtv.net:2082/live/zaki880/8890/7152.m3u8
-Galaxy Premium HD	http://mykingtv.net:2082/live/zaki880/8890/7153.m3u8
-STAR Movies Select HD	http://mykingtv.net:2082/live/zaki880/8890/8288.m3u8
-Showcase Movies	http://mykingtv.net:2082/live/zaki880/8890/8409.m3u8
-MyCinema HD	http://mykingtv.net:2082/live/zaki880/8890/8658.m3u8
-MyCinema Asia HD	http://mykingtv.net:2082/live/zaki880/8890/8660.m3u8
-MyFamily Channel HD	http://mykingtv.net:2082/live/zaki880/8890/8662.m3u8
-Syfy	http://mykingtv.net:2082/live/zaki880/8890/9673.m3u8
-MY:TV6	http://mykingtv.net:2082/live/zaki880/8890/8433.m3u8
-MY:MTV Channel	http://mykingtv.net:2082/live/zaki880/8890/12214.m3u8
-MY: BOO Sub Malay	http://mykingtv.net:2082/live/zaki880/8890/12224.m3u8
-3 Tamil TV [Not 24/7]	http://mykingtv.net:2082/live/zaki880/8890/12226.m3u8
-Aathavan TV Tamil[Not 24/7]	http://mykingtv.net:2082/live/zaki880/8890/12227.m3u8
-EET TV Tamil[Not 24/7]	http://mykingtv.net:2082/live/zaki880/8890/12228.m3u8
-Marutam TV Tamil 	http://mykingtv.net:2082/live/zaki880/8890/12229.m3u8
-Sana TV Tamil [Not 24/7]	http://mykingtv.net:2082/live/zaki880/8890/12230.m3u8
-Tamil Vision International (1080p)	http://mykingtv.net:2082/live/zaki880/8890/12231.m3u8
-Santhora Short Flim Tamil	http://mykingtv.net:2082/live/zaki880/8890/12236.m3u8
-Santhora TV Tamil (720p)	http://mykingtv.net:2082/live/zaki880/8890/12237.m3u8
-Discovery Asia	http://mykingtv.net:2082/live/zaki880/8890/12240.m3u8
-MY:Rubby Pass	http://mykingtv.net:2082/live/zaki880/8890/12215.m3u8
-Moonbug	http://mykingtv.net:2082/live/zaki880/8890/13313.m3u8
-Dunia Anak	http://mykingtv.net:2082/live/zaki880/8890/13314.m3u8
-TV3 C	http://mykingtv.net:2082/live/zaki880/8890/16114.m3u8
-Spotv 2	http://mykingtv.net:2082/live/zaki880/8890/11832.m3u8
-MY: ADITHYA	http://mykingtv.net:2082/live/zaki880/8890/12239.m3u8
-RTB GO	http://mykingtv.net:2082/live/zaki880/8890/18011.m3u8
-MY: Astro Vinmeen -REpairing	http://mykingtv.net:2082/live/zaki880/8890/5176.m3u8
-MY: Dunia Sinema HD	http://mykingtv.net:2082/live/zaki880/8890/8459.m3u8
-MY: Bollyone 	http://mykingtv.net:2082/live/zaki880/8890/12222.m3u8
-Astro Vellithirai	http://mykingtv.net:2082/live/zaki880/8890/9884.m3u8
-Arena Bola 2	http://mykingtv.net:2082/live/zaki880/8890/18864.m3u8
-TRAXXfm	http://mykingtv.net:2082/live/zaki880/8890/19153.m3u8
-MY: Fight Sports	http://mykingtv.net:2082/live/zaki880/8890/7179.m3u8
-Eurosport	http://mykingtv.net:2082/live/zaki880/8890/19745.m3u8
-Siaran Langsung Live 1ᴴᴰ	http://mykingtv.net:2082/live/zaki880/8890/20399.m3u8
-MY: Astro Premiere	http://mykingtv.net:2082/live/zaki880/8890/20770.m3u8
-MY:Bein 2	http://mykingtv.net:2082/live/zaki880/8890/20773.m3u8
-Arena Bola SPECIAL LIVE 2	http://mykingtv.net:2082/live/zaki880/8890/19068.m3u8
-Arena Bola SPECIAL LIVE	http://mykingtv.net:2082/live/zaki880/8890/19067.m3u8
-National Geographic FHD	http://mykingtv.net:2082/live/zaki880/8890/6992.m3u8
-MY: National Geographic HD	http://mykingtv.net:2082/live/zaki880/8890/5297.m3u8
-Movie Now FHD	http://mykingtv.net:2082/live/zaki880/8890/8542.m3u8
-Suria FM	http://mykingtv.net:2082/live/zaki880/8890/1292.m3u8
-AIfm	http://mykingtv.net:2082/live/zaki880/8890/22051.m3u8
-RADIO KLASIK	http://mykingtv.net:2082/live/zaki880/8890/22052.m3u8
-ASYIKfm	http://mykingtv.net:2082/live/zaki880/8890/22053.m3u8
-Mutiara FM	http://mykingtv.net:2082/live/zaki880/8890/22054.m3u8
-Rentak Kota FM	http://mykingtv.net:2082/live/zaki880/8890/22055.m3u8
-Selangor FM	http://mykingtv.net:2082/live/zaki880/8890/22056.m3u8
-Sabah FM 	http://mykingtv.net:2082/live/zaki880/8890/22057.m3u8
-Kedah FM	http://mykingtv.net:2082/live/zaki880/8890/22058.m3u8
-Kelantan FM	http://mykingtv.net:2082/live/zaki880/8890/22059.m3u8
-Terangganu FM	http://mykingtv.net:2082/live/zaki880/8890/22060.m3u8
-Negeri 9 FM	http://mykingtv.net:2082/live/zaki880/8890/22061.m3u8
-Johor FM	http://mykingtv.net:2082/live/zaki880/8890/22062.m3u8
-Pahang FM	http://mykingtv.net:2082/live/zaki880/8890/22063.m3u8
-Sarawak FM	http://mykingtv.net:2082/live/zaki880/8890/22064.m3u8
-Perak FM	http://mykingtv.net:2082/live/zaki880/8890/22065.m3u8
-Perlis FM	http://mykingtv.net:2082/live/zaki880/8890/22066.m3u8
-Melaka FM	http://mykingtv.net:2082/live/zaki880/8890/22067.m3u8
-Gegar Muzik FM	http://mykingtv.net:2082/live/zaki880/8890/22068.m3u8
-Gegar FM	http://mykingtv.net:2082/live/zaki880/8890/22069.m3u8
-Zayan	http://mykingtv.net:2082/live/zaki880/8890/22070.m3u8
-FLyz FM	http://mykingtv.net:2082/live/zaki880/8890/22071.m3u8
-Sony Ten3	http://mykingtv.net:2082/live/zaki880/8890/12991.m3u8
-Sony Ten2	http://mykingtv.net:2082/live/zaki880/8890/12990.m3u8
-Sony Ten1	http://mykingtv.net:2082/live/zaki880/8890/12989.m3u8
-Sony Six	http://mykingtv.net:2082/live/zaki880/8890/12988.m3u8
-DSTV:Maximo	http://mykingtv.net:2082/live/zaki880/8890/12738.m3u8
-DSTV: WWE	http://mykingtv.net:2082/live/zaki880/8890/12739.m3u8
-DSTV: SUPERSPORT CRICKET	http://mykingtv.net:2082/live/zaki880/8890/12740.m3u8
-DSTV: SUPERSPORT LA LIGA	http://mykingtv.net:2082/live/zaki880/8890/12741.m3u8
-DSTV: SUPERSPORT RUGBY	http://mykingtv.net:2082/live/zaki880/8890/12742.m3u8
-DSTV: SUPERSPORT VARIETY 1	http://mykingtv.net:2082/live/zaki880/8890/12743.m3u8
-DSTV: SUPERSPORT VARIETY 2	http://mykingtv.net:2082/live/zaki880/8890/12744.m3u8
-DSTV: SUPERSPORT VARIETY 3	http://mykingtv.net:2082/live/zaki880/8890/12745.m3u8
-DSTV: SUPERSPORT VARIETY 4	http://mykingtv.net:2082/live/zaki880/8890/12746.m3u8
-DSTV: SUPERSPORT GRANDSTAND	http://mykingtv.net:2082/live/zaki880/8890/12747.m3u8
-DSTV: SUPERSPORT PREMIER LEAGUE	http://mykingtv.net:2082/live/zaki880/8890/12748.m3u8
-DSTV: SUPERSPORT FOOTBALL	http://mykingtv.net:2082/live/zaki880/8890/12749.m3u8
-DSTV: SUPERSPORTS PSL	http://mykingtv.net:2082/live/zaki880/8890/12750.m3u8
-DSTV: SUPERSPORT BLITZ	http://mykingtv.net:2082/live/zaki880/8890/12752.m3u8
-DSTV: SUPERSPORT TENNIS	http://mykingtv.net:2082/live/zaki880/8890/12753.m3u8
-DSTV: SUPERSPORTS ACTION	http://mykingtv.net:2082/live/zaki880/8890/12754.m3u8
-DSTV: SUPERSPORT GOLF	http://mykingtv.net:2082/live/zaki880/8890/12755.m3u8
-DSTV: SUPERSPORT MOTORSPORT	http://mykingtv.net:2082/live/zaki880/8890/12756.m3u8
-LIGA ARAB SSC Sports 5 ᴴᴰ	http://mykingtv.net:2082/live/zaki880/8890/20458.m3u8
-LIGA ARAB SSC Sports 4 ᴴᴰ	http://mykingtv.net:2082/live/zaki880/8890/20457.m3u8
-LIGA ARAB SSC Sports 3 ᴴᴰ	http://mykingtv.net:2082/live/zaki880/8890/20456.m3u8
-LIGA ARAB SSC Sports 2 ᴴᴰ	http://mykingtv.net:2082/live/zaki880/8890/20455.m3u8
-LIGA ARAB SSC Sports 1 ᴴᴰ	http://mykingtv.net:2082/live/zaki880/8890/20454.m3u8
-Arena Bola 1	http://mykingtv.net:2082/live/zaki880/8890/18863.m3u8
-SIAR	http://mykingtv.net:2082/live/zaki880/8890/23348.m3u8
-MY: Drama Sangat	http://mykingtv.net:2082/live/zaki880/8890/8441.m3u8
-ID: Global Trekker	http://mykingtv.net:2082/live/zaki880/8890/19488.m3u8
-ID: Rock Action HD	http://mykingtv.net:2082/live/zaki880/8890/19487.m3u8
-ID: Cinemachi XTRA	http://mykingtv.net:2082/live/zaki880/8890/19486.m3u8
-ID: Cinemachi MAX	http://mykingtv.net:2082/live/zaki880/8890/19485.m3u8
-ID: Cinemachi Action	http://mykingtv.net:2082/live/zaki880/8890/19484.m3u8
-ID: Cinemachi Kids	http://mykingtv.net:2082/live/zaki880/8890/19483.m3u8
-ID: Cinemachi	http://mykingtv.net:2082/live/zaki880/8890/19482.m3u8
-IN: &Flix-REPAIRING	http://mykingtv.net:2082/live/zaki880/8890/5205.m3u8
-EURO 1	http://mykingtv.net:2082/live/zaki880/8890/24648.m3u8
-EURO 2	http://mykingtv.net:2082/live/zaki880/8890/24649.m3u8
-EURO 3	http://mykingtv.net:2082/live/zaki880/8890/24650.m3u8
-EURO 4	http://mykingtv.net:2082/live/zaki880/8890/24651.m3u8
-EURO 5	http://mykingtv.net:2082/live/zaki880/8890/24652.m3u8
-EURO 6	http://mykingtv.net:2082/live/zaki880/8890/24653.m3u8
-EURO 7-LIVE ONLY 	http://mykingtv.net:2082/live/zaki880/8890/24654.m3u8
-EURO 8	http://mykingtv.net:2082/live/zaki880/8890/24655.m3u8
-COPA 1	http://mykingtv.net:2082/live/zaki880/8890/24657.m3u8
-COPA 2	http://mykingtv.net:2082/live/zaki880/8890/24658.m3u8
-COPA 3	http://mykingtv.net:2082/live/zaki880/8890/24756.m3u8
-COPA 4	http://mykingtv.net:2082/live/zaki880/8890/24757.m3u8
-COPA 5	http://mykingtv.net:2082/live/zaki880/8890/24758.m3u8
-EURO 9	http://mykingtv.net:2082/live/zaki880/8890/24816.m3u8
-EURO 10	http://mykingtv.net:2082/live/zaki880/8890/24817.m3u8
-EURO 11	http://mykingtv.net:2082/live/zaki880/8890/24818.m3u8
-EURO 12	http://mykingtv.net:2082/live/zaki880/8890/24819.m3u8
-EURO 13	http://mykingtv.net:2082/live/zaki880/8890/24820.m3u8
-UEFA 1	http://mykingtv.net:2082/live/zaki880/8890/21475.m3u8
-UEFA 2	http://mykingtv.net:2082/live/zaki880/8890/21476.m3u8
-UEFA 	http://mykingtv.net:2082/live/zaki880/8890/21477.m3u8
-UEFA 4	http://mykingtv.net:2082/live/zaki880/8890/21478.m3u8
+100%! Space Shower TV Plus	https://sundel.freemiumiptv.top/gdp/jptv/4217466D581B24A23E02E2CA2E806587.m3u8?token=R0RMTVZzZXJEWk9INGNlM3VES0gxVnpJNzBTWjNrNTNzSlpsOGY1alNwSGhrZXh1RmtQbnROTFFvTjNYdWNqWjo6mV7j4CWNVXf9s5hfE0YVGQ%3D%3D
+8TV (GEO Blocked)	https://raw.githubusercontent.com/mystery75/m3u8/main/8TV.m3u8
+A Spor TV	https://bozztv.com/inim03/live1/aspor/playlist.m3u8
+A Sports TV	https://win.freemiumiptv.top/gdp/live/asport/index.m3u8?token=R0RMTVZzZXJEWk9INGNlM3VES0gxVnpJNzBTWjNrNTNzSlpsOGY1alNwSGhrZXh1RmtQbnROTFFvTjNYdWNqWjo6mV7j4CWNVXf9s5hfE0YVGQ%3D%3D
+A&E TV	https://rek.freemiumiptv.top/gdp/dd/premium302.m3u8?token=R0RMTVZzZXJEWk9INGNlM3VES0gxVnpJNzBTWjNrNTNzSlpsOGY1alNwSGhrZXh1RmtQbnROTFFvTjNYdWNqWjo6mV7j4CWNVXf9s5hfE0YVGQ%3D%3D
+ABC News Australia TV	`1https://en.gdplayertv.to/live-tv/abc-news-au/?embed=1
+ABC News TV	`1https://en.gdplayertv.to/live-tv/abc-news-us/?embed=1
+ABC Plus TV	`1https://en.gdplayertv.to/live-tv/abc-plus-au/?embed=1
+ABC TV Japan	`1https://en.gdplayertv.to/live-tv/abc-tv-asahi/?embed=1
+ABC TV USA	`1https://en.gdplayertv.to/live-tv/abc-tv-usa/?embed=1
+ABN TV	`1https://en.gdplayertv.to/live-tv/abn-tv-kr/?embed=1
+ABN Telugu	`1https://en.gdplayertv.to/live-tv/UC_2irx_BQR7RsBKmUV9fePQ/?embed=1
+ACC Network TV	`1https://en.gdplayertv.to/live-tv/acc-network/?embed=1
+AMC TV	`1https://en.gdplayertv.to/live-tv/amc-tv/?embed=1
+ANN News TV	`1https://en.gdplayertv.to/live-tv/ann/?embed=1
+ARY News	`1https://en.gdplayertv.to/live-tv/UCMmpLL2ucRHAXbNHiCPyIyg/?embed=1
+AT-X TV	`1https://en.gdplayertv.to/live-tv/at-x-tv/?embed=1
+AVA Series TV	`1https://en.gdplayertv.to/live-tv/ava-series-tv/?embed=1
+AXN Movies TV	`1https://en.gdplayertv.to/live-tv/axn-movies/?embed=1
+AXN Mystery TV	`1https://en.gdplayertv.to/live-tv/axn-mystery/?embed=1
+AXN TV	`1https://en.gdplayertv.to/live-tv/axn/?embed=1
+AXN TV Japan	`1https://en.gdplayertv.to/live-tv/axn-jp/?embed=1
+AXN TV Malaysia (GEO Blocked)	`1https://en.gdplayertv.to/live-tv/axn-my/?embed=1
+AXS TV	`1https://en.gdplayertv.to/live-tv/axs-tv/?embed=1
+Abu Dhabi Sports 1 TV	`1https://en.gdplayertv.to/live-tv/abu-dhabi-sports-1/?embed=1
+Abu Dhabi Sports 2 TV	`1https://en.gdplayertv.to/live-tv/abu-dhabi-sports-2/?embed=1
+Abu Dhabi TV	`1https://en.gdplayertv.to/live-tv/abu-dhabi-tv/?embed=1
+Action Channel Japan	`1https://en.gdplayertv.to/live-tv/action-channel-jp/?embed=1
+Adult Swim TV USA	`1https://en.gdplayertv.to/live-tv/adult-swim-tv/?embed=1
+Al Jazeera English	`1https://en.gdplayertv.to/live-tv/UCNye-wNBqNL5ZzHSJj3l8Bg/?embed=1
+Al Jazeera TV	`1https://en.gdplayertv.to/live-tv/aljazeera/?embed=1
+Alkass Four TV	`1https://en.gdplayertv.to/live-tv/alkass-4/?embed=1
+Alkass One TV	`1https://en.gdplayertv.to/live-tv/alkass-1/?embed=1
+Alkass Three TV	`1https://en.gdplayertv.to/live-tv/alkass-3/?embed=1
+Alkass Two TV	`1https://en.gdplayertv.to/live-tv/alkass-2/?embed=1
+All Sports TV	`1https://en.gdplayertv.to/live-tv/all-sports/?embed=1
+Anhui TV	`1https://en.gdplayertv.to/live-tv/anhui-tv/?embed=1
+AniPlus English	`1https://en.gdplayertv.to/live-tv/aniplus-en/?embed=1
+AniPlus Indonesia	`1https://en.gdplayertv.to/live-tv/aniplus/?embed=1
+AniPlus 中文	`1https://en.gdplayertv.to/live-tv/aniplus-cn/?embed=1
+Animal Planet TV Japan	`1https://en.gdplayertv.to/live-tv/animal-planet-jp/?embed=1
+Animal Planet TV Malaysia (GEO Blocked)	`1https://en.gdplayertv.to/live-tv/animal-planet-my/?embed=1
+Animax TV English	`1https://en.gdplayertv.to/live-tv/animax-en/?embed=1
+Animax TV Indonesia	`1https://en.gdplayertv.to/live-tv/animax/?embed=1
+Animax TV Japan	`1https://en.gdplayertv.to/live-tv/animax-jp/?embed=1
+Animax TV 中文	`1https://en.gdplayertv.to/live-tv/animax-cn/?embed=1
+Arena Sport 1 Premium TV Serbia	`1https://en.gdplayertv.to/live-tv/arena-sport-1-premium/?embed=1
+Arena Sport 1 TV Croatia	`1https://en.gdplayertv.to/live-tv/arena-sport-1-croatia/?embed=1
+Arena Sport 1 TV Serbia	`1https://en.gdplayertv.to/live-tv/arena-sport-1/?embed=1
+Arena Sport 2 Premium TV Serbia	`1https://en.gdplayertv.to/live-tv/arena-sport-2-premium/?embed=1
+Arena Sport 2 TV Croatia	`1https://en.gdplayertv.to/live-tv/arena-sport-2-croatia/?embed=1
+Arena Sport 2 TV Serbia	`1https://en.gdplayertv.to/live-tv/arena-sport-2/?embed=1
+Arena Sport 3 Premium TV Serbia	`1https://en.gdplayertv.to/live-tv/arena-sport-3-premium/?embed=1
+Arena Sport 3 TV Croatia	`1https://en.gdplayertv.to/live-tv/arena-sport-3-croatia/?embed=1
+Arena Sport 3 TV Serbia	`1https://en.gdplayertv.to/live-tv/arena-sport-3/?embed=1
+Arena Sport 4 TV Croatia	`1https://en.gdplayertv.to/live-tv/arena-sport-4-croatia/?embed=1
+Arena Sport 4 TV Serbia	`1https://en.gdplayertv.to/live-tv/arena-sport-4/?embed=1
+Arirang TV	`1https://en.gdplayertv.to/live-tv/arirang-tv/?embed=1
+Arryadia TV	`1https://en.gdplayertv.to/live-tv/arryadia-tv/?embed=1
+Asian Food Channel Malaysia (GEO Blocked)	`1https://en.gdplayertv.to/live-tv/asian-food-channel-my/?embed=1
+Asian Food Network TV (AFN)	`1https://en.gdplayertv.to/live-tv/afn-asian-food-network/?embed=1
+Astro Arena 2 TV (GEO Blocked)	`1https://en.gdplayertv.to/live-tv/astro-arena-2/?embed=1
+Astro Arena Bola 2 TV (GEO Blocked)	`1https://en.gdplayertv.to/live-tv/astro-arena-bola-2/?embed=1
+Astro Arena Bola TV (GEO Blocked)	`1https://en.gdplayertv.to/live-tv/astro-arena-bola/?embed=1
+Astro Arena TV (GEO Blocked)	`1https://en.gdplayertv.to/live-tv/astro-arena/?embed=1
+Astro Aura TV (GEO Blocked)	`1https://en.gdplayertv.to/live-tv/astro-aura/?embed=1
+Astro Awani TV	`1https://en.gdplayertv.to/live-tv/astro-awani/?embed=1
+Astro BOO TV (GEO Blocked)	`1https://en.gdplayertv.to/live-tv/astro-boo/?embed=1
+Astro Ceria TV (GEO Blocked)	`1https://en.gdplayertv.to/live-tv/astro-ceria/?embed=1
+Astro Cricket TV	`1https://en.gdplayertv.to/live-tv/astro-cricket/?embed=1
+Astro Oasis TV (GEO Blocked)	`1https://en.gdplayertv.to/live-tv/astro-oasis/?embed=1
+Astro Premier TV (GEO Blocked)	`1https://en.gdplayertv.to/live-tv/astro-premier/?embed=1
+Astro Prima TV (GEO Blocked)	`1https://en.gdplayertv.to/live-tv/astro-prima/?embed=1
+Astro Rania TV (GEO Blocked)	`1https://en.gdplayertv.to/live-tv/astro-rania/?embed=1
+Astro Supersport 1 TV	`1https://en.gdplayertv.to/live-tv/astro-supersport/?embed=1
+Astro Supersport 2 TV	`1https://en.gdplayertv.to/live-tv/astro-supersport-2/?embed=1
+Astro Supersport 3 TV	`1https://en.gdplayertv.to/live-tv/astro-supersport-3/?embed=1
+Astro Supersport 4 TV	`1https://en.gdplayertv.to/live-tv/astro-supersport-4/?embed=1
+Astro Supersport 5 TV (GEO Blocked)	`1https://en.gdplayertv.to/live-tv/astro-supersport-5/?embed=1
+Astro iQiyi TV	`1https://en.gdplayertv.to/live-tv/astro-iqiyi/?embed=1
+Awesome TV (GEO Blocked)	`1https://en.gdplayertv.to/live-tv/awesome-tv/?embed=1
+BBC America (BBCA) TV	`1https://en.gdplayertv.to/live-tv/bbc-america/?embed=1
+BBC Earth TV	`1https://en.gdplayertv.to/live-tv/bbc-earth/?embed=1
+BBC Four TV	`1https://en.gdplayertv.to/live-tv/bbc-four/?embed=1
+BBC One TV	`1https://en.gdplayertv.to/live-tv/bbc-one/?embed=1
+BBC Three TV	`1https://en.gdplayertv.to/live-tv/bbc-three/?embed=1
+BBC Two TV	`1https://en.gdplayertv.to/live-tv/bbc-two/?embed=1
+BBC World News TV	`1https://en.gdplayertv.to/live-tv/bbc-world-news/?embed=1
+BEK Sports East TV	`1https://en.gdplayertv.to/live-tv/bek-sports-east/?embed=1
+BEK Sports West TV	`1https://en.gdplayertv.to/live-tv/bek-sports-west/?embed=1
+BNT 1 TV	`1https://en.gdplayertv.to/live-tv/bnt-1-tv/?embed=1
+BNT 2 TV	`1https://en.gdplayertv.to/live-tv/bnt-2-tv/?embed=1
+BNT 3 TV	`1https://en.gdplayertv.to/live-tv/bnt-3-tv/?embed=1
+BR Fernsehen TV	`1https://en.gdplayertv.to/live-tv/br-fernsehen-tv/?embed=1
+BS Asahi TV	`1https://en.gdplayertv.to/live-tv/bs-asahi-tv/?embed=1
+BS Fishing Vision TV	`1https://en.gdplayertv.to/live-tv/bs-fishing-vision/?embed=1
+BS Fuji TV	`1https://en.gdplayertv.to/live-tv/bs-fuji-tv/?embed=1
+BS Japan Movie Channel	`1https://en.gdplayertv.to/live-tv/bs-nihon-eiga/?embed=1
+BS NTV	`1https://en.gdplayertv.to/live-tv/bs-ntv/?embed=1
+BS SKY PerfecTV	`1https://en.gdplayertv.to/live-tv/sky-perfectv/?embed=1
+BS Shochiku Tokyu TV	`1https://en.gdplayertv.to/live-tv/bs-shochiku-tokyu/?embed=1
+BS TBS TV	`1https://en.gdplayertv.to/live-tv/bs-tbs-tv/?embed=1
+BS TV Tokyo	`1https://en.gdplayertv.to/live-tv/bs-tv-tokyo/?embed=1
+BS Yoshimoto TV	`1https://en.gdplayertv.to/live-tv/bs-yoshimoto/?embed=1
+BS11 Eleven TV	`1https://en.gdplayertv.to/live-tv/bs11-eleven/?embed=1
+BS12 Twelve TV	`1https://en.gdplayertv.to/live-tv/bs12-twelve/?embed=1
+BSJapanext TV	`1https://en.gdplayertv.to/live-tv/bs-japanext/?embed=1
+Baby First TV	`1https://en.gdplayertv.to/live-tv/babyfirsttv/?embed=1
+BabyTV	`1https://en.gdplayertv.to/live-tv/babytv/?embed=1
+Bahrain Sport 1	`1https://en.gdplayertv.to/live-tv/bahrain-sport-1/?embed=1
+Bahrain Sport 2	`1https://en.gdplayertv.to/live-tv/bahrain-sport-2/?embed=1
+Berita RTM TV	`1https://en.gdplayertv.to/live-tv/berita-rtm/?embed=1
+Bernama TV	`1https://en.gdplayertv.to/live-tv/bernama-tv/?embed=1
+Big Ten Network (BTN) TV	`1https://en.gdplayertv.to/live-tv/btn-usa/?embed=1
+Bioskop Indonesia TV	`1https://en.gdplayertv.to/live-tv/bioskop-indonesia/?embed=1
+Bloomberg Asia BTV	`1https://en.gdplayertv.to/live-tv/bloomberg-asia-btv/?embed=1
+Bloomberg Asia Live Event TV	`1https://en.gdplayertv.to/live-tv/bloomberg-asia/?embed=1
+Bloomberg Australia BTV	`1https://en.gdplayertv.to/live-tv/bloomberg-australia-btv/?embed=1
+Bloomberg EMEA Live Event TV	`1https://en.gdplayertv.to/live-tv/bloomberg-emea/?embed=1
+Bloomberg Europe BTV	`1https://en.gdplayertv.to/live-tv/bloomberg-europe-btv/?embed=1
+Bloomberg Politics Live Event TV	`1https://en.gdplayertv.to/live-tv/bloomberg-politics/?embed=1
+Bloomberg U.S BTV	`1https://en.gdplayertv.to/live-tv/bloomberg-us-btv/?embed=1
+Bloomberg U.S BTV+	`1https://en.gdplayertv.to/live-tv/bloomberg-us-btv-plus/?embed=1
+Bloomberg U.S Live Event TV	`1https://en.gdplayertv.to/live-tv/bloomberg-us/?embed=1
+Boomerang TV	`1https://en.gdplayertv.to/live-tv/boomerang-tv/?embed=1
+CBC News	`1https://en.gdplayertv.to/live-tv/UCuFFtHWoLl5fauMMD5Ww2jA/?embed=1
+CBN News	`1https://en.gdplayertv.to/live-tv/UCYI_ychRnL7sJrG6PUSBpQA/?embed=1
+CBeebies TV	`1https://en.gdplayertv.to/live-tv/cbeebies/?embed=1
+CCM (Celestial Classic Movies) TV	`1https://en.gdplayertv.to/live-tv/celestial-classic-movies/?embed=1
+CCTV-1	`1https://en.gdplayertv.to/live-tv/cctv1/?embed=1
+CCTV-13	`1https://en.gdplayertv.to/live-tv/cctv13/?embed=1
+CCTV-14	`1https://en.gdplayertv.to/live-tv/cctv14/?embed=1
+CCTV-15	`1https://en.gdplayertv.to/live-tv/cctv15/?embed=1
+CCTV-2	`1https://en.gdplayertv.to/live-tv/cctv2/?embed=1
+CCTV-3	`1https://en.gdplayertv.to/live-tv/cctv3/?embed=1
+CCTV-4	`1https://en.gdplayertv.to/live-tv/cctv4/?embed=1
+CCTV-5	`1https://en.gdplayertv.to/live-tv/cctv5/?embed=1
+CCTV-5+	`1https://en.gdplayertv.to/live-tv/cctv5-plus/?embed=1
+CCTV-6	`1https://en.gdplayertv.to/live-tv/cctv6/?embed=1
+CCTV-7	`1https://en.gdplayertv.to/live-tv/cctv7/?embed=1
+CCTV-8	`1https://en.gdplayertv.to/live-tv/cctv8/?embed=1
+CCTV-9	`1https://en.gdplayertv.to/live-tv/cctv9/?embed=1
+CGTN Documentary TV	`1https://en.gdplayertv.to/live-tv/cgtn-documentary/?embed=1
+CGTN TV	`1https://en.gdplayertv.to/live-tv/cgtn/?embed=1
+CNBC Asia TV	`1https://en.gdplayertv.to/live-tv/cnbc/?embed=1
+CNBC Indonesia TV	`1https://en.gdplayertv.to/live-tv/cnbc-indonesia/?embed=1
+CNN Indonesia TV	`1https://en.gdplayertv.to/live-tv/cnn-indonesia/?embed=1
+CNN TV	`1https://en.gdplayertv.to/live-tv/cnn/?embed=1
+CNN-News18	`1https://en.gdplayertv.to/live-tv/UCef1-8eOpJgud7szVPlZQAQ/?embed=1
+Canal+ Foot TV	`1https://en.gdplayertv.to/live-tv/canal-plus-foot/?embed=1
+Canal+ Sport 360 TV	`1https://en.gdplayertv.to/live-tv/canal-plus-sport-360/?embed=1
+Canal+ Sport TV	`1https://en.gdplayertv.to/live-tv/canal-plus-sport/?embed=1
+Cartoon Network Asia	`1https://en.gdplayertv.to/live-tv/UC9hVEGaTpAYMVd-bRsOYKwA/?embed=1
+Cartoon Network LA	`1https://en.gdplayertv.to/live-tv/UCQySZQ6rrgJXRuonMwIIGMA/?embed=1
+Cartoon Network TV Asia	`1https://en.gdplayertv.to/live-tv/cartoon-network-asia/?embed=1
+Cartoon Network TV Japan	`1https://en.gdplayertv.to/live-tv/cartoon-network-jp/?embed=1
+Cartoon Network TV Malaysia (GEO Blocked)	`1https://en.gdplayertv.to/live-tv/cartoon-network-my/?embed=1
+Cartoon TV	`1https://en.gdplayertv.to/live-tv/cartoon-tv/?embed=1
+Cartoon TV Classics	`1https://en.gdplayertv.to/live-tv/cartoon-tv-classics/?embed=1
+Cartoon TV Premium	`1https://en.gdplayertv.to/live-tv/cartoon-tv-premium/?embed=1
+Cartoonito TV Asia	`1https://en.gdplayertv.to/live-tv/cartoonito-tv/?embed=1
+Celestial Movies TV	`1https://en.gdplayertv.to/live-tv/celestial-movies/?embed=1
+Channel 5 TV	`1https://en.gdplayertv.to/live-tv/channel-5/?embed=1
+Channel 8 TV	`1https://en.gdplayertv.to/live-tv/channel-8/?embed=1
+Channel A TV	`1https://en.gdplayertv.to/live-tv/channel-a/?embed=1
+Channel Ginga	`1https://en.gdplayertv.to/live-tv/channel-ginga/?embed=1
+Channel NewsAsia (CNA) TV	`1https://en.gdplayertv.to/live-tv/cna/?embed=1
+Channel U TV	`1https://en.gdplayertv.to/live-tv/channel-u/?embed=1
+Chelsea Football Club	`1https://en.gdplayertv.to/live-tv/UCU2PacFf99vhb3hNiYDmxww/?embed=1
+Cinema World TV	`1https://en.gdplayertv.to/live-tv/cinema-world/?embed=1
+Cinemachi Action TV	`1https://en.gdplayertv.to/live-tv/cinemachi-action/?embed=1
+Cinemachi Kids TV	`1https://en.gdplayertv.to/live-tv/cinemachi-kids/?embed=1
+Cinemachi Max TV	`1https://en.gdplayertv.to/live-tv/cinemachi-max/?embed=1
+Cinemachi TV	`1https://en.gdplayertv.to/live-tv/cinemachi/?embed=1
+Cinemachi Xtra TV	`1https://en.gdplayertv.to/live-tv/cinemachi-xtra/?embed=1
+Cinemax TV	`1https://en.gdplayertv.to/live-tv/cinemax/?embed=1
+Cinemax TV Malaysia (GEO Blocked)	`1https://en.gdplayertv.to/live-tv/cinemax-my/?embed=1
+Cinemax 中文	`1https://en.gdplayertv.to/live-tv/cinemax-cn/?embed=1
+Citizen TV Kenya	`1https://en.gdplayertv.to/live-tv/UChBQgieUidXV1CmDxSdRm3g/?embed=1
+Citra Drama TV	`1https://en.gdplayertv.to/live-tv/citra-drama-tv/?embed=1
+Cosmote Sport 1 TV	`1https://en.gdplayertv.to/live-tv/cosmote-sport-1/?embed=1
+Cosmote Sport 2 TV	`1https://en.gdplayertv.to/live-tv/cosmote-sport-2/?embed=1
+Cosmote Sport 3 TV	`1https://en.gdplayertv.to/live-tv/cosmote-sport-3/?embed=1
+Cosmote Sport 4 TV	`1https://en.gdplayertv.to/live-tv/cosmote-sport-4/?embed=1
+Cosmote Sport 5 TV	`1https://en.gdplayertv.to/live-tv/cosmote-sport-5/?embed=1
+Cosmote Sport 6 TV	`1https://en.gdplayertv.to/live-tv/cosmote-sport-6/?embed=1
+Cosmote Sport 7 TV	`1https://en.gdplayertv.to/live-tv/cosmote-sport-7/?embed=1
+Cosmote Sport 8 TV	`1https://en.gdplayertv.to/live-tv/cosmote-sport-8/?embed=1
+Cosmote Sport 9 TV	`1https://en.gdplayertv.to/live-tv/cosmote-sport-9/?embed=1
+Crime + Investigation TV	`1https://en.gdplayertv.to/live-tv/crime-investigation/?embed=1
+Crunchyroll TV (GEO Blocked)	`1https://en.gdplayertv.to/live-tv/crunchyroll/?embed=1
+DAZN 1 TV Germany	`1https://en.gdplayertv.to/live-tv/dazn-1-de/?embed=1
+DAZN 1 TV Spain	`1https://en.gdplayertv.to/live-tv/dazn-1-es/?embed=1
+DAZN 2 TV Germany	`1https://en.gdplayertv.to/live-tv/dazn-2-de/?embed=1
+DAZN 2 TV Spain	`1https://en.gdplayertv.to/live-tv/dazn-2-es/?embed=1
+DAZN 3 TV Spain	`1https://en.gdplayertv.to/live-tv/dazn-3-es/?embed=1
+DAZN 4 TV Spain	`1https://en.gdplayertv.to/live-tv/dazn-4-es/?embed=1
+DAZN Combat TV	`1https://en.gdplayertv.to/live-tv/dazn-combat/?embed=1
+DAZN F1 TV Spain	`1https://en.gdplayertv.to/live-tv/dazn-f1/?embed=1
+DAZN Fast+ TV	`1https://en.gdplayertv.to/live-tv/dazn-fast-plus/?embed=1
+DAZN LaLiga TV	`1https://en.gdplayertv.to/live-tv/dazn-laliga/?embed=1
+DAZN Rise TV	`1https://en.gdplayertv.to/live-tv/dazn-rise/?embed=1
+DAZN Women's Football TV	`1https://en.gdplayertv.to/live-tv/dazn-womens-football/?embed=1
+DMAX TV Malaysia (GEO Blocked)	`1https://en.gdplayertv.to/live-tv/dmax-my/?embed=1
+DW TV English	`1https://en.gdplayertv.to/live-tv/dw-english/?embed=1
+DW TV Indonesia	`1https://en.gdplayertv.to/live-tv/dw/?embed=1
+Dance Channel Japan	`1https://en.gdplayertv.to/live-tv/dance-channel-jp/?embed=1
+DidikTV KPM	`1https://en.gdplayertv.to/live-tv/didiktv-kpm/?embed=1
+Discovery Asia TV	`1https://en.gdplayertv.to/live-tv/discovery-asia/?embed=1
+Discovery Asia 中文 TV	`1https://en.gdplayertv.to/live-tv/discovery-asia-cn/?embed=1
+Discovery Australia	`1https://en.gdplayertv.to/live-tv/UCsnsCFJMPIJaUSVP_hLVUCA/?embed=1
+Discovery Brasil	`1https://en.gdplayertv.to/live-tv/UCt6iLNEJT6v9VHm9hQ04W6g/?embed=1
+Discovery Channel Argentina	`1https://en.gdplayertv.to/live-tv/UCcP6Vtkc2DtQ0IV9r_x6pCQ/?embed=1
+Discovery Channel Japan	`1https://en.gdplayertv.to/live-tv/discovery-channel-jp/?embed=1
+Discovery Channel TV	`1https://en.gdplayertv.to/live-tv/discovery/?embed=1
+Discovery Life TV	`1https://en.gdplayertv.to/live-tv/discovery-life/?embed=1
+Discovery Turbo TV	`1https://en.gdplayertv.to/live-tv/discovery-turbo/?embed=1
+Disney Channel	`1https://en.gdplayertv.to/live-tv/UCw7SNYrYei7F5ttQO3o-rpA/?embed=1
+Disney Channel TV	`1https://en.gdplayertv.to/live-tv/disney-channel/?embed=1
+Disney Channel TV Japan	`1https://en.gdplayertv.to/live-tv/disney-channel-jp/?embed=1
+Disney Junior	`1https://en.gdplayertv.to/live-tv/UCNcdbMyA59zE-Vk668bKWOg/?embed=1
+Disney Junior TV	`1https://en.gdplayertv.to/live-tv/disney-junior/?embed=1
+Disney Junior TV Japan	`1https://en.gdplayertv.to/live-tv/disney-junior-jp/?embed=1
+Disney XD	`1https://en.gdplayertv.to/live-tv/UCktaw9L-f65LzUUdjmCFkbQ/?embed=1
+Disney XD TV	`1https://en.gdplayertv.to/live-tv/disney-xd/?embed=1
+Dlife TV Japan	`1https://en.gdplayertv.to/live-tv/dlife-tv-jp/?embed=1
+Dragon TV International	`1https://en.gdplayertv.to/live-tv/shanghai-dragon-tv/?embed=1
+Drama Sangat TV (GEO Blocked)	`1https://en.gdplayertv.to/live-tv/drama-sangat/?embed=1
+DreamWorks TV	`1https://en.gdplayertv.to/live-tv/dreamworks/?embed=1
+Dubai One TV	`1https://en.gdplayertv.to/live-tv/dubai-one-tv/?embed=1
+Dubai Racing 2 TV	`1https://en.gdplayertv.to/live-tv/dubai-racing-2-tv/?embed=1
+Dubai Racing 3 TV	`1https://en.gdplayertv.to/live-tv/dubai-racing-3-tv/?embed=1
+Dubai Racing TV	`1https://en.gdplayertv.to/live-tv/dubai-racing-1-tv/?embed=1
+Dubai Sports 1 TV	`1https://en.gdplayertv.to/live-tv/dubai-sports-1/?embed=1
+Dubai Sports 2 TV	`1https://en.gdplayertv.to/live-tv/dubai-sports-2/?embed=1
+Dubai Sports 3 TV	`1https://en.gdplayertv.to/live-tv/dubai-sports-3/?embed=1
+Dunia Anak TV	`1https://en.gdplayertv.to/live-tv/dunia-anak/?embed=1
+Dunia Sinema TV	`1https://en.gdplayertv.to/live-tv/dunia-sinema/?embed=1
+EBS 1 TV	`1https://en.gdplayertv.to/live-tv/ebs1/?embed=1
+EBS 2 TV	`1https://en.gdplayertv.to/live-tv/ebs2/?embed=1
+EBS E TV	`1https://en.gdplayertv.to/live-tv/ebs-english/?embed=1
+EBS Kids TV	`1https://en.gdplayertv.to/live-tv/ebs-kids/?embed=1
+EBS Plus 1 TV	`1https://en.gdplayertv.to/live-tv/ebs-plus-1/?embed=1
+EBS Plus 2 TV	`1https://en.gdplayertv.to/live-tv/ebs-plus-2/?embed=1
+EDGEsport	`1https://en.gdplayertv.to/live-tv/edgesport-tv/?embed=1
+ERA Drama TV Japan	`1https://en.gdplayertv.to/live-tv/jidaigeki-senmon-tv/?embed=1
+ESPN 2 TV	`1https://en.gdplayertv.to/live-tv/espn-2/?embed=1
+ESPN Deportes TV	`1https://en.gdplayertv.to/live-tv/espn-deportes/?embed=1
+ESPN Premium TV	`1https://en.gdplayertv.to/live-tv/espn-premium/?embed=1
+ESPN TV	`1https://en.gdplayertv.to/live-tv/espn/?embed=1
+Eat & Go TV	`1https://en.gdplayertv.to/live-tv/eat-and-go/?embed=1
+Eisei Gekijo TV	`1https://en.gdplayertv.to/live-tv/eisei-gekijo/?embed=1
+El Mundo	`1https://en.gdplayertv.to/live-tv/UCGXbLrVe8vnkiFv7q2vYv3w/?embed=1
+Eleven Sports 1 TV Portugal	`1https://en.gdplayertv.to/live-tv/eleven-sports-1-pt/?embed=1
+Eleven Sports 2 TV Portugal	`1https://en.gdplayertv.to/live-tv/eleven-sports-2-pt/?embed=1
+Eleven Sports 3 TV Portugal	`1https://en.gdplayertv.to/live-tv/eleven-sports-3-pt/?embed=1
+Eleven Sports 4 TV Portugal	`1https://en.gdplayertv.to/live-tv/eleven-sports-4-pt/?embed=1
+Eleven Sports 5 TV Portugal	`1https://en.gdplayertv.to/live-tv/eleven-sports-5-pt/?embed=1
+Eleven Sports 6 TV Portugal	`1https://en.gdplayertv.to/live-tv/eleven-sports-6-pt/?embed=1
+English Club TV	`1https://en.gdplayertv.to/live-tv/ectv/?embed=1
+Eurosport 1 TV Portugal	`1https://en.gdplayertv.to/live-tv/eurosport-1-pt/?embed=1
+Eurosport 1 TV Spain	`1https://en.gdplayertv.to/live-tv/eurosport-1-es/?embed=1
+Eurosport 1 TV UK	`1https://en.gdplayertv.to/live-tv/eurosport-1/?embed=1
+Eurosport 2 TV Portugal	`1https://en.gdplayertv.to/live-tv/eurosport-2-pt/?embed=1
+Eurosport 2 TV Spain	`1https://en.gdplayertv.to/live-tv/eurosport-2-es/?embed=1
+Eurosport 2 TV UK	`1https://en.gdplayertv.to/live-tv/eurosport-2/?embed=1
+FMN TV	`1https://en.gdplayertv.to/live-tv/fmn/?embed=1
+FOX Cricket 501	`1https://en.gdplayertv.to/live-tv/fox-cricket/?embed=1
+FOX News TV	`1https://en.gdplayertv.to/live-tv/fox-news/?embed=1
+FOX Sports 1 TV	`1https://en.gdplayertv.to/live-tv/fox-sports-1/?embed=1
+FOX Sports 2 TV	`1https://en.gdplayertv.to/live-tv/fox-sports-2/?embed=1
+FOX TV Japan	`1https://en.gdplayertv.to/live-tv/fox-jp/?embed=1
+FRANCE 24 English	`1https://en.gdplayertv.to/live-tv/UCQfwfsi5VrQ8yKZ-UWmAEFg/?embed=1
+Family Gekijo TV	`1https://en.gdplayertv.to/live-tv/family-gekijo-tv/?embed=1
+FashionTV L'Original	`1https://en.gdplayertv.to/live-tv/fashiontv/?embed=1
+Ficom Channel TV	`1https://en.gdplayertv.to/live-tv/ficom/?embed=1
+Fight Sports TV	`1https://en.gdplayertv.to/live-tv/fight-sports-tv/?embed=1
+Fighting TV Samurai	`1https://en.gdplayertv.to/live-tv/fighting-tv-samurai/?embed=1
+Flik TV	`1https://en.gdplayertv.to/live-tv/flik-tv/?embed=1
+Fox News	`1https://en.gdplayertv.to/live-tv/UCXIJgqnII2ZOINSWNOGFThA/?embed=1
+France 24 English TV	`1https://en.gdplayertv.to/live-tv/france-24/?embed=1
+Freedom TV (UATV)	`1https://en.gdplayertv.to/live-tv/freedom-tv/?embed=1
+Fuji TV	`1https://en.gdplayertv.to/live-tv/fuji-tv/?embed=1
+Fuji TV NEXT	`1https://en.gdplayertv.to/live-tv/fuji-tv-next/?embed=1
+Fuji TV ONE	`1https://en.gdplayertv.to/live-tv/fuji-tv-one/?embed=1
+Fuji TV TWO	`1https://en.gdplayertv.to/live-tv/fuji-tv-two/?embed=1
+GAORA SPORTS TV	`1https://en.gdplayertv.to/live-tv/gaora-sports-tv/?embed=1
+GBNews	`1https://en.gdplayertv.to/live-tv/UC0vn8ISa4LKMunLbzaXLnOQ/?embed=1
+GEM TV English	`1https://en.gdplayertv.to/live-tv/gem-tv-en/?embed=1
+GEM TV Indonesia	`1https://en.gdplayertv.to/live-tv/gem-tv/?embed=1
+GEM TV 中文	`1https://en.gdplayertv.to/live-tv/gem-tv-cn/?embed=1
+Galatasaray TV (GS TV)	`1https://en.gdplayertv.to/live-tv/gs-tv/?embed=1
+Galaxy Premium TV	`1https://en.gdplayertv.to/live-tv/galaxy-premium/?embed=1
+Galaxy TV	`1https://en.gdplayertv.to/live-tv/galaxy/?embed=1
+Global Trekker TV	`1https://en.gdplayertv.to/live-tv/global-trekker/?embed=1
+Golf Network TV Japan	`1https://en.gdplayertv.to/live-tv/golf-network-tv/?embed=1
+Green Channel	`1https://en.gdplayertv.to/live-tv/green-channel/?embed=1
+Gusto TV	`1https://en.gdplayertv.to/live-tv/gusto-tv/?embed=1
+HBO Family TV	`1https://en.gdplayertv.to/live-tv/hbo-family/?embed=1
+HBO Family TV Malaysia (GEO Blocked)	`1https://en.gdplayertv.to/live-tv/hbo-family-my/?embed=1
+HBO Family 中文	`1https://en.gdplayertv.to/live-tv/hbo-family-cn/?embed=1
+HBO Hits TV	`1https://en.gdplayertv.to/live-tv/hbo-hits/?embed=1
+HBO Hits TV Malaysia (GEO Blocked)	`1https://en.gdplayertv.to/live-tv/hbo-hits-my/?embed=1
+HBO Hits 中文	`1https://en.gdplayertv.to/live-tv/hbo-hits-cn/?embed=1
+HBO Signature TV	`1https://en.gdplayertv.to/live-tv/hbo-signature/?embed=1
+HBO Signature 中文	`1https://en.gdplayertv.to/live-tv/hbo-signature-cn/?embed=1
+HBO TV	`1https://en.gdplayertv.to/live-tv/hbo/?embed=1
+HBO TV Malaysia (GEO Blocked)	`1https://en.gdplayertv.to/live-tv/hbo-my/?embed=1
+HBO 中文	`1https://en.gdplayertv.to/live-tv/hbo-cn/?embed=1
+HITS Movies TV Malaysia (GEO Blocked)	`1https://en.gdplayertv.to/live-tv/hits-movies-my/?embed=1
+Habertürk TV	`1https://en.gdplayertv.to/live-tv/UCn6dNfiRE_Xunu7iMyvD7AA/?embed=1
+Hasbro	`1https://en.gdplayertv.to/live-tv/UC-r13SLLdZtZNmuC2bMnlmw/?embed=1
+Hip Hip Horee TV	`1https://en.gdplayertv.to/live-tv/hip-hip-horee-tv/?embed=1
+History TV	`1https://en.gdplayertv.to/live-tv/history/?embed=1
+History TV Japan	`1https://en.gdplayertv.to/live-tv/history-channel-jp/?embed=1
+Hits Movies TV	`1https://en.gdplayertv.to/live-tv/hits-movies/?embed=1
+Hits NOW TV	`1https://en.gdplayertv.to/live-tv/hits-now/?embed=1
+Hits NOW TV Malaysia (GEO Blocked)	`1https://en.gdplayertv.to/live-tv/hits-now-my/?embed=1
+Hits TV	`1https://en.gdplayertv.to/live-tv/hits/?embed=1
+Hits TV Malaysia (GEO Blocked)	`1https://en.gdplayertv.to/live-tv/hits-my/?embed=1
+Home Drama Channel	`1https://en.gdplayertv.to/live-tv/home-drama-channel/?embed=1
+Horee TV	`1https://en.gdplayertv.to/live-tv/horee-tv/?embed=1
+Horse & Country TV	`1https://en.gdplayertv.to/live-tv/horse-country-tv/?embed=1
+Hunan TV	`1https://en.gdplayertv.to/live-tv/hunan-tv/?embed=1
+IMC (Indonesia Movie Channels) TV	`1https://en.gdplayertv.to/live-tv/imc/?embed=1
+ITV1	`1https://en.gdplayertv.to/live-tv/itv1/?embed=1
+ITV2	`1https://en.gdplayertv.to/live-tv/itv2/?embed=1
+ITV3	`1https://en.gdplayertv.to/live-tv/itv3/?embed=1
+ITV4	`1https://en.gdplayertv.to/live-tv/itv4/?embed=1
+Igo/Shogi Channel	`1https://en.gdplayertv.to/live-tv/igo-shogi-channel/?embed=1
+IndiaTV	`1https://en.gdplayertv.to/live-tv/UCttspZesZIDEwwpVIgoZtWQ/?embed=1
+Indosiar TV	`1https://en.gdplayertv.to/live-tv/indosiar/?embed=1
+Infamous TV (GEO Blocked)	`1https://en.gdplayertv.to/live-tv/infamous-tv/?embed=1
+Infinity+ TV	`1https://en.gdplayertv.to/live-tv/infinity-plus/?embed=1
+Investigation Discovery TV	`1https://en.gdplayertv.to/live-tv/investigation-discovery-tv/?embed=1
+Italia 1 TV	`1https://en.gdplayertv.to/live-tv/italia-1-tv/?embed=1
+J Sports 1 TV	`1https://en.gdplayertv.to/live-tv/j-sports-1/?embed=1
+J Sports 2 TV	`1https://en.gdplayertv.to/live-tv/j-sports-2/?embed=1
+J Sports 3 TV	`1https://en.gdplayertv.to/live-tv/j-sports-3/?embed=1
+J Sports 4 TV	`1https://en.gdplayertv.to/live-tv/j-sports-4/?embed=1
+JTBC Golf TV	`1https://en.gdplayertv.to/live-tv/jtbc-golf/?embed=1
+JTBC TV	`1https://en.gdplayertv.to/live-tv/jtbc/?embed=1
+Jakarta Globe News TV	`1https://en.gdplayertv.to/live-tv/jakarta-globe-news/?embed=1
+Jiangsu TV	`1https://en.gdplayertv.to/live-tv/jiangsu-tv/?embed=1
+KBS 1 TV	`1https://en.gdplayertv.to/live-tv/kbs-1/?embed=1
+KBS 2 TV	`1https://en.gdplayertv.to/live-tv/kbs-2/?embed=1
+KBS Drama TV	`1https://en.gdplayertv.to/live-tv/kbs-drama/?embed=1
+KBS Joy TV	`1https://en.gdplayertv.to/live-tv/kbs-joy/?embed=1
+KBS Kids TV	`1https://en.gdplayertv.to/live-tv/kbs-kids/?embed=1
+KBS Kyoto TV	`1https://en.gdplayertv.to/live-tv/kbs-kyoto/?embed=1
+KBS Life TV	`1https://en.gdplayertv.to/live-tv/kbs-life/?embed=1
+KBS News D TV	`1https://en.gdplayertv.to/live-tv/kbs-news-d/?embed=1
+KBS Story TV	`1https://en.gdplayertv.to/live-tv/kbs-story/?embed=1
+KBS WORLD TV	`1https://en.gdplayertv.to/live-tv/UC5BMQOsAB8hKUyHu9KI6yig/?embed=1
+KBS World TV	`1https://en.gdplayertv.to/live-tv/kbs-world/?embed=1
+KIX TV	`1https://en.gdplayertv.to/live-tv/kix/?embed=1
+Kansai TV (KTV)	`1https://en.gdplayertv.to/live-tv/kansai-tv/?embed=1
+Kapamilya Online	`1https://en.gdplayertv.to/live-tv/kapamilya-online/?embed=1
+Kayo Pops Channel	`1https://en.gdplayertv.to/live-tv/kayo-pops-channel/?embed=1
+Kids Station TV	`1https://en.gdplayertv.to/live-tv/kids-station/?embed=1
+Kids TV	`1https://en.gdplayertv.to/live-tv/kids-tv/?embed=1
+Korea Central TV (KCNA)	`1https://en.gdplayertv.to/live-tv/kc-tv/?embed=1
+Kplus (K+) TV	`1https://en.gdplayertv.to/live-tv/kplus/?embed=1
+KpopTV Play	`1https://en.gdplayertv.to/live-tv/kpoptv-play/?embed=1
+LIVE NOW	`1https://en.gdplayertv.to/live-tv/UC4K_LI-Tn3-LshNgG0-YypQ/?embed=1
+LaLiga HyperMotion TV	`1https://en.gdplayertv.to/live-tv/laliga-hypermotion/?embed=1
+LaLiga Live HyperMotion TV	`1https://en.gdplayertv.to/live-tv/laliga-live-hypermotion/?embed=1
+LaLiga Plus TV	`1https://en.gdplayertv.to/live-tv/laliga-plus/?embed=1
+Lala TV	`1https://en.gdplayertv.to/live-tv/lala-tv/?embed=1
+Lifetime TV	`1https://en.gdplayertv.to/live-tv/lifetime-tv/?embed=1
+Lifetime TV Malaysia (GEO Blocked)	`1https://en.gdplayertv.to/live-tv/lifetime-tv-my/?embed=1
+Lingua TV	`1https://en.gdplayertv.to/live-tv/lingua-channel/?embed=1
+Live Now FOX TV	`1https://en.gdplayertv.to/live-tv/live-now-fox/?embed=1
+LiveNOW from FOX	`1https://en.gdplayertv.to/live-tv/UCJg9wBPyKMNA5sRDnvzmkdg/?embed=1
+Love Nature TV	`1https://en.gdplayertv.to/live-tv/love-nature-tv/?embed=1
+MBC America TV	`1https://en.gdplayertv.to/live-tv/mbc-america/?embed=1
+MBC Drama TV (GEO Blocked)	`1https://en.gdplayertv.to/live-tv/mbc-drama/?embed=1
+MBC Every1 TV (GEO Blocked)	`1https://en.gdplayertv.to/live-tv/mbc-every1/?embed=1
+MBC M TV (GEO Blocked)	`1https://en.gdplayertv.to/live-tv/mbc-m/?embed=1
+MBC NET TV (GEO Blocked)	`1https://en.gdplayertv.to/live-tv/mbcnet/?embed=1
+MBC ON TV (GEO Blocked)	`1https://en.gdplayertv.to/live-tv/mbc-on/?embed=1
+MBC TV	`1https://en.gdplayertv.to/live-tv/mbc/?embed=1
+MBS TV	`1https://en.gdplayertv.to/live-tv/mbs-tv/?embed=1
+MLB Network TV	`1https://en.gdplayertv.to/live-tv/mlb-network/?embed=1
+MOVIESPHERE TV	`1https://en.gdplayertv.to/live-tv/moviesphere/?embed=1
+MTV 90s	`1https://en.gdplayertv.to/live-tv/mtv-90s/?embed=1
+MTV Japan	`1https://en.gdplayertv.to/live-tv/mtv-jp/?embed=1
+MTV Live Asia	`1https://en.gdplayertv.to/live-tv/mtv-live/?embed=1
+MTV Live USA	`1https://en.gdplayertv.to/live-tv/mtv/?embed=1
+MUSIC AIR TV	`1https://en.gdplayertv.to/live-tv/music-air-tv/?embed=1
+MUSIC ON! TV	`1https://en.gdplayertv.to/live-tv/music-on-tv/?embed=1
+MUTV	`1https://en.gdplayertv.to/live-tv/mutv/?embed=1
+Marvel HQ	`1https://en.gdplayertv.to/live-tv/UCxwitsUVNzwS5XBSC5UQV8Q/?embed=1
+Match! Football 1 TV	`1https://en.gdplayertv.to/live-tv/match-football-1/?embed=1
+Match! Football 2 TV	`1https://en.gdplayertv.to/live-tv/match-football-2/?embed=1
+Match! Football 3 TV	`1https://en.gdplayertv.to/live-tv/match-football-3/?embed=1
+Match! Premier TV	`1https://en.gdplayertv.to/live-tv/match-premier/?embed=1
+Match! TV	`1https://en.gdplayertv.to/live-tv/match-tv/?embed=1
+Mentari TV	`1https://en.gdplayertv.to/live-tv/mentari-tv/?embed=1
+Mnet TV	`1https://en.gdplayertv.to/live-tv/mnet/?embed=1
+Moji TV	`1https://en.gdplayertv.to/live-tv/moji-tv/?embed=1
+Movie Channel NECO	`1https://en.gdplayertv.to/live-tv/channel-neco/?embed=1
+Movie Plus TV Japan	`1https://en.gdplayertv.to/live-tv/movie-plus-tv-jp/?embed=1
+Muse Asia	`1https://en.gdplayertv.to/live-tv/UCGbshtvS9t-8CW11W7TooQg/?embed=1
+Muse Indonesia	`1https://en.gdplayertv.to/live-tv/UCxxnxya_32jcKj4yN1_kD7A/?embed=1
+Music Japan TV	`1https://en.gdplayertv.to/live-tv/music-japan-tv/?embed=1
+Music TV	`1https://en.gdplayertv.to/live-tv/music-tv/?embed=1
+Music Top TV	`1https://en.gdplayertv.to/live-tv/music-top-tv/?embed=1
+Musik Indonesia TV	`1https://en.gdplayertv.to/live-tv/musik-indonesia-tv/?embed=1
+My Cinema Asia TV	`1https://en.gdplayertv.to/live-tv/my-cinema-asia/?embed=1
+My Cinema Europe TV	`1https://en.gdplayertv.to/live-tv/my-cinema-europe/?embed=1
+My Cinema TV	`1https://en.gdplayertv.to/live-tv/my-cinema/?embed=1
+My Family Channel TV	`1https://en.gdplayertv.to/live-tv/my-family-channel/?embed=1
+My Kidz TV	`1https://en.gdplayertv.to/live-tv/my-kidz/?embed=1
+Mystery Channel	`1https://en.gdplayertv.to/live-tv/mystery-channel/?embed=1
+NASA	`1https://en.gdplayertv.to/live-tv/UCLA_DiR1FfKNvjuUpBHmylQ/?embed=1
+NASA TV	`1https://en.gdplayertv.to/live-tv/nasa-tv/?embed=1
+NASASpaceflight	`1https://en.gdplayertv.to/live-tv/UCSUu1lih2RifWkKtDOJdsBA/?embed=1
+NBA TV Indonesia	`1https://en.gdplayertv.to/live-tv/nba/?embed=1
+NBA TV USA	`1https://en.gdplayertv.to/live-tv/nba-usa/?embed=1
+NBC News	`1https://en.gdplayertv.to/live-tv/UCeY0bbntWzzVIaj2z3QigXg/?embed=1
+NBC News Now TV	`1https://en.gdplayertv.to/live-tv/nbc-news-now/?embed=1
+NBC Sports TV	`1https://en.gdplayertv.to/live-tv/nbc-sports/?embed=1
+NBC TV	`1https://en.gdplayertv.to/live-tv/nbc/?embed=1
+NFL Network TV	`1https://en.gdplayertv.to/live-tv/nfl-network/?embed=1
+NHK BS Premium (NHK BSP4K) TV	`1https://en.gdplayertv.to/live-tv/nhk-bsp-tv/?embed=1
+NHK BS1 TV	`1https://en.gdplayertv.to/live-tv/nhk-bs1-tv/?embed=1
+NHK E TV	`1https://en.gdplayertv.to/live-tv/nhk-educational-tv/?embed=1
+NHK E TV Osaka	`1https://en.gdplayertv.to/live-tv/nhk-educational-tv-osaka/?embed=1
+NHK G TV	`1https://en.gdplayertv.to/live-tv/nhk-general-tv/?embed=1
+NHK G TV Osaka	`1https://en.gdplayertv.to/live-tv/nhk-general-tv-osaka/?embed=1
+NHK WORLD-JAPAN	`1https://en.gdplayertv.to/live-tv/UCSPEjw8F2nQDtmUKPFNF7_A/?embed=1
+NHK World TV	`1https://en.gdplayertv.to/live-tv/nhk-world/?embed=1
+NHL Network TV	`1https://en.gdplayertv.to/live-tv/nhl-network/?embed=1
+NOW	`1https://en.gdplayertv.to/live-tv/UCJe13zu6MyE6Oueac41KAqg/?embed=1
+NOW 70s TV	`1https://en.gdplayertv.to/live-tv/now-70s/?embed=1
+NOW 80s TV	`1https://en.gdplayertv.to/live-tv/now-80s/?embed=1
+NOW Rock TV	`1https://en.gdplayertv.to/live-tv/now-rock/?embed=1
+NTV Plus	`1https://en.gdplayertv.to/live-tv/ntv-plus/?embed=1
+Nat Geo Kids	`1https://en.gdplayertv.to/live-tv/UCXVCgDuD_QCkI7gTKU7-tpg/?embed=1
+Nat Geo TV	`1https://en.gdplayertv.to/live-tv/nat-geo/?embed=1
+Nat Geo TV Japan	`1https://en.gdplayertv.to/live-tv/nat-geo-jp/?embed=1
+Nat Geo WILD	`1https://en.gdplayertv.to/live-tv/UCDPk9MG2RexnOMGTD-YnSnA/?embed=1
+Nat Geo Wild TV	`1https://en.gdplayertv.to/live-tv/nat-geo-wild/?embed=1
+Nick Junior TV	`1https://en.gdplayertv.to/live-tv/nick-junior/?embed=1
+Nickelodeon Bahasa	`1https://en.gdplayertv.to/live-tv/UCTJDdO9klWGpTekswnXreGQ/?embed=1
+Nickelodeon TV	`1https://en.gdplayertv.to/live-tv/nickelodeon/?embed=1
+Nickelodeon TV Malaysia (GEO Blocked)	`1https://en.gdplayertv.to/live-tv/nickelodeon-my/?embed=1
+Nickelodeon em Português	`1https://en.gdplayertv.to/live-tv/UCMryAHWeLf3TxDyDxSWs4AQ/?embed=1
+Nickelodeon en Español	`1https://en.gdplayertv.to/live-tv/UCNeq3Obf4zOv5rhORI8Vz5g/?embed=1
+Nicktoons	`1https://en.gdplayertv.to/live-tv/UC74bcC7aGRNz4KoRpJsJNEw/?embed=1
+Nippon News 24 (NTV News 24)	`1https://en.gdplayertv.to/live-tv/ntv-news-24/?embed=1
+Nippon TV (NTV)	`1https://en.gdplayertv.to/live-tv/nippon-tv/?embed=1
+Nittere G+ (NTV G+)	`1https://en.gdplayertv.to/live-tv/ntv-g-plus/?embed=1
+OCN Movies 2 TV	`1https://en.gdplayertv.to/live-tv/ocn-movies-2/?embed=1
+OCN Movies TV	`1https://en.gdplayertv.to/live-tv/ocn-movies/?embed=1
+OCN TV	`1https://en.gdplayertv.to/live-tv/ocn/?embed=1
+ONE TV Indonesia	`1https://en.gdplayertv.to/live-tv/one/?embed=1
+ONE TV Malaysia (GEO Blocked)	`1https://en.gdplayertv.to/live-tv/one-tv-my/?embed=1
+Oman Sports TV	`1https://en.gdplayertv.to/live-tv/oman-sports/?embed=1
+Osratouna tv - قناة أسرتنا	`1https://en.gdplayertv.to/live-tv/UCWIdqSQekeGmUWlSFeCiEnA/?embed=1
+Paramount Network TV	`1https://en.gdplayertv.to/live-tv/paramount-network/?embed=1
+Peacock jr	`1https://en.gdplayertv.to/live-tv/UCKtfozhWfwvXUTnR7PV3t5g/?embed=1
+Phoenix Chinese Channel	`1https://en.gdplayertv.to/live-tv/phoenix-chinese-channel/?embed=1
+Phoenix InfoNews	`1https://en.gdplayertv.to/live-tv/phoenix-infonews/?embed=1
+Polimer News	`1https://en.gdplayertv.to/live-tv/UC8Z-VjXBtDJTvq6aqkIskPg/?embed=1
+Premier League TV	`1https://en.gdplayertv.to/live-tv/premier-league/?embed=1
+Premier Sports 1 TV	`1https://en.gdplayertv.to/live-tv/premier-sports-1/?embed=1
+Premier Sports 2 TV	`1https://en.gdplayertv.to/live-tv/premier-sports-2/?embed=1
+Premiere TV	`1https://en.gdplayertv.to/live-tv/premiere-tv/?embed=1
+Qello Concerts By Stingray TV	`1https://en.gdplayertv.to/live-tv/qello-concerts-by-stingray/?embed=1
+Racing.com TV	`1https://en.gdplayertv.to/live-tv/racingcom-tv/?embed=1
+Radio 51 TV	`1https://en.gdplayertv.to/live-tv/radio-51-tv/?embed=1
+Rally TV	`1https://en.gdplayertv.to/live-tv/rally-tv/?embed=1
+Real Madrid TV	`1https://en.gdplayertv.to/live-tv/real-madrid-tv/?embed=1
+Red Bull TV	`1https://en.gdplayertv.to/live-tv/red-bull-tv/?embed=1
+Republic Bharat	`1https://en.gdplayertv.to/live-tv/UC7wXt18f2iA3EDXeqAVuKng/?embed=1
+Reuters TV	`1https://en.gdplayertv.to/live-tv/reuters-tv/?embed=1
+Right Now TV	`1https://en.gdplayertv.to/live-tv/right-now-tv/?embed=1
+Rock Action TV	`1https://en.gdplayertv.to/live-tv/rock-action/?embed=1
+Rock Entertainment TV	`1https://en.gdplayertv.to/live-tv/rock-entertainment/?embed=1
+Russia Today Documentary English TV	`1https://en.gdplayertv.to/live-tv/rt-documentary/?embed=1
+Russia Today News English TV	`1https://en.gdplayertv.to/live-tv/rt-news/?embed=1
+SBS Biz TV	`1https://en.gdplayertv.to/live-tv/sbs-biz/?embed=1
+SBS FiL TV	`1https://en.gdplayertv.to/live-tv/sbs-fil/?embed=1
+SBS Golf 2 TV	`1https://en.gdplayertv.to/live-tv/sbs-golf-2/?embed=1
+SBS Golf TV	`1https://en.gdplayertv.to/live-tv/sbs-golf/?embed=1
+SBS M TV	`1https://en.gdplayertv.to/live-tv/sbs-m/?embed=1
+SBS Plus TV	`1https://en.gdplayertv.to/live-tv/sbs-plus-tv/?embed=1
+SBS TV	`1https://en.gdplayertv.to/live-tv/sbs/?embed=1
+SBS funE TV	`1https://en.gdplayertv.to/live-tv/sbs-fune-tv/?embed=1
+SCTV	`1https://en.gdplayertv.to/live-tv/sctv/?embed=1
+SEA Today TV	`1https://en.gdplayertv.to/live-tv/sea-today/?embed=1
+SPOTV	`1https://en.gdplayertv.to/live-tv/spotv/?embed=1
+SPOTV2	`1https://en.gdplayertv.to/live-tv/spotv2/?embed=1
+SSC 1 TV	`1https://en.gdplayertv.to/live-tv/ssc-1/?embed=1
+SSC 2 TV	`1https://en.gdplayertv.to/live-tv/ssc-2/?embed=1
+SSC 3 TV	`1https://en.gdplayertv.to/live-tv/ssc-3/?embed=1
+SSC 4 TV	`1https://en.gdplayertv.to/live-tv/ssc-4/?embed=1
+SSC 5 TV	`1https://en.gdplayertv.to/live-tv/ssc-5/?embed=1
+SSC Extra 1 TV	`1https://en.gdplayertv.to/live-tv/ssc-extra-1/?embed=1
+SSC Extra 2 TV	`1https://en.gdplayertv.to/live-tv/ssc-extra-2/?embed=1
+SSC Extra 3 TV	`1https://en.gdplayertv.to/live-tv/ssc-extra-3/?embed=1
+STAR TV	`1https://en.gdplayertv.to/live-tv/UCsFINj3y7SjBaeUxiSdRjlA/?embed=1
+SUN TV	`1https://en.gdplayertv.to/live-tv/sun-tv-jp/?embed=1
+San Marino RTV Sport	`1https://en.gdplayertv.to/live-tv/rtv-sport/?embed=1
+Sharjah Sports TV	`1https://en.gdplayertv.to/live-tv/sharjah-sports/?embed=1
+Show TV	`1https://en.gdplayertv.to/live-tv/UC9JMe_We017gYrRc7kZHgmg/?embed=1
+Showtime TV	`1https://en.gdplayertv.to/live-tv/showtime/?embed=1
+Sky A TV Japan	`1https://en.gdplayertv.to/live-tv/sky-a-tv-jp/?embed=1
+Sky Arts TV	`1https://en.gdplayertv.to/live-tv/sky-arts/?embed=1
+Sky Atlantic TV	`1https://en.gdplayertv.to/live-tv/sky-atlantic/?embed=1
+Sky Cinema Action TV UK	`1https://en.gdplayertv.to/live-tv/sky-cinema-action/?embed=1
+Sky Cinema Animation TV UK	`1https://en.gdplayertv.to/live-tv/sky-cinema-animation/?embed=1
+Sky Cinema Comedy TV Italy	`1https://en.gdplayertv.to/live-tv/sky-cinema-comedy/?embed=1
+Sky Cinema Family TV Italy	`1https://en.gdplayertv.to/live-tv/sky-cinema-family/?embed=1
+Sky Cinema Greats TV UK	`1https://en.gdplayertv.to/live-tv/sky-cinema-greats/?embed=1
+Sky Cinema Hits TV UK	`1https://en.gdplayertv.to/live-tv/sky-cinema-hits/?embed=1
+Sky Cinema Premiere TV UK	`1https://en.gdplayertv.to/live-tv/sky-cinema-premiere/?embed=1
+Sky Cinema Romance TV Italy	`1https://en.gdplayertv.to/live-tv/sky-cinema-romance/?embed=1
+Sky Cinema Sci-Fi Horror TV UK	`1https://en.gdplayertv.to/live-tv/sky-cinema-sci-fi-horror/?embed=1
+Sky Cinema Select TV UK	`1https://en.gdplayertv.to/live-tv/sky-cinema-select/?embed=1
+Sky Cinema Suspense TV Italy	`1https://en.gdplayertv.to/live-tv/sky-cinema-suspense/?embed=1
+Sky Cinema Thriller TV UK	`1https://en.gdplayertv.to/live-tv/sky-cinema-thriller/?embed=1
+Sky Cinema Uno +24 TV Italy	`1https://en.gdplayertv.to/live-tv/sky-cinema-uno-24/?embed=1
+Sky Cinema Uno TV Italy	`1https://en.gdplayertv.to/live-tv/sky-cinema-uno/?embed=1
+Sky Comedy TV	`1https://en.gdplayertv.to/live-tv/sky-comedy/?embed=1
+Sky Crime TV	`1https://en.gdplayertv.to/live-tv/sky-crime/?embed=1
+Sky History TV	`1https://en.gdplayertv.to/live-tv/sky-history/?embed=1
+Sky News	`1https://en.gdplayertv.to/live-tv/UCoMdktPbSTixAyNGwb-UYkQ/?embed=1
+Sky Showcase TV	`1https://en.gdplayertv.to/live-tv/sky-showcase/?embed=1
+Sky Sport 24 TV	`1https://en.gdplayertv.to/live-tv/sky-sport-24/?embed=1
+Sky Sport 251 TV	`1https://en.gdplayertv.to/live-tv/sky-sport-251/?embed=1
+Sky Sport 252 TV	`1https://en.gdplayertv.to/live-tv/sky-sport-252/?embed=1
+Sky Sport 253 TV	`1https://en.gdplayertv.to/live-tv/sky-sport-253/?embed=1
+Sky Sport 254 TV	`1https://en.gdplayertv.to/live-tv/sky-sport-254/?embed=1
+Sky Sport 255 TV	`1https://en.gdplayertv.to/live-tv/sky-sport-255/?embed=1
+Sky Sport 256 TV	`1https://en.gdplayertv.to/live-tv/sky-sport-256/?embed=1
+Sky Sport 257 TV	`1https://en.gdplayertv.to/live-tv/sky-sport-257/?embed=1
+Sky Sport Arena TV Italy	`1https://en.gdplayertv.to/live-tv/sky-sport-arena/?embed=1
+Sky Sport Bundesliga 1 TV	`1https://en.gdplayertv.to/live-tv/sky-sport-bundesliga-1/?embed=1
+Sky Sport Calcio TV	`1https://en.gdplayertv.to/live-tv/sky-sport-calcio/?embed=1
+Sky Sport F1 TV Italy	`1https://en.gdplayertv.to/live-tv/sky-sport-f1/?embed=1
+Sky Sport Golf TV Italy	`1https://en.gdplayertv.to/live-tv/sky-sport-golf/?embed=1
+Sky Sport Max TV	`1https://en.gdplayertv.to/live-tv/sky-sport-max/?embed=1
+Sky Sport Mix TV Germany	`1https://en.gdplayertv.to/live-tv/sky-sport-mix/?embed=1
+Sky Sport MotoGP TV	`1https://en.gdplayertv.to/live-tv/sky-sport-motogp/?embed=1
+Sky Sport NBA TV	`1https://en.gdplayertv.to/live-tv/sky-sport-nba/?embed=1
+Sky Sport Tennis TV Italy	`1https://en.gdplayertv.to/live-tv/sky-sport-tennis/?embed=1
+Sky Sport Uno TV	`1https://en.gdplayertv.to/live-tv/sky-sport-uno/?embed=1
+Sky Sports Action TV	`1https://en.gdplayertv.to/live-tv/sky-sports-action/?embed=1
+Sky Sports Arena TV	`1https://en.gdplayertv.to/live-tv/sky-sports-arena/?embed=1
+Sky Sports Cricket TV	`1https://en.gdplayertv.to/live-tv/sky-sports-cricket/?embed=1
+Sky Sports F1 TV	`1https://en.gdplayertv.to/live-tv/skysports-f1/?embed=1
+Sky Sports Football TV	`1https://en.gdplayertv.to/live-tv/sky-sports-football/?embed=1
+Sky Sports Golf TV	`1https://en.gdplayertv.to/live-tv/sky-sports-golf/?embed=1
+Sky Sports Main Event TV	`1https://en.gdplayertv.to/live-tv/sky-sports-main-event/?embed=1
+Sky Sports Mix TV	`1https://en.gdplayertv.to/live-tv/sky-sports-mix/?embed=1
+Sky Sports News TV	`1https://en.gdplayertv.to/live-tv/sky-sports-news/?embed=1
+Sky Sports Premier League TV	`1https://en.gdplayertv.to/live-tv/sky-sports-premier-league/?embed=1
+Sky Sports Racing TV	`1https://en.gdplayertv.to/live-tv/sky-sports-racing/?embed=1
+Sky Uno TV	`1https://en.gdplayertv.to/live-tv/sky-uno/?embed=1
+Sky Witness TV	`1https://en.gdplayertv.to/live-tv/sky-witness/?embed=1
+Soccer Channel TV	`1https://en.gdplayertv.to/live-tv/soccer-channel/?embed=1
+Sony AATH TV	`1https://en.gdplayertv.to/live-tv/sony-aath/?embed=1
+Sony BBC Earth TV	`1https://en.gdplayertv.to/live-tv/sony-bbc-earth/?embed=1
+Sony Entertainment TV	`1https://en.gdplayertv.to/live-tv/sony-set/?embed=1
+Sony MAX 2 TV	`1https://en.gdplayertv.to/live-tv/sony-max-2/?embed=1
+Sony MAX TV	`1https://en.gdplayertv.to/live-tv/sony-max/?embed=1
+Sony Marathi TV	`1https://en.gdplayertv.to/live-tv/sony-marathi/?embed=1
+Sony PAL TV	`1https://en.gdplayertv.to/live-tv/sony-pal/?embed=1
+Sony PIX TV	`1https://en.gdplayertv.to/live-tv/sony-pix/?embed=1
+Sony SAB TV	`1https://en.gdplayertv.to/live-tv/sony-sab/?embed=1
+Sony Sports TEN 1 TV	`1https://en.gdplayertv.to/live-tv/sony-sports-ten-1/?embed=1
+Sony Sports TEN 2 TV	`1https://en.gdplayertv.to/live-tv/sony-sports-ten-2/?embed=1
+Sony Sports TEN 3 TV	`1https://en.gdplayertv.to/live-tv/sony-sports-ten-3/?embed=1
+Sony Sports TEN 4 TV	`1https://en.gdplayertv.to/live-tv/sony-sports-ten-4/?embed=1
+Sony Sports TEN 5 TV	`1https://en.gdplayertv.to/live-tv/sony-sports-ten-5/?embed=1
+Sony WAH TV	`1https://en.gdplayertv.to/live-tv/sony-wah/?embed=1
+Sony YAY TV	`1https://en.gdplayertv.to/live-tv/sony-yay/?embed=1
+Space Shower TV	`1https://en.gdplayertv.to/live-tv/space-shower-tv/?embed=1
+SporTV 2 Brasil	`1https://en.gdplayertv.to/live-tv/sportv-2/?embed=1
+SporTV 3 Brasil	`1https://en.gdplayertv.to/live-tv/sportv-3/?embed=1
+SporTV Brasil	`1https://en.gdplayertv.to/live-tv/sportv/?embed=1
+Sport 1+ HD TV	`1https://en.gdplayertv.to/live-tv/sport-1-plus/?embed=1
+Sport TV1	`1https://en.gdplayertv.to/live-tv/sport-tv1/?embed=1
+Sport TV2	`1https://en.gdplayertv.to/live-tv/sport-tv2/?embed=1
+Sport TV3	`1https://en.gdplayertv.to/live-tv/sport-tv3/?embed=1
+Sport TV4	`1https://en.gdplayertv.to/live-tv/sport-tv4/?embed=1
+Sport TV5	`1https://en.gdplayertv.to/live-tv/sport-tv5/?embed=1
+SportStars 2 TV	`1https://en.gdplayertv.to/live-tv/sportstars2-tv/?embed=1
+SportStars 3 TV	`1https://en.gdplayertv.to/live-tv/sportstars3-tv/?embed=1
+SportStars 4 TV	`1https://en.gdplayertv.to/live-tv/sportstars4-tv/?embed=1
+SportStars TV	`1https://en.gdplayertv.to/live-tv/sportstars-tv/?embed=1
+Sports Live + (Plus) TV	`1https://en.gdplayertv.to/live-tv/sports-live-plus/?embed=1
+Sports United	`1https://en.gdplayertv.to/live-tv/UCNyKhK1GI6CUbJ-BDtJ44DA/?embed=1
+Star Channel 1 TV	`1https://en.gdplayertv.to/live-tv/star-channel-1/?embed=1
+Star Channel 2 TV	`1https://en.gdplayertv.to/live-tv/star-channel-2/?embed=1
+Star Channel 3 TV	`1https://en.gdplayertv.to/live-tv/star-channel-3/?embed=1
+Star Sports 1 TV	`1https://en.gdplayertv.to/live-tv/star-sports-1/?embed=1
+Star Sports 2 TV	`1https://en.gdplayertv.to/live-tv/star-sports-2/?embed=1
+Star Sports 3 TV	`1https://en.gdplayertv.to/live-tv/star-sports-3/?embed=1
+Starz TV	`1https://en.gdplayertv.to/live-tv/starz/?embed=1
+Starzplay CricLife 1 TV	`1https://en.gdplayertv.to/live-tv/starzplay-criclife-1/?embed=1
+Starzplay CricLife 2 TV	`1https://en.gdplayertv.to/live-tv/starzplay-criclife-2/?embed=1
+Starzplay CricLife 3 TV	`1https://en.gdplayertv.to/live-tv/starzplay-criclife-3/?embed=1
+Stingray DJAZZ TV	`1https://en.gdplayertv.to/live-tv/stingray-djazz/?embed=1
+Sukan RTM TV	`1https://en.gdplayertv.to/live-tv/sukan-rtm/?embed=1
+Super Drama TV	`1https://en.gdplayertv.to/live-tv/super-drama-tv/?embed=1
+Super Toons TV - Dessins Animés en Français	`1https://en.gdplayertv.to/live-tv/UCE6LObtIIyUymAejzHJ73GA/?embed=1
+SuperSport Action TV	`1https://en.gdplayertv.to/live-tv/supersport-action/?embed=1
+SuperSport Cricket TV	`1https://en.gdplayertv.to/live-tv/supersport-cricket/?embed=1
+SuperSport Football TV	`1https://en.gdplayertv.to/live-tv/supersport-football/?embed=1
+SuperSport Golf TV	`1https://en.gdplayertv.to/live-tv/supersport-golf/?embed=1
+SuperSport Grandstand TV	`1https://en.gdplayertv.to/live-tv/supersport-grandstand/?embed=1
+SuperSport La Liga TV	`1https://en.gdplayertv.to/live-tv/supersport-laliga/?embed=1
+SuperSport Maximo 1 TV	`1https://en.gdplayertv.to/live-tv/supersport-maximo-1/?embed=1
+SuperSport Motorsport TV	`1https://en.gdplayertv.to/live-tv/supersport-motorsport/?embed=1
+SuperSport PSL TV	`1https://en.gdplayertv.to/live-tv/supersport-psl/?embed=1
+SuperSport Premier League TV	`1https://en.gdplayertv.to/live-tv/supersport-premier-league/?embed=1
+SuperSport Rugby TV	`1https://en.gdplayertv.to/live-tv/supersport-rugby/?embed=1
+SuperSport Tennis TV	`1https://en.gdplayertv.to/live-tv/supersport-tennis/?embed=1
+SuperSport Variety 1 TV	`1https://en.gdplayertv.to/live-tv/supersport-variety-1/?embed=1
+SuperSport Variety 2 TV	`1https://en.gdplayertv.to/live-tv/supersport-variety-2/?embed=1
+SuperSport Variety 3 TV	`1https://en.gdplayertv.to/live-tv/supersport-variety-3/?embed=1
+SuperSport Variety 4 TV	`1https://en.gdplayertv.to/live-tv/supersport-variety-4/?embed=1
+Suria TV	`1https://en.gdplayertv.to/live-tv/suria-tv/?embed=1
+SÖZCÜ Televizyonu	`1https://en.gdplayertv.to/live-tv/UCOulx_rep5O4i9y6AyDqVvw/?embed=1
+TBS Channel 1 TV	`1https://en.gdplayertv.to/live-tv/tbs-channel-1/?embed=1
+TBS Channel 2 TV	`1https://en.gdplayertv.to/live-tv/tbs-channel-2/?embed=1
+TBS NEWS DIG Powered by JNN	`1https://en.gdplayertv.to/live-tv/UC6AG81pAkf6Lbi_1VC5NmPA/?embed=1
+TBS News TV	`1https://en.gdplayertv.to/live-tv/tbs-news-tv/?embed=1
+TBS TV Japan	`1https://en.gdplayertv.to/live-tv/tbs-tv-jp/?embed=1
+TBS TV USA	`1https://en.gdplayertv.to/live-tv/tbs-tv-us/?embed=1
+TBS TV 한국	`1https://en.gdplayertv.to/live-tv/tbs-tv/?embed=1
+TEN Sports TV Pakistan	`1https://en.gdplayertv.to/live-tv/ten-sports-pk/?embed=1
+THE K-POP TV	`1https://en.gdplayertv.to/live-tv/the-kpop/?embed=1
+TLC TV Malaysia (GEO Blocked)	`1https://en.gdplayertv.to/live-tv/tlc-my/?embed=1
+TNA IMPACT! Wrestling TV	`1https://en.gdplayertv.to/live-tv/tna-wrestling/?embed=1
+TNT Sports 1 TV	`1https://en.gdplayertv.to/live-tv/tnt-sports-1/?embed=1
+TNT Sports 2 TV	`1https://en.gdplayertv.to/live-tv/tnt-sports-2/?embed=1
+TNT Sports 3 TV	`1https://en.gdplayertv.to/live-tv/tnt-sports-3/?embed=1
+TNT Sports 4 TV	`1https://en.gdplayertv.to/live-tv/tnt-sports-4/?embed=1
+TNT Sports TV Argentina	`1https://en.gdplayertv.to/live-tv/tnt-sports-ag/?embed=1
+TNT Sports TV Chile	`1https://en.gdplayertv.to/live-tv/tnt-sports-cl/?embed=1
+TRT World	`1https://en.gdplayertv.to/live-tv/UC7fWeaHhqgM4Ry-RMpM2YYw/?embed=1
+TSN 1 TV	`1https://en.gdplayertv.to/live-tv/tsn1/?embed=1
+TSN 2 TV	`1https://en.gdplayertv.to/live-tv/tsn2/?embed=1
+TSN 3 TV	`1https://en.gdplayertv.to/live-tv/tsn3/?embed=1
+TSN 4 TV	`1https://en.gdplayertv.to/live-tv/tsn4/?embed=1
+TSN 5 TV	`1https://en.gdplayertv.to/live-tv/tsn5/?embed=1
+TUDN TV	`1https://en.gdplayertv.to/live-tv/tudn-tv/?embed=1
+TV 2 Sport 1	`1https://en.gdplayertv.to/live-tv/tv2-sport-1/?embed=1
+TV 2 Sport Denmark	`1https://en.gdplayertv.to/live-tv/tv-2-sport/?embed=1
+TV 2 Sport Premium	`1https://en.gdplayertv.to/live-tv/tv2-sport-premium/?embed=1
+TV 2 Sport X Denmark	`1https://en.gdplayertv.to/live-tv/tv-2-sport-x/?embed=1
+TV Asahi	`1https://en.gdplayertv.to/live-tv/tv-asahi/?embed=1
+TV Chosun	`1https://en.gdplayertv.to/live-tv/tv-chosun/?embed=1
+TV Chosun 2	`1https://en.gdplayertv.to/live-tv/tv-chosun-2/?embed=1
+TV Okey	`1https://en.gdplayertv.to/live-tv/tv-okey/?embed=1
+TV Osaka	`1https://en.gdplayertv.to/live-tv/tv-osaka/?embed=1
+TV Tokyo	`1https://en.gdplayertv.to/live-tv/tv-tokyo/?embed=1
+TV1	`1https://en.gdplayertv.to/live-tv/tv1/?embed=1
+TV2	`1https://en.gdplayertv.to/live-tv/tv2/?embed=1
+TV3 (GEO Blocked)	`1https://en.gdplayertv.to/live-tv/tv3/?embed=1
+TV3 Sport Denmark	`1https://en.gdplayertv.to/live-tv/tv3-sport/?embed=1
+TV5 Monde	`1https://en.gdplayertv.to/live-tv/tv5-monde/?embed=1
+TV5 Monde Style	`1https://en.gdplayertv.to/live-tv/tv5-monde-style/?embed=1
+TV5 News	`1https://en.gdplayertv.to/live-tv/UCAR3h_9fLV82N2FH4cE4RKw/?embed=1
+TV6	`1https://en.gdplayertv.to/live-tv/tv6/?embed=1
+TV9 (GEO Blocked)	`1https://en.gdplayertv.to/live-tv/tv9/?embed=1
+TV9 Bharatvarsh	`1https://en.gdplayertv.to/live-tv/UCOutOIcn_oho8pyVN3Ng-Pg/?embed=1
+TV9 Marathi	`1https://en.gdplayertv.to/live-tv/UCdOSeEq9Cs2Pco7OCn2_i5w/?embed=1
+TV9 Telugu Live	`1https://en.gdplayertv.to/live-tv/UCPXTXMecYqnRKNdqdVOGSFg/?embed=1
+TVA Sports 2 TV	`1https://en.gdplayertv.to/live-tv/tva-sports-2/?embed=1
+TVA Sports TV	`1https://en.gdplayertv.to/live-tv/tva-sports/?embed=1
+TVB Jade	`1https://en.gdplayertv.to/live-tv/tvb-jade/?embed=1
+TVB Magic	`1https://en.gdplayertv.to/live-tv/tvb-magic/?embed=1
+TVB Vietnam	`1https://en.gdplayertv.to/live-tv/tvb-vietnam/?embed=1
+TVBS Asia	`1https://en.gdplayertv.to/live-tv/tvbs-asia/?embed=1
+TVBS NEWS	`1https://en.gdplayertv.to/live-tv/UC5nwNW4KdC0SzrhF9BXEYOQ/?embed=1
+TVP Sport TV	`1https://en.gdplayertv.to/live-tv/tvp-sport/?embed=1
+TVRI	`1https://en.gdplayertv.to/live-tv/tvri/?embed=1
+TVRI Sport	`1https://en.gdplayertv.to/live-tv/tvri-sport/?embed=1
+TVRI World	`1https://en.gdplayertv.to/live-tv/tvri-world/?embed=1
+Takarazuka Sky Stage TV	`1https://en.gdplayertv.to/live-tv/takarazuka-sky-stage/?embed=1
+TeenNick TV	`1https://en.gdplayertv.to/live-tv/teennick/?embed=1
+Tele-Asa Channel 1	`1https://en.gdplayertv.to/live-tv/tv-asahi-ch1/?embed=1
+Tele-Asa Channel 2	`1https://en.gdplayertv.to/live-tv/tv-asahi-ch2/?embed=1
+Tennis Channel TV	`1https://en.gdplayertv.to/live-tv/tennis-channel/?embed=1
+Tetsudo Channel	`1https://en.gdplayertv.to/live-tv/tetsudo-ch/?embed=1
+The Cinema TV Japan	`1https://en.gdplayertv.to/live-tv/the-cinema-tv-jp/?embed=1
+The Food Network	`1https://en.gdplayertv.to/live-tv/food-network/?embed=1
+The Times and The Sunday Times	`1https://en.gdplayertv.to/live-tv/UCF-VP3b3oH0XASqsLI5rnLw/?embed=1
+Thrill TV	`1https://en.gdplayertv.to/live-tv/thrill/?embed=1
+Toei Channel	`1https://en.gdplayertv.to/live-tv/toei-channel/?embed=1
+Tokyo MX 1 TV	`1https://en.gdplayertv.to/live-tv/tokyo-mx-1/?embed=1
+Tokyo MX 2 TV	`1https://en.gdplayertv.to/live-tv/tokyo-mx-2/?embed=1
+Trace Sport Stars	`1https://en.gdplayertv.to/live-tv/trace-sport-stars/?embed=1
+Trans7 TV	`1https://en.gdplayertv.to/live-tv/trans7/?embed=1
+TransTV	`1https://en.gdplayertv.to/live-tv/transtv/?embed=1
+Travel Channel Japan	`1https://en.gdplayertv.to/live-tv/tabi-channel/?embed=1
+True Premier Football 1 TV	`1https://en.gdplayertv.to/live-tv/true-premier-football-1/?embed=1
+True Premier Football 2 TV	`1https://en.gdplayertv.to/live-tv/true-premier-football-2/?embed=1
+True Premier Football 3 TV	`1https://en.gdplayertv.to/live-tv/true-premier-football-3/?embed=1
+True Sports 1 TV	`1https://en.gdplayertv.to/live-tv/true-sports-1/?embed=1
+True Sports 2 TV	`1https://en.gdplayertv.to/live-tv/true-sports-2/?embed=1
+True Sports 3 TV	`1https://en.gdplayertv.to/live-tv/true-sports-3/?embed=1
+True Sports 4 TV	`1https://en.gdplayertv.to/live-tv/true-sports-4/?embed=1
+Tv9 Kannada	`1https://en.gdplayertv.to/live-tv/UC8dnBi4WUErqYQHZ4PfsLTg/?embed=1
+TyC Sports TV	`1https://en.gdplayertv.to/live-tv/tyc-sports/?embed=1
+USA Network TV	`1https://en.gdplayertv.to/live-tv/usa-network/?embed=1
+Unifi Sports TV (GEO Blocked)	`1https://en.gdplayertv.to/live-tv/unifi-sports/?embed=1
+United Nations Web TV	`1https://en.gdplayertv.to/live-tv/un-web-tv/?embed=1
+Usee Sports 2 TV	`1https://en.gdplayertv.to/live-tv/usee-sports-2/?embed=1
+Usee Sports TV	`1https://en.gdplayertv.to/live-tv/usee-sports/?embed=1
+V Film Family TV	`1https://en.gdplayertv.to/live-tv/v-film-family/?embed=1
+V Film Premiere TV	`1https://en.gdplayertv.to/live-tv/v-film-premiere/?embed=1
+V Sport 1 TV Norway	`1https://en.gdplayertv.to/live-tv/v-sport-1/?embed=1
+V Sport 1 TV Sweden	`1https://en.gdplayertv.to/live-tv/v-sport-1-sw/?embed=1
+V Sport 2 TV Norway	`1https://en.gdplayertv.to/live-tv/v-sport-2/?embed=1
+V Sport 3 TV Norway	`1https://en.gdplayertv.to/live-tv/v-sport-3/?embed=1
+VTV+ TV	`1https://en.gdplayertv.to/live-tv/vtv-plus/?embed=1
+Vasantham TV	`1https://en.gdplayertv.to/live-tv/vasantham-tv/?embed=1
+Viaplay Sports 1 TV	`1https://en.gdplayertv.to/live-tv/viaplay-sports-1/?embed=1
+Viaplay Sports 2 TV	`1https://en.gdplayertv.to/live-tv/viaplay-sports-2/?embed=1
+Viaplay Sports Xtra TV	`1https://en.gdplayertv.to/live-tv/viaplay-sports-xtra/?embed=1
+WB Kids	`1https://en.gdplayertv.to/live-tv/UC9trsD1jCTXXtN3xIOIU8gg/?embed=1
+WE TV	`1https://en.gdplayertv.to/live-tv/we-tv/?embed=1
+WION	`1https://en.gdplayertv.to/live-tv/UC_gUM8rL-Lrg6O3adPW9K1g/?embed=1
+WION TV	`1https://en.gdplayertv.to/live-tv/wion-tv/?embed=1
+WOWOW Cinema TV	`1https://en.gdplayertv.to/live-tv/wowow-cinema/?embed=1
+WOWOW Live TV	`1https://en.gdplayertv.to/live-tv/wowow-live/?embed=1
+WOWOW Plus TV	`1https://en.gdplayertv.to/live-tv/wowow-plus/?embed=1
+WOWOW Prime TV	`1https://en.gdplayertv.to/live-tv/wowow-prime/?embed=1
+WWE Network TV	`1https://en.gdplayertv.to/live-tv/wwe-network/?embed=1
+WWE TV	`1https://en.gdplayertv.to/live-tv/wwe/?embed=1
+Warner TV Malaysia (GEO Blocked)	`1https://en.gdplayertv.to/live-tv/warner-tv-my/?embed=1
+WildEarth TV	`1https://en.gdplayertv.to/live-tv/wildearth-tv/?embed=1
+Willow Cricket TV	`1https://en.gdplayertv.to/live-tv/willow-cricket/?embed=1
+Willow Xtra by Cricbuzz TV	`1https://en.gdplayertv.to/live-tv/willow-xtra-by-cricbuzz/?embed=1
+Win Sports + TV	`1https://en.gdplayertv.to/live-tv/win-sports-plus/?embed=1
+Xing Kong TV	`1https://en.gdplayertv.to/live-tv/xing-kong-tv/?embed=1
+YAS TV	`1https://en.gdplayertv.to/live-tv/yas-tv/?embed=1
+YES Network TV	`1https://en.gdplayertv.to/live-tv/yes-network/?embed=1
+YES TV	`1https://en.gdplayertv.to/live-tv/yes-tv/?embed=1
+YTN 2 TV	`1https://en.gdplayertv.to/live-tv/ytn2/?embed=1
+YTN Science TV	`1https://en.gdplayertv.to/live-tv/ytn-science/?embed=1
+YTN TV	`1https://en.gdplayertv.to/live-tv/ytn/?embed=1
+YTN dmb TV	`1https://en.gdplayertv.to/live-tv/ytn-dmb/?embed=1
+Yomiuri TV (YTV)	`1https://en.gdplayertv.to/live-tv/ytv/?embed=1
+Zee Bioskop TV	`1https://en.gdplayertv.to/live-tv/zee-bioskop/?embed=1
+Ziggo Sport Docu TV	`1https://en.gdplayertv.to/live-tv/ziggo-sport-docu/?embed=1
+Ziggo Sport Racing TV	`1https://en.gdplayertv.to/live-tv/ziggo-sport-racing/?embed=1
+Ziggo Sport Select TV	`1https://en.gdplayertv.to/live-tv/ziggo-sport-select/?embed=1
+Ziggo Sport Voetbal TV	`1https://en.gdplayertv.to/live-tv/ziggo-sport-voetbal/?embed=1
+ZooMoo TV	`1https://en.gdplayertv.to/live-tv/zoomoo/?embed=1
+bTV Action	`1https://en.gdplayertv.to/live-tv/btv-action/?embed=1
+bTV Bulgaria	`1https://en.gdplayertv.to/live-tv/btv-bg/?embed=1
+bTV Story	`1https://en.gdplayertv.to/live-tv/btv-story/?embed=1
+beIN SPORTS Türkiye	`1https://en.gdplayertv.to/live-tv/UCPe9vNjHF1kEExT5kHwc7aw/?embed=1
+beIN Sports 1 TV French	`1https://en.gdplayertv.to/live-tv/bein-sports-1-french/?embed=1
+beIN Sports 1 TV Germany	`1https://en.gdplayertv.to/live-tv/bein-sports-1-de/?embed=1
+beIN Sports 1 TV Indonesia	`1https://en.gdplayertv.to/live-tv/bein-sports-1/?embed=1
+beIN Sports 1 TV MENA	`1https://en.gdplayertv.to/live-tv/bein-sports-1-mena/?embed=1
+beIN Sports 1 TV Thailand	`1https://en.gdplayertv.to/live-tv/bein-sports-1-th/?embed=1
+beIN Sports 2 TV French	`1https://en.gdplayertv.to/live-tv/bein-sports-2-french/?embed=1
+beIN Sports 2 TV MENA	`1https://en.gdplayertv.to/live-tv/bein-sports-2-mena/?embed=1
+beIN Sports 2 TV Malaysia	`1https://en.gdplayertv.to/live-tv/bein-sports-2-my/?embed=1
+beIN Sports 2 TV Thailand	`1https://en.gdplayertv.to/live-tv/bein-sports-2-th/?embed=1
+beIN Sports 3 TV French	`1https://en.gdplayertv.to/live-tv/bein-sports-3-french/?embed=1
+beIN Sports 3 TV Indonesia	`1https://en.gdplayertv.to/live-tv/bein-sports-3/?embed=1
+beIN Sports 3 TV MENA	`1https://en.gdplayertv.to/live-tv/bein-sports-3-mena/?embed=1
+beIN Sports 3 TV Malaysia	`1https://en.gdplayertv.to/live-tv/bein-sports-3-my/?embed=1
+beIN Sports 3 TV Thailand	`1https://en.gdplayertv.to/live-tv/bein-sports-3-th/?embed=1
+beIN Sports 4 TV MENA	`1https://en.gdplayertv.to/live-tv/bein-sports-4-mena/?embed=1
+beIN Sports 4 TV Thailand	`1https://en.gdplayertv.to/live-tv/bein-sports-4-th/?embed=1
+beIN Sports 5 TV MENA	`1https://en.gdplayertv.to/live-tv/bein-sports-5-mena/?embed=1
+beIN Sports 5 TV Thailand	`1https://en.gdplayertv.to/live-tv/bein-sports-5-th/?embed=1
+beIN Sports 6 TV MENA	`1https://en.gdplayertv.to/live-tv/bein-sports-6-mena/?embed=1
+beIN Sports 6 TV Thailand	`1https://en.gdplayertv.to/live-tv/bein-sports-6-th/?embed=1
+beIN Sports 7 TV MENA	`1https://en.gdplayertv.to/live-tv/bein-sports-7-mena/?embed=1
+beIN Sports 7 TV Thailand	`1https://en.gdplayertv.to/live-tv/bein-sports-7-th/?embed=1
+beIN Sports TV Malaysia	`1https://en.gdplayertv.to/live-tv/bein-sports/?embed=1
+beIN Sports XTRA En Espanol TV	`1https://en.gdplayertv.to/live-tv/bein-sports-xtra-en-espanol/?embed=1
+beIN Sports XTRA TV	`1https://en.gdplayertv.to/live-tv/bein-sports-xtra/?embed=1
+euronews	`1https://en.gdplayertv.to/live-tv/UCSrZ3UV4jOidv8ppoVuvW9Q/?embed=1
+kora plus	`1https://en.gdplayertv.to/live-tv/UCoTREVo1yJwXXDY0TbTA4EQ/?embed=1
+m2o TV	`1https://en.gdplayertv.to/live-tv/m2o-tv/?embed=1
+tvN Indonesia	`1https://en.gdplayertv.to/live-tv/tvn/?embed=1
+tvN Malaysia (GEO Blocked)	`1https://en.gdplayertv.to/live-tv/tvn-my/?embed=1
+tvN Movies Indonesia	`1https://en.gdplayertv.to/live-tv/tvn-movies/?embed=1
+tvN Movies Malaysia (GEO Blocked)	`1https://en.gdplayertv.to/live-tv/tvn-movies-my/?embed=1
+tvN Movies 한국	`1https://en.gdplayertv.to/live-tv/tvn-movies-kr/?embed=1
+tvN SPORTS TV	`1https://en.gdplayertv.to/live-tv/tvn-sports/?embed=1
+tvN Show	`1https://en.gdplayertv.to/live-tv/tvn-show/?embed=1
+tvN 한국	`1https://en.gdplayertv.to/live-tv/tvn-kr/?embed=1
+tvOne	`1https://en.gdplayertv.to/live-tv/tvone/?embed=1
+三立LIVE新聞	`1https://en.gdplayertv.to/live-tv/UC2TuODJhC03pLgd6MpWP0iw/?embed=1
+中天電視	`1https://en.gdplayertv.to/live-tv/UC5l1Yto5oOIgRXlI4p4VKbw/?embed=1
+新唐人電視台	`1https://en.gdplayertv.to/live-tv/UCdbvc-yJ4JQjNGTgFiJIZNA/?embed=1
+日テレNEWS	`1https://en.gdplayertv.to/live-tv/UCuTAXTexrhetbOe3zgskJBQ/?embed=1
+東森新聞 CH51	`1https://en.gdplayertv.to/live-tv/UCR3asjvr_WAaxwJYEDV_Bfw/?embed=1
+鳳凰衛視PhoenixTV	`1https://en.gdplayertv.to/live-tv/UCd9dPMYgV9-IQaZG491TaRw/?embed=1
+연합뉴스TV	`1https://en.gdplayertv.to/live-tv/UCTHCOPwqNfZ0uiKOvFyhGwg/?embed=1
+MakkahTV.id	01`02aAlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd``67fe3ac3ca111c9bdd6e8480091dc13c:7d05fb1ff7705c1e452ff7e1b841a1b8
+Soccer.id	01`02asoccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd``4d38060bf41b3c29df0ec950ece6b5da:7ee9506b13480491d79b71c062ab5366
+Sport1.id	01`02aMNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd``531c6d50e3e9f9ba66446f624f492289:d769d9ae238bdd424f8bcdcdc9a3801f
+Sport2.id	01`02aMNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd``45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
+Sport3.id	01`02aMNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd``fadd2720deff5925ab86df0819cd7775:f67ff08c7ebc779f6a6fcfc83835f65b
+Sport4.id	01`02aSportstar4/sa_dash_vmx/Sportstar4.mpd``b81b1942c65f35547ced1bff074206a5:a07dc4d86f51db7195f4b7e2abe9d9e8
+Spo1.id	01`02aSPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd``57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
+Spo2.id	01`02aSPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd``57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
+Nickelodeon.id	01`02aNickelodeon/sa_dash_vmx/Nickelodeon.mpd``785024598882dc751652cea2bce44b8e:56a40e58acd59965e865947dd719108d
+Trans7.id	01`02aTrans7-2/sa_dash_vmx/Trans7-2.mpd``26bd60e03bbed7819eea0b27075a1897:d221ba6a6ab66e3083c001d2c4a3e5c5
+TransTV.id	01`02aTransTV-2/sa_dash_vmx/TransTV-2.mpd``334950781f60a66f5e58324b70ac675d:73caca97be8999ce9cfeb3babad8669d
+BeritaSatu.id	01`02aBeritaSatu/sa_dash_vmx/BeritaSatu.mpd``d022ff3be9391a16a8436261059806b0:e6dd32d6a257f900acb52a82d898bb81
+iNews.id	01`02aiNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd``a31cf5136789514b7e12b9cc99307c84:980e54d671ffc2b2f4cf54e75cae0ac2
+AXN.id	01`02aAXN/sa_dash_vmx/AXN.mpd``c5d5297a84f8b2de977f07286345c591:bdb773d6d25303b75a396b8040cfaf8c
+Thrill.id	01`02aThrill/sa_dash_vmx/Thrill.mpd``06e7e95fdb30086d24111f300c9d91f1:9431050f760f692bfd396bbd84cb5161
+TV5-Monde-Asie.id	01`02aTV5/sa_dash_vmx/TV5.mpd``1b411a92f60bd9751d9637e849d3a632:d9bbfb8e1d34089daf5cc0c3ca17c694
+ZeeBioskop.id	01`02aZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd``9e7df70530006bef067327cefde82c0e:b92b6a2aba522bd9bb2d07cf241e7398
+JTV.id	01`02aJTV/sa_dash_vmx/JTV.mpd``10e203f655014b5d18b0c85a6c72c809:acdcd0b65014e4929c6296171bdfebad
+TawafTV.id	01`02aTawafTV/sa_dash_vmx/TawafTV.mpd``552bc18038d025c26ead432fa521f83a:beab0589d5f15d4a56278c7df913b263
+TVMuhammadiyah.id	01`02aTVMuhammadiyah/sa_dash_vmx/TVMuhammadiyah.mpd``2fa7625e3470d5e9429f64150614f9a5:c495ad0e82e2266fd207934327c71ce3
+MyFamily.id	01`02aMyFamily/sa_dash_vmx/MyFamily.mpd``4310edb8b9ffe79abb40bacafa778ec3:aebb7e86d8a336d9a93d3dd8a41153cf
+GTV.id	01`02aGTV-HD/sa_dash_vmx/GTV-HD.mpd``88f6c7cbd793374cb5f12d7e26dcd63b:e82daa7c7bfb03d99327463fdbd37336
+ANTV.id	01`02aANTV/sa_dash_vmx/ANTV.mpd``4310edb8b9ffe79abb40bacafa778ec3:aebb7e86d8a336d9a93d3dd8a41153cf
+Muslim.id	01`02aMNCMuslim/sa_dash_vmx/MNCMuslim.mpd``eefa1c34afba72f8fe902b061632528f:334cde07f6ebe092c0ae0521591d73cf
+Animax.id	01`02aAnimax/sa_dash_vmx/Animax.mpd``6344a8272809245e3fa9d926099528c3:93b6c4ff420c6864a6294f6d223d9b2c
+CBeebies.id	01`02aCbeebies/sa_dash_vmx/Cbeebies.mpd``194891b41223a5f1ec2beff1c95e2f53:eeb1fb2ec011f9563653495f9ac427b1
+CinemaChiKids.id	01`02aCinemachi-Kids-HD/sa_dash_vmx/Cinemachi-Kids-HD.mpd``ebe6190a3cfbbed4ec34e4d9c7a30e1e:d161b1f737e2aee9501149406c8abe9e
+Dreamworks.id	01`02aDreamwork-HD/sa_dash_vmx/Dreamwork-HD.mpd``57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
+Kids.id	01`02aKidsChannel/sa_dash_vmx/KidsChannel.mpd``17340c4223a4674b1b7da8d8d9e11174:11a73aad2c75ddf338840b08fb915993
+ZooMoo.id	01`02aBoomerang/sa_dash_vmx/Boomerang.mpd``5ff6154f28d6950063f9f5b4db7be009:93cac38fd15124acce5b658896df0a25
+NickJr.id	01`02aNickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd``f71ca09f57ea09e27ee63d7d1f0d0e31:8a07ef45b4a18973ef12f8da482dcec0
+MNCTV.id	01`02aMNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd``828e0aba9825c3546a2831e4c0c36f7f:f85d3dcd38981368ab3da597e97ebdcc
+NetTV.id	01`02aNetTV-HD/sa_dash_vmx/NetTV-HD.mpd``6b7bbcf1d511a56e6b3ceda392e4fa33:d1766244d7c1c44efd4c67aafae3ee7b
+RCTI.id	01`02aRCTI-DD/sa_dash_vmx/RCTI-DD.mpd``9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
+Kompas.id	01`02aKompasTV/sa_dash_vmx/KompasTV.mpd``493fd10e609dd02ae97964f438e7e530:695cf9896182c52f1c3a25820e7778f5
+Metro.id	01`02aMetro-TV2/sa_dash_vmx/Metro-TV2.mpd``4497473c5b978655ce62de7873e04174:6af319f8d82351f8c3b18c9abdfdef4d
+TVOne.id	01`02aTVOne-2/sa_dash_vmx/TVOne-2.mpd``90204c05545f95a262bb0d3ac45de870:0e80f2a19fdf8da476bf695cd9570bb2
+OKTV.id	01`02aOKTV/sa_dash_vmx/OKTV.mpd``57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
+RTV.id	01`02aRTV/sa_dash_vmx/RTV.mpd``30384ee5424eab4afdff34d7a59e0ef9:5f3d2f2c194266ae9a28210f8976cbe0
+VisionPrime.id	01`02aVisionPrime/sa_dash_vmx/VisionPrime.mpd``50056951f6d5f5fbaf286cd99c965379:4ec78e3b7d66d1db3815a127f792b604
+Music.id	01`02aMusicChannel/sa_dash_vmx/MusicChannel.mpd``0bea88ab972e06760a04712cc423d841:4039d607f88f1b1f677e4beb6ee66637
+IndonesianMovie.id	01`02aIndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd``1a551e30ef88a5a121dcea6a74a3aee7:b0f3de006d6e31e967a5bc41be086e64
+CelestialClassic.id	01`02aCelestialClassic/sa_dash_vmx/CelestialClassic.mpd``12da619438b3748da206142216d0943b:6958377109d34561ad20645319cec62c
+CelestialMovie.id	01`02aCelestialMovie/sa_dash_vmx/CelestialMovie.mpd``13aecb26aeee22bc86920045f22d134d:80aa44d998c7c0cc221c96d26730fe9b
+CinemaChi.id	01`02aCinemachi-HD/sa_dash_vmx/Cinemachi-HD.mpd``eeea0c2986e91a13eacd590ad1ebfe43:0acc16bd84921489f67bad19e4099cae
+CinemaChiAction.id	01`02aCinemachi-Action/sa_dash_vmx/Cinemachi-Action.mpd``fba45325e2cd8355972ede4981f43b2a:d88a4bdd67f89cd21eb074c81de1b994
+CinemaChiMax.id	01`02aCinemachi-Max-HD/sa_dash_vmx/Cinemachi-Max-HD.mpd``6c256f70830647e4bdf654d86e710ed5:fe41e9bcbae52f9d233407f7488bca5f
+CinemaChiExtra.id	01`02aCinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtra-HD.mpd``b64eee6360b118d0d90329cc2c9e4c60:4e97aa6422b26ffb372647dbd0a7683c
+GalaxyPremium.id	01`02aGalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd``7bc29ff5f405dff971e3a326223fe26c:06849a953a38da997b31bacf433cc74a
+Galaxy.id	01`02aGalaxy-HD/sa_dash_vmx/Galaxy-HD.mpd``e5c40292f8d01b1d5f0c6b3904d73104:bcb2ac12e11c69594ba217bfe8714efe
+HitsMovies.id	01`02aHitsMovies/sa_dash_vmx/HitsMovies.mpd``5d9684b1737e3b68801b4cff7225d4bb:902e7634820c26a8ff36f3708f0191d4
+Lifetime.id	01`02aLifetime/sa_dash_vmx/Lifetime.mpd``8bd8efd4840c37f50f8a053f92e9b015:7f8b3b508bb394919dab1b6e91e7bacf
+RockAction.id	01`02aRockaction/sa_dash_vmx/Rockaction.mpd``b9c123fbf587e6524b2706bd960c7f67:d2aaac6845b33627cdce1272feac5acc
+tvNMovies.id	01`02atvNMovies/sa_dash_vmx/tvNMovies.mpd``45c004003b09719751adb885d28d491f:fe82bc3ffe00477c833812fae74caed7
+Hits.id	01`02aHITS/sa_dash_vmx/HITS.mpd``78d17d4851a5e9eede96f283b15ec053:c5ae33f70cc967fe107b35eb7225f52a
+KIX.id	01`02aKIX/sa_dash_vmx/KIX.mpd``fe761e8fac143d40510e70825dad0b20:eed9fb0b4e254e9104ef98e8a7035387
+Rock-Entertainment.id	01`02aRockentertainment/sa_dash_vmx/Rockentertainment.mpd``57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
+One.id	01`02aSetOne/sa_dash_vmx/SetOne.mpd``7b212a67ce3e8b056af85b890e3de811:428a68fac3d97a5fae0f695edcee6346
+tvN.id	01`02atvN/sa_dash_vmx/tvN.mpd``742131dbcb507c31502eb60b32be6bb8:209f03c525bbbc9fd8652aa7a9cc5cb0
+History.id	01`02aHistory/sa_dash_vmx/History.mpd``2ccaa7d9731c2e69fa5344c5a547b836:d23fb6a3c73eb7ab8ad19ca841db0fb5
+TVRI.id	01`02aPemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd``ca65af90adc5e3ddb180e16426bb67da:b6f87a3a128dbd75ead036f596edeae7
+MyCinema.id	01`02aMyCinema/sa_dash_vmx/MyCinema.mpd``4310edb8b9ffe79abb40bacafa778ec3:aebb7e86d8a336d9a93d3dd8a41153cf
+MyCinemaAsia.id	01`02aMyCinema-Asia/sa_dash_vmx/MyCinema-Asia.mpd``4310edb8b9ffe79abb40bacafa778ec3:aebb7e86d8a336d9a93d3dd8a41153cf
+CinemaWorld.id	01`02aCinemaWorld/sa_dash_vmx/CinemaWorld.mpd``958df746f24f371dffc95e7cd714fbd7:fbd6e4540b9a917a27da8be01542f53f
+NatGeo.id	01`02aNatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd``05457a5e16a76fe666a22cc7ae2c6548:626e37901bfb985e994d714e9f9de1b5
+NatGeoWild.id	01`02aNatGeoWild/sa_dash_vmx/NatGeoWild.mpd``c3066eaa0984588f78d12dcdb75ef88b:4e98eb4927941bff51ea526d223fa16d
+JakTV.id	01`02aJakTV/sa_dash_vmx/JakTV.mpd``f2c9087e5432ce2c2f4ae8e1fd77ae4c:f7a50262991ca7d505fce1572a7f0c2a
+MoonBug.id	https://melon-live-cdn.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd
+My-Kids.id	https://melon-live-cdn.mncnow.id/live/eds/My-Kids/sa_dash_vmx/My-Kids.mpd
+IDX.id	https://melon-live-cdn.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
+MNC-News.id	https://melon-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
+AlJazeera.id	https://melon-live-cdn.mncnow.id/live/eds/AlJazeeraInternational/sa_dash_vmx/AlJazeeraInternational.mpd
+SEA-Today.id	https://melon-live-cdn.mncnow.id/live/eds/SEA-Channel/sa_dash_vmx/SEA-Channel.mpd
+Bali.id	https://melon-live-cdn.mncnow.id/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd
+TV9.id	https://melon-live-cdn.mncnow.id/live/eds/TV9/sa_dash_vmx/TV9.mpd
+DW.id	https://melon-live-cdn.mncnow.id/live/eds/DW/sa_dash_vmx/DW.mpd
+DAAI.id	https://melon-live-cdn.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
+Bandung.id	https://melon-live-cdn.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
+Entertainment.id	https://melon-live-cdn.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainment.mpd
+Infotainment.id	https://melon-live-cdn.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotainment.mpd
+BBC-Earth.id	https://melon-live-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
+CGTN.id	https://melon-live-cdn.mncnow.id/live/eds/CGTN/sa_dash_vmx/CGTN.mpd
+CGTN-Doc.id	https://melon-live-cdn.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
+Global-Trekker.id	https://melon-live-cdn.mncnow.id/live/eds/Globaltrekker/sa_dash_vmx/Globaltrekker.mpd
+Crime-Investigation.id	https://melon-live-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
+NHK-World-Japan.id	https://melon-live-cdn.mncnow.id/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorldTV.mpd
+RT-English.id	https://melon-live-cdn.mncnow.id/live/eds/RTEnglish/sa_dash_vmx/RTEnglish.mpd
+TRT-World.id	https://melon-live-cdn.mncnow.id/live/eds/TRTWorld/sa_dash_vmx/TRTWorld.mpd
+Channel-News-Asia.id	https://melon-live-cdn.mncnow.id/live/eds/ChannelNewsAsia/sa_dash_vmx/ChannelNewsAsia.mpd
+France24.id	https://melon-live-cdn.mncnow.id/live/eds/France24/sa_dash_vmx/France24.mpd
+LifeStyleFashion.id	https://melon-live-cdn.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFashion.mpd
+MTV	https://melon-live-cdn.mncnow.id/live/eds/MTV/sa_dash_vmx/MTV.mpd
+MTV-90-HD	https://melon-live-cdn.mncnow.id/live/eds/MTV-90-HD/sa_dash_vmx/MTV-90-HD.mpd
+Anhui.id	https://melon-live-cdn.mncnow.id/live/eds/AnhuiTV/sa_dash_vmx/AnhuiTV.mpd
+Hunan.id	https://melon-live-cdn.mncnow.id/live/eds/HunanTV/sa_dash_vmx/HunanTV.mpd
+Jiangsu.id	https://melon-live-cdn.mncnow.id/live/eds/JiangsuTV/sa_dash_vmx/JiangsuTV.mpd
+ShanghaiDragon.id	https://melon-live-cdn.mncnow.id/live/eds/ShanghaiDragonTV/sa_dash_vmx/ShanghaiDragonTV.mpd
+XingKong.id	https://melon-live-cdn.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd
+FMN.id	https://melon-live-cdn.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
+Paramount.id	https://melon-live-cdn.mncnow.id/live/eds/Paramount-HD/sa_dash_vmx/Paramount-HD.mpd
+Arirang.id	https://melon-live-cdn.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
+NHK-World-Premium.id	https://melon-live-cdn.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd
+ABC-Australia-Plus.id	https://melon-live-cdn.mncnow.id/live/eds/AustraliaPlus/sa_dash_vmx/AustraliaPlus.mpd
+BBC-World-News.id	https://melon-live-cdn.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd
+Bloomberg.id	https://melon-live-cdn.mncnow.id/live/eds/Bloomberg/sa_dash_vmx/Bloomberg.mpd
+CNBC.id	https://melon-live-cdn.mncnow.id/live/eds/CNBC/sa_dash_vmx/CNBC.mpd
+Euro-News.id	https://melon-live-cdn.mncnow.id/live/eds/EuroNews/sa_dash_vmx/EuroNews.mpd
+Fight-Sports.id	https://melon-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
+Fox-News.id	https://melon-live-cdn.mncnow.id/live/eds/FoxNews/sa_dash_vmx/FoxNews.mpd
