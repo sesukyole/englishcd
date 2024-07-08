@@ -444,6 +444,7 @@ JP  BS Tsuri Vision	https://stream01.willfonk.com/live_playlist.m3u8?cid=BS241&r
 JP  BS TV Tokyo	https://stream01.willfonk.com/live_playlist.m3u8?cid=BS161&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 JP  Channel Neco	https://stream01.willfonk.com/live_playlist.m3u8?cid=BS251&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 JP  Toei Channel	https://stream01.willfonk.com/live_playlist.m3u8?cid=BS171&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+JP  NTV News 24	https://n24-cdn-live-b.ntv.co.jp/ch01/index.m3u8
 BE  Club 1	https://origin2-rtlbe.live.6cloud.fr/pool_z6h2o6qd/clubrtl/rtlbesd/dash_short_cenc10_clubrtl/index.mpd``b53316f32fc93b51a61ba6fdf0bce6c1:d752d66843a48a6fed64eed8f87adc3e
 BR  SBT	https://0006-bbc.dtvott.com/dash_live_0035/manifest.mpd``3ad3dca103185934acff7a0e9000c112:3f396659d841a55cd1381e6735ecfa1d
 Canal 5	https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
@@ -812,3 +813,4 @@ Bollywood	https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761
 002 Radio TV	https://cdn.002radio.com:3909/live/radio002live.m3u8
 ID  TV Kesehatan	https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8
 Sony PIX	https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
+Gravitas Movies	https://ddniyunj92pl0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2amrzf32ny10z/playlist.m3u8
