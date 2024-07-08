@@ -9,8 +9,6 @@ Sky Sports Uno	https://linear301-it-dash1-prd-akg0.cdn13.skycdp.com/31023/FHD/sk
 ES  La1	https://cache3.zapitv.com/live/eds_c2/la1_4k/dash_live_enc/la1_4k.mpd``a3abc44525eef3b0a7af9138a9dbe34a:7740f8ae4223ce5ba293028f7f78f1c1
 NRK1 Euro	https://rikstv-live-scalstrm.telenorcdn.net/live/rikstv/64393b4f1dbc891fd41f5242/manifest.mpd``01010101010101010101010101010101:01010101010101010101010101010101
 RU  Match! Premier	https://cors-proxy.cooks.fyi/https://video.beeline.tv/live/d/channel318.isml/manifest-stb.mpd``2bb7b314771ed5eeddd8f44a9aa42740:01f2a8f11bd891655a752c1749f478ec
-Arena Sport Premium 1 Copa	https://webtvstream.bhtelecom.ba/hls6/as_premium1.mpd``c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-TSN 5 Copa	https://livecdn-iptv001.rumsport.com/stream/774/manifest.mpd
 Fox Sports 1 Copa	https://cors-proxy.cooks.fyi/https://linear.stvacdn.spectrum.com/LIVE/5239/bpk-tv/00700/drm/manifest.mpd``ff18f095bc835e8d902be9420438729e:bbfdc8de223e8b33144d5c718f01f58b
 Fox Sports 2	https://cors-proxy.cooks.fyi/https://linear.stvacdn.spectrum.com/LIVE/5099/bpk-tv/00564/drm/manifest.mpd``a9197045dfec5a2391fa29fc430783d8:25a184fd32ff2022772bcc72b777489d
 TV 2 Sport 1	https://rikstv-live-scalstrm.telenorcdn.net/live/rikstv/64393bf81dbc891fd41f53ac/manifest.mpd``0c6212056d2f51fcbf569f9a1a8517d1:d07b404deb7c958347d742e6d1d2f3f9
@@ -30,8 +28,14 @@ TNT Sports 2	https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc
 TNT Sports 3	https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd``4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
 TNT Sports 4	https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd``e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729
 TNT Sports 5	https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/gesdwrdncn/out/v1/79e752f1eccd4e18b6a8904a0bc01f2d/cenc.mpd``60c0d9b41475e01db4ffb91ed557fbcc:36ee40e58948ca15e3caba8d47b8f34b
+Arena Sport Premium 1	https://webtvstream.bhtelecom.ba/hls6/as_premium1.mpd``c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 Arena Sport Premium 2	https://webtvstream.bhtelecom.ba/hls6/as_premium2.mpd``c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 Arena Sport Premium 3	https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd``c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+TSN 1	https://livecdn-iptv001.rumsport.com/stream/770/manifest.mpd
+TSN 2	https://livecdn-iptv001.rumsport.com/stream/771/manifest.mpd
+TSN 3	https://livecdn-iptv001.rumsport.com/stream/772/manifest.mpd
+TSN 4	https://livecdn-iptv001.rumsport.com/stream/773/manifest.mpd
+TSN 5	https://livecdn-iptv001.rumsport.com/stream/774/manifest.mpd
 CTV 1	`0https://live.sportsnews.id/p/ctv.html
 CTV 2	`0https://live.sportsnews.id/p/ctv2.html
 DAZN F1	01`01a1601`01b
@@ -94,10 +98,6 @@ MY  SpoTV 1	https://pop5clustera00de07172379a62d6189.hypp.tv:443/PLTV/88888888/2
 MY  SpoTV 2	https://pop5clustera00de07172379a62d6189.hypp.tv:443/PLTV/88888888/224/3221227726/3221227726.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawRjfkMvdAX9TZ5I%2BbsmfrUeOV6Zn1IaYCsVySN%2F6aTU0rcymHBIhx5oJP4jv2fPK0%3D%3A20230206102855%3AUTC%2C1003663983%2C115.164.187.20%2C20230206102855%2Curn:Huawei:liveTV:XTV100000162%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOwY6CMBiE36bHpi0I9tCTGxOTDbuJrFczhZ9KLNRt0cS3X1D2NpmZbzJTREOHD5PZwoqt0IXSXZ7JEnqWCp2WFhtlBUv0WwWjWAPv-9FVoV2w03F3loILrpTkUrF6mdt7uLVZ3QdL0WT_2JHio2_ItKnjDyQO5yI5TH0Y-bfH8yf6tcKoXq_JotwUWuSlyvOSTYtbI13nhF2QdmG4IVL7GdwLMB18InZDc4WjCgOZ8e79m_uK7fzmD_CkDoH0AAAA&tenantId=6001``7c67cb7de9465062c06ac94e8e065462:5931fc07f285ffe40eb98e130bb090f9
 Unifi Sports 1	https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227877/3221227877.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=pDVeBhPtc549NayvHFA0JHqiwYJ%2FKEP6UdMtjXIjIzrjYyGN4h5HPUHLEk%2FvL80xPjG9KTt82xXCdpGInMoKWMBLe9Ie9rQgSTZ%2FmsUArMht5J0dsgfU28LWZM15p3G2%3A20221124103114%3AUTC%2C10001002142071%2C115.164.56.153%2C20221124103114%2Curn:Huawei:liveTV:XTV54185493%2C10001002142071%2C-1%2C0%2C1%2C%2C%2C2%2CHESA0002%2C%2C%2C2%2C10000104188313%2C0%2C10000103564441%2C798506651%2C%2C%2C2%2C1%2CEND&GuardEncType=2&tenantId=6003``cbb673fb120882354735ed57eeb05b4c:fe003f7aeec40eb65d20b14edfda2a86
 SG  MeWatch 5	https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd``607b7d22565c4bc3b95ff6c33ce65425:28cc5367df666c44be4382e64af64d57
-TSN 1	https://livecdn-iptv001.rumsport.com/stream/770/manifest.mpd
-TSN 2	https://livecdn-iptv001.rumsport.com/stream/771/manifest.mpd
-TSN 3	https://livecdn-iptv001.rumsport.com/stream/772/manifest.mpd
-TSN 4	https://livecdn-iptv001.rumsport.com/stream/773/manifest.mpd
 ES  TDP	https://cache3.zapitv.com/live/eds_c2/teledeporte_hd/dash_live_enc/teledeporte_hd.mpd``1937b8f0dc833e0a8f457240972e440d:8cbb79a6410cc0d0d80d148f282afd95
 IT  Canale 5	https://live03p-seg.msf.cdn.mediaset.net/live/ch-c5/c5-dash-widevine.isml/manifest.mpd``00f9f3c0783536b8ce4a30a01a52e082:e926f7d45af4f7d154c990eae6a2d937
 Premier League	https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd``002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
