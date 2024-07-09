@@ -2,20 +2,20 @@ ID  Sport 4 Euro	https://dsgtq5sngxkde.cloudfront.net/live/eds/VplusLiveRplus/sa
 Sports 1 Euro & Copa America	https://katanaboss.online/chunklist/hlsch1.m3u8?7
 RTL Euro	https://pnowlive-a.akamaized.net/live/rtlhd/dash/rtlhd.mpd``57e48b99f3f6d4f13f5c5afdcca084ca:29379a5e2d3405fad2f5d9cbe92586c3
 CT Sport Euro	https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cbcs.mpd``11223344556677889900112233445566:11223344556677889900112233445566
-RTB Aneka Go	https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
+RTB Aneka Go Euro	https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
+TSN 1 Euro	https://livecdn-iptv001.rumsport.com/stream/770/manifest.mpd
 NL  Channel S Euro	https://live.vrtcdn.be/groupc/live/8edf3bdf-7db3-41c3-a318-72cb7f82de66/live.isml/.mpd``ef4daa3c90333621e4115ff1ca5bfbda:424c9902fce5a2e7dcbeb37ffc06b906
 BA  UEFA Euro	https://webtvstream.bhtelecom.ba/hls19/bht1.mpd``c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 Sky Sports Calcio	https://linear301-it-dash1-prd-akg0.cdn13.skycdp.com/31209/FHD/skysportseriea/master.mpd``00369a2c69176d5a2deff777247b6637:e122d4bad34c1e430ee349f5aac0060b
 Sky Sports Uno	https://linear301-it-dash1-prd-akg0.cdn13.skycdp.com/31023/FHD/skysportuno/master_stereo.mpd``0036dc70e4d659fe5ae57b52793a1ff3:55517f806b6be917c2bf0e9cf9acc44f
-TSN 5	https://livecdn-iptv001.rumsport.com/stream/774/manifest.mpd
-ES  La1	https://cache3.zapitv.com/live/eds_c2/la1_4k/dash_live_enc/la1_4k.mpd``a3abc44525eef3b0a7af9138a9dbe34a:7740f8ae4223ce5ba293028f7f78f1c1
+ES  La1 Euro	https://cache3.zapitv.com/live/eds_c2/la1_4k/dash_live_enc/la1_4k.mpd``a3abc44525eef3b0a7af9138a9dbe34a:7740f8ae4223ce5ba293028f7f78f1c1
 NRK1 Euro	https://rikstv-live-scalstrm.telenorcdn.net/live/rikstv/64393b4f1dbc891fd41f5242/manifest.mpd``01010101010101010101010101010101:01010101010101010101010101010101
+Markiza Sport Euro	https://dash2.antik.sk/stream/nvidia_markiza/playlist_cenc.mpd``11223344556677889900112233445566:11223344556677889900112233445566
 RU  Match! Premier	https://cors-proxy.cooks.fyi/https://video.beeline.tv/live/d/channel318.isml/manifest-stb.mpd``2bb7b314771ed5eeddd8f44a9aa42740:01f2a8f11bd891655a752c1749f478ec
 Fox Sports 1 Copa	https://cors-proxy.cooks.fyi/https://linear.stvacdn.spectrum.com/LIVE/5239/bpk-tv/00700/drm/manifest.mpd``ff18f095bc835e8d902be9420438729e:bbfdc8de223e8b33144d5c718f01f58b
 Fox Sports 2	https://cors-proxy.cooks.fyi/https://linear.stvacdn.spectrum.com/LIVE/5099/bpk-tv/00564/drm/manifest.mpd``a9197045dfec5a2391fa29fc430783d8:25a184fd32ff2022772bcc72b777489d
 TV 2 Sport 1	https://rikstv-live-scalstrm.telenorcdn.net/live/rikstv/64393bf81dbc891fd41f53ac/manifest.mpd``0c6212056d2f51fcbf569f9a1a8517d1:d07b404deb7c958347d742e6d1d2f3f9
 TV 2 Sport Premium	https://ch11-hls-live.akamaized.net/out/u/433127.mpd``d12e4c9dc52f4cbab7ac9b2278317e47:a7987e5b6ec42db68a25486e108ca9f2
-Markiza Sport	https://dash2.antik.sk/stream/nvidia_markiza/playlist_cenc.mpd``11223344556677889900112233445566:11223344556677889900112233445566
 La Une Euro	https://daiconnect.com/live/dash/rtbf/laune-premium-drm-2/.mpd``1a8315e4b64c4e638dc24d93134b9b2d:2821b54058fb3adc9c6252c631aef9e5
 NL  NPO 1	https://nlziet-live.akamaized.net/L6/76fd047c/c427bd9d.isml/.mpd``7545f9301bf94e7a9132dccf32920e51:94fc134c1b1cb1ea9075781417eca48b
 NL  NPO 2	https://nlziet-live.akamaized.net/L27/576200ff/17f23d2b.isml/.mpd``cd2e51e9dadd4e38b2b8df5680f7aa43:ce1083c14ed247bbc693bbe6bf0fd36b
@@ -33,10 +33,10 @@ TNT Sports 5	https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc
 Arena Sport Premium 1	https://webtvstream.bhtelecom.ba/hls6/as_premium1.mpd``c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 Arena Sport Premium 2	https://webtvstream.bhtelecom.ba/hls6/as_premium2.mpd``c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 Arena Sport Premium 3	https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd``c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-TSN 1	https://livecdn-iptv001.rumsport.com/stream/770/manifest.mpd
 TSN 2	https://livecdn-iptv001.rumsport.com/stream/771/manifest.mpd
 TSN 3	https://livecdn-iptv001.rumsport.com/stream/772/manifest.mpd
 TSN 4	https://livecdn-iptv001.rumsport.com/stream/773/manifest.mpd
+TSN 5	https://livecdn-iptv001.rumsport.com/stream/774/manifest.mpd
 Belarus 24	https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
 Belarus 1	https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8
 Belarus 2	https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8
