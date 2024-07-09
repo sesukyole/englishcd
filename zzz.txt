@@ -1,7 +1,7 @@
 100%! Space Shower TV Plus|	https://sundel.freemiumiptv.top/gdp/jptv/4217466D581B24A23E02E2CA2E806587.m3u8?token=VXNMb1B3Q2NtYitVRFh1d3Q2Z01jUT09OjpfYd8b6uRR8T8UJ2PbwYVa?7
 8TV (GEO Blocked)	https://raw.githubusercontent.com/mystery75/m3u8/main/8TV.m3u8
 A Spor TV	https://bozztv.com/inim03/live1/aspor/playlist.m3u8
-A Sports TV|	https://win.freemiumiptv.top/gdp/live/asport/index.m3u8?token=VXNMb1B3Q2NtYitVRFh1d3Q2Z01jUT09OjpfYd8b6uRR8T8UJ2PbwYVa?7
+A Sports TV|!	https://win.freemiumiptv.top/gdp/live/asport/index.m3u8?token=VXNMb1B3Q2NtYitVRFh1d3Q2Z01jUT09OjpfYd8b6uRR8T8UJ2PbwYVa?7
 A&E TV|	https://rek.freemiumiptv.top/gdp/dd/premium302.m3u8?token=VXNMb1B3Q2NtYitVRFh1d3Q2Z01jUT09OjpfYd8b6uRR8T8UJ2PbwYVa?7
 ABC News Australia TV	`1https://en.gdplayertv.to/live-tv/abc-news-au/?embed=1
 ABC News TV	`1https://en.gdplayertv.to/live-tv/abc-news-us/?embed=1
@@ -33,7 +33,7 @@ Alkass One TV|	https://rck.freemiumiptv.top/gdp/dd/premium781.m3u8?token=VXNMb1B
 Alkass Two TV	`1https://en.gdplayertv.to/live-tv/alkass-2/?embed=1
 Alkass Three TV	`1https://en.gdplayertv.to/live-tv/alkass-3/?embed=1
 Alkass Four TV	`1https://en.gdplayertv.to/live-tv/alkass-4/?embed=1
-All Sports TV	`1https://en.gdplayertv.to/live-tv/all-sports/?embed=1
+All Sports TV	https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 Anhui TV	`1https://en.gdplayertv.to/live-tv/anhui-tv/?embed=1
 AniPlus English	`1https://en.gdplayertv.to/live-tv/aniplus-en/?embed=1
 AniPlus Indonesia	`1https://en.gdplayertv.to/live-tv/aniplus/?embed=1
@@ -44,7 +44,7 @@ Animax TV English	`1https://en.gdplayertv.to/live-tv/animax-en/?embed=1
 Animax TV Indonesia	`1https://en.gdplayertv.to/live-tv/animax/?embed=1
 Animax TV Japan	`1https://en.gdplayertv.to/live-tv/animax-jp/?embed=1
 Animax TV 中文	`1https://en.gdplayertv.to/live-tv/animax-cn/?embed=1
-Arena Sport 1 Premium TV Serbia	`1https://en.gdplayertv.to/live-tv/arena-sport-1-premium/?embed=1
+Arena Sport 1 Premium TV| Serbia	https://rac.freemiumiptv.top/gdp/dd/premium134.m3u8?token=VXNMb1B3Q2NtYitVRFh1d3Q2Z01jUT09OjpfYd8b6uRR8T8UJ2PbwYVa?7
 Arena Sport 1 TV Croatia	`1https://en.gdplayertv.to/live-tv/arena-sport-1-croatia/?embed=1
 Arena Sport 1 TV Serbia	`1https://en.gdplayertv.to/live-tv/arena-sport-1/?embed=1
 Arena Sport 2 Premium TV Serbia	`1https://en.gdplayertv.to/live-tv/arena-sport-2-premium/?embed=1
@@ -56,9 +56,10 @@ Arena Sport 3 TV Serbia	`1https://en.gdplayertv.to/live-tv/arena-sport-3/?embed=
 Arena Sport 4 TV Croatia	`1https://en.gdplayertv.to/live-tv/arena-sport-4-croatia/?embed=1
 Arena Sport 4 TV Serbia	`1https://en.gdplayertv.to/live-tv/arena-sport-4/?embed=1
 Arirang TV	`1https://en.gdplayertv.to/live-tv/arirang-tv/?embed=1
-Arryadia TV	`1https://en.gdplayertv.to/live-tv/arryadia-tv/?embed=1
+Arryadia TV!	https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia.m3u8
 Asian Food Channel Malaysia (GEO Blocked)	`1https://en.gdplayertv.to/live-tv/asian-food-channel-my/?embed=1
 Asian Food Network TV (AFN)	`1https://en.gdplayertv.to/live-tv/afn-asian-food-network/?embed=1
+Astro AEC TV|!	https://rek.freemiumiptv.top/gdp/cntv/10/260164952/0.m3u8?token=VXNMb1B3Q2NtYitVRFh1d3Q2Z01jUT09OjpfYd8b6uRR8T8UJ2PbwYVa?7
 Astro Arena 2 TV (GEO Blocked)	`1https://en.gdplayertv.to/live-tv/astro-arena-2/?embed=1
 Astro Arena Bola 2 TV (GEO Blocked)	`1https://en.gdplayertv.to/live-tv/astro-arena-bola-2/?embed=1
 Astro Arena Bola TV (GEO Blocked)	`1https://en.gdplayertv.to/live-tv/astro-arena-bola/?embed=1
