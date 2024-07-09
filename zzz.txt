@@ -1,11 +1,8 @@
-100%! Space Shower TV Plus	https://en.gdplayertv.to/hls/.m3u8?tv=space-shower-tv-plus&yt=&bypass=0&token=djl0VDVHdHA5NU0wN0RORkVhb1EvNTFQUEgxRjBid2VCRmFlWXM2SWtCUUFZbG5sUUZtUUpXWFlPVDh1cGJxKzo6KiEAK1NdrfuOYhRiRWEBew%3D%3D
-100%! Space Shower TV Plus	https://sundel.freemiumiptv.top/gdp/jptv/4217466D581B24A23E02E2CA2E806587.m3u8?token=djl0VDVHdHA5NU0wN0RORkVhb1EvNTFQUEgxRjBid2VCRmFlWXM2SWtCUUFZbG5sUUZtUUpXWFlPVDh1cGJxKzo6KiEAK1NdrfuOYhRiRWEBew%3D%3D
-100%! Space Shower TV Plus	https://sundel.freemiumiptv.top/gdp/jptv/4217466D581B24A23E02E2CA2E806587.m3u8?token=djl0VDVHdHA5NU0wN0RORkVhb1EvNTFQUEgxRjBid2VCRmFlWXM2SWtCUUFZbG5sUUZtUUpXWFlPVDh1cGJxKzo6KiEAK1NdrfuOYhRiRWEBew%3D%3D?4
-100%! Space Shower TV Plus	https://sundel.freemiumiptv.top/gdp/jptv/4217466D581B24A23E02E2CA2E806587.m3u8?token=djl0VDVHdHA5NU0wN0RORkVhb1EvNTFQUEgxRjBid2VCRmFlWXM2SWtCUUFZbG5sUUZtUUpXWFlPVDh1cGJxKzo6KiEAK1NdrfuOYhRiRWEBew%3D%3D?7
+100%! Space Shower TV Plus|	https://sundel.freemiumiptv.top/gdp/jptv/4217466D581B24A23E02E2CA2E806587.m3u8?token=VXNMb1B3Q2NtYitVRFh1d3Q2Z01jUT09OjpfYd8b6uRR8T8UJ2PbwYVa?7
 8TV (GEO Blocked)	https://raw.githubusercontent.com/mystery75/m3u8/main/8TV.m3u8
 A Spor TV	https://bozztv.com/inim03/live1/aspor/playlist.m3u8
-A Sports TV	https://win.freemiumiptv.top/gdp/live/asport/index.m3u8?token=R0RMTVZzZXJEWk9INGNlM3VES0gxVnpJNzBTWjNrNTNzSlpsOGY1alNwSGhrZXh1RmtQbnROTFFvTjNYdWNqWjo6mV7j4CWNVXf9s5hfE0YVGQ%3D%3D?7
-A&E TV	https://rek.freemiumiptv.top/gdp/dd/premium302.m3u8?token=R0RMTVZzZXJEWk9INGNlM3VES0gxVnpJNzBTWjNrNTNzSlpsOGY1alNwSGhrZXh1RmtQbnROTFFvTjNYdWNqWjo6mV7j4CWNVXf9s5hfE0YVGQ%3D%3D?7
+A Sports TV|	https://win.freemiumiptv.top/gdp/live/asport/index.m3u8?token=VXNMb1B3Q2NtYitVRFh1d3Q2Z01jUT09OjpfYd8b6uRR8T8UJ2PbwYVa?7
+A&E TV|	https://rek.freemiumiptv.top/gdp/dd/premium302.m3u8?token=VXNMb1B3Q2NtYitVRFh1d3Q2Z01jUT09OjpfYd8b6uRR8T8UJ2PbwYVa?7
 ABC News Australia TV	`1https://en.gdplayertv.to/live-tv/abc-news-au/?embed=1
 ABC News TV	`1https://en.gdplayertv.to/live-tv/abc-news-us/?embed=1
 ABC Plus TV	`1https://en.gdplayertv.to/live-tv/abc-plus-au/?embed=1
@@ -32,10 +29,10 @@ Action Channel Japan	`1https://en.gdplayertv.to/live-tv/action-channel-jp/?embed
 Adult Swim TV USA	`1https://en.gdplayertv.to/live-tv/adult-swim-tv/?embed=1
 Al Jazeera English	`1https://en.gdplayertv.to/live-tv/UCNye-wNBqNL5ZzHSJj3l8Bg/?embed=1
 Al Jazeera TV	`1https://en.gdplayertv.to/live-tv/aljazeera/?embed=1
-Alkass Four TV	`1https://en.gdplayertv.to/live-tv/alkass-4/?embed=1
-Alkass One TV	`1https://en.gdplayertv.to/live-tv/alkass-1/?embed=1
-Alkass Three TV	`1https://en.gdplayertv.to/live-tv/alkass-3/?embed=1
+Alkass One TV|	https://rck.freemiumiptv.top/gdp/dd/premium781.m3u8?token=VXNMb1B3Q2NtYitVRFh1d3Q2Z01jUT09OjpfYd8b6uRR8T8UJ2PbwYVa?7
 Alkass Two TV	`1https://en.gdplayertv.to/live-tv/alkass-2/?embed=1
+Alkass Three TV	`1https://en.gdplayertv.to/live-tv/alkass-3/?embed=1
+Alkass Four TV	`1https://en.gdplayertv.to/live-tv/alkass-4/?embed=1
 All Sports TV	`1https://en.gdplayertv.to/live-tv/all-sports/?embed=1
 Anhui TV	`1https://en.gdplayertv.to/live-tv/anhui-tv/?embed=1
 AniPlus English	`1https://en.gdplayertv.to/live-tv/aniplus-en/?embed=1
@@ -84,10 +81,10 @@ Astro iQiyi TV	`1https://en.gdplayertv.to/live-tv/astro-iqiyi/?embed=1
 Awesome TV (GEO Blocked)	`1https://en.gdplayertv.to/live-tv/awesome-tv/?embed=1
 BBC America (BBCA) TV	`1https://en.gdplayertv.to/live-tv/bbc-america/?embed=1
 BBC Earth TV	`1https://en.gdplayertv.to/live-tv/bbc-earth/?embed=1
-BBC Four TV	`1https://en.gdplayertv.to/live-tv/bbc-four/?embed=1
-BBC One TV	`1https://en.gdplayertv.to/live-tv/bbc-one/?embed=1
-BBC Three TV	`1https://en.gdplayertv.to/live-tv/bbc-three/?embed=1
+BBC One TV|1	https://rck.freemiumiptv.top/gdp/dd/premium356.m3u8?token=VXNMb1B3Q2NtYitVRFh1d3Q2Z01jUT09OjpfYd8b6uRR8T8UJ2PbwYVa?7
 BBC Two TV	`1https://en.gdplayertv.to/live-tv/bbc-two/?embed=1
+BBC Three TV	`1https://en.gdplayertv.to/live-tv/bbc-three/?embed=1
+BBC Four TV	`1https://en.gdplayertv.to/live-tv/bbc-four/?embed=1
 BBC World News TV	`1https://en.gdplayertv.to/live-tv/bbc-world-news/?embed=1
 BEK Sports East TV	`1https://en.gdplayertv.to/live-tv/bek-sports-east/?embed=1
 BEK Sports West TV	`1https://en.gdplayertv.to/live-tv/bek-sports-west/?embed=1
