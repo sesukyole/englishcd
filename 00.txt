@@ -1,7 +1,7 @@
 ID  Sport 4 Euro	https://dsgtq5sngxkde.cloudfront.net/live/eds/VplusLiveRplus/sa_hls/VplusLiveRplus.m3u8?c
 Sports 1 Euro & Copa America	https://katanaboss.online/chunklist/hlsch1.m3u8?7
+TSN 3 Copa America	https://livecdn-iptv001.rumsport.com/stream/772/manifest.mpd
 CTV 2 Copa America	`0https://live.sportsnews.id/p/ctv2.html
-Arena Sport Premium 1 Copa	https://webtvstream.bhtelecom.ba/hls6/as_premium1.mpd``c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 RTB Aneka Go Euro	https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
 CT Sport Euro	https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cbcs.mpd``11223344556677889900112233445566:11223344556677889900112233445566
 NL  Channel S Euro	https://live.vrtcdn.be/groupc/live/8edf3bdf-7db3-41c3-a318-72cb7f82de66/live.isml/.mpd``ef4daa3c90333621e4115ff1ca5bfbda:424c9902fce5a2e7dcbeb37ffc06b906
@@ -13,7 +13,6 @@ ES  La1 Euro	https://cache3.zapitv.com/live/eds_c2/la1_4k/dash_live_enc/la1_4k.m
 RTL Euro	https://pnowlive-a.akamaized.net/live/rtlhd/dash/rtlhd.mpd``57e48b99f3f6d4f13f5c5afdcca084ca:29379a5e2d3405fad2f5d9cbe92586c3
 NRK1 Euro	https://rikstv-live-scalstrm.telenorcdn.net/live/rikstv/64393b4f1dbc891fd41f5242/manifest.mpd``01010101010101010101010101010101:01010101010101010101010101010101
 Markiza Sport Euro	https://dash2.antik.sk/stream/nvidia_markiza/playlist_cenc.mpd``11223344556677889900112233445566:11223344556677889900112233445566
-TSN 1 Euro	https://livecdn-iptv001.rumsport.com/stream/770/manifest.mpd
 RU  Match! Premier	https://cors-proxy.cooks.fyi/https://video.beeline.tv/live/d/channel318.isml/manifest-stb.mpd``2bb7b314771ed5eeddd8f44a9aa42740:01f2a8f11bd891655a752c1749f478ec
 CTV 1 UEFA Euro	`0https://live.sportsnews.id/p/ctv.html
 TV 2 Sport 1	https://rikstv-live-scalstrm.telenorcdn.net/live/rikstv/64393bf81dbc891fd41f53ac/manifest.mpd``0c6212056d2f51fcbf569f9a1a8517d1:d07b404deb7c958347d742e6d1d2f3f9
@@ -32,10 +31,11 @@ TNT Sports 2	https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc
 TNT Sports 3	https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd``4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
 TNT Sports 4	https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd``e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729
 TNT Sports 5	https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/gesdwrdncn/out/v1/79e752f1eccd4e18b6a8904a0bc01f2d/cenc.mpd``60c0d9b41475e01db4ffb91ed557fbcc:36ee40e58948ca15e3caba8d47b8f34b
+Arena Sport Premium 1	https://webtvstream.bhtelecom.ba/hls6/as_premium1.mpd``c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 Arena Sport Premium 2	https://webtvstream.bhtelecom.ba/hls6/as_premium2.mpd``c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 Arena Sport Premium 3	https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd``c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+TSN 1 Euro	https://livecdn-iptv001.rumsport.com/stream/770/manifest.mpd
 TSN 2	https://livecdn-iptv001.rumsport.com/stream/771/manifest.mpd
-TSN 3 Copa America	https://livecdn-iptv001.rumsport.com/stream/772/manifest.mpd
 TSN 4	https://livecdn-iptv001.rumsport.com/stream/773/manifest.mpd
 TSN 5	https://livecdn-iptv001.rumsport.com/stream/774/manifest.mpd
 Live Sports HD 1	`0https://sportsonline.si/channels/hd/hd1.php
