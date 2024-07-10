@@ -9,6 +9,7 @@ NL  Channel S Euro	https://live.vrtcdn.be/groupc/live/8edf3bdf-7db3-41c3-a318-72
 BA  UEFA Euro	https://webtvstream.bhtelecom.ba/hls19/bht1.mpd``c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 Sky Sports Calcio	https://linear301-it-dash1-prd-akg0.cdn13.skycdp.com/31209/FHD/skysportseriea/master.mpd``00369a2c69176d5a2deff777247b6637:e122d4bad34c1e430ee349f5aac0060b
 Sky Sports Uno	https://linear301-it-dash1-prd-akg0.cdn13.skycdp.com/31023/FHD/skysportuno/master_stereo.mpd``0036dc70e4d659fe5ae57b52793a1ff3:55517f806b6be917c2bf0e9cf9acc44f
+Sky Sports 251 Euro	https://linear311-it-dash1-prd-akg0.cdn13.skycdp.com/31917/FHD/skysport251/master.mpd``0036422cf4293ae7cf1e7f7062cc29e8:37a223fcc17c087043bc837432fd25d8
 ES  La1 Euro	https://cache3.zapitv.com/live/eds_c2/la1_4k/dash_live_enc/la1_4k.mpd``a3abc44525eef3b0a7af9138a9dbe34a:7740f8ae4223ce5ba293028f7f78f1c1
 NRK1 Euro	https://rikstv-live-scalstrm.telenorcdn.net/live/rikstv/64393b4f1dbc891fd41f5242/manifest.mpd``01010101010101010101010101010101:01010101010101010101010101010101
 Markiza Sport Euro	https://dash2.antik.sk/stream/nvidia_markiza/playlist_cenc.mpd``11223344556677889900112233445566:11223344556677889900112233445566
@@ -54,43 +55,6 @@ Sports 2	https://katanaboss.online/chunklist/hlsch2.m3u8?7
 Sports 3	https://katanaboss.online/chunklist/hlsch3.m3u8?7
 Sports 4	https://katanaboss.online/chunklist/hlsch4.m3u8?7
 Sports 5	`0https://live.sportsnews.id/p/afcu23.html
-DAZN F1	01`01a1601`01b
-DAZN 1 DE	01`01a1701`01b
-DAZN 2 DE	01`01a1801`01b
-SportDigital Fussball	01`01a2201`01b
-NFL	01`01a2301`01b
-Zona DAZN	01`01a2401`01b
-Milan TV	01`01a2501`01b
-MLB	01`01a2601`01b
-EuroSport 1 DE	01`01a2701`01b
-EuroSport 2 DE	01`01a2801`01b
-EuroSport 1 IT	01`01a2901`01b
-EuroSport 2 IT	01`01a3001`01b
-EuroSport 1 ES	01`01a3101`01b
-EuroSport 2 ES	01`01a3201`01b
-Inter TV	01`01a3301`01b
-DAZN NBA	01`01a3501`01b
-Redbull TV	01`01a3601`01b
-DAZN 1 ES	01`01a3701`01b
-DAZN 2 ES	01`01a3801`01b
-LaLiga Live HyperMotion	01`01a4001`01b
-DAZN LaLiga	01`01a4301`01b
-Unbeaten	01`01a4401`01b
-DAZN 1 US	01`01a4501`01b
-Canal+ Ligue1 Uber Eats	01`01a4601`01b
-DAZN Eleven 1 ES	01`01a4701`01b
-DAZN Eleven 1 ES	01`01a4801`01b
-DAZN Eleven 01	01`01a4901`01b
-DAZN Eleven League 01	01`01a5001`01b
-PlaySports 1	01`01a5101`01b
-PlaySports 2	01`01a5201`01b
-PlaySports 3	01`01a5301`01b
-DAZN Eleven 1	01`01a5401`01b
-DAZN Eleven 2	01`01a5501`01b
-DAZN Eleven 3	01`01a5601`01b
-DAZN Eleven 4	01`01a5701`01b
-DAZN Eleven 5	01`01a5801`01b
-DAZN Eleven 6	01`01a5901`01b
 DAZN Eleven League 02	https://cors-proxy.cooks.fyi/https://tvvvideolive3.solocoo.tv:443/blueskytvvlive7dash/blueelevenproleague2nl/Manifest.mpd``16251e842a834570a8c5a34d45a0d64d:b7243739698cad0d58af01f142d13eae
 DAZN Eleven League 03	https://cors-proxy.cooks.fyi/https://tvvvideolive3.solocoo.tv:443/blueskytvvlive7dash/blueelevenproleague3nl/Manifest.mpd``c6455c5a1ad1484fa4029ba498659838:4329fb08c3444a8ae9b3c477efe11002
 ID  RCTI	https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-2/sa_hls/rcti-2.m3u8?c
@@ -418,7 +382,6 @@ PL  Eleven Sports 4	`0https://live.sportsnews.id/p/eleven4.html
 PL  Eleven Sports 3	`0https://live.sportsnews.id/p/eleven3.html
 Sky Sports Top Event	https://donelfantastic.github.io/webiptv/web/de/skysp0rtsTE.m3u8
 Sky Sports 24	https://linear301-it-dash1-prd-ll.cdn13.skycdp.com/31035/FHD/skysport24/master_stereo.mpd``003618ccd7be22b6367207ed8d64d505:36e97f29ec5ea6126077cc040cc2ceeb
-Sky Sports 251 Euro	https://linear311-it-dash1-prd-akp2.cdn13.skycdp.com/31917/FHD/skysport251/master.mpd``00368000eaecbeeafd84c05b3b8243af:8f84185910e18ae0ca8a45004625a000
 Sky Sports Action	https://linear013-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_120/Live/channel(skysportsaction)/manifest_720.mpd``0003d0fbdf31675b39ee3ea8b9f0ce68:ebfa3109af67dc34a10321f78627b631
 Sky Sports Arena	https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/31024/FHD/skysportarena/master.mpd``00364ee1c777f44a74e4df12f3095503:77dee68a39366663755beb8fa62dcc1e
 Sky Sports Cricket	https://linear007-gb-dash1-prd-cf.cdn.skycdp.com/Content/DASH_003_720_120/Live/channel(skysportscricket)/manifest_720-120.mpd``00056d5c8882917a4463d5b42ba86c31:226c39dd7d41b6f0e27cb7d8940f644f
@@ -491,6 +454,43 @@ beIN Sports 4	https://cors-proxy.elfsight.com/https://49-231-36-188-rewriter.ais
 beIN Sports 5	https://cors-proxy.elfsight.com/https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0005/DASH/S0005.mpd``3a165f923cd49e616f173fc6c341cc56:4cb96186d69f1a63c40218812a6f6910
 beIN Sports 6	https://cors-proxy.elfsight.com/https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0006/DASH/S0006.mpd``ceac4607562049abb9d1b0309d9cd6f3:d396d277a364fab00d0193d25b700847
 beIN Sports 7	https://cors-proxy.elfsight.com/https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0007/DASH/S0007.mpd``94a28a75b3891e92a97efbe76f941095:7b39cd0e318ee481b98c36a125c540fb
+DAZN F1	01`01a1601`01b
+DAZN 1 DE	01`01a1701`01b
+DAZN 2 DE	01`01a1801`01b
+SportDigital Fussball	01`01a2201`01b
+NFL	01`01a2301`01b
+Zona DAZN	01`01a2401`01b
+Milan TV	01`01a2501`01b
+MLB	01`01a2601`01b
+EuroSport 1 DE	01`01a2701`01b
+EuroSport 2 DE	01`01a2801`01b
+EuroSport 1 IT	01`01a2901`01b
+EuroSport 2 IT	01`01a3001`01b
+EuroSport 1 ES	01`01a3101`01b
+EuroSport 2 ES	01`01a3201`01b
+Inter TV	01`01a3301`01b
+DAZN NBA	01`01a3501`01b
+Redbull TV	01`01a3601`01b
+DAZN 1 ES	01`01a3701`01b
+DAZN 2 ES	01`01a3801`01b
+LaLiga Live HyperMotion	01`01a4001`01b
+DAZN LaLiga	01`01a4301`01b
+Unbeaten	01`01a4401`01b
+DAZN 1 US	01`01a4501`01b
+Canal+ Ligue1 Uber Eats	01`01a4601`01b
+DAZN Eleven 1 ES	01`01a4701`01b
+DAZN Eleven 1 ES	01`01a4801`01b
+DAZN Eleven 01	01`01a4901`01b
+DAZN Eleven League 01	01`01a5001`01b
+PlaySports 1	01`01a5101`01b
+PlaySports 2	01`01a5201`01b
+PlaySports 3	01`01a5301`01b
+DAZN Eleven 1	01`01a5401`01b
+DAZN Eleven 2	01`01a5501`01b
+DAZN Eleven 3	01`01a5601`01b
+DAZN Eleven 4	01`01a5701`01b
+DAZN Eleven 5	01`01a5801`01b
+DAZN Eleven 6	01`01a5901`01b
 US  DAZN NFL	`0https://go.now.net.eu.org/p/live?embed=daznnfl&type=m
 US  DAZN MLB	`0https://go.now.net.eu.org/p/live?embed=daznmlb&type=m
 US  DAZN NBA	`0https://go.now.net.eu.org/p/live?embed=daznnba&type=m
