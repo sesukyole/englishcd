@@ -193,7 +193,8 @@ Novelisima	https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
 Planeta de Aventuras	https://stream.ads.ottera.tv/playlist.m3u8?network_id=4311
 Puro Romance	https://stream.ads.ottera.tv/playlist.m3u8?network_id=1082
 M  Regional MX	https://stream.ads.ottera.tv/playlist.m3u8?network_id=1084
-Rakuten Action	https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
+Rakuten Action Movies	https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
+Rakuten Top Movies	https://0609aae26cc24c8e9f13678986b881df.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-gb_TopFree/playlist.m3u8
 Ritmos Inolvidables	https://stream.ads.ottera.tv/playlist.m3u8?network_id=1081
 Sony Canal Novelas	https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
 Tierra De Amor y Venganza	https://stream.ads.ottera.tv/playlist.m3u8?network_id=1080
@@ -205,6 +206,7 @@ AE  Dubai One	https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.s
 AE  Dubai TV	https://raw.githubusercontent.com/mimipipi22/lalajo/main/dubaitv.m3u8
 MY  Astro Awani	https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
 MY  Boo	https://cors-proxy.cooks.fyi/https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/2407/default.mpd``ea4d51ade01bbf3946e0de973051ba10:f3266bec607f25879f48640f30f1c888
+MY  Degup	https://pop5clustera00de07172379a62d6189.hypp.tv:443/PLTV/88888888/224/3221227923/3221227923.mpd?rrsip%3Dweb.hypp.tv&zoneoffset=0&servicetype=1&icpid&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=qD/Ghg01YduJJVCux%2B5ixF6lBrrzvU1Q2%2B8sLqGChu40fF7WRczKep1ijxO3BzygK7IGCYvN70sbDo5pVRv84y3usL46ekX4z6HfPL7ju%2BT/E8WgnGuV2Kpf7nZRV575l1Gu6dfQIjZRtiMM1k%2B5qA%3D%3D:20230704175902:UTC,1004320541,14.1.254.135,20230704175902,urn:Huawei:liveTV:XTV55631601,1004320541,-1,0,1,,,2,,,,2,3692854,0,2611154,2b9f924f-2e21-e330-87b4-2daffcd7b85b,,,2,1,END&GuardEncType=2&tenantId=6003%60%60c2ef96fe03b52c27a7b9a25ebfc95a00:93c9bcd05f9f754026b5b5e17f4e6446
 MY  Maah TV	https://hls.maahtv.live/hls/stream.m3u8
 MY  TV IKIM	https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
 MY  Dunia Sinema	https://unifi-live01.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
@@ -527,7 +529,7 @@ ES  Horrorfy 🇪🇸 🟤	https://olympusamagi.pc.cdn.bitgravity.com/Horrify-ro
 ES  Kidz 🇪🇸	https://fast-channels.atresmedia.com/648c271d2bfab0e4177a0d61/648c271d2bfab0e4177a0d61/1.m3u8
 ES  La Otra sᴅ 🇪🇸	https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:3_HD.smil/manifest.m3u8
 ES  Mundo Náuticaᴴᴰ 🇪🇸	https://cloud.fastchannel.es/mic/manifiest/hls/mundonautica/mundonautica.m3u8
-ES  Pocoyóᴴᴰ 🇪🇸	https://d2ljog9n0w576q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qca6wh0s76e45-ssai-prd/fast-channel-pocoyo.m3u8
+ES  Pocoyóᴴᴰ 🇪🇸	https://daiconnect.com/live/hls/tvup/tvfy-pocoyo/.m3u8
 ES  Toon Goggles 🇪🇸	https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=514
 ES  TV3CATᴴᴰ 🇪🇸	https://directes-tv-int.ccma.cat/live-origin/tvi-hls/master.m3u8
 ES  ETB 1 🇪🇸	https://multimedia.eitb.eus/live-content/etb1hd-hls/index.m3u8
