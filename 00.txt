@@ -3,11 +3,10 @@ Sports 1 Euro & Copa America	https://katanaboss.online/chunklist/hlsch1.m3u8?7
 TSN 3 Copa America	https://livecdn-iptv001.rumsport.com/stream/772/manifest.mpd
 VTC Copa America	https://liveh12.vtvcab.vn/hls/ONVTC1_CL/index.m3u8
 CTV 2 Copa America	`0https://live.sportsnews.id/p/ctv2.html
+BHRT UEFA Euro	https://webtvstream.bhtelecom.ba/hls19/bht1.mpd``c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 RTB Aneka Go Euro	https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
 CT Sport Euro	https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cbcs.mpd``11223344556677889900112233445566:11223344556677889900112233445566
 NL  Channel S Euro	https://live.vrtcdn.be/groupc/live/8edf3bdf-7db3-41c3-a318-72cb7f82de66/live.isml/.mpd``ef4daa3c90333621e4115ff1ca5bfbda:424c9902fce5a2e7dcbeb37ffc06b906
-BHRT UEFA Euro	https://webtvstream.bhtelecom.ba/hls19/bht1.mpd``c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-Now Sports 618	https://stream1.freetv.fun/now-sports-618-1.m3u8
 Sky Sport Calcio	https://linear301-it-dash1-prd-akg0.cdn13.skycdp.com/31209/FHD/skysportseriea/master.mpd``00369a2c69176d5a2deff777247b6637:e122d4bad34c1e430ee349f5aac0060b
 Sky Sport Uno	https://linear301-it-dash1-prd-akg0.cdn13.skycdp.com/31023/FHD/skysportuno/master_stereo.mpd``0036dc70e4d659fe5ae57b52793a1ff3:55517f806b6be917c2bf0e9cf9acc44f
 Sky Sport 251 Euro	https://linear311-it-dash1-prd-akg0.cdn13.skycdp.com/31917/FHD/skysport251/master.mpd``0036422cf4293ae7cf1e7f7062cc29e8:37a223fcc17c087043bc837432fd25d8
@@ -293,6 +292,7 @@ US  SportStak	https://dcj-ak-livedazn.akamaized.net/dash/dazn-linear-520/stream.
 BE  RTL Sports	https://cors-proxy.cooks.fyi/https://tvvvideolive3.solocoo.tv/blueskytvvlive7dash/bluertlclubhd/Manifest.mpd``0993fbc9c0f242e8bab9483484ff974e:08d3d32f7efefb22a7a865f81b5c8276
 CCTV 5+	https://node1.olelive.com:6443/live/CCTV5PHD_360/hls.m3u8
 CCTV 16	https://node1.olelive.com:6443/live/CCTV16HD_360/hls.m3u8
+Now Sports 618	https://stream1.freetv.fun/now-sports-618-1.m3u8?7
 Amazon Cricket	https://cors-proxy.cooks.fyi/https://aba5sdmaaaaaaaamkycwliah6buj4.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tgcrfjcgia/out/v1/7296f026409c4e9ba8844a238628f9ad/cenc.mpd``d1badeadb11f16bbd0ad7d47914d939e:bd52d185d3537c4c1759db6d66f90f31
 Amazon Cricket Plus	https://cors-proxy.cooks.fyi/https://aba5sdmaaaaaaaamibyasmmfoav3v.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/dmmqe7ssji/out/v1/3775f3d149f34a7a81d8cd7d58118e40/cenc.mpd``1105b85e6db6214e686e462206ed86ec:59d851187354b65fa2d14829046893ef
 Premiere 1 BR	https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/4zkafrcxji/out/v1/810ebca1aff0443da717da4acdeda158/cenc.mpd``d98239180d8380b3a1bb28d875b1ddf2:cf836ced579257d1c76ae8809818e6c4
