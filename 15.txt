@@ -1,9 +1,9 @@
 Moji 1	01`03c4.m3u8
-Indosiar 1	01`03c228.m3u8
 Moji 2	01`03d1803.m3u8
 Moji 3	01`03d4194.m3u8
-Indosiar 2	01`03d3517.m3u8
-Indosiar 3	01`03d4188.m3u8
+Indosiar 1	01`03d3517.m3u8
+Indosiar 2	01`03d4188.m3u8
+Indosiar 3	01`03c228.m3u8
 MNC 1	01`03d3520.m3u8
 MNC 2	01`03d4191.m3u8
 RCTI 1	01`03d3519.m3u8
