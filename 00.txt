@@ -1,6 +1,6 @@
 ID  Sport 4 Euro	https://dsgtq5sngxkde.cloudfront.net/live/eds/VplusLiveRplus/sa_hls/VplusLiveRplus.m3u8?c
 Sports 1 Euro & Copa America	https://katanaboss.online/chunklist/hlsch1.m3u8?7
-TSN 3 Copa America	https://livecdn-iptv001.rumsport.com/stream/772/manifest.mpd
+TSN 4 Copa America	https://livecdn-iptv001.rumsport.com/stream/773/manifest.mpd
 CTV 2 Copa America	`0https://live.sportsnews.id/p/ctv2.html
 BHRT UEFA Euro	https://webtvstream.bhtelecom.ba/hls19/bht1.mpd``c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 RTB Aneka Go Euro	https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
@@ -38,7 +38,7 @@ Arena Sport Premium 2	https://webtvstream.bhtelecom.ba/hls6/as_premium2.mpd``c18
 Arena Sport Premium 3	https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd``c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 TSN 1	https://livecdn-iptv001.rumsport.com/stream/770/manifest.mpd
 TSN 2	https://livecdn-iptv001.rumsport.com/stream/771/manifest.mpd
-TSN 4	https://livecdn-iptv001.rumsport.com/stream/773/manifest.mpd
+TSN 3	https://livecdn-iptv001.rumsport.com/stream/772/manifest.mpd
 TSN 5	https://livecdn-iptv001.rumsport.com/stream/774/manifest.mpd
 Live Sports HD 1	`0https://sportsonline.si/channels/hd/hd1.php
 Live Sports HD 2	`0https://sportsonline.si/channels/hd/hd2.php
@@ -51,10 +51,10 @@ Live Sports HD 8	`0https://sportsonline.si/channels/hd/hd8.php
 Live Sports HD 9	`0https://sportsonline.si/channels/hd/hd9.php
 Live Sports HD 10	`0https://sportsonline.si/channels/hd/hd10.php
 Live Sports HD 11	`0https://sportsonline.si/channels/hd/hd11.php
-Sports 2	https://katanaboss.online/chunklist/hlsch2.m3u8?7
-Sports 3	https://katanaboss.online/chunklist/hlsch3.m3u8?7
-Sports 4	https://katanaboss.online/chunklist/hlsch4.m3u8?7
-Sports 5	`0https://live.sportsnews.id/p/afcu23.html
+Sports 2	`0https://live.sportsnews.id/p/afcu23.html
+Sports 3	https://katanaboss.online/chunklist/hlsch2.m3u8?7
+Sports 4	https://katanaboss.online/chunklist/hlsch3.m3u8?7
+Sports 5	https://katanaboss.online/chunklist/hlsch4.m3u8?7
 DAZN F1	01`01a1601`01b
 DAZN 1 DE	01`01a1701`01b
 DAZN 2 DE	01`01a1801`01b
@@ -295,6 +295,7 @@ BE  RTL Sports	https://cors-proxy.cooks.fyi/https://tvvvideolive3.solocoo.tv/blu
 CCTV 5+	https://node1.olelive.com:6443/live/CCTV5PHD_360/hls.m3u8
 CCTV 16	https://node1.olelive.com:6443/live/CCTV16HD_360/hls.m3u8
 Now Sports 618	https://stream1.freetv.fun/now-sports-618-1.m3u8?7
+T Sports 7	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtsport3/index.m3u8
 Amazon Cricket	https://cors-proxy.cooks.fyi/https://aba5sdmaaaaaaaamkycwliah6buj4.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tgcrfjcgia/out/v1/7296f026409c4e9ba8844a238628f9ad/cenc.mpd``d1badeadb11f16bbd0ad7d47914d939e:bd52d185d3537c4c1759db6d66f90f31
 Amazon Cricket Plus	https://cors-proxy.cooks.fyi/https://aba5sdmaaaaaaaamibyasmmfoav3v.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/dmmqe7ssji/out/v1/3775f3d149f34a7a81d8cd7d58118e40/cenc.mpd``1105b85e6db6214e686e462206ed86ec:59d851187354b65fa2d14829046893ef
 Premiere 1 BR	https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/4zkafrcxji/out/v1/810ebca1aff0443da717da4acdeda158/cenc.mpd``d98239180d8380b3a1bb28d875b1ddf2:cf836ced579257d1c76ae8809818e6c4
@@ -475,7 +476,6 @@ Orange Sport 1	https://ott1.cyberhost.ro/sdash/LIVE$DolceSportHD/index.mpd/Manif
 Orange Sport 2	https://ott1.cyberhost.ro/sdash/LIVE$DolceSport2HD/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC``f75302cdb04a09e43f153095bcacd123:307bf889d92969ffd3014dddb67999f6
 Orange Sport 3	https://ott1.cyberhost.ro/sdash/LIVE$DolceSport3/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC``b87857ba74ce03f9fa2866f1e086d05d:1cd289ac71ce5fb306a5e7653192ce3a
 Orange Sport 4	https://ott1.cyberhost.ro/sdash/LIVE$DolceSport4/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC``202a927cd913101de765b0e5bb3f500f:cdd399869057bc34c827f257f562643a
-T Sports 7	https://cors-proxy.elfsight.com/https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0129/HLS/B0129.m3u8
 TH  Football 1	https://cors-proxy.elfsight.com/https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL001/HLS/TL001.m3u8
 TH  Football 2	https://cors-proxy.elfsight.com/https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL002/HLS/TL002.m3u8
 TH  Football 3	https://cors-proxy.elfsight.com/https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL003/HLS/TL003.m3u8
