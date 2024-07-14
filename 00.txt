@@ -1,6 +1,5 @@
 ID  Sport 4 Euro	https://dsgtq5sngxkde.cloudfront.net/live/eds/VplusLiveRplus/sa_hls/VplusLiveRplus.m3u8?c
 Sports 1 Euro & Copa America	https://katanaboss.online/chunklist/hlsch1.m3u8?7
-Sports 2 Euro & Copa America	`0https://live.sportsnews.id/p/afcu23.html
 BHRT UEFA Euro	https://webtvstream.bhtelecom.ba/hls19/bht1.mpd``c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 RTB Aneka Go Euro	https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
 CTV 1 UEFA Euro	`0https://live.sportsnews.id/p/ctv.html
@@ -51,9 +50,9 @@ Live Sports HD 8	`0https://sportsonline.si/channels/hd/hd8.php
 Live Sports HD 9	`0https://sportsonline.si/channels/hd/hd9.php
 Live Sports HD 10	`0https://sportsonline.si/channels/hd/hd10.php
 Live Sports HD 11	`0https://sportsonline.si/channels/hd/hd11.php
-Sports 3	https://katanaboss.online/chunklist/hlsch2.m3u8?7
-Sports 4	https://katanaboss.online/chunklist/hlsch3.m3u8?7
-Sports 5	https://katanaboss.online/chunklist/hlsch4.m3u8?7
+Sports 2	https://katanaboss.online/chunklist/hlsch2.m3u8?7
+Sports 3	https://katanaboss.online/chunklist/hlsch3.m3u8?7
+Sports 4	https://katanaboss.online/chunklist/hlsch4.m3u8?7
 DAZN F1	01`01a1601`01b
 DAZN 1 DE	01`01a1701`01b
 DAZN 2 DE	01`01a1801`01b
