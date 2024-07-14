@@ -1,20 +1,22 @@
-ID  Sport 4 Euro	https://dsgtq5sngxkde.cloudfront.net/live/eds/VplusLiveRplus/sa_hls/VplusLiveRplus.m3u8?c
-Sports 1 Euro & Copa America	https://katanaboss.online/chunklist/hlsch1.m3u8?7
-BHRT UEFA Euro	https://webtvstream.bhtelecom.ba/hls19/bht1.mpd``c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-RTB Aneka Go Euro	https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
-CTV 1 UEFA Euro	`0https://live.sportsnews.id/p/ctv.html
-ES  La1 Euro	https://cache3.zapitv.com/live/eds_c2/la1_4k/dash_live_enc/la1_4k.mpd``a3abc44525eef3b0a7af9138a9dbe34a:7740f8ae4223ce5ba293028f7f78f1c1
-CT Sport Euro	https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cbcs.mpd``11223344556677889900112233445566:11223344556677889900112233445566
-NL  Channel S Euro	https://live.vrtcdn.be/groupc/live/8edf3bdf-7db3-41c3-a318-72cb7f82de66/live.isml/.mpd``ef4daa3c90333621e4115ff1ca5bfbda:424c9902fce5a2e7dcbeb37ffc06b906
+ID  Sport 4 Copa America	https://dsgtq5sngxkde.cloudfront.net/live/eds/VplusLiveRplus/sa_hls/VplusLiveRplus.m3u8?c
+Sports 1 Copa America	https://katanaboss.online/chunklist/hlsch1.m3u8?7
+SportDigital Fussball Copa America	01`01a2201`01b
+Arena Sport Premium 1 Copa America	https://webtvstream.bhtelecom.ba/hls6/as_premium1.mpd``c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+VTC Copa America	https://liveh12.vtvcab.vn/hls/ONVTC1_CL/index.m3u8
+CTV 2 Copa America	`0https://live.sportsnews.id/p/ctv2.html
+RTB Aneka Go	https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
+BHRT	https://webtvstream.bhtelecom.ba/hls19/bht1.mpd``c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+ES  La1	https://cache3.zapitv.com/live/eds_c2/la1_4k/dash_live_enc/la1_4k.mpd``a3abc44525eef3b0a7af9138a9dbe34a:7740f8ae4223ce5ba293028f7f78f1c1
+CT Sport	https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cbcs.mpd``11223344556677889900112233445566:11223344556677889900112233445566
+NL  Channel S	https://live.vrtcdn.be/groupc/live/8edf3bdf-7db3-41c3-a318-72cb7f82de66/live.isml/.mpd``ef4daa3c90333621e4115ff1ca5bfbda:424c9902fce5a2e7dcbeb37ffc06b906
 Sky Sport Uno	https://linear301-it-dash1-prd-akg0.cdn13.skycdp.com/31023/FHD/skysportuno/master_stereo.mpd``0036dc70e4d659fe5ae57b52793a1ff3:55517f806b6be917c2bf0e9cf9acc44f
 Sky Sport Calcio	https://linear301-it-dash1-prd-akg0.cdn13.skycdp.com/31209/FHD/skysportseriea/master.mpd``00369a2c69176d5a2deff777247b6637:e122d4bad34c1e430ee349f5aac0060b
-Sky Sport 251 Euro	https://linear311-it-dash1-prd-akg0.cdn13.skycdp.com/31917/FHD/skysport251/master.mpd``0036422cf4293ae7cf1e7f7062cc29e8:37a223fcc17c087043bc837432fd25d8
-RTL Euro	https://pnowlive-a.akamaized.net/live/rtlhd/dash/rtlhd.mpd``57e48b99f3f6d4f13f5c5afdcca084ca:29379a5e2d3405fad2f5d9cbe92586c3
-NRK1 Euro	https://rikstv-live-scalstrm.telenorcdn.net/live/rikstv/64393b4f1dbc891fd41f5242/manifest.mpd``01010101010101010101010101010101:01010101010101010101010101010101
-Markiza Sport Euro	https://dash2.antik.sk/stream/nvidia_markiza/playlist_cenc.mpd``11223344556677889900112233445566:11223344556677889900112233445566
-VTC Copa America	https://liveh12.vtvcab.vn/hls/ONVTC1_CL/index.m3u8
+Sky Sport 251	https://linear311-it-dash1-prd-akg0.cdn13.skycdp.com/31917/FHD/skysport251/master.mpd``0036422cf4293ae7cf1e7f7062cc29e8:37a223fcc17c087043bc837432fd25d8
+RTL	https://pnowlive-a.akamaized.net/live/rtlhd/dash/rtlhd.mpd``57e48b99f3f6d4f13f5c5afdcca084ca:29379a5e2d3405fad2f5d9cbe92586c3
+NRK1	https://rikstv-live-scalstrm.telenorcdn.net/live/rikstv/64393b4f1dbc891fd41f5242/manifest.mpd``01010101010101010101010101010101:01010101010101010101010101010101
+Markiza Sport	https://dash2.antik.sk/stream/nvidia_markiza/playlist_cenc.mpd``11223344556677889900112233445566:11223344556677889900112233445566
 RU  Match! Premier	https://proji.glitch.me/https://video.beeline.tv/live/d/channel318.isml/manifest-stb.mpd``2bb7b314771ed5eeddd8f44a9aa42740:01f2a8f11bd891655a752c1749f478ec
-CTV 2 Copa America	`0https://live.sportsnews.id/p/ctv2.html
+CTV 1	`0https://live.sportsnews.id/p/ctv.html
 TV 2 Sport 1	https://rikstv-live-scalstrm.telenorcdn.net/live/rikstv/64393bf81dbc891fd41f53ac/manifest.mpd``0c6212056d2f51fcbf569f9a1a8517d1:d07b404deb7c958347d742e6d1d2f3f9
 TV 2 Sport Premium	https://ch11-hls-live.akamaized.net/out/u/433127.mpd``d12e4c9dc52f4cbab7ac9b2278317e47:a7987e5b6ec42db68a25486e108ca9f2
 Premier Sport 1	https://olam.telka.uk/premiersport_JnD4eF8ALBI4HWrUOpDMUj9sqakB/playlist.mpd
@@ -31,7 +33,6 @@ TNT Sports 2	https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc
 TNT Sports 3	https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd``4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
 TNT Sports 4	https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd``e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729
 TNT Sports 5	https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/gesdwrdncn/out/v1/79e752f1eccd4e18b6a8904a0bc01f2d/cenc.mpd``60c0d9b41475e01db4ffb91ed557fbcc:36ee40e58948ca15e3caba8d47b8f34b
-Arena Sport Premium 1	https://webtvstream.bhtelecom.ba/hls6/as_premium1.mpd``c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 Arena Sport Premium 2	https://webtvstream.bhtelecom.ba/hls6/as_premium2.mpd``c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 Arena Sport Premium 3	https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd``c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 TSN 1	https://livecdn-iptv001.rumsport.com/stream/770/manifest.mpd
@@ -95,7 +96,7 @@ DAZN Eleven League 03	01`01chttps://tvvvideolive3.solocoo.tv:443/blueskytvvlive7
 ID  RCTI 1	https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-2/sa_hls/rcti-2.m3u8?c
 ID  RCTI 2	https://rcti-cutv.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
 ID  PSJ TV	https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
-ID  Football Euro	https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_hls/rcti-soccerchannel-hd.m3u8?c
+ID  Football	https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_hls/rcti-soccerchannel-hd.m3u8?c
 ID  Sport 1	https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar/sa_hls/rcti-sportstar.m3u8?c
 ID  Sport 2	https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar2/sa_hls/rcti-sportstar2.m3u8?c
 ID  Sport 3	https://melon-live-cdn.mncnow.id/live/eds/mncsport3/sa_hls/mncsport3.m3u8
@@ -145,10 +146,10 @@ beIN Sports 3 FR	`0https://popcdn.day/go.php?stream=BEINSPORT3FR
 beIN Sports 1 TR	`0https://popcdn.day/go.php?stream=beINSPORTS1TR
 beIN Sports 2 TR	`0https://popcdn.day/go.php?stream=beINSPORTS2TR
 beIN Sports 3 TR	`0https://popcdn.day/go.php?stream=beINSPORTS3TR
-CCTV 5 Euro	https://node1.olelive.com:6443/live/CCTV5HD_360/hls.m3u8
+CCTV 5	https://node1.olelive.com:6443/live/CCTV5HD_360/hls.m3u8
 QAZ Sport Premium	https://gameslive.akamaized.net/hls/live-97eee134-2b19-4781-b794-04d3490229e4_720p2800kbs/index.m3u8
-RU  Match! Euro	https://proji.glitch.me/https://video.beeline.tv/live/d/channel317.isml/manifest-stb.mpd``5e1c798b16d24dc8cbfc7819abf77b4d:4ba5d9aeba2239b425d1cf7b45474333
-QAZ Sport Euro	https://proji.glitch.me/https://bkm.beetv.kz/btv/live/hls/000003038.m3u8
+RU  Match!	https://proji.glitch.me/https://video.beeline.tv/live/d/channel317.isml/manifest-stb.mpd``5e1c798b16d24dc8cbfc7819abf77b4d:4ba5d9aeba2239b425d1cf7b45474333
+QAZ Sport	https://proji.glitch.me/https://bkm.beetv.kz/btv/live/hls/000003038.m3u8
 Go3 Sport 1	https://proji.glitch.me/https://tr.live.cdn.cgates.lt/live/dash/560502/index.mpd``f48a8131e05f4d6e84de19f086c781a6:fd28f2f966a906f4d4dcfd72ae90094e
 Go3 Sport 2	https://proji.glitch.me/https://tr.live.cdn.cgates.lt/live/dash/560505/index.mpd``8315b1996d92477b965cb29100a3dc07:0081c0674e9047e219caa27a07da9d4b
 Go3 Sport 3	https://proji.glitch.me/https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport3_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport3_HD_HVC.mpd``a2a75672057f462089c2849b8184fcb0:94899cace4911c617c27d8f878de2b43
@@ -373,14 +374,14 @@ ViaPlay Extra 12	https://cors-proxy.mcjeffr.com/https://live-dash-cdn7-vp.cdn.vi
 NO  TV 3	https://cors-proxy.mcjeffr.com/https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra100/xtra100.isml/index.mpd``b08d9804e8ea51bb8d71fd4bf77c3f5b:b9fe3237a5f11a2a084264074b125c9c
 RMC Sport 1	https://raw.githubusercontent.com/uploadplaylist/clon/main/rmcsport1.m3u8
 RMC Sport 2	https://raw.githubusercontent.com/uploadplaylist/clon/main/rmcsport2.m3u8
-BBC 1 Euro	https://da-3efc67472a028801000600020000000000000007.id.cdn.upcbroadband.com/wp/wp1-obc1112-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV09091/manifest.mpd``6401e1fead9d4f43910aaad360f46dd0:598f5e4f10d4e040d25579478cadc4ee
-BBC 2 Euro	https://da-3efc67472a028801000600020000000000000007.id.cdn.upcbroadband.com/wp/wp1-obc1112-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV09003/manifest.mpd``4af943b2626c4eb2b3a49f412204ce59:d62226a1df341e526e39a38501050048
-BBC 3 Euro	https://da-3efc67472a028801000600020000000000000007.id.cdn.upcbroadband.com/wp/wp1-obc1112-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV09093/manifest.mpd``4a50525c66084589983d260a52808f59:04ebf492aec2c867560092a956bf51b6
-BBC 4 Euro	https://da-3efc67472a028801000600020000000000000007.id.cdn.upcbroadband.com/wp/wp1-obc1112-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV09095/manifest.mpd``d96572a0a9dd440b88c27268dc133399:4c1facad62ea4d7dd3ac59047520aa78
-itv 1 Sport Euro	https://da-d436236920010b8800010303000000000000000b.id.cdn.upcbroadband.com/wp/wp2-obc1112-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV09212/manifest.mpd``5d9937d586414096948337ac314d79c1:22ca2e250b729982c97209e0ff3f7e9b
-itv 2 Sport Euro	https://da-d436236920010b8800010303000000000000000b.id.cdn.upcbroadband.com/wp/wp1-obc0910-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV09214/manifest.mpd``cf2957d9327e42eebde873dcb48a7b7f:4ef5e263bbaf80d8daa9593d420d33d0
-IT  Rai 1 Euro	https://da-d436236920010b8800010303000000000000000b.id.cdn.upcbroadband.com/wp/wp1-obc1112-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV09101/manifest.mpd``d79467df269743b3aca99a9171c54878:a7d3bc19bd09db6b581833e4a6176c8f
-IT  Rai 2 Euro	https://da-d436236920010b8800010303000000000000000b.id.cdn.upcbroadband.com/wp/wp1-obc1112-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV09103/manifest.mpd``8398533768ae49be862f458edc78f828:609273c26c31a4090310e3945c0db5df
+BBC 1	https://da-3efc67472a028801000600020000000000000007.id.cdn.upcbroadband.com/wp/wp1-obc1112-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV09091/manifest.mpd``6401e1fead9d4f43910aaad360f46dd0:598f5e4f10d4e040d25579478cadc4ee
+BBC 2	https://da-3efc67472a028801000600020000000000000007.id.cdn.upcbroadband.com/wp/wp1-obc1112-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV09003/manifest.mpd``4af943b2626c4eb2b3a49f412204ce59:d62226a1df341e526e39a38501050048
+BBC 3	https://da-3efc67472a028801000600020000000000000007.id.cdn.upcbroadband.com/wp/wp1-obc1112-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV09093/manifest.mpd``4a50525c66084589983d260a52808f59:04ebf492aec2c867560092a956bf51b6
+BBC 4	https://da-3efc67472a028801000600020000000000000007.id.cdn.upcbroadband.com/wp/wp1-obc1112-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV09095/manifest.mpd``d96572a0a9dd440b88c27268dc133399:4c1facad62ea4d7dd3ac59047520aa78
+itv 1 Sport	https://da-d436236920010b8800010303000000000000000b.id.cdn.upcbroadband.com/wp/wp2-obc1112-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV09212/manifest.mpd``5d9937d586414096948337ac314d79c1:22ca2e250b729982c97209e0ff3f7e9b
+itv 2 Sport	https://da-d436236920010b8800010303000000000000000b.id.cdn.upcbroadband.com/wp/wp1-obc0910-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV09214/manifest.mpd``cf2957d9327e42eebde873dcb48a7b7f:4ef5e263bbaf80d8daa9593d420d33d0
+IT  Rai 1	https://da-d436236920010b8800010303000000000000000b.id.cdn.upcbroadband.com/wp/wp1-obc1112-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV09101/manifest.mpd``d79467df269743b3aca99a9171c54878:a7d3bc19bd09db6b581833e4a6176c8f
+IT  Rai 2	https://da-d436236920010b8800010303000000000000000b.id.cdn.upcbroadband.com/wp/wp1-obc1112-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV09103/manifest.mpd``8398533768ae49be862f458edc78f828:609273c26c31a4090310e3945c0db5df
 Channel 4	https://da-d436236920010b8800010303000000000000000b.id.cdn.upcbroadband.com/wp/wp2-obc1112-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV09211/manifest.mpd``d56ff9db826b4a41af9dbd0234c31116:ac6eaee980dff46e15670004663132a9
 Ziggo Sport	https://da-d436236920010b8800010303000000000000000b.id.cdn.upcbroadband.com/wp/wp7-vxtoken-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000014_019661/_shared_6a89db18ec4202bae4d424e84c1f46a2/NL_000014_019661.mpd``0be3d503dba13fc9a9c8ad4b89f599e6:578c2231c526c5e9eb415411e36871bf
 Ziggo Select	https://da-d436236720010b88000103030000000000000009.id.cdn.upcbroadband.com/wp/wp1-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000094_019321/_shared_cc010062b17300c4504b6ab5681b5417/NL_000094_019321.mpd``16bf72dc22743d929c4318e193408373:eae51a1e3904124963074cbf432c7c8e
@@ -451,8 +452,8 @@ Badminton 1	`0https://hls.123movie.win/?ftm=https://lebo.huminbird.cn/live/ballb
 Badminton 2	`0https://hls.123movie.win/?ftm=https://lebo.huminbird.cn/live/ballbar_37900.m3u8
 Youth Football Arena 1	https://channel-e3a5e184c3f5710d.live.sportall.media/IiANTo7nKemR.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjIwMjMwOTI4Xzk0YzZjNzQ0ODhlNTA3ODk1YjAxIn0.eyJpcCI6ZmFsc2UsImNvIjpmYWxzZSwiY3R5IjpmYWxzZSwicmVnIjpmYWxzZSwic3NuIjp0cnVlLCJleHAiOjE3MTc4NjE1MzAsImhlYWRlcnMiOltdLCJxcyI6W10sImludHNpZyI6IkFpZzFKRzkxYTc1UFZxUnFnUXBSSzFFM01ub2d4T3BtSzMzY2dyWG13bWsiLCJwYXRocyI6WyIvb3V0L3YxLzE4ZmUyY2VkYzc0ODQxZmU4NDVmZDAyYzk3ODBhOGUwLyJdLCJleGMiOlsiL3RtLyJdLCJuYmYiOjE2NDUwMDAwMDAsImlhdCI6MTcxNzY4ODczMH0.wVVFksvN4PVYUTs5bqgfzOaZhQtiz48dctMyhFHJ3T4/out/v1/18fe2cedc74841fe845fd02c9780a8e0/index.m3u8
 Youth Football Arena 2	https://channel-b5340f166c1838b7.live.sportall.media/5V6KUykxmRMm.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjIwMjMwOTI4Xzk0YzZjNzQ0ODhlNTA3ODk1YjAxIn0.eyJpcCI6ZmFsc2UsImNvIjpmYWxzZSwiY3R5IjpmYWxzZSwicmVnIjpmYWxzZSwic3NuIjp0cnVlLCJleHAiOjE3MTc4NTYxNTUsImhlYWRlcnMiOltdLCJxcyI6W10sImludHNpZyI6IjlHT0UteFdVbFVRRktYbUkxLXRhMXN4RUJnT2JLeWtkSENwODJzNUpMN3ciLCJwYXRocyI6WyIvb3V0L3YxLzdlMDhkMzBiZTUxZTQ0MGJhMjM5MjY4ODE5ZTNmOWJjLyJdLCJleGMiOlsiL3RtLyJdLCJuYmYiOjE2NDUwMDAwMDAsImlhdCI6MTcxNzY4MzM1NX0.2LeCh7BlmYGWXjGiBej_UdUv8332-zQ7XQSfmPqKLzc/out/v1/7e08d30be51e440ba239268819e3f9bc/index_5.m3u8?start=1717677880
-TV360 Euro	https://live-bd2.tv360.vn/lG-MXTyOwt8hQ__f5PJD7A/1719056883/manifest/sukien/playlist_720p.m3u8?manifestfilter=video_bitrate:1-3600000&uid=231754708
-CN  Euro Live	https://lebo.huminbird.cn/live/ballbar_22420.m3u8
+TV360	https://live-bd2.tv360.vn/lG-MXTyOwt8hQ__f5PJD7A/1719056883/manifest/sukien/playlist_720p.m3u8?manifestfilter=video_bitrate:1-3600000&uid=231754708
+CN  Live Sports	https://lebo.huminbird.cn/live/ballbar_22420.m3u8
 PT  OneToro	https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$MundotoroTV_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
 PT  Eleven 1	https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Eleven_Sports_1_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
 PT  Eleven 2	https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Eleven_Sports_2_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
@@ -536,15 +537,15 @@ MY  Astro SuperSport 2	`0https://go.now.net.eu.org/p/lol/live?embed=assp2&type=m
 MY  Astro SuperSport 4	`0https://go.now.net.eu.org/p/lol/live?embed=assp4&type=m
 TVMax Copa America	https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
 TH  PPTV 36TV	https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/36/36.mpd``0aeffa7753674e77b99443fac7757b8a:b8c8a462008a40aa91823e0b02e8dd31
-TH  30TV Euro	https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/30/30.mpd``b8c8a462008a40aa91823e0b02e8dd31:4b2bff3e598043cfaf949305e3d153fa
+TH  30TV	https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/30/30.mpd``b8c8a462008a40aa91823e0b02e8dd31:4b2bff3e598043cfaf949305e3d153fa
 TH  3BB Sports 1	https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/401/401.mpd``678bbba596584ad895d2923fb0255e82:c55471086c824112b217743a31abdf8f
-La Une Euro	https://daiconnect.com/live/dash/rtbf/laune-premium-drm-2/.mpd``1a8315e4b64c4e638dc24d93134b9b2d:2821b54058fb3adc9c6252c631aef9e5
-Daserste Euro	https://p7s1-live-001-prod.akamaized.net/28df258a/t_009/daserste-de-hd/cenc-default.mpd``667f821486adfa6df62b53e41fe60c65:be65cc2c378180153cbac97bc6ab8625
-ZDF Euro	https://p7s1-live-001-prod.akamaized.net/45371d5a/t_009/zdf-de-hd/cenc-default.mpd``7757d3fa8cdab673a2dd9f3ed7b41360:96e498b70eeecfc0164ed4e0a78e36f3
-TRT1 Canli Euro	https://d1u68oyra9spme.cloudfront.net/master.m3u8
+La Une	https://daiconnect.com/live/dash/rtbf/laune-premium-drm-2/.mpd``1a8315e4b64c4e638dc24d93134b9b2d:2821b54058fb3adc9c6252c631aef9e5
+Das Erste	https://p7s1-live-001-prod.akamaized.net/28df258a/t_009/daserste-de-hd/cenc-default.mpd``667f821486adfa6df62b53e41fe60c65:be65cc2c378180153cbac97bc6ab8625
+ZDF	https://p7s1-live-001-prod.akamaized.net/45371d5a/t_009/zdf-de-hd/cenc-default.mpd``7757d3fa8cdab673a2dd9f3ed7b41360:96e498b70eeecfc0164ed4e0a78e36f3
+TRT1 Canli	https://d1u68oyra9spme.cloudfront.net/master.m3u8
 SportItalia Copa America	https://di-j16ei4yq.vo.lswcdn.net/sportitalia/smil:sihd.smil/chunklist.m3u8
-TV 2 Sport Euro	https://skytest.starlive.workers.dev/https://aws-appeartv-cdn.rikstv.no/rikstv/1/11/dash/TV2_HD/manifest.mpd``bfb0134de69d76d25b5b4b202df11431:025915bd3062c4bde44a13916c5bfefe
-Tipik Euro	https://daiconnect.com/live/dash/rtbf/tipik-premium-drm-2/.mpd``2f794d3c19854f4fa6f0183b993b86fa:37077d010758ce2cb85ca46720884b01
+TV 2 Sport	https://skytest.starlive.workers.dev/https://aws-appeartv-cdn.rikstv.no/rikstv/1/11/dash/TV2_HD/manifest.mpd``bfb0134de69d76d25b5b4b202df11431:025915bd3062c4bde44a13916c5bfefe
+Tipik	https://daiconnect.com/live/dash/rtbf/tipik-premium-drm-2/.mpd``2f794d3c19854f4fa6f0183b993b86fa:37077d010758ce2cb85ca46720884b01
 NO  TV 3 Plus	https://skytest.starlive.workers.dev/https://aws-appeartv-cdn.rikstv.no/rikstv/708/2/dash/Viasat4/manifest.mpd``bc603bd4cbdaae7f9debc7accca10266:bb2ed19b76e7bd6cb8ad228b4a79827c
 Sky Sport News	https://skytest.starlive.workers.dev/https://linear030-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_120/Live/channel(skysportsnews)/manifest_720.mpd``00057bfb9cf2fc40b5ed61f9c8a41d54:cb9908093e35e3c3f7db06f55913cce0
 ES  EuroSports 1	https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:43_HD.smil/manifest.m3u8
