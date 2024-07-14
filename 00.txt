@@ -1,5 +1,6 @@
 ID  Sport 4 Euro	https://dsgtq5sngxkde.cloudfront.net/live/eds/VplusLiveRplus/sa_hls/VplusLiveRplus.m3u8?c
 Sports 1 Euro & Copa America	https://katanaboss.online/chunklist/hlsch1.m3u8?7
+Sports 2 Euro & Copa America	`0https://live.sportsnews.id/p/afcu23.html
 BHRT UEFA Euro	https://webtvstream.bhtelecom.ba/hls19/bht1.mpd``c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 RTB Aneka Go Euro	https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
 CTV 1 UEFA Euro	`0https://live.sportsnews.id/p/ctv.html
@@ -18,7 +19,6 @@ CTV 2 Copa America	`0https://live.sportsnews.id/p/ctv2.html
 TV 2 Sport 1	https://rikstv-live-scalstrm.telenorcdn.net/live/rikstv/64393bf81dbc891fd41f53ac/manifest.mpd``0c6212056d2f51fcbf569f9a1a8517d1:d07b404deb7c958347d742e6d1d2f3f9
 TV 2 Sport Premium	https://ch11-hls-live.akamaized.net/out/u/433127.mpd``d12e4c9dc52f4cbab7ac9b2278317e47:a7987e5b6ec42db68a25486e108ca9f2
 Premier Sport 1	https://olam.telka.uk/premiersport_JnD4eF8ALBI4HWrUOpDMUj9sqakB/playlist.mpd
-La Une Euro	https://daiconnect.com/live/dash/rtbf/laune-premium-drm-2/.mpd``1a8315e4b64c4e638dc24d93134b9b2d:2821b54058fb3adc9c6252c631aef9e5
 NL  NPO 1	https://nlziet-live.akamaized.net/L6/76fd047c/c427bd9d.isml/.mpd``7545f9301bf94e7a9132dccf32920e51:94fc134c1b1cb1ea9075781417eca48b
 NL  NPO 2	https://nlziet-live.akamaized.net/L27/576200ff/17f23d2b.isml/.mpd``cd2e51e9dadd4e38b2b8df5680f7aa43:ce1083c14ed247bbc693bbe6bf0fd36b
 NL  NPO 3	https://nlziet-live.akamaized.net/L7/7be0c2b0/358f270a.isml/.mpd``fe20b1562fc045caa0e341cfad93e153:cea73dbdf65c288dbff24ad6af8d535e
@@ -51,7 +51,6 @@ Live Sports HD 8	`0https://sportsonline.si/channels/hd/hd8.php
 Live Sports HD 9	`0https://sportsonline.si/channels/hd/hd9.php
 Live Sports HD 10	`0https://sportsonline.si/channels/hd/hd10.php
 Live Sports HD 11	`0https://sportsonline.si/channels/hd/hd11.php
-Sports 2	`0https://live.sportsnews.id/p/afcu23.html
 Sports 3	https://katanaboss.online/chunklist/hlsch2.m3u8?7
 Sports 4	https://katanaboss.online/chunklist/hlsch3.m3u8?7
 Sports 5	https://katanaboss.online/chunklist/hlsch4.m3u8?7
@@ -540,6 +539,7 @@ TVMax Copa America	https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d
 TH  PPTV 36TV	https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/36/36.mpd``0aeffa7753674e77b99443fac7757b8a:b8c8a462008a40aa91823e0b02e8dd31
 TH  30TV Euro	https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/30/30.mpd``b8c8a462008a40aa91823e0b02e8dd31:4b2bff3e598043cfaf949305e3d153fa
 TH  3BB Sports 1	https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/401/401.mpd``678bbba596584ad895d2923fb0255e82:c55471086c824112b217743a31abdf8f
+La Une Euro	https://daiconnect.com/live/dash/rtbf/laune-premium-drm-2/.mpd``1a8315e4b64c4e638dc24d93134b9b2d:2821b54058fb3adc9c6252c631aef9e5
 Daserste Euro	https://p7s1-live-001-prod.akamaized.net/28df258a/t_009/daserste-de-hd/cenc-default.mpd``667f821486adfa6df62b53e41fe60c65:be65cc2c378180153cbac97bc6ab8625
 ZDF Euro	https://p7s1-live-001-prod.akamaized.net/45371d5a/t_009/zdf-de-hd/cenc-default.mpd``7757d3fa8cdab673a2dd9f3ed7b41360:96e498b70eeecfc0164ed4e0a78e36f3
 TRT1 Canli Euro	https://d1u68oyra9spme.cloudfront.net/master.m3u8
