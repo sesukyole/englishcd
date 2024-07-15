@@ -46,43 +46,6 @@ Sports 1	https://katanaboss.online/chunklist/hlsch1.m3u8?7
 Sports 2	https://katanaboss.online/chunklist/hlsch2.m3u8?7
 Sports 3	https://katanaboss.online/chunklist/hlsch3.m3u8?7
 Sports 4	https://katanaboss.online/chunklist/hlsch4.m3u8?7
-DAZN F1	01`01a1601`01b
-DAZN 1 DE	01`01a1701`01b
-DAZN 2 DE	01`01a1801`01b
-SportDigital Fussball	01`01a2201`01b
-NFL	01`01a2301`01b
-Zona DAZN	01`01a2401`01b
-Milan TV	01`01a2501`01b
-MLB	01`01a2601`01b
-EuroSport 1 DE	01`01a2701`01b
-EuroSport 2 DE	01`01a2801`01b
-EuroSport 1 IT	01`01a2901`01b
-EuroSport 2 IT	01`01a3001`01b
-EuroSport 1 ES	01`01a3101`01b
-EuroSport 2 ES	01`01a3201`01b
-Inter TV	01`01a3301`01b
-DAZN NBA	01`01a3501`01b
-Redbull TV	01`01a3601`01b
-DAZN 1 ES	01`01a3701`01b
-DAZN 2 ES	01`01a3801`01b
-LaLiga Live HyperMotion	01`01a4001`01b
-DAZN LaLiga	01`01a4301`01b
-Unbeaten	01`01a4401`01b
-DAZN 1 US	01`01a4501`01b
-Canal+ Ligue1 Uber Eats	01`01a4601`01b
-DAZN Eleven 1 ES	01`01a4701`01b
-DAZN Eleven 1 ES	01`01a4801`01b
-DAZN Eleven 01	01`01a4901`01b
-DAZN Eleven League 01	01`01a5001`01b
-PlaySports 1	01`01a5101`01b
-PlaySports 2	01`01a5201`01b
-PlaySports 3	01`01a5301`01b
-DAZN Eleven 1	01`01a5401`01b
-DAZN Eleven 2	01`01a5501`01b
-DAZN Eleven 3	01`01a5601`01b
-DAZN Eleven 4	01`01a5701`01b
-DAZN Eleven 5	01`01a5801`01b
-DAZN Eleven 6	01`01a5901`01b
 DAZN Eleven League 02	01`01chttps://tvvvideolive3.solocoo.tv:443/blueskytvvlive7dash/blueelevenproleague2nl/Manifest.mpd``16251e842a834570a8c5a34d45a0d64d:b7243739698cad0d58af01f142d13eae
 DAZN Eleven League 03	01`01chttps://tvvvideolive3.solocoo.tv:443/blueskytvvlive7dash/blueelevenproleague3nl/Manifest.mpd``c6455c5a1ad1484fa4029ba498659838:4329fb08c3444a8ae9b3c477efe11002
 ID  RCTI 1	https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-2/sa_hls/rcti-2.m3u8?c
@@ -333,6 +296,43 @@ Mola 5	https://live.mocdn.tv/out/v1/678ab9a54d9844568af751dcaf418d97/manifest_L1
 Mola 7	https://live.mocdn.tv/out/v1/b717678459734384aaa98316895d5a2a/manifest_L1.mpd``3e17c3798a294c49b93c1b2ddbcd8f29:0917fa8c9cf68c206efc24946d0c22cc
 Fox Sports 1 Copa	https://cors-proxy.cooks.fyi/https://linear.stvacdn.spectrum.com/LIVE/5239/bpk-tv/00700/drm/manifest.mpd``ff18f095bc835e8d902be9420438729e:bbfdc8de223e8b33144d5c718f01f58b
 Fox Sports 2	https://cors-proxy.cooks.fyi/https://linear.stvacdn.spectrum.com/LIVE/5099/bpk-tv/00564/drm/manifest.mpd``a9197045dfec5a2391fa29fc430783d8:25a184fd32ff2022772bcc72b777489d
+DAZN F1	01`01a1601`01b
+DAZN 1 DE	01`01a1701`01b
+DAZN 2 DE	01`01a1801`01b
+SportDigital Fussball	01`01a2201`01b
+NFL	01`01a2301`01b
+Zona DAZN	01`01a2401`01b
+Milan TV	01`01a2501`01b
+MLB	01`01a2601`01b
+EuroSport 1 DE	01`01a2701`01b
+EuroSport 2 DE	01`01a2801`01b
+EuroSport 1 IT	01`01a2901`01b
+EuroSport 2 IT	01`01a3001`01b
+EuroSport 1 ES	01`01a3101`01b
+EuroSport 2 ES	01`01a3201`01b
+Inter TV	01`01a3301`01b
+DAZN NBA	01`01a3501`01b
+Redbull TV	01`01a3601`01b
+DAZN 1 ES	01`01a3701`01b
+DAZN 2 ES	01`01a3801`01b
+LaLiga Live HyperMotion	01`01a4001`01b
+DAZN LaLiga	01`01a4301`01b
+Unbeaten	01`01a4401`01b
+DAZN 1 US	01`01a4501`01b
+Canal+ Ligue1 Uber Eats	01`01a4601`01b
+DAZN Eleven 1 ES	01`01a4701`01b
+DAZN Eleven 1 ES	01`01a4801`01b
+DAZN Eleven 01	01`01a4901`01b
+DAZN Eleven League 01	01`01a5001`01b
+PlaySports 1	01`01a5101`01b
+PlaySports 2	01`01a5201`01b
+PlaySports 3	01`01a5301`01b
+DAZN Eleven 1	01`01a5401`01b
+DAZN Eleven 2	01`01a5501`01b
+DAZN Eleven 3	01`01a5601`01b
+DAZN Eleven 4	01`01a5701`01b
+DAZN Eleven 5	01`01a5801`01b
+DAZN Eleven 6	01`01a5901`01b
 MY  Masters 2024 Court 2	`0https://www.youtube.com/embed/t6ALEwdpJ0c
 MY  Masters 2024 Court 3	`0https://www.youtube.com/embed/1XfuEnVhfm8
 MY  Masters 2024 Court 4	`0https://www.youtube.com/embed/UhJ6eUnKhn4
