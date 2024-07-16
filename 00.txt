@@ -12,8 +12,6 @@ RU  Match! Premier	https://proji.glitch.me/https://video.beeline.tv/live/d/chann
 Sky Sport Uno	https://linear301-it-dash1-prd-akg0.cdn13.skycdp.com/31023/FHD/skysportuno/master_stereo.mpd``0036dc70e4d659fe5ae57b52793a1ff3:55517f806b6be917c2bf0e9cf9acc44f
 Sky Sport Calcio	https://linear301-it-dash1-prd-akg0.cdn13.skycdp.com/31209/FHD/skysportseriea/master.mpd``00369a2c69176d5a2deff777247b6637:e122d4bad34c1e430ee349f5aac0060b
 Sky Sport 251	https://linear311-it-dash1-prd-akg0.cdn13.skycdp.com/31917/FHD/skysport251/master.mpd``0036422cf4293ae7cf1e7f7062cc29e8:37a223fcc17c087043bc837432fd25d8
-CTV 1	`0https://live.sportsnews.id/p/ctv.html
-CTV 2	`0https://live.sportsnews.id/p/ctv2.html
 TV 2 Sport 1	https://rikstv-live-scalstrm.telenorcdn.net/live/rikstv/64393bf81dbc891fd41f53ac/manifest.mpd``0c6212056d2f51fcbf569f9a1a8517d1:d07b404deb7c958347d742e6d1d2f3f9
 TV 2 Sport Premium	https://ch11-hls-live.akamaized.net/out/u/433127.mpd``d12e4c9dc52f4cbab7ac9b2278317e47:a7987e5b6ec42db68a25486e108ca9f2
 Premier Sport 1	https://olam.telka.uk/premiersport_JnD4eF8ALBI4HWrUOpDMUj9sqakB/playlist.mpd
@@ -335,6 +333,8 @@ DAZN Eleven 3	01`01a5601`01b
 DAZN Eleven 4	01`01a5701`01b
 DAZN Eleven 5	01`01a5801`01b
 DAZN Eleven 6	01`01a5901`01b
+CTV 1	`0https://live.sportsnews.id/p/ctv.html
+CTV 2	`0https://live.sportsnews.id/p/ctv2.html
 MY  Masters 2024 Court 2	`0https://www.youtube.com/embed/t6ALEwdpJ0c
 MY  Masters 2024 Court 3	`0https://www.youtube.com/embed/1XfuEnVhfm8
 MY  Masters 2024 Court 4	`0https://www.youtube.com/embed/UhJ6eUnKhn4
