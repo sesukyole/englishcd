@@ -103,7 +103,6 @@ beIN Sports 2 TR	`0https://popcdn.day/go.php?stream=beINSPORTS2TR
 beIN Sports 3 TR	`0https://popcdn.day/go.php?stream=beINSPORTS3TR
 VTC	https://liveh12.vtvcab.vn/hls/ONVTC1_CL/index.m3u8
 KH  Hang Meas HDTV	https://corsanywhere-jqogydb25a-uc.a.run.app/http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/playlist.m3u8
-TH  T Sports 7	https://proji.glitch.me/https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtsport3/index.m3u8
 CCTV 5	https://node3.olelive.com:6443/live/CCTV5HD/hls.m3u8
 QAZ Sport Premium	https://gameslive.akamaized.net/hls/live-97eee134-2b19-4781-b794-04d3490229e4_720p2800kbs/index.m3u8
 RU  Match!	https://proji.glitch.me/https://video.beeline.tv/live/d/channel317.isml/manifest-stb.mpd``5e1c798b16d24dc8cbfc7819abf77b4d:4ba5d9aeba2239b425d1cf7b45474333
@@ -251,12 +250,13 @@ US  SportStak	https://dcj-ak-livedazn.akamaized.net/dash/dazn-linear-520/stream.
 BE  RTL Sports	https://cors-proxy.cooks.fyi/https://tvvvideolive3.solocoo.tv/blueskytvvlive7dash/bluertlclubhd/Manifest.mpd``0993fbc9c0f242e8bab9483484ff974e:08d3d32f7efefb22a7a865f81b5c8276
 CCTV 5+	https://node3.olelive.com:6443/live/CCTV5HD/hls.m3u8
 CCTV 16	https://node3.olelive.com:6443/live/CCTV16HD/hls.m3u8
-Now Sports 618	https://stream1.freetv.fun/now-sports-618-1.m3u8?7
 Amazon Cricket	https://cors-proxy.cooks.fyi/https://aba5sdmaaaaaaaamkycwliah6buj4.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tgcrfjcgia/out/v1/7296f026409c4e9ba8844a238628f9ad/cenc.mpd``d1badeadb11f16bbd0ad7d47914d939e:bd52d185d3537c4c1759db6d66f90f31
 Amazon Cricket Plus	https://cors-proxy.cooks.fyi/https://aba5sdmaaaaaaaamibyasmmfoav3v.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/dmmqe7ssji/out/v1/3775f3d149f34a7a81d8cd7d58118e40/cenc.mpd``1105b85e6db6214e686e462206ed86ec:59d851187354b65fa2d14829046893ef
 GT  Azteca	https://ch1-tva.duin.dev/hls/stream.m3u8
 GT  A Mas	https://ch2-tva.duin.dev/hls/stream.m3u8
 Telemundo USA	https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
+Now Sports 618	https://stream1.freetv.fun/now-sports-618-1.m3u8?7
+TH  T Sports 7	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtsport3/index.m3u8?7
 Premiere 1 BR	https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/4zkafrcxji/out/v1/810ebca1aff0443da717da4acdeda158/cenc.mpd``d98239180d8380b3a1bb28d875b1ddf2:cf836ced579257d1c76ae8809818e6c4
 Premiere 2 BR	https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/pgub1bh7o9/out/v1/7a59226197644bfaa2b00f488bd95288/cenc.mpd``fd2e8019f37211ca8b78a8b656f1b83a:273189c214e85b43ac36298d1c422330
 Premiere 3 BR	https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/8ci7l7dt0d/out/v1/98fe69f2cdc041388004305e63353268/cenc.mpd``9547f9aead1237c8a3b1bf0a91ed9995:534fab4541fef31921dd970c65d51848
