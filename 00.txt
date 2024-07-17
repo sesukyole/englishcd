@@ -1,5 +1,5 @@
-AFF U19 Indonesia vs Philippines 19:30	https://corsanywhere-jqogydb25a-uc.a.run.app/http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/playlist.m3u8
-AFF U19 Indonesia vs Philippines 19:30	https://cors-proxy.cooks.fyi/http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/playlist.m3u8
+AFF U19 Indonesia vs Philippines	https://pull.niues.live/live/stream-9912052_lhd.m3u8?auth_key=1721223018-0-0-ff94f48f2e27016334bd13d7374c791e
+AFF U19 Indonesia vs Philippines	https://cors-proxy.cooks.fyi/http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/playlist.m3u8
 SCTV	`1https://en.gdplayertv.to/live-tv/sctv/?alt=0&embed=1
 ID  Moji TV 1	01`00a134/ochannel/index.m3u8?c
 ID  Moji TV 2	https://op-group1-swiftservesd-1.dens.tv/s/s41/index.m3u8
