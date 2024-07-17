@@ -101,9 +101,9 @@ beIN Sports 3 FR	`0https://popcdn.day/go.php?stream=BEINSPORT3FR
 beIN Sports 1 TR	`0https://popcdn.day/go.php?stream=beINSPORTS1TR
 beIN Sports 2 TR	`0https://popcdn.day/go.php?stream=beINSPORTS2TR
 beIN Sports 3 TR	`0https://popcdn.day/go.php?stream=beINSPORTS3TR
-TH  T Sports 7	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtsport3/index.m3u8
-KH  Hang Meas HDTV	https://corsanywhere-jqogydb25a-uc.a.run.app/http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/playlist.m3u8
 VTC	https://liveh12.vtvcab.vn/hls/ONVTC1_CL/index.m3u8
+KH  Hang Meas HDTV	https://corsanywhere-jqogydb25a-uc.a.run.app/http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/playlist.m3u8
+TH  T Sports 7	https://proji.glitch.me/https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtsport3/index.m3u8
 CCTV 5	https://node3.olelive.com:6443/live/CCTV5HD/hls.m3u8
 QAZ Sport Premium	https://gameslive.akamaized.net/hls/live-97eee134-2b19-4781-b794-04d3490229e4_720p2800kbs/index.m3u8
 RU  Match!	https://proji.glitch.me/https://video.beeline.tv/live/d/channel317.isml/manifest-stb.mpd``5e1c798b16d24dc8cbfc7819abf77b4d:4ba5d9aeba2239b425d1cf7b45474333
