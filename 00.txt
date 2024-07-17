@@ -1,8 +1,4 @@
 AFF U19 Indonesia vs Philippines	https://pull.niues.live/live/stream-9912052_lhd.m3u8?auth_key=1721223018-0-0-ff94f48f2e27016334bd13d7374c791e
-AFF U19 Indonesia vs Philippines	https://cors-proxy.cooks.fyi/http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/playlist.m3u8
-SCTV	`1https://en.gdplayertv.to/live-tv/sctv/?alt=0&embed=1
-ID  Moji TV 1	01`00a134/ochannel/index.m3u8?c
-ID  Moji TV 2	https://op-group1-swiftservesd-1.dens.tv/s/s41/index.m3u8
 ID  Sport 4	https://dsgtq5sngxkde.cloudfront.net/live/eds/VplusLiveRplus/sa_hls/VplusLiveRplus.m3u8?c
 RTB Aneka Go	https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
 BHRT	https://webtvstream.bhtelecom.ba/hls19/bht1.mpd``c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
@@ -20,6 +16,8 @@ Sky Sport 252	https://linear311-it-dash1-prd-akg0.cdn13.skycdp.com/32951/FHD/sky
 Sky Sport 254	https://linear311-it-dash1-prd-akg0.cdn13.skycdp.com/31234/FHD/skysport254/master.mpd``00369c14c20b78aadb1ec0e3c0e74979:e768767e2c7238d8069887bb36aed7fa
 Sky Sport 258	https://linear311-it-dash1-prd-akg0.cdn13.skycdp.com/32772/skysport258/master.mpd``0036fd8ccfddba47c8b40aeff63a797c:dfd5c9d0f4ac6f3a1bd89803399e7026
 BR  SBT	https://vrio.s.llnwi.net/band/dash_live_0035/manifest.mpd``3ad3dca103185934acff7a0e9000c112:3f396659d841a55cd1381e6735ecfa1d
+CA  Sportsnet 1	https://live-streaming-rsm.akamaized.net/sn1hd/sn1hd_cenc.isml/.mpd``f9dd2ed9609f49309ddf07892d25b081:c1254109aaff73701fbea97dc1899b8e
+CA  Sportsnet World	https://live-streaming-rsm.azureedge.net/snwlh/snwlh_cenc.isml/.mpd``44f6a1e5467d4df7a9da2d1b96ee62ca:157d3d7156dd1b288d661d453dbfc682
 TV 2 Sport 1	https://rikstv-live-scalstrm.telenorcdn.net/live/rikstv/64393bf81dbc891fd41f53ac/manifest.mpd``0c6212056d2f51fcbf569f9a1a8517d1:d07b404deb7c958347d742e6d1d2f3f9
 TV 2 Sport Premium	https://ch11-hls-live.akamaized.net/out/u/433127.mpd``d12e4c9dc52f4cbab7ac9b2278317e47:a7987e5b6ec42db68a25486e108ca9f2
 Premier Sport 1	https://olam.telka.uk/premiersport_JnD4eF8ALBI4HWrUOpDMUj9sqakB/playlist.mpd
@@ -107,6 +105,7 @@ beIN Sports 1 TR	`0https://popcdn.day/go.php?stream=beINSPORTS1TR
 beIN Sports 2 TR	`0https://popcdn.day/go.php?stream=beINSPORTS2TR
 beIN Sports 3 TR	`0https://popcdn.day/go.php?stream=beINSPORTS3TR
 TH  T Sports 7	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtsport3/index.m3u8
+KH  Hang Meas HDTV	https://corsanywhere-jqogydb25a-uc.a.run.app/http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/playlist.m3u8
 VTC	https://liveh12.vtvcab.vn/hls/ONVTC1_CL/index.m3u8
 CCTV 5	https://node3.olelive.com:6443/live/CCTV5HD/hls.m3u8
 QAZ Sport Premium	https://gameslive.akamaized.net/hls/live-97eee134-2b19-4781-b794-04d3490229e4_720p2800kbs/index.m3u8
@@ -560,8 +559,7 @@ NO  TV 3 Plus	https://aws-appeartv-cdn.rikstv.no/rikstv/708/2/dash/Viasat4/manif
 Sky Sport News	https://linear030-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_120/Live/channel(skysportsnews)/manifest_720.mpd``00057bfb9cf2fc40b5ed61f9c8a41d54:cb9908093e35e3c3f7db06f55913cce0
 European Club Championship HD	https://pull.niues.live/live/stream-9912009_lhd.m3u8
 European Club Championship SD	https://pull.niues.live/live/stream-9912009_lsd.m3u8
+SCTV	`1https://en.gdplayertv.to/live-tv/sctv/?alt=0&embed=1
 Indosiar 1	`1https://en.gdplayertv.to/live-tv/indosiar/?alt=2&embed=1
 Indosiar 2	`1https://en.gdplayertv.to/live-tv/indosiar/?alt=0&embed=1
 Indosiar 3	`1https://en.gdplayertv.to/live-tv/indosiar/?alt=1&embed=1
-CA  Sportsnet 1	https://live-streaming-rsm.akamaized.net/sn1hd/sn1hd_cenc.isml/.mpd``f9dd2ed9609f49309ddf07892d25b081:c1254109aaff73701fbea97dc1899b8e
-CA  Sportsnet World	https://live-streaming-rsm.azureedge.net/snwlh/snwlh_cenc.isml/.mpd``44f6a1e5467d4df7a9da2d1b96ee62ca:157d3d7156dd1b288d661d453dbfc682
