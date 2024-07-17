@@ -1,4 +1,4 @@
-AFF U19 Indonesia vs Philippines	https://pull.niues.live/live/stream-9912052_lhd.m3u8?auth_key=1721223018-0-0-ff94f48f2e27016334bd13d7374c791e
+AFF U19 Indonesia vs Philippines	https://pull.niur.live/live/stream-9912089_lhd.m3u8?txSecret=707a66edba656ed29062676cfd902865&txTime=66980d42
 ID  Sport 4	https://dsgtq5sngxkde.cloudfront.net/live/eds/VplusLiveRplus/sa_hls/VplusLiveRplus.m3u8?c
 RTB Aneka Go	https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
 BHRT	https://webtvstream.bhtelecom.ba/hls19/bht1.mpd``c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
@@ -563,3 +563,4 @@ SCTV	`1https://en.gdplayertv.to/live-tv/sctv/?alt=0&embed=1
 Indosiar 1	`1https://en.gdplayertv.to/live-tv/indosiar/?alt=2&embed=1
 Indosiar 2	`1https://en.gdplayertv.to/live-tv/indosiar/?alt=0&embed=1
 Indosiar 3	`1https://en.gdplayertv.to/live-tv/indosiar/?alt=1&embed=1
+Event1	`0https://live.justavid.my.id/p/event1l.html
