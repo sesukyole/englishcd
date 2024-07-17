@@ -1,4 +1,4 @@
-AFF U19 Timor Leste vs Cambodia	https://pull.niur.live/live/stream-9912093_lhd.m3u8?txSecret=16a0fe58956c2728b722eff2ed2ed76b&txTime=6697d9b2
+AFF U19 Timor Leste vs Cambodia	http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/playlist.m3u8
 AFF U19 Indonesia vs Philippines 19:30	https://pull.niur.live/live/stream-9912093_lhd.m3u8?txSecret=16a0fe58956c2728b722eff2ed2ed76b&txTime=6697d9b2
 ID  Sport 4	https://dsgtq5sngxkde.cloudfront.net/live/eds/VplusLiveRplus/sa_hls/VplusLiveRplus.m3u8?c
 RTB Aneka Go	https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
