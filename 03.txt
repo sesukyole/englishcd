@@ -1,3 +1,13 @@
+Makkah	https://yt.urfan.web.id/stream/UCos52azQNBgW63_9uDJoPDA/master.m3u8?7
+Medina	https://yt.urfan.web.id/stream/UCROKYPep-UuODNwyipe6JMw/master.m3u8?7
+ID  NET TV	https://yt.urfan.web.id/stream/UC1-ATnDVEwKT6-0aEeJ2ibA/master.m3u8?7
+ID  tvOne	https://yt.urfan.web.id/stream/yNKvkPJl-tg/master.m3u8?7
+ID  Metro	https://yt.urfan.web.id/stream/XKueVSGTk2o/master.m3u8?7
+ID  Kompas	https://yt.urfan.web.id/stream/DOOrIxw5xOw/master.m3u8?7
+ID  GPR	https://yt.urfan.web.id/stream/UCn-Ex0zXXTVElhMr12o0zwA/master.m3u8?7
+ID  Musica Studios	https://yt.urfan.web.id/stream/UCNlU3oSU8UnJ_V9uMB-cPOg/master.m3u8?7
+ID  Aquarius Musikindo	https://yt.urfan.web.id/stream/UCpJRmMTfdv0iPbnjo6qBw_g/master.m3u8?7
+ID  Nagaswara	https://yt.urfan.web.id/stream/UCw9QaspFztufNcEBFlwb5iw/master.m3u8?7
 -----|USA|------	http://a.b/c
 US001:A&E HD	00`d003167.m3u8
 US002:ABC HD	00`d003166.m3u8
