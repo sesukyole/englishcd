@@ -1,6 +1,7 @@
 RTB Aneka Go	https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
 BHRT	https://webtvstream.bhtelecom.ba/hls19/bht1.mpd``c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 KH  Hang Meas HDTV AFF U19	https://corsanywhere-jqogydb25a-uc.a.run.app/http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/playlist.m3u8
+Event AFF U19	`0https://live.justavid.my.id/p/event1l.html
 ID  Sport 3	https://melon-live-cdn.mncnow.id/live/eds/mncsport3/sa_hls/mncsport3.m3u8
 ID  Sport 4	https://dsgtq5sngxkde.cloudfront.net/live/eds/VplusLiveRplus/sa_hls/VplusLiveRplus.m3u8?c
 CT Sport	https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cbcs.mpd``11223344556677889900112233445566:11223344556677889900112233445566
@@ -557,4 +558,3 @@ SCTV	`1https://en.gdplayertv.to/live-tv/sctv/?alt=0&embed=1
 Indosiar 1	`1https://en.gdplayertv.to/live-tv/indosiar/?alt=2&embed=1
 Indosiar 2	`1https://en.gdplayertv.to/live-tv/indosiar/?alt=0&embed=1
 Indosiar 3	`1https://en.gdplayertv.to/live-tv/indosiar/?alt=1&embed=1
-Event1	`0https://live.justavid.my.id/p/event1l.html
