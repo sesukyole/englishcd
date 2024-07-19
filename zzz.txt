@@ -568,7 +568,7 @@ Carib JAM_Vision	http://cord-cutter.net:8080/live/j3McKd/673709/99571.m3u8
 Carib HypeTV	http://cord-cutter.net:8080/live/j3McKd/673709/99572.m3u8
 Carib Aruba.TV (D)	http://cord-cutter.net:8080/live/j3McKd/673709/99574.m3u8
 CA | BBC EARTH	http://cord-cutter.net:8080/live/j3McKd/673709/99621.m3u8
- Star TV Gold	http://cord-cutter.net:8080/live/j3McKd/673709/99622.m3u8
+Star TV Gold	http://cord-cutter.net:8080/live/j3McKd/673709/99622.m3u8
 Carib ESPN2	http://cord-cutter.net:8080/live/j3McKd/673709/99623.m3u8
 Carib ESPN	http://cord-cutter.net:8080/live/j3McKd/673709/99624.m3u8
 Carib CBC	http://cord-cutter.net:8080/live/j3McKd/673709/99861.m3u8
