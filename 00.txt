@@ -19,6 +19,14 @@ TV 2 Sport Premium	https://ch11-hls-live.akamaized.net/out/u/433127.mpd``d12e4c9
 TV 2 Sport 1	https://rikstv-live-scalstrm.telenorcdn.net/live/rikstv/64393bf81dbc891fd41f53ac/manifest.mpd``0c6212056d2f51fcbf569f9a1a8517d1:d07b404deb7c958347d742e6d1d2f3f9
 TV 2 Direkte	https://skytest.starlive.workers.dev/https://aws-appeartv-cdn.rikstv.no/rikstv/1/11/dash/TV2_HD/manifest.mpd``bfb0134de69d76d25b5b4b202df11431:025915bd3062c4bde44a13916c5bfefe
 TV 3 Plus	https://skytest.starlive.workers.dev/https://aws-appeartv-cdn.rikstv.no/rikstv/708/2/dash/Viasat4/manifest.mpd``bc603bd4cbdaae7f9debc7accca10266:bb2ed19b76e7bd6cb8ad228b4a79827c
+Optus Sport 1	https://uniproxy.misty.workers.dev/https://linear.aws.optusvideo.tv/v7/OptusSport1/xbtss/drm/avc/dash/plain/manifest.mpd``03b47c8e5bdf41cbbbef29be6a18de9e:3e13b4627eed3885cb58818fdc39d66f
+Optus Sport 2	https://uniproxy.misty.workers.dev/https://linear.aws.optusvideo.tv/v7/OptusSport2/xbtss/drm/avc/dash/plain/manifest.mpd``127b26420b5343719a317dc6abc3099e:a859aa07a1a3a75eb6525195ca441488
+Optus Sport 3	https://uniproxy.misty.workers.dev/https://linear.aws.optusvideo.tv/v7/OptusSport3/xbtss/drm/avc/dash/plain/manifest.mpd``ea0621118ecd46ff982ca4af8c2a9837:3146695d2eed75d4b1e8005adeb2ebc6
+Optus Sport 4	https://uniproxy.misty.workers.dev/https://linear.aws.optusvideo.tv/v7/OptusSport4/xbtss/drm/avc/dash/plain/manifest.mpd``fbf70a6fc0bc4adb8bf777400ee12415:02b39b93bdeb41329fe32d9aae7d32d5
+Optus Sport 5	https://uniproxy.misty.workers.dev/https://linear.aws.optusvideo.tv/v7/OptusSport5/xbtss/drm/avc/dash/plain/manifest.mpd``9ecaa9c5e14941d89281e932dcb5a91a:b3b74ce2a4fa1dd8135b566c939fc19f
+Optus Sport 6	https://uniproxy.misty.workers.dev/https://linear.aws.optusvideo.tv/v7/OptusSport6/xbtss/drm/avc/dash/plain/manifest.mpd``f95b305610c54ef0a2aae0647456c477:ad60099095daeb7d1181edb22c4af590
+Optus Sport 7	https://uniproxy.misty.workers.dev/https://linear.aws.optusvideo.tv/v7/OptusSport7/xbtss/drm/avc/dash/plain/manifest.mpd``b7659939fbb44194acb82baff73af8fc:f165f4f2e81772c8faf7f95df0fbfef0
+Optus Sport 8	https://uniproxy.misty.workers.dev/https://linear.aws.optusvideo.tv/v7/OptusSport8/xbtss/drm/avc/dash/plain/manifest.mpd``1c74521542a2455a9f60157f114bab4d:caecb6108d7a2efd26e76feb635730db
 BR  SBT	https://vrio.s.llnwi.net/band/dash_live_0035/manifest.mpd``3ad3dca103185934acff7a0e9000c112:3f396659d841a55cd1381e6735ecfa1d
 CA  Sportsnet 1	https://live-streaming-rsm.akamaized.net/sn1hd/sn1hd_cenc.isml/.mpd``f9dd2ed9609f49309ddf07892d25b081:c1254109aaff73701fbea97dc1899b8e
 CA  Sportsnet World	https://live-streaming-rsm.azureedge.net/snwlh/snwlh_cenc.isml/.mpd``44f6a1e5467d4df7a9da2d1b96ee62ca:157d3d7156dd1b288d661d453dbfc682
