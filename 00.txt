@@ -3,6 +3,7 @@ BHRT	https://webtvstream.bhtelecom.ba/hls19/bht1.mpd``c18b6aa739be4c0b774605fcfb
 ID  Sport 3	https://melon-live-cdn.mncnow.id/live/eds/mncsport3/sa_hls/mncsport3.m3u8
 ID  Sport 4	https://dsgtq5sngxkde.cloudfront.net/live/eds/VplusLiveRplus/sa_hls/VplusLiveRplus.m3u8?c
 CT Sport	https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cbcs.mpd``11223344556677889900112233445566:11223344556677889900112233445566
+Event AFF U19	`0https://live.justavid.my.id/p/event1l.html
 ES  La1	https://cache3.zapitv.com/live/eds_c2/la1_4k/dash_live_enc/la1_4k.mpd``a3abc44525eef3b0a7af9138a9dbe34a:7740f8ae4223ce5ba293028f7f78f1c1
 ES  La2	https://rtvelivestreamv3.akamaized.net/rtvesec/la2/la2_main.m3u8
 NL  Channel S	https://live.vrtcdn.be/groupc/live/8edf3bdf-7db3-41c3-a318-72cb7f82de66/live.isml/.mpd``ef4daa3c90333621e4115ff1ca5bfbda:424c9902fce5a2e7dcbeb37ffc06b906
@@ -179,9 +180,9 @@ TV4 Sport Live 3	https://proji.glitch.me/https://director.streaming.telia.com/tv
 TV4 Sport Live 4	https://proji.glitch.me/https://director.streaming.telia.com/tvm-packager-prod/group1/60896d5647a23d19495cd627/manifest.mpd``99c9c1d2eff15da09b1b64ed16a17a84:6f7174c7e2d5e07fff7ba012e2e94956
 RU  Match! Arena	https://proji.glitch.me/https://video.beeline.tv/live/d/channel512.isml/manifest-stb.mpd``9839b170b4fc384f243bffd8929b71a2:34cdd6f3e1bf6a9f9d54e9165abf8c09
 RU  Match! Fight	https://proji.glitch.me/http://video.beeline.tv/live/d/channel377.isml/manifest-stb.mpd``660a37a91aa00b7e2e0bc7dca349b982:3593a4a2bfbd7d9585efff083b769cf5
-RU  Match! Futbol 1	https://cors-proxy.cooks.fyi/https://strm.yandex.ru/kal/match_football1_hd/manifest.mpd``5269ab07e6a6db7585324ae20542f191:dba0dccffba1b26f658ec85a616102e8
-RU  Match! Futbol 2	https://cors-proxy.cooks.fyi/https://strm.yandex.ru/kal/match_football2_hd/manifest.mpd``56f7dcb5d20eeed212ff58620acb8931:76e139c0676ed2d7ae46392ce6fd9e89
-RU  Match! Futbol 3	https://cors-proxy.cooks.fyi/https://strm.yandex.ru/kal/match_football3_hd/manifest.mpd``b356d2c5bd7b4a71e99485906f6beeed:f2e7cb0fcdfb6a3fc0299eed50d29c97
+RU  Match! Futbol 1	https://uniproxy.misty.workers.dev/https://strm.yandex.ru/kal/match_football1_hd/manifest.mpd``5269ab07e6a6db7585324ae20542f191:dba0dccffba1b26f658ec85a616102e8
+RU  Match! Futbol 2	https://uniproxy.misty.workers.dev/https://strm.yandex.ru/kal/match_football2_hd/manifest.mpd``56f7dcb5d20eeed212ff58620acb8931:76e139c0676ed2d7ae46392ce6fd9e89
+RU  Match! Futbol 3	https://uniproxy.misty.workers.dev/https://strm.yandex.ru/kal/match_football3_hd/manifest.mpd``b356d2c5bd7b4a71e99485906f6beeed:f2e7cb0fcdfb6a3fc0299eed50d29c97
 HU  Match 4	https://cors-proxy.cooks.fyi/https://m7huvideolive.solocoo.tv/blueskylive2dash/bluedigisport1hu/Manifest.mpd``36d6377bb94b43a58af1c415ac686f4b:82fcba8160b4f88948cd3268bb330dbf
 ES  beIN Sports Xtra	https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
 ES  Real Madrid ENG	https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
@@ -566,4 +567,3 @@ SCTV	`1https://en.gdplayertv.to/live-tv/sctv/?alt=0&embed=1
 Indosiar 1	`1https://en.gdplayertv.to/live-tv/indosiar/?alt=2&embed=1
 Indosiar 2	`1https://en.gdplayertv.to/live-tv/indosiar/?alt=0&embed=1
 Indosiar 3	`1https://en.gdplayertv.to/live-tv/indosiar/?alt=1&embed=1
-Event AFF U19	`0https://live.justavid.my.id/p/event1l.html
