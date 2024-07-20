@@ -1,9 +1,9 @@
 ID Sport 4	https://dsgtq5sngxkde.cloudfront.net/live/eds/VplusLiveRplus/sa_hls/VplusLiveRplus.m3u8?c
 ID PSJ TV	https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
 ID  Indosiar	https://uniproxy.misty.workers.dev/https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd``5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
-Event 1 AFF U19	`0https://live.justavid.my.id/p/event1l.html
-TH RHM HDTV	https://skytest.starlive.workers.dev/http://1clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/chunklist.m3u8
+TH RHM HDTV	https://skytest.starlive.workers.dev/http://clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/chunklist.m3u8
 KH Hang Meas HDTV AFF U19	https://skytest.starlive.workers.dev/http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/playlist.m3u8
+Event 1 AFF U19	`0https://live.justavid.my.id/p/event1l.html
 RTB Aneka Go	https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
 SpoTV 1	https://uniproxy.misty.workers.dev/https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd``e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
 SpoTV 2	https://uniproxy.misty.workers.dev/https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd``e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
@@ -581,6 +581,5 @@ Indosiar 2	`1https://en.gdplayertv.to/live-tv/indosiar/?alt=0&embed=1
 Indosiar 3	`1https://en.gdplayertv.to/live-tv/indosiar/?alt=1&embed=1
 Event 2 AFF U19	`0https://live.justavid.my.id/p/event7l.html
 Event 3 AFF U19	`0https://live.justavid.my.id/p/event6l.html
-Event 4 AFF U19	`0https://live.sportsnews.id/p/ch1.html
-Event 5 AFF U19	`0https://live.sportsnews.id/p/ch2.html
-Event 6 AFF U19	`0https://tructiep.xem.my.id/phong-nha-ke-bang?id=event1
+Event 4 AFF U19	`0https://live.sportsnews.id/p/ch2.html
+Event 5 AFF U19	`0https://live.sportsnews.id/p/ch1.html
