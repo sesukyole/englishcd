@@ -105,13 +105,13 @@ ID  K Plus	https://op-group1-swiftservehd-1.dens.tv/h/h08/index.m3u8
 ID  K Plus	https://op-group1-swiftservehd-1.dens.tv/h/h219/index.m3u8
 ID  Nadoo Korean	https://op-group1-swiftservehd-1.dens.tv/h/h125/live.m3u8
 ID  My Cinema Europe	https://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8
-ID  ATV	https://streaming.indihometv.com/atm/DASH/atv/manifest.mpd
-ID  Cartoonito	https://streaming.indihometv.com/atm/DASH/boomerang/manifest.mpd
-ID  Warner	https://streaming.indihometv.com/atm/DASH/warner/manifest.mpd
-ID  Indosiar 2	https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
-ID  SCTV 2	https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
-ID  tvOne	https://streaming.indihometv.com/atm/DASH/tvone/manifest.mpd
-ID  Jawapos	https://streaming.indihometv.com/atm/DASH/jawapos/manifest.mpd
+ID  ATV	https://uniproxy.misty.workers.dev/https://streaming.indihometv.com/atm/DASH/atv/manifest.mpd
+ID  Cartoonito	https://uniproxy.misty.workers.dev/https://streaming.indihometv.com/atm/DASH/boomerang/manifest.mpd
+ID  Warner	https://uniproxy.misty.workers.dev/https://streaming.indihometv.com/atm/DASH/warner/manifest.mpd
+ID  Indosiar 2	https://uniproxy.misty.workers.dev/https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
+ID  SCTV 2	https://uniproxy.misty.workers.dev/https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
+ID  tvOne	https://uniproxy.misty.workers.dev/https://streaming.indihometv.com/atm/DASH/tvone/manifest.mpd
+ID  Jawapos	https://uniproxy.misty.workers.dev/https://streaming.indihometv.com/atm/DASH/jawapos/manifest.mpd
 ID  Cinemax	https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(4b9c9228-73c1-cb85-94a9-7fa84858b877)/manifest.mpd``ad90306387ee369eb2a6de02869c7653:4b17755fdea3ca0277bb64a1e9fbecef
 ID  HBO Family	https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(cec31cdd-d2ff-4c23-8a76-ad1c0ef025e2)/manifest.mpd``3e0b88044bbb3512a3d0027764314783:52843f20db4bbf45d594b6be310f81c1
 ID  HBO Hits	https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7e3ac8f2-3380-461a-976b-30bca8d939a0)/manifest.mpd``a1e570be4c63326aa95ea53eb5be2699:f9d709f24054472ab7f53c758cf45c94
