@@ -1,7 +1,7 @@
 RTB Aneka Go	https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
 BHRT	https://webtvstream.bhtelecom.ba/hls19/bht1.mpd``c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-ID  Sport 3	https://melon-live-cdn.mncnow.id/live/eds/mncsport3/sa_hls/mncsport3.m3u8
-ID  Sport 4	https://dsgtq5sngxkde.cloudfront.net/live/eds/VplusLiveRplus/sa_hls/VplusLiveRplus.m3u8?c
+ID  Sport 3	https://dsgtq5sngxkde.cloudfront.net/live/eds/mncsport3/sa_dash/mncsport3.mpd
+ID  Sport 4	https://dsgtq5sngxkde.cloudfront.net/live/eds/VplusLiveRplus/sa_dash/VplusLiveRplus.mpd
 CT Sport	https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cbcs.mpd``11223344556677889900112233445566:11223344556677889900112233445566
 ES  La1	https://cache3.zapitv.com/live/eds_c2/la1_4k/dash_live_enc/la1_4k.mpd``a3abc44525eef3b0a7af9138a9dbe34a:7740f8ae4223ce5ba293028f7f78f1c1
 ES  La2	https://rtvelivestreamv3.akamaized.net/rtvesec/la2/la2_main.m3u8
@@ -60,11 +60,11 @@ DAZN Eleven League 02	01`01chttps://tvvvideolive3.solocoo.tv:443/blueskytvvlive7
 DAZN Eleven League 03	01`01chttps://tvvvideolive3.solocoo.tv:443/blueskytvvlive7dash/blueelevenproleague3nl/Manifest.mpd``c6455c5a1ad1484fa4029ba498659838:4329fb08c3444a8ae9b3c477efe11002
 ID  PSJ TV	https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
 ID  RCTI 1	https://rcti-cutv.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
-ID  RCTI 2	https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-2/sa_hls/rcti-2.m3u8?c
-ID  iNews	https://dsgtq5sngxkde.cloudfront.net/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8?c
-ID  Football	https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_hls/rcti-soccerchannel-hd.m3u8?c
-ID  Sport 1	https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar/sa_hls/rcti-sportstar.m3u8?c
-ID  Sport 2	https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar2/sa_hls/rcti-sportstar2.m3u8?c
+ID  RCTI 2	https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-2/sa_dash/rcti-2.mpd
+ID  iNews	https://dsgtq5sngxkde.cloudfront.net/live/eds/inews-hdd/sa_dash/inews-hdd.mpd
+ID  Football	https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_dash/rcti-soccerchannel-hd.mpd
+ID  Sport 1	https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar/sa_dash/rcti-sportstar.mpd
+ID  Sport 2	https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar2/sa_dash/rcti-sportstar2.mpd
 ID  SpoTV 1	01`00a133/beib1/index.m3u8?c
 ID  SpoTV 2	01`00a133/beib2/index.m3u8?c
 Event AFF U19	`0https://live.justavid.my.id/p/event1l.html
