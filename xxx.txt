@@ -6,8 +6,7 @@ Indosiar 2	http://cheaptv.online:8080/live/one-day-test-89fc/54CbToqS2c/162138.m
 Moji	http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/298550.m3u8
 RCTI	http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/157591.m3u8
 SCTV	http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/162141.m3u8
-Indosiar	https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd``5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
-Indosiar	https://proji.glitch.me/https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd``5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
+Indosiar	https://uniproxy.misty.workers.dev/https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd``5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
 TRANS 7	https://play.gachor99.my.id:443/play/sO0pi4NyHs4kjc6reYfw9fqAbpwTNiNzPjxPsr-xoSE/.m3u8?7
 TRANS TV	https://play.gachor99.my.id:443/play/sO0pi4NyHs4kjc6reYfw9VfBuXtQo4wtsyyoEM16w1U/.m3u8?7
 INDOSIAR LOKAL 1	https://play.gachor99.my.id:443/play/sO0pi4NyHs4kjc6reYfw9b8_pKmrQwgxNIFnnQdgTrQ/.m3u8?7
