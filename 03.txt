@@ -1,3 +1,8 @@
+Indosiar 1	01`03gb8_pKmrQwgxNIFnnQdgTrQ/.m3u8?7
+Indosiar 2	01`03geSjSMnfKOTFUIket_zDL20/.m3u8?7
+Moji	01`03gWpAJcSB7_lI5Plr5_w2cms/.m3u8?7
+SCTV 1	01`03gVM0Vk7J-3dYBh6vDIAmRF8/.m3u8?7
+SCTV 2	01`03gX36LjDRTc40c_9efItdi6g/.m3u8?7
 -----|USA|------	http://a.b/c
 US001:A&E HD	00`d003167.m3u8
 US002:ABC HD	00`d003166.m3u8

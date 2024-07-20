@@ -1,3 +1,8 @@
+ID  Indosiar 1	http://op-group1-swiftservesd-1.dens.tv/s/s04/index.m3u8
+ID  Moji TV 1	http://op-group1-swiftservesd-1.dens.tv/s/s41/index.m3u8
+ID  SCTV 1	http://op-group1-swiftservehd-1.dens.tv/s/s03/index.m3u8
+ID  Indosiar 2	http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
+ID  SCTV 2	http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 UK  English Club TVᴴᴰ 🇬🇧	http://iptv.prosto.tv:7000/ch206/video.m3u8
 UK  Mr. Bean	http://51.159.104.29:8080/mrbean/index.m3u8
 AR  Fox Kids	http://stmv1.srvif.com/emlsilva/emlsilva/playlist.m3u8
@@ -155,12 +160,10 @@ ID  Radar Tasikmalaya TV	http://103.140.188.211:1935/radartv/myStream/playlist.m
 ID  Tegar TV Lampung	http://wms.klikhost.com:1935/tegartv/tegartv/playlist.m3u8
 ID  TVKU	http://103.30.1.14:8080/hls/live.m3u8
 ID  ANTV	http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
-ID  Indosiar	http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 ID  Kompas TV	http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
 ID  Metro TV	http://op-group1-swiftservehd-1.dens.tv/h/h211/02.m3u8
 ID  Net TV	http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
 ID  RTV	http://210.210.155.37/uq2663/h/h10/02.m3u8
-ID  SCTV	http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 ID  TVOne	http://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
 ID  TVRI	http://op-group1-swiftservehd-1.dens.tv/h/h237/02.m3u8
 ID  BBC News Asia Pacific	http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15

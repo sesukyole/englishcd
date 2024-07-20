@@ -1,3 +1,13 @@
+Moji	http://filex.tv:8080/live/paramjeetsingh/002818/302279.m3u8
+Indosiar 1	http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/162138.m3u8
+Indosiar 2	http://cheaptv.online:8080/live/one-day-test-89fc/54CbToqS2c/162138.m3u8
+Indosiar v1	http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45098.m3u8
+Indosiar v2	http://extraott.com/live/7921751389/6097373662/45098.m3u8
+Moji	http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/298550.m3u8
+RCTI	http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/157591.m3u8
+SCTV	http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/162141.m3u8
+Indosiar	https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd``5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
+Indosiar	https://proji.glitch.me/https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd``5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
 TRANS 7	https://play.gachor99.my.id:443/play/sO0pi4NyHs4kjc6reYfw9fqAbpwTNiNzPjxPsr-xoSE/.m3u8?7
 TRANS TV	https://play.gachor99.my.id:443/play/sO0pi4NyHs4kjc6reYfw9VfBuXtQo4wtsyyoEM16w1U/.m3u8?7
 INDOSIAR LOKAL 1	https://play.gachor99.my.id:443/play/sO0pi4NyHs4kjc6reYfw9b8_pKmrQwgxNIFnnQdgTrQ/.m3u8?7
@@ -416,3 +426,6 @@ SPORTTV 4	https://play.gachor99.my.id:443/play/sO0pi4NyHs4kjc6reYfw9WOtxe8IqIEMF
 SuperSport ACTION	https://play.gachor99.my.id:443/play/sO0pi4NyHs4kjc6reYfw9a1Waq4OmbuZOz-JvReko94/.m3u8?7
 FOX 504	https://play.gachor99.my.id:443/play/sO0pi4NyHs4kjc6reYfw9dAFp5RuECxf2lWbtdZRgbI/.m3u8?7
 FOX 502	https://play.gachor99.my.id:443/play/sO0pi4NyHs4kjc6reYfw9dNzsFEor3ugbEw7TKELVP8/.m3u8?7
+RCTI*	http://filex.tv:8080/live/paramjeetsingh/002818/302297.m3u8
+Indosiar!	http://filex.tv:8080/live/paramjeetsingh/002818/302264.m3u8
+SCTV!	http://filex.tv:8080/live/paramjeetsingh/002818/302301.m3u8
