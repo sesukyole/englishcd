@@ -1,3 +1,6 @@
+ID RCTI	00`a01100.m3u8
+ID TransTV	00`a01102.m3u8
+ID Trans7	00`a01103.m3u8
 ------[Africa]------	http://a.b/c
 AF001:1 KZN	00`06alive00`06b26640.m3u8
 AF002:1 MAGIC	00`06alive00`06b26638.m3u8
@@ -893,9 +896,9 @@ TE011:Tunisia Nat2	00`06alive00`06b2103.m3u8
 TE012:Tounesna	00`06alive00`06b2102.m3u8
 TE013:Tunisia Nat1	00`06alive00`06b2101.m3u8
 AC332:Bahrain INT	00`06alive00`06b27586.m3u8
-AC056:AL Wataniya 1  (Tunisie)	00`06alive00`06b2263.m3u8
+AC056:AL Wataniya 1 (Tunisie)	00`06alive00`06b2263.m3u8
 AC069:AL Wataniya 2 (Tunisie)	00`06alive00`06b2250.m3u8
-AC293:Teveza  (Tunisie)	00`06alive00`06b27625.m3u8
+AC293:Teveza (Tunisie)	00`06alive00`06b27625.m3u8
 ------[Arab Egypt]------	http://a.b/c
 AC518:Egyptian TV (Egypt)	00`06alive00`06b27400.m3u8
 AC557:AL Masriya (Egypt)	00`06alive00`06b65856.m3u8
@@ -3933,7 +3936,7 @@ PL059:Polsat Cafe	00`06alive00`06b33473.m3u8
 PL065:HGTV FHD	00`06alive00`06b33467.m3u8
 PL067:TV 6	00`06alive00`06b33465.m3u8
 PL068:KINO TV FHD	00`06alive00`06b33464.m3u8
-PL069:KUCHNIA+  HD	00`06alive00`06b33463.m3u8
+PL069:KUCHNIA+ HD	00`06alive00`06b33463.m3u8
 PL070:Lifetime HD	00`06alive00`06b33462.m3u8
 PL077:TVS	00`06alive00`06b33455.m3u8
 PL084:NOWA TV HD	00`06alive00`06b33448.m3u8
@@ -3980,7 +3983,7 @@ PL009:AXN White HD	00`06alive00`06b33523.m3u8
 PL015:Canal FamilyFHD	00`06alive00`06b33517.m3u8
 PL016:CANAL+ 1 FHD	00`06alive00`06b33516.m3u8
 PL017:Canal Film FHD	00`06alive00`06b33515.m3u8
-PL018:Canal  Seriale FHD	00`06alive00`06b33514.m3u8
+PL018:Canal Seriale FHD	00`06alive00`06b33514.m3u8
 PL025:Cinemax 2 HD	00`06alive00`06b33507.m3u8
 PL026:Cinemax HD	00`06alive00`06b33506.m3u8
 PL040:Epic Drama	00`06alive00`06b33492.m3u8
@@ -4053,7 +4056,7 @@ PL175:Eleven Sports 4 FHD	00`06alive00`06b33357.m3u8
 PL180:Golf Channel HD	00`06alive00`06b33352.m3u8
 PL199:Polsat Sport Fight HD	00`06alive00`06b33333.m3u8
 PL158:Food Network HD	00`06alive00`06b33374.m3u8
-PL192:KSW Fight  PPV (Live Matches  Only)	00`06alive00`06b33340.m3u8
+PL192:KSW Fight PPV (Live Matches Only)	00`06alive00`06b33340.m3u8
 PL191:Nat Geo People HD	00`06alive00`06b33341.m3u8
 PL:------[DOCUMENTARY]-----	00`06alive00`06b61062.m3u8
 PL004:Animal Planet HD	00`06alive00`06b33528.m3u8
@@ -4096,7 +4099,7 @@ PL028:Da Vinci Learning	00`06alive00`06b33504.m3u8
 PL035:Disney Channel FHD	00`06alive00`06b33497.m3u8
 PL036:Da Vinci	00`06alive00`06b33496.m3u8
 PL037:Disney XD	00`06alive00`06b33495.m3u8
-PL038:DOMO  FHD	00`06alive00`06b33494.m3u8
+PL038:DOMO FHD	00`06alive00`06b33494.m3u8
 PL072:MiniMini HD	00`06alive00`06b33460.m3u8
 PL093:Polsat Jim Jam	00`06alive00`06b33439.m3u8
 PL116:TeleToon+	00`06alive00`06b33416.m3u8
@@ -5582,7 +5585,7 @@ BR261:Universal Channel FHD	00`06alive00`06b65816.m3u8
 BR103:Universal Channel HD	00`06alive00`06b2429.m3u8
 BR262:Universal Channel SD	00`06alive00`06b65817.m3u8
 BR259:TNT Series FHD	00`06alive00`06b65814.m3u8
-BR101:TNT Series  HD	00`06alive00`06b2431.m3u8
+BR101:TNT Series HD	00`06alive00`06b2431.m3u8
 BR260:TNT Series SD	00`06alive00`06b65815.m3u8
 BR272:CANAL BRASIL	00`06alive00`06b66008.m3u8
 BR:-----[Esportes]-----	00`06alive00`06b66013.m3u8

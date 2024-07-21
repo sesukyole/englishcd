@@ -1,6 +1,6 @@
-ID Moji	http://filex.tv:8080/live/paramjeetsingh/002818/302279.m3u8
 ID Indosiar 1	http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45098.m3u8
 ID Indosiar 2	http://extraott.com/live/7921751389/6097373662/45098.m3u8
+ID Indosiar 3	00`a01105.m3u8
 KH Rasmey Hang Meas HDTV AFF U19	http://clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/playlist.m3u8
 KH Hang Meas HDTV AFF U19	http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/playlist.m3u8
 -----|USA|------	http://a.b/c
@@ -7909,5 +7909,4 @@ SPORTTV 4	01`03gWOtxe8IqIEMFjI8Xv4vos8/.m3u8?7
 SuperSport ACTION	01`03ga1Waq4OmbuZOz-JvReko94/.m3u8?7
 FOX 504	01`03gdAFp5RuECxf2lWbtdZRgbI/.m3u8?7
 FOX 502	01`03gdNzsFEor3ugbEw7TKELVP8/.m3u8?7
-ID Indosiar 3	00`a01105.m3u8
 ID ANTV	00`a01106.m3u8

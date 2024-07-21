@@ -1,53 +1,56 @@
-ID  Indosiar 1	http://op-group1-swiftservesd-1.dens.tv/s/s04/index.m3u8
-ID  Moji TV 1	http://op-group1-swiftservesd-1.dens.tv/s/s41/index.m3u8
-ID  SCTV 1	http://op-group1-swiftservehd-1.dens.tv/s/s03/index.m3u8
-ID  Indosiar 2	http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
-ID  SCTV 2	http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
-UK  English Club TVᴴᴰ 🇬🇧	http://iptv.prosto.tv:7000/ch206/video.m3u8
-UK  Mr. Bean	http://51.159.104.29:8080/mrbean/index.m3u8
-AR  Fox Kids	http://stmv1.srvif.com/emlsilva/emlsilva/playlist.m3u8
-AR  Urban Kids	http://200.194.238.229:8383/live/urbankids/playlist.m3u8
-MX  DreamWorks sᴅ 🇲🇽	http://45.189.148.24:8000/play/a00m/index.m3u8
-US  Duck TV	http://iptv.prosto.tv:7000/ch209/video.m3u8
-US  GameToonᴴᴰ 🇺🇸	http://iptv.prosto.tv:7000/ch256/video.m3u8
+ID SCTV	00`a01101.m3u8
+ID GTV	00`a01109.m3u8
+ID ANTV	00`a01106.m3u8
+ID Indosiar 1	http://op-group1-swiftservesd-1.dens.tv/s/s04/index.m3u8
+ID Indosiar 2	http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
+ID Moji TV 1	http://op-group1-swiftservesd-1.dens.tv/s/s41/index.m3u8
+ID SCTV 1	http://op-group1-swiftservehd-1.dens.tv/s/s03/index.m3u8
+ID SCTV 2	http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
+UK English Club TVᴴᴰ 🇬🇧	http://iptv.prosto.tv:7000/ch206/video.m3u8
+UK Mr. Bean	http://51.159.104.29:8080/mrbean/index.m3u8
+AR Fox Kids	http://stmv1.srvif.com/emlsilva/emlsilva/playlist.m3u8
+AR Urban Kids	http://200.194.238.229:8383/live/urbankids/playlist.m3u8
+MX DreamWorks sᴅ 🇲🇽	http://45.189.148.24:8000/play/a00m/index.m3u8
+US Duck TV	http://iptv.prosto.tv:7000/ch209/video.m3u8
+US GameToonᴴᴰ 🇺🇸	http://iptv.prosto.tv:7000/ch256/video.m3u8
 24h News FHD	http://cdn.connectbr.com.br/24_news/index.m3u8
-AE  Dubai TV	http://210.210.155.35/uq2663/h/h152/index2.m3u8
-BR  Discovery Turboᴴᴰ 🇧🇷	http://170.82.200.35/discovery_turbo/tracks-v1a1/mono.m3u8
-BR  TVE 🇧🇷	http://streaming.procergs.com.br:1935/tve/stve/chunklist.m3u8
-CH  My Cinema Europe	http://210.210.155.35/uq2663/h/h18/index.m3u8
-CN  Discovery Asiaᴴᴰ 🇺🇸🇨🇳	http://198.16.100.90:8278/discoverytwn_twn/playlist.m3u8?tid=MB1B4014431840144318&ct=19254&tsum=a72e8caa6986ef92c4d6cb743e22a78f
-EC  Goltv 🇪🇨	http://157.245.117.238:8000/play/a0ur/index.m3u8
-ES  Galicia Americaᴴᴰ 🇪🇸	http://america-crtvg.flumotion.com/crtvg/america_high/chunks.m3u8
-ES  Galicia Europaᴴᴰ 🇪🇸	http://europa-crtvg.flumotion.com/crtvg/europa_high/chunks.m3u8
-ES  TVE Internacional Asia-Oceania	http://210.210.155.35/uq2663/h/h158/index2.m3u8
-FR  InfoSport 🇫🇷	http://212.102.60.80/Infosport/index.m3u8
-FR  TF1 🇫🇷	http://212.102.60.80/TF1/index.m3u8
-FR  TF1 🇫🇷	http://45.153.35.210:8000/play/FR_tf1_HD/index.m3u8
-HK  Phoenix Chinese	http://210.210.155.35/uq2663/h/h157/index2.m3u8
-MX  ESPN 4 sᴅ 🇲🇽	http://168.227.22.18:1935/live/mobile-205/playlist.m3u8
-MX  Fox Sport 3 🇲🇽	http://stream.flynetwifi.com:1935/live/mobile-108/playlist.m3u8
-PE  ESPN 4 🇵🇪	http://bantel.iptvperu.tv:1935/transcoderip/espnextrabk_t2.stream/playlist.m3u8
-RU  CHD TV Rock 🇷🇺	http://194.26.229.213/chdtv_rock/index.m3u8
-SG  Motorsports	http://210.210.155.35/uq2663/h/h09/index.m3u8
-TR  Türkmenistan Sport 🇹🇷 sᴅ	http://217.174.225.146/hls/ch004_720/index.m3u8
-UA  Freedom	http://210.210.155.35/uq2663/h/h101/index.m3u8
-UK  Arena Premium Liga 🇬🇧ᴴᴰ	http://91.132.74.4:7374/play/a00k/index.m3u8
-UK  Automoto 🇬🇧	http://100automoto.tv:1935/bgtv1/autotv/chunklist_w783411174.m3u8
-UK  BBC First 🇬🇧🇵🇱	http://124.29.225.205:8000/play/a05f/index.m3u8
-UK  BBC News 🇬🇧	http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/545/19176/index.m3u8
-US  &Flix	http://89.187.177.137:8081/%26FLIX/index.m3u8
-US  &Prive	http://89.187.177.137:8081/%26PRIVE/index.m3u8
-US  Bosi Golf 🇨🇳	http://198.16.100.90:8278/bosigolf1_twn/playlist.m3u8?tid=MD5D3832704238327042&ct=18393&tsum=cbf3bf749c9b0bf4828ab19efff1c5b0
-US  CineMaxᴴᴰ 🇺🇸	http://170.254.18.106/CINEMAX/index.m3u8
-US  DW 🇺🇸	http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDIxIDEyOjQ3OjU3IFBNJmhhc2hfdmFsdWU9ZkJ0QTd3enJhWUtYSGsrZHFieUZodz09JnZhbGlkbWludXRlcz00ODA=
-US  HBO 2 🇺🇸🇮🇳	http://170.254.18.106/HBO2/index.m3u8
-US  HBO Mundi 🇺🇸🇮🇳	http://170.254.18.106/HBO_MUNDI/index.m3u8
-US  MTV 90s	http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch241)/index.m3u8
-US  One Golf 🇺🇸	http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8
-US  Red Bull TVᴴᴰ 🇺🇸	http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-US  Toonami AfterMath East	http://api.toonamiaftermath.com:3000/est/playlist.m3u8
-US  Trips Marterᴴᴰ 🇺🇸	http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist.m3u8
-US  W Sport	http://210.210.155.35/uq2663/h/h26/index.m3u8
+AE Dubai TV	http://210.210.155.35/uq2663/h/h152/index2.m3u8
+BR Discovery Turboᴴᴰ 🇧🇷	http://170.82.200.35/discovery_turbo/tracks-v1a1/mono.m3u8
+BR TVE 🇧🇷	http://streaming.procergs.com.br:1935/tve/stve/chunklist.m3u8
+CH My Cinema Europe	http://210.210.155.35/uq2663/h/h18/index.m3u8
+CN Discovery Asiaᴴᴰ 🇺🇸🇨🇳	http://198.16.100.90:8278/discoverytwn_twn/playlist.m3u8?tid=MB1B4014431840144318&ct=19254&tsum=a72e8caa6986ef92c4d6cb743e22a78f
+EC Goltv 🇪🇨	http://157.245.117.238:8000/play/a0ur/index.m3u8
+ES Galicia Americaᴴᴰ 🇪🇸	http://america-crtvg.flumotion.com/crtvg/america_high/chunks.m3u8
+ES Galicia Europaᴴᴰ 🇪🇸	http://europa-crtvg.flumotion.com/crtvg/europa_high/chunks.m3u8
+ES TVE Internacional Asia-Oceania	http://210.210.155.35/uq2663/h/h158/index2.m3u8
+FR InfoSport 🇫🇷	http://212.102.60.80/Infosport/index.m3u8
+FR TF1 🇫🇷	http://212.102.60.80/TF1/index.m3u8
+FR TF1 🇫🇷	http://45.153.35.210:8000/play/FR_tf1_HD/index.m3u8
+HK Phoenix Chinese	http://210.210.155.35/uq2663/h/h157/index2.m3u8
+MX ESPN 4 sᴅ 🇲🇽	http://168.227.22.18:1935/live/mobile-205/playlist.m3u8
+MX Fox Sport 3 🇲🇽	http://stream.flynetwifi.com:1935/live/mobile-108/playlist.m3u8
+PE ESPN 4 🇵🇪	http://bantel.iptvperu.tv:1935/transcoderip/espnextrabk_t2.stream/playlist.m3u8
+RU CHD TV Rock 🇷🇺	http://194.26.229.213/chdtv_rock/index.m3u8
+SG Motorsports	http://210.210.155.35/uq2663/h/h09/index.m3u8
+TR Türkmenistan Sport 🇹🇷 sᴅ	http://217.174.225.146/hls/ch004_720/index.m3u8
+UA Freedom	http://210.210.155.35/uq2663/h/h101/index.m3u8
+UK Arena Premium Liga 🇬🇧ᴴᴰ	http://91.132.74.4:7374/play/a00k/index.m3u8
+UK Automoto 🇬🇧	http://100automoto.tv:1935/bgtv1/autotv/chunklist_w783411174.m3u8
+UK BBC First 🇬🇧🇵🇱	http://124.29.225.205:8000/play/a05f/index.m3u8
+UK BBC News 🇬🇧	http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/545/19176/index.m3u8
+US &Flix	http://89.187.177.137:8081/%26FLIX/index.m3u8
+US &Prive	http://89.187.177.137:8081/%26PRIVE/index.m3u8
+US Bosi Golf 🇨🇳	http://198.16.100.90:8278/bosigolf1_twn/playlist.m3u8?tid=MD5D3832704238327042&ct=18393&tsum=cbf3bf749c9b0bf4828ab19efff1c5b0
+US CineMaxᴴᴰ 🇺🇸	http://170.254.18.106/CINEMAX/index.m3u8
+US DW 🇺🇸	http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDIxIDEyOjQ3OjU3IFBNJmhhc2hfdmFsdWU9ZkJ0QTd3enJhWUtYSGsrZHFieUZodz09JnZhbGlkbWludXRlcz00ODA=
+US HBO 2 🇺🇸🇮🇳	http://170.254.18.106/HBO2/index.m3u8
+US HBO Mundi 🇺🇸🇮🇳	http://170.254.18.106/HBO_MUNDI/index.m3u8
+US MTV 90s	http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch241)/index.m3u8
+US One Golf 🇺🇸	http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8
+US Red Bull TVᴴᴰ 🇺🇸	http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+US Toonami AfterMath East	http://api.toonamiaftermath.com:3000/est/playlist.m3u8
+US Trips Marterᴴᴰ 🇺🇸	http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist.m3u8
+US W Sport	http://210.210.155.35/uq2663/h/h26/index.m3u8
 eSports Max	http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
 Eurosport 1 🇵🇱🇺🇸ᴴᴰ	http://54.39.17.6:8080/eurosport/playlist.m3u8
 A&E	http://168.227.22.18:1935/live/mobile-158/playlist.m3u8
@@ -148,70 +151,70 @@ Univision 4	http://168.227.22.18:1935/live/mobile-036/playlist.m3u8
 WB TV	http://168.227.22.18:1935/live/mobile-030/playlist.m3u8
 Win+	http://168.227.22.18:1935/live/mobile-062/playlist.m3u8
 ZooMoo	http://168.227.22.18:1935/live/mobile-069/playlist.m3u8
-ID  Bandung TV	http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
-ID  Batu TV	http://117.103.69.219:8080/live/streaming/index.m3u8
-ID  BNTV	http://210.210.155.35/uq2663/h/h39/index.m3u8
-ID  DFC Dens Food Channel	http://210.210.155.35/x6bnqe/s/s50/live.m3u8
-ID  Jek TV	http://61.8.64.138:1935/jektv/myStream/playlist.m3u8
-ID  Jogja Istimewa TV	http://103.255.15.222:1935/tv/jitv/playlist.m3u8
-ID  Magna Channel	http://210.210.155.35/uq2663/h/h24/index.m3u8
-ID  Metro Globe Network	http://210.210.155.35/uq2663/h/h35/index.m3u8
-ID  Radar Tasikmalaya TV	http://103.140.188.211:1935/radartv/myStream/playlist.m3u8
-ID  Tegar TV Lampung	http://wms.klikhost.com:1935/tegartv/tegartv/playlist.m3u8
-ID  TVKU	http://103.30.1.14:8080/hls/live.m3u8
-ID  ANTV	http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
-ID  Kompas TV	http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
-ID  Metro TV	http://op-group1-swiftservehd-1.dens.tv/h/h211/02.m3u8
-ID  Net TV	http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
-ID  RTV	http://210.210.155.37/uq2663/h/h10/02.m3u8
-ID  TVOne	http://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
-ID  TVRI	http://op-group1-swiftservehd-1.dens.tv/h/h237/02.m3u8
-ID  BBC News Asia Pacific	http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
-ID  K+	http://210.210.155.37/uq2663/h/h08/index.m3u8
-ID  Kix	http://210.210.155.37/dr9445/h/h07/index.m3u8
-ID  My Cinema	http://210.210.155.37/uq2663/h/h192/index.m3u8
-ID  My Cinema Asia	http://210.210.155.37/uq2663/h/h193/index.m3u8
-ID  My Family Channel	http://210.210.155.37/uq2663/h/h194/index.m3u8
-ID  My Kidz	http://210.210.155.37/uq2663/h/h191/index.m3u8
-ID  ROCK Action	http://210.210.155.37/dr9445/h/h15/index.m3u8
-ID  ROCK Entertainment	http://210.210.155.37/dr9445/h/h16/index.m3u8
-ID  SPOTV1	http://202.150.161.68/spotv1/index.m3u8
-ID  SPOTV2	http://202.150.161.68/spotv2/index.m3u8
-ID  tvN Movies	http://210.210.155.37/dr9445/h/h21/index.m3u8
-JP  J Sport 1	http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18
-JP  J Sport 2	http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19
-JP  J Sport 3	http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
-JP  J Sport 4	http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
-US  Tom & Jerry 🇺🇸	http://24hrs.homelinux.com/24H-tom-e-jerry/video.m3u8
-ID  TVRI Aceh	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIACEH)/index.m3u8
-ID  TVRI Bali	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIBALI)/index.m3u8
-ID  TVRI Bangka Belitung	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIBABEL)/index.m3u8
-ID  TVRI Bengkulu	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIBENGKULU)/index.m3u8
-ID  TVRI DKI Jakarta	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIDKI)/index.m3u8
-ID  TVRI Gorontalo	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIGORONTALO)/index.m3u8
-ID  TVRI Jambi	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJAMBI)/index.m3u8
-ID  TVRI Jawa Barat	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/index.m3u8
-ID  TVRI Jawa Tengah	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJATENGSEMARANG)/index.m3u8
-ID  TVRI Jawa Timur	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJATIMSURABAYA)/index.m3u8
-ID  TVRI Kalimantan Barat	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKALBAR)/index.m3u8
-ID  TVRI Kalimantan Selatan	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKALSELBANJARMSN)/index.m3u8
-ID  TVRI Kalimantan Tengah	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKALTENG)/index.m3u8
-ID  TVRI Kalimantan Timur	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKALTIMSAMARINDA)/index.m3u8
-ID  TVRI Lampung	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRILAMPUNG)/index.m3u8
-ID  TVRI Maluku	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIMALUKUAMBON)/index.m3u8
-ID  TVRI Nasional	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
-ID  TVRI Nusa Tenggara Barat	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINTBMATARAM)/index.m3u8
-ID  TVRI Nusa Tenggara Timur	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINTTKUPANG)/index.m3u8
-ID  TVRI Papua	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIPAPUA)/index.m3u8
-ID  TVRI Riau	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIRIAU)/index.m3u8
-ID  TVRI Sport	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/index.m3u8
-ID  TVRI Sulawesi Barat	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISULBARMAJENE)/index.m3u8
-ID  TVRI Sulawesi Selatan	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISULSELMAKASAR)/index.m3u8
-ID  TVRI Sulawesi Tengah	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISULTENGPALU)/index.m3u8
-ID  TVRI Sulawesi Tenggara	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISULTRA)/index.m3u8
-ID  TVRI Sumatera Barat	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISUMBARPADANG)/index.m3u8
-ID  TVRI Sumatera Selatan	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISUMSEL)/index.m3u8
-ID  TVRI Yogyakarta	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/index.m3u8
+ID Bandung TV	http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
+ID Batu TV	http://117.103.69.219:8080/live/streaming/index.m3u8
+ID BNTV	http://210.210.155.35/uq2663/h/h39/index.m3u8
+ID DFC Dens Food Channel	http://210.210.155.35/x6bnqe/s/s50/live.m3u8
+ID Jek TV	http://61.8.64.138:1935/jektv/myStream/playlist.m3u8
+ID Jogja Istimewa TV	http://103.255.15.222:1935/tv/jitv/playlist.m3u8
+ID Magna Channel	http://210.210.155.35/uq2663/h/h24/index.m3u8
+ID Metro Globe Network	http://210.210.155.35/uq2663/h/h35/index.m3u8
+ID Radar Tasikmalaya TV	http://103.140.188.211:1935/radartv/myStream/playlist.m3u8
+ID Tegar TV Lampung	http://wms.klikhost.com:1935/tegartv/tegartv/playlist.m3u8
+ID TVKU	http://103.30.1.14:8080/hls/live.m3u8
+ID ANTV	http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
+ID Kompas TV	http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
+ID Metro TV	http://op-group1-swiftservehd-1.dens.tv/h/h211/02.m3u8
+ID Net TV	http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
+ID RTV	http://210.210.155.37/uq2663/h/h10/02.m3u8
+ID TVOne	http://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
+ID TVRI	http://op-group1-swiftservehd-1.dens.tv/h/h237/02.m3u8
+ID BBC News Asia Pacific	http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
+ID K+	http://210.210.155.37/uq2663/h/h08/index.m3u8
+ID Kix	http://210.210.155.37/dr9445/h/h07/index.m3u8
+ID My Cinema	http://210.210.155.37/uq2663/h/h192/index.m3u8
+ID My Cinema Asia	http://210.210.155.37/uq2663/h/h193/index.m3u8
+ID My Family Channel	http://210.210.155.37/uq2663/h/h194/index.m3u8
+ID My Kidz	http://210.210.155.37/uq2663/h/h191/index.m3u8
+ID ROCK Action	http://210.210.155.37/dr9445/h/h15/index.m3u8
+ID ROCK Entertainment	http://210.210.155.37/dr9445/h/h16/index.m3u8
+ID SPOTV1	http://202.150.161.68/spotv1/index.m3u8
+ID SPOTV2	http://202.150.161.68/spotv2/index.m3u8
+ID tvN Movies	http://210.210.155.37/dr9445/h/h21/index.m3u8
+JP J Sport 1	http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18
+JP J Sport 2	http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19
+JP J Sport 3	http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
+JP J Sport 4	http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
+US Tom & Jerry 🇺🇸	http://24hrs.homelinux.com/24H-tom-e-jerry/video.m3u8
+ID TVRI Aceh	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIACEH)/index.m3u8
+ID TVRI Bali	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIBALI)/index.m3u8
+ID TVRI Bangka Belitung	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIBABEL)/index.m3u8
+ID TVRI Bengkulu	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIBENGKULU)/index.m3u8
+ID TVRI DKI Jakarta	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIDKI)/index.m3u8
+ID TVRI Gorontalo	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIGORONTALO)/index.m3u8
+ID TVRI Jambi	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJAMBI)/index.m3u8
+ID TVRI Jawa Barat	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/index.m3u8
+ID TVRI Jawa Tengah	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJATENGSEMARANG)/index.m3u8
+ID TVRI Jawa Timur	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJATIMSURABAYA)/index.m3u8
+ID TVRI Kalimantan Barat	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKALBAR)/index.m3u8
+ID TVRI Kalimantan Selatan	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKALSELBANJARMSN)/index.m3u8
+ID TVRI Kalimantan Tengah	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKALTENG)/index.m3u8
+ID TVRI Kalimantan Timur	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKALTIMSAMARINDA)/index.m3u8
+ID TVRI Lampung	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRILAMPUNG)/index.m3u8
+ID TVRI Maluku	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIMALUKUAMBON)/index.m3u8
+ID TVRI Nasional	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
+ID TVRI Nusa Tenggara Barat	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINTBMATARAM)/index.m3u8
+ID TVRI Nusa Tenggara Timur	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINTTKUPANG)/index.m3u8
+ID TVRI Papua	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIPAPUA)/index.m3u8
+ID TVRI Riau	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIRIAU)/index.m3u8
+ID TVRI Sport	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/index.m3u8
+ID TVRI Sulawesi Barat	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISULBARMAJENE)/index.m3u8
+ID TVRI Sulawesi Selatan	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISULSELMAKASAR)/index.m3u8
+ID TVRI Sulawesi Tengah	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISULTENGPALU)/index.m3u8
+ID TVRI Sulawesi Tenggara	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISULTRA)/index.m3u8
+ID TVRI Sumatera Barat	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISUMBARPADANG)/index.m3u8
+ID TVRI Sumatera Selatan	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISUMSEL)/index.m3u8
+ID TVRI Yogyakarta	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/index.m3u8
 ONTime Sports EG	00`b002512/index.m3u8
 CBC AZ	00`b001050/index.m3u8
 Dunya TV AZ	00`b002192/index.m3u8
@@ -2699,7 +2702,7 @@ Song TV HD AM	00`b0017032/index.m3u8
 Հինգերորդ ալիք Plus	00`b0015488/index.m3u8
 մուզզոն	00`b00288/index.m3u8
 նոր ՀԱՅԱՍՏԱՆ	00`b00612/index.m3u8
-Նուռ  TV	00`b0015489/index.m3u8
+Նուռ TV	00`b0015489/index.m3u8
 ջան tv	00`b00285/index.m3u8
 սինեման	00`b00283/index.m3u8
 տունտունիկ	00`b00279/index.m3u8
