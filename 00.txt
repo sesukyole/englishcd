@@ -15,7 +15,6 @@ Sky Sport Calcio	https://linear301-it-dash1-prd-akg0.cdn13.skycdp.com/31209/FHD/
 Sky Sport 251	https://linear311-it-dash1-prd-akg0.cdn13.skycdp.com/31917/FHD/skysport251/master.mpd``0036422cf4293ae7cf1e7f7062cc29e8:37a223fcc17c087043bc837432fd25d8
 TV 2 Sport Premium	https://ch11-hls-live.akamaized.net/out/u/433127.mpd``d12e4c9dc52f4cbab7ac9b2278317e47:a7987e5b6ec42db68a25486e108ca9f2
 TV 2 Sport 1	https://rikstv-live-scalstrm.telenorcdn.net/live/rikstv/64393bf81dbc891fd41f53ac/manifest.mpd``0c6212056d2f51fcbf569f9a1a8517d1:d07b404deb7c958347d742e6d1d2f3f9
-BR SBT	https://vrio.s.llnwi.net/band/dash_live_0035/manifest.mpd``3ad3dca103185934acff7a0e9000c112:3f396659d841a55cd1381e6735ecfa1d
 CA Sportsnet 1	https://live-streaming-rsm.akamaized.net/sn1hd/sn1hd_cenc.isml/.mpd``f9dd2ed9609f49309ddf07892d25b081:c1254109aaff73701fbea97dc1899b8e
 CA Sportsnet World	https://live-streaming-rsm.azureedge.net/snwlh/snwlh_cenc.isml/.mpd``44f6a1e5467d4df7a9da2d1b96ee62ca:157d3d7156dd1b288d661d453dbfc682
 Premier Sport 1	https://olam.telka.uk/premiersport_JnD4eF8ALBI4HWrUOpDMUj9sqakB/playlist.mpd
@@ -40,8 +39,6 @@ ES EuroSports 1	https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge3/smil
 ES EuroSports 2	https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:59_HD.smil/manifest.m3u8
 IT EuroSports 1	https://linear301-it-dash1-prd-akg0.cdn13.skycdp.com/313073/FHD/eurosport/master.mpd``0036bb3fa7e6f2c334d7cba5c28b6caf:217fa35739cd68e90b2cd23322c01312
 IT EuroSports 2	https://linear301-it-dash1-prd-akg0.cdn13.skycdp.com/31150/FHD/eurosport2/master.mpd``003670a7034342a4a07c91173818c61c:7b90055c1a1ea34d9090e9ebf6c4db8a
-DAZN Eleven League 02	01`01chttps://tvvvideolive3.solocoo.tv:443/blueskytvvlive7dash/blueelevenproleague2nl/Manifest.mpd``16251e842a834570a8c5a34d45a0d64d:b7243739698cad0d58af01f142d13eae
-DAZN Eleven League 03	01`01chttps://tvvvideolive3.solocoo.tv:443/blueskytvvlive7dash/blueelevenproleague3nl/Manifest.mpd``c6455c5a1ad1484fa4029ba498659838:4329fb08c3444a8ae9b3c477efe11002
 KH Rasmey Hang Meas AFF U19	https://testcors.starlive.workers.dev/http://clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/playlist.m3u8
 KH Hang Meas HDTV AFF U19	https://testcors.starlive.workers.dev/http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/playlist.m3u8
 Live Event 1	https://pull.niues.live/live/stream-991140_lhd.m3u8
@@ -366,6 +363,8 @@ DAZN Eleven 3	01`01a5601`01b
 DAZN Eleven 4	01`01a5701`01b
 DAZN Eleven 5	01`01a5801`01b
 DAZN Eleven 6	01`01a5901`01b
+DAZN Eleven League 02	01`01chttps://tvvvideolive3.solocoo.tv:443/blueskytvvlive7dash/blueelevenproleague2nl/Manifest.mpd``16251e842a834570a8c5a34d45a0d64d:b7243739698cad0d58af01f142d13eae
+DAZN Eleven League 03	01`01chttps://tvvvideolive3.solocoo.tv:443/blueskytvvlive7dash/blueelevenproleague3nl/Manifest.mpd``c6455c5a1ad1484fa4029ba498659838:4329fb08c3444a8ae9b3c477efe11002
 CTV 1	`0https://live.sportsnews.id/p/ctv.html
 CTV 2	`0https://live.sportsnews.id/p/ctv2.html
 Sports 1	https://katanaboss.online/chunklist/hlsch1.m3u8?7
