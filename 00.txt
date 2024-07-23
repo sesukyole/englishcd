@@ -1,7 +1,3 @@
-Live AFF U19 1	https://pull.niues.live/live/stream-9912092_lhd.m3u8
-Live AFF U19 2	https://pull.niues.live/live/stream-479849_lhd.m3u8
-KH Rasmey Hang Meas AFF U19	https://testcors.starlive.workers.dev/http://clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/playlist.m3u8
-KH Hang Meas HDTV AFF U19	https://testcors.starlive.workers.dev/http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/playlist.m3u8
 RTB Aneka Go	https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
 BHT1	https://webtvstream.bhtelecom.ba/hls19/bht1.mpd``c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 SpoTV 1	https://uniproxy.misty.workers.dev/https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd``e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
@@ -42,6 +38,10 @@ ES EuroSports 1	https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge3/smil
 ES EuroSports 2	https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:59_HD.smil/manifest.m3u8
 IT EuroSports 1	https://linear301-it-dash1-prd-akg0.cdn13.skycdp.com/313073/FHD/eurosport/master.mpd``0036bb3fa7e6f2c334d7cba5c28b6caf:217fa35739cd68e90b2cd23322c01312
 IT EuroSports 2	https://linear301-it-dash1-prd-akg0.cdn13.skycdp.com/31150/FHD/eurosport2/master.mpd``003670a7034342a4a07c91173818c61c:7b90055c1a1ea34d9090e9ebf6c4db8a
+KH Rasmey Hang Meas AFF U19	https://testcors.starlive.workers.dev/http://clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/playlist.m3u8
+KH Hang Meas HDTV AFF U19	https://testcors.starlive.workers.dev/http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/playlist.m3u8
+Live AFF U19 1	https://pull.niues.live/live/stream-9912092_lhd.m3u8
+Live AFF U19 2	https://pull.niues.live/live/stream-479849_lhd.m3u8
 ID SpoTV 1	01`00a133/beib1/index.m3u8?c
 ID SpoTV 2	01`00a133/beib2/index.m3u8?c
 ID Football	https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_hls/rcti-soccerchannel-hd.m3u8?c
@@ -585,15 +585,16 @@ Dubai Racing 2	https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.
 Dubai Racing 3	https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/chunklist.m3u8
 European Club Championship HD	https://pull.niues.live/live/stream-9912009_lhd.m3u8
 European Club Championship SD	https://pull.niues.live/live/stream-9912009_lsd.m3u8
-Event 01	https://pull.niues.live/live/stream-400798_lhd.m3u8
+Event 01	https://pull.niues.live/live/stream-9912092_lhd.m3u8
 Event 02	https://pull.niues.live/live/stream-479849_lhd.m3u8
-Event 03	https://pull.niues.live/live/stream-486629_lhd.m3u8
-Event 04	https://pull.niues.live/live/stream-991140_lhd.m3u8
-Event 05	https://pull.niues.live/live/stream-9912041_lhd.m3u8
-Event 06	https://pull.niur.live/live/stream-278654_lhd.m3u8
-Event 07	`0https://xlz.plcdn.xyz/ajax/chanel/type/5/link/channel59
-Event 08	https://lebo.huminbird.cn/live/ballbar_32120.m3u8
-Event 09	https://zbpull3.zyjymall.com/live/93658075241063506404.m3u8
-Event 10	`0https://xlz.plcdn.xyz/ajax/chanel/type/1/link/rchtwtx
-Event 11	`0https://xlz.plcdn.xyz/ajax/chanel/type/1/link/jggujqm
-Event 12	`0https://tructiep.xem.my.id/phong-nha-ke-bang?id=event1
+Event 03	https://pull.niues.live/live/stream-400798_lhd.m3u8
+Event 04	https://pull.niues.live/live/stream-486629_lhd.m3u8
+Event 05	https://pull.niues.live/live/stream-991140_lhd.m3u8
+Event 06	https://pull.niues.live/live/stream-9912041_lhd.m3u8
+Event 07	https://pull.niur.live/live/stream-278654_lhd.m3u8
+Event 08	`0https://xlz.plcdn.xyz/ajax/chanel/type/5/link/channel59
+Event 09	https://lebo.huminbird.cn/live/ballbar_32120.m3u8
+Event 10	https://zbpull3.zyjymall.com/live/93658075241063506404.m3u8
+Event 11	`0https://xlz.plcdn.xyz/ajax/chanel/type/1/link/rchtwtx
+Event 12	`0https://xlz.plcdn.xyz/ajax/chanel/type/1/link/jggujqm
+Event 13	`0https://tructiep.xem.my.id/phong-nha-ke-bang?id=event1
