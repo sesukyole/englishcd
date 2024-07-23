@@ -38,8 +38,8 @@ ES EuroSports 1	https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge3/smil
 ES EuroSports 2	https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:59_HD.smil/manifest.m3u8
 IT EuroSports 1	https://linear301-it-dash1-prd-akg0.cdn13.skycdp.com/313073/FHD/eurosport/master.mpd``0036bb3fa7e6f2c334d7cba5c28b6caf:217fa35739cd68e90b2cd23322c01312
 IT EuroSports 2	https://linear301-it-dash1-prd-akg0.cdn13.skycdp.com/31150/FHD/eurosport2/master.mpd``003670a7034342a4a07c91173818c61c:7b90055c1a1ea34d9090e9ebf6c4db8a
-KH Rasmey Hang Meas AFF U19	https://testcors.starlive.workers.dev/http://clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/playlist.m3u8
-KH Hang Meas HDTV AFF U19	https://testcors.starlive.workers.dev/http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/playlist.m3u8
+KH Rasmey Hang Meas AFF U19	https://andi-cors-proxy-service-k8s.andisearch.com/clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/playlist.m3u8
+KH Hang Meas HDTV AFF U19	https://andi-cors-proxy-service-k8s.andisearch.com/clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/playlist.m3u8
 Live AFF U19 1	https://pull.niues.live/live/stream-9912092_lhd.m3u8
 Live AFF U19 2	https://pull.niues.live/live/stream-479849_lhd.m3u8
 ID SpoTV 1	01`00a133/beib1/index.m3u8?c
@@ -275,7 +275,7 @@ Sky Sport 258	https://linear311-it-dash1-prd-akg0.cdn13.skycdp.com/32772/skyspor
 RU Match! Premier	https://proji.glitch.me/https://video.beeline.tv/live/d/channel318.isml/manifest-stb.mpd``2bb7b314771ed5eeddd8f44a9aa42740:01f2a8f11bd891655a752c1749f478ec
 RU Match!	https://proji.glitch.me/https://video.beeline.tv/live/d/channel317.isml/manifest-stb.mpd``5e1c798b16d24dc8cbfc7819abf77b4d:4ba5d9aeba2239b425d1cf7b45474333
 RU Match! Arena	https://proji.glitch.me/https://video.beeline.tv/live/d/channel512.isml/manifest-stb.mpd``9839b170b4fc384f243bffd8929b71a2:34cdd6f3e1bf6a9f9d54e9165abf8c09
-RU Match! Fight	https://proji.glitch.me/http://video.beeline.tv/live/d/channel377.isml/manifest-stb.mpd``660a37a91aa00b7e2e0bc7dca349b982:3593a4a2bfbd7d9585efff083b769cf5
+RU Match! Fight	https://proji.glitch.me/https://video.beeline.tv/live/d/channel377.isml/manifest-stb.mpd``660a37a91aa00b7e2e0bc7dca349b982:3593a4a2bfbd7d9585efff083b769cf5
 CCTV 1	https://node3.olelive.com:6443/live/CCTV1HD/hls.m3u8
 CCTV 2	https://node3.olelive.com:6443/live/CCTV2HD/hls.m3u8
 CCTV 6	https://node3.olelive.com:6443/live/CCTV6HD/hls.m3u8
