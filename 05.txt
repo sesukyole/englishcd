@@ -968,13 +968,6 @@ AFG012:TAMADON	00`06alive00`06b51603.m3u8
 AFG013:TOLO NEWS TV	00`06alive00`06b51602.m3u8
 AFG014:Tolo TV	00`06alive00`06b51601.m3u8
 AFG015:ZHWANDOON TV	00`06alive00`06b51600.m3u8
-AL:------|DOCUMENTARY|--------------------------------	00`06alive00`06b61051.m3u8
-AL:------|FILM|-------------------------------------	00`06alive00`06b61049.m3u8
-AL:------|Gazetari|---------------------------------------	00`06alive00`06b61050.m3u8
-AL:------|Gjenerale|------------------------------	00`06alive00`06b61046.m3u8
-AL:-----|HUMOR|----------------	00`06alive00`06b61368.m3u8
-AL:-----|MUZIKA|-------------	00`06alive00`06b61366.m3u8
-AL:------|SPORT|--------------------------------------	00`06alive00`06b61047.m3u8
 AL001:21 POPULLORE	00`06alive00`06b30633.m3u8
 AL002:24 KITCHEN	00`06alive00`06b30632.m3u8
 AL003:A-MOL TV	00`06alive00`06b30631.m3u8
@@ -1771,19 +1764,6 @@ BN036:Bein Sports Max 2	00`06alive00`06b59263.m3u8
 BN037:Bein Sports Max 3	00`06alive00`06b59262.m3u8
 BN038:Bein Sports Max 4	00`06alive00`06b59261.m3u8
 BN039:Bein Sports Max 5	00`06alive00`06b59260.m3u8
-BR:-----|24 Horas|---------------------------------	00`06alive00`06b66020.m3u8
-BR:-----|Canais Abertos|---------------------------------	00`06alive00`06b66017.m3u8
-BR:-----|Canais Hbo|---------------------------------	00`06alive00`06b66018.m3u8
-BR:-----|Canais Premiere|---------------------------------	00`06alive00`06b66019.m3u8
-BR:-----|Canais Telecine|---------------------------------	00`06alive00`06b66012.m3u8
-BR:-----|Documentarios|---------------------------------	00`06alive00`06b66167.m3u8
-BR:-----|Esportes|---------------------------------	00`06alive00`06b66013.m3u8
-BR:-----|Filmes e Series|---------------------------------	00`06alive00`06b66011.m3u8
-BR:-----|Infantis|---------------------------------	00`06alive00`06b66016.m3u8
-BR:-----|Musicas|--------------------------	00`06alive00`06b66168.m3u8
-BR:-----|Noticias|-----------------------	00`06alive00`06b66165.m3u8
-BR:-----|Rede Globo|---------------------------------	00`06alive00`06b66015.m3u8
-BR:-----|Variedades|---------------------------------	00`06alive00`06b66014.m3u8
 BR001:A&E HD	00`06alive00`06b2531.m3u8
 BR002:AMC HD	00`06alive00`06b2530.m3u8
 BR003:Animal Planet HD	00`06alive00`06b2529.m3u8
@@ -2017,12 +1997,6 @@ BR270:Globo Nordeste HD	00`06alive00`06b66006.m3u8
 BR271:Globo Rio HD	00`06alive00`06b66007.m3u8
 BR272:CANAL BRASIL	00`06alive00`06b66008.m3u8
 BR273:REDE VIDA HD	00`06alive00`06b49959.m3u8
-CA:-----|DOCUMENTARY|---------------------------------	00`06alive00`06b60633.m3u8
-CA:-----|GENERAL|-------------------------------------	00`06alive00`06b60628.m3u8
-CA:-----|KIDS|----------------------------------------	00`06alive00`06b60632.m3u8
-CA:-----|MOVIES|--------------------------------------	00`06alive00`06b60629.m3u8
-CA:-----|NEWS|----------------------------------------	00`06alive00`06b60631.m3u8
-CA:-----|SPORTS|--------------------------------------	00`06alive00`06b60630.m3u8
 CA001:ABC Spark HD	00`06alive00`06b3068.m3u8
 CA002:Sportnet Ontario HD	00`06alive00`06b3067.m3u8
 CA003:AMC HD	00`06alive00`06b3066.m3u8
@@ -2551,12 +2525,6 @@ CZ064:PRIMA PLUS	00`06alive00`06b61031.m3u8
 CZ065:PRIMA	00`06alive00`06b61032.m3u8
 CZ066:PRIMA ZOOM	00`06alive00`06b61033.m3u8
 CZ067:REBEL	00`06alive00`06b61034.m3u8
-DE:-----|CINEMA|--------------------	00`06alive00`06b60656.m3u8
-DE:-----|DOCUMENTARY|---------------	00`06alive00`06b60653.m3u8
-DE:-----|ENTERTAINMENT|-------------	00`06alive00`06b60654.m3u8
-DE:-----|KIDS|----------------------	00`06alive00`06b60655.m3u8
-DE:-----|NEWS|----------------------	00`06alive00`06b60657.m3u8
-DE:-----|SPORT|---------------------	00`06alive00`06b60652.m3u8
 DE001:1.2.3 TV	00`06alive00`06b2682.m3u8
 DE002:13TH STREET	00`06alive00`06b2681.m3u8
 DE003:3 SAT	00`06alive00`06b2680.m3u8
@@ -2945,14 +2913,6 @@ DK100:Viasat Film Action	00`06alive00`06b31031.m3u8
 DK101:Viasat Film Family	00`06alive00`06b31030.m3u8
 DK102:Viasat Film Hits HD	00`06alive00`06b31029.m3u8
 DK103:TV2 HD	00`06alive00`06b31028.m3u8
-ES:-----|ES Alquiler|------------	00`06alive00`06b62170.m3u8
-ES:-----|ES Cine|--------------------	00`06alive00`06b60625.m3u8
-ES:-----|ES Cultura|---------------	00`06alive00`06b60627.m3u8
-ES:-----|ES Deportes|--------------------	00`06alive00`06b60624.m3u8
-ES:-----|ES Entretenimiento|--------------------	00`06alive00`06b60623.m3u8
-ES:-----|ES Movistar|--------------	00`06alive00`06b62168.m3u8
-ES:-----|ES Musica|--------------	00`06alive00`06b62169.m3u8
-ES:-----|ES Ninos|--------------------	00`06alive00`06b60626.m3u8
 ES001:#0 HD	00`06alive00`06b2603.m3u8
 ES002:13 TV	00`06alive00`06b2602.m3u8
 ES003:24H	00`06alive00`06b2601.m3u8
@@ -3252,11 +3212,6 @@ FR: (Pluto) Drama	00`06alive00`06b28047.m3u8
 FR: (Pluto) Extrême	00`06alive00`06b28044.m3u8
 FR: (Pluto) FailArmy	00`06alive00`06b27973.m3u8
 FR: (Pluto) Nature	00`06alive00`06b28046.m3u8
-FR:-----|CINEMA|-----------------------------	00`06alive00`06b60619.m3u8
-FR:-----|ENTERTAINMENT|----------------------	00`06alive00`06b60622.m3u8
-FR:-----|KIDS|-------------------------------	00`06alive00`06b60621.m3u8
-FR:-----|NEWS|-------------------------------	00`06alive00`06b60620.m3u8
-FR:-----|SPORT|------------------------------	00`06alive00`06b60618.m3u8
 FR001:13EME RUE HD	00`06alive00`06b2865.m3u8
 FR002:6 TER HD	00`06alive00`06b2864.m3u8
 FR003:A LA CARTE 1 HD	00`06alive00`06b2863.m3u8
@@ -4427,16 +4382,6 @@ IT: (Pluto) The pet collective HD	00`06alive00`06b52708.m3u8
 IT: (Pluto) World Poker Tour	00`06alive00`06b52714.m3u8
 IT: (Pluto) Young & Fabulous+	00`06alive00`06b52699.m3u8
 IT: (Pluto) Young and fabulous HD	00`06alive00`06b52707.m3u8
-IT: ======= IT CULTURA ========	00`06alive00`06b60443.m3u8
-IT: ======= IT NOTIZIE ========	00`06alive00`06b60490.m3u8
-IT: ======= IT SPORT =========	00`06alive00`06b60370.m3u8
-IT: ======== IT MEDIASET PREMIUM ========	00`06alive00`06b60496.m3u8
-IT:-----|CULTURA|--------------------------------------	00`06alive00`06b60638.m3u8
-IT:-----|GENERAL|--------------------------------------	00`06alive00`06b60634.m3u8
-IT:-----|KIDS|------------------------------------------	00`06alive00`06b60639.m3u8
-IT:-----|MOVIES|---------------------------------------	00`06alive00`06b60635.m3u8
-IT:-----|PLUTO|--------------------------------------	00`06alive00`06b77280.m3u8
-IT:-----|SPORT|----------------------------------------	00`06alive00`06b60637.m3u8
 IT001:ANIMAL PLANET 	00`06alive00`06b2771.m3u8
 IT002:BOING 	00`06alive00`06b2770.m3u8
 IT003:Camera dei Deputati 	00`06alive00`06b2769.m3u8
@@ -5274,11 +5219,6 @@ MY177:Astro SuperSport Events 3	00`06alive00`06b71146.m3u8
 MY178:SPOTV	00`06alive00`06b71147.m3u8
 MY179:TVS	00`06alive00`06b71148.m3u8
 MY180:Awesome TV	00`06alive00`06b71149.m3u8
-NL:-----|DOCUMENTARY|---------------------------------	00`06alive00`06b61056.m3u8
-NL:-----|GENERAL|-------------------------------------	00`06alive00`06b61052.m3u8
-NL:-----|KIDS|----------------------------------------	00`06alive00`06b61055.m3u8
-NL:-----|MOVIES|--------------------------------------	00`06alive00`06b61054.m3u8
-NL:-----|SPORTS|--------------------------------------	00`06alive00`06b61053.m3u8
 NL001:Ziggo Sport Select FHD	00`06alive00`06b31530.m3u8
 NL002:Veronica XD FHD	00`06alive00`06b31529.m3u8
 NL003:Ziggo Sport FHD	00`06alive00`06b31528.m3u8
@@ -5686,13 +5626,6 @@ PK126:VSH	00`06alive00`06b31612.m3u8
 PK127:Zindgai TV	00`06alive00`06b31611.m3u8
 PK128:Waseb TV	00`06alive00`06b31610.m3u8
 PK129:Akaal Channel	00`06alive00`06b31609.m3u8
-PL:------|CINEMA|-------------------------------------	00`06alive00`06b61060.m3u8
-PL:------|DOCUMENTARY|--------------------------------	00`06alive00`06b61062.m3u8
-PL:------|ENTERTAINMENT|------------------------------	00`06alive00`06b61057.m3u8
-PL:------|KIDS|---------------------------------------	00`06alive00`06b61059.m3u8
-PL:------|MUSIC|---------------------------------------	00`06alive00`06b66166.m3u8
-PL:------|NEWS|---------------------------------------	00`06alive00`06b61061.m3u8
-PL:------|SPORT|--------------------------------------	00`06alive00`06b61058.m3u8
 PL001:13 Ulica FHD	00`06alive00`06b33531.m3u8
 PL002:Ale Kino +	00`06alive00`06b33530.m3u8
 PL003:4Fun TV	00`06alive00`06b33529.m3u8
@@ -5886,11 +5819,6 @@ PPV001:PPV EVENTS 01	00`06alive00`06b68730.m3u8
 PPV002:PPV EVENTS 02	00`06alive00`06b68731.m3u8
 PPV003:PPV EVENTS 03	00`06alive00`06b68732.m3u8
 PPV004:PPV EVENTS 04	00`06alive00`06b68733.m3u8
-PT:-----|DOCUMENTARY|---------------------------------	00`06alive00`06b60649.m3u8
-PT:-----|GENERAL|-------------------------------------	00`06alive00`06b60647.m3u8
-PT:-----|KIDS|----------------------------------------	00`06alive00`06b60651.m3u8
-PT:-----|MOVIES|--------------------------------------	00`06alive00`06b60648.m3u8
-PT:-----|SPORTS|--------------------------------------	00`06alive00`06b60650.m3u8
 PT001:A&E	00`06alive00`06b3249.m3u8
 PT002:A Bola TV	00`06alive00`06b3248.m3u8
 PT003:Afro Music	00`06alive00`06b3247.m3u8
@@ -6648,14 +6576,6 @@ TH110:MV Lao	00`06alive00`06b60382.m3u8
 TH111:Thailand Championship 2020	00`06alive00`06b60406.m3u8
 TH112:RS Mall	00`06alive00`06b60402.m3u8
 TH113:TVD 1	00`06alive00`06b60401.m3u8
-TR:------|BELGESEL|--------------	00`06alive00`06b61751.m3u8
-TR:------|COCUK|----------------------	00`06alive00`06b61749.m3u8
-TR:------|HABER|----------------------	00`06alive00`06b61750.m3u8
-TR:------|MUZIK|--------------	00`06alive00`06b61753.m3u8
-TR:------|SINEMA|--------------	00`06alive00`06b61752.m3u8
-TR:------|SPORT|---------------------	00`06alive00`06b61748.m3u8
-TR:------|ULUSAL|--------------	00`06alive00`06b61755.m3u8
-TR:------|YEREL|--------------	00`06alive00`06b61754.m3u8
 TR001:24	00`06alive00`06b33068.m3u8
 TR002:24 KITCHEN	00`06alive00`06b33067.m3u8
 TR003:360	00`06alive00`06b33066.m3u8
@@ -7119,12 +7039,6 @@ TW113:博斯运动2	00`06alive00`06b51881.m3u8
 TW114:博斯网球	00`06alive00`06b51880.m3u8
 TW115:博斯无限	00`06alive00`06b51879.m3u8
 TW116:美亚电影台	00`06alive00`06b51878.m3u8
-UK:------|CINEMA|--------------------------------------	00`06alive00`06b60645.m3u8
-UK:------|DOCUMENTARY|---------------------------------	00`06alive00`06b60646.m3u8
-UK:------|ENTERTAINMENT|-------------------------------	00`06alive00`06b60641.m3u8
-UK:------|KIDS|----------------------------------------	00`06alive00`06b60642.m3u8
-UK:------|NEWS|----------------------------------------	00`06alive00`06b60644.m3u8
-UK:------|SPORT|---------------------------------------	00`06alive00`06b60643.m3u8
 UK001:4Music	00`06alive00`06b2956.m3u8
 UK002:4Seven	00`06alive00`06b2955.m3u8
 UK003:5Star	00`06alive00`06b2954.m3u8
@@ -8217,19 +8131,6 @@ US954:NFL-Seahawks FHD	00`06alive00`06b68770.m3u8
 US955:NFL-Steelers FHD	00`06alive00`06b68771.m3u8
 US956:NFL-Texans FHD	00`06alive00`06b60979.m3u8
 US957:NFL-Titans	00`06alive00`06b60980.m3u8
-USA:-----|ABC|------------------------------------	00`06alive00`06b60617.m3u8
-USA:-----|CBS|------------------------------------	00`06alive00`06b60611.m3u8
-USA:-----|FOX|------------------------------------	00`06alive00`06b60610.m3u8
-USA:-----|GENERAL|--------------------------------	00`06alive00`06b60607.m3u8
-USA:-----|MLB|------------------------------------	00`06alive00`06b60614.m3u8
-USA:-----|MOVIES|---------------------------------	00`06alive00`06b60608.m3u8
-USA:-----|NBA|------------------------------------	00`06alive00`06b60615.m3u8
-USA:-----|NBC|------------------------------------	00`06alive00`06b60612.m3u8
-USA:-----|NFL|------------------------------------	00`06alive00`06b60613.m3u8
-USA:-----|NHL|------------------------------------	00`06alive00`06b60616.m3u8
-USA:-----|Olympic|---------------------------------	00`06alive00`06b76139.m3u8
-USA:-----|PPV|------------------------------------	00`06alive00`06b68729.m3u8
-USA:-----|SPORTS|---------------------------------	00`06alive00`06b60609.m3u8
 VN001:TRA VINH HD	00`06alive00`06b1871.m3u8
 VN002:VTV4 HD	00`06alive00`06b1870.m3u8
 VN003:KBS WORLD	00`06alive00`06b1869.m3u8
