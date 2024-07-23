@@ -165,9 +165,12 @@ Belarus 2	https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8
 Belarus 3	https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8
 Belarus 5	https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
 Belarus 5 Int	https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8
+Setanta Sports KZ	https://proji.glitch.me/https://bkm.beetv.kz/btv/live/hls/000002649.m3u8
 Setanta Sports KZ	https://proji.glitch.me/https://bkm.beetv.kz/btv/live/hls/000004619.m3u8
-Setanta Sports 1a	https://proji.glitch.me/https://bkm.beetv.kz/btv/live/hls/000006998.m3u8
-Setanta Sports 2	https://proji.glitch.me/https://bkm.beetv.kz/btv/live/hls/000006899.m3u8
+Setanta Sports 1 RU	https://proji.glitch.me/https://bkm.beetv.kz/btv/live/hls/000004498.m3u8
+Setanta Sports 1 KZ	https://proji.glitch.me/https://bkm.beetv.kz/btv/live/hls/000006998.m3u8
+Setanta Sports 2 RU	https://proji.glitch.me/https://bkm.beetv.kz/btv/live/hls/000004499.m3u8
+Setanta Sports 2 KZ	https://proji.glitch.me/https://bkm.beetv.kz/btv/live/hls/000006899.m3u8
 Setanta Sports 1b	https://proji.glitch.me/https://tr.live.cdn.cgates.lt/live/dash/561002/index.mpd``8ab2332442854e62b0018eec3ee58484:37fdee8b6eef5c96001e8c6fc47bfc08
 Viju+ Sport	https://proji.glitch.me/https://bkm.beetv.kz/btv/live/hls/000000135.m3u8
 beIN Sports US	`0https://popcdn.day/cue.php?stream=beINSPORTSUS
@@ -252,6 +255,7 @@ BEK Sports East	https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPR
 BEK Sports West	https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
 MAVTV	https://d70mb4nkspm3g.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vvwqo3j029lz0/playlist.m3u8
 Fite TV	https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
+MTRSPT 1	https://proji.glitch.me/https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-samsungau/playlist.m3u8
 Motorvision	https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 Motorvision Plus	https://op-group1-swiftservehd-1.dens.tv/h/h242/index.m3u8
 PFL	https://d856dff4.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsLWdiX1BGTE1NQV9ITFM/22e27f77-d243-40b2-9dd3-cb6efe6e61a0/5.m3u8
@@ -341,11 +345,11 @@ ViaPlay Extra 65	https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra65/xtra65.isml/
 ViaPlay Extra 12	https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra12/xtra12.isml/index.mpd``ed4086de5e445f9bac5c093362a0f549:599aa72e49e4736f58e947ea0c34f235
 NO TV 3	https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra100/xtra100.isml/index.mpd``b08d9804e8ea51bb8d71fd4bf77c3f5b:b9fe3237a5f11a2a084264074b125c9c
 Alkass 1	https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1bup/master.m3u8
-Alkass 2	https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass2hgfdfghjikmnhygf/master.m3u8
 Alkass 3	https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass3pzrjl/master.m3u8
 Alkass 4	https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass4xiuytgfficcn/master.m3u8
-Alkass 5	https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass5xtwe/master.m3u8
 Alkass 6	https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass6xydam/master.m3u8
+Alkass 2	https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass2hgfdfghjikmnhygf/master.m3u8
+Alkass 5	https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass5xtwe/master.m3u8
 LaLiga Plus	https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdgeVX/smil:272_HD.smil/manifest.mpd``aa724943787320593f5563048c90032d:a039276254f53769b040199a4eca8c2c
 DAZN F1	01`01a1601`01b
 DAZN 1 DE	01`01a1701`01b
