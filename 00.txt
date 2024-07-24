@@ -275,7 +275,6 @@ Amazon Cricket Plus	https://testcors.starlive.workers.dev/https://aba5sdmaaaaaaa
 GT Azteca	https://ch1-tva.duin.dev/hls/stream.m3u8
 GT A Mas	https://ch2-tva.duin.dev/hls/stream.m3u8
 Telemundo USA	https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
-Liga 1 Max	https://server3.betzta.com/l1max/index.m3u8?token=4a2fe84ee914a68fbedeca628060e380f98bdeac-ccfdbd41eda9d233cb595a2b471ab466-1721772478-1721761678&remote=36.70.81.150
 Sky Sport 252	https://linear311-it-dash1-prd-akg0.cdn13.skycdp.com/32951/FHD/skysport252/master.mpd``003643bc9d61268c987504fa93b397f6:b8d5767c73ff8bba68d955035b56f4c1
 Sky Sport 254	https://linear311-it-dash1-prd-akg0.cdn13.skycdp.com/31234/FHD/skysport254/master.mpd``00369c14c20b78aadb1ec0e3c0e74979:e768767e2c7238d8069887bb36aed7fa
 Sky Sport 258	https://linear311-it-dash1-prd-akg0.cdn13.skycdp.com/32772/skysport258/master.mpd``0036fd8ccfddba47c8b40aeff63a797c:dfd5c9d0f4ac6f3a1bd89803399e7026
@@ -604,3 +603,4 @@ Event 10	https://zbpull3.zyjymall.com/live/93658075241063506404.m3u8
 Event 11	`0https://xlz.plcdn.xyz/ajax/chanel/type/1/link/rchtwtx
 Event 12	`0https://xlz.plcdn.xyz/ajax/chanel/type/1/link/jggujqm
 Event 13	`0https://tructiep.xem.my.id/phong-nha-ke-bang?id=event1
+ESPN	`0https://embedflix.online/tv/espn
