@@ -604,4 +604,6 @@ Event 11	`0https://xlz.plcdn.xyz/ajax/chanel/type/1/link/rchtwtx
 Event 12	`0https://xlz.plcdn.xyz/ajax/chanel/type/1/link/jggujqm
 Event 13	`0https://tructiep.xem.my.id/phong-nha-ke-bang?id=event1
 ESPN	`1https://embedflix.online/tv/espn
+ESPN 1 PE	`1https://betzta.com/canales.php?stream=espnpe
 ESPN 1 PE	`0https://betzta.com/canales.php?stream=espnpe
+ESPN 1 PE	https://server2.betzta.com/espnpe/index.m3u8?token=1fbf680b24b91446868ca9659efcc103a941c527-bd8c865e9add34950836f073e76d402e-1721858076-1721847276&remote=36.70.81.150?7
