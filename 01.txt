@@ -1,7 +1,5 @@
 SA  Makkah	https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
 SA  Medina	https://op-group1-swiftservesd-1.dens.tv/s/s27/index.m3u8
-EuroSport HD 1	http://edge02.odtv.az/o7/eurosport/playlist.m3u8
-EuroSport HD 2	http://edge02.odtv.az/o3/eurosport2/playlist.m3u8
 PS  Palestine TV	https://pbc.furrera.ps/palestinehd/index.m3u8
 PS  Voice of Palestine	https://pbc.furrera.ps/PalLive/VOPTV/index.m3u8
 PS  Musawwa	https://pbc.furrera.ps/musawahd/index.m3u8
