@@ -1,5 +1,7 @@
 SA  Makkah	https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
 SA  Medina	https://op-group1-swiftservesd-1.dens.tv/s/s27/index.m3u8
+EuroSport HD 1	http://edge02.odtv.az/o7/eurosport/playlist.m3u8
+EuroSport HD 2	http://edge02.odtv.az/o3/eurosport2/playlist.m3u8
 PS  Palestine TV	https://pbc.furrera.ps/palestinehd/index.m3u8
 PS  Voice of Palestine	https://pbc.furrera.ps/PalLive/VOPTV/index.m3u8
 PS  Musawwa	https://pbc.furrera.ps/musawahd/index.m3u8
@@ -547,8 +549,6 @@ Canal Sur	https://cdnlive.codev8.net/rtvalive/DtRLVjt1.smil/.m3u8
 Canal Extremadura	https://cdnapisec.kaltura.com/p/5581662/sp/558166200/playManifest/entryId/1_in8cxw3w/protocol/https/format/applehttp/.m3u8
 Torole 1	https://media1.ultrik.com/live/torole1.m3u8
 Toros-Telemadrid	https://telemadrid-23-secure2.akamaized.net/
-Eurosport 1 🇵🇱🇺🇸ᴴᴰ	https://bkm.beetv.kz/btv/live/hls/000002478.m3u8
-Eurosport 2 🇵🇱🇺🇸ᴴᴰ	https://bkm.beetv.kz/btv/live/hls/000002479.m3u8
 Food Networkᴴᴰ 🇺🇸🇮🇳	https://raw.githubusercontent.com/inspirationlinks/m3u/live/Streams/foodNet.m3u8
 FR  L`Equipe 🇫🇷ᴴᴰ	https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/eqpe/equipe.m3u8
 FR  Museum TV 🇫🇷	https://live2.creacast.com/museum-france/smil:museum-france.smil/master.m3u8

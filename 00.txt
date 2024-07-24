@@ -1,10 +1,20 @@
 RTB Aneka Go	https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
 BHT1	https://webtvstream.bhtelecom.ba/hls19/bht1.mpd``c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+ES La1	https://cache3.zapitv.com/live/eds_c2/la1_4k/dash_live_enc/la1_4k.mpd``a3abc44525eef3b0a7af9138a9dbe34a:7740f8ae4223ce5ba293028f7f78f1c1
+ES La2	https://rtvelivestreamv3.akamaized.net/rtvesec/la2/la2_main.m3u8
+ES EuroSport 1	https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:43_HD.smil/manifest.m3u8
+ES EuroSport 2	https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:59_HD.smil/manifest.m3u8
+IT EuroSport 1	https://linear301-it-dash1-prd-akg0.cdn13.skycdp.com/313073/FHD/eurosport/master.mpd``0036bb3fa7e6f2c334d7cba5c28b6caf:217fa35739cd68e90b2cd23322c01312
+IT EuroSport 2	https://linear301-it-dash1-prd-akg0.cdn13.skycdp.com/31150/FHD/eurosport2/master.mpd``003670a7034342a4a07c91173818c61c:7b90055c1a1ea34d9090e9ebf6c4db8a
+CA Sportsnet 1	https://live-streaming-rsm.akamaized.net/sn1hd/sn1hd_cenc.isml/.mpd``f9dd2ed9609f49309ddf07892d25b081:c1254109aaff73701fbea97dc1899b8e
+CA Sportsnet World	https://live-streaming-rsm.azureedge.net/snwlh/snwlh_cenc.isml/.mpd``44f6a1e5467d4df7a9da2d1b96ee62ca:157d3d7156dd1b288d661d453dbfc682
+USA East	https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd``882c9f5613b43b47adc70aa968a308ce:de534ef8914bfe62ba3cdd6bdb9e1c04
+USA West	https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd``252a671825ba31ec8433f978c32ccf6d:ee560759ecc8d2274df2e63fcef56915
+ESPN 1	https://b.trybrett.shop/espn.m3u8
+ESPN 2	https://b.trybrett.shop/espn2.m3u8
 SpoTV 1	https://uniproxy.misty.workers.dev/https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd``e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
 SpoTV 2	https://uniproxy.misty.workers.dev/https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd``e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
 CT Sport	https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cbcs.mpd``11223344556677889900112233445566:11223344556677889900112233445566
-ES La1	https://cache3.zapitv.com/live/eds_c2/la1_4k/dash_live_enc/la1_4k.mpd``a3abc44525eef3b0a7af9138a9dbe34a:7740f8ae4223ce5ba293028f7f78f1c1
-ES La2	https://rtvelivestreamv3.akamaized.net/rtvesec/la2/la2_main.m3u8
 NL Channel S	https://live.vrtcdn.be/groupc/live/8edf3bdf-7db3-41c3-a318-72cb7f82de66/live.isml/.mpd``ef4daa3c90333621e4115ff1ca5bfbda:424c9902fce5a2e7dcbeb37ffc06b906
 NRK1	https://rikstv-live-scalstrm.telenorcdn.net/live/rikstv/64393b4f1dbc891fd41f5242/manifest.mpd``01010101010101010101010101010101:01010101010101010101010101010101
 RTL	https://pnowlive-a.akamaized.net/live/rtlhd/dash/rtlhd.mpd``57e48b99f3f6d4f13f5c5afdcca084ca:29379a5e2d3405fad2f5d9cbe92586c3
@@ -14,18 +24,12 @@ Sky Sport Calcio	https://linear301-it-dash1-prd-akg0.cdn13.skycdp.com/31209/FHD/
 Sky Sport 251	https://linear311-it-dash1-prd-akg0.cdn13.skycdp.com/31917/FHD/skysport251/master.mpd``0036422cf4293ae7cf1e7f7062cc29e8:37a223fcc17c087043bc837432fd25d8
 TV 2 Sport Premium	https://ch11-hls-live.akamaized.net/out/u/433127.mpd``d12e4c9dc52f4cbab7ac9b2278317e47:a7987e5b6ec42db68a25486e108ca9f2
 TV 2 Sport 1	https://rikstv-live-scalstrm.telenorcdn.net/live/rikstv/64393bf81dbc891fd41f53ac/manifest.mpd``0c6212056d2f51fcbf569f9a1a8517d1:d07b404deb7c958347d742e6d1d2f3f9
-CA Sportsnet 1	https://live-streaming-rsm.akamaized.net/sn1hd/sn1hd_cenc.isml/.mpd``f9dd2ed9609f49309ddf07892d25b081:c1254109aaff73701fbea97dc1899b8e
-CA Sportsnet World	https://live-streaming-rsm.azureedge.net/snwlh/snwlh_cenc.isml/.mpd``44f6a1e5467d4df7a9da2d1b96ee62ca:157d3d7156dd1b288d661d453dbfc682
 Premier Sport 1	https://olam.telka.uk/premiersport_JnD4eF8ALBI4HWrUOpDMUj9sqakB/playlist.mpd
 NL NPO 1	https://nlziet-live.akamaized.net/L6/76fd047c/c427bd9d.isml/.mpd``7545f9301bf94e7a9132dccf32920e51:94fc134c1b1cb1ea9075781417eca48b
 NL NPO 2	https://nlziet-live.akamaized.net/L27/576200ff/17f23d2b.isml/.mpd``cd2e51e9dadd4e38b2b8df5680f7aa43:ce1083c14ed247bbc693bbe6bf0fd36b
 NL NPO 3	https://nlziet-live.akamaized.net/L7/7be0c2b0/358f270a.isml/.mpd``fe20b1562fc045caa0e341cfad93e153:cea73dbdf65c288dbff24ad6af8d535e
 ETB 1	https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
 ETB 2	https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
-USA East	https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd``882c9f5613b43b47adc70aa968a308ce:de534ef8914bfe62ba3cdd6bdb9e1c04
-USA West	https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd``252a671825ba31ec8433f978c32ccf6d:ee560759ecc8d2274df2e63fcef56915
-ESPN 1	https://b.trybrett.shop/espn.m3u8
-ESPN 2	https://b.trybrett.shop/espn2.m3u8
 TNT Sports 1	https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd``ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
 TNT Sports 2	https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd``6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
 TNT Sports 3	https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd``4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
@@ -34,10 +38,6 @@ TNT Sports 5	https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc
 Arena Sport Premium 1	https://webtvstream.bhtelecom.ba/hls6/as_premium1.mpd``c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 Arena Sport Premium 2	https://webtvstream.bhtelecom.ba/hls6/as_premium2.mpd``c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 Arena Sport Premium 3	https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd``c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-ES EuroSports 1	https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:43_HD.smil/manifest.m3u8
-ES EuroSports 2	https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:59_HD.smil/manifest.m3u8
-IT EuroSports 1	https://linear301-it-dash1-prd-akg0.cdn13.skycdp.com/313073/FHD/eurosport/master.mpd``0036bb3fa7e6f2c334d7cba5c28b6caf:217fa35739cd68e90b2cd23322c01312
-IT EuroSports 2	https://linear301-it-dash1-prd-akg0.cdn13.skycdp.com/31150/FHD/eurosport2/master.mpd``003670a7034342a4a07c91173818c61c:7b90055c1a1ea34d9090e9ebf6c4db8a
 KH Rasmey Hang Meas AFF U19	https://andi-cors-proxy-service-k8s.andisearch.com/clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/playlist.m3u8
 KH Hang Meas HDTV AFF U19	https://andi-cors-proxy-service-k8s.andisearch.com/clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/playlist.m3u8
 Live AFF U19 1	https://pull.niues.live/live/stream-9912092_lhd.m3u8
@@ -202,8 +202,6 @@ Afro Sport	https://newproxy3.vidivu.tv/vidivu_afrosport/index.m3u8
 Sport 1 Plus	https://ac-009.live.p7s1video.net/c5c609cf/t_009/sport1plus-de-hd/cenc-default.mpd``c1c11c3844b0dffdb9d9831900f1a1da:a2c31e15346f339ca2b47bdd8591553f
 Sky Open	https://linear-p.media.skyone.co.nz/primeplus1.clear.m3u8
 SM RTV Sport	https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/master.m3u8
-EuroSports HD 1	http://edge02.odtv.az/o7/eurosport/playlist.m3u8
-EuroSports HD 2	http://edge02.odtv.az/o3/eurosport2/playlist.m3u8
 DAZN International Football	https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64b79c057d934100080b3583livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 DAZN Darts	https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64b67f0424ade50008a3be17livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 DAZN Rise	https://dcj-ak-livedazn.akamaized.net/dash/dazn-linear-501/stream.mpd``cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
@@ -545,10 +543,10 @@ DE DAZN 2	`0https://go.now.net.eu.org/p/live?embed=dazn2de&type=m
 DE SportDigital FussBall	`0https://go.now.net.eu.org/p/live?embed=digital&type=m
 IT Zona DAZN	`0https://go.now.net.eu.org/p/live?embed=zonait&type=m
 IT Milan TV	`0https://go.now.net.eu.org/p/live?embed=milantv&type=m
-DE EuroSports 1	`0https://go.now.net.eu.org/p/live?embed=euro1de&type=m
-DE EuroSports 2	`0https://go.now.net.eu.org/p/live?embed=euro2de&type=m
-ES EuroSports 1	`0https://go.now.net.eu.org/p/live?embed=euro1es&type=m
-ES EuroSports 2	`0https://go.now.net.eu.org/p/live?embed=euro2es&type=m
+DE EuroSport 1	`0https://go.now.net.eu.org/p/live?embed=euro1de&type=m
+DE EuroSport 2	`0https://go.now.net.eu.org/p/live?embed=euro2de&type=m
+ES EuroSport 1	`0https://go.now.net.eu.org/p/live?embed=euro1es&type=m
+ES EuroSport 2	`0https://go.now.net.eu.org/p/live?embed=euro2es&type=m
 IT Inter TV	`0https://go.now.net.eu.org/p/live?embed=intertv&type=m
 ES DAZN 1	`0https://go.now.net.eu.org/p/live?embed=dazn1es&type=m
 ES DAZN 2	`0https://go.now.net.eu.org/p/live?embed=dazn2es&type=m
