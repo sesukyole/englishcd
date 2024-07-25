@@ -15,7 +15,6 @@ ESPN 1	https://b.trybrett.shop/espn.m3u8
 ESPN 2	https://b.trybrett.shop/espn2.m3u8
 NBC 1	https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc122ycnuy)/master.mpd``0020d88a6713159839743f655c5da7de:ba9f34226301f69a4f0f13f65a1f92ec
 NBC 4	https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/master.mpd``0045a118e231f1326bcdb45350b1ceaa:8c13afbfa54ea37a368b8b859021f6e3
-Telemundo PR	https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 Premier Sports 1	https://skytest.starlive.workers.dev/https://linear001-ie-dash1-prd-cf.cdn.skycdp.com/Content/DASH_003_720_120/Live/channel(premiersports1)/manifest_720.mpd``0005b3dba78ae0fe7a9288022d3b3736:d2827df80dd7e9243ba6b5bbda5dfa82
 Premier Sports 2	https://skytest.starlive.workers.dev/https://linear033-ie-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_120/Live/channel(premiersports2)/manifest_720.mpd``0005d61a0ac86aca28176591b21ae2d9:f87ad1430a7a38fd0ac248fc9a8389b1
 SpoTV 1	https://uniproxy.misty.workers.dev/https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd``e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
@@ -59,12 +58,6 @@ MY SpoTV 1	https://pop5clustera00de07172379a62d6189.hypp.tv:443/PLTV/88888888/22
 MY SpoTV 2	https://pop5clustera00de07172379a62d6189.hypp.tv:443/PLTV/88888888/224/3221227726/3221227726.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawRjfkMvdAX9TZ5I%2BbsmfrUeOV6Zn1IaYCsVySN%2F6aTU0rcymHBIhx5oJP4jv2fPK0%3D%3A20230206102855%3AUTC%2C1003663983%2C115.164.187.20%2C20230206102855%2Curn:Huawei:liveTV:XTV100000162%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOwY6CMBiE36bHpi0I9tCTGxOTDbuJrFczhZ9KLNRt0cS3X1D2NpmZbzJTREOHD5PZwoqt0IXSXZ7JEnqWCp2WFhtlBUv0WwWjWAPv-9FVoV2w03F3loILrpTkUrF6mdt7uLVZ3QdL0WT_2JHio2_ItKnjDyQO5yI5TH0Y-bfH8yf6tcKoXq_JotwUWuSlyvOSTYtbI13nhF2QdmG4IVL7GdwLMB18InZDc4WjCgOZ8e79m_uK7fzmD_CkDoH0AAAA&tenantId=6001``7c67cb7de9465062c06ac94e8e065462:5931fc07f285ffe40eb98e130bb090f9
 Unifi Sports 1	https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227877/3221227877.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=pDVeBhPtc549NayvHFA0JHqiwYJ%2FKEP6UdMtjXIjIzrjYyGN4h5HPUHLEk%2FvL80xPjG9KTt82xXCdpGInMoKWMBLe9Ie9rQgSTZ%2FmsUArMht5J0dsgfU28LWZM15p3G2%3A20221124103114%3AUTC%2C10001002142071%2C115.164.56.153%2C20221124103114%2Curn:Huawei:liveTV:XTV54185493%2C10001002142071%2C-1%2C0%2C1%2C%2C%2C2%2CHESA0002%2C%2C%2C2%2C10000104188313%2C0%2C10000103564441%2C798506651%2C%2C%2C2%2C1%2CEND&GuardEncType=2&tenantId=6003``cbb673fb120882354735ed57eeb05b4c:fe003f7aeec40eb65d20b14edfda2a86
 SG MeWatch 5	https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd``607b7d22565c4bc3b95ff6c33ce65425:28cc5367df666c44be4382e64af64d57
-BE RTL Sports	https://cors-proxy.cooks.fyi/https://tvvvideolive3.solocoo.tv/blueskytvvlive7dash/bluertlclubhd/Manifest.mpd``0993fbc9c0f242e8bab9483484ff974e:08d3d32f7efefb22a7a865f81b5c8276
-DAZN Eleven League 02	https://cors-proxy.cooks.fyi/https://tvvvideolive3.solocoo.tv:443/blueskytvvlive7dash/blueelevenproleague2nl/Manifest.mpd``16251e842a834570a8c5a34d45a0d64d:b7243739698cad0d58af01f142d13eae
-DAZN Eleven League 03	https://cors-proxy.cooks.fyi/https://tvvvideolive3.solocoo.tv:443/blueskytvvlive7dash/blueelevenproleague3nl/Manifest.mpd``c6455c5a1ad1484fa4029ba498659838:4329fb08c3444a8ae9b3c477efe11002
-HU Match 4	https://cors-proxy.cooks.fyi/https://m7huvideolive.solocoo.tv/blueskylive2dash/bluedigisport1hu/Manifest.mpd``36d6377bb94b43a58af1c415ac686f4b:82fcba8160b4f88948cd3268bb330dbf
-Pro TV	https://cors-proxy.cooks.fyi/https://m7rovideolive.solocoo.tv/blueskylivedash/blueprotv/Manifest.mpd``889750ca612844cfabc4073989befa3e:c188729c59e29bedafc1cbedaa107abb
-Ziggo Sport 3	https://cors-proxy.cooks.fyi/https://cdsvideolive3.solocoo.tv/blueskycdslive7dash/blueziggosportgolf/Manifest.mpd``bb4b78ef397646e3ae5f13bdb23d56ed:c1247a942c7126443a93214c67431fe8
 Sport TV 1	`0https://popcdn.day/go.php?stream=SPT1
 Sport TV 2	`0https://popcdn.day/go.php?stream=SPT2
 Sport TV 3	`0https://popcdn.day/go.php?stream=SPT3
@@ -241,6 +234,12 @@ Amazon Cricket Plus	https://testcors.starlive.workers.dev/https://aba5sdmaaaaaaa
 GT Azteca	https://ch1-tva.duin.dev/hls/stream.m3u8
 GT A Mas	https://ch2-tva.duin.dev/hls/stream.m3u8
 Sky Sport 258	https://linear311-it-dash1-prd-akg0.cdn13.skycdp.com/32772/skysport258/master.mpd``0036fd8ccfddba47c8b40aeff63a797c:dfd5c9d0f4ac6f3a1bd89803399e7026
+BE RTL Sports	https://cors-proxy.cooks.fyi/https://tvvvideolive3.solocoo.tv/blueskytvvlive7dash/bluertlclubhd/Manifest.mpd``0993fbc9c0f242e8bab9483484ff974e:08d3d32f7efefb22a7a865f81b5c8276
+DAZN Eleven League 02	https://cors-proxy.cooks.fyi/https://tvvvideolive3.solocoo.tv:443/blueskytvvlive7dash/blueelevenproleague2nl/Manifest.mpd``16251e842a834570a8c5a34d45a0d64d:b7243739698cad0d58af01f142d13eae
+DAZN Eleven League 03	https://cors-proxy.cooks.fyi/https://tvvvideolive3.solocoo.tv:443/blueskytvvlive7dash/blueelevenproleague3nl/Manifest.mpd``c6455c5a1ad1484fa4029ba498659838:4329fb08c3444a8ae9b3c477efe11002
+HU Match 4	https://cors-proxy.cooks.fyi/https://m7huvideolive.solocoo.tv/blueskylive2dash/bluedigisport1hu/Manifest.mpd``36d6377bb94b43a58af1c415ac686f4b:82fcba8160b4f88948cd3268bb330dbf
+Pro TV	https://cors-proxy.cooks.fyi/https://m7rovideolive.solocoo.tv/blueskylivedash/blueprotv/Manifest.mpd``889750ca612844cfabc4073989befa3e:c188729c59e29bedafc1cbedaa107abb
+Ziggo Sport 3	https://cors-proxy.cooks.fyi/https://cdsvideolive3.solocoo.tv/blueskycdslive7dash/blueziggosportgolf/Manifest.mpd``bb4b78ef397646e3ae5f13bdb23d56ed:c1247a942c7126443a93214c67431fe8
 RU Match! Premier	https://proji.glitch.me/https://video.beeline.tv/live/d/channel318.isml/manifest-stb.mpd``2bb7b314771ed5eeddd8f44a9aa42740:01f2a8f11bd891655a752c1749f478ec
 RU Match!	https://proji.glitch.me/https://video.beeline.tv/live/d/channel317.isml/manifest-stb.mpd``5e1c798b16d24dc8cbfc7819abf77b4d:4ba5d9aeba2239b425d1cf7b45474333
 RU Match! Arena	https://proji.glitch.me/https://video.beeline.tv/live/d/channel512.isml/manifest-stb.mpd``9839b170b4fc384f243bffd8929b71a2:34cdd6f3e1bf6a9f9d54e9165abf8c09
@@ -325,6 +324,7 @@ ID SCTV	https://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
 ID TVRI Sport	https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 ID TVRI	https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 TH T Sports 7	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtsport3/index.m3u8
+Telemundo PR	https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 Telemundo USA	https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
 TV 2 Direkte	https://aws-appeartv-cdn.rikstv.no/rikstv/1/11/dash/TV2_HD/manifest.mpd``bfb0134de69d76d25b5b4b202df11431:025915bd3062c4bde44a13916c5bfefe
 TV 3 Plus	https://aws-appeartv-cdn.rikstv.no/rikstv/708/2/dash/Viasat4/manifest.mpd``bc603bd4cbdaae7f9debc7accca10266:bb2ed19b76e7bd6cb8ad228b4a79827c
@@ -603,58 +603,3 @@ Event 10	https://zbpull3.zyjymall.com/live/93658075241063506404.m3u8
 Event 11	`0https://xlz.plcdn.xyz/ajax/chanel/type/1/link/rchtwtx
 Event 12	`0https://xlz.plcdn.xyz/ajax/chanel/type/1/link/jggujqm
 Event 13	`0https://tructiep.xem.my.id/phong-nha-ke-bang?id=event1
-DAZN F1	00`a0210257.m3u8?7
-DAZN LaLiga	00`a0210256.m3u8?7
-Deportes TVC 1	00`a0210212.m3u8?7
-Deportes TVC 2	00`a0210344.m3u8?7
-D Sports 1	00`a0210228.m3u8?7
-D Sports 2	00`a0210229.m3u8?7
-D Sports Plus	00`a0210230.m3u8?7
-ECDF	00`a0210238.m3u8?7
-ESPN 1	00`a0210222.m3u8?7
-ESPN 2	00`a0210223.m3u8?7
-ESPN 3	00`a0210224.m3u8?7
-ESPN 4	00`a0210225.m3u8?7
-ESPN Premium	00`a0210226.m3u8?7
-Fox Sports 1	00`a0210231.m3u8?7
-Fox Sports 2	00`a0210232.m3u8?7
-Fox Sports 3	00`a0210233.m3u8?7
-Fox Sports Premium	00`a0210243.m3u8?7
-FUTV	00`a0210258.m3u8?7
-GolPeru	00`a0210237.m3u8?7
-GolTV	00`a0210239.m3u8?7
-Liga 1 Max 1	00`a0210236.m3u8?7
-Liga 1 Max 2	00`a0210343.m3u8?7
-MLS	00`a0210211.m3u8?7
-Movistar LaLiga 1	00`a0210254.m3u8?7
-Movistar LaLiga 2	00`a0210261.m3u8?7
-Movistar Liga De Campones	00`a0210255.m3u8?7
-Sport TV 1 PT	00`a0210332.m3u8?7
-Starplus 1	00`a0210213.m3u8?7
-Starplus 2	00`a0210214.m3u8?7
-Starplus 3	00`a0210215.m3u8?7
-Starplus 4	00`a0210216.m3u8?7
-Starplus 5	00`a0210217.m3u8?7
-Starplus 6	00`a0210218.m3u8?7
-Starplus 7	00`a0210219.m3u8?7
-Starplus 8	00`a0210220.m3u8?7
-Starplus 9	00`a0210221.m3u8?7
-Tigo Sports Bolivia	00`a0210244.m3u8?7
-Tigo Sports Costa Rica	00`a0210259.m3u8?7
-Tigo Sports El Salvador	00`a0210245.m3u8?7
-Tigo Sports Guatemala	00`a0210246.m3u8?7
-Tigo Sports Honduras	00`a0210248.m3u8?7
-Tigo Sports Panama	00`a0210247.m3u8?7
-Tigo Sports Paraguay	00`a0210342.m3u8?7
-TNT Sports	00`a0210227.m3u8?7
-TNT Sports CL	00`a0210234.m3u8?7
-TUDN	00`a0210242.m3u8?7
-TYC Sports	00`a0210260.m3u8?7
-VIX+ 1	00`a0210249.m3u8?7
-VIX+ 2	00`a0210250.m3u8?7
-VIX+ 3	00`a0210251.m3u8?7
-VIX+ 4	00`a0210252.m3u8?7
-VIX+ 5	00`a0210253.m3u8?7
-VTV +	00`a0210235.m3u8?7
-WIN +	00`a0210241.m3u8?7
-WIN Sports	00`a0210240.m3u8?7
