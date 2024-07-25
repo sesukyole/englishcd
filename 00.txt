@@ -15,6 +15,7 @@ ESPN 1	https://b.trybrett.shop/espn.m3u8
 ESPN 2	https://b.trybrett.shop/espn2.m3u8
 NBC 1	https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc122ycnuy)/master.mpd``0020d88a6713159839743f655c5da7de:ba9f34226301f69a4f0f13f65a1f92ec
 NBC 4	https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/master.mpd``0045a118e231f1326bcdb45350b1ceaa:8c13afbfa54ea37a368b8b859021f6e3
+Telemundo PR	https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 SpoTV 1	https://uniproxy.misty.workers.dev/https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd``e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
 SpoTV 2	https://uniproxy.misty.workers.dev/https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd``e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
 CT Sport	https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cbcs.mpd``11223344556677889900112233445566:11223344556677889900112233445566
@@ -321,9 +322,8 @@ ID Indosiar 2	https://uniproxy.misty.workers.dev/https://atemecdnbalancer-voe.sy
 ID SCTV	https://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
 ID TVRI Sport	https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 ID TVRI	https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
-Telemundo PR	https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-Telemundo USA	https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
 TH T Sports 7	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtsport3/index.m3u8
+Telemundo USA	https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
 Premier Sports 1	https://linear001-ie-dash1-prd-cf.cdn.skycdp.com/Content/DASH_003_720_120/Live/channel(premiersports1)/manifest_720.mpd``0005b3dba78ae0fe7a9288022d3b3736:d2827df80dd7e9243ba6b5bbda5dfa82
 Premier Sports 2	https://linear033-ie-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_120/Live/channel(premiersports2)/manifest_720.mpd``0005d61a0ac86aca28176591b21ae2d9:f87ad1430a7a38fd0ac248fc9a8389b1
 TV 2 Direkte	https://aws-appeartv-cdn.rikstv.no/rikstv/1/11/dash/TV2_HD/manifest.mpd``bfb0134de69d76d25b5b4b202df11431:025915bd3062c4bde44a13916c5bfefe
@@ -603,8 +603,3 @@ Event 10	https://zbpull3.zyjymall.com/live/93658075241063506404.m3u8
 Event 11	`0https://xlz.plcdn.xyz/ajax/chanel/type/1/link/rchtwtx
 Event 12	`0https://xlz.plcdn.xyz/ajax/chanel/type/1/link/jggujqm
 Event 13	`0https://tructiep.xem.my.id/phong-nha-ke-bang?id=event1
-ESPN 1 PE	`1https://betzta.com/canales.php?stream=espnpe
-ESPN	`1https://embedflix.online/tv/espn
-Paulistao Play 1	`1https://embedflix.online/tv/paulistao-play
-Paulistao Play 2	`1https://embedflix.online/tv/paulistao-play-2
-Paulistao Play 3	`1https://embedflix.online/tv/paulistao-play-3
