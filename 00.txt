@@ -603,58 +603,58 @@ Event 10	https://zbpull3.zyjymall.com/live/93658075241063506404.m3u8
 Event 11	`0https://xlz.plcdn.xyz/ajax/chanel/type/1/link/rchtwtx
 Event 12	`0https://xlz.plcdn.xyz/ajax/chanel/type/1/link/jggujqm
 Event 13	`0https://tructiep.xem.my.id/phong-nha-ke-bang?id=event1
-DAZN F1	00`a0210257.m3u8
-DAZN LaLiga	00`a0210256.m3u8
-Deportes TVC 1	00`a0210212.m3u8
-Deportes TVC 2	00`a0210344.m3u8
-D Sports 1	00`a0210228.m3u8
-D Sports 2	00`a0210229.m3u8
-D Sports Plus	00`a0210230.m3u8
-ECDF	00`a0210238.m3u8
-ESPN 1	00`a0210222.m3u8
-ESPN 2	00`a0210223.m3u8
-ESPN 3	00`a0210224.m3u8
-ESPN 4	00`a0210225.m3u8
-ESPN Premium	00`a0210226.m3u8
-Fox Sports 1	00`a0210231.m3u8
-Fox Sports 2	00`a0210232.m3u8
-Fox Sports 3	00`a0210233.m3u8
-Fox Sports Premium	00`a0210243.m3u8
-FUTV	00`a0210258.m3u8
-GolPeru	00`a0210237.m3u8
-GolTV	00`a0210239.m3u8
-Liga 1 Max 1	00`a0210236.m3u8
-Liga 1 Max 2	00`a0210343.m3u8
-MLS	00`a0210211.m3u8
-Movistar LaLiga 1	00`a0210254.m3u8
-Movistar LaLiga 2	00`a0210261.m3u8
-Movistar Liga De Campones	00`a0210255.m3u8
-Sport TV 1 PT	00`a0210332.m3u8
-Starplus 1	00`a0210213.m3u8
-Starplus 2	00`a0210214.m3u8
-Starplus 3	00`a0210215.m3u8
-Starplus 4	00`a0210216.m3u8
-Starplus 5	00`a0210217.m3u8
-Starplus 6	00`a0210218.m3u8
-Starplus 7	00`a0210219.m3u8
-Starplus 8	00`a0210220.m3u8
-Starplus 9	00`a0210221.m3u8
-Tigo Sports Bolivia	00`a0210244.m3u8
-Tigo Sports Costa Rica	00`a0210259.m3u8
-Tigo Sports El Salvador	00`a0210245.m3u8
-Tigo Sports Guatemala	00`a0210246.m3u8
-Tigo Sports Honduras	00`a0210248.m3u8
-Tigo Sports Panama	00`a0210247.m3u8
-Tigo Sports Paraguay	00`a0210342.m3u8
-TNT Sports	00`a0210227.m3u8
-TNT Sports CL	00`a0210234.m3u8
-TUDN	00`a0210242.m3u8
-TYC Sports	00`a0210260.m3u8
-VIX+ 1	00`a0210249.m3u8
-VIX+ 2	00`a0210250.m3u8
-VIX+ 3	00`a0210251.m3u8
-VIX+ 4	00`a0210252.m3u8
-VIX+ 5	00`a0210253.m3u8
-VTV +	00`a0210235.m3u8
-WIN +	00`a0210241.m3u8
-WIN Sports	00`a0210240.m3u8
+DAZN F1	00`a0210257.m3u8?7
+DAZN LaLiga	00`a0210256.m3u8?7
+Deportes TVC 1	00`a0210212.m3u8?7
+Deportes TVC 2	00`a0210344.m3u8?7
+D Sports 1	00`a0210228.m3u8?7
+D Sports 2	00`a0210229.m3u8?7
+D Sports Plus	00`a0210230.m3u8?7
+ECDF	00`a0210238.m3u8?7
+ESPN 1	00`a0210222.m3u8?7
+ESPN 2	00`a0210223.m3u8?7
+ESPN 3	00`a0210224.m3u8?7
+ESPN 4	00`a0210225.m3u8?7
+ESPN Premium	00`a0210226.m3u8?7
+Fox Sports 1	00`a0210231.m3u8?7
+Fox Sports 2	00`a0210232.m3u8?7
+Fox Sports 3	00`a0210233.m3u8?7
+Fox Sports Premium	00`a0210243.m3u8?7
+FUTV	00`a0210258.m3u8?7
+GolPeru	00`a0210237.m3u8?7
+GolTV	00`a0210239.m3u8?7
+Liga 1 Max 1	00`a0210236.m3u8?7
+Liga 1 Max 2	00`a0210343.m3u8?7
+MLS	00`a0210211.m3u8?7
+Movistar LaLiga 1	00`a0210254.m3u8?7
+Movistar LaLiga 2	00`a0210261.m3u8?7
+Movistar Liga De Campones	00`a0210255.m3u8?7
+Sport TV 1 PT	00`a0210332.m3u8?7
+Starplus 1	00`a0210213.m3u8?7
+Starplus 2	00`a0210214.m3u8?7
+Starplus 3	00`a0210215.m3u8?7
+Starplus 4	00`a0210216.m3u8?7
+Starplus 5	00`a0210217.m3u8?7
+Starplus 6	00`a0210218.m3u8?7
+Starplus 7	00`a0210219.m3u8?7
+Starplus 8	00`a0210220.m3u8?7
+Starplus 9	00`a0210221.m3u8?7
+Tigo Sports Bolivia	00`a0210244.m3u8?7
+Tigo Sports Costa Rica	00`a0210259.m3u8?7
+Tigo Sports El Salvador	00`a0210245.m3u8?7
+Tigo Sports Guatemala	00`a0210246.m3u8?7
+Tigo Sports Honduras	00`a0210248.m3u8?7
+Tigo Sports Panama	00`a0210247.m3u8?7
+Tigo Sports Paraguay	00`a0210342.m3u8?7
+TNT Sports	00`a0210227.m3u8?7
+TNT Sports CL	00`a0210234.m3u8?7
+TUDN	00`a0210242.m3u8?7
+TYC Sports	00`a0210260.m3u8?7
+VIX+ 1	00`a0210249.m3u8?7
+VIX+ 2	00`a0210250.m3u8?7
+VIX+ 3	00`a0210251.m3u8?7
+VIX+ 4	00`a0210252.m3u8?7
+VIX+ 5	00`a0210253.m3u8?7
+VTV +	00`a0210235.m3u8?7
+WIN +	00`a0210241.m3u8?7
+WIN Sports	00`a0210240.m3u8?7
