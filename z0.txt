@@ -7,4 +7,4 @@
 \u24CC Wow	^^b3
 \u24C8 Samsung	^^0
 \u24C5 Pluto	^^1
-\u24BE iptv-org	^^2
+\u24BE iptv.org	^^2
