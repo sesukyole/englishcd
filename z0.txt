@@ -1,10 +1,10 @@
-\u24BD \u26BD\uFE0FLive Sports	^^a0
-\u24C2 \uD83E\uDD39Multi	^^a1
-\u24CD \uD83E\uDD3AeXtra	^^a2
-\u24C4 Okay	^^b0
-\u24B8 Cool	^^b1
-\u24BB Fun	^^b2
-\u24CC Wow	^^b3
-\u24C8 Samsung	^^0
-\u24C5 Pluto	^^1
-\u24BE iptv.org	^^2
+Ⓗ ⚽️Live Sports	^^a0
+Ⓜ 🤹Multi	^^a1
+Ⓧ 🤺eXtra	^^a2
+Ⓞ Okay	^^b0
+Ⓒ Cool	^^b1
+Ⓕ Fun	^^b2
+Ⓦ Wow	^^b3
+Ⓢ Samsung	^^0
+Ⓟ Pluto	^^1
+Ⓘ iptv.org	^^2
