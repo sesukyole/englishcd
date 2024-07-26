@@ -1,16 +1,16 @@
-Ⓗ {s} ⚽️Live Sports	^^a0
-Ⓜ {s} 🤹Multi	^^a1
-Ⓧ {s} 🤺eXtra	^^a2
-Ⓞ {h} Okay	^^b0
-Ⓒ {h} Cool	^^b1
-Ⓕ {h} Fun	^^b2
-Ⓦ {h} Wow	^^b3
-Ⓢ {s} Samsung	^^0
-Ⓟ {s} Pluto	^^1
-Ⓘ {h} iptv.org	^^2
-Ⓥ {s} Movies Film 1	^^3
-Ⓨ {h} Movies Film 2	^^4
-Ⓩ {h} Movies Film 3	^^5
-Ⓣ {h} Movies Film 4	^^6
-* {h} Conspiracy Truth 1	^^7
-* {h} Conspiracy Truth 2	^^8
+Ⓗ {s} ⚽️Live Sports	^^sa0
+Ⓜ {s} 🤹Multi	^^sa1
+Ⓧ {s} 🤺eXtra	^^sa2
+Ⓞ {h} Okay	^^hb0
+Ⓒ {h} Cool	^^hb1
+Ⓕ {h} Fun	^^hb2
+Ⓦ {h} Wow	^^hb3
+Ⓢ {s} Samsung	^^s0
+Ⓟ {s} Pluto	^^s1
+Ⓘ {h} iptv.org	^^h2
+Ⓥ {s} Movies Film 1	^^s3
+Ⓨ {h} Movies Film 2	^^h4
+Ⓩ {h} Movies Film 3	^^h5
+Ⓣ {h} Movies Film 4	^^h6
+* {h} Conspiracy Truth 1	^^h7
+* {h} Conspiracy Truth 2	^^h8
