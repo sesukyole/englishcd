@@ -12,3 +12,5 @@
 Ⓨ {h} Movies Film 2	^^4
 Ⓩ {h} Movies Film 3	^^5
 Ⓣ {h} Movies Film 4	^^6
+* {h} Conspiracy Truth 1	^^7
+* {h} Conspiracy Truth 2	^^8
