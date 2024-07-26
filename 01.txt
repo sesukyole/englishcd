@@ -1,146 +1,146 @@
-SA  Makkah	https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
-SA  Medina	https://op-group1-swiftservesd-1.dens.tv/s/s27/index.m3u8
-PS  Palestine TV	https://pbc.furrera.ps/palestinehd/index.m3u8
-PS  Voice of Palestine	https://pbc.furrera.ps/PalLive/VOPTV/index.m3u8
-PS  Musawwa	https://pbc.furrera.ps/musawahd/index.m3u8
-PS  Palestine Today	https://live.paltodaytv.com/paltv/live/playlist.m3u8
-ID  Makkah TV	01`00a130/alquran/index.m3u8?c
-ID  AFN	01`00a133/afc/index.m3u8?c
-ID  Animal Planet	01`00a194/animalplanet/index.m3u8?c
-ID  AniMax	01`00a130/animax/index.m3u8?c
-ID  ANTV 1	01`00a130/antv/index.m3u8?c
-ID  Bali TV	01`00a134/balitv/index.m3u8?c
-ID  Bioskop Indonesia	01`00a130/bioskopindonesia/index.m3u8?c
-ID  Cartoon Network	01`00a194/cartoonnetwork/index.m3u8?c
-ID  Citra Drama	01`00a130/cdrama/index.m3u8?c
-ID  Celestial Movie	01`00a130/celestialmovie/index.m3u8?c
-ID  Chinese Drama	01`00a130/chinesedrama/index.m3u8?c
-ID  Cinema World	01`00a134/cinemaworld/index.m3u8?c
-ID  Citra Dangdut	01`00a130/citradangdut/index.m3u8?c
-ID  CNBC Asia	01`00a134/cnbcasia/index.m3u8?c
-ID  CNN Indonesia	01`00a133/cnnindonesia/index.m3u8?c
-ID  Crime Investigation	01`00a133/crimeinvestigation/index.m3u8?c
-ID  Curiosity	01`00a194/curiosity/index.m3u8?c
-ID  DAAI TV	01`00a134/daaitv/index.m3u8?c
-ID  Davinci	01`00a134/davinci/index.m3u8?c
-ID  Discovery Channel	01`00a133/disco/index.m3u8?c
-ID  Discovery Asia	01`00a194/discoveryasia/index.m3u8?c
-ID  Dreamworks	01`00a133/dreamworks/index.m3u8?c
-ID  Dunia Anak	01`00a130/duniaanak/index.m3u8?c
-ID  Dunia Lain	01`00a130/dunialain/index.m3u8?c
-ID  DW TV	01`00a134/dwtv/index.m3u8?c
-ID  Eat & Go	01`00a134/eatgo/index.m3u8?c
-ID  Euro News	01`00a134/euronews/index.m3u8?c
-ID  Fight Sport	01`00a133/fightsport/index.m3u8?c
-ID  Flik	01`00a133/flik/index.m3u8?c
-ID  Galaxy	01`00a133/galaxy/index.m3u8?c
-ID  Galaxy Premium	01`00a133/galaxypremium/index.m3u8?c
-ID  History	01`00a133/history/index.m3u8?c
-ID  Hits	01`00a133/hits/index.m3u8?c
-ID  Hits Movie	01`00a133/hitsmovie/index.m3u8?c
-ID  Hits Now	01`00a134/hitsnow/index.m3u8?c
-ID  Horee	01`00a130/horee/index.m3u8?c
-ID  Horizon Sport	01`00a133/horizonsport/index.m3u8?c
-ID  iKonser	01`00a130/ikonser/index.m3u8?c
-ID  Movie Channel	01`00a130/imc/index.m3u8?c
-ID  Fun Planet	01`00a134/indikids/index.m3u8?c
-ID  Insert	01`00a130/insert/index.m3u8?c
-ID  JTV	01`00a134/jtv/index.m3u8?c
-ID  KiX	01`00a133/kix/index.m3u8?c
-ID  Kompas TV	01`00a133/kompastv/index.m3u8?c
-ID  Kungfu TV	01`00a130/kungfutv/index.m3u8?c
-ID  Lifetime	01`00a134/lifetime/index.m3u8?c
-ID  Lingua	01`00a133/lingua/index.m3u8?c
-ID  Love Nature	01`00a194/lovenature/index.m3u8?c
-ID  MaxStream	01`00a194/maxstream/index.m3u8?c
-ID  Mentari TV	01`00a134/mentaritv/index.m3u8?c
-ID  Metro TV	01`00a133/metrotv/index.m3u8?c
-ID  Moji TV 1	01`00a134/ochannel/index.m3u8?c
-ID  MUI TV	01`00a130/muitv/index.m3u8?c
-ID  Musik Indonesia	01`00a134/musikindo/index.m3u8?c
-ID  My Cinema	01`00a133/mycinema/index.m3u8?c
-ID  My Cinema Asia	01`00a133/mycinemaasia/index.m3u8?c
-ID  NBA	01`00a133/nba/index.m3u8?c
-ID  Net TV 1	01`00a133/net/index.m3u8?c
-ID  Channel News Asia	01`00a134/newsasia/index.m3u8?c
-ID  NHK World	01`00a130/nhkworld/index.m3u8?c
-ID  Nick Jr	01`00a130/nickjr/index.m3u8?c
-ID  Panda TV	01`00a130/pandatv/index.m3u8?c
-ID  Rodja TV	01`00a130/rodjatv/index.m3u8?c
-ID  RTV	01`00a130/rtv/index.m3u8?c
-ID  Seru	01`00a134/seru/index.m3u8?c
-ID  GEM	01`00a133/sgem/index.m3u8?c
-ID  One	01`00a133/sone/index.m3u8?c
-ID  Sports 1	01`00a133/beib1/index.m3u8?c
-ID  Sports 3	01`00a133/beib2/index.m3u8?c
-ID  TechStorm	01`00a133/techstorm/index.m3u8?c
-ID  TLC	01`00a133/tlc/index.m3u8?c
-ID  Trans TV	01`00a133/transtv/index.m3u8?c
-ID  TV9	01`00a130/tv9/index.m3u8?c
-ID  tvN	01`00a133/tvn/index.m3u8?c
-ID  tvN Movies	01`00a133/tvnmovies/index.m3u8?c
-ID  Zhejiang	01`00a130/zhejiang/index.m3u8?c
-ID  Elshinta	https://stream1.freetv.fun/elshinta-tv-2.m3u8
-ID  DigiOne	https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/index.m3u8
-ID  Indonesiana	https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/index.m3u8
-ID  Magna	https://edge.medcom.id/live-edge/smil:magna.smil/chunklist.m3u8
-ID  Metro Global Network	https://edge.medcom.id/live-edge/smil:mgnch.smil/chunklist.m3u8
-ID  Indosiar 1	https://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
-ID  Moji TV 2	https://op-group1-swiftservesd-1.dens.tv/s/s41/index.m3u8
-ID  SCTV 1	https://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
-ID  GTV	https://dsgtq5sngxkde.cloudfront.net/live/eds/GTV-2/sa_hls/GTV-2.m3u8?c
-ID  iNews	https://dsgtq5sngxkde.cloudfront.net/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8?c
-ID  RCTI	https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-2/sa_hls/rcti-2.m3u8?c
-ID  Dunia Games	https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6854467f-52fe-48ee-9822-00233c678709)/index.m3u8
-ID  AniPlus	https://op-group1-swiftservehd-1.dens.tv/h/h114/S4/mnf.m3u8
-ID  Net TV 2	https://op-group1-swiftservehd-1.dens.tv/h/h223/index.m3u8
-ID  NTV	https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
-ID  BeritaSatu World TV	https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
-ID  CNBC Indonesia	https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
-ID  CNN Indonesia	https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
-ID  CCTV 4	https://op-group1-swiftservesd-1.dens.tv/s/s19/index.m3u8
-ID  K Plus	https://op-group1-swiftservehd-1.dens.tv/h/h08/index.m3u8
-ID  K Plus	https://op-group1-swiftservehd-1.dens.tv/h/h219/index.m3u8
-ID  Nadoo Korean	https://op-group1-swiftservehd-1.dens.tv/h/h125/live.m3u8
-ID  My Cinema Europe	https://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8
-ID  ATV	https://uniproxy.misty.workers.dev/https://streaming.indihometv.com/atm/DASH/atv/manifest.mpd
-ID  Cartoonito	https://uniproxy.misty.workers.dev/https://streaming.indihometv.com/atm/DASH/boomerang/manifest.mpd
-ID  Warner	https://uniproxy.misty.workers.dev/https://streaming.indihometv.com/atm/DASH/warner/manifest.mpd
-ID  Indosiar 2	https://uniproxy.misty.workers.dev/https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
-ID  SCTV 2	https://uniproxy.misty.workers.dev/https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
-ID  tvOne	https://uniproxy.misty.workers.dev/https://streaming.indihometv.com/atm/DASH/tvone/manifest.mpd
-ID  Jawapos	https://uniproxy.misty.workers.dev/https://streaming.indihometv.com/atm/DASH/jawapos/manifest.mpd
-ID  Cinemax	https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(4b9c9228-73c1-cb85-94a9-7fa84858b877)/manifest.mpd``ad90306387ee369eb2a6de02869c7653:4b17755fdea3ca0277bb64a1e9fbecef
-ID  HBO Family	https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(cec31cdd-d2ff-4c23-8a76-ad1c0ef025e2)/manifest.mpd``3e0b88044bbb3512a3d0027764314783:52843f20db4bbf45d594b6be310f81c1
-ID  HBO Hits	https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7e3ac8f2-3380-461a-976b-30bca8d939a0)/manifest.mpd``a1e570be4c63326aa95ea53eb5be2699:f9d709f24054472ab7f53c758cf45c94
-ID  HBO	https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(92c7b96a-33fc-4899-a032-50ae0fbc9257)/manifest.mpd``39a424d1b79e3b77bf6eaac3f3221f7e:7804e43828e094bd49e3d4df443eea11
-ID  BeritaSatu News	https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
-ID  Cinema World	https://op-group1-swiftservehd-1.dens.tv/h/h04/index.m3u8
-ID  DAAI TV	https://dacastmmd.mmdlive.lldns.net/dacastmmd/683cc426c19442a4ba31c53be5c963bb/index.m3u8
-ID  RTV	https://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8
-ID  Trans TV	https://video.detik.com/transtv/smil:transtv-live.smil/index.m3u8
-ID  Trans7	https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
-ID  ADiTV	https://v2.siar.us/aditv/livestream/chunks.m3u8
-ID  Dhoho TV	https://dhohotv.siar.us/dhohotv/live/playlist.m3u8
-ID  Duta TV	https://dutatv.siar.us/dutatv/live/playlist.m3u8
-ID  Huma Betang TV	https://v3.siar.us/humabetangtv/live/playlist.m3u8
-ID  Inspira TV	https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
-ID  Izzah TV	https://streaming.radiosalamjambi.com/izzahtv.m3u8
-ID  JITV (Jogja Istimewa TV)	https://mam.jogjaprov.go.id:1937/tv/jitv_720p/playlist.m3u8
-ID  Lingkar TV	https://lingkartv.my.id/hls/lingkartv.m3u8
-ID  Madani TV	https://stream.asianastream.com/madani/madanitv.smil/playlist.m3u8
-ID  Madu TV	https://re1.siar.us/madutv/hd720/playlist.m3u8
-ID  MQTV	https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
-ID  RRI NET TV	https://rrinet.rri.co.id/hls/live.m3u8
-ID  Rodja TV	https://rodjatv.com/rodjatv/live.m3u8
-ID  Sakti TV	https://saktitv.siar.us/saktitv/live/playlist.m3u8
-ID  UGTV	https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
-ID  Wesal TV	https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
-ID  TVRI Sport	https://op-group1-swiftservesd-1.dens.tv/s/s107/index.m3u8
-ID  MIC TV	https://v2.siar.us/mic/live/playlist.m3u8
-ID  IMTV	https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
-US  Discovery Kids	https://raw.githubusercontent.com/mimipipi22/lalajo/main/discoverykids.m3u8
-US  Tortues Ninja 🇺🇸 🟤	https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d0c16d686454ead733d08f8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+SA Makkah	https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
+SA Medina	https://op-group1-swiftservesd-1.dens.tv/s/s27/index.m3u8
+PS Palestine TV	https://pbc.furrera.ps/palestinehd/index.m3u8
+PS Voice of Palestine	https://pbc.furrera.ps/PalLive/VOPTV/index.m3u8
+PS Musawwa	https://pbc.furrera.ps/musawahd/index.m3u8
+PS Palestine Today	https://live.paltodaytv.com/paltv/live/playlist.m3u8
+ID Makkah TV	01`00a130/alquran/index.m3u8?c
+ID AFN	01`00a133/afc/index.m3u8?c
+ID Animal Planet	01`00a194/animalplanet/index.m3u8?c
+ID AniMax	01`00a130/animax/index.m3u8?c
+ID ANTV 1	01`00a130/antv/index.m3u8?c
+ID Bali TV	01`00a134/balitv/index.m3u8?c
+ID Bioskop Indonesia	01`00a130/bioskopindonesia/index.m3u8?c
+ID Cartoon Network	01`00a194/cartoonnetwork/index.m3u8?c
+ID Citra Drama	01`00a130/cdrama/index.m3u8?c
+ID Celestial Movie	01`00a130/celestialmovie/index.m3u8?c
+ID Chinese Drama	01`00a130/chinesedrama/index.m3u8?c
+ID Cinema World	01`00a134/cinemaworld/index.m3u8?c
+ID Citra Dangdut	01`00a130/citradangdut/index.m3u8?c
+ID CNBC Asia	01`00a134/cnbcasia/index.m3u8?c
+ID CNN Indonesia	01`00a133/cnnindonesia/index.m3u8?c
+ID Crime Investigation	01`00a133/crimeinvestigation/index.m3u8?c
+ID Curiosity	01`00a194/curiosity/index.m3u8?c
+ID DAAI TV	01`00a134/daaitv/index.m3u8?c
+ID Davinci	01`00a134/davinci/index.m3u8?c
+ID Discovery Channel	01`00a133/disco/index.m3u8?c
+ID Discovery Asia	01`00a194/discoveryasia/index.m3u8?c
+ID Dreamworks	01`00a133/dreamworks/index.m3u8?c
+ID Dunia Anak	01`00a130/duniaanak/index.m3u8?c
+ID Dunia Lain	01`00a130/dunialain/index.m3u8?c
+ID DW TV	01`00a134/dwtv/index.m3u8?c
+ID Eat & Go	01`00a134/eatgo/index.m3u8?c
+ID Euro News	01`00a134/euronews/index.m3u8?c
+ID Fight Sport	01`00a133/fightsport/index.m3u8?c
+ID Flik	01`00a133/flik/index.m3u8?c
+ID Galaxy	01`00a133/galaxy/index.m3u8?c
+ID Galaxy Premium	01`00a133/galaxypremium/index.m3u8?c
+ID History	01`00a133/history/index.m3u8?c
+ID Hits	01`00a133/hits/index.m3u8?c
+ID Hits Movie	01`00a133/hitsmovie/index.m3u8?c
+ID Hits Now	01`00a134/hitsnow/index.m3u8?c
+ID Horee	01`00a130/horee/index.m3u8?c
+ID Horizon Sport	01`00a133/horizonsport/index.m3u8?c
+ID iKonser	01`00a130/ikonser/index.m3u8?c
+ID Movie Channel	01`00a130/imc/index.m3u8?c
+ID Fun Planet	01`00a134/indikids/index.m3u8?c
+ID Insert	01`00a130/insert/index.m3u8?c
+ID JTV	01`00a134/jtv/index.m3u8?c
+ID KiX	01`00a133/kix/index.m3u8?c
+ID Kompas TV	01`00a133/kompastv/index.m3u8?c
+ID Kungfu TV	01`00a130/kungfutv/index.m3u8?c
+ID Lifetime	01`00a134/lifetime/index.m3u8?c
+ID Lingua	01`00a133/lingua/index.m3u8?c
+ID Love Nature	01`00a194/lovenature/index.m3u8?c
+ID MaxStream	01`00a194/maxstream/index.m3u8?c
+ID Mentari TV	01`00a134/mentaritv/index.m3u8?c
+ID Metro TV	01`00a133/metrotv/index.m3u8?c
+ID Moji TV 1	01`00a134/ochannel/index.m3u8?c
+ID MUI TV	01`00a130/muitv/index.m3u8?c
+ID Musik Indonesia	01`00a134/musikindo/index.m3u8?c
+ID My Cinema	01`00a133/mycinema/index.m3u8?c
+ID My Cinema Asia	01`00a133/mycinemaasia/index.m3u8?c
+ID NBA	01`00a133/nba/index.m3u8?c
+ID Net TV 1	01`00a133/net/index.m3u8?c
+ID Channel News Asia	01`00a134/newsasia/index.m3u8?c
+ID NHK World	01`00a130/nhkworld/index.m3u8?c
+ID Nick Jr	01`00a130/nickjr/index.m3u8?c
+ID Panda TV	01`00a130/pandatv/index.m3u8?c
+ID Rodja TV	01`00a130/rodjatv/index.m3u8?c
+ID RTV	01`00a130/rtv/index.m3u8?c
+ID Seru	01`00a134/seru/index.m3u8?c
+ID GEM	01`00a133/sgem/index.m3u8?c
+ID One	01`00a133/sone/index.m3u8?c
+ID Sports 1	01`00a133/beib1/index.m3u8?c
+ID Sports 3	01`00a133/beib2/index.m3u8?c
+ID TechStorm	01`00a133/techstorm/index.m3u8?c
+ID TLC	01`00a133/tlc/index.m3u8?c
+ID Trans TV	01`00a133/transtv/index.m3u8?c
+ID TV9	01`00a130/tv9/index.m3u8?c
+ID tvN	01`00a133/tvn/index.m3u8?c
+ID tvN Movies	01`00a133/tvnmovies/index.m3u8?c
+ID Zhejiang	01`00a130/zhejiang/index.m3u8?c
+ID Elshinta	https://stream1.freetv.fun/elshinta-tv-2.m3u8
+ID DigiOne	https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/index.m3u8
+ID Indonesiana	https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/index.m3u8
+ID Magna	https://edge.medcom.id/live-edge/smil:magna.smil/chunklist.m3u8
+ID Metro Global Network	https://edge.medcom.id/live-edge/smil:mgnch.smil/chunklist.m3u8
+ID Indosiar 1	https://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
+ID Moji TV 2	https://op-group1-swiftservesd-1.dens.tv/s/s41/index.m3u8
+ID SCTV 1	https://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
+ID GTV	https://dsgtq5sngxkde.cloudfront.net/live/eds/GTV-2/sa_hls/GTV-2.m3u8?c
+ID iNews	https://dsgtq5sngxkde.cloudfront.net/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8?c
+ID RCTI	https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-2/sa_hls/rcti-2.m3u8?c
+ID Dunia Games	https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6854467f-52fe-48ee-9822-00233c678709)/index.m3u8
+ID AniPlus	https://op-group1-swiftservehd-1.dens.tv/h/h114/S4/mnf.m3u8
+ID Net TV 2	https://op-group1-swiftservehd-1.dens.tv/h/h223/index.m3u8
+ID NTV	https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
+ID BeritaSatu World TV	https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
+ID CNBC Indonesia	https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
+ID CNN Indonesia	https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+ID CCTV 4	https://op-group1-swiftservesd-1.dens.tv/s/s19/index.m3u8
+ID K Plus	https://op-group1-swiftservehd-1.dens.tv/h/h08/index.m3u8
+ID K Plus	https://op-group1-swiftservehd-1.dens.tv/h/h219/index.m3u8
+ID Nadoo Korean	https://op-group1-swiftservehd-1.dens.tv/h/h125/live.m3u8
+ID My Cinema Europe	https://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8
+ID ATV	https://uniproxy.misty.workers.dev/https://streaming.indihometv.com/atm/DASH/atv/manifest.mpd
+ID Cartoonito	https://uniproxy.misty.workers.dev/https://streaming.indihometv.com/atm/DASH/boomerang/manifest.mpd
+ID Warner	https://uniproxy.misty.workers.dev/https://streaming.indihometv.com/atm/DASH/warner/manifest.mpd
+ID Indosiar 2	https://uniproxy.misty.workers.dev/https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
+ID SCTV 2	https://uniproxy.misty.workers.dev/https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
+ID tvOne	https://uniproxy.misty.workers.dev/https://streaming.indihometv.com/atm/DASH/tvone/manifest.mpd
+ID Jawapos	https://uniproxy.misty.workers.dev/https://streaming.indihometv.com/atm/DASH/jawapos/manifest.mpd
+ID Cinemax	https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(4b9c9228-73c1-cb85-94a9-7fa84858b877)/manifest.mpd``ad90306387ee369eb2a6de02869c7653:4b17755fdea3ca0277bb64a1e9fbecef
+ID HBO Family	https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(cec31cdd-d2ff-4c23-8a76-ad1c0ef025e2)/manifest.mpd``3e0b88044bbb3512a3d0027764314783:52843f20db4bbf45d594b6be310f81c1
+ID HBO Hits	https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7e3ac8f2-3380-461a-976b-30bca8d939a0)/manifest.mpd``a1e570be4c63326aa95ea53eb5be2699:f9d709f24054472ab7f53c758cf45c94
+ID HBO	https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(92c7b96a-33fc-4899-a032-50ae0fbc9257)/manifest.mpd``39a424d1b79e3b77bf6eaac3f3221f7e:7804e43828e094bd49e3d4df443eea11
+ID BeritaSatu News	https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
+ID Cinema World	https://op-group1-swiftservehd-1.dens.tv/h/h04/index.m3u8
+ID DAAI TV	https://dacastmmd.mmdlive.lldns.net/dacastmmd/683cc426c19442a4ba31c53be5c963bb/index.m3u8
+ID RTV	https://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8
+ID Trans TV	https://video.detik.com/transtv/smil:transtv-live.smil/index.m3u8
+ID Trans7	https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
+ID ADiTV	https://v2.siar.us/aditv/livestream/chunks.m3u8
+ID Dhoho TV	https://dhohotv.siar.us/dhohotv/live/playlist.m3u8
+ID Duta TV	https://dutatv.siar.us/dutatv/live/playlist.m3u8
+ID Huma Betang TV	https://v3.siar.us/humabetangtv/live/playlist.m3u8
+ID Inspira TV	https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
+ID Izzah TV	https://streaming.radiosalamjambi.com/izzahtv.m3u8
+ID JITV (Jogja Istimewa TV)	https://mam.jogjaprov.go.id:1937/tv/jitv_720p/playlist.m3u8
+ID Lingkar TV	https://lingkartv.my.id/hls/lingkartv.m3u8
+ID Madani TV	https://stream.asianastream.com/madani/madanitv.smil/playlist.m3u8
+ID Madu TV	https://re1.siar.us/madutv/hd720/playlist.m3u8
+ID MQTV	https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
+ID RRI NET TV	https://rrinet.rri.co.id/hls/live.m3u8
+ID Rodja TV	https://rodjatv.com/rodjatv/live.m3u8
+ID Sakti TV	https://saktitv.siar.us/saktitv/live/playlist.m3u8
+ID UGTV	https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
+ID Wesal TV	https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
+ID TVRI Sport	https://op-group1-swiftservesd-1.dens.tv/s/s107/index.m3u8
+ID MIC TV	https://v2.siar.us/mic/live/playlist.m3u8
+ID IMTV	https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
+US Discovery Kids	https://raw.githubusercontent.com/mimipipi22/lalajo/main/discoverykids.m3u8
+US Tortues Ninja 🇺🇸 🟤	https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d0c16d686454ead733d08f8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 Angry Birds 1	https://stream.ads.ottera.tv/playlist.m3u8?network_id=547
 Angry Birds 2	https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=514
 Dora TV	https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fb6c84dd37df3b4290c5/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=949ffd00-b258-11ee-b9bb-67540c86de73&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a228f049-3e34-4c61-88b3-7b47e6a36cf5&userId=&serverSideAds=true
@@ -157,24 +157,26 @@ Toonzkids	https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761
 Universal Kids	https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv/master_en.m3u8
 ZooMoo	https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 Just for Laughs Gags	https://distributionsjustepourrire-justforlaughsgags-1-br.samsung.wurl.tv/playlist.m3u8
-US  AFV Family	https://linear-12.frequency.stream/mt/plex/12/hls/master/playlist.m3u8
-US  WipeOut Xtra	https://d2stx9idyk58lb.cloudfront.net/wipeoutxtra-samsungus/playlist.m3u8
-DE  DW English	https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-ZA  WildEarth	https://wildearth-plex.amagi.tv/master.m3u8
+US AFV Family	https://linear-12.frequency.stream/mt/plex/12/hls/master/playlist.m3u8
+US WipeOut Xtra	https://d2stx9idyk58lb.cloudfront.net/wipeoutxtra-samsungus/playlist.m3u8
+DE DW English	https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+ZA WildEarth	https://wildearth-plex.amagi.tv/master.m3u8
 À Punt	https://bcovlive-a.akamaihd.net/a51c31c10f6e42b2bbb7c7649e9f305c/eu-west-1/6057955885001/playlist_dvr.m3u8
-ES  101TV Malaga	https://limited38.todostreaming.es/live/101tv-web101tv.m3u8
-ES  24h	https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
-ES  Alcarria	https://cls.alcarria.tv/live/alcarriatv-livestream.m3u8
-ES  Aragon	https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
-ES  Cine Clasico	https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:2_HD.smil/index.m3u8
-ES  La 1	https://cache3.zapitv.com/live/eds_c2/la1_4k/dash_live_enc/la1_4k.mpd``a3abc44525eef3b0a7af9138a9dbe34a:7740f8ae4223ce5ba293028f7f78f1c1
-ES  La 2 ES-IP	https://rtvelivestreamv3.akamaized.net/rtvesec/la2/la2_main.m3u8
-ES  Pequeradio	https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
-UK  Islam Channel	https://live.islamchannel.tv/live7/islamtv_english/bitrate1.isml/live.m3u8?c
-UK  Eman Channel	https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8
-UK  British Muslim TV	https://api.visionip.tv/live/ASHTTP/visiontvuk-international-britishmuslimtv-hsslive-25f-16x9-MB/playlist.m3u8
-UK  Iqraa TV	https://ap02.iqplay.tv:8082/iqb8002/iq6a7k/chunks.m3u8
-MX  Accion Mexicana	https://stream.ads.ottera.tv/playlist.m3u8?network_id=1153
+ES 101TV Malaga	https://limited38.todostreaming.es/live/101tv-web101tv.m3u8
+ES 24h	https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
+ES Alcarria	https://cls.alcarria.tv/live/alcarriatv-livestream.m3u8
+ES Aragon	https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
+ES Cine Clasico	https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:2_HD.smil/index.m3u8
+ES El Toro	https://proji.glitch.me/https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
+ES La 1	https://cache3.zapitv.com/live/eds_c2/la1_4k/dash_live_enc/la1_4k.mpd``a3abc44525eef3b0a7af9138a9dbe34a:7740f8ae4223ce5ba293028f7f78f1c1
+ES La 2 ES-IP	https://rtvelivestreamv3.akamaized.net/rtvesec/la2/la2_main.m3u8
+ES La Otra	https://laotra-1-23-secure2.akamaized.net/master.m3u8
+ES Pequeradio	https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
+UK Islam Channel	https://live.islamchannel.tv/live7/islamtv_english/bitrate1.isml/live.m3u8?c
+UK Eman Channel	https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8
+UK British Muslim TV	https://api.visionip.tv/live/ASHTTP/visiontvuk-international-britishmuslimtv-hsslive-25f-16x9-MB/playlist.m3u8
+UK Iqraa TV	https://ap02.iqplay.tv:8082/iqb8002/iq6a7k/chunks.m3u8
+MX Accion Mexicana	https://stream.ads.ottera.tv/playlist.m3u8?network_id=1153
 Canela Clasicos	https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
 Canela Hits	https://stream.ads.ottera.tv/playlist.m3u8?network_id=1058
 Canela Kids	https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
@@ -189,12 +191,12 @@ Flow Caribe	https://stream.ads.ottera.tv/playlist.m3u8?network_id=1083
 Gravitas Movies	https://ddniyunj92pl0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2amrzf32ny10z/playlist.m3u8
 Haz Clic!	https://stream.ads.ottera.tv/playlist.m3u8?network_id=4310
 ITV Deportes	https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010
-ES  Mundo Pequeño	https://stream.ads.ottera.tv/playlist.m3u8?network_id=3366
+ES Mundo Pequeño	https://stream.ads.ottera.tv/playlist.m3u8?network_id=3366
 Novelas Turcas	https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088
 Novelisima	https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
 Planeta de Aventuras	https://stream.ads.ottera.tv/playlist.m3u8?network_id=4311
 Puro Romance	https://stream.ads.ottera.tv/playlist.m3u8?network_id=1082
-M  Regional MX	https://stream.ads.ottera.tv/playlist.m3u8?network_id=1084
+M Regional MX	https://stream.ads.ottera.tv/playlist.m3u8?network_id=1084
 Rakuten Action Movies	https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
 Rakuten Top Movies	https://0609aae26cc24c8e9f13678986b881df.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-gb_TopFree/playlist.m3u8
 Ritmos Inolvidables	https://stream.ads.ottera.tv/playlist.m3u8?network_id=1081
@@ -204,153 +206,153 @@ Toon Goggles en Espanol	https://stream.ads.ottera.tv/playlist.m3u8?network_id=77
 Tu Pop Favorito	https://stream.ads.ottera.tv/playlist.m3u8?network_id=1086
 Zona de Acción	https://stream.ads.ottera.tv/playlist.m3u8?network_id=4312
 Cinema One	https://cinemaone-abscbn-ono.amagi.tv/index.m3u8
-AE  Dubai One	https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8
-AE  Dubai TV	https://raw.githubusercontent.com/mimipipi22/lalajo/main/dubaitv.m3u8
-MY  Astro Awani	https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
-MY  Boo	https://cors-proxy.cooks.fyi/https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/2407/default.mpd``ea4d51ade01bbf3946e0de973051ba10:f3266bec607f25879f48640f30f1c888
-MY  Degup	https://pop5clustera00de07172379a62d6189.hypp.tv:443/PLTV/88888888/224/3221227923/3221227923.mpd?rrsip%3Dweb.hypp.tv&zoneoffset=0&servicetype=1&icpid&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=qD/Ghg01YduJJVCux%2B5ixF6lBrrzvU1Q2%2B8sLqGChu40fF7WRczKep1ijxO3BzygK7IGCYvN70sbDo5pVRv84y3usL46ekX4z6HfPL7ju%2BT/E8WgnGuV2Kpf7nZRV575l1Gu6dfQIjZRtiMM1k%2B5qA%3D%3D:20230704175902:UTC,1004320541,14.1.254.135,20230704175902,urn:Huawei:liveTV:XTV55631601,1004320541,-1,0,1,,,2,,,,2,3692854,0,2611154,2b9f924f-2e21-e330-87b4-2daffcd7b85b,,,2,1,END&GuardEncType=2&tenantId=6003%60%60c2ef96fe03b52c27a7b9a25ebfc95a00:93c9bcd05f9f754026b5b5e17f4e6446
-MY  Maah TV	https://hls.maahtv.live/hls/stream.m3u8
-MY  TV IKIM	https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
-MY  Dunia Sinema	https://unifi-live01.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
-MY  RTB SukmaIndera	https://d1211whpimeups.cloudfront.net/smil:rtb1/chunklist.m3u8
-MY  RTB Aneka Go	https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
-MY  RTB Go Live	https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
-MY  Didik TV	https://raw.githubusercontent.com/mystery75/m3u8/main/DIDIKTVKPM.m3u8
-MY  Berita RTM TV	https://cors-proxy.cooks.fyi/https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
-MY  TV Okey	https://cors-proxy.cooks.fyi/https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
-MY  Sukan RTM TV	https://cors-proxy.cooks.fyi/https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
-MY  TV1	https://cors-proxy.cooks.fyi/https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
-MY  TV2	https://cors-proxy.cooks.fyi/https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
-MY  TV3	https://raw.githubusercontent.com/mystery75/m3u8/main/TV3.m3u8
-MY  TV6	https://cors-proxy.cooks.fyi/https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
-MY  8TV	https://raw.githubusercontent.com/mystery75/m3u8/main/8TV.m3u8
-MY  TV9	https://raw.githubusercontent.com/mystery75/m3u8/main/TV9.m3u8
-MY  Siar	https://unifi-live31.secureswiftcontent.com/UnifiHD/live31.mpd``fc23c442355854992a264931a28fc1c5:3a3368fa385a049695ff4de3c36809cd
-MY  Drama Hebat	https://ce2388031147403ca25a81e56607a193.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_1_Ad/dash.mpd
-MY  Filem Mantap	https://78470390525b4b03b023113696878114.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_2_Ad/dash.mpd
-MY  Lawak Sentral	https://4940c5f69db24a558151436f708d5a69.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_3_Ad/dash.mpd
-MY  Drama HotPot	https://770c1b3657e94bc4b76ecd3e12882bcc.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_4_Ad/dash.mpd
-MY  Travel & Taste	https://068877e598224108a60fb9cd5db3717f.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_5_Ad/dash.mpd
-MY  Jom Ngaji	https://068877e598224108a60fb9cd5db3717f.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_6_Ad/dash.mpd
-MY  Oh My Ceria	https://068877e598224108a60fb9cd5db3717f.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_7_Ad/dash.mpd
-MY  Now Jelli	https://pop5clustera00de07172379a62d6189.hypp.tv:443/PLTV/88888888/224/3221227559/3221227559.mpd?rrsip=web.hypp.tv&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=qD%2FGhg01YduJJVCux%2B5ixF6lBrrzvU1Q2%2B8sLqGChu40fF7WRczKep1ijxO3BzygK7IGCYvN70sbDo5pVRv846haXUJR5R32mBb1BUUaHHv17QezgK4lI66BNld%2BWvWSl1Gu6dfQIjZRtiMM1k%2B5qA%3D%3D%3A20230704185240%3AUTC%2C1004320541%2C14.1.254.135%2C20230704185240%2Curn:Huawei:liveTV:iptv28981%2C1004320541%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C3692854%2C0%2C2611154%2C2b9f924f-2e21-e330-87b4-2daffcd7b85b%2C%2C%2C2%2C1%2CEND&GuardEncType=2&tenantId=6003``489a7503db27114694ce416b0a032fc1:1ba9a24d9b92e5fe8e419b16616a9ae3
-MY  Selangor TV	https://skyios.sky4k.top/S1G_010/playlist.m3u8
-TH  ALTV4	https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
-TH  7Flix	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC5/index.m3u8
-TH  AmarinTV HD	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chamarin3/index.m3u8
-TH  Animal Kingdom	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC18/index.m3u8
-TH  Boomerang	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chboomberang/index.m3u8
-TH  Box Film	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC52/index.m3u8
-TH  Cartoon Club	https://edge2-bkk.3bb.co.th:9443/Web_CartoonClub_Live/cartoonclub_480P.stream/chunklist.m3u8
-TH  CH3 HD	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch3hd3/index.m3u8
-TH  CH7 HD	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch7hd3/index.m3u8
-TH  CH8	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch83/index.m3u8
-TH  Channel 8	https://cdn-th-vip.login.in.th:443/ch8/ch8/chunklist.m3u8
-TH  GMM25	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chgmm3/index.m3u8
-TH  JKN 18	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/newtv3/index.m3u8
-TH  MCOT HD	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chmcothd3/index.m3u8
-TH  Mono	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chmono293/index.m3u8
-TH  Movies World 1	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC11/index.m3u8
-TH  Movies World 2	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC53/index.m3u8
-TH  Movies World 3	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC2/index.m3u8
-TH  Nation TV	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chnation3/index.m3u8
-TH  NBT 2 HD	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chnbt3/index.m3u8
-TH  ONE 31 HD	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chonehd3/index.m3u8
-TH  Parliament	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/TPTV3/index.m3u8
-TH  PPTV HD	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chpptvhd3/index.m3u8
-TH  Thairath TV HD	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chthairath3/index.m3u8
-TH  TNN	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtnn3/index.m3u8
-TH  TPBS	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chthaipbs3/index.m3u8
-TH  True 4 U	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtrue4u3/index.m3u8
-TH  T-Sports7	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtsport3/index.m3u8
-TH  TV5 HD	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch5hd3/index.m3u8
-TH  TVB	https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/playlist.m3u8
-TH  Workpoint TV	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chworkpoint3/index.m3u8
-TH  HBO	https://cnt1-streamer9.cdn.3bbtv.com:8443/3bb/live/103/103.mpd``9c5735afb4fd402580360aed8364469c:128d55d9ac2b47ad85f86b5d08320179
-TH  HBO Family	https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/106/106.mpd``07b138f30ad3441ca5a2f476e550af25:826ee4deef4b45cfafd5f79a591b15c6
-TH  HBO Hits	https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/105/105.mpd``7c04b8e7aa524afea879b2ed1aef8242:91e72b75fcb94c3bb36cceb741afd621
-TH  HBO Signature	https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/104/104.mpd``0db89bae851440a5994f5893ad480494:d88ef77eaedf4451a65be2e0bf6eabde
-SG  HBO Plus	https://skytest.starlive.workers.dev/http://170.254.18.106/HBO_PLUS/index.m3u8
-SG  HBO	https://tglmp01.akamaized.net/out/v1/29687feb8f96427ca7348cd59c2338d9/manifest.mpd``a407479f074d43d798478c1212d95876:3afb53a2643939cd7128fa7ceded533a
-SG  HBO Hits	https://tglmp02.akamaized.net/out/v1/0fdcb3b643af40ceb3a5b7efa39f7b72/manifest.mpd``473fabdc05ac4d9b94fd34f33f73394f:1072b1e61206c3859607984f872e549c
-SG  HBO Signature	https://tglmp02.akamaized.net/out/v1/b37a81eb3585471cb9c639c78edcdefa/manifest.mpd``90480f571f5d410891d7add7103c1e84:b64f887d2480bcaea992c2f0826449a9
-SG  HBO Family	https://tglmp03.akamaized.net/out/v1/d15476c2807d4380b0cc375a7d861752/manifest.mpd``363b551913124d6b80074ca295b25129:a6c6efcab0076d572e5732fb6451d19c
-SG  Cinemax	https://tglmp04.akamaized.net/out/v1/0f439c1d8a1a47fca9ae1fa92144306e/manifest.mpd``32bc2ee6869144b88bee3babf202f88e:50d3b9ec49e1570621d45822923607f7
-SG  Animax	https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd``edf1a715de9748638dd2fad75a419af2:2f5a3199b26e9b693ae881af7ff864cf
-SG  CNA Channel News Asia	https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-SG  Channel Live 1	https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
-SG  Channel Live 2	https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd``60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271
-SG  Channel 5	https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd``607b7d22565c4bc3b95ff6c33ce65425:28cc5367df666c44be4382e64af64d57
-SG  Channel 8	https://tglmp02.akamaized.net/out/v1/4f6561ad194b49ae93f4e1b075afdf41/manifest.mpd``2448fc561b0c4220a81f1008971d3088:f48eb6753f3d1774da682970c93cf260
-SG  Channel U	https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.mpd``0328a153c2994b279ab03ab25102fc59:2cc69eaaa858fed24c5623654daf8d3d
-SG  MeWatch	https://tglmp04.akamaized.net/out/v1/6b351c6bf46a43d998e3f86b69cbce4f/manifest.mpd``cdb834a4f2fd413a8e50d1a7170701d2:3d6ae85b34e8aac7488c780cea215306
-SG  Rock Action	https://tglmp04.akamaized.net/out/v1/421a3cd3bdcd492f8f4b5efb2363ed2c/manifest.mpd``2341c2ecd3cf4865881bb0fa1287de8f:ad45202e64f66ef36b3f60fac93cc47f
-SG  Rock Entertainment	https://tglmp02.akamaized.net/out/v1/621a7089e63144e4be7891cd9bfb10e2/manifest.mpd``9229814c629b406f8de98d2f23c968a0:40b9f250455b43b3b2ea6845ab81abca
-SG  Suria	https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.mpd``7a9ea6df52044841b0c562766e602610:b9380188b4896b25e8d419dfce938c6e
-SG  Vasantham	https://tglmp03.akamaized.net/out/v1/14eb6e921cae41298efaa4d9db0f2875/manifest.mpd``9970038ef6c548e39768f3a1ff6f5081:3e19d54b7bcd8bb336776fe136d48f57
+AE Dubai One	https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8
+AE Dubai TV	https://raw.githubusercontent.com/mimipipi22/lalajo/main/dubaitv.m3u8
+MY Astro Awani	https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
+MY Boo	https://cors-proxy.cooks.fyi/https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/2407/default.mpd``ea4d51ade01bbf3946e0de973051ba10:f3266bec607f25879f48640f30f1c888
+MY Degup	https://pop5clustera00de07172379a62d6189.hypp.tv:443/PLTV/88888888/224/3221227923/3221227923.mpd?rrsip%3Dweb.hypp.tv&zoneoffset=0&servicetype=1&icpid&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=qD/Ghg01YduJJVCux%2B5ixF6lBrrzvU1Q2%2B8sLqGChu40fF7WRczKep1ijxO3BzygK7IGCYvN70sbDo5pVRv84y3usL46ekX4z6HfPL7ju%2BT/E8WgnGuV2Kpf7nZRV575l1Gu6dfQIjZRtiMM1k%2B5qA%3D%3D:20230704175902:UTC,1004320541,14.1.254.135,20230704175902,urn:Huawei:liveTV:XTV55631601,1004320541,-1,0,1,,,2,,,,2,3692854,0,2611154,2b9f924f-2e21-e330-87b4-2daffcd7b85b,,,2,1,END&GuardEncType=2&tenantId=6003%60%60c2ef96fe03b52c27a7b9a25ebfc95a00:93c9bcd05f9f754026b5b5e17f4e6446
+MY Maah TV	https://hls.maahtv.live/hls/stream.m3u8
+MY TV IKIM	https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
+MY Dunia Sinema	https://unifi-live01.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
+MY RTB SukmaIndera	https://d1211whpimeups.cloudfront.net/smil:rtb1/chunklist.m3u8
+MY RTB Aneka Go	https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
+MY RTB Go Live	https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
+MY Didik TV	https://raw.githubusercontent.com/mystery75/m3u8/main/DIDIKTVKPM.m3u8
+MY Berita RTM TV	https://cors-proxy.cooks.fyi/https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
+MY TV Okey	https://cors-proxy.cooks.fyi/https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
+MY Sukan RTM TV	https://cors-proxy.cooks.fyi/https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
+MY TV1	https://cors-proxy.cooks.fyi/https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
+MY TV2	https://cors-proxy.cooks.fyi/https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
+MY TV3	https://raw.githubusercontent.com/mystery75/m3u8/main/TV3.m3u8
+MY TV6	https://cors-proxy.cooks.fyi/https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
+MY 8TV	https://raw.githubusercontent.com/mystery75/m3u8/main/8TV.m3u8
+MY TV9	https://raw.githubusercontent.com/mystery75/m3u8/main/TV9.m3u8
+MY Siar	https://unifi-live31.secureswiftcontent.com/UnifiHD/live31.mpd``fc23c442355854992a264931a28fc1c5:3a3368fa385a049695ff4de3c36809cd
+MY Drama Hebat	https://ce2388031147403ca25a81e56607a193.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_1_Ad/dash.mpd
+MY Filem Mantap	https://78470390525b4b03b023113696878114.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_2_Ad/dash.mpd
+MY Lawak Sentral	https://4940c5f69db24a558151436f708d5a69.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_3_Ad/dash.mpd
+MY Drama HotPot	https://770c1b3657e94bc4b76ecd3e12882bcc.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_4_Ad/dash.mpd
+MY Travel & Taste	https://068877e598224108a60fb9cd5db3717f.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_5_Ad/dash.mpd
+MY Jom Ngaji	https://068877e598224108a60fb9cd5db3717f.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_6_Ad/dash.mpd
+MY Oh My Ceria	https://068877e598224108a60fb9cd5db3717f.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_7_Ad/dash.mpd
+MY Now Jelli	https://pop5clustera00de07172379a62d6189.hypp.tv:443/PLTV/88888888/224/3221227559/3221227559.mpd?rrsip=web.hypp.tv&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=qD%2FGhg01YduJJVCux%2B5ixF6lBrrzvU1Q2%2B8sLqGChu40fF7WRczKep1ijxO3BzygK7IGCYvN70sbDo5pVRv846haXUJR5R32mBb1BUUaHHv17QezgK4lI66BNld%2BWvWSl1Gu6dfQIjZRtiMM1k%2B5qA%3D%3D%3A20230704185240%3AUTC%2C1004320541%2C14.1.254.135%2C20230704185240%2Curn:Huawei:liveTV:iptv28981%2C1004320541%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C3692854%2C0%2C2611154%2C2b9f924f-2e21-e330-87b4-2daffcd7b85b%2C%2C%2C2%2C1%2CEND&GuardEncType=2&tenantId=6003``489a7503db27114694ce416b0a032fc1:1ba9a24d9b92e5fe8e419b16616a9ae3
+MY Selangor TV	https://skyios.sky4k.top/S1G_010/playlist.m3u8
+TH ALTV4	https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
+TH 7Flix	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC5/index.m3u8
+TH AmarinTV HD	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chamarin3/index.m3u8
+TH Animal Kingdom	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC18/index.m3u8
+TH Boomerang	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chboomberang/index.m3u8
+TH Box Film	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC52/index.m3u8
+TH Cartoon Club	https://edge2-bkk.3bb.co.th:9443/Web_CartoonClub_Live/cartoonclub_480P.stream/chunklist.m3u8
+TH CH3 HD	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch3hd3/index.m3u8
+TH CH7 HD	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch7hd3/index.m3u8
+TH CH8	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch83/index.m3u8
+TH Channel 8	https://cdn-th-vip.login.in.th:443/ch8/ch8/chunklist.m3u8
+TH GMM25	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chgmm3/index.m3u8
+TH JKN 18	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/newtv3/index.m3u8
+TH MCOT HD	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chmcothd3/index.m3u8
+TH Mono	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chmono293/index.m3u8
+TH Movies World 1	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC11/index.m3u8
+TH Movies World 2	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC53/index.m3u8
+TH Movies World 3	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC2/index.m3u8
+TH Nation TV	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chnation3/index.m3u8
+TH NBT 2 HD	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chnbt3/index.m3u8
+TH ONE 31 HD	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chonehd3/index.m3u8
+TH Parliament	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/TPTV3/index.m3u8
+TH PPTV HD	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chpptvhd3/index.m3u8
+TH Thairath TV HD	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chthairath3/index.m3u8
+TH TNN	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtnn3/index.m3u8
+TH TPBS	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chthaipbs3/index.m3u8
+TH True 4 U	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtrue4u3/index.m3u8
+TH T-Sports7	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtsport3/index.m3u8
+TH TV5 HD	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch5hd3/index.m3u8
+TH TVB	https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/playlist.m3u8
+TH Workpoint TV	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chworkpoint3/index.m3u8
+TH HBO	https://cnt1-streamer9.cdn.3bbtv.com:8443/3bb/live/103/103.mpd``9c5735afb4fd402580360aed8364469c:128d55d9ac2b47ad85f86b5d08320179
+TH HBO Family	https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/106/106.mpd``07b138f30ad3441ca5a2f476e550af25:826ee4deef4b45cfafd5f79a591b15c6
+TH HBO Hits	https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/105/105.mpd``7c04b8e7aa524afea879b2ed1aef8242:91e72b75fcb94c3bb36cceb741afd621
+TH HBO Signature	https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/104/104.mpd``0db89bae851440a5994f5893ad480494:d88ef77eaedf4451a65be2e0bf6eabde
+SG HBO Plus	https://skytest.starlive.workers.dev/http://170.254.18.106/HBO_PLUS/index.m3u8
+SG HBO	https://tglmp01.akamaized.net/out/v1/29687feb8f96427ca7348cd59c2338d9/manifest.mpd``a407479f074d43d798478c1212d95876:3afb53a2643939cd7128fa7ceded533a
+SG HBO Hits	https://tglmp02.akamaized.net/out/v1/0fdcb3b643af40ceb3a5b7efa39f7b72/manifest.mpd``473fabdc05ac4d9b94fd34f33f73394f:1072b1e61206c3859607984f872e549c
+SG HBO Signature	https://tglmp02.akamaized.net/out/v1/b37a81eb3585471cb9c639c78edcdefa/manifest.mpd``90480f571f5d410891d7add7103c1e84:b64f887d2480bcaea992c2f0826449a9
+SG HBO Family	https://tglmp03.akamaized.net/out/v1/d15476c2807d4380b0cc375a7d861752/manifest.mpd``363b551913124d6b80074ca295b25129:a6c6efcab0076d572e5732fb6451d19c
+SG Cinemax	https://tglmp04.akamaized.net/out/v1/0f439c1d8a1a47fca9ae1fa92144306e/manifest.mpd``32bc2ee6869144b88bee3babf202f88e:50d3b9ec49e1570621d45822923607f7
+SG Animax	https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd``edf1a715de9748638dd2fad75a419af2:2f5a3199b26e9b693ae881af7ff864cf
+SG CNA Channel News Asia	https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+SG Channel Live 1	https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
+SG Channel Live 2	https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd``60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271
+SG Channel 5	https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd``607b7d22565c4bc3b95ff6c33ce65425:28cc5367df666c44be4382e64af64d57
+SG Channel 8	https://tglmp02.akamaized.net/out/v1/4f6561ad194b49ae93f4e1b075afdf41/manifest.mpd``2448fc561b0c4220a81f1008971d3088:f48eb6753f3d1774da682970c93cf260
+SG Channel U	https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.mpd``0328a153c2994b279ab03ab25102fc59:2cc69eaaa858fed24c5623654daf8d3d
+SG MeWatch	https://tglmp04.akamaized.net/out/v1/6b351c6bf46a43d998e3f86b69cbce4f/manifest.mpd``cdb834a4f2fd413a8e50d1a7170701d2:3d6ae85b34e8aac7488c780cea215306
+SG Rock Action	https://tglmp04.akamaized.net/out/v1/421a3cd3bdcd492f8f4b5efb2363ed2c/manifest.mpd``2341c2ecd3cf4865881bb0fa1287de8f:ad45202e64f66ef36b3f60fac93cc47f
+SG Rock Entertainment	https://tglmp02.akamaized.net/out/v1/621a7089e63144e4be7891cd9bfb10e2/manifest.mpd``9229814c629b406f8de98d2f23c968a0:40b9f250455b43b3b2ea6845ab81abca
+SG Suria	https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.mpd``7a9ea6df52044841b0c562766e602610:b9380188b4896b25e8d419dfce938c6e
+SG Vasantham	https://tglmp03.akamaized.net/out/v1/14eb6e921cae41298efaa4d9db0f2875/manifest.mpd``9970038ef6c548e39768f3a1ff6f5081:3e19d54b7bcd8bb336776fe136d48f57
 Africa News	https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/africanews/africanews-en.m3u8
-KR  Korea Central TV (KCNA)	https://tv.nknews.org/tvdash/stream.mpd
-JP  NHK World Japan	https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/bmcc-live/id/playlist.m3u8
-JP  Nippon News 24	https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
-JP  Animax	https://vnpt.nekocdn.xyz/hls/Animax/index.m3u8
-JP  AT-X	https://vnpt.nekocdn.xyz/hls/AT-X/index.m3u8
-JP  BS11	https://vnpt.nekocdn.xyz/hls/BS11/index.m3u8
-JP  Fuji TV	https://vnpt.nekocdn.xyz/hls/Fuji_TV/index.m3u8
-JP  MTV	https://vnpt.nekocdn.xyz/hls/MTV/index.m3u8
-JP  NHK BS	https://vnpt.nekocdn.xyz/hls/NHK_BS/index.m3u8
-JP  NHK E	https://vnpt.nekocdn.xyz/hls/NHK_E/index.m3u8
-JP  NHK G	https://vnpt.nekocdn.xyz/hls/NHK_G/index.m3u8
-JP  NTV	https://vnpt.nekocdn.xyz/hls/Nippon_TV/index.m3u8
-JP  Space Shower TV (n3ko)	https://vnpt.nekocdn.xyz/hls/Space_Shower/index.m3u8
-JP  TBS	https://vnpt.nekocdn.xyz/hls/TBS/index.m3u8
-JP  TOKYO MX1	https://vnpt.nekocdn.xyz/hls/Tokyo_MX1/index.m3u8
-JP  TV Asahi	https://vnpt.nekocdn.xyz/hls/TV_Asahi/index.m3u8
-JP  TV Tokyo	https://vnpt.nekocdn.xyz/hls/TV_Tokyo/index.m3u8
-US  MovieSphere TV	https://moviesphere-plex.amagi.tv/playlist.m3u8
-US  SYFY	https://vbchcdedge03.national-linear-ddtc-tve.tve.cox.net/SYFYD_HD_CX_DDTVE_58623_0_5302026933975814163.mpd``b6f0313b542c403db100450122a25dce:b7c76618c5d877f6ced637eeab8112b1
-KR  ABN TV	https://vod2.abn.co.kr/IPHONE/abn.m3u8
-KR  Arirang	https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist.m3u8
-KR  EBS Kids TV	https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
-KR  Chosun TV	https://wms2-kortv.akamaized.net/a_live/37871460/smil:20tv024.smil/chunklist.m3u8
-KR  EBS 1 TV	https://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8
-KR  EBS 2 TV	https://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/playlist.m3u8
-KR  EBS E TV	https://ebsonairios.ebs.co.kr/plus3tablet500k/tablet500k/chunklist.m3u8
-KR  EBS Plus 1 TV	https://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/playlist.m3u8
-KR  EBS Plus 2 TV	https://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/playlist.m3u8
-KR  KBS World TV	https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
-KR  MBC America TV	https://dacastmmd.mmdlive.lldns.net/dacastmmd/1c94dc9f1c08487a97995571800b9667/index.m3u8
-KR  MBC TV	https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
-KR  TBS TV	https://cdntv.tbs.seoul.kr/tbs/_definst_/tbs_tv_web.smil/playlist.m3u8
-KR  tvN	https://d32khooduen8y3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p170vbjf0s68a-ssai-prd/2e874342_9a2c_48e9_9066_7ab3a3284a80/hls/playlist.m3u8
-KR  K-Drama	https://stream.ads.ottera.tv/playlist.m3u8?network_id=425
-KR  K-Movies	https://bd281c27a16f4a7fb4a88260378e8082.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewMovies/playlist.m3u8
-KR  CJ E&M	https://d50a1g0nh14ou.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/CJ-ENM-prod/e91c6419_2e45_4f6c_a646_b912658d73b8/hls/playlist.m3u8
-KR  SBS TV	https://newidco-sbs-1-eu.xiaomi.wurl.tv/playlist.m3u8
-KR  IDS	https://8fd4e0b07d96480eb52382739cc8acce.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewKID/playlist.m3u8
-KR  K-Pop 1	https://ssh101-fl.bozztv.com/ssh101/kpoptv/playlist.m3u8
-KR  K-Pop 2	https://live.24hrkpop.com/hls/4/stream.m3u8
-QA  Al Jazeera Arabic	https://live-hls-web-aja.getaj.net/AJA/index.m3u8
-QA  Al Jazeera English	https://live-hls-web-aje.getaj.net/AJE/index.m3u8
-RU  Russia Today English	https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
-RU  Russia Today Documentary English	https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
-RU  Duma TV HD	https://dumatv.iptv2022.com/tracks-v2a1/mono.m3u8
-AU  ABC News Australia TV	https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
-AU  ABC News TV	https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-US  ABC TV	https://w.tryandrew.shop/abc.m3u8
-CN  Wion	https://op-group1-swiftservehd-1.dens.tv/h/h91/index.m3u8
-CN  CGTN Documentary TV	https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
-CN  CGTN EN	https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+KR Korea Central TV (KCNA)	https://tv.nknews.org/tvdash/stream.mpd
+JP NHK World Japan	https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/bmcc-live/id/playlist.m3u8
+JP Nippon News 24	https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+JP Animax	https://vnpt.nekocdn.xyz/hls/Animax/index.m3u8
+JP AT-X	https://vnpt.nekocdn.xyz/hls/AT-X/index.m3u8
+JP BS11	https://vnpt.nekocdn.xyz/hls/BS11/index.m3u8
+JP Fuji TV	https://vnpt.nekocdn.xyz/hls/Fuji_TV/index.m3u8
+JP MTV	https://vnpt.nekocdn.xyz/hls/MTV/index.m3u8
+JP NHK BS	https://vnpt.nekocdn.xyz/hls/NHK_BS/index.m3u8
+JP NHK E	https://vnpt.nekocdn.xyz/hls/NHK_E/index.m3u8
+JP NHK G	https://vnpt.nekocdn.xyz/hls/NHK_G/index.m3u8
+JP NTV	https://vnpt.nekocdn.xyz/hls/Nippon_TV/index.m3u8
+JP Space Shower TV (n3ko)	https://vnpt.nekocdn.xyz/hls/Space_Shower/index.m3u8
+JP TBS	https://vnpt.nekocdn.xyz/hls/TBS/index.m3u8
+JP TOKYO MX1	https://vnpt.nekocdn.xyz/hls/Tokyo_MX1/index.m3u8
+JP TV Asahi	https://vnpt.nekocdn.xyz/hls/TV_Asahi/index.m3u8
+JP TV Tokyo	https://vnpt.nekocdn.xyz/hls/TV_Tokyo/index.m3u8
+US MovieSphere TV	https://moviesphere-plex.amagi.tv/playlist.m3u8
+US SYFY	https://vbchcdedge03.national-linear-ddtc-tve.tve.cox.net/SYFYD_HD_CX_DDTVE_58623_0_5302026933975814163.mpd``b6f0313b542c403db100450122a25dce:b7c76618c5d877f6ced637eeab8112b1
+KR ABN TV	https://vod2.abn.co.kr/IPHONE/abn.m3u8
+KR Arirang	https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist.m3u8
+KR EBS Kids TV	https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
+KR Chosun TV	https://wms2-kortv.akamaized.net/a_live/37871460/smil:20tv024.smil/chunklist.m3u8
+KR EBS 1 TV	https://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8
+KR EBS 2 TV	https://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/playlist.m3u8
+KR EBS E TV	https://ebsonairios.ebs.co.kr/plus3tablet500k/tablet500k/chunklist.m3u8
+KR EBS Plus 1 TV	https://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/playlist.m3u8
+KR EBS Plus 2 TV	https://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/playlist.m3u8
+KR KBS World TV	https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+KR MBC America TV	https://dacastmmd.mmdlive.lldns.net/dacastmmd/1c94dc9f1c08487a97995571800b9667/index.m3u8
+KR MBC TV	https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
+KR TBS TV	https://cdntv.tbs.seoul.kr/tbs/_definst_/tbs_tv_web.smil/playlist.m3u8
+KR tvN	https://d32khooduen8y3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p170vbjf0s68a-ssai-prd/2e874342_9a2c_48e9_9066_7ab3a3284a80/hls/playlist.m3u8
+KR K-Drama	https://stream.ads.ottera.tv/playlist.m3u8?network_id=425
+KR K-Movies	https://bd281c27a16f4a7fb4a88260378e8082.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewMovies/playlist.m3u8
+KR CJ E&M	https://d50a1g0nh14ou.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/CJ-ENM-prod/e91c6419_2e45_4f6c_a646_b912658d73b8/hls/playlist.m3u8
+KR SBS TV	https://newidco-sbs-1-eu.xiaomi.wurl.tv/playlist.m3u8
+KR IDS	https://8fd4e0b07d96480eb52382739cc8acce.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewKID/playlist.m3u8
+KR K-Pop 1	https://ssh101-fl.bozztv.com/ssh101/kpoptv/playlist.m3u8
+KR K-Pop 2	https://live.24hrkpop.com/hls/4/stream.m3u8
+QA Al Jazeera Arabic	https://live-hls-web-aja.getaj.net/AJA/index.m3u8
+QA Al Jazeera English	https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+RU Russia Today English	https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
+RU Russia Today Documentary English	https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
+RU Duma TV HD	https://dumatv.iptv2022.com/tracks-v2a1/mono.m3u8
+AU ABC News Australia TV	https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+AU ABC News TV	https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+US ABC TV	https://w.tryandrew.shop/abc.m3u8
+CN Wion	https://op-group1-swiftservehd-1.dens.tv/h/h91/index.m3u8
+CN CGTN Documentary TV	https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+CN CGTN EN	https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 HK TVB Jade	https://raw.githubusercontent.com/mimipipi22/lalajo/main/tvbjade.m3u8
 Global Fashion Channel	https://gfcomnimedia-globalfashionchannel-1-eu.xiaomi.wurl.tv/playlist.m3u8
-FR  FashionTV	https://fashs043.cloudycdn.services/scte/pg18/playlist.m3u8
-FR  TV5 Monde Pacifique	https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/variant.m3u8
-FR  TV5 Monde Style	https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
-FR  Paris Premiere	https://raw.githubusercontent.com/mimipipi22/inspirationlinks/live/Streams/PaPremiere.m3u8
-FR  RTLClub	https://raw.githubusercontent.com/mimipipi22/inspirationlinks/live/Streams/RTLClub.m3u8
-FR  Bel RTL	https://raw.githubusercontent.com/mimipipi22/inspirationlinks/live/Streams/RTLTvi.m3u8
-US  M2O TV	https://streamcdne2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
-US  Radio 51 TV	https://59d7d6f47d7fc.streamlock.net/canale51/canale51/eroz_brebes.m3u8
-US  United Nations Web TV	https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
+FR FashionTV	https://fashs043.cloudycdn.services/scte/pg18/playlist.m3u8
+FR TV5 Monde Pacifique	https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/variant.m3u8
+FR TV5 Monde Style	https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
+FR Paris Premiere	https://raw.githubusercontent.com/mimipipi22/inspirationlinks/live/Streams/PaPremiere.m3u8
+FR RTLClub	https://raw.githubusercontent.com/mimipipi22/inspirationlinks/live/Streams/RTLClub.m3u8
+FR Bel RTL	https://raw.githubusercontent.com/mimipipi22/inspirationlinks/live/Streams/RTLTvi.m3u8
+US M2O TV	https://streamcdne2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
+US Radio 51 TV	https://59d7d6f47d7fc.streamlock.net/canale51/canale51/eroz_brebes.m3u8
+US United Nations Web TV	https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
 Action Hollywood Movies	https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 Discovery Channel	https://raw.githubusercontent.com/mimipipi22/lalajo/main/discoverychannel.m3u8
 Discovery Science	https://raw.githubusercontent.com/mimipipi22/lalajo/main/discoverysci.m3u8
@@ -365,7 +367,7 @@ Sony Crackle	https://crackle-plex.amagi.tv/playlist.m3u8?c
 TLC	https://raw.githubusercontent.com/mimipipi22/lalajo/main/tlc.m3u8
 TRT World	https://raw.githubusercontent.com/mimipipi22/lalajo/main/trtworld.m3u8
 Trvl Channel	https://raw.githubusercontent.com/mimipipi22/lalajo/main/trvlchannel.m3u8
-US  VOA	https://raw.githubusercontent.com/mimipipi22/lalajo/main/voa.m3u8
+US VOA	https://raw.githubusercontent.com/mimipipi22/lalajo/main/voa.m3u8
 Hallmark Drama	https://frndlymsl.akamaized.net/hls/live/2006424/hallmarkdmsl/hallmarkdmsl/playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07
 Hallmark Movies & Mysteries	https://frndlymsl.akamaized.net/hls/live/2006424/hallmarkmmsl/hallmarkmmsl/playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07
 Hallmark Channel	https://frndlymsl.akamaized.net/hls/live/2006424/hallmarkmsl/hallmarkmsl/playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07
@@ -398,325 +400,325 @@ Loupe	https://linear-144.frequency.stream/dist/localnow/144/hls/hd/playlist.m3u8
 ESports Max	https://streamyes.alsolnet.com/esportsmax/live/chunklist.m3u8
 Hi-Yaah Movies	https://a28dc5e3f24c4a8da3a67c68be729c2c.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-59-HIYAH-PLEX/mt/plex/59/hls/master/playlist.m3u8
 Quietude	https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/quietude/playlist.m3u8
-US  Bloomberg Asia BTV	https://www.bloomberg.com/media-manifest/streams/asia.m3u8
-US  Bloomberg Asia Live Event TV	https://www.bloomberg.com/media-manifest/streams/asia-event.m3u8
-US  Bloomberg Australia BTV	https://www.bloomberg.com/media-manifest/streams/aus.m3u8
-US  Bloomberg EMEA Live Event TV	https://www.bloomberg.com/media-manifest/streams/eu-event.m3u8
-US  Bloomberg Europe BTV	https://www.bloomberg.com/media-manifest/streams/eu.m3u8
-US  Bloomberg Politics Live Event TV	https://www.bloomberg.com/media-manifest/streams/politics.m3u8
-US  Bloomberg U.S BTV	https://www.bloomberg.com/media-manifest/streams/us.m3u8
-US  Bloomberg U.S BTV+	https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
-US  Bloomberg U.S Live Event TV	https://www.bloomberg.com/media-manifest/streams/us-event.m3u8
-US  Live Now Fox TV	https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-JP  J Sports 1	https://stream01.willfonk.com/live_playlist.m3u8?cid=BS242&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-JP  J Sports 2	https://stream01.willfonk.com/live_playlist.m3u8?cid=BS243&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-JP  J Sports 3	https://stream01.willfonk.com/live_playlist.m3u8?cid=BS244&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-JP  J Sports 4	https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-JP  Asahi TV	https://stream01.willfonk.com/live_playlist.m3u8?cid=BS295&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-JP  Channel Ginga	https://stream01.willfonk.com/live_playlist.m3u8?cid=CS305&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-JP  Family Gekijo	https://stream01.willfonk.com/live_playlist.m3u8?cid=CS223&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-JP  Fox Japan	https://stream01.willfonk.com/live_playlist.m3u8?cid=CS293&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-JP  Fuji TV	https://stream01.willfonk.com/live_playlist.m3u8?cid=CS312&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-JP  Gaora Sports	https://stream01.willfonk.com/live_playlist.m3u8?cid=BS298&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-JP  Golf Network	https://stream01.willfonk.com/live_playlist.m3u8?cid=CS254&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-JP  Jidaigeki Senmon Channel	https://stream01.willfonk.com/live_playlist.m3u8?cid=CS262&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-JP  Kids Station	https://stream01.willfonk.com/live_playlist.m3u8?cid=CS292&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-JP  Lala TV	https://stream01.willfonk.com/live_playlist.m3u8?cid=CS330&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-JP  Movie Plus	https://stream01.willfonk.com/live_playlist.m3u8?cid=CS314&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-JP  Music On! TV	https://stream01.willfonk.com/live_playlist.m3u8?cid=CS240&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-JP  NHK BS Premium	https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-JP  NHK BS1	https://stream01.willfonk.com/live_playlist.m3u8?cid=BS103&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-JP  NHK Edu	https://stream01.willfonk.com/live_playlist.m3u8?cid=BS101&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-JP  Nippon Eiga Senmon Channel	https://stream01.willfonk.com/live_playlist.m3u8?cid=BS292&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-JP  Nippon TV	https://stream01.willfonk.com/live_playlist.m3u8?cid=BS255&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-JP  Nittere G+	https://stream01.willfonk.com/live_playlist.m3u8?cid=BS294&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-JP  Nittere News 24	https://stream01.willfonk.com/live_playlist.m3u8?cid=CS257&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-JP  Sky A	https://stream01.willfonk.com/live_playlist.m3u8?cid=CS349&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-JP  Star Channel 1	https://stream01.willfonk.com/live_playlist.m3u8?cid=CS250&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-JP  Star Channel 2	https://stream01.willfonk.com/live_playlist.m3u8?cid=BS200&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-JP  Star Channel 3	https://stream01.willfonk.com/live_playlist.m3u8?cid=BS201&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-JP  Super! Drama TV	https://stream01.willfonk.com/live_playlist.m3u8?cid=BS202&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-JP  TBS	https://stream01.willfonk.com/live_playlist.m3u8?cid=CS310&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-JP  TV Tokyo	https://stream01.willfonk.com/live_playlist.m3u8?cid=BS296&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-JP  Wowow Cinema	https://stream01.willfonk.com/live_playlist.m3u8?cid=CS218&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-JP  Wowow Live	https://stream01.willfonk.com/live_playlist.m3u8?cid=BS297&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-JP  Wowow Prime	https://stream01.willfonk.com/live_playlist.m3u8?cid=BS193&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-JP  BS Animax	https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-JP  BS Asahi	https://stream01.willfonk.com/live_playlist.m3u8?cid=BS191&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-JP  BS Fuji	https://stream01.willfonk.com/live_playlist.m3u8?cid=BS236&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-JP  BS Nittere	https://stream01.willfonk.com/live_playlist.m3u8?cid=BS151&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-JP  BS Sky PerfecTV!	https://stream01.willfonk.com/live_playlist.m3u8?cid=BS181&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-JP  BS TBS	https://stream01.willfonk.com/live_playlist.m3u8?cid=BS141&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-JP  BS Tsuri Vision	https://stream01.willfonk.com/live_playlist.m3u8?cid=BS241&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-JP  BS TV Tokyo	https://stream01.willfonk.com/live_playlist.m3u8?cid=BS161&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-JP  Channel Neco	https://stream01.willfonk.com/live_playlist.m3u8?cid=BS251&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-JP  Toei Channel	https://stream01.willfonk.com/live_playlist.m3u8?cid=BS171&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-JP  NTV News 24	https://n24-cdn-live-b.ntv.co.jp/ch01/index.m3u8
-BE  Club 1	https://origin2-rtlbe.live.6cloud.fr/pool_z6h2o6qd/clubrtl/rtlbesd/dash_short_cenc10_clubrtl/index.mpd``b53316f32fc93b51a61ba6fdf0bce6c1:d752d66843a48a6fed64eed8f87adc3e
-BR  SBT	https://0006-bbc.dtvott.com/dash_live_0035/manifest.mpd``3ad3dca103185934acff7a0e9000c112:3f396659d841a55cd1381e6735ecfa1d
+US Bloomberg Asia BTV	https://www.bloomberg.com/media-manifest/streams/asia.m3u8
+US Bloomberg Asia Live Event TV	https://www.bloomberg.com/media-manifest/streams/asia-event.m3u8
+US Bloomberg Australia BTV	https://www.bloomberg.com/media-manifest/streams/aus.m3u8
+US Bloomberg EMEA Live Event TV	https://www.bloomberg.com/media-manifest/streams/eu-event.m3u8
+US Bloomberg Europe BTV	https://www.bloomberg.com/media-manifest/streams/eu.m3u8
+US Bloomberg Politics Live Event TV	https://www.bloomberg.com/media-manifest/streams/politics.m3u8
+US Bloomberg U.S BTV	https://www.bloomberg.com/media-manifest/streams/us.m3u8
+US Bloomberg U.S BTV+	https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
+US Bloomberg U.S Live Event TV	https://www.bloomberg.com/media-manifest/streams/us-event.m3u8
+US Live Now Fox TV	https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+JP J Sports 1	https://stream01.willfonk.com/live_playlist.m3u8?cid=BS242&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+JP J Sports 2	https://stream01.willfonk.com/live_playlist.m3u8?cid=BS243&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+JP J Sports 3	https://stream01.willfonk.com/live_playlist.m3u8?cid=BS244&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+JP J Sports 4	https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+JP Asahi TV	https://stream01.willfonk.com/live_playlist.m3u8?cid=BS295&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+JP Channel Ginga	https://stream01.willfonk.com/live_playlist.m3u8?cid=CS305&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+JP Family Gekijo	https://stream01.willfonk.com/live_playlist.m3u8?cid=CS223&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+JP Fox Japan	https://stream01.willfonk.com/live_playlist.m3u8?cid=CS293&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+JP Fuji TV	https://stream01.willfonk.com/live_playlist.m3u8?cid=CS312&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+JP Gaora Sports	https://stream01.willfonk.com/live_playlist.m3u8?cid=BS298&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+JP Golf Network	https://stream01.willfonk.com/live_playlist.m3u8?cid=CS254&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+JP Jidaigeki Senmon Channel	https://stream01.willfonk.com/live_playlist.m3u8?cid=CS262&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+JP Kids Station	https://stream01.willfonk.com/live_playlist.m3u8?cid=CS292&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+JP Lala TV	https://stream01.willfonk.com/live_playlist.m3u8?cid=CS330&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+JP Movie Plus	https://stream01.willfonk.com/live_playlist.m3u8?cid=CS314&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+JP Music On! TV	https://stream01.willfonk.com/live_playlist.m3u8?cid=CS240&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+JP NHK BS Premium	https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+JP NHK BS1	https://stream01.willfonk.com/live_playlist.m3u8?cid=BS103&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+JP NHK Edu	https://stream01.willfonk.com/live_playlist.m3u8?cid=BS101&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+JP Nippon Eiga Senmon Channel	https://stream01.willfonk.com/live_playlist.m3u8?cid=BS292&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+JP Nippon TV	https://stream01.willfonk.com/live_playlist.m3u8?cid=BS255&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+JP Nittere G+	https://stream01.willfonk.com/live_playlist.m3u8?cid=BS294&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+JP Nittere News 24	https://stream01.willfonk.com/live_playlist.m3u8?cid=CS257&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+JP Sky A	https://stream01.willfonk.com/live_playlist.m3u8?cid=CS349&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+JP Star Channel 1	https://stream01.willfonk.com/live_playlist.m3u8?cid=CS250&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+JP Star Channel 2	https://stream01.willfonk.com/live_playlist.m3u8?cid=BS200&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+JP Star Channel 3	https://stream01.willfonk.com/live_playlist.m3u8?cid=BS201&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+JP Super! Drama TV	https://stream01.willfonk.com/live_playlist.m3u8?cid=BS202&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+JP TBS	https://stream01.willfonk.com/live_playlist.m3u8?cid=CS310&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+JP TV Tokyo	https://stream01.willfonk.com/live_playlist.m3u8?cid=BS296&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+JP Wowow Cinema	https://stream01.willfonk.com/live_playlist.m3u8?cid=CS218&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+JP Wowow Live	https://stream01.willfonk.com/live_playlist.m3u8?cid=BS297&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+JP Wowow Prime	https://stream01.willfonk.com/live_playlist.m3u8?cid=BS193&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+JP BS Animax	https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+JP BS Asahi	https://stream01.willfonk.com/live_playlist.m3u8?cid=BS191&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+JP BS Fuji	https://stream01.willfonk.com/live_playlist.m3u8?cid=BS236&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+JP BS Nittere	https://stream01.willfonk.com/live_playlist.m3u8?cid=BS151&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+JP BS Sky PerfecTV!	https://stream01.willfonk.com/live_playlist.m3u8?cid=BS181&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+JP BS TBS	https://stream01.willfonk.com/live_playlist.m3u8?cid=BS141&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+JP BS Tsuri Vision	https://stream01.willfonk.com/live_playlist.m3u8?cid=BS241&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+JP BS TV Tokyo	https://stream01.willfonk.com/live_playlist.m3u8?cid=BS161&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+JP Channel Neco	https://stream01.willfonk.com/live_playlist.m3u8?cid=BS251&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+JP Toei Channel	https://stream01.willfonk.com/live_playlist.m3u8?cid=BS171&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+JP NTV News 24	https://n24-cdn-live-b.ntv.co.jp/ch01/index.m3u8
+BE Club 1	https://origin2-rtlbe.live.6cloud.fr/pool_z6h2o6qd/clubrtl/rtlbesd/dash_short_cenc10_clubrtl/index.mpd``b53316f32fc93b51a61ba6fdf0bce6c1:d752d66843a48a6fed64eed8f87adc3e
+BR SBT	https://0006-bbc.dtvott.com/dash_live_0035/manifest.mpd``3ad3dca103185934acff7a0e9000c112:3f396659d841a55cd1381e6735ecfa1d
 Canal 5	https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
 CBS News	https://live.ll.ww.aiv-cdn.net/OTTB/IAD/clients/dash/enc/pnaau3vieh/out/v1/f0ef46aca0a44511a9137f442a8c425a/cenc.mpd``883c3fe70347d4b647d45b8c9b430f8a:d45b8fcb7f415395e789a3f6a6646a8e
 HRT 2	https://cdn1oiv.akamaized.net/hrtliveorigin/hrt2.smil/1/manifest.mpd``994c79af863838109e7f3503bcd2aff9:d2c19650ad2a2ac77a95453b941a6f0e
-IT  Canale 1 Mediaset	https://live03p-seg.msf.cdn.mediaset.net/live/ch-i1/i1-dash-widevine.isml/manifest.mpd``00f9f3c0783536b8ee91704e23b78016:bfd04d6f544c9cc4d35cb13ab6778587
-IT  Canale 5 Mediaset	https://live03p-seg.msf.cdn.mediaset.net/live/ch-c5/c5-dash-widevine.isml/manifest.mpd``00f9f3c0783536b8ce4a30a01a52e082:e926f7d45af4f7d154c990eae6a2d937
-SM  RTV	https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/master.m3u8
-UK  Sky Cinema Action	https://linear401-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skycinemaaction)/manifest_720.mpd``0009a340cc0a79210aac42485474d01f:42ad18fa32d4001a1b0d196d194b4f82
-UK  Sky Cinema Premier	https://linear407-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skycinemapremier)/manifest_720.mpd``00073338ff8073d4304f83c62a015923:097c82ec30a82545cfc1f9d66ba7bfa0
-UK  Sky Cinema Animation	https://linear401-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skycinemaanimation)/manifest_720.mpd``0007cb3f3fe2ed34cc3a0dead47c2769:0a8bb5a04ab2fdf7b14af67b8ecf0867
-UK  Sky Cinema Family	https://linear401-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skycinemafamily)/manifest_720.mpd``00092cba8f081f1f6711df263e0639a3:07a43faf140c8ce0313047c29883d270
-UK  Sky Cinema Hits	https://linear406-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skycinemahits)/manifest_720.mpd``0009b55ec9440c27db869dd4efec5ff0:457c483c9606553d2461ccf27732f1c3
-UK  Sky Atlantic	https://linear019-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skyatlantic)/manifest_720.mpd``000533bb655b97f89fef59db87f507ec:5f1c8bf427349228aa6469486a84c54b
-UK  Sky Comedy	https://linear013-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skycomedy)/manifest_720.mpd``0005d8b36bdc21e2e5a3bc3278c162aa:720de28ad910e3ba91ffafc9d3226e19
-UK  Sky Max	https://linear016-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skymax)/manifest_720.mpd``000350070546d852d30a328bc62fbeda:0789751fcfbc476469c302b1a174ebb8
-UK  Sky Crime	https://linear013-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skycrime)/manifest_720.mpd``00035075b9471324ef3ef367f4e2f3e2:9623d9591c52f58bf18c0177ec58dc0b
-UK  Sky Showcase	https://linear035-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skyshowcase)/manifest_720.mpd``0003c312fd726f0ed430816abd7bb735:a3b08d3438447fa93a53aa823a834d7e
-UK  Sky News	https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_skynewsamericas_001.m3u8
-UK  ITV	https://wp2-obc1112-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV09212/manifest.mpd``5d9937d586414096948337ac314d79c1:22ca2e250b729982c97209e0ff3f7e9b
-UK  EuroNews	https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews/euronews-en.m3u8
+IT Canale 1 Mediaset	https://live03p-seg.msf.cdn.mediaset.net/live/ch-i1/i1-dash-widevine.isml/manifest.mpd``00f9f3c0783536b8ee91704e23b78016:bfd04d6f544c9cc4d35cb13ab6778587
+IT Canale 5 Mediaset	https://live03p-seg.msf.cdn.mediaset.net/live/ch-c5/c5-dash-widevine.isml/manifest.mpd``00f9f3c0783536b8ce4a30a01a52e082:e926f7d45af4f7d154c990eae6a2d937
+SM RTV	https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/master.m3u8
+UK Sky Cinema Action	https://linear401-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skycinemaaction)/manifest_720.mpd``0009a340cc0a79210aac42485474d01f:42ad18fa32d4001a1b0d196d194b4f82
+UK Sky Cinema Premier	https://linear407-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skycinemapremier)/manifest_720.mpd``00073338ff8073d4304f83c62a015923:097c82ec30a82545cfc1f9d66ba7bfa0
+UK Sky Cinema Animation	https://linear401-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skycinemaanimation)/manifest_720.mpd``0007cb3f3fe2ed34cc3a0dead47c2769:0a8bb5a04ab2fdf7b14af67b8ecf0867
+UK Sky Cinema Family	https://linear401-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skycinemafamily)/manifest_720.mpd``00092cba8f081f1f6711df263e0639a3:07a43faf140c8ce0313047c29883d270
+UK Sky Cinema Hits	https://linear406-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skycinemahits)/manifest_720.mpd``0009b55ec9440c27db869dd4efec5ff0:457c483c9606553d2461ccf27732f1c3
+UK Sky Atlantic	https://linear019-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skyatlantic)/manifest_720.mpd``000533bb655b97f89fef59db87f507ec:5f1c8bf427349228aa6469486a84c54b
+UK Sky Comedy	https://linear013-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skycomedy)/manifest_720.mpd``0005d8b36bdc21e2e5a3bc3278c162aa:720de28ad910e3ba91ffafc9d3226e19
+UK Sky Max	https://linear016-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skymax)/manifest_720.mpd``000350070546d852d30a328bc62fbeda:0789751fcfbc476469c302b1a174ebb8
+UK Sky Crime	https://linear013-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skycrime)/manifest_720.mpd``00035075b9471324ef3ef367f4e2f3e2:9623d9591c52f58bf18c0177ec58dc0b
+UK Sky Showcase	https://linear035-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skyshowcase)/manifest_720.mpd``0003c312fd726f0ed430816abd7bb735:a3b08d3438447fa93a53aa823a834d7e
+UK Sky News	https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_skynewsamericas_001.m3u8
+UK ITV	https://wp2-obc1112-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV09212/manifest.mpd``5d9937d586414096948337ac314d79c1:22ca2e250b729982c97209e0ff3f7e9b
+UK EuroNews	https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews/euronews-en.m3u8
 USA Net East	https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd``882c9f5613b43b47adc70aa968a308ce:de534ef8914bfe62ba3cdd6bdb9e1c04
 USA Net West	https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd``252a671825ba31ec8433f978c32ccf6d:ee560759ecc8d2274df2e63fcef56915
 Adult Swim (Samurai Jack Marathon)	https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream.m3u8
-AR  Garage TV 🇦🇷	https://stream1.sersat.com/hls/garagetv.m3u8
+AR Garage TV 🇦🇷	https://stream1.sersat.com/hls/garagetv.m3u8
 Autentic Travelᴴᴰ 🟤	https://autentic-autentictravel-1-gb.lg.wurl.tv/playlist.m3u8
-BO  GogoPlay 🇧🇴	https://cageu.bozztv.com/ssh101/ssh101/gogoplay/playlist.m3u8
-BR  4 POR 4 🇧🇷	https://video01.soultv.com.br/programa4por4/programa4por4/playlist.m3u8
-BR  Antena1ᴴᴰ 🇧🇷	https://21qcxjbzwr.singularcdn.net.br/antena1/ngrp:live_all/playlist.m3u8
-BR  Avança Brasilᴴᴰ 🇧🇷	https://video01.soultv.com.br/avancabrasil/avancabrasil/playlist.m3u8
-BR  Canal UOLᴴᴰ 🇧🇷 🟤	https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-07et6wc1z29gv/index.m3u8
-BR  CNN Brasilᴴᴰ 🇧🇷	https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
-BR  D+ TV 🇧🇷	https://stmv1.samcast.com.br/demaistv6503/demaistv6503/chunklist.m3u8
-BR  Dark Matterᴴᴰ 🇧🇷 🟤	https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_br_darkmatter_002.m3u8
-BR  DreamWorksᴴᴰ 🇧🇷	https://cdn-3.nxplay.com.br/DREAMWORKS/tracks-v2a1/mono.m3u8
-BR  Europa Play Filmes Nacionaisᴴᴰ 🇧🇷	https://cdn-2.nxplay.com.br/europaplay/tracks-v1a1/mono.m3u8
-BR  Fish TV 🇧🇷	https://cdn-1.nxplay.com.br/FISH_TV_NX_TK/index.m3u8
-BR  Geekdotᴴᴰ 🇧🇷	https://stream.ichibantv.com:3764/hybrid/play.m3u8
-BR  HomeFullᴴᴰ 🇧🇷 🟤	https://cc-9flatd4lam6vc.akamaized.net/5.m3u8
-BR  Master Show tv 🇧🇷	https://mastershowtv.videovox.pw/master6123/master6123/chunklist.m3u8
-BR  Mega Fatos 🇧🇷	https://59f1cbe63db89.streamlock.net:1443/mundotv2/_definst_/mundotv2/chunklist.m3u8
-BR  New Brasilᴴᴰ 🇧🇷	https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7pakstinpyajo/playlist.m3u8
-BR  Record Newsᴴᴰ 🇧🇷	https://livestream.zazerconer.workers.dev/channel/UCuiLR4p6wQ3xLEm15pEn1Xw.m3u8
-BR  Record tv sᴘᴴᴰ 🇧🇷	https://cdn-1.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/tracks-v1a1/mono.m3u8
-BR  RedeTV ᴘʀᴴᴰ 🇧🇷	https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
-BR  RedeTV! Tocantinsᴴᴰ 🇧🇷	https://59f1cbe63db89.streamlock.net:1443/redetvro/redetvro/chunklist.m3u8
-BR  Resumo da Ópera 🇧🇷	https://011news.akamaized.net/011news/011news/chunklist.m3u8
-BR  Runtime Actionᴴᴰ 🇧🇷 🟤	https://d3vx6kwn4pkd9t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fj2q06aizeppd-prod/run/rt_ra/rt_ra.m3u8
-BR  Runtimeᴴᴰ 🇧🇷 🟤	https://d3vx6kwn4pkd9t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fj2q06aizeppd-prod/run/rt_br/rt_br.m3u8
-BR  Soul Cine Clube 🇧🇷	https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
-BR  Trace Brasil 🟤	https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ccfvktkgxl5qg/playlist.m3u8
-BR  Tv Escola sᴅ 🇧🇷	https://5c483b9d1019c.streamlock.net/8054/8054/chunklist.m3u8
-BR  Tv Gazetaᴴᴰ 🇧🇷	https://video02.logicahost.com.br/tvc21/tvc21/playlist.m3u8
-BR  Tv Nova Play 🇧🇷	https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist.m3u8
-BR  TV Zynᴴᴰ 🇧🇷	https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5w3mfvzg9saoi/playlist.m3u8
-BR  Viva wᴇʙ 🇧🇷	https://video01.kshost.com.br/cypriano46326/cypriano46326/chunklist.m3u8
-BR  Zoom tv 🇧🇷	https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/chunklist.m3u8
+BO GogoPlay 🇧🇴	https://cageu.bozztv.com/ssh101/ssh101/gogoplay/playlist.m3u8
+BR 4 POR 4 🇧🇷	https://video01.soultv.com.br/programa4por4/programa4por4/playlist.m3u8
+BR Antena1ᴴᴰ 🇧🇷	https://21qcxjbzwr.singularcdn.net.br/antena1/ngrp:live_all/playlist.m3u8
+BR Avança Brasilᴴᴰ 🇧🇷	https://video01.soultv.com.br/avancabrasil/avancabrasil/playlist.m3u8
+BR Canal UOLᴴᴰ 🇧🇷 🟤	https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-07et6wc1z29gv/index.m3u8
+BR CNN Brasilᴴᴰ 🇧🇷	https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
+BR D+ TV 🇧🇷	https://stmv1.samcast.com.br/demaistv6503/demaistv6503/chunklist.m3u8
+BR Dark Matterᴴᴰ 🇧🇷 🟤	https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_br_darkmatter_002.m3u8
+BR DreamWorksᴴᴰ 🇧🇷	https://cdn-3.nxplay.com.br/DREAMWORKS/tracks-v2a1/mono.m3u8
+BR Europa Play Filmes Nacionaisᴴᴰ 🇧🇷	https://cdn-2.nxplay.com.br/europaplay/tracks-v1a1/mono.m3u8
+BR Fish TV 🇧🇷	https://cdn-1.nxplay.com.br/FISH_TV_NX_TK/index.m3u8
+BR Geekdotᴴᴰ 🇧🇷	https://stream.ichibantv.com:3764/hybrid/play.m3u8
+BR HomeFullᴴᴰ 🇧🇷 🟤	https://cc-9flatd4lam6vc.akamaized.net/5.m3u8
+BR Master Show tv 🇧🇷	https://mastershowtv.videovox.pw/master6123/master6123/chunklist.m3u8
+BR Mega Fatos 🇧🇷	https://59f1cbe63db89.streamlock.net:1443/mundotv2/_definst_/mundotv2/chunklist.m3u8
+BR New Brasilᴴᴰ 🇧🇷	https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7pakstinpyajo/playlist.m3u8
+BR Record Newsᴴᴰ 🇧🇷	https://livestream.zazerconer.workers.dev/channel/UCuiLR4p6wQ3xLEm15pEn1Xw.m3u8
+BR Record tv sᴘᴴᴰ 🇧🇷	https://cdn-1.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/tracks-v1a1/mono.m3u8
+BR RedeTV ᴘʀᴴᴰ 🇧🇷	https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
+BR RedeTV! Tocantinsᴴᴰ 🇧🇷	https://59f1cbe63db89.streamlock.net:1443/redetvro/redetvro/chunklist.m3u8
+BR Resumo da Ópera 🇧🇷	https://011news.akamaized.net/011news/011news/chunklist.m3u8
+BR Runtime Actionᴴᴰ 🇧🇷 🟤	https://d3vx6kwn4pkd9t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fj2q06aizeppd-prod/run/rt_ra/rt_ra.m3u8
+BR Runtimeᴴᴰ 🇧🇷 🟤	https://d3vx6kwn4pkd9t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fj2q06aizeppd-prod/run/rt_br/rt_br.m3u8
+BR Soul Cine Clube 🇧🇷	https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
+BR Trace Brasil 🟤	https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ccfvktkgxl5qg/playlist.m3u8
+BR Tv Escola sᴅ 🇧🇷	https://5c483b9d1019c.streamlock.net/8054/8054/chunklist.m3u8
+BR Tv Gazetaᴴᴰ 🇧🇷	https://video02.logicahost.com.br/tvc21/tvc21/playlist.m3u8
+BR Tv Nova Play 🇧🇷	https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist.m3u8
+BR TV Zynᴴᴰ 🇧🇷	https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5w3mfvzg9saoi/playlist.m3u8
+BR Viva wᴇʙ 🇧🇷	https://video01.kshost.com.br/cypriano46326/cypriano46326/chunklist.m3u8
+BR Zoom tv 🇧🇷	https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/chunklist.m3u8
 BR Lloading TVᴴᴰ 🇧🇷	https://stmv1.srvif.com/loadingtv/loadingtv/chunklist.m3u8
-CA  The Weather Network 🇺🇸🇨🇦 🟤	https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01442-pelmorexcorp-theweathernetwork-lgca/playlist.m3u8
-CL  Fitmaxx TV 🇨🇱	https://marine2.miplay.cl/fitmaxx/playlist.m3u8
-CL  Ladies TV 🇨🇱	https://panel.miplay.cl:8081/ladies/index.m3u8
-CL  On Tour Channel 🇨🇱	https://marine2.miplay.cl/ontour/playlist.m3u8
-CL  Sport Ext 🇨🇱	https://marine2.miplay.cl/sportext/playlist.m3u8
+CA The Weather Network 🇺🇸🇨🇦 🟤	https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01442-pelmorexcorp-theweathernetwork-lgca/playlist.m3u8
+CL Fitmaxx TV 🇨🇱	https://marine2.miplay.cl/fitmaxx/playlist.m3u8
+CL Ladies TV 🇨🇱	https://panel.miplay.cl:8081/ladies/index.m3u8
+CL On Tour Channel 🇨🇱	https://marine2.miplay.cl/ontour/playlist.m3u8
+CL Sport Ext 🇨🇱	https://marine2.miplay.cl/sportext/playlist.m3u8
 Clubbing tvᴴᴰ 🟤	https://clubbingtv-lg-au.amagi.tv/playlist.m3u8
-CZ  Premier Sport 1ᴴᴰ 🇨🇿	https://olam.telka.uk/premiersport_JnD4eF8ALBI4HWrUOpDMUj9sqakB/playlist.m3u8
-ES  3/24 🇪🇸	https://directes-tv-int.ccma.cat/live-content/canal324-hls/master.m3u8
-ES  8 La Marina sᴅ 🇪🇸	https://streaming005.gestec-video.com/hls/canal24.m3u8
-ES  A3Player Clasicosᴴᴰ 🇪🇸	https://fast-channels.atresmedia.com/648ef12c2bfab0e4507e0d61/648ef12c2bfab0e4507e0d61/5.m3u8
-ES  A3Player Comediaᴴᴰ 🇪🇸	https://fast-channels.atresmedia.com/648ef23d2bfab0e4557e0d61/648ef23d2bfab0e4557e0d61/5.m3u8
-ES  A3Player Equipo Investigacionᴴᴰ 🇪🇸	https://fast-channels.atresmedia.com/648ef5551756b0e429af83cc/648ef5551756b0e429af83cc/1.m3u8
-ES  A3Player Mentes Inquietasᴴᴰ 🇪🇸	https://fast-channels.atresmedia.com/648ef3162bfab0e4587e0d61/648ef3162bfab0e4587e0d61.m3u8
-ES  A3Player Multicineᴴᴰ 🇪🇸	https://fast-channels.atresmedia.com/648ef18c1756b0e41daf83cc/648ef18c1756b0e41daf83cc/1.m3u8
-ES  Andalucia Cocina 🇪🇸	https://cloud.fastchannel.es/mic/manifiest/hls/acocina/acocina.m3u8
-ES  BBC Dramaᴴᴰ 🇪🇸 🟤	https://bbceu-bbcdrama-3-es.rakuten.wurl.tv/playlist.m3u8
-ES  betevéᴴᴰ 🇪🇸	https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_n6442jz0/format/applehttp/.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0
-ES  CGTN Espanhol sᴅ 🇪🇸	https://livees.cgtn.com/1000e/prog_index.m3u8
-ES  CÑN 🇪🇸 🟤	https://dsuub0ebctcrw.cloudfront.net/dist/samsungtv/358/hls/master/playlist.m3u8
-ES  Duck tvᴴᴰ 🇪🇸 🟤	https://dlir9brl2ge8j.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9u2v4ro40jww6-ssai-prd/playlist.m3u8
-ES  Horrorfy 🇪🇸 🟤	https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
-ES  Kidz 🇪🇸	https://fast-channels.atresmedia.com/648c271d2bfab0e4177a0d61/648c271d2bfab0e4177a0d61/1.m3u8
-ES  La Otra sᴅ 🇪🇸	https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:3_HD.smil/manifest.m3u8
-ES  Mundo Náuticaᴴᴰ 🇪🇸	https://cloud.fastchannel.es/mic/manifiest/hls/mundonautica/mundonautica.m3u8
-ES  Pocoyóᴴᴰ 🇪🇸	https://daiconnect.com/live/hls/tvup/tvfy-pocoyo/.m3u8
-ES  Toon Goggles 🇪🇸	https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=514
-ES  TV3CATᴴᴰ 🇪🇸	https://directes-tv-int.ccma.cat/live-origin/tvi-hls/master.m3u8
-ES  ETB 1 🇪🇸	https://multimedia.eitb.eus/live-content/etb1hd-hls/index.m3u8
-ES  ETB 2 🇪🇸	https://multimedia.eitb.eus/live-content/etb2hd-hls/index.m3u8
-ES  ETB 3 🇪🇸	https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:98_HD.smil/manifest.mpd
+CZ Premier Sport 1ᴴᴰ 🇨🇿	https://olam.telka.uk/premiersport_JnD4eF8ALBI4HWrUOpDMUj9sqakB/playlist.m3u8
+ES 3/24 🇪🇸	https://directes-tv-int.ccma.cat/live-content/canal324-hls/master.m3u8
+ES 8 La Marina sᴅ 🇪🇸	https://streaming005.gestec-video.com/hls/canal24.m3u8
+ES A3Player Clasicosᴴᴰ 🇪🇸	https://fast-channels.atresmedia.com/648ef12c2bfab0e4507e0d61/648ef12c2bfab0e4507e0d61/5.m3u8
+ES A3Player Comediaᴴᴰ 🇪🇸	https://fast-channels.atresmedia.com/648ef23d2bfab0e4557e0d61/648ef23d2bfab0e4557e0d61/5.m3u8
+ES A3Player Equipo Investigacionᴴᴰ 🇪🇸	https://fast-channels.atresmedia.com/648ef5551756b0e429af83cc/648ef5551756b0e429af83cc/1.m3u8
+ES A3Player Mentes Inquietasᴴᴰ 🇪🇸	https://fast-channels.atresmedia.com/648ef3162bfab0e4587e0d61/648ef3162bfab0e4587e0d61.m3u8
+ES A3Player Multicineᴴᴰ 🇪🇸	https://fast-channels.atresmedia.com/648ef18c1756b0e41daf83cc/648ef18c1756b0e41daf83cc/1.m3u8
+ES Andalucia Cocina 🇪🇸	https://cloud.fastchannel.es/mic/manifiest/hls/acocina/acocina.m3u8
+ES BBC Dramaᴴᴰ 🇪🇸 🟤	https://bbceu-bbcdrama-3-es.rakuten.wurl.tv/playlist.m3u8
+ES betevéᴴᴰ 🇪🇸	https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_n6442jz0/format/applehttp/.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0
+ES CGTN Espanhol sᴅ 🇪🇸	https://livees.cgtn.com/1000e/prog_index.m3u8
+ES CÑN 🇪🇸 🟤	https://dsuub0ebctcrw.cloudfront.net/dist/samsungtv/358/hls/master/playlist.m3u8
+ES Duck tvᴴᴰ 🇪🇸 🟤	https://dlir9brl2ge8j.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9u2v4ro40jww6-ssai-prd/playlist.m3u8
+ES Horrorfy 🇪🇸 🟤	https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
+ES Kidz 🇪🇸	https://fast-channels.atresmedia.com/648c271d2bfab0e4177a0d61/648c271d2bfab0e4177a0d61/1.m3u8
+ES La Otra sᴅ 🇪🇸	https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:3_HD.smil/manifest.m3u8
+ES Mundo Náuticaᴴᴰ 🇪🇸	https://cloud.fastchannel.es/mic/manifiest/hls/mundonautica/mundonautica.m3u8
+ES Pocoyóᴴᴰ 🇪🇸	https://daiconnect.com/live/hls/tvup/tvfy-pocoyo/.m3u8
+ES Toon Goggles 🇪🇸	https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=514
+ES TV3CATᴴᴰ 🇪🇸	https://directes-tv-int.ccma.cat/live-origin/tvi-hls/master.m3u8
+ES ETB 1 🇪🇸	https://multimedia.eitb.eus/live-content/etb1hd-hls/index.m3u8
+ES ETB 2 🇪🇸	https://multimedia.eitb.eus/live-content/etb2hd-hls/index.m3u8
+ES ETB 3 🇪🇸	https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:98_HD.smil/manifest.mpd
 ETB Eventos 1	https://multimedia.eitb.eus/live-content/oka1hd-hls/master.m3u8
 ETB Eventos 2	https://multimedia.eitb.eus/live-content/oka2hd-hls/master.m3u8
 CMM	https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_01fn4ycl/protocol/https/format/applehttp/.m3u8
 Canal Sur	https://cdnlive.codev8.net/rtvalive/DtRLVjt1.smil/.m3u8
 Canal Extremadura	https://cdnapisec.kaltura.com/p/5581662/sp/558166200/playManifest/entryId/1_in8cxw3w/protocol/https/format/applehttp/.m3u8
 Torole 1	https://media1.ultrik.com/live/torole1.m3u8
-Toros-Telemadrid	https://telemadrid-23-secure2.akamaized.net/
+Toros-Telemadrid	https://telemadrid-23-secure2.akamaized.net/master.m3u8
 Food Networkᴴᴰ 🇺🇸🇮🇳	https://raw.githubusercontent.com/inspirationlinks/m3u/live/Streams/foodNet.m3u8
-FR  L`Equipe 🇫🇷ᴴᴰ	https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/eqpe/equipe.m3u8
-FR  Museum TV 🇫🇷	https://live2.creacast.com/museum-france/smil:museum-france.smil/master.m3u8
-FR  Nature Time 🇫🇷 🟤	https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8
-FR  NRJ12 🇫🇷	https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8
-FR  Popcornᴴᴰ 🇫🇷 🟤	https://dyc8bdiow0oz1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qique82ecf5q8/pcorn.m3u8
-FR  RTL Play 🇫🇷	https://raw.githubusercontent.com/inspirationlinks/m3u/live/Streams/RTLPlay.m3u8
-FR  RTL Plug 🇫🇷	https://raw.githubusercontent.com/inspirationlinks/m3u/live/Streams/RTLPlag.m3u8
-FR  RTL TVi 🇫🇷	https://raw.githubusercontent.com/inspirationlinks/m3u/live/Streams/RTLTvi.m3u8
-FR  Secret Storyᴴᴰ 🇫🇷 🟤	https://d3c70waf14qui9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qt977i5mpmr0b-ssai-prd/master.m3u8
-FR  Téva 🇫🇷	https://raw.githubusercontent.com/Sphinxroot/HSL/main/teva.m3u8
-FR  TV Monaco 🇫🇷	https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/2025/media.m3u8
-FR  Tv5 Monde Info 🇫🇷	https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
+FR L`Equipe 🇫🇷ᴴᴰ	https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/eqpe/equipe.m3u8
+FR Museum TV 🇫🇷	https://live2.creacast.com/museum-france/smil:museum-france.smil/master.m3u8
+FR Nature Time 🇫🇷 🟤	https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8
+FR NRJ12 🇫🇷	https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8
+FR Popcornᴴᴰ 🇫🇷 🟤	https://dyc8bdiow0oz1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qique82ecf5q8/pcorn.m3u8
+FR RTL Play 🇫🇷	https://raw.githubusercontent.com/inspirationlinks/m3u/live/Streams/RTLPlay.m3u8
+FR RTL Plug 🇫🇷	https://raw.githubusercontent.com/inspirationlinks/m3u/live/Streams/RTLPlag.m3u8
+FR RTL TVi 🇫🇷	https://raw.githubusercontent.com/inspirationlinks/m3u/live/Streams/RTLTvi.m3u8
+FR Secret Storyᴴᴰ 🇫🇷 🟤	https://d3c70waf14qui9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qt977i5mpmr0b-ssai-prd/master.m3u8
+FR Téva 🇫🇷	https://raw.githubusercontent.com/Sphinxroot/HSL/main/teva.m3u8
+FR TV Monaco 🇫🇷	https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/2025/media.m3u8
+FR Tv5 Monde Info 🇫🇷	https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 Gaming Ubisoft 🟤	https://ov.ottera.tv/channels/medialive_ubl_ut/master1400000.m3u8;session=medialive_ubl_ut
-IT  Got Gameᴴᴰ 🇮🇹 🟤	https://gghubsrl-gotgame-1-eu.rakuten.wurl.tv/playlist.m3u8
+IT Got Gameᴴᴰ 🇮🇹 🟤	https://gghubsrl-gotgame-1-eu.rakuten.wurl.tv/playlist.m3u8
 JP Newsᴴᴰ 🇧🇷	https://d9tard1jbwri9.cloudfront.net/playlist1080p.m3u8
 Motor1 TV 🇮🇹🇺🇸 🟤	https://motorsportnetwork-motor1tv-1-it.samsung.wurl.tv/3000.m3u8
 MovieSphereᴴᴰ 🇵🇹🇧🇷 🟤	https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01264-vidaausainc-moviesperebr-vidaa/playlist.m3u8
-MX  Azteca Internacional 7ᴴᴰ 🇲🇽 🟤	https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8
-MX  Estrellas tvᴴᴰ 🇲🇽	https://estrellatv-plex.amagi.tv/playlist.m3u8
-MX  Rakuten vikiᴴᴰ 🇲🇽🇰🇷 🟤	https://newidco-rakutenviki-3-mx.lg.wurl.tv/playlist.m3u8
-MX  Univisión Latinoaméricaᴴᴰ 🇲🇽	https://linear-424.frequency.stream/mt/studio/424/hls/master/playlist.m3u8
+MX Azteca Internacional 7ᴴᴰ 🇲🇽 🟤	https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8
+MX Estrellas tvᴴᴰ 🇲🇽	https://estrellatv-plex.amagi.tv/playlist.m3u8
+MX Rakuten vikiᴴᴰ 🇲🇽🇰🇷 🟤	https://newidco-rakutenviki-3-mx.lg.wurl.tv/playlist.m3u8
+MX Univisión Latinoaméricaᴴᴰ 🇲🇽	https://linear-424.frequency.stream/mt/studio/424/hls/master/playlist.m3u8
 My Time Movie networkᴴᴰ 🇵🇹🇧🇷 🟤	https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
-NI  La Rock 22ᴴᴰ 🇳🇮	https://cootv.cootel.com.ni:8095/Canal22_CooTel/playlist.m3u8
-PE  FunBox 🇵🇪	https://live-evg4.tv360.bitel.com.pe/bitel/funbox/playlist.m3u8
+NI La Rock 22ᴴᴰ 🇳🇮	https://cootv.cootel.com.ni:8095/Canal22_CooTel/playlist.m3u8
+PE FunBox 🇵🇪	https://live-evg4.tv360.bitel.com.pe/bitel/funbox/playlist.m3u8
 Press TV	https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/playlist.m3u8
-PT  ARTVᴴᴰ 🇵🇹	https://playout175.livextend.cloud/livenlin4/_definst_/2liveartvpub2/playlist.m3u8
-PT  Kuriakos Kidsᴴᴰ 🇵🇹	https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
-PT  NPC TV 🇵🇹	https://stmv5.samcast.com.br/nasciparacantartv/nasciparacantartv/chunklist.m3u8
-PT  ONFM 🇵🇹	https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
-PT  Porto Canalᴴᴰ 🇵🇹	https://bcovlive-a.akamaihd.net/34ec8f209dcc48dda853aca054c97ab2/eu-west-1/6415811594001/profile_0/chunklist.m3u8
-PT  Rádio Sines 🇵🇹	https://streamer-a01.videos.sapo.pt/live/radiosinesdireto/index.m3u8
-PT  Rakuten Famíliaᴴᴰ 🇵🇹 🟤	https://rakuten-family-14-pt.samsung.wurl.tv/playlist.m3u8
-PT  RTP 1ᴴᴰ 🇵🇹	https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
-PT  RTP 2ᴴᴰ 🇵🇹	https://streaming-live.rtp.pt/liverepeater/smil:rtp2HD.smil/playlist.m3u8
-PT  RTP 3ᴴᴰ 🇵🇹	https://streaming-live.rtp.pt/liverepeater/smil:rtpnHD.smil/inspiration.m3u8
-PT  RTP Açoresᴴᴰ 🇵🇹	https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/inspiration.m3u8
-PT  RTP Internacional ѕᴅ 🇵🇹 ⚽️	https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/chunklist.m3u8
-PT  RTP Memoria ѕᴅ 🇵🇹	https://streaming-live.rtp.pt/liverepeater/smil:estudoemcasa.smil/inspiration.m3u8
-PT  Santuário de Fátimaᴴᴰ 🇵🇹	https://streamer-a01.videos.sapo.pt/live/santuario/chunklist.m3u8
-PT  SIC Noticiasᴴᴰ 🇵🇹 (Geoblocked)	https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index.m3u8
-PT  SIC Novelasᴴᴰ 🇵🇹 ❌	https://fast.live.impresa.pt/out/v1/b5be42c4a68d4ee18461a7156bb8ecf2/sic-novelas.m3u8
-PT  SICᴴᴰ 🇵🇹	https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
-PT  TVI Internacional sᴅ 🇵🇹	https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tviint.m3u8
-PT  TVIᴴᴰ 🇵🇹	https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tvi.m3u8
+PT ARTVᴴᴰ 🇵🇹	https://playout175.livextend.cloud/livenlin4/_definst_/2liveartvpub2/playlist.m3u8
+PT Kuriakos Kidsᴴᴰ 🇵🇹	https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
+PT NPC TV 🇵🇹	https://stmv5.samcast.com.br/nasciparacantartv/nasciparacantartv/chunklist.m3u8
+PT ONFM 🇵🇹	https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
+PT Porto Canalᴴᴰ 🇵🇹	https://bcovlive-a.akamaihd.net/34ec8f209dcc48dda853aca054c97ab2/eu-west-1/6415811594001/profile_0/chunklist.m3u8
+PT Rádio Sines 🇵🇹	https://streamer-a01.videos.sapo.pt/live/radiosinesdireto/index.m3u8
+PT Rakuten Famíliaᴴᴰ 🇵🇹 🟤	https://rakuten-family-14-pt.samsung.wurl.tv/playlist.m3u8
+PT RTP 1ᴴᴰ 🇵🇹	https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
+PT RTP 2ᴴᴰ 🇵🇹	https://streaming-live.rtp.pt/liverepeater/smil:rtp2HD.smil/playlist.m3u8
+PT RTP 3ᴴᴰ 🇵🇹	https://streaming-live.rtp.pt/liverepeater/smil:rtpnHD.smil/inspiration.m3u8
+PT RTP Açoresᴴᴰ 🇵🇹	https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/inspiration.m3u8
+PT RTP Internacional ѕᴅ 🇵🇹 ⚽️	https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/chunklist.m3u8
+PT RTP Memoria ѕᴅ 🇵🇹	https://streaming-live.rtp.pt/liverepeater/smil:estudoemcasa.smil/inspiration.m3u8
+PT Santuário de Fátimaᴴᴰ 🇵🇹	https://streamer-a01.videos.sapo.pt/live/santuario/chunklist.m3u8
+PT SIC Noticiasᴴᴰ 🇵🇹 (Geoblocked)	https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index.m3u8
+PT SIC Novelasᴴᴰ 🇵🇹 ❌	https://fast.live.impresa.pt/out/v1/b5be42c4a68d4ee18461a7156bb8ecf2/sic-novelas.m3u8
+PT SICᴴᴰ 🇵🇹	https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
+PT TVI Internacional sᴅ 🇵🇹	https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tviint.m3u8
+PT TVIᴴᴰ 🇵🇹	https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tvi.m3u8
 Qwest Jazzᴴᴰ 🟤	https://qwest-jazz-plex.amagi.tv/playlist720_p.m3u8
 Qwest tvᴴᴰ 🟤	https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwesttv-samsungbr/playlist.m3u8
 RAI Italia Asia	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC7/index.m3u8
 Rakuten Documentariesᴴᴰ 🇵🇹🇧🇷 🟤	https://rakuten-documentaries-14-pt.samsung.wurl.tv/3000.m3u8
 Rakuten vikiᴴᴰ 🇺🇸🇰🇷 🟤	https://newidco-rakutenviki-2-us.lg.wurl.tv/playlist.m3u8
-RU  Старт 🇷🇺	https://strm.yandex.ru/kal/start/start0.m3u8
+RU Старт 🇷🇺	https://strm.yandex.ru/kal/start/start0.m3u8
 TG Junior Kids 🟤	https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=31
 Trace Latina 🟤	https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinaes-samsungspain/playlist.m3u8
 Trace Urban ² 🟤	https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
-UK  4 Emergencyᴴᴰ 🇬🇧 🟤	https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,4Emergency.m3u8
-UK  BritBox Mysteriesᴴᴰ 🇬🇧 🟤	https://d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/playlist.m3u8?ads.xumo_channelId=99951213
-UK  Emergency!ᴴᴰ 🇬🇧 🟤	https://rightsboosterltd-emergency-1-us.tcl.wurl.tv/playlist.m3u8
-UK  Homes Under the Hammer 🇬🇧 🟤	https://all3media-homes-under-the-hammer-1-gb.vidaa.wurl.tv/playlist.m3u8
-UK  Horse and Countryᴴᴰ 🇬🇧 🟤	https://amg00810-hctvltd-hncfree-localnow-t4eey.amagi.tv/playlist.m3u8
-UK  Mtrspt1 🇬🇧 🟤	https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-lges/playlist.m3u8
-UK  Real Storiesᴴᴰ 🇬🇧 🟤	https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realstories-lgnl/playlist.m3u8
-UK  Sky Newsᴴᴰ 🇬🇧 🟤	https://d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99951223
-UK  The ChatShowᴴᴰ 🇬🇧 🟤	https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-thechatshow-samsungnz/playlist.m3u8
-UK  Trace UK 🟤	https://d2u040elo6umri.cloudfront.net/trace_urban_gb.m3u8
-US  MTV Club	https://webtvstream.bhtelecom.ba/hls19/club_mtv.mpd``c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-US  MTV Hits	https://webtvstream.bhtelecom.ba/hls7/mtv_hits.mpd``c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-US  Accu Weather 🇺🇸 🟤	https://accuweatherx-lg.amagi.tv/playlist.m3u8
-US  Movie Now	https://raw.githubusercontent.com/kusnadipepenk/ntn/master/mnow.m3u8?c
-US  Adult Swim 🇺🇸 (Rick and Morty Marathon)	https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
-US  África News 🇺🇸 🟤	https://rakuten-africanews-1-pt.samsung.wurl.tv/manifest/playlist.m3u8
-US  Alfred Hitchcock Presents 🇺🇸 🟤	https://d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99951256
-US  Alien Nation 🇺🇸 🟤	https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00219-gunpowdersky-dustintlnz-samsungnz/playlist.m3u8
-US  AMC Thrillers 🇺🇸 🟤	https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RushByAMC/playlist.m3u8
-US  AMC 🇺🇸 🟤	https://5def33c73f084e11a19ca77697d6b413.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AMCPresents/playlist.m3u8
-US  AMC+ East 🇺🇸	https://bcovlive-a.akamaihd.net/ba853de442c140b7b3dc020001597c0a/us-east-1/6245817279001/playlist.m3u8
-US  Autentic History 🇺🇸 🟤	https://autentic-autentichistory-1-gb.lg.wurl.tv/playlist.m3u8
-US  AWE 🇺🇸 🟤	https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00450-herringnetwork-awe-lgau/playlist.m3u8
-US  BelAiR tvᴴᴰ 🇺🇸 🟤	https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtven-tcl/playlist.m3u8
-US  Billiard TV ² 🇺🇸 🟤	https://newidco-billiardstv-1-eu.xiaomi.wurl.tv/playlist.m3u8
-US  Billiard TV 🇺🇸 🟤	https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
-US  Blues tv 🇺🇸	https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8
-US  California Music Channel 🇺🇸	https://cmc-ono.amagi.tv/playlist.m3u8
-US  Canal tv Motor 🇺🇸	https://digicom.hls.iptvdc.com/motorstv/tracks-v1a1/mono.m3u8
-US  CGTN Documentary 🇺🇸 🟤	https://livedoc.cgtn.com/1000d/prog_index.m3u8
-US  CNN Fast 🇺🇸 🟤	https://dxfcdu0nbk5gp.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qrbspx9wrgvoc/master.m3u8?
-US  CNN 🇺🇸 🟤	https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
-US  Crime Timeᴴᴰ 🇺🇸 🟤	https://bamca-crimetime-lg.amagi.tv/playlist.m3u8
-US  Curiosity Now 🇺🇸 🟤	https://curiosity-curiosity-now-1-us.lg.wurl.tv/playlist.m3u8
-US  Darcizzle Offshore Fishingᴴᴰ 🇺🇸	https://30a-tv.com/darcizzle.m3u8
-US  Doc+ᴴᴰ 🇺🇸 🟤	https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991638
-US  Earth Touch tv 🇺🇸 🟤	https://autentic-adventure-earth-1-gb.lg.wurl.tv/playlist.m3u8
-US  Edge Sportᴴᴰ 🇺🇸 🟤	https://edgesports-row-rakuten.amagi.tv/playlist1080p.m3u8
-US  ESR 24x7 eSports Network 🇺🇸	https://eyeonesports.com/720/ESR-002SCTE35.m3u8
-US  ET Live Entertainment Tonightᴴᴰ 🇺🇸 🟤	https://dai.google.com/linear/hls/event/xrVrJYTmTfitfXBQfeZByQ/master.m3u8
-US  FailArmy Internacionalᴴᴰ 🇺🇸 🟤	https://jukin-failarmy-international-1-eu.vidaa.wurl.tv/playlist.m3u8
-US  FailArmyᴴᴰ² 🇺🇸 🟤	https://linear-46.frequency.stream/dist/localnow/46/hls/master/playlist.m3u8
-US  Fox News Nowᴴᴰ 🇺🇸 🟤	https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
-US  Fox Weather 🇺🇸 🟤	https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Fox-Weather.m3u8
-US  Fuel TVᴴᴰ 🇺🇸 🟤	https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvemeaen-lggb/playlist.m3u8
-US  Game Revolution 🇺🇸 🟤	https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=71
-US  Ghost Hunters Channel 🇺🇸 🟤	https://6aba28ce.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VmlkYWEtYXVfR2hvc3RIdW50ZXJzX0hMUw/playlist.m3u8
-US  GoUSAᴴᴰ 🇺🇸 🟤	https://brandusa-gousa-1-in.samsung.wurl.tv/3000.m3u8
-US  GQᴴᴰ 🇺🇸 🟤	https://amg00255-condenast-gq-localnow-5sme3.amagi.tv/playlist.m3u8
-US  Hard Knock Fighting 🇺🇸 🟤	https://d3uyzhwvmemdyf.cloudfront.net/scheduler/scheduleMaster/109/variant/22099396/8d216b41-1,96b-49d2-afb2-46cb9916f903.m3u8
-US  Haunt TV 🇺🇸 🟤	https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-haunttvus-vidaa/playlist.m3u8
-US  Her Sphere by Lionsgate 🇺🇸 🟤	https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-hersphere-lgus/playlist.m3u8
-US  HomeFulᴴᴰ 🇺🇸 🟤	https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01515-blueskyeenterta-homefulusa-vizious/playlist.m3u8
-US  Horizon Sportsᴴᴰ 🇺🇸 🟤	https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/bb03cb18-c54e-11ec-967f-401ac48a6867/0/master.m3u8?profile=inspirationFreetv.m3u8&ads%3Aamznbrmid&ads%3Aamznregion&ads%3Aamznslots&ads%3Aapp_bundle=com.rakuten.tv&ads%3Aapp_version&ads%3Abrand_name&ads%3Acontent_classification=7&ads%3Adevice_type=web&ads%3Adevice_year=1970&ads%3Afunke_channel_id=RAKB0021&ads%3Alanguage=eng&ads%3Amarket=uk&ads%3Aos_language&ads%3Aplayer_height=1080&ads%3Aplayer_width=1920&ads%3Apod_type=playerpage_midroll&ads%3Artv_content_id=4260&ads%3Astreaming_id=4bb04afc-6447-4a76-895a-c1f117394c95&ads%3Atcf&ads%3Ativo_devcountry&ads%3Ativo_devmakedate&ads%3Ativo_mvpd&ads%3Ativo_platform&ads%3Ativo_usid&ads%3Ativo_uxloc&ads%3Auser_type=visitor&country=gb&optout=0&uid=e3dd2658-e93a-4cee-9d4b-27200826a904&vendor=rakuten
-US  Horror Machine 🇺🇸 🟤	https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/horrormachine/playlist.m3u8
-US  Hunt Channel 🇺🇸	https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/tracks-v1a1/mono.m3u8
-US  IFC Eastᴴᴰ 🇺🇸🇸	https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/12733.m3u8
-US  Impact! Wrestling 🇺🇸 🟤	https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
-US  Impact! Wrestling 🇺🇸 🟤	https://d2tuwvs0ja335j.cloudfront.net/hls/1080p/playlist.m3u8
-US  Inwonder TVᴴᴰ 🇺🇸 🟤	https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-inwonderhd-xiaomi/playlist.m3u8
-US  ITSF 🇺🇸ᴴᴰ 🟤	https://g-mana.sofast.tv/media/8f2e7ae7-54e8-4ca2-b9f1-93c8416fdb4f/mainManifest.m3u8
-US  Life Minute TV 🇺🇸 🟤	https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01468-lifeminutetv-lifeminutetv-lgau/playlist.m3u8
-US  Love Magazine Trailersᴴᴰ 🇺🇸 🟤	https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovemagazineuk-lggb/playlist.m3u8
-US  MFight Network 🇺🇸 🟤	https://stream.ads.ottera.tv/playlist.m3u8?network_id=778
-US  MHz Nowᴴᴰ 🇺🇸 🟤	https://9cd9410130db4466b2fc456b6885dfc8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-ca_MHz/playlist.m3u8
-US  MLB 🇺🇸ᴴᴰ 🟤	https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,MLB2.m3u8
-US  MotoAmerica 🇺🇸 🟤	https://1422977263.rsc.cdn77.org/HLS/MOTOAMERICA_SCTE_Max.m3u8
-US  Motorvision 🇺🇸 🟤	https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01329-otterainc-motorvisionnz-samsungnz/playlist.m3u8
-US  MovieDome 🇺🇸 🟤	https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00771-kochfilmsgerman-moviedomeuk-tcl/playlist.m3u8
-US  MovieSphere by Lionsgate 🇺🇸 🟤	https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,MovieSphere.m3u8
-US  Nature Time 🇺🇸 🟤	https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01576-blueskyeenterta-naturetimeemea-lgdk/playlist.m3u8
-US  NBC Lx Home 🇺🇸 🟤	https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991651
-US  NBC NHL 🇺🇸ᴴᴰ 🟤	https://nhl-firetv.amagi.tv/playlist.m3u8
-US  NFL 🇺🇸ᴴᴰ 🟤	https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,NFL2.m3u8
-US  NHRA tvᴴᴰ 🇺🇸 🟤	https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,NHRA.m3u8
-US  Outdoor Channelᴴᴰ 🇺🇸 🟤	https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoorchannel-lgau/playlist.m3u8
-US  Popstar! TV 🇺🇸 🟤	https://linear-10.frequency.stream/dist/zype/10/hls/master/playlist.m3u8
-US  Racing America 🇺🇸 🟤	https://racingamerica-plex.amagi.tv/playlist1080p.m3u8
-US  Skateboardingᴴᴰ 🇺🇸 🟤	https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg13231-actve-skateboarding-ono/playlist.m3u8
-US  Ski TV 🇺🇸 🟤	https://d2xeo83q8fcni6.cloudfront.net/scheduler/scheduleMaster/193.m3u8
-US  Snowboarder tvᴴᴰ 🇺🇸 🟤	https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg13231-actve-snowboarder-ono/playlist.m3u8
-US  Snowy Mountains Tv 🇺🇸 🟤	https://185043-castr.akamaized.net/62dc75c81d350f50023a3d01/live_2a10d2606c3711edbc96a96176a0fe35/index.m3u8
-US  Stadium 🇺🇸ᴴᴰ 🟤	https://stadium-gracenote-us.roku.wurl.tv/playlist.m3u8
-US  Super Yacht TVᴴᴰ 🇺🇸	https://sy.wns.live/hls/stream.m3u8
-US  Tastemade Travelᴴᴰ 🇺🇸 🟤	https://tastemadetravel-vizio.amagi.tv/playlist720_p.m3u8
-US  The Bob Ross Channelᴴᴰ 🇺🇸 🟤	https://dai.google.com/linear/hls/event/3dbJrQmVT_-psb-KBYuKQA/master.m3u8
-US  This Old Houseᴴᴰ 🇺🇸 🟤	https://d22xc95vfbu1qn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-j93gtbl1whg1w-prod/amgthisoldhouse/playlist.m3u8
-US  Total Crimeᴴᴰ 🇺🇸 🟤	https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01446-blueantmediacan-totalcrime-tablo/playlist.m3u8
-US  Trace Sports 🇺🇸 🟤	https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
-US  Travelxp 🇺🇸 🟤	https://travelxp-travelxp-1-gb.lg.wurl.tv/playlist.m3u8
-US  Vogue 🇺🇸 🟤	https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991138
-US  Waypoint TVᴴᴰ 🇺🇸 🟤	https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Waypoint.m3u8
-US  WeatherNation TV 🇺🇸 🟤	https://weathernation-1-us.roku.wurl.tv/playlist.m3u8
-US  Wedo Big Doc ᴴᴰ 🇺🇸 🟤	https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00735-videosolutionsa-wedobigdocs-lggb/playlist.m3u8
-US  Wedo Big Stories ᴴᴰ 🇺🇸 🟤	https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00735-videosolutionsa-wedobigstories-vidaa/playlist.m3u8
-US  Wildlife tvᴴᴰ 🇺🇸 🟤	https://d1vp12yk4i8ou5.cloudfront.net/playlist720p.m3u8
-US  XFC MMA 🇺🇸 🟤	https://b81ea6a237a99f732a8a56c17e6e1733.7wzuvg.channel-assembly.mediatailor.us-east-1.amazonaws.com/v1/channel/XFC_TV/index-xfctv.m3u8
-US  Young Hollywood TVᴴᴰ 🇺🇸 🟤	https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00143-younghollywood-younghollywood-vidaa/playlist.m3u8
-VE  TeleSurᴴᴰ 🇬🇧🇻🇪	https://cdnenmain.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
-VE  TeleSurᴴᴰ 🇻🇪	https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+UK 4 Emergencyᴴᴰ 🇬🇧 🟤	https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,4Emergency.m3u8
+UK BritBox Mysteriesᴴᴰ 🇬🇧 🟤	https://d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/playlist.m3u8?ads.xumo_channelId=99951213
+UK Emergency!ᴴᴰ 🇬🇧 🟤	https://rightsboosterltd-emergency-1-us.tcl.wurl.tv/playlist.m3u8
+UK Homes Under the Hammer 🇬🇧 🟤	https://all3media-homes-under-the-hammer-1-gb.vidaa.wurl.tv/playlist.m3u8
+UK Horse and Countryᴴᴰ 🇬🇧 🟤	https://amg00810-hctvltd-hncfree-localnow-t4eey.amagi.tv/playlist.m3u8
+UK Mtrspt1 🇬🇧 🟤	https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-lges/playlist.m3u8
+UK Real Storiesᴴᴰ 🇬🇧 🟤	https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realstories-lgnl/playlist.m3u8
+UK Sky Newsᴴᴰ 🇬🇧 🟤	https://d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99951223
+UK The ChatShowᴴᴰ 🇬🇧 🟤	https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-thechatshow-samsungnz/playlist.m3u8
+UK Trace UK 🟤	https://d2u040elo6umri.cloudfront.net/trace_urban_gb.m3u8
+US MTV Club	https://webtvstream.bhtelecom.ba/hls19/club_mtv.mpd``c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+US MTV Hits	https://webtvstream.bhtelecom.ba/hls7/mtv_hits.mpd``c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+US Accu Weather 🇺🇸 🟤	https://accuweatherx-lg.amagi.tv/playlist.m3u8
+US Movie Now	https://raw.githubusercontent.com/kusnadipepenk/ntn/master/mnow.m3u8?c
+US Adult Swim 🇺🇸 (Rick and Morty Marathon)	https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
+US África News 🇺🇸 🟤	https://rakuten-africanews-1-pt.samsung.wurl.tv/manifest/playlist.m3u8
+US Alfred Hitchcock Presents 🇺🇸 🟤	https://d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99951256
+US Alien Nation 🇺🇸 🟤	https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00219-gunpowdersky-dustintlnz-samsungnz/playlist.m3u8
+US AMC Thrillers 🇺🇸 🟤	https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RushByAMC/playlist.m3u8
+US AMC 🇺🇸 🟤	https://5def33c73f084e11a19ca77697d6b413.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AMCPresents/playlist.m3u8
+US AMC+ East 🇺🇸	https://bcovlive-a.akamaihd.net/ba853de442c140b7b3dc020001597c0a/us-east-1/6245817279001/playlist.m3u8
+US Autentic History 🇺🇸 🟤	https://autentic-autentichistory-1-gb.lg.wurl.tv/playlist.m3u8
+US AWE 🇺🇸 🟤	https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00450-herringnetwork-awe-lgau/playlist.m3u8
+US BelAiR tvᴴᴰ 🇺🇸 🟤	https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtven-tcl/playlist.m3u8
+US Billiard TV ² 🇺🇸 🟤	https://newidco-billiardstv-1-eu.xiaomi.wurl.tv/playlist.m3u8
+US Billiard TV 🇺🇸 🟤	https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
+US Blues tv 🇺🇸	https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8
+US California Music Channel 🇺🇸	https://cmc-ono.amagi.tv/playlist.m3u8
+US Canal tv Motor 🇺🇸	https://digicom.hls.iptvdc.com/motorstv/tracks-v1a1/mono.m3u8
+US CGTN Documentary 🇺🇸 🟤	https://livedoc.cgtn.com/1000d/prog_index.m3u8
+US CNN Fast 🇺🇸 🟤	https://dxfcdu0nbk5gp.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qrbspx9wrgvoc/master.m3u8?
+US CNN 🇺🇸 🟤	https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+US Crime Timeᴴᴰ 🇺🇸 🟤	https://bamca-crimetime-lg.amagi.tv/playlist.m3u8
+US Curiosity Now 🇺🇸 🟤	https://curiosity-curiosity-now-1-us.lg.wurl.tv/playlist.m3u8
+US Darcizzle Offshore Fishingᴴᴰ 🇺🇸	https://30a-tv.com/darcizzle.m3u8
+US Doc+ᴴᴰ 🇺🇸 🟤	https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991638
+US Earth Touch tv 🇺🇸 🟤	https://autentic-adventure-earth-1-gb.lg.wurl.tv/playlist.m3u8
+US Edge Sportᴴᴰ 🇺🇸 🟤	https://edgesports-row-rakuten.amagi.tv/playlist1080p.m3u8
+US ESR 24x7 eSports Network 🇺🇸	https://eyeonesports.com/720/ESR-002SCTE35.m3u8
+US ET Live Entertainment Tonightᴴᴰ 🇺🇸 🟤	https://dai.google.com/linear/hls/event/xrVrJYTmTfitfXBQfeZByQ/master.m3u8
+US FailArmy Internacionalᴴᴰ 🇺🇸 🟤	https://jukin-failarmy-international-1-eu.vidaa.wurl.tv/playlist.m3u8
+US FailArmyᴴᴰ² 🇺🇸 🟤	https://linear-46.frequency.stream/dist/localnow/46/hls/master/playlist.m3u8
+US Fox News Nowᴴᴰ 🇺🇸 🟤	https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
+US Fox Weather 🇺🇸 🟤	https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Fox-Weather.m3u8
+US Fuel TVᴴᴰ 🇺🇸 🟤	https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvemeaen-lggb/playlist.m3u8
+US Game Revolution 🇺🇸 🟤	https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=71
+US Ghost Hunters Channel 🇺🇸 🟤	https://6aba28ce.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VmlkYWEtYXVfR2hvc3RIdW50ZXJzX0hMUw/playlist.m3u8
+US GoUSAᴴᴰ 🇺🇸 🟤	https://brandusa-gousa-1-in.samsung.wurl.tv/3000.m3u8
+US GQᴴᴰ 🇺🇸 🟤	https://amg00255-condenast-gq-localnow-5sme3.amagi.tv/playlist.m3u8
+US Hard Knock Fighting 🇺🇸 🟤	https://d3uyzhwvmemdyf.cloudfront.net/scheduler/scheduleMaster/109/variant/22099396/8d216b41-1,96b-49d2-afb2-46cb9916f903.m3u8
+US Haunt TV 🇺🇸 🟤	https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-haunttvus-vidaa/playlist.m3u8
+US Her Sphere by Lionsgate 🇺🇸 🟤	https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-hersphere-lgus/playlist.m3u8
+US HomeFulᴴᴰ 🇺🇸 🟤	https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01515-blueskyeenterta-homefulusa-vizious/playlist.m3u8
+US Horizon Sportsᴴᴰ 🇺🇸 🟤	https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/bb03cb18-c54e-11ec-967f-401ac48a6867/0/master.m3u8?profile=inspirationFreetv.m3u8&ads%3Aamznbrmid&ads%3Aamznregion&ads%3Aamznslots&ads%3Aapp_bundle=com.rakuten.tv&ads%3Aapp_version&ads%3Abrand_name&ads%3Acontent_classification=7&ads%3Adevice_type=web&ads%3Adevice_year=1970&ads%3Afunke_channel_id=RAKB0021&ads%3Alanguage=eng&ads%3Amarket=uk&ads%3Aos_language&ads%3Aplayer_height=1080&ads%3Aplayer_width=1920&ads%3Apod_type=playerpage_midroll&ads%3Artv_content_id=4260&ads%3Astreaming_id=4bb04afc-6447-4a76-895a-c1f117394c95&ads%3Atcf&ads%3Ativo_devcountry&ads%3Ativo_devmakedate&ads%3Ativo_mvpd&ads%3Ativo_platform&ads%3Ativo_usid&ads%3Ativo_uxloc&ads%3Auser_type=visitor&country=gb&optout=0&uid=e3dd2658-e93a-4cee-9d4b-27200826a904&vendor=rakuten
+US Horror Machine 🇺🇸 🟤	https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/horrormachine/playlist.m3u8
+US Hunt Channel 🇺🇸	https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/tracks-v1a1/mono.m3u8
+US IFC Eastᴴᴰ 🇺🇸🇸	https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/12733.m3u8
+US Impact! Wrestling 🇺🇸 🟤	https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
+US Impact! Wrestling 🇺🇸 🟤	https://d2tuwvs0ja335j.cloudfront.net/hls/1080p/playlist.m3u8
+US Inwonder TVᴴᴰ 🇺🇸 🟤	https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-inwonderhd-xiaomi/playlist.m3u8
+US ITSF 🇺🇸ᴴᴰ 🟤	https://g-mana.sofast.tv/media/8f2e7ae7-54e8-4ca2-b9f1-93c8416fdb4f/mainManifest.m3u8
+US Life Minute TV 🇺🇸 🟤	https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01468-lifeminutetv-lifeminutetv-lgau/playlist.m3u8
+US Love Magazine Trailersᴴᴰ 🇺🇸 🟤	https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovemagazineuk-lggb/playlist.m3u8
+US MFight Network 🇺🇸 🟤	https://stream.ads.ottera.tv/playlist.m3u8?network_id=778
+US MHz Nowᴴᴰ 🇺🇸 🟤	https://9cd9410130db4466b2fc456b6885dfc8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-ca_MHz/playlist.m3u8
+US MLB 🇺🇸ᴴᴰ 🟤	https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,MLB2.m3u8
+US MotoAmerica 🇺🇸 🟤	https://1422977263.rsc.cdn77.org/HLS/MOTOAMERICA_SCTE_Max.m3u8
+US Motorvision 🇺🇸 🟤	https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01329-otterainc-motorvisionnz-samsungnz/playlist.m3u8
+US MovieDome 🇺🇸 🟤	https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00771-kochfilmsgerman-moviedomeuk-tcl/playlist.m3u8
+US MovieSphere by Lionsgate 🇺🇸 🟤	https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,MovieSphere.m3u8
+US Nature Time 🇺🇸 🟤	https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01576-blueskyeenterta-naturetimeemea-lgdk/playlist.m3u8
+US NBC Lx Home 🇺🇸 🟤	https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991651
+US NBC NHL 🇺🇸ᴴᴰ 🟤	https://nhl-firetv.amagi.tv/playlist.m3u8
+US NFL 🇺🇸ᴴᴰ 🟤	https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,NFL2.m3u8
+US NHRA tvᴴᴰ 🇺🇸 🟤	https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,NHRA.m3u8
+US Outdoor Channelᴴᴰ 🇺🇸 🟤	https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoorchannel-lgau/playlist.m3u8
+US Popstar! TV 🇺🇸 🟤	https://linear-10.frequency.stream/dist/zype/10/hls/master/playlist.m3u8
+US Racing America 🇺🇸 🟤	https://racingamerica-plex.amagi.tv/playlist1080p.m3u8
+US Skateboardingᴴᴰ 🇺🇸 🟤	https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg13231-actve-skateboarding-ono/playlist.m3u8
+US Ski TV 🇺🇸 🟤	https://d2xeo83q8fcni6.cloudfront.net/scheduler/scheduleMaster/193.m3u8
+US Snowboarder tvᴴᴰ 🇺🇸 🟤	https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg13231-actve-snowboarder-ono/playlist.m3u8
+US Snowy Mountains Tv 🇺🇸 🟤	https://185043-castr.akamaized.net/62dc75c81d350f50023a3d01/live_2a10d2606c3711edbc96a96176a0fe35/index.m3u8
+US Stadium 🇺🇸ᴴᴰ 🟤	https://stadium-gracenote-us.roku.wurl.tv/playlist.m3u8
+US Super Yacht TVᴴᴰ 🇺🇸	https://sy.wns.live/hls/stream.m3u8
+US Tastemade Travelᴴᴰ 🇺🇸 🟤	https://tastemadetravel-vizio.amagi.tv/playlist720_p.m3u8
+US The Bob Ross Channelᴴᴰ 🇺🇸 🟤	https://dai.google.com/linear/hls/event/3dbJrQmVT_-psb-KBYuKQA/master.m3u8
+US This Old Houseᴴᴰ 🇺🇸 🟤	https://d22xc95vfbu1qn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-j93gtbl1whg1w-prod/amgthisoldhouse/playlist.m3u8
+US Total Crimeᴴᴰ 🇺🇸 🟤	https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01446-blueantmediacan-totalcrime-tablo/playlist.m3u8
+US Trace Sports 🇺🇸 🟤	https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
+US Travelxp 🇺🇸 🟤	https://travelxp-travelxp-1-gb.lg.wurl.tv/playlist.m3u8
+US Vogue 🇺🇸 🟤	https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991138
+US Waypoint TVᴴᴰ 🇺🇸 🟤	https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Waypoint.m3u8
+US WeatherNation TV 🇺🇸 🟤	https://weathernation-1-us.roku.wurl.tv/playlist.m3u8
+US Wedo Big Doc ᴴᴰ 🇺🇸 🟤	https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00735-videosolutionsa-wedobigdocs-lggb/playlist.m3u8
+US Wedo Big Stories ᴴᴰ 🇺🇸 🟤	https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00735-videosolutionsa-wedobigstories-vidaa/playlist.m3u8
+US Wildlife tvᴴᴰ 🇺🇸 🟤	https://d1vp12yk4i8ou5.cloudfront.net/playlist720p.m3u8
+US XFC MMA 🇺🇸 🟤	https://b81ea6a237a99f732a8a56c17e6e1733.7wzuvg.channel-assembly.mediatailor.us-east-1.amazonaws.com/v1/channel/XFC_TV/index-xfctv.m3u8
+US Young Hollywood TVᴴᴰ 🇺🇸 🟤	https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00143-younghollywood-younghollywood-vidaa/playlist.m3u8
+VE TeleSurᴴᴰ 🇬🇧🇻🇪	https://cdnenmain.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
+VE TeleSurᴴᴰ 🇻🇪	https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 Vivaldiᴴᴰ 🟤	https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01297-mezzo-vivalditv-xiaomi/playlist.m3u8
 Wild Earthᴴᴰ 🇺🇸🇧🇷 🟤	https://wildearth-roku.amagi.tv/masterR720P.m3u8
-IN  Sony Kal	https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
-KR  K Plus [Indonesian Sub]	https://raw.githubusercontent.com/kusnadipepenk/campeign/master/kplus.m3u8?c
+IN Sony Kal	https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
+KR K Plus [Indonesian Sub]	https://raw.githubusercontent.com/kusnadipepenk/campeign/master/kplus.m3u8?c
 Trace Urban 🟤	https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-samsungnz/playlist.m3u8
 TLC 🇮🇳🇺🇸	https://raw.githubusercontent.com/inspirationlinks/m3u/live/Streams/TLC.m3u8
 TLC 🇮🇳🇺🇸	https://denver1769.pages.dev/Discovery/tlc_hd_english.m3u8
-FR  RTL bel 🇫🇷	https://bel-live-hls.akamaized.net/hls/live/2038650/BEL-Live-HLS/master.m3u8
-FR  RTL Club 🇫🇷	https://raw.githubusercontent.com/inspirationlinks/m3u/live/Streams/RTLClub.m3u8
-FR  RTL bel 🇫🇷	https://raw.githubusercontent.com/inspirationlinks/m3u/live/Streams/RTLbel.m3u8
-FR  Paris Premiere 🇫🇷	https://raw.githubusercontent.com/Sphinxroot/HSL/main/PP.m3u8
-FR  Paris Premiere 🇫🇷	https://raw.githubusercontent.com/inspirationlinks/m3u/live/Streams/PaPremiere.m3u8
+FR RTL bel 🇫🇷	https://bel-live-hls.akamaized.net/hls/live/2038650/BEL-Live-HLS/master.m3u8
+FR RTL Club 🇫🇷	https://raw.githubusercontent.com/inspirationlinks/m3u/live/Streams/RTLClub.m3u8
+FR RTL bel 🇫🇷	https://raw.githubusercontent.com/inspirationlinks/m3u/live/Streams/RTLbel.m3u8
+FR Paris Premiere 🇫🇷	https://raw.githubusercontent.com/Sphinxroot/HSL/main/PP.m3u8
+FR Paris Premiere 🇫🇷	https://raw.githubusercontent.com/inspirationlinks/m3u/live/Streams/PaPremiere.m3u8
 Viju Nature	https://bkm.beetv.kz/btv/live/hls/000006482.m3u8
 Viju History	https://cors-proxy.cooks.fyi/https://bkm.beetv.kz/btv/live/hls/000005528.m3u8
 Canal tv Motor 🇺🇸	https://digicom.hls.iptvdc.com/canalmotor/tracks-v1a1/mono.m3u8
-UK  BritBox Mysteriesᴴᴰ 🇬🇧 🟤	https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,BBC-BritBox-Mysteries.m3u8
+UK BritBox Mysteriesᴴᴰ 🇬🇧 🟤	https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,BBC-BritBox-Mysteries.m3u8
 Trvl Channelᴴᴰ 🇺🇸	https://raw.githubusercontent.com/inspirationlinks/m3u/live/Streams/trvl.m3u8
 Trvl Channelᴴᴰ 🇺🇸	https://denver1769.pages.dev/Discovery/trvl_channel_hd_english.m3u8
 ZooMooᴴᴰ 🇺🇸 🟤	https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
@@ -816,8 +818,8 @@ Bollywood	https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761
 |SHAHID| RASHED AL-MAJED	https://rashed-almajed-ak.akamaized.net/out/v1/77b0946130344d1388e5cd34afdcb772/index_19.m3u8
 |SHAHID| MUHAMMAD ABDO	https://mohammed-abdou-ak.akamaized.net/out/v1/3b57275cf54747cda4cda03ecf146f92/index_19.m3u8
 002 Radio TV	https://cdn.002radio.com:3909/live/radio002live.m3u8
-ID  TV Kesehatan	https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8
+ID TV Kesehatan	https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8
 Sony PIX	https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 Gravitas Movies	https://ddniyunj92pl0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2amrzf32ny10z/playlist.m3u8
-ID  ANTV 2	https://flv.intechmedia.net/live/ch108.m3u8
-ID  VTV	https://flv.intechmedia.net/live/ch107.m3u8
+ID ANTV 2	https://flv.intechmedia.net/live/ch108.m3u8
+ID VTV	https://flv.intechmedia.net/live/ch107.m3u8
