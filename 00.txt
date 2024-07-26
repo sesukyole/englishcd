@@ -6,8 +6,6 @@ ES La2	https://rtvelivestreamv3.akamaized.net/rtvesec/la2/la2_main.m3u8?c
 ES TDP	https://cache3.zapitv.com/live/eds_c2/teledeporte_hd/dash_live_enc/teledeporte_hd.mpd``1937b8f0dc833e0a8f457240972e440d:8cbb79a6410cc0d0d80d148f282afd95
 IT EuroSport 1	https://linear301-it-dash1-prd-akg0.cdn13.skycdp.com/313073/FHD/eurosport/master.mpd``0036bb3fa7e6f2c334d7cba5c28b6caf:217fa35739cd68e90b2cd23322c01312
 IT EuroSport 2	https://linear301-it-dash1-prd-akg0.cdn13.skycdp.com/31150/FHD/eurosport2/master.mpd``003670a7034342a4a07c91173818c61c:7b90055c1a1ea34d9090e9ebf6c4db8a
-EuroSport HD 1	http://185.189.225.157/EuroSport1/index.m3u8
-EuroSport HD 2	http://185.189.225.157/EuroSport2/index.m3u8
 EuroSport HD 1	http://edge02.odtv.az/o7/eurosport/playlist.m3u8
 EuroSport HD 2	http://edge02.odtv.az/o3/eurosport2/playlist.m3u8
 CA Sportsnet 1	https://live-streaming-rsm.akamaized.net/sn1hd/sn1hd_cenc.isml/.mpd``f9dd2ed9609f49309ddf07892d25b081:c1254109aaff73701fbea97dc1899b8e
