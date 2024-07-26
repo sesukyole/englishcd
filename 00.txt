@@ -35,6 +35,7 @@ Markiza Sport	https://dash2.antik.sk/stream/nvidia_markiza/playlist_cenc.mpd``11
 Sky Sport Uno	https://linear301-it-dash1-prd-akg0.cdn13.skycdp.com/31023/FHD/skysportuno/master_stereo.mpd``0036dc70e4d659fe5ae57b52793a1ff3:55517f806b6be917c2bf0e9cf9acc44f
 Sky Sport Calcio	https://linear301-it-dash1-prd-akg0.cdn13.skycdp.com/31209/FHD/skysportseriea/master.mpd``00369a2c69176d5a2deff777247b6637:e122d4bad34c1e430ee349f5aac0060b
 Sky Sport 258	https://linear311-it-dash1-prd-akg0.cdn13.skycdp.com/32772/skysport258/master.mpd``0036fd8ccfddba47c8b40aeff63a797c:dfd5c9d0f4ac6f3a1bd89803399e7026
+Sky Sport 259	https://linear311-it-dash1-prd-akg0.cdn13.skycdp.com/31613/skysport259/master.mpd``0036644f7699f43e401f88d920dc385c:e5b0cebdc3edd7996d283041535fce9c
 TV 2 Sport Premium	https://ch11-hls-live.akamaized.net/out/u/433127.mpd``d12e4c9dc52f4cbab7ac9b2278317e47:a7987e5b6ec42db68a25486e108ca9f2
 TV 2 Sport 1	https://rikstv-live-scalstrm.telenorcdn.net/live/rikstv/64393bf81dbc891fd41f53ac/manifest.mpd``0c6212056d2f51fcbf569f9a1a8517d1:d07b404deb7c958347d742e6d1d2f3f9
 Premier Sport 1	https://olam.telka.uk/premiersport_JnD4eF8ALBI4HWrUOpDMUj9sqakB/playlist.mpd
