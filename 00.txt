@@ -609,3 +609,19 @@ Event 10	https://zbpull3.zyjymall.com/live/93658075241063506404.m3u8
 Event 11	`0https://xlz.plcdn.xyz/ajax/chanel/type/1/link/rchtwtx
 Event 12	`0https://xlz.plcdn.xyz/ajax/chanel/type/1/link/jggujqm
 Event 13	`0https://tructiep.xem.my.id/phong-nha-ke-bang?id=event1
+{s} Ⓗa0 ⚽️Live Sports	^^sa0
+{s} Ⓜa1 🤹Multi	^^sa1
+{s} Ⓧa2 🤺eXtra	^^sa2
+{h} Ⓞb0 Okay	^^hb0
+{h} Ⓒb1 Cool	^^hb1
+{h} Ⓕb2 Fun	^^hb2
+{h} Ⓦb3 Wow	^^hb3
+{s} Ⓢ 0 Samsung	^^s0
+{s} Ⓟ 1 Pluto	^^s1
+{h} Ⓘ 2 iptv.org	^^h2
+{s} Ⓥ 3 Movies Film 1	^^s3
+{h} Ⓨ 4 Movies Film 2	^^h4
+{h} Ⓩ 5 Movies Film 3	^^h5
+{h} Ⓣ 6 Movies Film 4	^^h6
+{h} * 7 Conspiracy Truth 1	^^h7
+{h} * 8 Conspiracy Truth 2	^^h8

@@ -2324,3 +2324,19 @@ Blasted&&https://xxx.77player.xyz/m3u8/f1c6afa127ae4dc14e4290d1/f1c6afa127ae4dc1
 The Hurricane วิบัติมนุษย์กลายพันธุ์ (2020)&&https://xxx.77player.xyz/m3u8/f38c057d73a5fd4c4e289500/f38c057d73a5fd4c4e289500800.m3u8
 King Tweety&&https://xxx.77player.xyz/m3u8/f6fbebe0afef36533f3bc17b/f6fbebe0afef36533f3bc17b800.m3u8
 The Post Truth World (2023) โลกหลังความจริง&&https://xxx.77player.xyz/m3u8/fa04db405bc5835dc8f66f33/fa04db405bc5835dc8f66f33800.m3u8
+{s} Ⓗa0 ⚽️Live Sports	^^sa0
+{s} Ⓜa1 🤹Multi	^^sa1
+{s} Ⓧa2 🤺eXtra	^^sa2
+{h} Ⓞb0 Okay	^^hb0
+{h} Ⓒb1 Cool	^^hb1
+{h} Ⓕb2 Fun	^^hb2
+{h} Ⓦb3 Wow	^^hb3
+{s} Ⓢ 0 Samsung	^^s0
+{s} Ⓟ 1 Pluto	^^s1
+{h} Ⓘ 2 iptv.org	^^h2
+{s} Ⓥ 3 Movies Film 1	^^s3
+{h} Ⓨ 4 Movies Film 2	^^h4
+{h} Ⓩ 5 Movies Film 3	^^h5
+{h} Ⓣ 6 Movies Film 4	^^h6
+{h} * 7 Conspiracy Truth 1	^^h7
+{h} * 8 Conspiracy Truth 2	^^h8
