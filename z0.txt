@@ -14,6 +14,7 @@
 {h} Ⓣ 6 Movies Film 4	^^h6
 {h} * 7 Conspiracy Truth 1	^^h7
 {h} * 8 Conspiracy Truth 2	^^h8
+Sports	^^hk^sports.m3u
 🌍 International	^^hc^int.m3u
 🇮🇩 Indonesia	^^hc^id.m3u
 🇹🇭 Thailand	^^hc^th.m3u
@@ -254,7 +255,6 @@
 🇧🇶 Bonaire	^^hc^bq.m3u
 🇫🇴 Faroe Islands	^^hc^fo.m3u
 🇬🇬 Guernsey	^^hc^gg.m3u
-Sports	^^hk^sports.m3u
 Movies	^^hk^movies.m3u
 Kids	^^hk^kids.m3u
 Series	^^hk^series.m3u
