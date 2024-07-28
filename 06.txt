@@ -3,22 +3,18 @@ UK Mr. Bean	http://51.159.104.29:8080/mrbean/index.m3u8
 AR Urban Kids	http://200.194.238.229:8383/live/urbankids/playlist.m3u8
 US Duck TV	http://iptv.prosto.tv:7000/ch209/video.m3u8
 US GameToonᴴᴰ 🇺🇸	http://iptv.prosto.tv:7000/ch256/video.m3u8
-24h News FHD	http://cdn.connectbr.com.br/24_news/index.m3u8
 AE Dubai TV	http://210.210.155.35/uq2663/h/h152/index2.m3u8
 BR TVE 🇧🇷	http://streaming.procergs.com.br:1935/tve/stve/chunklist.m3u8
 CH My Cinema Europe	http://210.210.155.35/uq2663/h/h18/index.m3u8
 ES TVE Internacional Asia-Oceania	http://210.210.155.35/uq2663/h/h158/index2.m3u8
-FR InfoSport 🇫🇷	http://212.102.60.80/Infosport/index.m3u8
-FR TF1 🇫🇷	http://212.102.60.80/TF1/index.m3u8
 HK Phoenix Chinese	http://210.210.155.35/uq2663/h/h157/index2.m3u8
 RU CHD TV Rock 🇷🇺	http://194.26.229.213/chdtv_rock/index.m3u8
 SG Motorsports	http://210.210.155.35/uq2663/h/h09/index.m3u8
 UA Freedom	http://210.210.155.35/uq2663/h/h101/index.m3u8
-UK Arena Premium Liga 🇬🇧ᴴᴰ	http://91.132.74.4:7374/play/a00k/index.m3u8
+UK Arena Premium Liga 🇬🇧ᴴᴰ	http://91.132.74.4:7374/play/a00k/index.m3u8?2
 UK Automoto 🇬🇧	http://100automoto.tv:1935/bgtv1/autotv/chunklist_w783411174.m3u8
-UK BBC News 🇬🇧	http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/545/19176/index.m3u8
 US DW 🇺🇸	http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDIxIDEyOjQ3OjU3IFBNJmhhc2hfdmFsdWU9ZkJ0QTd3enJhWUtYSGsrZHFieUZodz09JnZhbGlkbWludXRlcz00ODA=
-US MTV 90s	http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch241)/index.m3u8
+US MTV 90s	http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch241)/index.m3u8?2
 US One Golf 🇺🇸	http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8
 US Red Bull TVᴴᴰ 🇺🇸	http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 US Toonami AfterMath East	http://api.toonamiaftermath.com:3000/est/playlist.m3u8
@@ -37,19 +33,9 @@ ID ANTV	http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 ID Kompas TV	http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
 ID Metro TV	http://op-group1-swiftservehd-1.dens.tv/h/h211/02.m3u8
 ID Net TV	http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
-ID RTV	http://210.210.155.37/uq2663/h/h10/02.m3u8
 ID TVOne	http://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
 ID TVRI	http://op-group1-swiftservehd-1.dens.tv/h/h237/02.m3u8
 ID BBC News Asia Pacific	http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
-ID K+	http://210.210.155.37/uq2663/h/h08/index.m3u8
-ID Kix	http://210.210.155.37/dr9445/h/h07/index.m3u8
-ID My Cinema	http://210.210.155.37/uq2663/h/h192/index.m3u8
-ID My Cinema Asia	http://210.210.155.37/uq2663/h/h193/index.m3u8
-ID My Family Channel	http://210.210.155.37/uq2663/h/h194/index.m3u8
-ID My Kidz	http://210.210.155.37/uq2663/h/h191/index.m3u8
-ID ROCK Action	http://210.210.155.37/dr9445/h/h15/index.m3u8
-ID ROCK Entertainment	http://210.210.155.37/dr9445/h/h16/index.m3u8
-ID tvN Movies	http://210.210.155.37/dr9445/h/h21/index.m3u8
 JP J Sport 1	http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18
 JP J Sport 2	http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19
 JP J Sport 3	http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
@@ -83,130 +69,6 @@ ID TVRI Sulawesi Tenggara	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISUL
 ID TVRI Sumatera Barat	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISUMBARPADANG)/index.m3u8
 ID TVRI Sumatera Selatan	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISUMSEL)/index.m3u8
 ID TVRI Yogyakarta	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/index.m3u8
-AR Fox Kids	http://stmv1.srvif.com/emlsilva/emlsilva/playlist.m3u8
-MX DreamWorks sᴅ 🇲🇽	http://45.189.148.24:8000/play/a00m/index.m3u8
-BR Discovery Turboᴴᴰ 🇧🇷	http://170.82.200.35/discovery_turbo/tracks-v1a1/mono.m3u8
-CN Discovery Asiaᴴᴰ 🇺🇸🇨🇳	http://198.16.100.90:8278/discoverytwn_twn/playlist.m3u8?tid=MB1B4014431840144318&ct=19254&tsum=a72e8caa6986ef92c4d6cb743e22a78f
-EC Goltv 🇪🇨	http://157.245.117.238:8000/play/a0ur/index.m3u8
-ES Galicia Americaᴴᴰ 🇪🇸	http://america-crtvg.flumotion.com/crtvg/america_high/chunks.m3u8
-ES Galicia Europaᴴᴰ 🇪🇸	http://europa-crtvg.flumotion.com/crtvg/europa_high/chunks.m3u8
-FR TF1 🇫🇷	http://45.153.35.210:8000/play/FR_tf1_HD/index.m3u8
-MX ESPN 4 sᴅ 🇲🇽	http://168.227.22.18:1935/live/mobile-205/playlist.m3u8
-MX Fox Sport 3 🇲🇽	http://stream.flynetwifi.com:1935/live/mobile-108/playlist.m3u8
-PE ESPN 4 🇵🇪	http://bantel.iptvperu.tv:1935/transcoderip/espnextrabk_t2.stream/playlist.m3u8
-TR Türkmenistan Sport 🇹🇷 sᴅ	http://217.174.225.146/hls/ch004_720/index.m3u8
-UK BBC First 🇬🇧🇵🇱	http://124.29.225.205:8000/play/a05f/index.m3u8
-US &Flix	http://89.187.177.137:8081/%26FLIX/index.m3u8
-US &Prive	http://89.187.177.137:8081/%26PRIVE/index.m3u8
-US Bosi Golf 🇨🇳	http://198.16.100.90:8278/bosigolf1_twn/playlist.m3u8?tid=MD5D3832704238327042&ct=18393&tsum=cbf3bf749c9b0bf4828ab19efff1c5b0
-US CineMaxᴴᴰ 🇺🇸	http://170.254.18.106/CINEMAX/index.m3u8
-US HBO 2 🇺🇸🇮🇳	http://170.254.18.106/HBO2/index.m3u8
-US HBO Mundi 🇺🇸🇮🇳	http://170.254.18.106/HBO_MUNDI/index.m3u8
-eSports Max	http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
-A&E	http://168.227.22.18:1935/live/mobile-158/playlist.m3u8
-A3 Cine	http://168.227.22.18:1935/live/mobile-028/playlist.m3u8
-A3 Series Int	http://168.227.22.18:1935/live/mobile-047/playlist.m3u8
-AMC	http://168.227.22.18:1935/live/mobile-079/playlist.m3u8
-Animal Planet	http://168.227.22.18:1935/live/mobile-068/playlist.m3u8
-Antena 3 Int	http://168.227.22.18:1935/live/mobile-008/playlist.m3u8
-AXN	http://168.227.22.18:1935/live/mobile-048/playlist.m3u8
-Azteca Int	http://168.227.22.18:1935/live/mobile-117/playlist.m3u8
-Baby TV	http://168.227.22.18:1935/live/mobile-060/playlist.m3u8
-C10	http://168.227.22.18:1935/live/mobile-037/playlist.m3u8
-Canal 11	http://168.227.22.18:1935/live/mobile-132/playlist.m3u8
-Canal 12 SV	http://168.227.22.18:1935/live/mobile-082/playlist.m3u8
-Canal 2	http://168.227.22.18:1935/live/mobile-110/playlist.m3u8
-Canal 21	http://168.227.22.18:1935/live/mobile-049/playlist.m3u8
-Canal 3	http://168.227.22.18:1935/live/mobile-114/playlist.m3u8
-Canal 7	http://168.227.22.18:1935/live/mobile-131/playlist.m3u8
-Canal D	http://168.227.22.18:1935/live/mobile-097/playlist.m3u8
-Canal Movie	http://168.227.22.18:1935/live/mobile-115/playlist.m3u8
-Canal TRV	http://168.227.22.18:1935/live/mobile-150/playlist.m3u8
-Cartoon Network	http://168.227.22.18:1935/live/mobile-029/playlist.m3u8
-Cartoonito	http://168.227.22.18:1935/live/mobile-055/playlist.m3u8
-Classic Cinema	http://168.227.22.18:1935/live/mobile-120/playlist.m3u8
-Cli	http://168.227.22.18:1935/live/mobile-119/playlist.m3u8
-CNBC	http://168.227.22.18:1935/live/mobile-098/playlist.m3u8
-CNN	http://168.227.22.18:1935/live/mobile-061/playlist.m3u8
-Comedy Central	http://168.227.22.18:1935/live/mobile-001/playlist.m3u8
-Corazon	http://168.227.22.18:1935/live/mobile-118/playlist.m3u8
-Disc Turbo	http://168.227.22.18:1935/live/mobile-109/playlist.m3u8
-Discovery	http://168.227.22.18:1935/live/mobile-006/playlist.m3u8
-Dreamworks	http://168.227.22.18:1935/live/mobile-099/playlist.m3u8
-E!	http://168.227.22.18:1935/live/mobile-156/playlist.m3u8
-ENI	http://168.227.22.18:1935/live/mobile-067/playlist.m3u8
-ES NE	http://168.227.22.18:1935/live/mobile-124/playlist.m3u8
-ESPN 1 MX	http://168.227.22.18:1935/live/mobile-032/playlist.m3u8
-ESPN 2 MX	http://168.227.22.18:1935/live/mobile-033/playlist.m3u8
-ESPN 3 MX	http://168.227.22.18:1935/live/mobile-121/playlist.m3u8
-Film & Arts	http://168.227.22.18:1935/live/mobile-142/playlist.m3u8
-Fox Deportes	http://168.227.22.18:1935/live/mobile-104/playlist.m3u8
-Fox Sports 1 MX	http://168.227.22.18:1935/live/mobile-010/playlist.m3u8
-Fox Sports 2 MX	http://168.227.22.18:1935/live/mobile-031/playlist.m3u8
-Fox Sports 3 MX	http://168.227.22.18:1935/live/mobile-108/playlist.m3u8
-Frente A Frente	http://168.227.22.18:1935/live/mobile-111/playlist.m3u8
-FX	http://168.227.22.18:1935/live/mobile-123/playlist.m3u8
-Golden	http://168.227.22.18:1935/live/mobile-141/playlist.m3u8
-Guate Vision	http://168.227.22.18:1935/live/mobile-149/playlist.m3u8
-H&H	http://168.227.22.18:1935/live/mobile-107/playlist.m3u8
-HBO 2	http://168.227.22.18:1935/live/mobile-094/playlist.m3u8
-Hinspan TV	http://168.227.22.18:1935/live/mobile-147/playlist.m3u8
-History	http://168.227.22.18:1935/live/mobile-058/playlist.m3u8
-History 2	http://168.227.22.18:1935/live/mobile-157/playlist.m3u8
-Hola TV	http://168.227.22.18:1935/live/mobile-013/playlist.m3u8
-IVC	http://168.227.22.18:1935/live/mobile-153/playlist.m3u8
-LaLiga TV	http://168.227.22.18:1935/live/mobile-017/playlist.m3u8
-Lifetime	http://168.227.22.18:1935/live/mobile-154/playlist.m3u8
-Mas CHiC	http://168.227.22.18:1935/live/mobile-146/playlist.m3u8
-MC	http://168.227.22.18:1935/live/mobile-044/playlist.m3u8
-Modo Cine	http://168.227.22.18:1935/live/mobile-140/playlist.m3u8
-MTV	http://168.227.22.18:1935/live/mobile-063/playlist.m3u8
-MultiPremier	http://168.227.22.18:1935/live/mobile-021/playlist.m3u8
-National Geographic	http://168.227.22.18:1935/live/mobile-091/playlist.m3u8
-Nick	http://168.227.22.18:1935/live/mobile-112/playlist.m3u8
-Nick Jr	http://168.227.22.18:1935/live/mobile-011/playlist.m3u8
-Nick Music	http://168.227.22.18:1935/live/mobile-039/playlist.m3u8
-Paramount	http://168.227.22.18:1935/live/mobile-004/playlist.m3u8
-Pasiones	http://168.227.22.18:1935/live/mobile-014/playlist.m3u8
-RCN Int	http://168.227.22.18:1935/live/mobile-072/playlist.m3u8
-RCN Novelas	http://168.227.22.18:1935/live/mobile-066/playlist.m3u8
-RTVE.ES	http://168.227.22.18:1935/live/mobile-100/playlist.m3u8
-Russia Today	http://168.227.22.18:1935/live/mobile-009/playlist.m3u8
-Sony Channel	http://168.227.22.18:1935/live/mobile-035/playlist.m3u8
-Sony Movies	http://168.227.22.18:1935/live/mobile-034/playlist.m3u8
-Space	http://168.227.22.18:1935/live/mobile-003/playlist.m3u8
-Star Channel	http://168.227.22.18:1935/live/mobile-057/playlist.m3u8
-Star TVE	http://168.227.22.18:1935/live/mobile-129/playlist.m3u8
-Starz	http://168.227.22.18:1935/live/mobile-015/playlist.m3u8
-Studio Universal	http://168.227.22.18:1935/live/mobile-026/playlist.m3u8
-SYFY USA	http://168.227.22.18:1935/live/mobile-059/playlist.m3u8
-TCS+	http://168.227.22.18:1935/live/mobile-135/playlist.m3u8
-Telemundo	http://168.227.22.18:1935/live/mobile-040/playlist.m3u8
-Telemundo Int	http://168.227.22.18:1935/live/mobile-152/playlist.m3u8
-Telesur	http://168.227.22.18:1935/live/mobile-116/playlist.m3u8
-TN 23	http://168.227.22.18:1935/live/mobile-130/playlist.m3u8
-TNT	http://168.227.22.18:1935/live/mobile-074/playlist.m3u8
-TNT Series	http://168.227.22.18:1935/live/mobile-046/playlist.m3u8
-TNT Sports CH	http://168.227.22.18:1935/live/mobile-143/playlist.m3u8
-Tooncast	http://168.227.22.18:1935/live/mobile-002/playlist.m3u8
-TV Azteca Guate	http://168.227.22.18:1935/live/mobile-148/playlist.m3u8
-TVE	http://168.227.22.18:1935/live/mobile-128/playlist.m3u8
-TVO	http://168.227.22.18:1935/live/mobile-071/playlist.m3u8
-TVU El Savador	http://168.227.22.18:1935/live/mobile-113/playlist.m3u8
-TyC Sports	http://168.227.22.18:1935/live/mobile-005/playlist.m3u8
-Universal TV	http://168.227.22.18:1935/live/mobile-064/playlist.m3u8
-Universo	http://168.227.22.18:1935/live/mobile-065/playlist.m3u8
-Univision	http://168.227.22.18:1935/live/mobile-045/playlist.m3u8
-Univision 4	http://168.227.22.18:1935/live/mobile-036/playlist.m3u8
-WB TV	http://168.227.22.18:1935/live/mobile-030/playlist.m3u8
-Win+	http://168.227.22.18:1935/live/mobile-062/playlist.m3u8
-ZooMoo	http://168.227.22.18:1935/live/mobile-069/playlist.m3u8
-ID Jek TV	http://61.8.64.138:1935/jektv/myStream/playlist.m3u8
-ID Radar Tasikmalaya TV	http://103.140.188.211:1935/radartv/myStream/playlist.m3u8
-ID Tegar TV Lampung	http://wms.klikhost.com:1935/tegartv/tegartv/playlist.m3u8
-ID SPOTV1	http://202.150.161.68/spotv1/index.m3u8
-ID SPOTV2	http://202.150.161.68/spotv2/index.m3u8
-US Tom & Jerry 🇺🇸	http://24hrs.homelinux.com/24H-tom-e-jerry/video.m3u8
 ONTime Sports EG	00`b002512/index.m3u8
 CBC AZ	00`b001050/index.m3u8
 Dunya TV AZ	00`b002192/index.m3u8
