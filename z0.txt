@@ -254,8 +254,8 @@
 🇧🇶 Bonaire	^^hc^bq.m3u
 🇫🇴 Faroe Islands	^^hc^fo.m3u
 🇬🇬 Guernsey	^^hc^gg.m3u
-Movies	^^hk^movies.m3u
 Sports	^^hk^sports.m3u
+Movies	^^hk^movies.m3u
 Kids	^^hk^kids.m3u
 Series	^^hk^series.m3u
 Animation	^^hk^animation.m3u
