@@ -254,3 +254,31 @@
 🇧🇶 Bonaire	^^hc^bq.m3u
 🇫🇴 Faroe Islands	^^hc^fo.m3u
 🇬🇬 Guernsey	^^hc^gg.m3u
+Movies	^^hk^movies.m3u
+Sports	^^hk^sports.m3u
+Kids	^^hk^kids.m3u
+Series	^^hk^series.m3u
+Animation	^^hk^animation.m3u
+Undefined	^^hk^undefined.m3u
+General	^^hk^general.m3u
+News	^^hk^news.m3u
+Religious	^^hk^religious.m3u
+Music	^^hk^music.m3u
+Entertainment	^^hk^entertainment.m3u
+Legislative	^^hk^legislative.m3u
+Education	^^hk^education.m3u
+Culture	^^hk^culture.m3u
+Lifestyle	^^hk^lifestyle.m3u
+Documentary	^^hk^documentary.m3u
+Shop	^^hk^shop.m3u
+Business	^^hk^business.m3u
+Comedy	^^hk^comedy.m3u
+Classic	^^hk^classic.m3u
+Outdoor	^^hk^outdoor.m3u
+Family	^^hk^family.m3u
+Travel	^^hk^travel.m3u
+Cooking	^^hk^cooking.m3u
+Science	^^hk^science.m3u
+Weather	^^hk^weather.m3u
+Auto	^^hk^auto.m3u
+Relax	^^hk^relax.m3u
