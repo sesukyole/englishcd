@@ -1,12 +1,26 @@
+KH Rasmey Hang Meas AFF U19	http://clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/playlist.m3u8
+KH Hang Meas HDTV AFF U19	http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/playlist.m3u8
+ID Indosiar 1	00`a01105.m3u8
+ID Indosiar 2	http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45098.m3u8
+ID Indosiar 2	http://op-group1-swiftservesd-1.dens.tv/s/s04/index.m3u8
+ID Indosiar 1	http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
+ID SCTV	00`a01101.m3u8
+ID SCTV 2	http://op-group1-swiftservehd-1.dens.tv/s/s03/index.m3u8
+ID SCTV 1	http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
+ID Moji	http://filex.tv:8080/live/paramjeetsingh/002818/302279.m3u8
+ID Moji TV 1	http://op-group1-swiftservesd-1.dens.tv/s/s41/index.m3u8
+ID ANTV	00`a01106.m3u8
+ID GTV	00`a01109.m3u8
+ID iNews	00`a0199.m3u8
+ID RCTI	00`a01100.m3u8
+ID Trans7	00`a01103.m3u8
+ID TransTV	00`a01102.m3u8
+ID tvOne	00`a01107.m3u8
 EuroSport HD 1	http://edge02.odtv.az/o7/eurosport/playlist.m3u8
 EuroSport HD 2	http://edge02.odtv.az/o3/eurosport2/playlist.m3u8
 EuroSport HD 1	http://185.189.225.157/EuroSport1/index.m3u8
 EuroSport HD 2	http://185.189.225.157/EuroSport2/index.m3u8
 Sky Sports LaLiga	http://181.78.105.146:2000/play/a08m/index.m3u8
-ID Indosiar 1	00`a01105.m3u8
-ID Indosiar 2	http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45098.m3u8
-KH Rasmey Hang Meas AFF U19	http://clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/playlist.m3u8
-KH Hang Meas HDTV AFF U19	http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/playlist.m3u8
 -----|USA|------	http://a.b/c
 US001:A&E HD	00`d003167.m3u8
 US002:ABC HD	00`d003166.m3u8

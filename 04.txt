@@ -1,6 +1,3 @@
-ID Moji	http://filex.tv:8080/live/paramjeetsingh/002818/302279.m3u8
-ID iNews	00`a0199.m3u8
-ID tvOne	00`a01107.m3u8
 ***| OLYMPIC |***	http://a.b/c
 OL| FR FRANCE TV PARIS 2024 FHD	01`04alive01`04b42985.m3u8
 OL| FR FRANCE TV PARIS 2024 HD	01`04alive01`04b42984.m3u8

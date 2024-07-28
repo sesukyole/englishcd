@@ -1,11 +1,3 @@
-ID SCTV	00`a01101.m3u8
-ID GTV	00`a01109.m3u8
-ID ANTV	00`a01106.m3u8
-ID Indosiar 1	http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
-ID Indosiar 2	http://op-group1-swiftservesd-1.dens.tv/s/s04/index.m3u8
-ID Moji TV 1	http://op-group1-swiftservesd-1.dens.tv/s/s41/index.m3u8
-ID SCTV 1	http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
-ID SCTV 2	http://op-group1-swiftservehd-1.dens.tv/s/s03/index.m3u8
 UK English Club TVᴴᴰ 🇬🇧	http://iptv.prosto.tv:7000/ch206/video.m3u8
 UK Mr. Bean	http://51.159.104.29:8080/mrbean/index.m3u8
 AR Fox Kids	http://stmv1.srvif.com/emlsilva/emlsilva/playlist.m3u8
