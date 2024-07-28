@@ -823,6 +823,7 @@ Sony PIX	https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m
 Gravitas Movies	https://ddniyunj92pl0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2amrzf32ny10z/playlist.m3u8
 ID ANTV 2	https://flv.intechmedia.net/live/ch108.m3u8
 ID VTV	https://flv.intechmedia.net/live/ch107.m3u8
+ID HBO	https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd__w@https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 {s} Ⓗa0 ⚽️Live Sports	^^sa0
 {s} Ⓜa1 🤹Multi	^^sa1
 {s} Ⓧa2 🤺eXtra	^^sa2
