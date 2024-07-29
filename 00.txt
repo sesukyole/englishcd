@@ -1,14 +1,11 @@
 RTB Aneka Go	https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
 MY TV Okey	https://cors-proxy.cooks.fyi/https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
-Olympics EuroSport 1	https://linear301-it-dash1-prd-akg0.cdn13.skycdp.com/313073/FHD/eurosport/master.mpd``0036bb3fa7e6f2c334d7cba5c28b6caf:217fa35739cd68e90b2cd23322c01312
-Olympics EuroSport 2	https://linear301-it-dash1-prd-akg0.cdn13.skycdp.com/31150/FHD/eurosport2/master.mpd``003670a7034342a4a07c91173818c61c:7b90055c1a1ea34d9090e9ebf6c4db8a
-Olympics EuroSport 3 251	https://linear311-it-dash1-prd-akg0.cdn13.skycdp.com/31917/FHD/skysport251/master.mpd``0036422cf4293ae7cf1e7f7062cc29e8:37a223fcc17c087043bc837432fd25d8
-Olympics EuroSport 4 252	https://linear311-it-dash1-prd-akg0.cdn13.skycdp.com/32951/FHD/skysport252/master.mpd``003643bc9d61268c987504fa93b397f6:b8d5767c73ff8bba68d955035b56f4c1
-Olympics EuroSport 5 253	https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/32233/FHD/skysport253/master.mpd``0036077996d02761a9d4c29ddfac7466:e83d078779ae5b53e2eb999513d55682
-Olympics EuroSport 6 254	https://linear311-it-dash1-prd-akg0.cdn13.skycdp.com/31234/FHD/skysport254/master.mpd``00369c14c20b78aadb1ec0e3c0e74979:e768767e2c7238d8069887bb36aed7fa
-Olympics EuroSport 7 255	https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/32910/FHD/skysport255/master.mpd``0036b781a22ebb0c20c16ac27d5d1448:f309b94acfda720bf1ed5741489f8967
-Olympics EuroSport 8 256	https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/31912/FHD/skysport256/master.mpd``00366f263859fc1cc82d2c4da6a66ef6:754ae922d113c54349002cd9a88694a4
-Olympics EuroSport 9 257	https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/31775/FHD/skysport257/master.mpd``0036faeace9872d3ceeb8b1b63f0baa3:dbd41ee944243307d39b7b27f16615a8
+Olympics Channel 1	https://d30aylox5wvifh.cloudfront.net/event/smil:ag1/manifest.mpd
+Olympics Channel 2	https://d30aylox5wvifh.cloudfront.net/event/smil:ag2/manifest.mpd
+Olympics Channel 3	https://d30aylox5wvifh.cloudfront.net/event/smil:ag3/manifest.mpd
+Olympics Channel 4	https://d30aylox5wvifh.cloudfront.net/event/smil:ag4/manifest.mpd
+Olympics Channel 5	https://d30aylox5wvifh.cloudfront.net/event/smil:ag5/manifest.mpd
+Olympics Channel 6	https://d30aylox5wvifh.cloudfront.net/event/smil:event1/manifest.mpd
 Olympics USA West	https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd``252a671825ba31ec8433f978c32ccf6d:ee560759ecc8d2274df2e63fcef56915
 Olympics Universo East	https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(universo-east)/master.mpd``232d71bb013d39ffb92ee8c576fb7e8e:087408a48be8d57046c3868b37ea90ba
 Olympics CH1	https://mwmpos03.akamaized.net/out/v1/0484a3feb7684efb9fc80ec56d66d005/manifest.mpd``67617db114014f4c85793b3a23224839:3029635a44a54dc78be8f740728a55f5
@@ -36,6 +33,15 @@ Sky Sport Uno	https://linear301-it-dash1-prd-akg0.cdn13.skycdp.com/31023/FHD/sky
 Sky Sport Calcio	https://linear301-it-dash1-prd-akg0.cdn13.skycdp.com/31209/FHD/skysportseriea/master.mpd``00369a2c69176d5a2deff777247b6637:e122d4bad34c1e430ee349f5aac0060b
 Sky Sport 258	https://linear311-it-dash1-prd-akg0.cdn13.skycdp.com/32772/skysport258/master.mpd``0036fd8ccfddba47c8b40aeff63a797c:dfd5c9d0f4ac6f3a1bd89803399e7026
 Sky Sport 259	https://linear311-it-dash1-prd-akg0.cdn13.skycdp.com/31613/skysport259/master.mpd``0036644f7699f43e401f88d920dc385c:e5b0cebdc3edd7996d283041535fce9c
+Olympics EuroSport 1	https://linear301-it-dash1-prd-akg0.cdn13.skycdp.com/313073/FHD/eurosport/master.mpd``0036bb3fa7e6f2c334d7cba5c28b6caf:217fa35739cd68e90b2cd23322c01312
+Olympics EuroSport 2	https://linear301-it-dash1-prd-akg0.cdn13.skycdp.com/31150/FHD/eurosport2/master.mpd``003670a7034342a4a07c91173818c61c:7b90055c1a1ea34d9090e9ebf6c4db8a
+Olympics EuroSport 3 251	https://linear311-it-dash1-prd-akg0.cdn13.skycdp.com/31917/FHD/skysport251/master.mpd``0036422cf4293ae7cf1e7f7062cc29e8:37a223fcc17c087043bc837432fd25d8
+Olympics EuroSport 4 252	https://linear311-it-dash1-prd-akg0.cdn13.skycdp.com/32951/FHD/skysport252/master.mpd``003643bc9d61268c987504fa93b397f6:b8d5767c73ff8bba68d955035b56f4c1
+Olympics EuroSport 5 253	https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/32233/FHD/skysport253/master.mpd``0036077996d02761a9d4c29ddfac7466:e83d078779ae5b53e2eb999513d55682
+Olympics EuroSport 6 254	https://linear311-it-dash1-prd-akg0.cdn13.skycdp.com/31234/FHD/skysport254/master.mpd``00369c14c20b78aadb1ec0e3c0e74979:e768767e2c7238d8069887bb36aed7fa
+Olympics EuroSport 7 255	https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/32910/FHD/skysport255/master.mpd``0036b781a22ebb0c20c16ac27d5d1448:f309b94acfda720bf1ed5741489f8967
+Olympics EuroSport 8 256	https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/31912/FHD/skysport256/master.mpd``00366f263859fc1cc82d2c4da6a66ef6:754ae922d113c54349002cd9a88694a4
+Olympics EuroSport 9 257	https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/31775/FHD/skysport257/master.mpd``0036faeace9872d3ceeb8b1b63f0baa3:dbd41ee944243307d39b7b27f16615a8
 TV 2 Sport Premium	https://ch11-hls-live.akamaized.net/out/u/433127.mpd``d12e4c9dc52f4cbab7ac9b2278317e47:a7987e5b6ec42db68a25486e108ca9f2
 TV 2 Sport 1	https://rikstv-live-scalstrm.telenorcdn.net/live/rikstv/64393bf81dbc891fd41f53ac/manifest.mpd``0c6212056d2f51fcbf569f9a1a8517d1:d07b404deb7c958347d742e6d1d2f3f9
 Premier Sport 1	https://olam.telka.uk/premiersport_JnD4eF8ALBI4HWrUOpDMUj9sqakB/playlist.mpd
