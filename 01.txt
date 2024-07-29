@@ -200,6 +200,7 @@ Cinema One	https://cinemaone-abscbn-ono.amagi.tv/index.m3u8
 RTB SukmaIndera	https://d1211whpimeups.cloudfront.net/smil:rtb1/chunklist.m3u8
 RTB Aneka Go	https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
 RTB Go Live	https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
+MY Al Hijrah	https://172048-castr.akamaized.net/61e0e9a88ecf869e0a595bfa/live_feb292e0f94c11edbc052354c95d3ff1/tracks-v1a1/mono.m3u8
 MY Astro Awani	https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
 MY Boo	https://cors-proxy.cooks.fyi/https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/2407/default.mpd``ea4d51ade01bbf3946e0de973051ba10:f3266bec607f25879f48640f30f1c888
 MY Degup	https://pop5clustera00de07172379a62d6189.hypp.tv:443/PLTV/88888888/224/3221227923/3221227923.mpd?rrsip%3Dweb.hypp.tv&zoneoffset=0&servicetype=1&icpid&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=qD/Ghg01YduJJVCux%2B5ixF6lBrrzvU1Q2%2B8sLqGChu40fF7WRczKep1ijxO3BzygK7IGCYvN70sbDo5pVRv84y3usL46ekX4z6HfPL7ju%2BT/E8WgnGuV2Kpf7nZRV575l1Gu6dfQIjZRtiMM1k%2B5qA%3D%3D:20230704175902:UTC,1004320541,14.1.254.135,20230704175902,urn:Huawei:liveTV:XTV55631601,1004320541,-1,0,1,,,2,,,,2,3692854,0,2611154,2b9f924f-2e21-e330-87b4-2daffcd7b85b,,,2,1,END&GuardEncType=2&tenantId=6003``c2ef96fe03b52c27a7b9a25ebfc95a00:93c9bcd05f9f754026b5b5e17f4e6446
@@ -342,6 +343,7 @@ HeartLand	https://sr-live4-frndly.akamaized.net/out/v1/01af02e4a23e4e30af639feb3
 Dove Kids	https://sr-live4-frndly.akamaized.net/out/v1/dfed6dba20b8471993a7d14abf14b9cc/index.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07
 Xplore	https://xlpore-samsungus.amagi.tv/playlist.m3u8
 Animal Planet	https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
+Animal Planet	https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_17.m3u8
 Loupe	https://linear-144.frequency.stream/dist/localnow/144/hls/hd/playlist.m3u8
 Hi-Yaah Movies	https://a28dc5e3f24c4a8da3a67c68be729c2c.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-59-HIYAH-PLEX/mt/plex/59/hls/master/playlist.m3u8
 Quietude	https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/quietude/playlist.m3u8

@@ -1,5 +1,3 @@
-KH Rasmey Hang Meas AFF U19	http://clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/playlist.m3u8
-KH Hang Meas HDTV AFF U19	http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/playlist.m3u8
 ID ANTV	00`a01106.m3u8
 ID GTV	00`a01109.m3u8
 ID iNews	00`a0199.m3u8
@@ -8,8 +6,8 @@ ID Trans7	00`a01103.m3u8
 ID TransTV	00`a01102.m3u8
 ID tvOne	00`a01107.m3u8
 ID Moji	http://filex.tv:8080/live/paramjeetsingh/002818/302279.m3u8
-ID Moji TV 1	http://op-group1-swiftservesd-1.dens.tv/s/s41/01.m3u8
-ID Moji TV 1	http://op-group1-swiftservesd-1.dens.tv/s/s41/02.m3u8
+ID Moji 1	http://op-group1-swiftservesd-1.dens.tv/s/s41/01.m3u8
+ID Moji 2	http://op-group1-swiftservesd-1.dens.tv/s/s41/02.m3u8
 ID SCTV 1	00`a01101.m3u8
 ID SCTV 2	http://op-group1-swiftservehd-1.dens.tv/h/h217/01.m3u8
 ID SCTV 3	http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8

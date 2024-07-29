@@ -21,6 +21,8 @@ US Toonami AfterMath East	http://api.toonamiaftermath.com:3000/est/playlist.m3u8
 US Trips Marterᴴᴰ 🇺🇸	http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist.m3u8
 US W Sport	http://210.210.155.35/uq2663/h/h26/index.m3u8
 Eurosport 1 🇵🇱🇺🇸ᴴᴰ	http://54.39.17.6:8080/eurosport/playlist.m3u8
+KH Rasmey Hang Meas	http://clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/playlist.m3u8
+KH Hang Meas HDTV	http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/playlist.m3u8
 ID Bandung TV	http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
 ID Batu TV	http://117.103.69.219:8080/live/streaming/index.m3u8
 ID BNTV	http://210.210.155.35/uq2663/h/h39/index.m3u8
