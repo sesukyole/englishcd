@@ -1,9 +1,10 @@
 SA Makkah	https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
-SA Medina	https://op-group1-swiftservesd-1.dens.tv/s/s27/index.m3u8
-PS Palestine TV	https://pbc.furrera.ps/palestinehd/index.m3u8
-PS Voice of Palestine	https://pbc.furrera.ps/PalLive/VOPTV/index.m3u8
+SA Medina	https://op-group1-swiftservesd-1.dens.tv/s/s27/02.m3u8
+SA Medina	https://op-group1-swiftservesd-1.dens.tv/s/s27/01.m3u8
 PS Musawwa	https://pbc.furrera.ps/musawahd/index.m3u8
+PS Palestine TV	https://pbc.furrera.ps/palestinehd/index.m3u8
 PS Palestine Today	https://live.paltodaytv.com/paltv/live/playlist.m3u8
+PS Voice of Palestine	https://pbc.furrera.ps/PalLive/VOPTV/index.m3u8
 ID Makkah TV	01`00a130/alquran/index.m3u8?c
 ID AFN	01`00a133/afc/index.m3u8?c
 ID Animal Planet	01`00a194/animalplanet/index.m3u8?c
@@ -80,31 +81,48 @@ ID TV9	01`00a130/tv9/index.m3u8?c
 ID tvN	01`00a133/tvn/index.m3u8?c
 ID tvN Movies	01`00a133/tvnmovies/index.m3u8?c
 ID Zhejiang	01`00a130/zhejiang/index.m3u8?c
-ID Elshinta	https://stream1.freetv.fun/elshinta-tv-2.m3u8
+ID Indosiar 1	https://op-group1-swiftservesd-1.dens.tv/s/s04/02.m3u8
+ID Indosiar 2	https://op-group1-swiftservesd-1.dens.tv/s/s04/01.m3u8
+ID Indosiar 3	https://op-group1-swiftservehd-1.dens.tv/h/h207/01.m3u8
+ID Indosiar 4	https://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
+ID SCTV 1	https://op-group1-swiftservesd-1.dens.tv/s/s03/02.m3u8
+ID SCTV 2	https://op-group1-swiftservesd-1.dens.tv/s/s03/01.m3u8
+ID SCTV 3	https://op-group1-swiftservehd-1.dens.tv/h/h217/01.m3u8
+ID SCTV 4	https://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
+ID Moji 1	https://op-group1-swiftservesd-1.dens.tv/s/s41/02.m3u8
+ID Moji 2	https://op-group1-swiftservesd-1.dens.tv/s/s41/01.m3u8
+ID Net TV 2	https://op-group1-swiftservehd-1.dens.tv/h/h223/index.m3u8
+ID Net TV 3	https://op-group1-swiftservehd-1.dens.tv/h/h223/index.m3u8
+ID CCTV 4	https://op-group1-swiftservesd-1.dens.tv/s/s19/02.m3u8
+ID CCTV 4	https://op-group1-swiftservesd-1.dens.tv/s/s19/01.m3u8
+ID K Plus 1	https://op-group1-swiftservehd-1.dens.tv/h/h08/02.m3u8
+ID K Plus 2	https://op-group1-swiftservehd-1.dens.tv/h/h08/01.m3u8
+ID K Plus 3	https://op-group1-swiftservehd-1.dens.tv/h/h219/01.m3u8
+ID K Plus 4	https://op-group1-swiftservehd-1.dens.tv/h/h219/02.m3u8
+ID My Cinema Europe 1	https://op-group1-swiftservehd-1.dens.tv/h/h18/02.m3u8
+ID My Cinema Europe 2	https://op-group1-swiftservehd-1.dens.tv/h/h18/01.m3u8
+ID Cinema World 1	https://op-group1-swiftservesd-1.dens.tv/s/s04/02.m3u8
+ID Cinema World 2	https://op-group1-swiftservesd-1.dens.tv/s/s04/01.m3u8
+ID RTV 1	https://op-group1-swiftservehd-1.dens.tv/h/h10/02.m3u8
+ID RTV 2	https://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
+CN Wion	https://op-group1-swiftservehd-1.dens.tv/h/h91/index.m3u8
+ID TVRI Sport 1	https://op-group1-swiftservesd-1.dens.tv/s/s107/02.m3u8
+ID TVRI Sport 2	https://op-group1-swiftservesd-1.dens.tv/s/s107/01.m3u8
 ID DigiOne	https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/index.m3u8
 ID Indonesiana	https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/index.m3u8
 ID Magna	https://edge.medcom.id/live-edge/smil:magna.smil/chunklist.m3u8
 ID Metro Global Network	https://edge.medcom.id/live-edge/smil:mgnch.smil/chunklist.m3u8
-ID Indosiar 1	https://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
-ID Moji TV 2	https://op-group1-swiftservesd-1.dens.tv/s/s41/index.m3u8
-ID SCTV 1	https://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
 ID iNews	https://dsgtq5sngxkde.cloudfront.net/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8?c
 ID RCTI	https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-2/sa_hls/rcti-2.m3u8?c
 ID Dunia Games	https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6854467f-52fe-48ee-9822-00233c678709)/index.m3u8
-ID AniPlus	https://op-group1-swiftservehd-1.dens.tv/h/h114/S4/mnf.m3u8
-ID Net TV 2	https://op-group1-swiftservehd-1.dens.tv/h/h223/index.m3u8
 ID BeritaSatu World TV	https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 ID CNBC Indonesia	https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 ID CNN Indonesia	https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
-ID CCTV 4	https://op-group1-swiftservesd-1.dens.tv/s/s19/index.m3u8
-ID K Plus	https://op-group1-swiftservehd-1.dens.tv/h/h08/index.m3u8
-ID K Plus	https://op-group1-swiftservehd-1.dens.tv/h/h219/index.m3u8
-ID My Cinema Europe	https://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8
 ID ATV	https://uniproxy.misty.workers.dev/https://streaming.indihometv.com/atm/DASH/atv/manifest.mpd
 ID Cartoonito	https://uniproxy.misty.workers.dev/https://streaming.indihometv.com/atm/DASH/boomerang/manifest.mpd
 ID Warner	https://uniproxy.misty.workers.dev/https://streaming.indihometv.com/atm/DASH/warner/manifest.mpd
-ID Indosiar 2	https://uniproxy.misty.workers.dev/https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
-ID SCTV 2	https://uniproxy.misty.workers.dev/https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
+ID Indosiar 3	https://uniproxy.misty.workers.dev/https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
+ID SCTV 3	https://uniproxy.misty.workers.dev/https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
 ID tvOne	https://uniproxy.misty.workers.dev/https://streaming.indihometv.com/atm/DASH/tvone/manifest.mpd
 ID Jawapos	https://uniproxy.misty.workers.dev/https://streaming.indihometv.com/atm/DASH/jawapos/manifest.mpd
 ID Cinemax	https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(4b9c9228-73c1-cb85-94a9-7fa84858b877)/manifest.mpd``ad90306387ee369eb2a6de02869c7653:4b17755fdea3ca0277bb64a1e9fbecef
@@ -112,9 +130,7 @@ ID HBO Family	https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel
 ID HBO Hits	https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7e3ac8f2-3380-461a-976b-30bca8d939a0)/manifest.mpd``a1e570be4c63326aa95ea53eb5be2699:f9d709f24054472ab7f53c758cf45c94
 ID HBO	https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(92c7b96a-33fc-4899-a032-50ae0fbc9257)/manifest.mpd``39a424d1b79e3b77bf6eaac3f3221f7e:7804e43828e094bd49e3d4df443eea11
 ID BeritaSatu News	https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
-ID Cinema World	https://op-group1-swiftservehd-1.dens.tv/h/h04/index.m3u8
 ID DAAI TV	https://dacastmmd.mmdlive.lldns.net/dacastmmd/683cc426c19442a4ba31c53be5c963bb/index.m3u8
-ID RTV	https://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8
 ID Trans TV	https://video.detik.com/transtv/smil:transtv-live.smil/index.m3u8
 ID Trans7	https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
 ID Dhoho TV	https://dhohotv.siar.us/dhohotv/live/playlist.m3u8
@@ -128,7 +144,6 @@ ID Madu TV	https://re1.siar.us/madutv/hd720/playlist.m3u8
 ID MQTV	https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
 ID Sakti TV	https://saktitv.siar.us/saktitv/live/playlist.m3u8
 ID UGTV	https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
-ID TVRI Sport	https://op-group1-swiftservesd-1.dens.tv/s/s107/index.m3u8
 ID MIC TV	https://v2.siar.us/mic/live/playlist.m3u8
 Sony GEM	https://tglmp01.akamaized.net/out/v1/acd34a6d1e2540f888793461457b77e1/manifest.mpd``0403e654ddab419db6cc72bb3fa51248:9d43bcc51f3750550d321cdc37e57cc9
 US Tortues Ninja 🇺🇸 🟤	https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d0c16d686454ead733d08f8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -307,7 +322,6 @@ RU Duma TV HD	https://dumatv.iptv2022.com/tracks-v2a1/mono.m3u8
 AU ABC News Australia TV	https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 AU ABC News TV	https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 US ABC TV	https://w.tryandrew.shop/abc.m3u8
-CN Wion	https://op-group1-swiftservehd-1.dens.tv/h/h91/index.m3u8
 CN CGTN Documentary TV	https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 CN CGTN EN	https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 Global Fashion Channel	https://gfcomnimedia-globalfashionchannel-1-eu.xiaomi.wurl.tv/playlist.m3u8
@@ -717,7 +731,6 @@ Bollywood	https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761
 |SHAHID| RASHED AL-MAJED	https://rashed-almajed-ak.akamaized.net/out/v1/77b0946130344d1388e5cd34afdcb772/index_19.m3u8
 |SHAHID| MUHAMMAD ABDO	https://mohammed-abdou-ak.akamaized.net/out/v1/3b57275cf54747cda4cda03ecf146f92/index_19.m3u8
 ID TV Kesehatan	https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8
-Gravitas Movies	https://ddniyunj92pl0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2amrzf32ny10z/playlist.m3u8
 {s} Ⓗa0 ⚽️Live Sports	^^sa0
 {s} Ⓜa1 🤹Multi	^^sa1
 {s} Ⓧa2 🤺eXtra	^^sa2
