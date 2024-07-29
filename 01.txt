@@ -1,6 +1,6 @@
 SA Makkah	https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
-SA Medina	https://op-group1-swiftservesd-1.dens.tv/s/s27/02.m3u8
-SA Medina	https://op-group1-swiftservesd-1.dens.tv/s/s27/01.m3u8
+SA Medina 1	https://op-group1-swiftservesd-1.dens.tv/s/s27/02.m3u8
+SA Medina 2	https://op-group1-swiftservesd-1.dens.tv/s/s27/01.m3u8
 PS Musawwa	https://pbc.furrera.ps/musawahd/index.m3u8
 PS Palestine TV	https://pbc.furrera.ps/palestinehd/index.m3u8
 PS Palestine Today	https://live.paltodaytv.com/paltv/live/playlist.m3u8
@@ -83,26 +83,22 @@ ID tvN Movies	01`00a133/tvnmovies/index.m3u8?c
 ID Zhejiang	01`00a130/zhejiang/index.m3u8?c
 ID Indosiar 1	https://op-group1-swiftservesd-1.dens.tv/s/s04/02.m3u8
 ID Indosiar 2	https://op-group1-swiftservesd-1.dens.tv/s/s04/01.m3u8
-ID Indosiar 3	https://op-group1-swiftservehd-1.dens.tv/h/h207/01.m3u8
-ID Indosiar 4	https://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 ID SCTV 1	https://op-group1-swiftservesd-1.dens.tv/s/s03/02.m3u8
 ID SCTV 2	https://op-group1-swiftservesd-1.dens.tv/s/s03/01.m3u8
 ID SCTV 3	https://op-group1-swiftservehd-1.dens.tv/h/h217/01.m3u8
 ID SCTV 4	https://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
-ID Moji 1	https://op-group1-swiftservesd-1.dens.tv/s/s41/02.m3u8
-ID Moji 2	https://op-group1-swiftservesd-1.dens.tv/s/s41/01.m3u8
+ID Moji 2	https://op-group1-swiftservesd-1.dens.tv/s/s41/02.m3u8
+ID Moji 3	https://op-group1-swiftservesd-1.dens.tv/s/s41/01.m3u8
 ID Net TV 2	https://op-group1-swiftservehd-1.dens.tv/h/h223/index.m3u8
 ID Net TV 3	https://op-group1-swiftservehd-1.dens.tv/h/h223/index.m3u8
-ID CCTV 4	https://op-group1-swiftservesd-1.dens.tv/s/s19/02.m3u8
-ID CCTV 4	https://op-group1-swiftservesd-1.dens.tv/s/s19/01.m3u8
+ID CCTV 4 1	https://op-group1-swiftservesd-1.dens.tv/s/s19/02.m3u8
+ID CCTV 4 2	https://op-group1-swiftservesd-1.dens.tv/s/s19/01.m3u8
 ID K Plus 1	https://op-group1-swiftservehd-1.dens.tv/h/h08/02.m3u8
 ID K Plus 2	https://op-group1-swiftservehd-1.dens.tv/h/h08/01.m3u8
 ID K Plus 3	https://op-group1-swiftservehd-1.dens.tv/h/h219/01.m3u8
 ID K Plus 4	https://op-group1-swiftservehd-1.dens.tv/h/h219/02.m3u8
 ID My Cinema Europe 1	https://op-group1-swiftservehd-1.dens.tv/h/h18/02.m3u8
 ID My Cinema Europe 2	https://op-group1-swiftservehd-1.dens.tv/h/h18/01.m3u8
-ID Cinema World 1	https://op-group1-swiftservesd-1.dens.tv/s/s04/02.m3u8
-ID Cinema World 2	https://op-group1-swiftservesd-1.dens.tv/s/s04/01.m3u8
 ID RTV 1	https://op-group1-swiftservehd-1.dens.tv/h/h10/02.m3u8
 ID RTV 2	https://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
 CN Wion	https://op-group1-swiftservehd-1.dens.tv/h/h91/index.m3u8
