@@ -10,6 +10,8 @@ Olympics USA West	https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live
 Olympics Universo East	https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(universo-east)/master.mpd``232d71bb013d39ffb92ee8c576fb7e8e:087408a48be8d57046c3868b37ea90ba
 Olympics CH1	https://mwmpos03.akamaized.net/out/v1/0484a3feb7684efb9fc80ec56d66d005/manifest.mpd``67617db114014f4c85793b3a23224839:3029635a44a54dc78be8f740728a55f5
 Olympics CH2	https://mwmpos01.akamaized.net/out/v1/a054e78fe6c7439faec28e9f71b16672/manifest.mpd``00c74743daaa4519b2d3d6b6e7a9a89c:87f7e82f78206a846a85bb214e619ed1
+EuroSport HD 1	http://edge02.odtv.az/o7/eurosport/playlist.m3u8
+EuroSport HD 2	http://edge02.odtv.az/o3/eurosport2/playlist.m3u8
 Badminton 1a	https://lebo.huminbird.cn/live/ballbar_31370.m3u8
 Badminton 1b	https://wakacha.github.io/live/c1.m3u8?7
 Badminton 2a	https://lebo.huminbird.cn/live/ballbar_38540.m3u8
