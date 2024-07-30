@@ -29,25 +29,9 @@ Olympics MeWatch 16	https://mwmpos01.akamaized.net/out/v1/d25d6ac6065747579cc033
 Olympics MeWatch 17	https://uniproxy.misty.workers.dev/https://mwmpos04.akamaized.net/out/v1/dbd2ba3639db4d61b6543856e815b1cc/manifest.mpd``de1f8f8d772a4b69b5dfa0d110f3f274:c6359d29b7752725de20a7783a0dc9ea
 Olympics MeWatch 18	https://mwmpos01.akamaized.net/out/v1/7600d156a41348ba807e0903f4182781/manifest.mpd``461097ca44b247d9b5f572eeb6794eb5:4408fcf6fda093ca94debeff70b707d9
 Olympics MeWatch 19	https://uniproxy.misty.workers.dev/https://mwmpos02.akamaized.net/out/v1/7b8d435cc3ef421ea90f437143547133/manifest.mpd``097c0736feed44889bb554cbd5cef7bb:50e15a6476e3a6b9708a69dfbbf2eab6
-Olympics MeWatch 20	https://mwmpos03.akamaized.net/out/v1/0484a3feb7684efb9fc80ec56d66d005/manifest.mpd``67617db114014f4c85793b3a23224839:3029635a44a54dc78be8f740728a55f5
-Olympics MeWatch 21	https://mwmpos01.akamaized.net/out/v1/a054e78fe6c7439faec28e9f71b16672/manifest.mpd``00c74743daaa4519b2d3d6b6e7a9a89c:87f7e82f78206a846a85bb214e619ed1
+Olympics MeWatch 01	https://mwmpos03.akamaized.net/out/v1/0484a3feb7684efb9fc80ec56d66d005/manifest.mpd``67617db114014f4c85793b3a23224839:3029635a44a54dc78be8f740728a55f5
+Olympics MeWatch 02	https://mwmpos01.akamaized.net/out/v1/a054e78fe6c7439faec28e9f71b16672/manifest.mpd``00c74743daaa4519b2d3d6b6e7a9a89c:87f7e82f78206a846a85bb214e619ed1
 Mediacorp MeWatch 5	https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd``607b7d22565c4bc3b95ff6c33ce65425:28cc5367df666c44be4382e64af64d57
-Olympics Channel A	https://astropunyathedream.nixiehai263.workers.dev/astro44/dash-wv/linear/5150/default_primary.mpd``94fae17e4d15e1cd0bdc7ced096fa510:e19b697fdedc5b0cf0ad5068de13d0a9
-Olympics Channel B	https://astropunyathedream.nixiehai263.workers.dev/astro44/dash-wv/linear/5151/default_primary.mpd``1604ec11358c6c88102bef8ab5bdca10:c6a09b1d801d3631cd77da486578ddf6
-Olympics Channel C	https://astropunyathedream.nixiehai263.workers.dev/astro44/dash-wv/linear/5152/default_primary.mpd``d6afe246b3db067df837fafc06778d10:7c7a98236c7dcce43f1269190060b8a0
-Olympics Channel D	https://astropunyathedream.nixiehai263.workers.dev/astro44/dash-wv/linear/5153/default_primary.mpd``64a8f08490d91ded89f977d85878d110:a1c391c1ea515756d5272972d6bbd729
-Olympics Channel E	https://astropunyathedream.nixiehai263.workers.dev/astro44/dash-wv/linear/5154/default_primary.mpd``8cb67b7fa34de61532947254309d4d10:288e7f89c9c8726d880753ddaf9e70ed
-Olympics Channel F	https://astropunyathedream.nixiehai263.workers.dev/astro44/dash-wv/linear/5155/default_primary.mpd``847059d47386706eee610062170f5610:9449a550b7c9d00f5a62ee1d68ae32a8
-Olympics Channel G	https://astropunyathedream.nixiehai263.workers.dev/astro44/dash-wv/linear/5156/default_primary.mpd``c6a0127305b4e146c13678114d943b10:e7e624c9c7fa76d81a462aba112fc461
-Olympics Channel H	https://astropunyathedream.nixiehai263.workers.dev/astro44/dash-wv/linear/5157/default_primary.mpd``21f1c4e873b14d8d72628ecab98fe810:06239087fc45361fa869068914e695fa
-Olympics Channel I	https://astropunyathedream.nixiehai263.workers.dev/astro44/dash-wv/linear/5158/default_primary.mpd``81257d6815f45da763f05273c0ef5310:671f266367e2eeb9078041617394ff69
-Olympics Channel J	https://astropunyathedream.nixiehai263.workers.dev/astro44/dash-wv/linear/5159/default_primary.mpd``3fc8322786658471d0fa02ce31147d10:37f15c6763c1d67c451e3a6f24c493bf
-Olympics Channel K	https://astropunyathedream.nixiehai263.workers.dev/astro44/dash-wv/linear/5160/default_primary.mpd``c1bea23bddf56a18c19d5de612300910:44da935c6d074d290baf0f2c40339a02
-Olympics Channel L	https://astropunyathedream.nixiehai263.workers.dev/astro44/dash-wv/linear/5161/default_primary.mpd``d566eb21d512365010ba325450eaba10:5af468398413fbfa270600bc7a0c6b61
-Olympics Channel M	https://astropunyathedream.nixiehai263.workers.dev/astro44/dash-wv/linear/5162/default_primary.mpd``fdc00bcd7b723761b6e3102fd38fb410:d045be7cf2fa81d762952a144e2833f2
-Olympics Channel N	https://astropunyathedream.nixiehai263.workers.dev/astro44/dash-wv/linear/5163/default_primary.mpd``358d0c3f6900a52ddfa08ed5ced24510:9ca37f9e4cf1618ab932709e44df367a
-Olympics Channel O	https://astropunyathedream.nixiehai263.workers.dev/astro44/dash-wv/linear/5164/default_primary.mpd``8242bb2805292138e886088f70357610:d35e728245dd11dc362fc307a9300fc7
-Olympics Channel P	https://astropunyathedream.nixiehai263.workers.dev/astro44/dash-wv/linear/5165/default_primary.mpd``b3e4daa30e0e957e809bae271e47b910:60e59bd86e2e4af1256922d1465728ca
 EuroSport HD 1	http://edge02.odtv.az/o7/eurosport/playlist.m3u8
 EuroSport HD 2	http://edge02.odtv.az/o3/eurosport2/playlist.m3u8
 BHRT	https://webtvstream.bhtelecom.ba/hls19/bht1.mpd``c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
