@@ -7,7 +7,7 @@ Olympics Channel 4	https://d30aylox5wvifh.cloudfront.net/event/smil:ag4/manifest
 Olympics Channel 5	https://d30aylox5wvifh.cloudfront.net/event/smil:ag5/manifest.mpd
 Olympics Channel 6	https://d30aylox5wvifh.cloudfront.net/event/smil:event1/manifest.mpd
 Olympics EuroSport 1	https://cache3.zapitv.com/live/eds_c2/eurosport_1_hd/dash_live_enc/eurosport_1_hd.mpd``237be8ca9383755e9f5784dd23f545eb:15a723773c3b3cbce295c0aed0bc71c3
-Olympics EuroSport 1	https://cache3.zapitv.com/live/eds_c2/eurosport_2_hd/dash_live_enc/eurosport_2_hd.mpd``15382879a9bcfa6f1a04a86d5b4324e9:664241133368ab039dc1fb15206ba54b
+Olympics EuroSport 2	https://cache3.zapitv.com/live/eds_c2/eurosport_2_hd/dash_live_enc/eurosport_2_hd.mpd``15382879a9bcfa6f1a04a86d5b4324e9:664241133368ab039dc1fb15206ba54b
 Olympics USA West	https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd``252a671825ba31ec8433f978c32ccf6d:ee560759ecc8d2274df2e63fcef56915
 Olympics Universo East	https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(universo-east)/master.mpd``232d71bb013d39ffb92ee8c576fb7e8e:087408a48be8d57046c3868b37ea90ba
 Olympics MeWatch 1	https://mwmpos03.akamaized.net/out/v1/0484a3feb7684efb9fc80ec56d66d005/manifest.mpd``67617db114014f4c85793b3a23224839:3029635a44a54dc78be8f740728a55f5
