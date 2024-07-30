@@ -1,4 +1,5 @@
 RTB Aneka Go	https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
+Badminton Channels	`0https://rakettvcom.blogspot.com/2024/07/bwf_28.html
 Olympics Channel 1	https://d30aylox5wvifh.cloudfront.net/event/smil:ag1/manifest.mpd
 Olympics Channel 2	https://d30aylox5wvifh.cloudfront.net/event/smil:ag2/manifest.mpd
 Olympics Channel 3	https://d30aylox5wvifh.cloudfront.net/event/smil:ag3/manifest.mpd
@@ -157,12 +158,6 @@ Sport en France	https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
 HRT1	https://webtvstream.bhtelecom.ba/hrt1.m3u8
 HRT2	https://webtvstream.bhtelecom.ba/hrt2.m3u8
 HRT3	https://webtvstream.bhtelecom.ba/hrt3.m3u8
-Badminton 1a	https://lebo.huminbird.cn/live/ballbar_31370.m3u8
-Badminton 1b	https://wakacha.github.io/live/c1.m3u8?7
-Badminton 2a	https://lebo.huminbird.cn/live/ballbar_38540.m3u8
-Badminton 2b	https://wakacha.github.io/live/c2.m3u8?7
-Badminton 3a	https://lebo.huminbird.cn/live/ballbar_39470.m3u8
-Badminton 3b	https://wakacha.github.io/live/c3.m3u8?7
 ID SpoTV 1	01`00a133/beib1/index.m3u8?c
 ID SpoTV 2	01`00a133/beib2/index.m3u8?c
 ID Football	https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_hls/rcti-soccerchannel-hd.m3u8?c
@@ -179,6 +174,7 @@ ID Indosiar 2	https://proji.glitch.me/https://atemecdnbalancer-voe.sysln.id/live
 ID SCTV	https://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
 ID TVRI Sport	https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 ID TVRI	https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
+ID RRI Net	https://private-streaming.rri.go.id/memfs/ff303a23-f1db-4cb3-95f9-4ae7bef2a392.m3u8
 Belarus 24	https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
 Belarus 1	https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8
 Belarus 2	https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8
@@ -468,19 +464,6 @@ DAZN Eleven 5	01`01a5801`01b
 DAZN Eleven 6	01`01a5901`01b
 CTV 1	`0https://live.sportsnews.id/p/ctv.html
 CTV 2	`0https://live.sportsnews.id/p/ctv2.html
-Sports 1	https://katanaboss.online/chunklist/hlsch1.m3u8?7
-Sports 2	https://katanaboss.online/chunklist/hlsch2.m3u8?7
-Sports 3	https://katanaboss.online/chunklist/hlsch3.m3u8?7
-Sports 4	https://katanaboss.online/chunklist/hlsch4.m3u8?7
-MY Masters 2024 Court 2	`0https://www.youtube.com/embed/t6ALEwdpJ0c
-MY Masters 2024 Court 3	`0https://www.youtube.com/embed/1XfuEnVhfm8
-MY Masters 2024 Court 4	`0https://www.youtube.com/embed/UhJ6eUnKhn4
-Badminton Court 1	`0https://www.youtube.com/embed/cNsiTwGChtg?si=Rthu9WLfZ5KhcVJ-
-Badminton Court 2	`0https://www.youtube.com/embed/nX-lUk3CC5A?si=Ai7mhJ5A1Mg4qgqz
-Badminton Court 3	`0https://www.youtube.com/embed/DKDUdQW-W6U?si=VB3Ob-0XwP4EWy-k
-Badminton Court 4	`0https://www.youtube.com/embed/sqZCicGeQds?si=tNePzqDoM6EQy3f-
-Badminton SW 1	`0https://www.youtube.com/embed/BKLakc-QLkA?si=9n4dfRCHtEsJjrAG
-Badminton SW 2	`0https://www.youtube.com/embed/jgLCuQ6dNL0?si=PeRCLwTMuON8e2LT
 UCL Infinity 1	https://live03p-seg.msf.cdn.mediaset.net/live/ch-u1/u1-dash-widevine.isml/manifest.mpd``00f9f3c0783536b832a8f0326fbdc02e:ade0533ba667bb7e9847d8f215f03076
 UCL Infinity 2	https://live03p-seg.msf.cdn.mediaset.net/live/ch-u2/u2-dash-widevine.isml/manifest.mpd``00f9f3c0783536b834b0f0c2bfee80ac:76b3afbf163f9c3feb6204b8fcf0ff53
 UCL Infinity 3	https://live03p-seg.msf.cdn.mediaset.net/live/ch-u3/u3-dash-widevine.isml/manifest.mpd``00f9f3c0783536b8342d78d46c8c202a:8d2e953821d36c942161be09930d2bd4
@@ -563,10 +546,6 @@ Sky Sport 259	https://linear311-it-dash1-prd-ll.cdn13.skycdp.com/31613/skysport2
 FUTV	https://cdn02.teletica.com/StreamFutv/Streamfutv04122023/playlist.m3u8
 Extreme Sports	https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:153_HD.smil/manifest.mpd``8518dcac42e4cfeb420ae4b5a633e23:d87181be4661c2b67d518860e98438fd
 Moto Adv	https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:68_HD.smil/manifest.mpd``ba07f96a90c24d9cab511c6698c79010:e4f8e87e4056ac60c577ac06ac0b02fd
-Badminton 1	`0https://hls.123movie.win/?ftm=https://lebo.huminbird.cn/live/ballbar_36470.m3u8
-Badminton 2	`0https://hls.123movie.win/?ftm=https://lebo.huminbird.cn/live/ballbar_37900.m3u8
-Youth Football Arena 1	https://channel-e3a5e184c3f5710d.live.sportall.media/IiANTo7nKemR.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjIwMjMwOTI4Xzk0YzZjNzQ0ODhlNTA3ODk1YjAxIn0.eyJpcCI6ZmFsc2UsImNvIjpmYWxzZSwiY3R5IjpmYWxzZSwicmVnIjpmYWxzZSwic3NuIjp0cnVlLCJleHAiOjE3MTc4NjE1MzAsImhlYWRlcnMiOltdLCJxcyI6W10sImludHNpZyI6IkFpZzFKRzkxYTc1UFZxUnFnUXBSSzFFM01ub2d4T3BtSzMzY2dyWG13bWsiLCJwYXRocyI6WyIvb3V0L3YxLzE4ZmUyY2VkYzc0ODQxZmU4NDVmZDAyYzk3ODBhOGUwLyJdLCJleGMiOlsiL3RtLyJdLCJuYmYiOjE2NDUwMDAwMDAsImlhdCI6MTcxNzY4ODczMH0.wVVFksvN4PVYUTs5bqgfzOaZhQtiz48dctMyhFHJ3T4/out/v1/18fe2cedc74841fe845fd02c9780a8e0/index.m3u8
-Youth Football Arena 2	https://channel-b5340f166c1838b7.live.sportall.media/5V6KUykxmRMm.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjIwMjMwOTI4Xzk0YzZjNzQ0ODhlNTA3ODk1YjAxIn0.eyJpcCI6ZmFsc2UsImNvIjpmYWxzZSwiY3R5IjpmYWxzZSwicmVnIjpmYWxzZSwic3NuIjp0cnVlLCJleHAiOjE3MTc4NTYxNTUsImhlYWRlcnMiOltdLCJxcyI6W10sImludHNpZyI6IjlHT0UteFdVbFVRRktYbUkxLXRhMXN4RUJnT2JLeWtkSENwODJzNUpMN3ciLCJwYXRocyI6WyIvb3V0L3YxLzdlMDhkMzBiZTUxZTQ0MGJhMjM5MjY4ODE5ZTNmOWJjLyJdLCJleGMiOlsiL3RtLyJdLCJuYmYiOjE2NDUwMDAwMDAsImlhdCI6MTcxNzY4MzM1NX0.2LeCh7BlmYGWXjGiBej_UdUv8332-zQ7XQSfmPqKLzc/out/v1/7e08d30be51e440ba239268819e3f9bc/index_5.m3u8?start=1717677880
 TV360	https://live-bd2.tv360.vn/lG-MXTyOwt8hQ__f5PJD7A/1719056883/manifest/sukien/playlist_720p.m3u8?manifestfilter=video_bitrate:1-3600000&uid=231754708
 CN Live Sports	https://lebo.huminbird.cn/live/ballbar_22420.m3u8
 PT OneToro	https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$MundotoroTV_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
