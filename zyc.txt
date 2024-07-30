@@ -1,3 +1,3 @@
-{h} * JP takelab	^^https://raw.githubusercontent.com/take2560/takelab/main/jp.m3u
-{h} * JP IPTV	^^https://raw.githubusercontent.com/take2560/Japan-IPTV/main/jp.m3u
-{h} * Raku	^^https://raw.githubusercontent.com/Justryuz/jtv/main/2.raku.m3u
+{h} * JP takelab	^^hhttps://raw.githubusercontent.com/take2560/takelab/main/jp.m3u
+{h} * JP IPTV	^^hhttps://raw.githubusercontent.com/take2560/Japan-IPTV/main/jp.m3u
+{h} * Raku	^^hhttps://raw.githubusercontent.com/Justryuz/jtv/main/2.raku.m3u
