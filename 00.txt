@@ -6,17 +6,17 @@ Olympics Channel 3	https://d30aylox5wvifh.cloudfront.net/event/smil:ag3/manifest
 Olympics Channel 4	https://d30aylox5wvifh.cloudfront.net/event/smil:ag4/manifest.mpd
 Olympics Channel 5	https://d30aylox5wvifh.cloudfront.net/event/smil:ag5/manifest.mpd
 Olympics Channel 6	https://d30aylox5wvifh.cloudfront.net/event/smil:event1/manifest.mpd
-Olympics Channel 07	https://testcors.starlive.workers.dev/https://mwmpos02.akamaized.net/out/v1/2f39077458694b06bdfb15ef16f55d45/manifest.mpd``4d2b7b722f564526800fd7cb058303b5:2fed1593855c46873731379f3ab2d669
-Olympics Channel 08	https://testcors.starlive.workers.dev/https://mwmpos04.akamaized.net/out/v1/c51d077e70d44638a9cbf99968e1491d/manifest.mpd``817e95985f9341839d4fb082527950ec:d146f45ec3e5a37b096aeca94a8556d5
-Olympics Channel 09	https://mwmpos01.akamaized.net/out/v1/5c607c72d136423ab639168c101ad964/manifest.mpd``b5f778f91da94ad3badf79571db6ac2f:ba1c5c23fdaa9e597f5086da1beb8efb
-Olympics Channel 10	https://mwmpos01.akamaized.net/out/v1/5f4a01d67c374c05987ef5175315ae32/manifest.mpd``b46e28db69004254aad034dd09c0deaa:64eb1db1b8c1eda6fdaefd0617c72102
+Olympics EuroSport 1	https://cache3.zapitv.com/live/eds_c2/eurosport_1_hd/dash_live_enc/eurosport_1_hd.mpd``237be8ca9383755e9f5784dd23f545eb:15a723773c3b3cbce295c0aed0bc71c3
+Olympics EuroSport 1	https://cache3.zapitv.com/live/eds_c2/eurosport_2_hd/dash_live_enc/eurosport_2_hd.mpd``15382879a9bcfa6f1a04a86d5b4324e9:664241133368ab039dc1fb15206ba54b
 Olympics USA West	https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd``252a671825ba31ec8433f978c32ccf6d:ee560759ecc8d2274df2e63fcef56915
 Olympics Universo East	https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(universo-east)/master.mpd``232d71bb013d39ffb92ee8c576fb7e8e:087408a48be8d57046c3868b37ea90ba
 Olympics MeWatch 1	https://mwmpos03.akamaized.net/out/v1/0484a3feb7684efb9fc80ec56d66d005/manifest.mpd``67617db114014f4c85793b3a23224839:3029635a44a54dc78be8f740728a55f5
 Olympics MeWatch 2	https://mwmpos01.akamaized.net/out/v1/a054e78fe6c7439faec28e9f71b16672/manifest.mpd``00c74743daaa4519b2d3d6b6e7a9a89c:87f7e82f78206a846a85bb214e619ed1
-Olympics MeWatch 5	https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd``607b7d22565c4bc3b95ff6c33ce65425:28cc5367df666c44be4382e64af64d57
-Olympics EuroSport 1	https://cache3.zapitv.com/live/eds_c2/eurosport_1_hd/dash_live_enc/eurosport_1_hd.mpd``237be8ca9383755e9f5784dd23f545eb:15a723773c3b3cbce295c0aed0bc71c3
-Olympics EuroSport 1	https://cache3.zapitv.com/live/eds_c2/eurosport_2_hd/dash_live_enc/eurosport_2_hd.mpd``15382879a9bcfa6f1a04a86d5b4324e9:664241133368ab039dc1fb15206ba54b
+Olympics MeWatch 3	https://testcors.starlive.workers.dev/https://mwmpos02.akamaized.net/out/v1/2f39077458694b06bdfb15ef16f55d45/manifest.mpd``4d2b7b722f564526800fd7cb058303b5:2fed1593855c46873731379f3ab2d669
+Olympics MeWatch 4	https://testcors.starlive.workers.dev/https://mwmpos04.akamaized.net/out/v1/c51d077e70d44638a9cbf99968e1491d/manifest.mpd``817e95985f9341839d4fb082527950ec:d146f45ec3e5a37b096aeca94a8556d5
+Olympics MeWatch 5	https://mwmpos01.akamaized.net/out/v1/5c607c72d136423ab639168c101ad964/manifest.mpd``b5f778f91da94ad3badf79571db6ac2f:ba1c5c23fdaa9e597f5086da1beb8efb
+Olympics MeWatch 6	https://mwmpos01.akamaized.net/out/v1/5f4a01d67c374c05987ef5175315ae32/manifest.mpd``b46e28db69004254aad034dd09c0deaa:64eb1db1b8c1eda6fdaefd0617c72102
+Mediacorp MeWatch 5	https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd``607b7d22565c4bc3b95ff6c33ce65425:28cc5367df666c44be4382e64af64d57
 EuroSport HD 1	http://edge02.odtv.az/o7/eurosport/playlist.m3u8
 EuroSport HD 2	http://edge02.odtv.az/o3/eurosport2/playlist.m3u8
 BHRT	https://webtvstream.bhtelecom.ba/hls19/bht1.mpd``c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
@@ -346,6 +346,8 @@ Sports Live 3	`0https://streambtw.com/iframe/ch3.php
 Boxing 1	`0https://streambtw.com/iframe/box1.php
 Boxing 2	`0https://streambtw.com/iframe/box2.php
 UFC	`0https://streambtw.com/iframe/ufc.php
+KH Rasmey Hang Meas	https://andi-cors-proxy-service-k8s.andisearch.com/http://clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/playlist.m3u8
+KH Hang Meas HDTV	https://andi-cors-proxy-service-k8s.andisearch.com/http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/playlist.m3u8
 CCTV 1	https://node3.olelive.com:6443/live/CCTV1HD_360/hls.m3u8
 CCTV 2	https://node3.olelive.com:6443/live/CCTV2HD_360/hls.m3u8
 CCTV 4	https://op-group1-swiftservesd-1.dens.tv/s/s19/index.m3u8
@@ -632,8 +634,6 @@ Dubai Racing 3	https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubas
 USA East	https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd``882c9f5613b43b47adc70aa968a308ce:de534ef8914bfe62ba3cdd6bdb9e1c04
 European Club Championship HD	https://pull.niues.live/live/stream-9912009_lhd.m3u8
 European Club Championship SD	https://pull.niues.live/live/stream-9912009_lsd.m3u8
-KH Rasmey Hang Meas	https://andi-cors-proxy-service-k8s.andisearch.com/http://clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/playlist.m3u8
-KH Hang Meas HDTV	https://andi-cors-proxy-service-k8s.andisearch.com/http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/playlist.m3u8
 Event S 01	https://pull.niues.live/live/stream-991140_lhd.m3u8
 Event S 02	https://pull.niues.live/live/stream-9912050_lhd.m3u8
 Event S 03	https://pull.niur.live/live/stream-278654_lhd.m3u8
@@ -671,7 +671,6 @@ Channel 25	`0https://rakettvcom.blogspot.com/2024/07/oly25.html
 Channel 26	`0https://rakettvcom.blogspot.com/2024/07/oly26.html
 Channel 27	`0https://rakettvcom.blogspot.com/2024/07/oly27.html
 Channel 28	`0https://rakettvcom.blogspot.com/2024/07/oly28.html
-Sky Sport F1	`0https://streambtw.com/iframe/f1.php
 {s} Ⓗa0 ⚽️Live Sports	^^sa0
 {s} Ⓜa1 🤹Multi	^^sa1
 {s} Ⓧa2 🤺eXtra	^^sa2
