@@ -10379,19 +10379,3 @@ Zylo ScreamIN&&https://zylo-screamin-rakuten.amagi.tv/hls/amagi_hls_data_rakuten
 龙口新闻综合 (576p)&&http://yslk.chinashadt.com:1635/live/stream:di1.stream/playlist.m3u8
 龙口生活 (576p)&&http://yslk.chinashadt.com:1635/live/stream:di2.stream/playlist.m3u8
 龙岩综合 (540p)&&http://stream.lytv.net.cn/2/sd/live.m3u8
-{s} Ⓗa0 ⚽️Live Sports	^^sa0
-{s} Ⓜa1 🤹Multi	^^sa1
-{s} Ⓧa2 🤺eXtra	^^sa2
-{h} Ⓞb0 Okay	^^hb0
-{h} Ⓒb1 Cool	^^hb1
-{h} Ⓕb2 Fun	^^hb2
-{h} Ⓦb3 Wow	^^hb3
-{s} Ⓢ 0 Samsung	^^s0
-{s} Ⓟ 1 Pluto	^^s1
-{h} Ⓘ 2 iptv.org	^^h2
-{s} Ⓥ 3 Movies Film 1	^^s3
-{h} Ⓨ 4 Movies Film 2	^^h4
-{h} Ⓩ 5 Movies Film 3	^^h5
-{h} Ⓣ 6 Movies Film 4	^^h6
-{h} * 7 Conspiracy Truth 1	^^h7
-{h} * 8 Conspiracy Truth 2	^^h8

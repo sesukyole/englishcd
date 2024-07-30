@@ -1,426 +1,426 @@
-Badminton 1&&`0https://www.hlsplayer.org/play?url=https://play1nm.hnyongshun.cn/live/ballbar_24130.m3u8
-Badminton 2&&`0https://www.hlsplayer.org/play?url=https://play1nm.hnyongshun.cn/live/ballbar_17760.m3u8
-Badminton 3&&`0https://www.hlsplayer.org/play?url=https://play1nm.hnyongshun.cn/live/ballbar_22670.m3u8
-Badminton 4&&`0https://www.hlsplayer.org/play?url=https://play1nm.hnyongshun.cn/live/ballbar_20870.m3u8
-Badminton Court 1&&`0https://www.youtube.com/embed/BKLakc-QLkA?si=9n4dfRCHtEsJjrAG
-Badminton Court 2&&`0https://www.youtube.com/embed/jgLCuQ6dNL0?si=PeRCLwTMuON8e2LT
-SCTV&&https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
-USANETWORK&&https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd``882c9f5613b43b47adc70aa968a308ce:de534ef8914bfe62ba3cdd6bdb9e1c04
-USANETWORK_WEST&&https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd``252a671825ba31ec8433f978c32ccf6d:ee560759ecc8d2274df2e63fcef56915
-PREMIER_LEAGUE_TV&&https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd``002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
-WWE&&https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc106wh3yw)/master.mpd``00208c93f4358213b52220898b962385:8ae6063167228e350dd132d4a1573102
-SSC1&&https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd``d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
-SSC2&&https://ssc2-ak.akamaized.net/out/v1/a16db2ec338a445a82d9c541cc9293f9/index.mpd``8bcfc55359e24bd7ad1c5560a96ddd3c:b5dcf721ab522af92a9d3bf0bd55b596
-SSC3&&https://ssc3-ak.akamaized.net/out/v1/42e86125555242aaa2a12056832e7814/index.mpd``7de5dd08ad8041d586c2f16ccc9490a1:5e1503f3398b34f5099933fedab847ef
-SSC4&&https://ssc4-ak.akamaized.net/out/v1/5267ea5772874b0db24559d643eaad93/index.mpd``5c672f6b85a94638872d0214f7806ed4:bf8756fbb866ee2d5c701c2289dd8de3
-SSC5&&https://ssc5-ak.akamaized.net/out/v1/99289eac5a7b4319905da595afbd792b/index.mpd``c88b512b17ab4f6cb09eb0ff4a1056ed:adc08ee1c20a734972a55c9aebbd1888
-SSC_EXTRA1&&https://ssc-extra1-ak.akamaized.net/out/v1/647c58693f1d46af92bd7e69f17912cb/index.mpd``ecbc9e6fe6b145efb6658fb5cf7427f8:03c17e28911f71221acbc0b11f900401
-SSC_EXTRA2&&https://ssc-extra2-ak.akamaized.net/out/v1/8b70de2b70d447ba8a7450ba90926a2d/index.mpd``4d89249bd4ca4ebc9e70443265f9507d:cf074ffd2646c9c2f8513b47fa57bc30
-SSC_EXTRA3&&https://ssc-extra3-ak.akamaized.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/index.mpd``98cfd6fd4812497fb24dc75f7545f2ee:d3006ee69e77b25939728ebf30d3180a
-SSC_NEWS&&https://ssc-news-live-ak.akamaized.net/out/v1/ef466f43623c4bbaa3f905b566ec35ea/index.mpd``3d04975236a44f62857d181597705ee6:362133e9cb13189ad4fe095ced216f60
-ESPN_NL&&https://da-d436234320010b88000103020000000000000005.id.cdn.upcbroadband.com/wp/wp1-vxtoken-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000107_019441/_shared_05e8c13b39b3f30524c26012f903ed7f/NL_000107_019441.mpd``3e999e38253834baa63881ea451f2839:99b88d9cde1d8986decbc5985da87187
-ESPN_NL_2&&https://da-d436234420010b88000103020000000000000006.id.cdn.upcbroadband.com/wp/wp2-vxtoken-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000108_019561/_shared_05e8c13b39b3f30524c26012f903ed7f/NL_000108_019561.mpd``3e999e38253834baa63881ea451f2839:99b88d9cde1d8986decbc5985da87187
-ESPN_NL_3&&https://da-d436234320010b88000103020000000000000005.id.cdn.upcbroadband.com/wp/wp3-vxtoken-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000109_019464/_shared_05e8c13b39b3f30524c26012f903ed7f/NL_000109_019464.mpd``3e999e38253834baa63881ea451f2839:99b88d9cde1d8986decbc5985da87187
-ESPN_NL_4&&https://da-d436234b20010b8800010302000000000000000d.id.cdn.upcbroadband.com/wp/wp4-vxtoken-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000110_019562/_shared_05e8c13b39b3f30524c26012f903ed7f/NL_000110_019562.mpd``3e999e38253834baa63881ea451f2839:99b88d9cde1d8986decbc5985da87187
-TSN1_CA&&https://live-ctv.video.9c9media.com/f/TSN/TSN1/manifest.mpd``dea83ced0141424e983e1afe463b4b0d:c00dd5dd17b0799aa4013f365a1393ce
-TSN2_CA&&https://live-ctv.video.9c9media.com/f/TSN/TSN2/manifest.mpd``ddc52c88e2c24d38a5bc8dda8a2acb61:ad5ea485464a13eec7dda3249c556446
-TSN3_CA&&https://live-ctv.video.9c9media.com/f/TSN/TSN3/manifest.mpd``c0f378ad54e14a9c85a3d8c986d2a51f:5e1d040743ff78715e464ffb905e68a9
-TSN4_CA&&https://live-ctv.video.9c9media.com/f/TSN/TSN4/manifest.mpd``f0a2efd11e0643c3a45d6f67d02f1a97:85bf4469003bd28f01ea4fefedd5a431
-TSN5_CA&&https://live-ctv.video.9c9media.com/f/TSN/TSN5/manifest.mpd``cb57741a1cee422690c6294a06eb1320:7a0cfd493df6ef7cc0d0bb3ad95cec8c
-ASIAN_CUP&&https://mwmpos03.akamaized.net/out/v1/64a59477c5d34afba754e763bb12ac81/manifest.mpd``d31e0ee60e034e228e7f219650c0d6e2:c50c247d5a34c1fbd565ad31886287cb
-SKY_PREMIER_LEAGUE&&https://linear009-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportspremierleague)/manifest_720.mpd``00057ef2c5dd6fa01e7275e4ce9b98a6:de0a1a300adbd4ba1fcd27f51d4b5364
-SKY_SPORTS_MAIN_EVENT&&https://linear001-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportsmainevent)/manifest_720.mpd``00050559cd31897cd28ef1cad1857606:32203d3d424a70258a9f676316681bea
-SKY_SPORTS_FOOTBALL&&https://linear019-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportsfootball)/manifest_720-120.mpd``00051940357f91714b419a79af5a5f9a:f4e7d0c43db524393ba85fd240d9cd6e
-SKY_SPORTS_F1&&https://linear005-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportsf1)/manifest_720.mpd``0005ff0d8408fc02af0ca5355a84546e:f517ede498c9c7a7abea6465c633d449
-SKY_SPORT_F1_IT&&https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/31478/FHD/skysportf1/master.mpd``00366649eb2eb82ee172e1bd310e4136:27e85c17d97722288ffa5970389d8baf
-SKY_SPORTS_ARENA&&https://linear028-gb-dash1-prd-cf.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportsarena)/manifest_720.mpd``00057b3ded07f870751d40e6d0fe116e:12ef5b135d7ac0f6fb9018b74374586a
-SKY_SPORTS_ACTION&&https://linear013-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportsaction)/manifest_720.mpd``0003d0fbdf31675b39ee3ea8b9f0ce68:ebfa3109af67dc34a10321f78627b631
-SKY_SPORTS_MIX&&https://linear034-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportsmix)/manifest_720.mpd``00051d6cdd7231b7370dcf8eb66cf618:06f88d449edec6e4389950b0bda5cd68
-SKY_SPORTS_GOLF&&https://linear003-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportsgolf)/manifest_720.mpd``00059e65ef792d6cfcb2a2300abdc687:043c818ab0e02389446b0cd3b89072fb
-SKY_SPORTS_TENNIS&&https://da-d436236320010b88000103030000000000000005.id.cdn.upcbroadband.com/wp/wp6-vxtoken-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000099_019256/_shared_cc010062b17300c4504b6ab5681b5417/NL_000099_019256.mpd``000364189270b77b298a752a45f5cba3:387bbc9ca6e34310f3581ad047272c9c
-SKY_SPORTS_CRICKET&&https://linear007-gb-dash1-prd-cf.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportscricket)/manifest_720-120.mpd``00056d5c8882917a4463d5b42ba86c31:226c39dd7d41b6f0e27cb7d8940f644f
-SKY_SPORTS_CRICKET_2&&https://linear007-gb-dash1-prd-cf.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportscricket)/manifest_720-120.mpd``00056d5c8882917a4463d5b42ba86c31:226c39dd7d41b6f0e27cb7d8940f644f
-SKY_SPORTS_RACING&&https://linear036-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportsracing)/manifest_720.mpd``00050e1ce745004e9193899c091d7aae:35c88cb4ab2d667b08aa082124803d39
-SKY_SPORTS_NEWS&&https://linear030-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportsnews)/manifest_720.mpd``00057bfb9cf2fc40b5ed61f9c8a41d54:cb9908093e35e3c3f7db06f55913cce0
-BEIN_SPORTS&&https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227927/3221227927.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawgQY43Tg5eLk6%2BKHkOBbkVIq%2FzwD5xYAe8dI3PltEQ%2BUrcymHBIhx5oJP4jv2fPK0%3D%3A20230206101746%3AUTC%2C1003663983%2C115.164.187.20%2C20230206101746%2Curn:Huawei:liveTV:XTV55456338%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOQY_CIBSE_w1HApSqPXByY2Jiqol1r-YBD2xKi0I18d_brt25vZn5XmZMYHD_o4oNc9pVVsvSSF45raWoDCvEdBQlSpLxUUcliIEQ2sHX0c7Y73l75YwyKgSnXJBmfrcL4Jdm_ew1JlX8Y2dMr9agstnRF2QK3if0MLZxoKcA70sKS4Vgs0zjq3W5qpicJNZknN0Gcjcl5AZ5G_s7JLSH6P8A5SBkJHcwHXisoUc1PEP4csdkpzUfwVvnv_QAAAA&tenantId=6001``94663e64ef81e90a9deeb0f1993ce11c:9d6f78876677b543cd4e18c846aa2481
-BEIN_SPORTS_2&&https://pop5clustera00de07172379a62d6189.hypp.tv:443/PLTV/88888888/224/3221227971/3221227971.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawgQY43Tg5eLk6%2BKHkOBbkVv%2FaciHRqnNnDuZfWMEk6l0rcymHBIhx5oJP4jv2fPK0%3D%3A20230206101746%3AUTC%2C1003663983%2C115.164.187.20%2C20230206101746%2Curn:Huawei:liveTV:XTV59922231%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWPQU-EMBSE_02PDX2LUA49rdnExKDJolcztI9KttC1ZTfx3wuKc3wz38vMkmD56dEMKEB1rQlDX6raNWh6TfqAinRflVZk_mqjIWERwjj7NroNez8fP1QhC0mkpCLRbe9OAX5Ptrep52QO_9iZ0320bFwe5B1ZwvvEHssYZ_ka8P2Wwh4R3O3VVFU_VE1RriItlu3aIV9WR3wiH-N0RWL3HP0vsC4JmcUV9gLPLSY28y2EP-4lubXND5_xMYT0AAAA&tenantId=6001``1c983e5a03b0f8adde686ef20497e2b4:f7b1d6556850b472f4f683519f4e41f7
-BEIN_SPORTS_3&&https://pop5clustera00de07172379a62d6189.hypp.tv:443/PLTV/88888888/224/3221227892/3221227892.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawRjfkMvdAX9TZ5I%2BbsmfrUDhVRD65aYf%2BjyDsSSHpLfkrcymHBIhx5oJP4jv2fPK0%3D%3A20230206102855%3AUTC%2C1003663983%2C115.164.187.20%2C20230206102855%2Curn:Huawei:liveTV:XTV55456355%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOwQ6CMBBE_6bHhpYCeuhJY2Ji0AT0atbtUomFagsm_r2ieJ2ZN3lDAKTtWjeXQmUyRcpypVCYJaIiVAmmgFlDgkV6lF5LhuBc29vSmwk7VauzSHjCpRRcSFZPdxsHdl6WY3ehoNM_VlF4tkjaxIY_IXKwNpCFofU9Pzh4HYObJ4zqWU3kRZYvE1VIpRZsmNIa4u3TsCvEle_uEMjsvP0CugEXid0Bb2CphI50Pzr34_bBfGzeA19EPPQAAAA&tenantId=6001``0d2418cc6a29a3516d1854ab2973f25f:4979b73603b430465aa4e7bbdefbc4cc
-USA_NETWORK&&https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd``882c9f5613b43b47adc70aa968a308ce:de534ef8914bfe62ba3cdd6bdb9e1c04
-BEIN_SPORTS_4_TH&&https://pop5clustera00de07172379a62d6189.hypp.tv:443/PLTV/88888888/224/3221227937/3221227937.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawRjfkMvdAX9TZ5I%2BbsmfrU7%2B8kYXzOcpo3wc%2BwgB1By0rcymHBIhx5oJP4jv2fPK0%3D%3A20230206102855%3AUTC%2C1003663983%2C115.164.187.20%2C20230206102855%2Curn:Huawei:liveTV:XTV57682031%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOwY6CMBRF_6bLpn10wC660piYTHASGbfmUR6VWKi2QDJ_P6K4vfeemzNGtHTYGRKbPMu0shsAVdu2FlDkYNtMo4RaS5boUQYDzKL33eDK0CzY-bS9SMEFB5BcAquWu71Hty7Lqa8pmuyDnSjOnSXTpJbPmDg6F8nh2IWB_3j8-41-nTCqVjWZF1-5FqoApTQbl7TCdHs27IppG_o7Rmq-g3sBpkWfiN3R3tBRiT2ZYfL-zR1j87T5B0NkEFD0AAAA&tenantId=6001``94663e64ef81e90a9deeb0f1993ce11c:9d6f78876677b543cd4e18c846aa2481
-BEIN_SPORTS_5_TH&&https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0005/DASH/S0005.mpd``3a165f923cd49e616f173fc6c341cc56:4cb96186d69f1a63c40218812a6f6910
-BEIN_SPORTS_6_TH&&https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0006/DASH/S0006.mpd``ceac4607562049abb9d1b0309d9cd6f3:d396d277a364fab00d0193d25b700847
-BEIN_SPORTS_7_TH&&https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0007/DASH/S0007.mpd``94a28a75b3891e92a97efbe76f941095:7b39cd0e318ee481b98c36a125c540fb
-ZIGGO_SELECT&&https://da-d436236720010b88000103030000000000000009.id.cdn.upcbroadband.com/wp/wp1-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000094_019321/_shared_cc010062b17300c4504b6ab5681b5417/NL_000094_019321.mpd``16bf72dc22743d929c4318e193408373:eae51a1e3904124963074cbf432c7c8e
-ZIGGO_VOETBAL&&https://da-d436234620010b88000103020000000000000008.id.cdn.upcbroadband.com/wp/wp2-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000095_019371/_shared_cc010062b17300c4504b6ab5681b5417/NL_000095_019371.mpd``16bf72dc22743d929c4318e193408373:eae51a1e3904124963074cbf432c7c8e
-ZIGGO_DOCU&&https://da-d436236620010b88000103030000000000000008.id.cdn.upcbroadband.com/wp/wp5-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000098_019255/_shared_cc010062b17300c4504b6ab5681b5417/NL_000098_019255.mpd``16bf72dc22743d929c4318e193408373:eae51a1e3904124963074cbf432c7c8e
-ZIGGO_TENNIS&&https://da-d436236320010b88000103030000000000000005.id.cdn.upcbroadband.com/wp/wp6-vxtoken-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000099_019256/_shared_cc010062b17300c4504b6ab5681b5417/NL_000099_019256.mpd``16bf72dc22743d929c4318e193408373:eae51a1e3904124963074cbf432c7c8e
-ZIGGO_SPORT&&https://da-d436236920010b8800010303000000000000000b.id.cdn.upcbroadband.com/wp/wp7-vxtoken-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000014_019661/_shared_6a89db18ec4202bae4d424e84c1f46a2/NL_000014_019661.mpd``0be3d503dba13fc9a9c8ad4b89f599e6:578c2231c526c5e9eb415411e36871bf
-PREMIER_SPORTS_1_IRL&&https://linear001-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(premiersports1)/manifest_720.mpd``0005b3dba78ae0fe7a9288022d3b3736:d2827df80dd7e9243ba6b5bbda5dfa82
-PREMIER_SPORTS_2_IRL&&https://linear031-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(premiersports2)/manifest_720.mpd``0005d61a0ac86aca28176591b21ae2d9:f87ad1430a7a38fd0ac248fc9a8389b1
-ESPN_DEPORTES_USA_VPN&&https://linear.stvacdn.spectrum.com/LIVE/1166/dash/cenc/ESPNDHD_13667/manifest.mpd``be65e5985fa04a49af310f0a92a0260a:1acb5ff7b0dbfdf19c4dca1aabfaaa11
-DAZN_LALIGA&&https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd``43d1c3b25207ff38b22ccfe17d302367:7b1f85f6e81059473b114c16a25c829a
-TUDN_USA_VPN&&https://linear.stvacdn.spectrum.com/LIVE/1131/dash/cenc/TUDNUH_8283/manifest.mpd``85c8956b207c44a693d89984803c908b:8d8ff21c464506ef396356dd761f5ccd
-SPORT_TV_1PT&&https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SPORTTV1_HD/index.m3u8/S!d2EISU9TX0xpdmUSBkPIS1XDVP7...8BFgyf/Level(3000000)
-SPORT_TV_2PT&&https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SPORTTV2_HD/index.m3u8/S!d2EISU9TX0xpdmUSBkPIS1XDVP7...8BFgyf/Level(3000000)
-SPORT_TV_3PT&&https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SPORTTV3_HD/index.m3u8/S!d2EISU9TX0xpdmUSBkPIS1XDVP7...8BFgyf/Level(3000000)
-SPORT_TV_4PT&&https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SPORTTVLive_HD/index.m3u8/S!d2EISU9TX0xpdmUSBkPIS1XDVP7...8BFgyf/Level(3000000)
-SPORT_TV_5PT&&https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SPORTTV_GOLFE_HD/index.m3u8/S!d2EISU9TX0xpdmUSBkPIS1XDVP7...8BFgyf/Level(3000000)
-SPORT_TV_6PT&&https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SPORTTV6_HD/index.m3u8/S!d2EJVFZPU19MaXZlEgJU.v...wEWBJ8_/Level(5242880)
-CANAL_11&&https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$C11_HD/index.m3u8/S!d2EISU9TX0xpdmUSBkPIS1XDVP7...8BFgyf/Level(3000000)
-TV_LA_1_ES&&https://cache3.zapitv.com/live/eds_c2/la1_4k/dash_live_enc/la1_4k.mpd``a3abc44525eef3b0a7af9138a9dbe34a:7740f8ae4223ce5ba293028f7f78f1c1
-TRUE_PREMIER_1_IN&&https://edge2.laotv.la/live/TSport1/index.m3u8
-TRUE_PREMIER_2_IN&&https://edge2.laotv.la/live/TSport2/index.m3u8
-VSPORTS_1_NO&&https://live-aws-scalstrm-cdn.rikstv.no/live/rikstv/644bb6e91dbc891fd422efc9/manifest.mpd``4d808f2b9a74536cadbd95be141888ed:9dd89f67b8885dc65721a8b1fbeae700
-VSPORTS_2_NO&&https://live-aws-scalstrm-cdn.rikstv.no/live/rikstv/644bb6e91dbc891fd422efef/manifest.mpd``0d3ff38c34985fdd81a37567646322b9:6b4504297769acefae2e50920b7c8a77
-VSPORTS_3_NO&&https://live-aws-scalstrm-cdn.rikstv.no/live/rikstv/644bb6ea1dbc891fd422f01e/manifest.mpd``fdcb8ee4623458e5832a92801fc723b1:634a67c44b7b7030872043df95c1a55e
-TV2_SPORT_PREMIUM_NO&&https://ch11-hls-live.akamaized.net/out/u/433127.mpd``d12e4c9dc52f4cbab7ac9b2278317e47:a7987e5b6ec42db68a25486e108ca9f2
-TV2_SPORT_1_NO&&https://live-aws-scalstrm-cdn.rikstv.no/live/rikstv/64393bf81dbc891fd41f53ac/manifest.mpd``0c6212056d2f51fcbf569f9a1a8517d1:d07b404deb7c958347d742e6d1d2f3f9
-BEIN_XTRA_N_ES&&https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
-TNT_1_GB&&https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd``ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
-TNT_1_GB_2&&https://linear001-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_30/Live/channel(tntsport1)/manifest_720.mpd``00057e0dcf77cadc027a69b60e145660:8517f2a86b1bd267fc71a207c9ea3e7a
-TNT_2_GB&&https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd``6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
-TNT_2_GB_2&&https://linear014-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_30/Live/channel(tntsport2)/manifest_720.mpd``0005520dcd30036b77b924cc5363cad0:ebc86cd5962affaa29593b75d73551ba
-TNT_3_GB&&https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd``4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
-TNT_3_GB_2&&https://linear001-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_30/Live/channel(tntsport3)/manifest_720.mpd``00051f0f971600aff940e2b5fddb6a60:816e7a26242bd0ab0c5323e55a97456c
-TNT_4_GB&&https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd``e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729
-TNT_4_GB_2&&https://linear014-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_30/Live/channel(tntsport4)/manifest_720.mpd``00055a412a3890d72fae79895095c792:63eb81d4f0e0b1c85f9592ab59c13b9a
-TNT_5_GB&&https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/gesdwrdncn/out/v1/79e752f1eccd4e18b6a8904a0bc01f2d/cenc.mpd``60c0d9b41475e01db4ffb91ed557fbcc:36ee40e58948ca15e3caba8d47b8f34b
-TV2_Sport_1_NO&&https://live-aws-scalstrm-cdn.rikstv.no/live/rikstv/64393bf81dbc891fd41f53ac/manifest.mpd``0c6212056d2f51fcbf569f9a1a8517d1:d07b404deb7c958347d742e6d1d2f3f9
-SBT_BR&&https://0006-bbc.dtvott.com/dash_live_0035/manifest.mpd``3ad3dca103185934acff7a0e9000c112:3f396659d841a55cd1381e6735ecfa1d
-CLUB_1_BE&&https://origin2-rtlbe.live.6cloud.fr/pool_z6h2o6qd/clubrtl/rtlbesd/dash_short_cenc10_clubrtl/index.mpd``b53316f32fc93b51a61ba6fdf0bce6c1:d752d66843a48a6fed64eed8f87adc3e
-CANALE_5_IT&&https://live03p-seg.msf.cdn.mediaset.net/live/ch-c5/c5-dash-widevine.isml/manifest.mpd``00f9f3c0783536b8ce4a30a01a52e082:e926f7d45af4f7d154c990eae6a2d937
-ITV1_GB&&https://wp2-obc1112-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV09212/manifest.mpd``5d9937d586414096948337ac314d79c1:22ca2e250b729982c97209e0ff3f7e9b
-FOX_DEPORTES_USA&&https://linear.stvacdn.spectrum.com/LIVE/1106/dash/cenc/FXDEPHD/manifest.mpd``c9231d5e7a99429382e6a5c2e588e141:ca08ab407ab9393a814d720f1f41c6cf
-BandSports_BR&&https://0055-jbc.dtvott.com/dash_live_0054/manifest.mpd?da=1&country=BR&accountType=DTH&deviceType=web``bd1af42db82f5a17a0d75246f25f5201:a9edd4e2c410923e9cbcb261102e5008
-TV2_Sport_NO&&https://ch11-hls-live.akamaized.net/out/u/433127.mpd``d12e4c9dc52f4cbab7ac9b2278317e47:a7987e5b6ec42db68a25486e108ca9f2
-FUTV&&https://cdn02.teletica.com/StreamFutv/Streamfutv04122023/playlist.m3u8
-ITALIA_1&&https://live03p-seg.msf.cdn.mediaset.net/live/ch-i1/i1-dash-widevine.isml/manifest.mpd``00f9f3c0783536b8ee91704e23b78016:bfd04d6f544c9cc4d35cb13ab6778587
-CANAL_5&&https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
-SPORT_PLUS_DE&&https://ac-009.live.p7s1video.net/c5c609cf/t_009/sport1plus-de-hd/cenc-default.mpd``c1c11c3844b0dffdb9d9831900f1a1da:a2c31e15346f339ca2b47bdd8591553f
-HRT_2&&https://cdn1oiv.akamaized.net/hrtliveorigin/hrt2.smil/1/manifest.mpd``994c79af863838109e7f3503bcd2aff9:d2c19650ad2a2ac77a95453b941a6f0e
-INFINITY_PLUS_1&&https://live03p-seg.msf.cdn.mediaset.net/live/ch-u1/u1-dash-widevine.isml/manifest.mpd``00f9f3c0783536b832a8f0326fbdc02e:ade0533ba667bb7e9847d8f215f03076
-INFINITY_PLUS&&https://live03p-seg.msf.cdn.mediaset.net/live/ch-u2/u2-dash-widevine.isml/manifest.mpd``00f9f3c0783536b834b0f0c2bfee80ac:76b3afbf163f9c3feb6204b8fcf0ff53
-Astro_Bola&&https://d1fk7kbmz4il3.cloudfront.net/CH1/masterCH1.mpd``7481d3e3738c46768f138e208fee9076:e1d428c7f1ca82339a6cfa1d0757428e
-Astro_Bola_2&&https://d1fk7kbmz4il3.cloudfront.net/CH5/masterCH5.mpd``99685545491d40b493b3a4b263c7245e:7939e335bf8cbbd6882f9f5c9cdebe19
-Astro_Bola_3&&https://d1fk7kbmz4il3.cloudfront.net/CH3/masterCH3.mpd``ca4f5ff4e4694d54bdfdc9bd34384290:1100fe297146f7d024b59944f09e6d1a
-Astro_Supersport_UHD&&https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1601/default_primary.mpd``22fbef1c1cd725e9397ec16455f08210:7aea43cd93c24aa9834ecb4984f7fd5a
-Astro_Sports_1&&https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/601/default.mpd``ead0335d60401225727a6d531e9c2710:1ee3b252227c5c2ec9378c833d2e14ff
-Astro_Sports_2&&https://d3j4fjrwclc3o8.cloudfront.net/CH4/masterCH4.mpd``8f1da399325247eca6acdd7bafb95fa2:41f234fb88590af3b0d224111a61bf71
-Astro_Sports_3&&https://d3j4fjrwclc3o8.cloudfront.net/CH5/masterCH5.mpd``0d6d2a1ac8d14e19b17455650770cd99:ff65174f8ec5d4c88e8d8a21968563cf
-Astro_cricket&&https://linearjitp02-playback.astro.com.my/dash-wv/linear/2504/default_ott.mpd``03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4c
-Astro_Sports_4&&https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_ott.mpd``79f4028730acca9ab8b00f26158ddb10:91febe843c08c7cc523efd827292e40e
-Willow&&https://linear-novi.stvacdn.spectrum.com/LIVE/1131/dash/cenc/WLLOHD_10364/manifest.mpd``6653c05e42fc4fac8f49d7cbf99498fe:3b88f2cff3affef20b265c840bafc0cc
-VSport_1&&https://director.streaming.telia.com/tvm-packager-prod/group1/6089c17d47a23d76645ceaf4/manifest.mpd``04c5eaf62cd75f2d947ab4d621f39256:76967598962e7a7314a2b251e9070725
-VSport_Extra&&https://director.streaming.telia.com/tvm-packager-prod/group3/60ae4f5e1522bd739f6959a1/manifest.mpd``bc972382f04c531983b7aab6bf642ad8:ddfd212680eb891b755610eac5becf85
-Vsport_Football&&https://director.streaming.telia.com/tvm-packager-prod/group1/60896dfd47a23d7c065cd68c/manifest.mpd``ce37e20374e55be6bb4d26837af27605:52cc532f748fcbf2b806dad4289bf84c
-VSPORTS_ULTRA_HD&&https://director.streaming.telia.com/tvm-packager-prod/group3/60b76e87baa9d5ddc9262457/manifest.mpd``c02b1c0a644d5aa4b7176ae585c572dc:5a7799ea89ea65e3bac9a10684e616bc
-VSPORTS_PREMIUM_HD&&https://director.streaming.telia.com/tvm-packager-prod/group1/60896c3647a23d7f115cd57a/manifest.mpd``eab13e69793756eda77d8d71fda90d5d:cd022e9bffa6a0d1523ee5d9fcda9ed4
-TYC_International&&https://edge-live15-hr.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_Live_dash_enc/TyC_Internacional.mpd``58e1ebe75d944f6a98ea67b1c7c0a572:1c311b069dbce31ce8e62a6e7e2433eb
-TEN_CRICKET&&https://bpcdn.dialog.lk/bpk-tv/Ch065/output/index.mpd``abfc480ae7920a3ebd9e99e7b9a0d3e2:63a7fe4e7899ba2bc5bbd4307398f3ff
-SKY_SPORT_24_IT&&https://linear301-it-dash1-prd.selector.skycdn.it/016a/31035/FHD/skysport24/master_stereo.mpd``003618ccd7be22b6367207ed8d64d505:36e97f29ec5ea6126077cc040cc2ceeb
-SKY_SPORT_251_IT&&https://linear311-it-dash1-prd-akp2.cdn13.skycdp.com/016a/31917/FHD/skysport251/master.mpd``00368000eaecbeeafd84c05b3b8243af:8f84185910e18ae0ca8a45004625a000
-SKY_SPORT_252_IT&&https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/32951/FHD/skysport252/master.mpd``0036c4797608fc64296d437bc6f8b790:1689af84b23f514005f9bb854da7667f
-Sky_Sport_253&&https://linear311-it-dash1-prd-akg0.cdn13.skycdp.com/016a/32233/FHD/skysport253/master.mpd``00365b169a077daac5081277c3fd0c28:f68ab32a552e13509a8ee1c4d96204bc
-Sky_Sport_254&&https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/31234/FHD/skysport254/master.mpd``00369c14c20b78aadb1ec0e3c0e74979:e768767e2c7238d8069887bb36aed7fa
-Sky_Sport_255&&https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/32910/FHD/skysport255/master.mpd``0036b781a22ebb0c20c16ac27d5d1448:f309b94acfda720bf1ed5741489f8967
-Sky_Sport_256&&https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/31912/FHD/skysport256/master.mpd``00366f263859fc1cc82d2c4da6a66ef6:754ae922d113c54349002cd9a88694a4
-Sky_Sport_257&&https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/31775/FHD/skysport257/master.mpd``0036faeace9872d3ceeb8b1b63f0baa3:dbd41ee944243307d39b7b27f16615a8
-SKY_258_IT&&https://linear312-it-dash1-prd-ll.cdn13.skycdp.com/016a/32772/skysport258/master.mpd``0036fd8ccfddba47c8b40aeff63a797c:dfd5c9d0f4ac6f3a1bd89803399e7026
-SKY_SPORT_CALCIO_IT&&https://linear302-it-dash1-prd-ll.cdn13.skycdp.com/016a/31209/FHD/skysportseriea/master.mpd``0036e5d0e88dfb087f1791da6150ced9:0bc653d830837dceb13bd17169f0f8e2
-SKY_SPORT_MAX_IT&&https://linear305-it-dash1-prd-ll.cdn13.skycdp.com/016a/31248/FHD/skysportmax/master.mpd``0036ae9248d939e4e1cd2198d2593a42:efc6699e1756403916b0280ea63f4c28
-SKY_SPORT_MOTOGP_IT&&https://linear306-it-dash1-prd.selector.skycdn.it/016a/31483/FHD/skysportmotogp/master.mpd``0036ea2e908d4cc20ef08595da9ff991:08e1ae9fa0ee4d9ec2b194c4908613ae
-SKY_SPORT_NBA_IT&&https://linear301-it-dash1-prd.selector.skycdn.it/016a/31764/FHD/skysportnba/master_stereo.mpd``0036c4e453ae2a044f4c861ed73b560a:ea5626c0aa092c382ca58151b5f4b208
-SKY_SPORT_UNO_IT&&https://linear301-it-dash1-prd.selector.skycdn.it/016a/31023/FHD/skysportuno/master.mpd``00362452ed102000ccea64c311921dc2:02f27bd6caab7633d3083b94d3958b1c
-ESPN_AR&&https://chromecast.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc_2A/ESPN2HD.mpd``e884b711ab111beb8a7ba1e7bcbdc9bf:cb89ee3961599e3e648a5aad60895f34
-ESPN_2_AR&&https://chromecast.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_Live_dash_enc_2A/ESPN2_Arg.mpd``65a5bfa3c7a72dde60be9b0c7406c8fc:0b40ae9f78a7bac3b57ecbf72d3c081e
-ESPN_3_AR&&https://chromecast.cvattv.com.ar/live/c3eds/ESPN3/SA_Live_dash_enc_2A/ESPN3.mpd``f4c9f97e2a36feab0e5077f2b44cbc4e:1743cd03dfe3736b2c95da91a783af38
-ESPN_DEPORTES&&https://linear.stvacdn.spectrum.com/LIVE/1166/dash/cenc/ESPNDHD_13667/manifest.mpd``be65e5985fa04a49af310f0a92a0260a:1acb5ff7b0dbfdf19c4dca1aabfaaa11
-ESPN_EXTRA&&https://cdn.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc/ESPNHD.mpd``cc8d44406ed6bf1898ad9f7a2d64f29e:fb85d059687ab0fc67805806204edbdf
-FOX_DEPORTES_USA&&https://linear.stvacdn.spectrum.com/LIVE/1106/dash/cenc/FXDEPHD/manifest.mpd``c9231d5e7a99429382e6a5c2e588e141:ca08ab407ab9393a814d720f1f41c6cf
-FOX_SPORTS_AR&&https://chromecast.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc_2A/FoxSports.mpd``cbc2a0c7a38df0aa3333cd71841d3b0d:aac61b730e2ac1df23f1e872e7541c1b
-FOX_SPORTS_2_AR&&https://chromecast.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_enc_2A/FoxSports2HD.mpd``c98ddffc470fe449ae1a8d6492116976:5086d370e840010232cf4532b16e197f
-FOX_SPORTS_3_AR&&https://chromecast.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc_2A/FoxSports3HD.mpd``55b47390cf9e4997dae6dac85e057875:fa39e855543c5d70f30600d59e5e4c1b
-CRICLIFE_1&&https://criclive1.starzplayarabia.com/out/v1/1adbc63744e44594a273eb48ec027b65/index.mpd``a05a54bf469c6040a288477d0082ca65:4344373c32a573e73a42eeab936a98a9
-CRICLIFE_2&&https://criclive2.starzplayarabia.com/out/v1/1b232653e5254150a60a577cc8db682f/index.mpd``cf671610fa53cc56b07b1d235169fc81:50ac62719a1205fd08c01e368e27e3d4
-CRICLIFE_3&&https://cricmax.starzplayarabia.com/out/v1/6a04831479eb46efaaf840eb558371ef/index.mpd``b6045efd2889ce05f4800e2f7ac0d3ee:abf072f537b8f4872be45f971ba24503
-THE_PAPARE&&https://bpcdn.dialog.lk/bpk-tv/Ch126/output/index.mpd``01b1bafc996378ec0a7cb804aedca646:e1669c99c646fbbe4d4ade8dfe3a3963
-AIS_SPORTS_1&&https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/TL101/DASH/TL101.mpd``b6045efd2889ce05f4800e2f7ac0d3ee:abf072f537b8f4872be45f971ba24503
-CRICLIFE_MAX&&https://cmaxlive.starzplayarabia.com/out/v1/bebec73ea17b40b3bd0257ad8e97b531/index.mpd``ec2168a420478062ec89540dad862bdd:d6d63d7a1391d2a89fb12e5e1c5ced01
-STARSPORTS_1&&https://bpweb5.akamaized.net/bpk-tv/irdeto_com_Channel_250/output/manifest.mpd?hdnea=exp=1714014408~acl=/*~hmac=e60a68d2bd400aabe581aaeda793e56105be7c8d2be88a3e147e11704f61c555``a56bd657d7e8588a9bc975d10f78169b:0eb217bfb97294ff00e0c27150ee2140
-STARSPORTS_HINDI&&https://rftv.wtf/ch.mpd?id=24``24fe8f3887e0550db02ca596fd480175:79a62f3a5f3fa324f4de420d370a05b5
-STARSPORTS_2_SD&&https://bpcdn.dialog.lk/bpk-tv/Ch069/output/index.mpd``79b340b2b5f7c3c89951daabde7cdf97:3e22bc39d22a7f8c3516f6b58b144668
-STARSPORTS_2_HD&&https://rftv.wtf/ch.mpd?id=235``e5b99f622ea0573d94470d22b340d6c0:0f3c040b86b1a7f731565d71cf676401
-STAR_SELECT_1&&https://rftv.wtf/ch.mpd?id=246``c6fc677428aa54f29ffca8ae9737a1db:9f95277e4dc789b864d5bcb09a7431d6
-STAR_SELECT_2&&https://rftv.wtf/ch.mpd?id=463``8b95761b0dc7572e825eae11bd37cca9:74e598c7e140bba6cb14dd2189bc4111
-DAZN_1_ES&&https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd``44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
-DAZN_2_ES&&https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/xnk4m9bnxt/out/v1/4ced7b7329a54652b9bb0521ed38bd4d/cenc.mpd``0eab5a3f3e3b4ba5d42d40ca30d17571:f3f061ded9b70e8160590d5802ecda6d
-DAZN_F1&&https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/cqbcvgkb83/out/v1/4dbe05ecfb1540448d82d68eeebfbb1c/cenc.mpd``1061be12d303247426ec25e8369b2647:bd622b0e610295de3b0bccb850ccaaaa
-EUROSPORT_1_ES&&https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:43_HD.smil/manifest.mpd``05457a5e16a76fe666a22cc7ae2c6548:626e37901bfb985e994d714e9f9de1b5
-EUROSPORT_2_ES&&https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:59_HD.smil/manifest.mpd``05457a5e16a76fe666a22cc7ae2c6548:626e37901bfb985e994d714e9f9de1b5
-ELEVEN_SPORTS_1_PT&&https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Eleven_Sports_1_HD/index.m3u8/S!d2EJVFZPU19MaXZlEgJU.v...wEWBJ8_/Level(5242880)
-ELEVEN_SPORTS_2_PT&&https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Eleven_Sports_2_HD/index.m3u8/S!d2EISU9TX0xpdmUSBkPIS1XDVP7...8BFgyf/Level(1200000)
-ELEVEN_SPORTS_3_PT&&https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Eleven_Sports_3_HD/index.m3u8/S!d2EISU9TX0xpdmUSBkPIS1XDVP7...8BFgyf/Level(1200000)
-ELEVEN_SPORTS_4_PT&&https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Eleven_Sports_4_HD/index.m3u8/S!d2EISU9TX0xpdmUSBkPIS1XDVP7...8BFgyf/Level(1200000)
-ELEVEN_SPORTS_5_PT&&https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Eleven_Sports_5_HD/index.m3u8/S!d2EISU9TX0xpdmUSBkPIS1XDVP7...8BFgyf/Level(1200000)
-ELEVEN_SPORTS_6_PT&&https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Eleven_Sports_6_HD/index.m3u8/S!d2EISU9TX0xpdmUSBkPIS1XDVP7...8BFgyf/Level(1200000)
-LALIGA_HYPE&&https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/woujvkfnmn/out/v1/141b52f08a1e4e97850219729ee48dc8/cenc.mpd``0b1fdeaee3ffc51e9a66cf1938d57aaf:28e3cb88ab7b476b81ab8aa0624c4d71
-SONY_TEN_1_HD&&https://bpprod5live.akamaized.net/bpk-tv/irdeto_com_Channel_256/output/manifest.mpd``7d8cc6ee3c9a5a82a0071779f351a9a5:1d4d52698080d453b032ca44277fd274
-SONY_TEN_2_HD&&https://bpprod5live.akamaized.net/bpk-tv/irdeto_com_Channel_726/output/manifest.mpd``1cc361e170845936aea7b95c6efb478e:dc78eab46264d457a5db0f0c429ce4a6
-SONY_TEN_3_HD&&https://bpprod5live.akamaized.net/bpk-tv/irdeto_com_Channel_727/output/manifest.mpd``4428be7aacfb557492c7fa552c3ecbf1:fd86b49ad205dec6b52be48e174e5192
-SONY_TEN_5_HD&&https://bpprod5live.akamaized.net/bpk-tv/irdeto_com_Channel_254/output/manifest.mpd``c71dd63f411a5099844a73fbe850c9fd:6d99d08dd98ddbe01176e09eb77e0296
-SONY_TEN_1&&https://bpprod1live.akamaized.net/bpk-tv/irdeto_com_Channel_114/output/manifest.mpd``35694821a95c5923801ab1ba3be8ddaf:9008ae2db813ee6d472ab81e613db74f
-SONY_TEN_2&&https://bpprod2live.akamaized.net/bpk-tv/irdeto_com_Channel_115/output/manifest.mpd``d39d37e73df95fab9f37f2520fa24982:6e5a14a91f1b108b482fd16481ce1feb
-SONY_TEN_3&&https://bpprod3live.akamaized.net/bpk-tv/irdeto_com_Channel_116/output/manifest.mpd``0d262391181150e9bb1c1fa3f86d7db8:ddb63e3e93d60ef3feea4cc1ecedfd05
-NBC_USA&&https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/master.mpd``0045a118e231f1326bcdb45350b1ceaa:8c13afbfa54ea37a368b8b859021f6e3
-GO3-SPORT3-LITHUANIA&&https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport_HD_HVC.mpd``610ad79e26a84fc782c987455e21a86b:d2d4acc6e79447b55f3f5c0267af06f5
-Football&&https://melon.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd``4d38060bf41b3c29df0ec950ece6b5da:7ee9506b13480491d79b71c062ab5366
-Sport1 TV&&https://melon.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd``531c6d50e3e9f9ba66446f624f492289:d769d9ae238bdd424f8bcdcdc9a3801f
-Sport2 TV&&https://melon.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd``45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
-Sport3 TV&&https://melon.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd``fadd2720deff5925ab86df0819cd7775:f67ff08c7ebc779f6a6fcfc83835f65b
-Sport4 TV&&https://melon.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd``b81b1942c65f35547ced1bff074206a5:a07dc4d86f51db7195f4b7e2abe9d9e8
-Spo1 TV&&https://melon.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd``57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
-Spo2 TV&&https://melon.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd``57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
-Sport 1&&`1https://live.sportsnews.id/p/mncsp1.html
-Sport 2&&`1https://live.sportsnews.id/p/mncsp2.html
-Sport 3&&`1https://live.sportsnews.id/p/mncsp3.html
-Sport 4&&`1https://live.sportsnews.id/p/mncsp4.html
-CCTV 5&&`1https://live.sportsnews.id/p/cctv5.html
-CCTV 5+&&`1https://live.sportsnews.id/p/cctv-5plus.html
-RU Match!&&https://livetv.mylifeisgood.net.ru/channels/matchhd_nocensored.m3u8
-BE  Eleven Sports EPL&&https://raw.githubusercontent.com/uploadplaylist/clon/main/eleven2BE.m3u8
-Arena Sport HR 1&&https://raw.githubusercontent.com/uploadplaylist/clon/main/arenasportHR1.m3u8
-Arena Sport HR 2&&https://raw.githubusercontent.com/uploadplaylist/clon/main/arenasportHR2.m3u8
-Arena Sport HR 3&&https://raw.githubusercontent.com/uploadplaylist/clon/main/arenasportHR3.m3u8
-Arena Sport HR 4&&https://raw.githubusercontent.com/uploadplaylist/clon/main/arenasportHR4.m3u8
-RMC Sport 1&&https://raw.githubusercontent.com/uploadplaylist/clon/main/rmcsport1.m3u8
-RMC Sport 2&&https://raw.githubusercontent.com/uploadplaylist/clon/main/rmcsport2.m3u8
-PL8&&https://raw.githubusercontent.com/uploadplaylist/clon/main/PL8.m3u8
-PL9&&https://raw.githubusercontent.com/uploadplaylist/clon/main/PL8.m3u8
-PL10&&https://raw.githubusercontent.com/uploadplaylist/clon/main/PL8.m3u8
-b1id&&https://cdn08jtedge.indihometv.com/dassdvr/133/beib1/manifest.mpd``69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-b3id&&https://cdn08jtedge.indihometv.com/dassdvr/133/beib2/manifest.mpd``69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-Makkah&&`201`00c654501`00d
-DW&&`201`00c245201`00d
-SEA Today&&`201`00c3761401`00d
-DAAI&&`201`00c282701`00d
-RCTI&&`201`00c201`00d
-iNews&&`201`00c501`00d
-GTV&&`201`00c301`00d
-Metro&&`201`00c1001`00d
-MNC&&`201`00c401`00d
-ANTV&&`201`00c1201`00d
-Trans TV&&`201`00c601`00d
-Trans 7&&`201`00c1101`00d
-RTV&&`201`00c290101`00d
-Kompas&&`201`00c290901`00d
-Jak TV&&`201`00c276701`00d
-Net.&&`201`00c283001`00d
-tv One&&`201`00c801`00d
-BTV&&`201`00c274601`00d
-IDX&&`201`00c6201`00d
-JTV&&`201`00c283601`00d
-TVRI&&`201`00c1301`00d
-Tawaf&&`201`00c1961301`00d
-Muslim&&`201`00c5201`00d
-tvMu&&`201`00c743801`00d
-Tv9&&`201`00c373801`00d
-Bandung&&`201`00c3513201`00d
-Bali&&`201`00c283901`00d
-Makkah&&`2https://useetvwv.visionplus.id/playing/channels/36545
-DW&&`2https://useetvwv.visionplus.id/playing/channels/32452
-SEA Today&&`2https://useetvwv.visionplus.id/playing/channels/337614
-DAAI&&`2https://useetvwv.visionplus.id/playing/channels/32827
-RCTI&&`2https://useetvwv.visionplus.id/playing/channels/32
-iNews&&`2https://useetvwv.visionplus.id/playing/channels/35
-GTV&&`2https://useetvwv.visionplus.id/playing/channels/33
-Metro&&`2https://useetvwv.visionplus.id/playing/channels/310
-MNC&&`2https://useetvwv.visionplus.id/playing/channels/34
-ANTV&&`2https://useetvwv.visionplus.id/playing/channels/312
-Trans TV&&`2https://useetvwv.visionplus.id/playing/channels/36
-Trans 7&&`2https://useetvwv.visionplus.id/playing/channels/311
-RTV&&`2https://useetvwv.visionplus.id/playing/channels/32901
-Kompas&&`2https://useetvwv.visionplus.id/playing/channels/32909
-Jak TV&&`2https://useetvwv.visionplus.id/playing/channels/32767
-Net.&&`2https://useetvwv.visionplus.id/playing/channels/32830
-tv One&&`2https://useetvwv.visionplus.id/playing/channels/38
-BTV&&`2https://useetvwv.visionplus.id/playing/channels/32746
-IDX&&`2https://useetvwv.visionplus.id/playing/channels/362
-JTV&&`2https://useetvwv.visionplus.id/playing/channels/32836
-TVRI&&`2https://useetvwv.visionplus.id/playing/channels/313
-Tawaf&&`2https://useetvwv.visionplus.id/playing/channels/319613
-Muslim&&`2https://useetvwv.visionplus.id/playing/channels/352
-tvMu&&`2https://useetvwv.visionplus.id/playing/channels/37438
-Tv9&&`2https://useetvwv.visionplus.id/playing/channels/33738
-Bandung&&`2https://useetvwv.visionplus.id/playing/channels/335132
-Bali&&`2https://useetvwv.visionplus.id/playing/channels/32839
-AFC-1&&https://pull.bzssnkeji.com/live/4793007_lhd.flv?auth_info=qOZNkcdYMmk2tXz45YmGPuFUmsKitEaQRVKjTJj76WjFM%2BeNTXyIVX7jFz1SRssT.72454d58794d5a674c64485a525a6544
-AFC-2&&https://pull.bzssnkeji.com/live/4792947_lhd.flv?auth_info=ABGQ2V8yUyK52J5SIx4x4RdcHaO%2BlY7YozZAlR2T2WZt%2BOex%2F5HJM6SriTi%2Bhyjy.4d58475967637270797755664a787072
-SportStar 1&&`0https://go.now.net.eu.org/p/live?embed=id_48&type=h
-SportStar 2&&`0https://go.now.net.eu.org/p/live?embed=id_44&type=h
-SportStar 3&&`0https://go.now.net.eu.org/p/live?embed=id_45&type=h
-SportStar 4&&`0https://go.now.net.eu.org/p/live?embed=id_34&type=h
-Soccer.id&&`0https://go.now.net.eu.org/p/live?embed=id_47&type=h
-Sky Mix&&`0https://go.now.net.eu.org/p/live?embed=skymix&type=m
-Sky Sports Action&&`0https://go.now.net.eu.org/p/live?embed=skyaction&type=m
-Sky Sports Cricket&&`0https://go.now.net.eu.org/p/live?embed=skycricket&type=m
-Sky Sports Golf&&`0https://go.now.net.eu.org/p/live?embed=skygolf&type=m
-Sky Sports Racing&&`0https://go.now.net.eu.org/p/live?embed=skyracing&type=m
-Flik&&https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd``69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-MakkahTV.id&&01`02bAlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd``67fe3ac3ca111c9bdd6e8480091dc13c:7d05fb1ff7705c1e452ff7e1b841a1b8
-Spo1.id&&01`02bSPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd``57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
-Spo2.id&&01`02bSPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd``57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
-Nickelodeon.id&&01`02bNickelodeon/sa_dash_vmx/Nickelodeon.mpd``785024598882dc751652cea2bce44b8e:56a40e58acd59965e865947dd719108d
-Trans7.id&&01`02bTrans7-2/sa_dash_vmx/Trans7-2.mpd``26bd60e03bbed7819eea0b27075a1897:d221ba6a6ab66e3083c001d2c4a3e5c5
-TransTV.id&&01`02bTransTV-2/sa_dash_vmx/TransTV-2.mpd``334950781f60a66f5e58324b70ac675d:73caca97be8999ce9cfeb3babad8669d
-BeritaSatu.id&&01`02bBeritaSatu/sa_dash_vmx/BeritaSatu.mpd``d022ff3be9391a16a8436261059806b0:e6dd32d6a257f900acb52a82d898bb81
-iNews.id&&01`02biNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd``a31cf5136789514b7e12b9cc99307c84:980e54d671ffc2b2f4cf54e75cae0ac2
-AXN.id&&01`02bAXN/sa_dash_vmx/AXN.mpd``c5d5297a84f8b2de977f07286345c591:bdb773d6d25303b75a396b8040cfaf8c
-Thrill.id&&01`02bThrill/sa_dash_vmx/Thrill.mpd``06e7e95fdb30086d24111f300c9d91f1:9431050f760f692bfd396bbd84cb5161
-TV5-Monde-Asie.id&&01`02bTV5/sa_dash_vmx/TV5.mpd``1b411a92f60bd9751d9637e849d3a632:d9bbfb8e1d34089daf5cc0c3ca17c694
-ZeeBioskop.id&&01`02bZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd``9e7df70530006bef067327cefde82c0e:b92b6a2aba522bd9bb2d07cf241e7398
-JTV.id&&01`02bJTV/sa_dash_vmx/JTV.mpd``10e203f655014b5d18b0c85a6c72c809:acdcd0b65014e4929c6296171bdfebad
-TawafTV.id&&01`02bTawafTV/sa_dash_vmx/TawafTV.mpd``552bc18038d025c26ead432fa521f83a:beab0589d5f15d4a56278c7df913b263
-TVMuhammadiyah.id&&01`02bTVMuhammadiyah/sa_dash_vmx/TVMuhammadiyah.mpd``2fa7625e3470d5e9429f64150614f9a5:c495ad0e82e2266fd207934327c71ce3
-MyFamily.id&&01`02bMyFamily/sa_dash_vmx/MyFamily.mpd``4310edb8b9ffe79abb40bacafa778ec3:aebb7e86d8a336d9a93d3dd8a41153cf
-GTV.id&&01`02bGTV-HD/sa_dash_vmx/GTV-HD.mpd``88f6c7cbd793374cb5f12d7e26dcd63b:e82daa7c7bfb03d99327463fdbd37336
-ANTV.id&&01`02bANTV/sa_dash_vmx/ANTV.mpd``4310edb8b9ffe79abb40bacafa778ec3:aebb7e86d8a336d9a93d3dd8a41153cf
-Muslim.id&&01`02bMNCMuslim/sa_dash_vmx/MNCMuslim.mpd``eefa1c34afba72f8fe902b061632528f:334cde07f6ebe092c0ae0521591d73cf
-Sport1.id&&01`02bMNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd``531c6d50e3e9f9ba66446f624f492289:d769d9ae238bdd424f8bcdcdc9a3801f
-Sport2.id&&01`02bMNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd``45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
-Animax.id&&01`02bAnimax/sa_dash_vmx/Animax.mpd``6344a8272809245e3fa9d926099528c3:93b6c4ff420c6864a6294f6d223d9b2c
-CBeebies.id&&01`02bCbeebies/sa_dash_vmx/Cbeebies.mpd``194891b41223a5f1ec2beff1c95e2f53:eeb1fb2ec011f9563653495f9ac427b1
-CinemaChiKids.id&&01`02bCinemachi-Kids-HD/sa_dash_vmx/Cinemachi-Kids-HD.mpd``ebe6190a3cfbbed4ec34e4d9c7a30e1e:d161b1f737e2aee9501149406c8abe9e
-Dreamworks.id&&01`02bDreamwork-HD/sa_dash_vmx/Dreamwork-HD.mpd``57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
-Kids.id&&01`02bKidsChannel/sa_dash_vmx/KidsChannel.mpd``17340c4223a4674b1b7da8d8d9e11174:11a73aad2c75ddf338840b08fb915993
-ZooMoo.id&&01`02bBoomerang/sa_dash_vmx/Boomerang.mpd``5ff6154f28d6950063f9f5b4db7be009:93cac38fd15124acce5b658896df0a25
-NickJr.id&&01`02bNickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd``f71ca09f57ea09e27ee63d7d1f0d0e31:8a07ef45b4a18973ef12f8da482dcec0
-MNCTV.id&&01`02bMNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd``828e0aba9825c3546a2831e4c0c36f7f:f85d3dcd38981368ab3da597e97ebdcc
-NetTV.id&&01`02bNetTV-HD/sa_dash_vmx/NetTV-HD.mpd``6b7bbcf1d511a56e6b3ceda392e4fa33:d1766244d7c1c44efd4c67aafae3ee7b
-RCTI.id&&01`02bRCTI-DD/sa_dash_vmx/RCTI-DD.mpd``9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
-Kompas.id&&01`02bKompasTV/sa_dash_vmx/KompasTV.mpd``493fd10e609dd02ae97964f438e7e530:695cf9896182c52f1c3a25820e7778f5
-Metro.id&&01`02bMetro-TV2/sa_dash_vmx/Metro-TV2.mpd``4497473c5b978655ce62de7873e04174:6af319f8d82351f8c3b18c9abdfdef4d
-TVOne.id&&01`02bTVOne-2/sa_dash_vmx/TVOne-2.mpd``90204c05545f95a262bb0d3ac45de870:0e80f2a19fdf8da476bf695cd9570bb2
-OKTV.id&&01`02bOKTV/sa_dash_vmx/OKTV.mpd``57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
-RTV.id&&01`02bRTV/sa_dash_vmx/RTV.mpd``30384ee5424eab4afdff34d7a59e0ef9:5f3d2f2c194266ae9a28210f8976cbe0
-VisionPrime.id&&01`02bVisionPrime/sa_dash_vmx/VisionPrime.mpd``50056951f6d5f5fbaf286cd99c965379:4ec78e3b7d66d1db3815a127f792b604
-Music.id&&01`02bMusicChannel/sa_dash_vmx/MusicChannel.mpd``0bea88ab972e06760a04712cc423d841:4039d607f88f1b1f677e4beb6ee66637
-IndonesianMovie.id&&01`02bIndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd``1a551e30ef88a5a121dcea6a74a3aee7:b0f3de006d6e31e967a5bc41be086e64
-CelestialClassic.id&&01`02bCelestialClassic/sa_dash_vmx/CelestialClassic.mpd``12da619438b3748da206142216d0943b:6958377109d34561ad20645319cec62c
-CelestialMovie.id&&01`02bCelestialMovie/sa_dash_vmx/CelestialMovie.mpd``13aecb26aeee22bc86920045f22d134d:80aa44d998c7c0cc221c96d26730fe9b
-CinemaChi.id&&01`02bCinemachi-HD/sa_dash_vmx/Cinemachi-HD.mpd``eeea0c2986e91a13eacd590ad1ebfe43:0acc16bd84921489f67bad19e4099cae
-CinemaChiAction.id&&01`02bCinemachi-Action/sa_dash_vmx/Cinemachi-Action.mpd``fba45325e2cd8355972ede4981f43b2a:d88a4bdd67f89cd21eb074c81de1b994
-CinemaChiMax.id&&01`02bCinemachi-Max-HD/sa_dash_vmx/Cinemachi-Max-HD.mpd``6c256f70830647e4bdf654d86e710ed5:fe41e9bcbae52f9d233407f7488bca5f
-CinemaChiExtra.id&&01`02bCinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtra-HD.mpd``b64eee6360b118d0d90329cc2c9e4c60:4e97aa6422b26ffb372647dbd0a7683c
-GalaxyPremium.id&&01`02bGalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd``7bc29ff5f405dff971e3a326223fe26c:06849a953a38da997b31bacf433cc74a
-Galaxy.id&&01`02bGalaxy-HD/sa_dash_vmx/Galaxy-HD.mpd``e5c40292f8d01b1d5f0c6b3904d73104:bcb2ac12e11c69594ba217bfe8714efe
-HitsMovies.id&&01`02bHitsMovies/sa_dash_vmx/HitsMovies.mpd``5d9684b1737e3b68801b4cff7225d4bb:902e7634820c26a8ff36f3708f0191d4
-Lifetime.id&&01`02bLifetime/sa_dash_vmx/Lifetime.mpd``8bd8efd4840c37f50f8a053f92e9b015:7f8b3b508bb394919dab1b6e91e7bacf
-RockAction.id&&01`02bRockaction/sa_dash_vmx/Rockaction.mpd``b9c123fbf587e6524b2706bd960c7f67:d2aaac6845b33627cdce1272feac5acc
-tvNMovies.id&&01`02btvNMovies/sa_dash_vmx/tvNMovies.mpd``45c004003b09719751adb885d28d491f:fe82bc3ffe00477c833812fae74caed7
-Hits.id&&01`02bHITS/sa_dash_vmx/HITS.mpd``78d17d4851a5e9eede96f283b15ec053:c5ae33f70cc967fe107b35eb7225f52a
-KIX.id&&01`02bKIX/sa_dash_vmx/KIX.mpd``fe761e8fac143d40510e70825dad0b20:eed9fb0b4e254e9104ef98e8a7035387
-Rock-Entertainment.id&&01`02bRockentertainment/sa_dash_vmx/Rockentertainment.mpd``57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
-One.id&&01`02bSetOne/sa_dash_vmx/SetOne.mpd``7b212a67ce3e8b056af85b890e3de811:428a68fac3d97a5fae0f695edcee6346
-tvN.id&&01`02btvN/sa_dash_vmx/tvN.mpd``742131dbcb507c31502eb60b32be6bb8:209f03c525bbbc9fd8652aa7a9cc5cb0
-History.id&&01`02bHistory/sa_dash_vmx/History.mpd``2ccaa7d9731c2e69fa5344c5a547b836:d23fb6a3c73eb7ab8ad19ca841db0fb5
-TVRI.id&&01`02bPemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd``ca65af90adc5e3ddb180e16426bb67da:b6f87a3a128dbd75ead036f596edeae7
-MyCinema.id&&01`02bMyCinema/sa_dash_vmx/MyCinema.mpd``4310edb8b9ffe79abb40bacafa778ec3:aebb7e86d8a336d9a93d3dd8a41153cf
-MyCinemaAsia.id&&01`02bMyCinema-Asia/sa_dash_vmx/MyCinema-Asia.mpd``4310edb8b9ffe79abb40bacafa778ec3:aebb7e86d8a336d9a93d3dd8a41153cf
-Soccer.id&&01`02bsoccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd``4d38060bf41b3c29df0ec950ece6b5da:7ee9506b13480491d79b71c062ab5366
-Sport3.id&&01`02bMNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd``fadd2720deff5925ab86df0819cd7775:f67ff08c7ebc779f6a6fcfc83835f65b
-Sport4.id&&01`02bSportstar4/sa_dash_vmx/Sportstar4.mpd``b81b1942c65f35547ced1bff074206a5:a07dc4d86f51db7195f4b7e2abe9d9e8
-CinemaWorld.id&&01`02bCinemaWorld/sa_dash_vmx/CinemaWorld.mpd``958df746f24f371dffc95e7cd714fbd7:fbd6e4540b9a917a27da8be01542f53f
-NatGeo.id&&01`02bNatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd``05457a5e16a76fe666a22cc7ae2c6548:626e37901bfb985e994d714e9f9de1b5
-NatGeoWild.id&&01`02bNatGeoWild/sa_dash_vmx/NatGeoWild.mpd``c3066eaa0984588f78d12dcdb75ef88b:4e98eb4927941bff51ea526d223fa16d
-JakTV.id&&01`02bJakTV/sa_dash_vmx/JakTV.mpd``f2c9087e5432ce2c2f4ae8e1fd77ae4c:f7a50262991ca7d505fce1572a7f0c2a
-MoonBug.id&&01`02bBabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd
-My-Kids.id&&01`02bMy-Kids/sa_dash_vmx/My-Kids.mpd
-IDX.id&&01`02bIDX/sa_dash_vmx/IDX.mpd
-MNC-News.id&&01`02bMNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
-AlJazeera.id&&01`02bAlJazeeraInternational/sa_dash_vmx/AlJazeeraInternational.mpd
-SEA-Today.id&&01`02bSEA-Channel/sa_dash_vmx/SEA-Channel.mpd
-Bali.id&&01`02bBaliTV/sa_dash_vmx/BaliTV.mpd
-TV9.id&&01`02bTV9/sa_dash_vmx/TV9.mpd
-DW.id&&01`02bDW/sa_dash_vmx/DW.mpd
-DAAI.id&&01`02bDAAITV/sa_dash_vmx/DAAITV.mpd
-Bandung.id&&01`02bBandungTV/sa_dash_vmx/BandungTV.mpd
-Entertainment.id&&01`02bMNCEntertainment/sa_dash_vmx/MNCEntertainment.mpd
-Infotainment.id&&01`02bMNCInfotainment/sa_dash_vmx/MNCInfotainment.mpd
-BBC-Earth.id&&01`02bBBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
-CGTN.id&&01`02bCGTN/sa_dash_vmx/CGTN.mpd
-CGTN-Doc.id&&01`02bCGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
-Global-Trekker.id&&01`02bGlobaltrekker/sa_dash_vmx/Globaltrekker.mpd
-Crime-Investigation.id&&01`02bCrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
-NHK-World-Japan.id&&01`02bNHKWorldTV/sa_dash_vmx/NHKWorldTV.mpd
-RT-English.id&&01`02bRTEnglish/sa_dash_vmx/RTEnglish.mpd
-TRT-World.id&&01`02bTRTWorld/sa_dash_vmx/TRTWorld.mpd
-Channel-News-Asia.id&&01`02bChannelNewsAsia/sa_dash_vmx/ChannelNewsAsia.mpd
-France24.id&&01`02bFrance24/sa_dash_vmx/France24.mpd
-LifeStyleFashion.id&&01`02bLifeStyleFashion/sa_dash_vmx/LifeStyleFashion.mpd
-MTV&&01`02bMrBein1/sa_dash_vmx/MrBein1.mpd
-MTV-90-HD&&01`02bMTV-90-HD/sa_dash_vmx/MTV-90-HD.mpd
-Anhui.id&&01`02bAnhuiTV/sa_dash_vmx/AnhuiTV.mpd
-Hunan.id&&01`02bHunanTV/sa_dash_vmx/HunanTV.mpd
-Jiangsu.id&&01`02bJiangsuTV/sa_dash_vmx/JiangsuTV.mpd
-ShanghaiDragon.id&&01`02bShanghaiDragonTV/sa_dash_vmx/ShanghaiDragonTV.mpd
-XingKong.id&&01`02bXingKongTV/sa_dash_vmx/XingKongTV.mpd
-FMN.id&&01`02bFMN/sa_dash_vmx/FMN.mpd
-Paramount.id&&01`02bParamount-HD/sa_dash_vmx/Paramount-HD.mpd
-Arirang.id&&01`02bArirang/sa_dash_vmx/Arirang.mpd
-NHK-World-Premium.id&&01`02bNHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd
-ABC-Australia-Plus.id&&01`02bAustraliaPlus/sa_dash_vmx/AustraliaPlus.mpd
-BBC-World-News.id&&01`02bBBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd
-Bloomberg.id&&01`02bBloomberg/sa_dash_vmx/Bloomberg.mpd
-CNBC.id&&01`02bCNBC/sa_dash_vmx/CNBC.mpd
-Euro-News.id&&01`02bEuroNews/sa_dash_vmx/EuroNews.mpd
-Fight-Sports.id&&01`02bFightSports/sa_dash_vmx/FightSports.mpd
-Fox-News.id&&01`02bFoxNews/sa_dash_vmx/FoxNews.mpd
-Episode A World War 1 The Russian Revolution & Woodrow Willson&&https://seed191.bitchute.com/P7Kloe3hUF0E/cDIVK7al8S3Z.mp4
-Episode B 1920-1940 Roosevelt Hitler Stalin The Battle of Ideas&&https://seed191.bitchute.com/P7Kloe3hUF0E/a1uksr57dUau.mp4
-Chapter 1 World War Two&&https://seed151.bitchute.com/9GID61VDD3ne/IHeMXTe0aeZP.mp4
-Chapter 2 Roosevelt Truman & Wallace&&https://seed191.bitchute.com/9GID61VDD3ne/HzfYqaAWZBMg.mp4
-Chapter 3 The Bomb&&https://seed151.bitchute.com/ncN5ictFfvMQ/UhYl1LZaVYLO.mp4
-Chapter 4 The Cold War 1945-1950&&https://seed151.bitchute.com/9GID61VDD3ne/ukNnzYV8RiDt.mp4
-Chapter 5 The 50s: Eisenhower the Bomb & The Third World&&https://seed131.bitchute.com/9GID61VDD3ne/1nOucGj4KqAP.mp4
-Chapter 6 JFK To the Brink&&https://seed131.bitchute.com/9GID61VDD3ne/EPEppwugokit.mp4
-Chapter 7 Johnson Nixon & Vietnam: Reversal Of Fortune&&https://seed131.bitchute.com/9GID61VDD3ne/t8Z2ZZ0R1Mtk.mp4
-Chapter 8 Reagan Gorbachev & Third World Rise of the Right&&https://seed131.bitchute.com/9GID61VDD3ne/hhGingAYxSV1.mp4
-Chapter 9 Bush & Clinton-Squandered Peace-New World Order&&https://seed131.bitchute.com/9GID61VDD3ne/JxLa0VKiCZA1.mp4
-Chapter 10 Bush & Obama-Age of Terror&&https://seed131.bitchute.com/9GID61VDD3ne/su0qq9pLCcTk.mp4
-DAZN F1&&01`01a1601`01b
-DAZN 1 DE&&01`01a1701`01b
-DAZN 2 DE&&01`01a1801`01b
-SportDigital Fussball&&01`01a2201`01b
-NFL&&01`01a2301`01b
-Zona DAZN&&01`01a2401`01b
-Milan TV&&01`01a2501`01b
-MLB&&01`01a2601`01b
-EuroSport 1 DE&&01`01a2701`01b
-EuroSport 2 DE&&01`01a2801`01b
-EuroSport 1 IT&&01`01a2901`01b
-EuroSport 2 IT&&01`01a3001`01b
-EuroSport 1 ES&&01`01a3101`01b
-EuroSport 2 ES&&01`01a3201`01b
-Inter TV&&01`01a3301`01b
-DAZN NBA&&01`01a3501`01b
-Redbull TV&&01`01a3601`01b
-DAZN 1 ES&&01`01a3701`01b
-DAZN 2 ES&&01`01a3801`01b
-LaLiga Live HyperMotion&&01`01a4001`01b
-DAZN LaLiga&&01`01a4301`01b
-Unbeaten&&01`01a4401`01b
-DAZN 1 US&&01`01a4501`01b
-Canal+ Ligue1 Uber Eats&&01`01a4601`01b
-DAZN Eleven 1 ES&&01`01a4701`01b
-DAZN Eleven 1 ES&&01`01a4801`01b
-DAZN Eleven 01&&01`01a4901`01b
-DAZN Eleven 01&&01`01a5001`01b
-PlaySports 1&&01`01a5101`01b
-PlaySports 2&&01`01a5201`01b
-PlaySports 3&&01`01a5301`01b
-DAZN Eleven 1&&01`01a5401`01b
-DAZN Eleven 2&&01`01a5501`01b
-DAZN Eleven 3&&01`01a5601`01b
-DAZN Eleven 4&&01`01a5701`01b
-DAZN Eleven 5&&01`01a5801`01b
-DAZN Eleven 6&&01`01a5901`01b
+Badminton 1	`0https://www.hlsplayer.org/play?url=https://play1nm.hnyongshun.cn/live/ballbar_24130.m3u8
+Badminton 2	`0https://www.hlsplayer.org/play?url=https://play1nm.hnyongshun.cn/live/ballbar_17760.m3u8
+Badminton 3	`0https://www.hlsplayer.org/play?url=https://play1nm.hnyongshun.cn/live/ballbar_22670.m3u8
+Badminton 4	`0https://www.hlsplayer.org/play?url=https://play1nm.hnyongshun.cn/live/ballbar_20870.m3u8
+Badminton Court 1	`0https://www.youtube.com/embed/BKLakc-QLkA?si=9n4dfRCHtEsJjrAG
+Badminton Court 2	`0https://www.youtube.com/embed/jgLCuQ6dNL0?si=PeRCLwTMuON8e2LT
+SCTV	https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
+USANETWORK	https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd``882c9f5613b43b47adc70aa968a308ce:de534ef8914bfe62ba3cdd6bdb9e1c04
+USANETWORK_WEST	https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd``252a671825ba31ec8433f978c32ccf6d:ee560759ecc8d2274df2e63fcef56915
+PREMIER_LEAGUE_TV	https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd``002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
+WWE	https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc106wh3yw)/master.mpd``00208c93f4358213b52220898b962385:8ae6063167228e350dd132d4a1573102
+SSC1	https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd``d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
+SSC2	https://ssc2-ak.akamaized.net/out/v1/a16db2ec338a445a82d9c541cc9293f9/index.mpd``8bcfc55359e24bd7ad1c5560a96ddd3c:b5dcf721ab522af92a9d3bf0bd55b596
+SSC3	https://ssc3-ak.akamaized.net/out/v1/42e86125555242aaa2a12056832e7814/index.mpd``7de5dd08ad8041d586c2f16ccc9490a1:5e1503f3398b34f5099933fedab847ef
+SSC4	https://ssc4-ak.akamaized.net/out/v1/5267ea5772874b0db24559d643eaad93/index.mpd``5c672f6b85a94638872d0214f7806ed4:bf8756fbb866ee2d5c701c2289dd8de3
+SSC5	https://ssc5-ak.akamaized.net/out/v1/99289eac5a7b4319905da595afbd792b/index.mpd``c88b512b17ab4f6cb09eb0ff4a1056ed:adc08ee1c20a734972a55c9aebbd1888
+SSC_EXTRA1	https://ssc-extra1-ak.akamaized.net/out/v1/647c58693f1d46af92bd7e69f17912cb/index.mpd``ecbc9e6fe6b145efb6658fb5cf7427f8:03c17e28911f71221acbc0b11f900401
+SSC_EXTRA2	https://ssc-extra2-ak.akamaized.net/out/v1/8b70de2b70d447ba8a7450ba90926a2d/index.mpd``4d89249bd4ca4ebc9e70443265f9507d:cf074ffd2646c9c2f8513b47fa57bc30
+SSC_EXTRA3	https://ssc-extra3-ak.akamaized.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/index.mpd``98cfd6fd4812497fb24dc75f7545f2ee:d3006ee69e77b25939728ebf30d3180a
+SSC_NEWS	https://ssc-news-live-ak.akamaized.net/out/v1/ef466f43623c4bbaa3f905b566ec35ea/index.mpd``3d04975236a44f62857d181597705ee6:362133e9cb13189ad4fe095ced216f60
+ESPN_NL	https://da-d436234320010b88000103020000000000000005.id.cdn.upcbroadband.com/wp/wp1-vxtoken-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000107_019441/_shared_05e8c13b39b3f30524c26012f903ed7f/NL_000107_019441.mpd``3e999e38253834baa63881ea451f2839:99b88d9cde1d8986decbc5985da87187
+ESPN_NL_2	https://da-d436234420010b88000103020000000000000006.id.cdn.upcbroadband.com/wp/wp2-vxtoken-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000108_019561/_shared_05e8c13b39b3f30524c26012f903ed7f/NL_000108_019561.mpd``3e999e38253834baa63881ea451f2839:99b88d9cde1d8986decbc5985da87187
+ESPN_NL_3	https://da-d436234320010b88000103020000000000000005.id.cdn.upcbroadband.com/wp/wp3-vxtoken-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000109_019464/_shared_05e8c13b39b3f30524c26012f903ed7f/NL_000109_019464.mpd``3e999e38253834baa63881ea451f2839:99b88d9cde1d8986decbc5985da87187
+ESPN_NL_4	https://da-d436234b20010b8800010302000000000000000d.id.cdn.upcbroadband.com/wp/wp4-vxtoken-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000110_019562/_shared_05e8c13b39b3f30524c26012f903ed7f/NL_000110_019562.mpd``3e999e38253834baa63881ea451f2839:99b88d9cde1d8986decbc5985da87187
+TSN1_CA	https://live-ctv.video.9c9media.com/f/TSN/TSN1/manifest.mpd``dea83ced0141424e983e1afe463b4b0d:c00dd5dd17b0799aa4013f365a1393ce
+TSN2_CA	https://live-ctv.video.9c9media.com/f/TSN/TSN2/manifest.mpd``ddc52c88e2c24d38a5bc8dda8a2acb61:ad5ea485464a13eec7dda3249c556446
+TSN3_CA	https://live-ctv.video.9c9media.com/f/TSN/TSN3/manifest.mpd``c0f378ad54e14a9c85a3d8c986d2a51f:5e1d040743ff78715e464ffb905e68a9
+TSN4_CA	https://live-ctv.video.9c9media.com/f/TSN/TSN4/manifest.mpd``f0a2efd11e0643c3a45d6f67d02f1a97:85bf4469003bd28f01ea4fefedd5a431
+TSN5_CA	https://live-ctv.video.9c9media.com/f/TSN/TSN5/manifest.mpd``cb57741a1cee422690c6294a06eb1320:7a0cfd493df6ef7cc0d0bb3ad95cec8c
+ASIAN_CUP	https://mwmpos03.akamaized.net/out/v1/64a59477c5d34afba754e763bb12ac81/manifest.mpd``d31e0ee60e034e228e7f219650c0d6e2:c50c247d5a34c1fbd565ad31886287cb
+SKY_PREMIER_LEAGUE	https://linear009-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportspremierleague)/manifest_720.mpd``00057ef2c5dd6fa01e7275e4ce9b98a6:de0a1a300adbd4ba1fcd27f51d4b5364
+SKY_SPORTS_MAIN_EVENT	https://linear001-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportsmainevent)/manifest_720.mpd``00050559cd31897cd28ef1cad1857606:32203d3d424a70258a9f676316681bea
+SKY_SPORTS_FOOTBALL	https://linear019-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportsfootball)/manifest_720-120.mpd``00051940357f91714b419a79af5a5f9a:f4e7d0c43db524393ba85fd240d9cd6e
+SKY_SPORTS_F1	https://linear005-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportsf1)/manifest_720.mpd``0005ff0d8408fc02af0ca5355a84546e:f517ede498c9c7a7abea6465c633d449
+SKY_SPORT_F1_IT	https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/31478/FHD/skysportf1/master.mpd``00366649eb2eb82ee172e1bd310e4136:27e85c17d97722288ffa5970389d8baf
+SKY_SPORTS_ARENA	https://linear028-gb-dash1-prd-cf.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportsarena)/manifest_720.mpd``00057b3ded07f870751d40e6d0fe116e:12ef5b135d7ac0f6fb9018b74374586a
+SKY_SPORTS_ACTION	https://linear013-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportsaction)/manifest_720.mpd``0003d0fbdf31675b39ee3ea8b9f0ce68:ebfa3109af67dc34a10321f78627b631
+SKY_SPORTS_MIX	https://linear034-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportsmix)/manifest_720.mpd``00051d6cdd7231b7370dcf8eb66cf618:06f88d449edec6e4389950b0bda5cd68
+SKY_SPORTS_GOLF	https://linear003-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportsgolf)/manifest_720.mpd``00059e65ef792d6cfcb2a2300abdc687:043c818ab0e02389446b0cd3b89072fb
+SKY_SPORTS_TENNIS	https://da-d436236320010b88000103030000000000000005.id.cdn.upcbroadband.com/wp/wp6-vxtoken-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000099_019256/_shared_cc010062b17300c4504b6ab5681b5417/NL_000099_019256.mpd``000364189270b77b298a752a45f5cba3:387bbc9ca6e34310f3581ad047272c9c
+SKY_SPORTS_CRICKET	https://linear007-gb-dash1-prd-cf.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportscricket)/manifest_720-120.mpd``00056d5c8882917a4463d5b42ba86c31:226c39dd7d41b6f0e27cb7d8940f644f
+SKY_SPORTS_CRICKET_2	https://linear007-gb-dash1-prd-cf.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportscricket)/manifest_720-120.mpd``00056d5c8882917a4463d5b42ba86c31:226c39dd7d41b6f0e27cb7d8940f644f
+SKY_SPORTS_RACING	https://linear036-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportsracing)/manifest_720.mpd``00050e1ce745004e9193899c091d7aae:35c88cb4ab2d667b08aa082124803d39
+SKY_SPORTS_NEWS	https://linear030-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportsnews)/manifest_720.mpd``00057bfb9cf2fc40b5ed61f9c8a41d54:cb9908093e35e3c3f7db06f55913cce0
+BEIN_SPORTS	https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227927/3221227927.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawgQY43Tg5eLk6%2BKHkOBbkVIq%2FzwD5xYAe8dI3PltEQ%2BUrcymHBIhx5oJP4jv2fPK0%3D%3A20230206101746%3AUTC%2C1003663983%2C115.164.187.20%2C20230206101746%2Curn:Huawei:liveTV:XTV55456338%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOQY_CIBSE_w1HApSqPXByY2Jiqol1r-YBD2xKi0I18d_brt25vZn5XmZMYHD_o4oNc9pVVsvSSF45raWoDCvEdBQlSpLxUUcliIEQ2sHX0c7Y73l75YwyKgSnXJBmfrcL4Jdm_ew1JlX8Y2dMr9agstnRF2QK3if0MLZxoKcA70sKS4Vgs0zjq3W5qpicJNZknN0Gcjcl5AZ5G_s7JLSH6P8A5SBkJHcwHXisoUc1PEP4csdkpzUfwVvnv_QAAAA&tenantId=6001``94663e64ef81e90a9deeb0f1993ce11c:9d6f78876677b543cd4e18c846aa2481
+BEIN_SPORTS_2	https://pop5clustera00de07172379a62d6189.hypp.tv:443/PLTV/88888888/224/3221227971/3221227971.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawgQY43Tg5eLk6%2BKHkOBbkVv%2FaciHRqnNnDuZfWMEk6l0rcymHBIhx5oJP4jv2fPK0%3D%3A20230206101746%3AUTC%2C1003663983%2C115.164.187.20%2C20230206101746%2Curn:Huawei:liveTV:XTV59922231%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWPQU-EMBSE_02PDX2LUA49rdnExKDJolcztI9KttC1ZTfx3wuKc3wz38vMkmD56dEMKEB1rQlDX6raNWh6TfqAinRflVZk_mqjIWERwjj7NroNez8fP1QhC0mkpCLRbe9OAX5Ptrep52QO_9iZ0320bFwe5B1ZwvvEHssYZ_ka8P2Wwh4R3O3VVFU_VE1RriItlu3aIV9WR3wiH-N0RWL3HP0vsC4JmcUV9gLPLSY28y2EP-4lubXND5_xMYT0AAAA&tenantId=6001``1c983e5a03b0f8adde686ef20497e2b4:f7b1d6556850b472f4f683519f4e41f7
+BEIN_SPORTS_3	https://pop5clustera00de07172379a62d6189.hypp.tv:443/PLTV/88888888/224/3221227892/3221227892.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawRjfkMvdAX9TZ5I%2BbsmfrUDhVRD65aYf%2BjyDsSSHpLfkrcymHBIhx5oJP4jv2fPK0%3D%3A20230206102855%3AUTC%2C1003663983%2C115.164.187.20%2C20230206102855%2Curn:Huawei:liveTV:XTV55456355%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOwQ6CMBBE_6bHhpYCeuhJY2Ji0AT0atbtUomFagsm_r2ieJ2ZN3lDAKTtWjeXQmUyRcpypVCYJaIiVAmmgFlDgkV6lF5LhuBc29vSmwk7VauzSHjCpRRcSFZPdxsHdl6WY3ehoNM_VlF4tkjaxIY_IXKwNpCFofU9Pzh4HYObJ4zqWU3kRZYvE1VIpRZsmNIa4u3TsCvEle_uEMjsvP0CugEXid0Bb2CphI50Pzr34_bBfGzeA19EPPQAAAA&tenantId=6001``0d2418cc6a29a3516d1854ab2973f25f:4979b73603b430465aa4e7bbdefbc4cc
+USA_NETWORK	https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd``882c9f5613b43b47adc70aa968a308ce:de534ef8914bfe62ba3cdd6bdb9e1c04
+BEIN_SPORTS_4_TH	https://pop5clustera00de07172379a62d6189.hypp.tv:443/PLTV/88888888/224/3221227937/3221227937.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawRjfkMvdAX9TZ5I%2BbsmfrU7%2B8kYXzOcpo3wc%2BwgB1By0rcymHBIhx5oJP4jv2fPK0%3D%3A20230206102855%3AUTC%2C1003663983%2C115.164.187.20%2C20230206102855%2Curn:Huawei:liveTV:XTV57682031%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOwY6CMBRF_6bLpn10wC660piYTHASGbfmUR6VWKi2QDJ_P6K4vfeemzNGtHTYGRKbPMu0shsAVdu2FlDkYNtMo4RaS5boUQYDzKL33eDK0CzY-bS9SMEFB5BcAquWu71Hty7Lqa8pmuyDnSjOnSXTpJbPmDg6F8nh2IWB_3j8-41-nTCqVjWZF1-5FqoApTQbl7TCdHs27IppG_o7Rmq-g3sBpkWfiN3R3tBRiT2ZYfL-zR1j87T5B0NkEFD0AAAA&tenantId=6001``94663e64ef81e90a9deeb0f1993ce11c:9d6f78876677b543cd4e18c846aa2481
+BEIN_SPORTS_5_TH	https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0005/DASH/S0005.mpd``3a165f923cd49e616f173fc6c341cc56:4cb96186d69f1a63c40218812a6f6910
+BEIN_SPORTS_6_TH	https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0006/DASH/S0006.mpd``ceac4607562049abb9d1b0309d9cd6f3:d396d277a364fab00d0193d25b700847
+BEIN_SPORTS_7_TH	https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0007/DASH/S0007.mpd``94a28a75b3891e92a97efbe76f941095:7b39cd0e318ee481b98c36a125c540fb
+ZIGGO_SELECT	https://da-d436236720010b88000103030000000000000009.id.cdn.upcbroadband.com/wp/wp1-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000094_019321/_shared_cc010062b17300c4504b6ab5681b5417/NL_000094_019321.mpd``16bf72dc22743d929c4318e193408373:eae51a1e3904124963074cbf432c7c8e
+ZIGGO_VOETBAL	https://da-d436234620010b88000103020000000000000008.id.cdn.upcbroadband.com/wp/wp2-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000095_019371/_shared_cc010062b17300c4504b6ab5681b5417/NL_000095_019371.mpd``16bf72dc22743d929c4318e193408373:eae51a1e3904124963074cbf432c7c8e
+ZIGGO_DOCU	https://da-d436236620010b88000103030000000000000008.id.cdn.upcbroadband.com/wp/wp5-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000098_019255/_shared_cc010062b17300c4504b6ab5681b5417/NL_000098_019255.mpd``16bf72dc22743d929c4318e193408373:eae51a1e3904124963074cbf432c7c8e
+ZIGGO_TENNIS	https://da-d436236320010b88000103030000000000000005.id.cdn.upcbroadband.com/wp/wp6-vxtoken-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000099_019256/_shared_cc010062b17300c4504b6ab5681b5417/NL_000099_019256.mpd``16bf72dc22743d929c4318e193408373:eae51a1e3904124963074cbf432c7c8e
+ZIGGO_SPORT	https://da-d436236920010b8800010303000000000000000b.id.cdn.upcbroadband.com/wp/wp7-vxtoken-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000014_019661/_shared_6a89db18ec4202bae4d424e84c1f46a2/NL_000014_019661.mpd``0be3d503dba13fc9a9c8ad4b89f599e6:578c2231c526c5e9eb415411e36871bf
+PREMIER_SPORTS_1_IRL	https://linear001-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(premiersports1)/manifest_720.mpd``0005b3dba78ae0fe7a9288022d3b3736:d2827df80dd7e9243ba6b5bbda5dfa82
+PREMIER_SPORTS_2_IRL	https://linear031-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(premiersports2)/manifest_720.mpd``0005d61a0ac86aca28176591b21ae2d9:f87ad1430a7a38fd0ac248fc9a8389b1
+ESPN_DEPORTES_USA_VPN	https://linear.stvacdn.spectrum.com/LIVE/1166/dash/cenc/ESPNDHD_13667/manifest.mpd``be65e5985fa04a49af310f0a92a0260a:1acb5ff7b0dbfdf19c4dca1aabfaaa11
+DAZN_LALIGA	https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd``43d1c3b25207ff38b22ccfe17d302367:7b1f85f6e81059473b114c16a25c829a
+TUDN_USA_VPN	https://linear.stvacdn.spectrum.com/LIVE/1131/dash/cenc/TUDNUH_8283/manifest.mpd``85c8956b207c44a693d89984803c908b:8d8ff21c464506ef396356dd761f5ccd
+SPORT_TV_1PT	https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SPORTTV1_HD/index.m3u8/S!d2EISU9TX0xpdmUSBkPIS1XDVP7...8BFgyf/Level(3000000)
+SPORT_TV_2PT	https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SPORTTV2_HD/index.m3u8/S!d2EISU9TX0xpdmUSBkPIS1XDVP7...8BFgyf/Level(3000000)
+SPORT_TV_3PT	https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SPORTTV3_HD/index.m3u8/S!d2EISU9TX0xpdmUSBkPIS1XDVP7...8BFgyf/Level(3000000)
+SPORT_TV_4PT	https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SPORTTVLive_HD/index.m3u8/S!d2EISU9TX0xpdmUSBkPIS1XDVP7...8BFgyf/Level(3000000)
+SPORT_TV_5PT	https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SPORTTV_GOLFE_HD/index.m3u8/S!d2EISU9TX0xpdmUSBkPIS1XDVP7...8BFgyf/Level(3000000)
+SPORT_TV_6PT	https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SPORTTV6_HD/index.m3u8/S!d2EJVFZPU19MaXZlEgJU.v...wEWBJ8_/Level(5242880)
+CANAL_11	https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$C11_HD/index.m3u8/S!d2EISU9TX0xpdmUSBkPIS1XDVP7...8BFgyf/Level(3000000)
+TV_LA_1_ES	https://cache3.zapitv.com/live/eds_c2/la1_4k/dash_live_enc/la1_4k.mpd``a3abc44525eef3b0a7af9138a9dbe34a:7740f8ae4223ce5ba293028f7f78f1c1
+TRUE_PREMIER_1_IN	https://edge2.laotv.la/live/TSport1/index.m3u8
+TRUE_PREMIER_2_IN	https://edge2.laotv.la/live/TSport2/index.m3u8
+VSPORTS_1_NO	https://live-aws-scalstrm-cdn.rikstv.no/live/rikstv/644bb6e91dbc891fd422efc9/manifest.mpd``4d808f2b9a74536cadbd95be141888ed:9dd89f67b8885dc65721a8b1fbeae700
+VSPORTS_2_NO	https://live-aws-scalstrm-cdn.rikstv.no/live/rikstv/644bb6e91dbc891fd422efef/manifest.mpd``0d3ff38c34985fdd81a37567646322b9:6b4504297769acefae2e50920b7c8a77
+VSPORTS_3_NO	https://live-aws-scalstrm-cdn.rikstv.no/live/rikstv/644bb6ea1dbc891fd422f01e/manifest.mpd``fdcb8ee4623458e5832a92801fc723b1:634a67c44b7b7030872043df95c1a55e
+TV2_SPORT_PREMIUM_NO	https://ch11-hls-live.akamaized.net/out/u/433127.mpd``d12e4c9dc52f4cbab7ac9b2278317e47:a7987e5b6ec42db68a25486e108ca9f2
+TV2_SPORT_1_NO	https://live-aws-scalstrm-cdn.rikstv.no/live/rikstv/64393bf81dbc891fd41f53ac/manifest.mpd``0c6212056d2f51fcbf569f9a1a8517d1:d07b404deb7c958347d742e6d1d2f3f9
+BEIN_XTRA_N_ES	https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
+TNT_1_GB	https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd``ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
+TNT_1_GB_2	https://linear001-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_30/Live/channel(tntsport1)/manifest_720.mpd``00057e0dcf77cadc027a69b60e145660:8517f2a86b1bd267fc71a207c9ea3e7a
+TNT_2_GB	https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd``6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
+TNT_2_GB_2	https://linear014-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_30/Live/channel(tntsport2)/manifest_720.mpd``0005520dcd30036b77b924cc5363cad0:ebc86cd5962affaa29593b75d73551ba
+TNT_3_GB	https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd``4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
+TNT_3_GB_2	https://linear001-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_30/Live/channel(tntsport3)/manifest_720.mpd``00051f0f971600aff940e2b5fddb6a60:816e7a26242bd0ab0c5323e55a97456c
+TNT_4_GB	https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd``e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729
+TNT_4_GB_2	https://linear014-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_30/Live/channel(tntsport4)/manifest_720.mpd``00055a412a3890d72fae79895095c792:63eb81d4f0e0b1c85f9592ab59c13b9a
+TNT_5_GB	https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/gesdwrdncn/out/v1/79e752f1eccd4e18b6a8904a0bc01f2d/cenc.mpd``60c0d9b41475e01db4ffb91ed557fbcc:36ee40e58948ca15e3caba8d47b8f34b
+TV2_Sport_1_NO	https://live-aws-scalstrm-cdn.rikstv.no/live/rikstv/64393bf81dbc891fd41f53ac/manifest.mpd``0c6212056d2f51fcbf569f9a1a8517d1:d07b404deb7c958347d742e6d1d2f3f9
+SBT_BR	https://0006-bbc.dtvott.com/dash_live_0035/manifest.mpd``3ad3dca103185934acff7a0e9000c112:3f396659d841a55cd1381e6735ecfa1d
+CLUB_1_BE	https://origin2-rtlbe.live.6cloud.fr/pool_z6h2o6qd/clubrtl/rtlbesd/dash_short_cenc10_clubrtl/index.mpd``b53316f32fc93b51a61ba6fdf0bce6c1:d752d66843a48a6fed64eed8f87adc3e
+CANALE_5_IT	https://live03p-seg.msf.cdn.mediaset.net/live/ch-c5/c5-dash-widevine.isml/manifest.mpd``00f9f3c0783536b8ce4a30a01a52e082:e926f7d45af4f7d154c990eae6a2d937
+ITV1_GB	https://wp2-obc1112-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV09212/manifest.mpd``5d9937d586414096948337ac314d79c1:22ca2e250b729982c97209e0ff3f7e9b
+FOX_DEPORTES_USA	https://linear.stvacdn.spectrum.com/LIVE/1106/dash/cenc/FXDEPHD/manifest.mpd``c9231d5e7a99429382e6a5c2e588e141:ca08ab407ab9393a814d720f1f41c6cf
+BandSports_BR	https://0055-jbc.dtvott.com/dash_live_0054/manifest.mpd?da=1&country=BR&accountType=DTH&deviceType=web``bd1af42db82f5a17a0d75246f25f5201:a9edd4e2c410923e9cbcb261102e5008
+TV2_Sport_NO	https://ch11-hls-live.akamaized.net/out/u/433127.mpd``d12e4c9dc52f4cbab7ac9b2278317e47:a7987e5b6ec42db68a25486e108ca9f2
+FUTV	https://cdn02.teletica.com/StreamFutv/Streamfutv04122023/playlist.m3u8
+ITALIA_1	https://live03p-seg.msf.cdn.mediaset.net/live/ch-i1/i1-dash-widevine.isml/manifest.mpd``00f9f3c0783536b8ee91704e23b78016:bfd04d6f544c9cc4d35cb13ab6778587
+CANAL_5	https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
+SPORT_PLUS_DE	https://ac-009.live.p7s1video.net/c5c609cf/t_009/sport1plus-de-hd/cenc-default.mpd``c1c11c3844b0dffdb9d9831900f1a1da:a2c31e15346f339ca2b47bdd8591553f
+HRT_2	https://cdn1oiv.akamaized.net/hrtliveorigin/hrt2.smil/1/manifest.mpd``994c79af863838109e7f3503bcd2aff9:d2c19650ad2a2ac77a95453b941a6f0e
+INFINITY_PLUS_1	https://live03p-seg.msf.cdn.mediaset.net/live/ch-u1/u1-dash-widevine.isml/manifest.mpd``00f9f3c0783536b832a8f0326fbdc02e:ade0533ba667bb7e9847d8f215f03076
+INFINITY_PLUS	https://live03p-seg.msf.cdn.mediaset.net/live/ch-u2/u2-dash-widevine.isml/manifest.mpd``00f9f3c0783536b834b0f0c2bfee80ac:76b3afbf163f9c3feb6204b8fcf0ff53
+Astro_Bola	https://d1fk7kbmz4il3.cloudfront.net/CH1/masterCH1.mpd``7481d3e3738c46768f138e208fee9076:e1d428c7f1ca82339a6cfa1d0757428e
+Astro_Bola_2	https://d1fk7kbmz4il3.cloudfront.net/CH5/masterCH5.mpd``99685545491d40b493b3a4b263c7245e:7939e335bf8cbbd6882f9f5c9cdebe19
+Astro_Bola_3	https://d1fk7kbmz4il3.cloudfront.net/CH3/masterCH3.mpd``ca4f5ff4e4694d54bdfdc9bd34384290:1100fe297146f7d024b59944f09e6d1a
+Astro_Supersport_UHD	https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1601/default_primary.mpd``22fbef1c1cd725e9397ec16455f08210:7aea43cd93c24aa9834ecb4984f7fd5a
+Astro_Sports_1	https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/601/default.mpd``ead0335d60401225727a6d531e9c2710:1ee3b252227c5c2ec9378c833d2e14ff
+Astro_Sports_2	https://d3j4fjrwclc3o8.cloudfront.net/CH4/masterCH4.mpd``8f1da399325247eca6acdd7bafb95fa2:41f234fb88590af3b0d224111a61bf71
+Astro_Sports_3	https://d3j4fjrwclc3o8.cloudfront.net/CH5/masterCH5.mpd``0d6d2a1ac8d14e19b17455650770cd99:ff65174f8ec5d4c88e8d8a21968563cf
+Astro_cricket	https://linearjitp02-playback.astro.com.my/dash-wv/linear/2504/default_ott.mpd``03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4c
+Astro_Sports_4	https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_ott.mpd``79f4028730acca9ab8b00f26158ddb10:91febe843c08c7cc523efd827292e40e
+Willow	https://linear-novi.stvacdn.spectrum.com/LIVE/1131/dash/cenc/WLLOHD_10364/manifest.mpd``6653c05e42fc4fac8f49d7cbf99498fe:3b88f2cff3affef20b265c840bafc0cc
+VSport_1	https://director.streaming.telia.com/tvm-packager-prod/group1/6089c17d47a23d76645ceaf4/manifest.mpd``04c5eaf62cd75f2d947ab4d621f39256:76967598962e7a7314a2b251e9070725
+VSport_Extra	https://director.streaming.telia.com/tvm-packager-prod/group3/60ae4f5e1522bd739f6959a1/manifest.mpd``bc972382f04c531983b7aab6bf642ad8:ddfd212680eb891b755610eac5becf85
+Vsport_Football	https://director.streaming.telia.com/tvm-packager-prod/group1/60896dfd47a23d7c065cd68c/manifest.mpd``ce37e20374e55be6bb4d26837af27605:52cc532f748fcbf2b806dad4289bf84c
+VSPORTS_ULTRA_HD	https://director.streaming.telia.com/tvm-packager-prod/group3/60b76e87baa9d5ddc9262457/manifest.mpd``c02b1c0a644d5aa4b7176ae585c572dc:5a7799ea89ea65e3bac9a10684e616bc
+VSPORTS_PREMIUM_HD	https://director.streaming.telia.com/tvm-packager-prod/group1/60896c3647a23d7f115cd57a/manifest.mpd``eab13e69793756eda77d8d71fda90d5d:cd022e9bffa6a0d1523ee5d9fcda9ed4
+TYC_International	https://edge-live15-hr.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_Live_dash_enc/TyC_Internacional.mpd``58e1ebe75d944f6a98ea67b1c7c0a572:1c311b069dbce31ce8e62a6e7e2433eb
+TEN_CRICKET	https://bpcdn.dialog.lk/bpk-tv/Ch065/output/index.mpd``abfc480ae7920a3ebd9e99e7b9a0d3e2:63a7fe4e7899ba2bc5bbd4307398f3ff
+SKY_SPORT_24_IT	https://linear301-it-dash1-prd.selector.skycdn.it/016a/31035/FHD/skysport24/master_stereo.mpd``003618ccd7be22b6367207ed8d64d505:36e97f29ec5ea6126077cc040cc2ceeb
+SKY_SPORT_251_IT	https://linear311-it-dash1-prd-akp2.cdn13.skycdp.com/016a/31917/FHD/skysport251/master.mpd``00368000eaecbeeafd84c05b3b8243af:8f84185910e18ae0ca8a45004625a000
+SKY_SPORT_252_IT	https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/32951/FHD/skysport252/master.mpd``0036c4797608fc64296d437bc6f8b790:1689af84b23f514005f9bb854da7667f
+Sky_Sport_253	https://linear311-it-dash1-prd-akg0.cdn13.skycdp.com/016a/32233/FHD/skysport253/master.mpd``00365b169a077daac5081277c3fd0c28:f68ab32a552e13509a8ee1c4d96204bc
+Sky_Sport_254	https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/31234/FHD/skysport254/master.mpd``00369c14c20b78aadb1ec0e3c0e74979:e768767e2c7238d8069887bb36aed7fa
+Sky_Sport_255	https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/32910/FHD/skysport255/master.mpd``0036b781a22ebb0c20c16ac27d5d1448:f309b94acfda720bf1ed5741489f8967
+Sky_Sport_256	https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/31912/FHD/skysport256/master.mpd``00366f263859fc1cc82d2c4da6a66ef6:754ae922d113c54349002cd9a88694a4
+Sky_Sport_257	https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/31775/FHD/skysport257/master.mpd``0036faeace9872d3ceeb8b1b63f0baa3:dbd41ee944243307d39b7b27f16615a8
+SKY_258_IT	https://linear312-it-dash1-prd-ll.cdn13.skycdp.com/016a/32772/skysport258/master.mpd``0036fd8ccfddba47c8b40aeff63a797c:dfd5c9d0f4ac6f3a1bd89803399e7026
+SKY_SPORT_CALCIO_IT	https://linear302-it-dash1-prd-ll.cdn13.skycdp.com/016a/31209/FHD/skysportseriea/master.mpd``0036e5d0e88dfb087f1791da6150ced9:0bc653d830837dceb13bd17169f0f8e2
+SKY_SPORT_MAX_IT	https://linear305-it-dash1-prd-ll.cdn13.skycdp.com/016a/31248/FHD/skysportmax/master.mpd``0036ae9248d939e4e1cd2198d2593a42:efc6699e1756403916b0280ea63f4c28
+SKY_SPORT_MOTOGP_IT	https://linear306-it-dash1-prd.selector.skycdn.it/016a/31483/FHD/skysportmotogp/master.mpd``0036ea2e908d4cc20ef08595da9ff991:08e1ae9fa0ee4d9ec2b194c4908613ae
+SKY_SPORT_NBA_IT	https://linear301-it-dash1-prd.selector.skycdn.it/016a/31764/FHD/skysportnba/master_stereo.mpd``0036c4e453ae2a044f4c861ed73b560a:ea5626c0aa092c382ca58151b5f4b208
+SKY_SPORT_UNO_IT	https://linear301-it-dash1-prd.selector.skycdn.it/016a/31023/FHD/skysportuno/master.mpd``00362452ed102000ccea64c311921dc2:02f27bd6caab7633d3083b94d3958b1c
+ESPN_AR	https://chromecast.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc_2A/ESPN2HD.mpd``e884b711ab111beb8a7ba1e7bcbdc9bf:cb89ee3961599e3e648a5aad60895f34
+ESPN_2_AR	https://chromecast.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_Live_dash_enc_2A/ESPN2_Arg.mpd``65a5bfa3c7a72dde60be9b0c7406c8fc:0b40ae9f78a7bac3b57ecbf72d3c081e
+ESPN_3_AR	https://chromecast.cvattv.com.ar/live/c3eds/ESPN3/SA_Live_dash_enc_2A/ESPN3.mpd``f4c9f97e2a36feab0e5077f2b44cbc4e:1743cd03dfe3736b2c95da91a783af38
+ESPN_DEPORTES	https://linear.stvacdn.spectrum.com/LIVE/1166/dash/cenc/ESPNDHD_13667/manifest.mpd``be65e5985fa04a49af310f0a92a0260a:1acb5ff7b0dbfdf19c4dca1aabfaaa11
+ESPN_EXTRA	https://cdn.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc/ESPNHD.mpd``cc8d44406ed6bf1898ad9f7a2d64f29e:fb85d059687ab0fc67805806204edbdf
+FOX_DEPORTES_USA	https://linear.stvacdn.spectrum.com/LIVE/1106/dash/cenc/FXDEPHD/manifest.mpd``c9231d5e7a99429382e6a5c2e588e141:ca08ab407ab9393a814d720f1f41c6cf
+FOX_SPORTS_AR	https://chromecast.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc_2A/FoxSports.mpd``cbc2a0c7a38df0aa3333cd71841d3b0d:aac61b730e2ac1df23f1e872e7541c1b
+FOX_SPORTS_2_AR	https://chromecast.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_enc_2A/FoxSports2HD.mpd``c98ddffc470fe449ae1a8d6492116976:5086d370e840010232cf4532b16e197f
+FOX_SPORTS_3_AR	https://chromecast.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc_2A/FoxSports3HD.mpd``55b47390cf9e4997dae6dac85e057875:fa39e855543c5d70f30600d59e5e4c1b
+CRICLIFE_1	https://criclive1.starzplayarabia.com/out/v1/1adbc63744e44594a273eb48ec027b65/index.mpd``a05a54bf469c6040a288477d0082ca65:4344373c32a573e73a42eeab936a98a9
+CRICLIFE_2	https://criclive2.starzplayarabia.com/out/v1/1b232653e5254150a60a577cc8db682f/index.mpd``cf671610fa53cc56b07b1d235169fc81:50ac62719a1205fd08c01e368e27e3d4
+CRICLIFE_3	https://cricmax.starzplayarabia.com/out/v1/6a04831479eb46efaaf840eb558371ef/index.mpd``b6045efd2889ce05f4800e2f7ac0d3ee:abf072f537b8f4872be45f971ba24503
+THE_PAPARE	https://bpcdn.dialog.lk/bpk-tv/Ch126/output/index.mpd``01b1bafc996378ec0a7cb804aedca646:e1669c99c646fbbe4d4ade8dfe3a3963
+AIS_SPORTS_1	https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/TL101/DASH/TL101.mpd``b6045efd2889ce05f4800e2f7ac0d3ee:abf072f537b8f4872be45f971ba24503
+CRICLIFE_MAX	https://cmaxlive.starzplayarabia.com/out/v1/bebec73ea17b40b3bd0257ad8e97b531/index.mpd``ec2168a420478062ec89540dad862bdd:d6d63d7a1391d2a89fb12e5e1c5ced01
+STARSPORTS_1	https://bpweb5.akamaized.net/bpk-tv/irdeto_com_Channel_250/output/manifest.mpd?hdnea=exp=1714014408~acl=/*~hmac=e60a68d2bd400aabe581aaeda793e56105be7c8d2be88a3e147e11704f61c555``a56bd657d7e8588a9bc975d10f78169b:0eb217bfb97294ff00e0c27150ee2140
+STARSPORTS_HINDI	https://rftv.wtf/ch.mpd?id=24``24fe8f3887e0550db02ca596fd480175:79a62f3a5f3fa324f4de420d370a05b5
+STARSPORTS_2_SD	https://bpcdn.dialog.lk/bpk-tv/Ch069/output/index.mpd``79b340b2b5f7c3c89951daabde7cdf97:3e22bc39d22a7f8c3516f6b58b144668
+STARSPORTS_2_HD	https://rftv.wtf/ch.mpd?id=235``e5b99f622ea0573d94470d22b340d6c0:0f3c040b86b1a7f731565d71cf676401
+STAR_SELECT_1	https://rftv.wtf/ch.mpd?id=246``c6fc677428aa54f29ffca8ae9737a1db:9f95277e4dc789b864d5bcb09a7431d6
+STAR_SELECT_2	https://rftv.wtf/ch.mpd?id=463``8b95761b0dc7572e825eae11bd37cca9:74e598c7e140bba6cb14dd2189bc4111
+DAZN_1_ES	https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd``44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
+DAZN_2_ES	https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/xnk4m9bnxt/out/v1/4ced7b7329a54652b9bb0521ed38bd4d/cenc.mpd``0eab5a3f3e3b4ba5d42d40ca30d17571:f3f061ded9b70e8160590d5802ecda6d
+DAZN_F1	https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/cqbcvgkb83/out/v1/4dbe05ecfb1540448d82d68eeebfbb1c/cenc.mpd``1061be12d303247426ec25e8369b2647:bd622b0e610295de3b0bccb850ccaaaa
+EUROSPORT_1_ES	https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:43_HD.smil/manifest.mpd``05457a5e16a76fe666a22cc7ae2c6548:626e37901bfb985e994d714e9f9de1b5
+EUROSPORT_2_ES	https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:59_HD.smil/manifest.mpd``05457a5e16a76fe666a22cc7ae2c6548:626e37901bfb985e994d714e9f9de1b5
+ELEVEN_SPORTS_1_PT	https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Eleven_Sports_1_HD/index.m3u8/S!d2EJVFZPU19MaXZlEgJU.v...wEWBJ8_/Level(5242880)
+ELEVEN_SPORTS_2_PT	https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Eleven_Sports_2_HD/index.m3u8/S!d2EISU9TX0xpdmUSBkPIS1XDVP7...8BFgyf/Level(1200000)
+ELEVEN_SPORTS_3_PT	https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Eleven_Sports_3_HD/index.m3u8/S!d2EISU9TX0xpdmUSBkPIS1XDVP7...8BFgyf/Level(1200000)
+ELEVEN_SPORTS_4_PT	https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Eleven_Sports_4_HD/index.m3u8/S!d2EISU9TX0xpdmUSBkPIS1XDVP7...8BFgyf/Level(1200000)
+ELEVEN_SPORTS_5_PT	https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Eleven_Sports_5_HD/index.m3u8/S!d2EISU9TX0xpdmUSBkPIS1XDVP7...8BFgyf/Level(1200000)
+ELEVEN_SPORTS_6_PT	https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Eleven_Sports_6_HD/index.m3u8/S!d2EISU9TX0xpdmUSBkPIS1XDVP7...8BFgyf/Level(1200000)
+LALIGA_HYPE	https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/woujvkfnmn/out/v1/141b52f08a1e4e97850219729ee48dc8/cenc.mpd``0b1fdeaee3ffc51e9a66cf1938d57aaf:28e3cb88ab7b476b81ab8aa0624c4d71
+SONY_TEN_1_HD	https://bpprod5live.akamaized.net/bpk-tv/irdeto_com_Channel_256/output/manifest.mpd``7d8cc6ee3c9a5a82a0071779f351a9a5:1d4d52698080d453b032ca44277fd274
+SONY_TEN_2_HD	https://bpprod5live.akamaized.net/bpk-tv/irdeto_com_Channel_726/output/manifest.mpd``1cc361e170845936aea7b95c6efb478e:dc78eab46264d457a5db0f0c429ce4a6
+SONY_TEN_3_HD	https://bpprod5live.akamaized.net/bpk-tv/irdeto_com_Channel_727/output/manifest.mpd``4428be7aacfb557492c7fa552c3ecbf1:fd86b49ad205dec6b52be48e174e5192
+SONY_TEN_5_HD	https://bpprod5live.akamaized.net/bpk-tv/irdeto_com_Channel_254/output/manifest.mpd``c71dd63f411a5099844a73fbe850c9fd:6d99d08dd98ddbe01176e09eb77e0296
+SONY_TEN_1	https://bpprod1live.akamaized.net/bpk-tv/irdeto_com_Channel_114/output/manifest.mpd``35694821a95c5923801ab1ba3be8ddaf:9008ae2db813ee6d472ab81e613db74f
+SONY_TEN_2	https://bpprod2live.akamaized.net/bpk-tv/irdeto_com_Channel_115/output/manifest.mpd``d39d37e73df95fab9f37f2520fa24982:6e5a14a91f1b108b482fd16481ce1feb
+SONY_TEN_3	https://bpprod3live.akamaized.net/bpk-tv/irdeto_com_Channel_116/output/manifest.mpd``0d262391181150e9bb1c1fa3f86d7db8:ddb63e3e93d60ef3feea4cc1ecedfd05
+NBC_USA	https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/master.mpd``0045a118e231f1326bcdb45350b1ceaa:8c13afbfa54ea37a368b8b859021f6e3
+GO3-SPORT3-LITHUANIA	https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport_HD_HVC.mpd``610ad79e26a84fc782c987455e21a86b:d2d4acc6e79447b55f3f5c0267af06f5
+Football	https://melon.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd``4d38060bf41b3c29df0ec950ece6b5da:7ee9506b13480491d79b71c062ab5366
+Sport1 TV	https://melon.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd``531c6d50e3e9f9ba66446f624f492289:d769d9ae238bdd424f8bcdcdc9a3801f
+Sport2 TV	https://melon.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd``45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
+Sport3 TV	https://melon.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd``fadd2720deff5925ab86df0819cd7775:f67ff08c7ebc779f6a6fcfc83835f65b
+Sport4 TV	https://melon.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd``b81b1942c65f35547ced1bff074206a5:a07dc4d86f51db7195f4b7e2abe9d9e8
+Spo1 TV	https://melon.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd``57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
+Spo2 TV	https://melon.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd``57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
+Sport 1	`1https://live.sportsnews.id/p/mncsp1.html
+Sport 2	`1https://live.sportsnews.id/p/mncsp2.html
+Sport 3	`1https://live.sportsnews.id/p/mncsp3.html
+Sport 4	`1https://live.sportsnews.id/p/mncsp4.html
+CCTV 5	`1https://live.sportsnews.id/p/cctv5.html
+CCTV 5+	`1https://live.sportsnews.id/p/cctv-5plus.html
+RU Match!	https://livetv.mylifeisgood.net.ru/channels/matchhd_nocensored.m3u8
+BE  Eleven Sports EPL	https://raw.githubusercontent.com/uploadplaylist/clon/main/eleven2BE.m3u8
+Arena Sport HR 1	https://raw.githubusercontent.com/uploadplaylist/clon/main/arenasportHR1.m3u8
+Arena Sport HR 2	https://raw.githubusercontent.com/uploadplaylist/clon/main/arenasportHR2.m3u8
+Arena Sport HR 3	https://raw.githubusercontent.com/uploadplaylist/clon/main/arenasportHR3.m3u8
+Arena Sport HR 4	https://raw.githubusercontent.com/uploadplaylist/clon/main/arenasportHR4.m3u8
+RMC Sport 1	https://raw.githubusercontent.com/uploadplaylist/clon/main/rmcsport1.m3u8
+RMC Sport 2	https://raw.githubusercontent.com/uploadplaylist/clon/main/rmcsport2.m3u8
+PL8	https://raw.githubusercontent.com/uploadplaylist/clon/main/PL8.m3u8
+PL9	https://raw.githubusercontent.com/uploadplaylist/clon/main/PL8.m3u8
+PL10	https://raw.githubusercontent.com/uploadplaylist/clon/main/PL8.m3u8
+b1id	https://cdn08jtedge.indihometv.com/dassdvr/133/beib1/manifest.mpd``69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+b3id	https://cdn08jtedge.indihometv.com/dassdvr/133/beib2/manifest.mpd``69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+Makkah	`201`00c654501`00d
+DW	`201`00c245201`00d
+SEA Today	`201`00c3761401`00d
+DAAI	`201`00c282701`00d
+RCTI	`201`00c201`00d
+iNews	`201`00c501`00d
+GTV	`201`00c301`00d
+Metro	`201`00c1001`00d
+MNC	`201`00c401`00d
+ANTV	`201`00c1201`00d
+Trans TV	`201`00c601`00d
+Trans 7	`201`00c1101`00d
+RTV	`201`00c290101`00d
+Kompas	`201`00c290901`00d
+Jak TV	`201`00c276701`00d
+Net.	`201`00c283001`00d
+tv One	`201`00c801`00d
+BTV	`201`00c274601`00d
+IDX	`201`00c6201`00d
+JTV	`201`00c283601`00d
+TVRI	`201`00c1301`00d
+Tawaf	`201`00c1961301`00d
+Muslim	`201`00c5201`00d
+tvMu	`201`00c743801`00d
+Tv9	`201`00c373801`00d
+Bandung	`201`00c3513201`00d
+Bali	`201`00c283901`00d
+Makkah	`2https://useetvwv.visionplus.id/playing/channels/36545
+DW	`2https://useetvwv.visionplus.id/playing/channels/32452
+SEA Today	`2https://useetvwv.visionplus.id/playing/channels/337614
+DAAI	`2https://useetvwv.visionplus.id/playing/channels/32827
+RCTI	`2https://useetvwv.visionplus.id/playing/channels/32
+iNews	`2https://useetvwv.visionplus.id/playing/channels/35
+GTV	`2https://useetvwv.visionplus.id/playing/channels/33
+Metro	`2https://useetvwv.visionplus.id/playing/channels/310
+MNC	`2https://useetvwv.visionplus.id/playing/channels/34
+ANTV	`2https://useetvwv.visionplus.id/playing/channels/312
+Trans TV	`2https://useetvwv.visionplus.id/playing/channels/36
+Trans 7	`2https://useetvwv.visionplus.id/playing/channels/311
+RTV	`2https://useetvwv.visionplus.id/playing/channels/32901
+Kompas	`2https://useetvwv.visionplus.id/playing/channels/32909
+Jak TV	`2https://useetvwv.visionplus.id/playing/channels/32767
+Net.	`2https://useetvwv.visionplus.id/playing/channels/32830
+tv One	`2https://useetvwv.visionplus.id/playing/channels/38
+BTV	`2https://useetvwv.visionplus.id/playing/channels/32746
+IDX	`2https://useetvwv.visionplus.id/playing/channels/362
+JTV	`2https://useetvwv.visionplus.id/playing/channels/32836
+TVRI	`2https://useetvwv.visionplus.id/playing/channels/313
+Tawaf	`2https://useetvwv.visionplus.id/playing/channels/319613
+Muslim	`2https://useetvwv.visionplus.id/playing/channels/352
+tvMu	`2https://useetvwv.visionplus.id/playing/channels/37438
+Tv9	`2https://useetvwv.visionplus.id/playing/channels/33738
+Bandung	`2https://useetvwv.visionplus.id/playing/channels/335132
+Bali	`2https://useetvwv.visionplus.id/playing/channels/32839
+AFC-1	https://pull.bzssnkeji.com/live/4793007_lhd.flv?auth_info=qOZNkcdYMmk2tXz45YmGPuFUmsKitEaQRVKjTJj76WjFM%2BeNTXyIVX7jFz1SRssT.72454d58794d5a674c64485a525a6544
+AFC-2	https://pull.bzssnkeji.com/live/4792947_lhd.flv?auth_info=ABGQ2V8yUyK52J5SIx4x4RdcHaO%2BlY7YozZAlR2T2WZt%2BOex%2F5HJM6SriTi%2Bhyjy.4d58475967637270797755664a787072
+SportStar 1	`0https://go.now.net.eu.org/p/live?embed=id_48&type=h
+SportStar 2	`0https://go.now.net.eu.org/p/live?embed=id_44&type=h
+SportStar 3	`0https://go.now.net.eu.org/p/live?embed=id_45&type=h
+SportStar 4	`0https://go.now.net.eu.org/p/live?embed=id_34&type=h
+Soccer.id	`0https://go.now.net.eu.org/p/live?embed=id_47&type=h
+Sky Mix	`0https://go.now.net.eu.org/p/live?embed=skymix&type=m
+Sky Sports Action	`0https://go.now.net.eu.org/p/live?embed=skyaction&type=m
+Sky Sports Cricket	`0https://go.now.net.eu.org/p/live?embed=skycricket&type=m
+Sky Sports Golf	`0https://go.now.net.eu.org/p/live?embed=skygolf&type=m
+Sky Sports Racing	`0https://go.now.net.eu.org/p/live?embed=skyracing&type=m
+Flik	https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd``69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+MakkahTV.id	01`02bAlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd``67fe3ac3ca111c9bdd6e8480091dc13c:7d05fb1ff7705c1e452ff7e1b841a1b8
+Spo1.id	01`02bSPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd``57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
+Spo2.id	01`02bSPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd``57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
+Nickelodeon.id	01`02bNickelodeon/sa_dash_vmx/Nickelodeon.mpd``785024598882dc751652cea2bce44b8e:56a40e58acd59965e865947dd719108d
+Trans7.id	01`02bTrans7-2/sa_dash_vmx/Trans7-2.mpd``26bd60e03bbed7819eea0b27075a1897:d221ba6a6ab66e3083c001d2c4a3e5c5
+TransTV.id	01`02bTransTV-2/sa_dash_vmx/TransTV-2.mpd``334950781f60a66f5e58324b70ac675d:73caca97be8999ce9cfeb3babad8669d
+BeritaSatu.id	01`02bBeritaSatu/sa_dash_vmx/BeritaSatu.mpd``d022ff3be9391a16a8436261059806b0:e6dd32d6a257f900acb52a82d898bb81
+iNews.id	01`02biNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd``a31cf5136789514b7e12b9cc99307c84:980e54d671ffc2b2f4cf54e75cae0ac2
+AXN.id	01`02bAXN/sa_dash_vmx/AXN.mpd``c5d5297a84f8b2de977f07286345c591:bdb773d6d25303b75a396b8040cfaf8c
+Thrill.id	01`02bThrill/sa_dash_vmx/Thrill.mpd``06e7e95fdb30086d24111f300c9d91f1:9431050f760f692bfd396bbd84cb5161
+TV5-Monde-Asie.id	01`02bTV5/sa_dash_vmx/TV5.mpd``1b411a92f60bd9751d9637e849d3a632:d9bbfb8e1d34089daf5cc0c3ca17c694
+ZeeBioskop.id	01`02bZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd``9e7df70530006bef067327cefde82c0e:b92b6a2aba522bd9bb2d07cf241e7398
+JTV.id	01`02bJTV/sa_dash_vmx/JTV.mpd``10e203f655014b5d18b0c85a6c72c809:acdcd0b65014e4929c6296171bdfebad
+TawafTV.id	01`02bTawafTV/sa_dash_vmx/TawafTV.mpd``552bc18038d025c26ead432fa521f83a:beab0589d5f15d4a56278c7df913b263
+TVMuhammadiyah.id	01`02bTVMuhammadiyah/sa_dash_vmx/TVMuhammadiyah.mpd``2fa7625e3470d5e9429f64150614f9a5:c495ad0e82e2266fd207934327c71ce3
+MyFamily.id	01`02bMyFamily/sa_dash_vmx/MyFamily.mpd``4310edb8b9ffe79abb40bacafa778ec3:aebb7e86d8a336d9a93d3dd8a41153cf
+GTV.id	01`02bGTV-HD/sa_dash_vmx/GTV-HD.mpd``88f6c7cbd793374cb5f12d7e26dcd63b:e82daa7c7bfb03d99327463fdbd37336
+ANTV.id	01`02bANTV/sa_dash_vmx/ANTV.mpd``4310edb8b9ffe79abb40bacafa778ec3:aebb7e86d8a336d9a93d3dd8a41153cf
+Muslim.id	01`02bMNCMuslim/sa_dash_vmx/MNCMuslim.mpd``eefa1c34afba72f8fe902b061632528f:334cde07f6ebe092c0ae0521591d73cf
+Sport1.id	01`02bMNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd``531c6d50e3e9f9ba66446f624f492289:d769d9ae238bdd424f8bcdcdc9a3801f
+Sport2.id	01`02bMNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd``45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
+Animax.id	01`02bAnimax/sa_dash_vmx/Animax.mpd``6344a8272809245e3fa9d926099528c3:93b6c4ff420c6864a6294f6d223d9b2c
+CBeebies.id	01`02bCbeebies/sa_dash_vmx/Cbeebies.mpd``194891b41223a5f1ec2beff1c95e2f53:eeb1fb2ec011f9563653495f9ac427b1
+CinemaChiKids.id	01`02bCinemachi-Kids-HD/sa_dash_vmx/Cinemachi-Kids-HD.mpd``ebe6190a3cfbbed4ec34e4d9c7a30e1e:d161b1f737e2aee9501149406c8abe9e
+Dreamworks.id	01`02bDreamwork-HD/sa_dash_vmx/Dreamwork-HD.mpd``57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
+Kids.id	01`02bKidsChannel/sa_dash_vmx/KidsChannel.mpd``17340c4223a4674b1b7da8d8d9e11174:11a73aad2c75ddf338840b08fb915993
+ZooMoo.id	01`02bBoomerang/sa_dash_vmx/Boomerang.mpd``5ff6154f28d6950063f9f5b4db7be009:93cac38fd15124acce5b658896df0a25
+NickJr.id	01`02bNickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd``f71ca09f57ea09e27ee63d7d1f0d0e31:8a07ef45b4a18973ef12f8da482dcec0
+MNCTV.id	01`02bMNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd``828e0aba9825c3546a2831e4c0c36f7f:f85d3dcd38981368ab3da597e97ebdcc
+NetTV.id	01`02bNetTV-HD/sa_dash_vmx/NetTV-HD.mpd``6b7bbcf1d511a56e6b3ceda392e4fa33:d1766244d7c1c44efd4c67aafae3ee7b
+RCTI.id	01`02bRCTI-DD/sa_dash_vmx/RCTI-DD.mpd``9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
+Kompas.id	01`02bKompasTV/sa_dash_vmx/KompasTV.mpd``493fd10e609dd02ae97964f438e7e530:695cf9896182c52f1c3a25820e7778f5
+Metro.id	01`02bMetro-TV2/sa_dash_vmx/Metro-TV2.mpd``4497473c5b978655ce62de7873e04174:6af319f8d82351f8c3b18c9abdfdef4d
+TVOne.id	01`02bTVOne-2/sa_dash_vmx/TVOne-2.mpd``90204c05545f95a262bb0d3ac45de870:0e80f2a19fdf8da476bf695cd9570bb2
+OKTV.id	01`02bOKTV/sa_dash_vmx/OKTV.mpd``57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
+RTV.id	01`02bRTV/sa_dash_vmx/RTV.mpd``30384ee5424eab4afdff34d7a59e0ef9:5f3d2f2c194266ae9a28210f8976cbe0
+VisionPrime.id	01`02bVisionPrime/sa_dash_vmx/VisionPrime.mpd``50056951f6d5f5fbaf286cd99c965379:4ec78e3b7d66d1db3815a127f792b604
+Music.id	01`02bMusicChannel/sa_dash_vmx/MusicChannel.mpd``0bea88ab972e06760a04712cc423d841:4039d607f88f1b1f677e4beb6ee66637
+IndonesianMovie.id	01`02bIndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd``1a551e30ef88a5a121dcea6a74a3aee7:b0f3de006d6e31e967a5bc41be086e64
+CelestialClassic.id	01`02bCelestialClassic/sa_dash_vmx/CelestialClassic.mpd``12da619438b3748da206142216d0943b:6958377109d34561ad20645319cec62c
+CelestialMovie.id	01`02bCelestialMovie/sa_dash_vmx/CelestialMovie.mpd``13aecb26aeee22bc86920045f22d134d:80aa44d998c7c0cc221c96d26730fe9b
+CinemaChi.id	01`02bCinemachi-HD/sa_dash_vmx/Cinemachi-HD.mpd``eeea0c2986e91a13eacd590ad1ebfe43:0acc16bd84921489f67bad19e4099cae
+CinemaChiAction.id	01`02bCinemachi-Action/sa_dash_vmx/Cinemachi-Action.mpd``fba45325e2cd8355972ede4981f43b2a:d88a4bdd67f89cd21eb074c81de1b994
+CinemaChiMax.id	01`02bCinemachi-Max-HD/sa_dash_vmx/Cinemachi-Max-HD.mpd``6c256f70830647e4bdf654d86e710ed5:fe41e9bcbae52f9d233407f7488bca5f
+CinemaChiExtra.id	01`02bCinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtra-HD.mpd``b64eee6360b118d0d90329cc2c9e4c60:4e97aa6422b26ffb372647dbd0a7683c
+GalaxyPremium.id	01`02bGalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd``7bc29ff5f405dff971e3a326223fe26c:06849a953a38da997b31bacf433cc74a
+Galaxy.id	01`02bGalaxy-HD/sa_dash_vmx/Galaxy-HD.mpd``e5c40292f8d01b1d5f0c6b3904d73104:bcb2ac12e11c69594ba217bfe8714efe
+HitsMovies.id	01`02bHitsMovies/sa_dash_vmx/HitsMovies.mpd``5d9684b1737e3b68801b4cff7225d4bb:902e7634820c26a8ff36f3708f0191d4
+Lifetime.id	01`02bLifetime/sa_dash_vmx/Lifetime.mpd``8bd8efd4840c37f50f8a053f92e9b015:7f8b3b508bb394919dab1b6e91e7bacf
+RockAction.id	01`02bRockaction/sa_dash_vmx/Rockaction.mpd``b9c123fbf587e6524b2706bd960c7f67:d2aaac6845b33627cdce1272feac5acc
+tvNMovies.id	01`02btvNMovies/sa_dash_vmx/tvNMovies.mpd``45c004003b09719751adb885d28d491f:fe82bc3ffe00477c833812fae74caed7
+Hits.id	01`02bHITS/sa_dash_vmx/HITS.mpd``78d17d4851a5e9eede96f283b15ec053:c5ae33f70cc967fe107b35eb7225f52a
+KIX.id	01`02bKIX/sa_dash_vmx/KIX.mpd``fe761e8fac143d40510e70825dad0b20:eed9fb0b4e254e9104ef98e8a7035387
+Rock-Entertainment.id	01`02bRockentertainment/sa_dash_vmx/Rockentertainment.mpd``57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
+One.id	01`02bSetOne/sa_dash_vmx/SetOne.mpd``7b212a67ce3e8b056af85b890e3de811:428a68fac3d97a5fae0f695edcee6346
+tvN.id	01`02btvN/sa_dash_vmx/tvN.mpd``742131dbcb507c31502eb60b32be6bb8:209f03c525bbbc9fd8652aa7a9cc5cb0
+History.id	01`02bHistory/sa_dash_vmx/History.mpd``2ccaa7d9731c2e69fa5344c5a547b836:d23fb6a3c73eb7ab8ad19ca841db0fb5
+TVRI.id	01`02bPemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd``ca65af90adc5e3ddb180e16426bb67da:b6f87a3a128dbd75ead036f596edeae7
+MyCinema.id	01`02bMyCinema/sa_dash_vmx/MyCinema.mpd``4310edb8b9ffe79abb40bacafa778ec3:aebb7e86d8a336d9a93d3dd8a41153cf
+MyCinemaAsia.id	01`02bMyCinema-Asia/sa_dash_vmx/MyCinema-Asia.mpd``4310edb8b9ffe79abb40bacafa778ec3:aebb7e86d8a336d9a93d3dd8a41153cf
+Soccer.id	01`02bsoccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd``4d38060bf41b3c29df0ec950ece6b5da:7ee9506b13480491d79b71c062ab5366
+Sport3.id	01`02bMNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd``fadd2720deff5925ab86df0819cd7775:f67ff08c7ebc779f6a6fcfc83835f65b
+Sport4.id	01`02bSportstar4/sa_dash_vmx/Sportstar4.mpd``b81b1942c65f35547ced1bff074206a5:a07dc4d86f51db7195f4b7e2abe9d9e8
+CinemaWorld.id	01`02bCinemaWorld/sa_dash_vmx/CinemaWorld.mpd``958df746f24f371dffc95e7cd714fbd7:fbd6e4540b9a917a27da8be01542f53f
+NatGeo.id	01`02bNatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd``05457a5e16a76fe666a22cc7ae2c6548:626e37901bfb985e994d714e9f9de1b5
+NatGeoWild.id	01`02bNatGeoWild/sa_dash_vmx/NatGeoWild.mpd``c3066eaa0984588f78d12dcdb75ef88b:4e98eb4927941bff51ea526d223fa16d
+JakTV.id	01`02bJakTV/sa_dash_vmx/JakTV.mpd``f2c9087e5432ce2c2f4ae8e1fd77ae4c:f7a50262991ca7d505fce1572a7f0c2a
+MoonBug.id	01`02bBabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd
+My-Kids.id	01`02bMy-Kids/sa_dash_vmx/My-Kids.mpd
+IDX.id	01`02bIDX/sa_dash_vmx/IDX.mpd
+MNC-News.id	01`02bMNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
+AlJazeera.id	01`02bAlJazeeraInternational/sa_dash_vmx/AlJazeeraInternational.mpd
+SEA-Today.id	01`02bSEA-Channel/sa_dash_vmx/SEA-Channel.mpd
+Bali.id	01`02bBaliTV/sa_dash_vmx/BaliTV.mpd
+TV9.id	01`02bTV9/sa_dash_vmx/TV9.mpd
+DW.id	01`02bDW/sa_dash_vmx/DW.mpd
+DAAI.id	01`02bDAAITV/sa_dash_vmx/DAAITV.mpd
+Bandung.id	01`02bBandungTV/sa_dash_vmx/BandungTV.mpd
+Entertainment.id	01`02bMNCEntertainment/sa_dash_vmx/MNCEntertainment.mpd
+Infotainment.id	01`02bMNCInfotainment/sa_dash_vmx/MNCInfotainment.mpd
+BBC-Earth.id	01`02bBBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
+CGTN.id	01`02bCGTN/sa_dash_vmx/CGTN.mpd
+CGTN-Doc.id	01`02bCGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
+Global-Trekker.id	01`02bGlobaltrekker/sa_dash_vmx/Globaltrekker.mpd
+Crime-Investigation.id	01`02bCrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
+NHK-World-Japan.id	01`02bNHKWorldTV/sa_dash_vmx/NHKWorldTV.mpd
+RT-English.id	01`02bRTEnglish/sa_dash_vmx/RTEnglish.mpd
+TRT-World.id	01`02bTRTWorld/sa_dash_vmx/TRTWorld.mpd
+Channel-News-Asia.id	01`02bChannelNewsAsia/sa_dash_vmx/ChannelNewsAsia.mpd
+France24.id	01`02bFrance24/sa_dash_vmx/France24.mpd
+LifeStyleFashion.id	01`02bLifeStyleFashion/sa_dash_vmx/LifeStyleFashion.mpd
+MTV	01`02bMrBein1/sa_dash_vmx/MrBein1.mpd
+MTV-90-HD	01`02bMTV-90-HD/sa_dash_vmx/MTV-90-HD.mpd
+Anhui.id	01`02bAnhuiTV/sa_dash_vmx/AnhuiTV.mpd
+Hunan.id	01`02bHunanTV/sa_dash_vmx/HunanTV.mpd
+Jiangsu.id	01`02bJiangsuTV/sa_dash_vmx/JiangsuTV.mpd
+ShanghaiDragon.id	01`02bShanghaiDragonTV/sa_dash_vmx/ShanghaiDragonTV.mpd
+XingKong.id	01`02bXingKongTV/sa_dash_vmx/XingKongTV.mpd
+FMN.id	01`02bFMN/sa_dash_vmx/FMN.mpd
+Paramount.id	01`02bParamount-HD/sa_dash_vmx/Paramount-HD.mpd
+Arirang.id	01`02bArirang/sa_dash_vmx/Arirang.mpd
+NHK-World-Premium.id	01`02bNHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd
+ABC-Australia-Plus.id	01`02bAustraliaPlus/sa_dash_vmx/AustraliaPlus.mpd
+BBC-World-News.id	01`02bBBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd
+Bloomberg.id	01`02bBloomberg/sa_dash_vmx/Bloomberg.mpd
+CNBC.id	01`02bCNBC/sa_dash_vmx/CNBC.mpd
+Euro-News.id	01`02bEuroNews/sa_dash_vmx/EuroNews.mpd
+Fight-Sports.id	01`02bFightSports/sa_dash_vmx/FightSports.mpd
+Fox-News.id	01`02bFoxNews/sa_dash_vmx/FoxNews.mpd
+Episode A World War 1 The Russian Revolution & Woodrow Willson	https://seed191.bitchute.com/P7Kloe3hUF0E/cDIVK7al8S3Z.mp4
+Episode B 1920-1940 Roosevelt Hitler Stalin The Battle of Ideas	https://seed191.bitchute.com/P7Kloe3hUF0E/a1uksr57dUau.mp4
+Chapter 1 World War Two	https://seed151.bitchute.com/9GID61VDD3ne/IHeMXTe0aeZP.mp4
+Chapter 2 Roosevelt Truman & Wallace	https://seed191.bitchute.com/9GID61VDD3ne/HzfYqaAWZBMg.mp4
+Chapter 3 The Bomb	https://seed151.bitchute.com/ncN5ictFfvMQ/UhYl1LZaVYLO.mp4
+Chapter 4 The Cold War 1945-1950	https://seed151.bitchute.com/9GID61VDD3ne/ukNnzYV8RiDt.mp4
+Chapter 5 The 50s: Eisenhower the Bomb & The Third World	https://seed131.bitchute.com/9GID61VDD3ne/1nOucGj4KqAP.mp4
+Chapter 6 JFK To the Brink	https://seed131.bitchute.com/9GID61VDD3ne/EPEppwugokit.mp4
+Chapter 7 Johnson Nixon & Vietnam: Reversal Of Fortune	https://seed131.bitchute.com/9GID61VDD3ne/t8Z2ZZ0R1Mtk.mp4
+Chapter 8 Reagan Gorbachev & Third World Rise of the Right	https://seed131.bitchute.com/9GID61VDD3ne/hhGingAYxSV1.mp4
+Chapter 9 Bush & Clinton-Squandered Peace-New World Order	https://seed131.bitchute.com/9GID61VDD3ne/JxLa0VKiCZA1.mp4
+Chapter 10 Bush & Obama-Age of Terror	https://seed131.bitchute.com/9GID61VDD3ne/su0qq9pLCcTk.mp4
+DAZN F1	01`01a1601`01b
+DAZN 1 DE	01`01a1701`01b
+DAZN 2 DE	01`01a1801`01b
+SportDigital Fussball	01`01a2201`01b
+NFL	01`01a2301`01b
+Zona DAZN	01`01a2401`01b
+Milan TV	01`01a2501`01b
+MLB	01`01a2601`01b
+EuroSport 1 DE	01`01a2701`01b
+EuroSport 2 DE	01`01a2801`01b
+EuroSport 1 IT	01`01a2901`01b
+EuroSport 2 IT	01`01a3001`01b
+EuroSport 1 ES	01`01a3101`01b
+EuroSport 2 ES	01`01a3201`01b
+Inter TV	01`01a3301`01b
+DAZN NBA	01`01a3501`01b
+Redbull TV	01`01a3601`01b
+DAZN 1 ES	01`01a3701`01b
+DAZN 2 ES	01`01a3801`01b
+LaLiga Live HyperMotion	01`01a4001`01b
+DAZN LaLiga	01`01a4301`01b
+Unbeaten	01`01a4401`01b
+DAZN 1 US	01`01a4501`01b
+Canal+ Ligue1 Uber Eats	01`01a4601`01b
+DAZN Eleven 1 ES	01`01a4701`01b
+DAZN Eleven 1 ES	01`01a4801`01b
+DAZN Eleven 01	01`01a4901`01b
+DAZN Eleven 01	01`01a5001`01b
+PlaySports 1	01`01a5101`01b
+PlaySports 2	01`01a5201`01b
+PlaySports 3	01`01a5301`01b
+DAZN Eleven 1	01`01a5401`01b
+DAZN Eleven 2	01`01a5501`01b
+DAZN Eleven 3	01`01a5601`01b
+DAZN Eleven 4	01`01a5701`01b
+DAZN Eleven 5	01`01a5801`01b
+DAZN Eleven 6	01`01a5901`01b

@@ -671,19 +671,3 @@ Channel 25	`0https://rakettvcom.blogspot.com/2024/07/oly25.html
 Channel 26	`0https://rakettvcom.blogspot.com/2024/07/oly26.html
 Channel 27	`0https://rakettvcom.blogspot.com/2024/07/oly27.html
 Channel 28	`0https://rakettvcom.blogspot.com/2024/07/oly28.html
-{s} Ⓗa0 ⚽️Live Sports	^^sa0
-{s} Ⓜa1 🤹Multi	^^sa1
-{s} Ⓧa2 🤺eXtra	^^sa2
-{h} Ⓞb0 Okay	^^hb0
-{h} Ⓒb1 Cool	^^hb1
-{h} Ⓕb2 Fun	^^hb2
-{h} Ⓦb3 Wow	^^hb3
-{s} Ⓢ 0 Samsung	^^s0
-{s} Ⓟ 1 Pluto	^^s1
-{h} Ⓘ 2 iptv.org	^^h2
-{s} Ⓥ 3 Movies Film 1	^^s3
-{h} Ⓨ 4 Movies Film 2	^^h4
-{h} Ⓩ 5 Movies Film 3	^^h5
-{h} Ⓣ 6 Movies Film 4	^^h6
-{h} * 7 Conspiracy Truth 1	^^h7
-{h} * 8 Conspiracy Truth 2	^^h8

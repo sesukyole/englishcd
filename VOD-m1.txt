@@ -1137,19 +1137,3 @@ The Terry Fox Story 1983&&https://hbogoprod-vod.akamaized.net/video/vod/output/H
 48 Hrs. 1982&&https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64374d81d940521074ce4be9_hbovodhd/dash0/IDN_DOLBY_index.mpd``3f8107436bdaabc4577833df9d4b3a3e:44abec86b8cfcf07a1edb365d02486c3
 Fort Apache, The Bronx 1981&&https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c720fd3be7189575a8bef20_hbovodhd/dash0/IDN_index.mpd``2c5107a2c0395a26a36afadec497ae01:782267f2dac822ad702c899c99097bf4
 The Shining 1980&&https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64fb3886d940521074e0a836_hbovodhd/dash0/IDN_DOLBY_index.mpd``bdea6630c10251df0a01d05d2bcf774b:b179f874f19ea12f97428f2cfde9bcf8
-{s} Ⓗa0 ⚽️Live Sports	^^sa0
-{s} Ⓜa1 🤹Multi	^^sa1
-{s} Ⓧa2 🤺eXtra	^^sa2
-{h} Ⓞb0 Okay	^^hb0
-{h} Ⓒb1 Cool	^^hb1
-{h} Ⓕb2 Fun	^^hb2
-{h} Ⓦb3 Wow	^^hb3
-{s} Ⓢ 0 Samsung	^^s0
-{s} Ⓟ 1 Pluto	^^s1
-{h} Ⓘ 2 iptv.org	^^h2
-{s} Ⓥ 3 Movies Film 1	^^s3
-{h} Ⓨ 4 Movies Film 2	^^h4
-{h} Ⓩ 5 Movies Film 3	^^h5
-{h} Ⓣ 6 Movies Film 4	^^h6
-{h} * 7 Conspiracy Truth 1	^^h7
-{h} * 8 Conspiracy Truth 2	^^h8
