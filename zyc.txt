@@ -2,3 +2,13 @@
 {h} * JP IPTV	^^hhttps://raw.githubusercontent.com/take2560/Japan-IPTV/main/jp.m3u
 {h} * Raku	^^hhttps://raw.githubusercontent.com/Justryuz/jtv/main/2.raku.m3u
 {h} * Action Movies Film VOD	^^hhttps://raw.githubusercontent.com/Justryuz/jtv/main/actionvod.m3u
+{s} Ⓗa0 ⚽️Live Sports	^^sa0
+{s} Ⓜa1 🤹Multi	^^sa1
+{s} Ⓧa2 🤺eXtra	^^sa2
+{h} Ⓞb0 Okay	^^hb0
+{h} Ⓒb1 Cool	^^hb1
+{h} Ⓕb2 Fun	^^hb2
+{h} Ⓦb3 Wow	^^hb3
+{s} Ⓢ 0 Samsung	^^s0
+{s} Ⓟ 1 Pluto	^^s1
+{h} Ⓘ 2 iptv.org	^^h2
