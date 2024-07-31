@@ -1,10 +1,10 @@
-{s} Ⓥ 1 Movies Film 1	^^s3
-{h} Ⓨ 2 Movies Film 2	^^h4
-{h} Ⓩ 3 Movies Film 3	^^h5
-{h} Ⓣ 4 Movies Film 4	^^h6
-{h} * 5 Conspiracy Truth 1	^^h7
-{h} * 6 Conspiracy Truth 2	^^h8
 {h} * Action Movies Film VOD	^^hhttps://raw.githubusercontent.com/Justryuz/jtv/main/actionvod.m3u
+{s} Ⓥ Movies Film 1	^^s3
+{h} Ⓨ Movies Film 2	^^h4
+{h} * Conspiracy Truth 1	^^h7
+{h} * Conspiracy Truth 2	^^h8
+{h} Ⓩ Movies Film 3	^^h5
+{h} Ⓣ Movies Film 4	^^h6
 Sports	^^hk^sports.m3u
 🌍 International	^^hc^int.m3u
 🇮🇩 Indonesia	^^hc^id.m3u
