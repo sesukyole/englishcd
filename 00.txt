@@ -26,6 +26,7 @@ Olympics Sports HD 18	https://testcors.starlive.workers.dev/https://mwmpos01.aka
 Olympics Sports HD 19	https://testcors.starlive.workers.dev/https://mwmpos02.akamaized.net/out/v1/7b8d435cc3ef421ea90f437143547133/manifest.mpd``097c0736feed44889bb554cbd5cef7bb:50e15a6476e3a6b9708a69dfbbf2eab6
 Olympics USA West	https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd``252a671825ba31ec8433f978c32ccf6d:ee560759ecc8d2274df2e63fcef56915
 Olympics Universo East	https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(universo-east)/master.mpd``232d71bb013d39ffb92ee8c576fb7e8e:087408a48be8d57046c3868b37ea90ba
+Olympics Sky Open	https://linear-p.media.skyone.co.nz/primeplus1.clear.m3u8
 Olympics EuroSport 1	https://cache3.zapitv.com/live/eds_c2/eurosport_1_hd/dash_live_enc/eurosport_1_hd.mpd``237be8ca9383755e9f5784dd23f545eb:15a723773c3b3cbce295c0aed0bc71c3
 Olympics EuroSport 2	https://cache3.zapitv.com/live/eds_c2/eurosport_2_hd/dash_live_enc/eurosport_2_hd.mpd``15382879a9bcfa6f1a04a86d5b4324e9:664241133368ab039dc1fb15206ba54b
 Olympics Sports 01	https://do2ibj89ih8kz.cloudfront.net/out/v1/7942a70dc4a64ed2bceb6b933402ffeb/manifest.mpd``14bc9706a4b044f083401ad4912ff657:e26b1490488635cdd2dc41c8b81c8cc1
@@ -183,7 +184,6 @@ Iraq Sport	https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/imn/
 Oman Sport	https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
 Afro Sport	https://newproxy3.vidivu.tv/vidivu_afrosport/index.m3u8
 Sport 1 Plus	https://ac-009.live.p7s1video.net/c5c609cf/t_009/sport1plus-de-hd/cenc-default.mpd``c1c11c3844b0dffdb9d9831900f1a1da:a2c31e15346f339ca2b47bdd8591553f
-Sky Open	https://linear-p.media.skyone.co.nz/primeplus1.clear.m3u8
 SM RTV Sport	https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/master.m3u8
 DAZN International Football	https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64b79c057d934100080b3583livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 DAZN Darts	https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64b67f0424ade50008a3be17livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
