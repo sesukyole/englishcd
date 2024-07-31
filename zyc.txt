@@ -2,6 +2,7 @@
 {h} * JP IPTV	^^hhttps://raw.githubusercontent.com/take2560/Japan-IPTV/main/jp.m3u
 {h} * Raku	^^hhttps://raw.githubusercontent.com/Justryuz/jtv/main/2.raku.m3u
 {h} * Action Movies Film VOD	^^hhttps://raw.githubusercontent.com/Justryuz/jtv/main/actionvod.m3u
+{h} * deadlyblogger.com NewRelease	^^hhttps://gist.githubusercontent.com/Jeffguitar/8fc1fdd9b895447bb612/raw/9bb268792ae517d4338c6c51e78358d9c3fc87bf/filmes8.m3u
 {s} Ⓗa0 ⚽️Live Sports	^^sa0
 {s} Ⓜa1 🤹Multi	^^sa1
 {s} Ⓧa2 🤺eXtra	^^sa2
