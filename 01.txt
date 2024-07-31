@@ -152,10 +152,10 @@ ZooMoo	https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 Just for Laughs Gags	https://distributionsjustepourrire-justforlaughsgags-1-br.samsung.wurl.tv/playlist.m3u8
 Always Funny Video Family	https://linear-12.frequency.stream/mt/plex/12/hls/master/playlist.m3u8
 WipeOut Xtra	https://d2stx9idyk58lb.cloudfront.net/wipeoutxtra-samsungus/playlist.m3u8
-Marvel Action	https://hlsa-akm.douyucdn.cn/live/20415rnWbjg6Ex1K_900/playlist.m3u8?wsAuth=014b39c4437d974e4d70045eb2d23e67&token=web-h5-0-20415-b6774b3b3249db179435e1a37410043c7827528d80fff5fe&logo=0&expire=0&did=c2d6f221fb67b0e8f4e820a300001601&ver=Douyu_221090605&pt=2&st=0&origin=tct&mix=0&isp=
-Douyu Movies 1	https://openhls-tct.douyucdn2.cn/dyliveflv1/4332rX3jRtJ8YeWS_2000.m3u8?txSecret=d6829eeec766672c1d181d803664f2be&txTime=66aa75d7&token=h5-douyu-0-4332-231e448f1f60efc5d0e8a75a68ba91ea&did=10000000000000000000000000001501&origin=tct&vhost=play1&sid=395692957
-Douyu Movies 2	https://openhls-tct.douyucdn2.cn/dyliveflv1/36337rrvzb1lQbzV_2000.m3u8?txSecret=160b992cb2175c2e7b39eb67ea35ec5f&txTime=66aa7b9f&token=h5-douyu-0-36337-a392fca515a5d7d5f89c843fce671532&did=10000000000000000000000000001501&origin=tct&vhost=play1&sid=392624442
-Douyu Movies 4	https://openhls-tct.douyucdn2.cn/dyliveflv3/6140589rXtkMlhOs_2000.m3u8?txSecret=123698d8f3153d9f58782256fbecf0e8&txTime=66aa77ab&token=h5-douyu-0-6140589-c204e8bfb4cebcb8d94612e65faaf90d&did=10000000000000000000000000001501&origin=tct&vhost=play3&sid=394821347
+Marvel Movies 1	https://hlsa-akm.douyucdn.cn/live/20415rnWbjg6Ex1K_900/playlist.m3u8?wsAuth=014b39c4437d974e4d70045eb2d23e67&token=web-h5-0-20415-b6774b3b3249db179435e1a37410043c7827528d80fff5fe&logo=0&expire=0&did=c2d6f221fb67b0e8f4e820a300001601&ver=Douyu_221090605&pt=2&st=0&origin=tct&mix=0&isp=
+Marvel Movies 2	https://openhls-tct.douyucdn2.cn/dyliveflv1/4332rX3jRtJ8YeWS_2000.m3u8?txSecret=d6829eeec766672c1d181d803664f2be&txTime=66aa75d7&token=h5-douyu-0-4332-231e448f1f60efc5d0e8a75a68ba91ea&did=10000000000000000000000000001501&origin=tct&vhost=play1&sid=395692957
+Marvel Movies 3	https://openhls-tct.douyucdn2.cn/dyliveflv1/36337rrvzb1lQbzV_2000.m3u8?txSecret=160b992cb2175c2e7b39eb67ea35ec5f&txTime=66aa7b9f&token=h5-douyu-0-36337-a392fca515a5d7d5f89c843fce671532&did=10000000000000000000000000001501&origin=tct&vhost=play1&sid=392624442
+Marvel Movies 4	https://openhls-tct.douyucdn2.cn/dyliveflv3/6140589rXtkMlhOs_2000.m3u8?txSecret=123698d8f3153d9f58782256fbecf0e8&txTime=66aa77ab&token=h5-douyu-0-6140589-c204e8bfb4cebcb8d94612e65faaf90d&did=10000000000000000000000000001501&origin=tct&vhost=play3&sid=394821347
 ESR Games	https://eyeonesports.com/480/ESR-003SCTE35.m3u8
 ZA WildEarth	https://wildearth-plex.amagi.tv/master.m3u8
 DE DW English	https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
