@@ -24,8 +24,8 @@ Olympics Sports HD 16	https://testcors.starlive.workers.dev/https://mwmpos01.aka
 Olympics Sports HD 17	https://testcors.starlive.workers.dev/https://mwmpos04.akamaized.net/out/v1/dbd2ba3639db4d61b6543856e815b1cc/manifest.mpd``de1f8f8d772a4b69b5dfa0d110f3f274:c6359d29b7752725de20a7783a0dc9ea
 Olympics Sports HD 18	https://testcors.starlive.workers.dev/https://mwmpos01.akamaized.net/out/v1/7600d156a41348ba807e0903f4182781/manifest.mpd``461097ca44b247d9b5f572eeb6794eb5:4408fcf6fda093ca94debeff70b707d9
 Olympics Sports HD 19	https://testcors.starlive.workers.dev/https://mwmpos02.akamaized.net/out/v1/7b8d435cc3ef421ea90f437143547133/manifest.mpd``097c0736feed44889bb554cbd5cef7bb:50e15a6476e3a6b9708a69dfbbf2eab6
-Volleyball Channels *	`0https://rakettvcom.blogspot.com/2024/07/nba1.html
-Basketball Channels *	`0https://rakettvcom.blogspot.com/2024/07/nba.html
+Volleyball Channels *	`0https://rakettvcom.blogspot.com/2024/07/voli.html
+Basketball Channels *	`0https://rakettvcom.blogspot.com/2024/07/basket.html
 Badminton Channels *	`0https://rakettvcom.blogspot.com/2024/07/bwf_28.html
 MY TV Okey	https://cors-proxy.cooks.fyi/https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 MY Sukan RTM TV	https://cors-proxy.cooks.fyi/https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
@@ -559,7 +559,8 @@ FUTV	https://cdn02.teletica.com/StreamFutv/Streamfutv04122023/playlist.m3u8
 Extreme Sports	https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:153_HD.smil/manifest.mpd``8518dcac42e4cfeb420ae4b5a633e23:d87181be4661c2b67d518860e98438fd
 Moto Adv	https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:68_HD.smil/manifest.mpd``ba07f96a90c24d9cab511c6698c79010:e4f8e87e4056ac60c577ac06ac0b02fd
 TV360	https://live-bd2.tv360.vn/lG-MXTyOwt8hQ__f5PJD7A/1719056883/manifest/sukien/playlist_720p.m3u8?manifestfilter=video_bitrate:1-3600000&uid=231754708
-CN Live Sports 1	https://lebo.huminbird.cn/live/ballbar_29010.m3u8
+CN Live Sports 1	https://lebo.huminbird.cn/live/ballbar_19360.m3u8
+CN Live Sports 2	https://lebo.huminbird.cn/live/ballbar_24280.m3u8
 PT OneToro	https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$MundotoroTV_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
 PT Eleven 1	https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Eleven_Sports_1_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
 PT Eleven 2	https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Eleven_Sports_2_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
@@ -666,12 +667,13 @@ Event S 06	https://pull.niues.live/live/stream-486629_lhd.m3u8
 Event S 07	https://pull.niues.live/live/stream-9912008_lhd.m3u8
 Event S 08	https://pull.niues.live/live/stream-9912041_lhd.m3u8
 Event S 09	https://pull.niues.live/live/stream-9912092_lhd.m3u8
-Event 01	`0https://xlz.plcdn.xyz/ajax/chanel/type/5/link/channel59
-Event 02	https://lebo.huminbird.cn/live/ballbar_32120.m3u8
+Event 01	https://lebo.huminbird.cn/live/ballbar_32120.m3u8
+Event 02	https://lebo.huminbird.cn/live/ballbar_29010.m3u8
 Event 03	https://zbpull3.zyjymall.com/live/93658075241063506404.m3u8
-Event 04	`0https://xlz.plcdn.xyz/ajax/chanel/type/1/link/rchtwtx
-Event 05	`0https://xlz.plcdn.xyz/ajax/chanel/type/1/link/jggujqm
-Event 06	`0https://tructiep.xem.my.id/phong-nha-ke-bang?id=event1
+Event 04	`0https://xlz.plcdn.xyz/ajax/chanel/type/5/link/channel59
+Event 05	`0https://xlz.plcdn.xyz/ajax/chanel/type/1/link/rchtwtx
+Event 06	`0https://xlz.plcdn.xyz/ajax/chanel/type/1/link/jggujqm
+Event 07	`0https://tructiep.xem.my.id/phong-nha-ke-bang?id=event1
 Channel 07	`0https://rakettvcom.blogspot.com/2024/07/oly7.html
 Channel 08	`0https://rakettvcom.blogspot.com/2024/07/oly8.html
 Channel 09	`0https://rakettvcom.blogspot.com/2024/07/oly9.html
