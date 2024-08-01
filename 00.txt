@@ -375,25 +375,6 @@ Olympics EuroSport 6 254	https://linear311-it-dash1-prd-akg0.cdn13.skycdp.com/31
 Olympics EuroSport 7 255	https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/32910/FHD/skysport255/master.mpd``0036b781a22ebb0c20c16ac27d5d1448:f309b94acfda720bf1ed5741489f8967
 Olympics EuroSport 8 256	https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/31912/FHD/skysport256/master.mpd``00366f263859fc1cc82d2c4da6a66ef6:754ae922d113c54349002cd9a88694a4
 Olympics EuroSport 9 257	https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/31775/FHD/skysport257/master.mpd``0036faeace9872d3ceeb8b1b63f0baa3:dbd41ee944243307d39b7b27f16615a8
-Olympics Sports 01	https://testcors.starlive.workers.dev/https://mwmpos03.akamaized.net/out/v1/7cfe6d15c127407588568af9f4574a21/manifest.mpd``1a9ba0c413994882a487461c73361c73:ce2231d461355a4b7a28c2a17f01144b
-Olympics Sports 02	https://testcors.starlive.workers.dev/https://mwmpos01.akamaized.net/out/v1/5fa3fdc8720b4317b14df756e81b78c1/manifest.mpd``d6b60d4db6f046ebb800b90bd9d08ad3:6d1594f639ea5de668ba41a191d1c215
-Olympics Sports 03	https://testcors.starlive.workers.dev/https://mwmpos02.akamaized.net/out/v1/2f39077458694b06bdfb15ef16f55d45/manifest.mpd``4d2b7b722f564526800fd7cb058303b5:2fed1593855c46873731379f3ab2d669
-Olympics Sports 04	https://testcors.starlive.workers.dev/https://mwmpos04.akamaized.net/out/v1/4604623e7ff4462a962275664ccd8ee5/manifest.mpd``3b05bcb11f664736993fd5c7ddc0a0cf:d1f6705e028f81615221b6a7da2c91ae
-Olympics Sports 05	https://testcors.starlive.workers.dev/https://mwmpos03.akamaized.net/out/v1/926637c1aba44cffa74adc74bf786816/manifest.mpd``60d21f9bd2bc4def81b7196a4f375bbd:5abae0e3b5bd439cc387a526a0eba70d
-Olympics Sports 06	https://testcors.starlive.workers.dev/https://mwmpos01.akamaized.net/out/v1/d43dbc5da1334ec088ed9eb5796eee7c/manifest.mpd``c3d1cabc9bac4bb7854f7a98abee21b2:38b942982bfaa38cd031a656ab0c8f3c
-Olympics Sports 07	https://testcors.starlive.workers.dev/https://mwmpos02.akamaized.net/out/v1/3b1dd652def14c0d88ad4d65b8a63103/manifest.mpd``c63eb5f8b141426bbd533073b3417650:a1f328dd9ec6e9aba76c3575e16f2607
-Olympics Sports 08	https://testcors.starlive.workers.dev/https://mwmpos03.akamaized.net/out/v1/757f68f7d04b464d8ba433865b04adcd/manifest.mpd``6e359554fdae4c679b05cdbb12d60485:fda345af49cfe9787ffee91a6004a3d5
-Olympics Sports 09	https://testcors.starlive.workers.dev/https://mwmpos02.akamaized.net/out/v1/c7968554079946679615c275e0e5d155/manifest.mpd``98548f126bcb4505a47d40133ac7d0ed:1446543ce3d62ef08d0c1eada2e7800a
-Olympics Sports 10	https://testcors.starlive.workers.dev/https://mwmpos02.akamaized.net/out/v1/ff22f8d0966549a595ef1b32536a7044/manifest.mpd``f743a53a4ccf48729dcf8f20e6c878b3:1a2eeaf2193ec8a3dbd667450e4ff5d0
-Olympics Sports 11	https://testcors.starlive.workers.dev/https://mwmpos04.akamaized.net/out/v1/c51d077e70d44638a9cbf99968e1491d/manifest.mpd``817e95985f9341839d4fb082527950ec:d146f45ec3e5a37b096aeca94a8556d5
-Olympics Sports 12	https://testcors.starlive.workers.dev/https://mwmpos01.akamaized.net/out/v1/5c607c72d136423ab639168c101ad964/manifest.mpd``b5f778f91da94ad3badf79571db6ac2f:ba1c5c23fdaa9e597f5086da1beb8efb
-Olympics Sports 13	https://testcors.starlive.workers.dev/https://mwmpos02.akamaized.net/out/v1/abd629d1565f47dab234e85f5ce2a6b7/manifest.mpd``508fec8751214a0191b2b46c97f891bf:bd72f87ff911cae70bda9e30d3a06f7e
-Olympics Sports 14	https://testcors.starlive.workers.dev/https://mwmpos01.akamaized.net/out/v1/5f4a01d67c374c05987ef5175315ae32/manifest.mpd``b46e28db69004254aad034dd09c0deaa:64eb1db1b8c1eda6fdaefd0617c72102
-Olympics Sports 15	https://testcors.starlive.workers.dev/https://mwmpos03.akamaized.net/out/v1/4987288922884ee581e31c09d9d3432f/manifest.mpd``fa1eff439479479fbed78ca86c92c40f:0717e702dcb29983cfaa74a88ae22637
-Olympics Sports 16	https://testcors.starlive.workers.dev/https://mwmpos01.akamaized.net/out/v1/d25d6ac6065747579cc0336ed2d540a8/manifest.mpd``9c6ec2cb50874ac3954e2d6aca99318c:d7a862ecbe123f66239db75ada9c9706
-Olympics Sports 17	https://testcors.starlive.workers.dev/https://mwmpos04.akamaized.net/out/v1/dbd2ba3639db4d61b6543856e815b1cc/manifest.mpd``de1f8f8d772a4b69b5dfa0d110f3f274:c6359d29b7752725de20a7783a0dc9ea
-Olympics Sports 18	https://testcors.starlive.workers.dev/https://mwmpos01.akamaized.net/out/v1/7600d156a41348ba807e0903f4182781/manifest.mpd``461097ca44b247d9b5f572eeb6794eb5:4408fcf6fda093ca94debeff70b707d9
-Olympics Sports 19	https://testcors.starlive.workers.dev/https://mwmpos02.akamaized.net/out/v1/7b8d435cc3ef421ea90f437143547133/manifest.mpd``097c0736feed44889bb554cbd5cef7bb:50e15a6476e3a6b9708a69dfbbf2eab6
 Sky Sport F1	https://linear307-it-dash1-prd-akg0.cdn13.skycdp.com/016a/31478/FHD/skysportf1/master_stereo.mpd``0036a96b6bbbf1828488f90e6b2ca1f4:d24e6ae926e88f8303b6926271ff8155
 Sky Sport MotoGP	https://linear306-it-dash1-prd-akg0.cdn13.skycdp.com/016a/31483/FHD/skysportmotogp/master.mpd``00362e9181eaa0c5f91761ade3515eb8:52cf3c27885d58ad76aaf36d4217a984
 Sky Sport Uno	https://linear301-it-dash1-prd-akg0.cdn13.skycdp.com/31023/FHD/skysportuno/master_stereo.mpd``0036dc70e4d659fe5ae57b52793a1ff3:55517f806b6be917c2bf0e9cf9acc44f
@@ -673,7 +654,6 @@ Event 03	https://zbpull3.zyjymall.com/live/93658075241063506404.m3u8
 Event 04	`0https://xlz.plcdn.xyz/ajax/chanel/type/5/link/channel59
 Event 05	`0https://xlz.plcdn.xyz/ajax/chanel/type/1/link/rchtwtx
 Event 06	`0https://xlz.plcdn.xyz/ajax/chanel/type/1/link/jggujqm
-Event 07	`0https://tructiep.xem.my.id/phong-nha-ke-bang?id=event1
 Channel 07	`0https://rakettvcom.blogspot.com/2024/07/oly7.html
 Channel 08	`0https://rakettvcom.blogspot.com/2024/07/oly8.html
 Channel 09	`0https://rakettvcom.blogspot.com/2024/07/oly9.html
