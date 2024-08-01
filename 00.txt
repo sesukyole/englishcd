@@ -27,6 +27,8 @@ Olympics Sports HD 19	https://testcors.starlive.workers.dev/https://mwmpos02.aka
 Volleyball Channels *	`0https://rakettvcom.blogspot.com/2024/07/nba1.html
 Basketball Channels *	`0https://rakettvcom.blogspot.com/2024/07/nba.html
 Badminton Channels *	`0https://rakettvcom.blogspot.com/2024/07/bwf_28.html
+MY TV Okey	https://cors-proxy.cooks.fyi/https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
+MY Sukan RTM TV	https://cors-proxy.cooks.fyi/https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 Olympics USA West	https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd``252a671825ba31ec8433f978c32ccf6d:ee560759ecc8d2274df2e63fcef56915
 Olympics Universo East	https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(universo-east)/master.mpd``232d71bb013d39ffb92ee8c576fb7e8e:087408a48be8d57046c3868b37ea90ba
 Olympics Sky Open	https://linear-p.media.skyone.co.nz/primeplus1.clear.m3u8
@@ -279,7 +281,6 @@ Setanta Sports 2 RU	https://proji.glitch.me/https://bkm.beetv.kz/btv/live/hls/00
 Setanta Sports 2 KZ	https://proji.glitch.me/https://bkm.beetv.kz/btv/live/hls/000006899.m3u8
 Setanta Sports 1b	https://proji.glitch.me/https://tr.live.cdn.cgates.lt/live/dash/561002/index.mpd``8ab2332442854e62b0018eec3ee58484:37fdee8b6eef5c96001e8c6fc47bfc08
 Viju+ Sport	https://proji.glitch.me/https://bkm.beetv.kz/btv/live/hls/000000135.m3u8
-MY TV Okey	https://cors-proxy.cooks.fyi/https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 HU Match 4	https://cors-proxy.cooks.fyi/https://m7huvideolive.solocoo.tv/blueskylive2dash/bluedigisport1hu/Manifest.mpd``36d6377bb94b43a58af1c415ac686f4b:82fcba8160b4f88948cd3268bb330dbf
 Pro TV	https://cors-proxy.cooks.fyi/https://m7rovideolive.solocoo.tv/blueskylivedash/blueprotv/Manifest.mpd``889750ca612844cfabc4073989befa3e:c188729c59e29bedafc1cbedaa107abb
 Ziggo Sport 3	https://cors-proxy.cooks.fyi/https://cdsvideolive3.solocoo.tv/blueskycdslive7dash/blueziggosportgolf/Manifest.mpd``bb4b78ef397646e3ae5f13bdb23d56ed:c1247a942c7126443a93214c67431fe8

@@ -175,6 +175,9 @@ ES La Otra	https://laotra-1-23-secure2.akamaized.net/master.m3u8
 ES Pequeradio	https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 UK Eman Channel	https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8
 UK Iqraa TV	https://ap02.iqplay.tv:8082/iqb8002/iq6a7k/chunks.m3u8
+AXN Movies	https://proji.glitch.me/https://ott.zapitv.com/live/eds_c2/axn_white/dash_live_enc/axn_white.mpd``f9e4be09926c262effa2b5381ae3553d:d630e04e0c5e3f98dc38840be1c1dd4c
+ION	https://raw.githubusercontent.com/mystery75/m3u8/main/ION.m3u8
+ION Mystery	https://raw.githubusercontent.com/mystery75/m3u8/main/IONMYSTERY.m3u8
 MX Accion Mexicana	https://stream.ads.ottera.tv/playlist.m3u8?network_id=1153
 Canela Clasicos	https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
 Canela Hits	https://stream.ads.ottera.tv/playlist.m3u8?network_id=1058
@@ -576,6 +579,7 @@ US GQᴴᴰ 🇺🇸 🟤	https://amg00255-condenast-gq-localnow-5sme3.amagi.tv/
 US Hard Knock Fighting 🇺🇸 🟤	https://d3uyzhwvmemdyf.cloudfront.net/scheduler/scheduleMaster/109/variant/22099396/8d216b41-1,96b-49d2-afb2-46cb9916f903.m3u8
 US Haunt TV 🇺🇸 🟤	https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-haunttvus-vidaa/playlist.m3u8
 US Her Sphere by Lionsgate 🇺🇸 🟤	https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-hersphere-lgus/playlist.m3u8
+US Ebony By Lionsgate 🇺🇸 🟤	https://d2ovuv4g3vka60.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ve0q4gx2q5590/playlist.m3u8
 US HomeFulᴴᴰ 🇺🇸 🟤	https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01515-blueskyeenterta-homefulusa-vizious/playlist.m3u8
 US Horizon Sportsᴴᴰ 🇺🇸 🟤	https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/bb03cb18-c54e-11ec-967f-401ac48a6867/0/master.m3u8?profile=inspirationFreetv.m3u8&ads%3Aamznbrmid&ads%3Aamznregion&ads%3Aamznslots&ads%3Aapp_bundle=com.rakuten.tv&ads%3Aapp_version&ads%3Abrand_name&ads%3Acontent_classification=7&ads%3Adevice_type=web&ads%3Adevice_year=1970&ads%3Afunke_channel_id=RAKB0021&ads%3Alanguage=eng&ads%3Amarket=uk&ads%3Aos_language&ads%3Aplayer_height=1080&ads%3Aplayer_width=1920&ads%3Apod_type=playerpage_midroll&ads%3Artv_content_id=4260&ads%3Astreaming_id=4bb04afc-6447-4a76-895a-c1f117394c95&ads%3Atcf&ads%3Ativo_devcountry&ads%3Ativo_devmakedate&ads%3Ativo_mvpd&ads%3Ativo_platform&ads%3Ativo_usid&ads%3Ativo_uxloc&ads%3Auser_type=visitor&country=gb&optout=0&uid=e3dd2658-e93a-4cee-9d4b-27200826a904&vendor=rakuten
 US Horror Machine 🇺🇸 🟤	https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/horrormachine/playlist.m3u8
