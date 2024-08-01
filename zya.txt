@@ -4,7 +4,6 @@
 {h} * Conspiracy Truth 1	^^h7
 {h} * Conspiracy Truth 2	^^h8
 {s} * Plex	^^shttps://i.mjh.nz/Plex/all.m3u8
-{s} * Roku	^^shttps://i.mjh.nz/Roku/all.m3u8
 {s} * Stirr	^^shttps://i.mjh.nz/Stirr/all.m3u8
 {s} * Kodi	^^shttps://i.mjh.nz/all/kodi-tv.m3u8
 {h} Ⓩ Movies Film 3	^^h5
