@@ -24,7 +24,7 @@ Olympics Sports HD 16	https://uniproxy.misty.workers.dev/https://mwmpos01.akamai
 Olympics Sports HD 17	https://uniproxy.misty.workers.dev/https://mwmpos04.akamaized.net/out/v1/dbd2ba3639db4d61b6543856e815b1cc/manifest.mpd``de1f8f8d772a4b69b5dfa0d110f3f274:c6359d29b7752725de20a7783a0dc9ea
 Olympics Sports HD 18	https://uniproxy.misty.workers.dev/https://mwmpos01.akamaized.net/out/v1/7600d156a41348ba807e0903f4182781/manifest.mpd``461097ca44b247d9b5f572eeb6794eb5:4408fcf6fda093ca94debeff70b707d9
 Olympics Sports HD 19	https://uniproxy.misty.workers.dev/https://mwmpos02.akamaized.net/out/v1/7b8d435cc3ef421ea90f437143547133/manifest.mpd``097c0736feed44889bb554cbd5cef7bb:50e15a6476e3a6b9708a69dfbbf2eab6
-Vollyball Channels *	`0https://rakettvcom.blogspot.com/2024/07/nba1.html
+Volleyball Channels *	`0https://rakettvcom.blogspot.com/2024/07/nba1.html
 Basketball Channels *	`0https://rakettvcom.blogspot.com/2024/07/nba.html
 Badminton Channels *	`0https://rakettvcom.blogspot.com/2024/07/bwf_28.html
 Olympics USA West	https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd``252a671825ba31ec8433f978c32ccf6d:ee560759ecc8d2274df2e63fcef56915
