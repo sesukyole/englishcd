@@ -1,3 +1,7 @@
+{s} * Plex	^^shttps://i.mjh.nz/Plex/all.m3u8
+{s} * Roku	^^shttps://i.mjh.nz/Roku/all.m3u8
+{s} * Stirr	^^shttps://i.mjh.nz/Stirr/all.m3u8
+{s} * Kodi	^^shttps://i.mjh.nz/all/kodi-tv.m3u8
 {h} * JP takelab	^^hhttps://raw.githubusercontent.com/take2560/takelab/main/jp.m3u
 {h} * JP IPTV	^^hhttps://raw.githubusercontent.com/take2560/Japan-IPTV/main/jp.m3u
 {h} * Raku	^^hhttps://raw.githubusercontent.com/Justryuz/jtv/main/2.raku.m3u
