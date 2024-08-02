@@ -1,3 +1,12 @@
+{h} * IPTV YouTube Live	^^hhttps://abskmj.github.io/iptv-youtube-live/index.m3u8
+{h} * Free-TV	^^hhttps://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8
+{h} * jsosao BORNEO00_PremiumSport1	^^hhttps://raw.githubusercontent.com/jsosao/BORNEO00_PremiumSport1/main/README.md
+{h} * jsosao m3u mylist	^^hhttps://raw.githubusercontent.com/jsosao/m3u/main/mylist.m3u8
+{h} * jsosao rasta12 android	^^hhttps://raw.githubusercontent.com/jsosao/rasta12/main/android.m3u
+{h} * jsosao proyecto04_club-tv	^^hhttps://raw.githubusercontent.com/jsosao/proyecto04_club-tv/main/.m3u
+{h} * jsosao sports futbol	^^hhttps://raw.githubusercontent.com/jsosao/sports/main/futbol.m3u
+{h} * jsosao Pepe1970mx_CocinaRapida	^^hhttps://raw.githubusercontent.com/jsosao/Pepe1970mx_CocinaRapida/master/README.md
+{h} * benmoose39 YouTube_to_m3u	^^hhttps://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/youtube.m3u
 {s} * Roku	^^shttps://i.mjh.nz/Roku/all.m3u8
 {s} * Plex	^^shttps://i.mjh.nz/Plex/all.m3u8
 {s} * Stirr	^^shttps://i.mjh.nz/Stirr/all.m3u8
