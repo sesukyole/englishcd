@@ -81,6 +81,8 @@ ID TV9	01`00a130/tv9/index.m3u8?c
 ID tvN	01`00a133/tvn/index.m3u8?c
 ID tvN Movies	01`00a133/tvnmovies/index.m3u8?c
 ID Zhejiang	01`00a130/zhejiang/index.m3u8?c
+ID AniPlus	https://op-group1-swiftservehd-1.dens.tv/h/h201/02.m3u8
+ID My Kidz	https://op-group1-swiftservesd-1.dens.tv/h/h191/index.m3u8
 ID Indosiar 1	https://op-group1-swiftservesd-1.dens.tv/s/s04/02.m3u8
 ID Indosiar 2	https://op-group1-swiftservesd-1.dens.tv/s/s04/01.m3u8
 ID SCTV 1	https://op-group1-swiftservesd-1.dens.tv/s/s03/02.m3u8
@@ -161,7 +163,8 @@ Marvel Movies 4	https://openhls-tct.douyucdn2.cn/dyliveflv3/6140589rXtkMlhOs_200
 Cinevault 80s	https://gsn-cinevault-80s-1-us.samsung.wurl.tv/playlist.m3u8
 Cinevault Westerns	https://gsn-cinevault-westerns-1-us.samsung.wurl.tv/playlist.m3u8
 ESR Games	https://eyeonesports.com/480/ESR-003SCTE35.m3u8
-ZA WildEarth	https://wildearth-plex.amagi.tv/master.m3u8
+Real Wild 🇬🇧	https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwild-tcl/playlist.m3u8
+WildEarth	https://wildearth-plex.amagi.tv/master.m3u8
 DE DW English	https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 À Punt	https://bcovlive-a.akamaihd.net/a51c31c10f6e42b2bbb7c7649e9f305c/eu-west-1/6057955885001/playlist_dvr.m3u8
 ES 101 Malaga	https://limited38.todostreaming.es/live/101tv-web101tv.m3u8

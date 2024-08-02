@@ -7,6 +7,7 @@
 {h} * Raku	^^hhttps://raw.githubusercontent.com/Justryuz/jtv/main/2.raku.m3u
 {h} * Action Movies Film VOD	^^hhttps://raw.githubusercontent.com/Justryuz/jtv/main/actionvod.m3u
 {h} * deadlyblogger.com NewRelease	^^hhttps://gist.githubusercontent.com/Jeffguitar/8fc1fdd9b895447bb612/raw/9bb268792ae517d4338c6c51e78358d9c3fc87bf/filmes8.m3u
+{h} * jedi-sambora playlist main tv3	^^hhttps://raw.githubusercontent.com/jedi-sambora/playlist/main/tv3
 {h} * Justryuz jtv mylist	^^hhttps://raw.githubusercontent.com/Justryuz/jtv/main/mylist.m3u8
 {h} * Justryuz jtv plex	^^hhttps://raw.githubusercontent.com/Justryuz/jtv/main/plex.m3u
 {h} * Justryuz jtv merged_playlist	^^hhttps://raw.githubusercontent.com/Justryuz/jtv/main/merged_playlist.m3u

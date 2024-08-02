@@ -20,6 +20,7 @@ EuroSport HD 2	http://edge02.odtv.az/o3/eurosport2/playlist.m3u8
 EuroSport HD 1	http://185.189.225.157/EuroSport1/index.m3u8
 EuroSport HD 2	http://185.189.225.157/EuroSport2/index.m3u8
 Sky Sports LaLiga	http://181.78.105.146:2000/play/a08m/index.m3u8
+Sky Sports F1	http://e6ce69f2.kazaktelekom.com/iptv/K4NFFYMLT9ZLUX/7342/index.m3u8
 -----|USA|------	http://a.b/c
 US001:A&E HD	00`d003167.m3u8
 US002:ABC HD	00`d003166.m3u8
