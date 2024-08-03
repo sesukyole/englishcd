@@ -128,6 +128,7 @@ TV4 Sport Live 2	https://proji.glitch.me/https://director.streaming.telia.com/tv
 TV4 Sport Live 3	https://proji.glitch.me/https://director.streaming.telia.com/tvm-packager-prod/group1/60896d3547a23d6bbd5cd609/manifest.mpd``90397fef042351ec88035875ada6d1dd:6edb6ccecf50362a74d647e6ea285365
 TV4 Sport Live 4	https://proji.glitch.me/https://director.streaming.telia.com/tvm-packager-prod/group1/60896d5647a23d19495cd627/manifest.mpd``99c9c1d2eff15da09b1b64ed16a17a84:6f7174c7e2d5e07fff7ba012e2e94956
 TV4 Tennis	https://proji.glitch.me/https://director.streaming.telia.com/tvm-packager-prod/group2/60ae45e51522bd66f469461b/manifest.mpd``eb4b504ae8015e149965a48cfff9418e:b67881cf246e6c7ef8a3db7491c5b036
+A21 Network Russian Motorsport	https://proji.glitch.me/https://autopilot.catcast.tv/content/37909/index.m3u8
 ES beIN Sports Xtra	https://bein-esp-xumo.amagi.tv/playlist.m3u8
 ES beIN Sports Xtra	https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
 ES Real Madrid ENG	https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
