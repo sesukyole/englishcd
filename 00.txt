@@ -1,10 +1,4 @@
 RTB Aneka Go	https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
-Olympics Channel 1	https://d30aylox5wvifh.cloudfront.net/event/smil:ag1/manifest.mpd
-Olympics Channel 2	https://d30aylox5wvifh.cloudfront.net/event/smil:ag2/manifest.mpd
-Olympics Channel 3	https://d30aylox5wvifh.cloudfront.net/event/smil:ag3/manifest.mpd
-Olympics Channel 4	https://d30aylox5wvifh.cloudfront.net/event/smil:ag4/manifest.mpd
-Olympics Channel 5	https://d30aylox5wvifh.cloudfront.net/event/smil:ag5/manifest.mpd
-Olympics Channel 6	https://d30aylox5wvifh.cloudfront.net/event/smil:event1/manifest.mpd
 Volleyball Channels *	`0https://rakettvcom.blogspot.com/2024/07/voli.html
 Basketball Channels *	`0https://rakettvcom.blogspot.com/2024/07/basket.html
 Badminton Channels *	`0https://rakettvcom.blogspot.com/2024/07/bwf_28.html
@@ -27,6 +21,8 @@ Olympics Sports HD 16	https://uniproxy.misty.workers.dev/https://mwmpos01.akamai
 Olympics Sports HD 17	https://uniproxy.misty.workers.dev/https://mwmpos04.akamaized.net/out/v1/dbd2ba3639db4d61b6543856e815b1cc/manifest.mpd``de1f8f8d772a4b69b5dfa0d110f3f274:c6359d29b7752725de20a7783a0dc9ea
 Olympics Sports HD 18	https://uniproxy.misty.workers.dev/https://mwmpos01.akamaized.net/out/v1/7600d156a41348ba807e0903f4182781/manifest.mpd``461097ca44b247d9b5f572eeb6794eb5:4408fcf6fda093ca94debeff70b707d9
 Olympics Sports HD 19	https://uniproxy.misty.workers.dev/https://mwmpos02.akamaized.net/out/v1/7b8d435cc3ef421ea90f437143547133/manifest.mpd``097c0736feed44889bb554cbd5cef7bb:50e15a6476e3a6b9708a69dfbbf2eab6
+Premier Sports 1	https://skytest.starlive.workers.dev/https://linear001-ie-dash1-prd-cf.cdn.skycdp.com/Content/DASH_003_720_120/Live/channel(premiersports1)/manifest_720.mpd``0005b3dba78ae0fe7a9288022d3b3736:d2827df80dd7e9243ba6b5bbda5dfa82
+Premier Sports 2	https://skytest.starlive.workers.dev/https://linear033-ie-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_120/Live/channel(premiersports2)/manifest_720.mpd``0005d61a0ac86aca28176591b21ae2d9:f87ad1430a7a38fd0ac248fc9a8389b1
 MY TV Okey	https://cors-proxy.cooks.fyi/https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 MY Sukan RTM TV	https://cors-proxy.cooks.fyi/https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 Olympics USA West	https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd``252a671825ba31ec8433f978c32ccf6d:ee560759ecc8d2274df2e63fcef56915
@@ -69,8 +65,6 @@ RTL	https://pnowlive-a.akamaized.net/live/rtlhd/dash/rtlhd.mpd``57e48b99f3f6d4f1
 Markiza Sport	https://dash2.antik.sk/stream/nvidia_markiza/playlist_cenc.mpd``11223344556677889900112233445566:11223344556677889900112233445566
 TV 2 Sport Premium	https://ch11-hls-live.akamaized.net/out/u/433127.mpd``d12e4c9dc52f4cbab7ac9b2278317e47:a7987e5b6ec42db68a25486e108ca9f2
 TV 2 Sport 1	https://rikstv-live-scalstrm.telenorcdn.net/live/rikstv/64393bf81dbc891fd41f53ac/manifest.mpd``0c6212056d2f51fcbf569f9a1a8517d1:d07b404deb7c958347d742e6d1d2f3f9
-Premier Sports 1	https://skytest.starlive.workers.dev/https://linear001-ie-dash1-prd-cf.cdn.skycdp.com/Content/DASH_003_720_120/Live/channel(premiersports1)/manifest_720.mpd``0005b3dba78ae0fe7a9288022d3b3736:d2827df80dd7e9243ba6b5bbda5dfa82
-Premier Sports 2	https://skytest.starlive.workers.dev/https://linear033-ie-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_120/Live/channel(premiersports2)/manifest_720.mpd``0005d61a0ac86aca28176591b21ae2d9:f87ad1430a7a38fd0ac248fc9a8389b1
 Premier Sport 1	https://olam.telka.uk/premiersport_JnD4eF8ALBI4HWrUOpDMUj9sqakB/playlist.mpd
 NL NPO 1	https://nlziet-live.akamaized.net/L6/76fd047c/c427bd9d.isml/.mpd``7545f9301bf94e7a9132dccf32920e51:94fc134c1b1cb1ea9075781417eca48b
 NL NPO 2	https://nlziet-live.akamaized.net/L27/576200ff/17f23d2b.isml/.mpd``cd2e51e9dadd4e38b2b8df5680f7aa43:ce1083c14ed247bbc693bbe6bf0fd36b
@@ -270,6 +264,12 @@ My Padel TV	https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01970-mypadeldigitals-m
 Billiard	https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
 GT Azteca	https://ch1-tva.duin.dev/hls/stream.m3u8
 GT A Mas	https://ch2-tva.duin.dev/hls/stream.m3u8
+Olympics Channel 1	https://d30aylox5wvifh.cloudfront.net/event/smil:ag1/manifest.mpd
+Olympics Channel 2	https://d30aylox5wvifh.cloudfront.net/event/smil:ag2/manifest.mpd
+Olympics Channel 3	https://d30aylox5wvifh.cloudfront.net/event/smil:ag3/manifest.mpd
+Olympics Channel 4	https://d30aylox5wvifh.cloudfront.net/event/smil:ag4/manifest.mpd
+Olympics Channel 5	https://d30aylox5wvifh.cloudfront.net/event/smil:ag5/manifest.mpd
+Olympics Channel 6	https://d30aylox5wvifh.cloudfront.net/event/smil:event1/manifest.mpd
 Belarus 24	https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
 Belarus 1	https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8
 Belarus 2	https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8
@@ -678,3 +678,5 @@ Channel 25	`0https://rakettvcom.blogspot.com/2024/07/oly25.html
 Channel 26	`0https://rakettvcom.blogspot.com/2024/07/oly26.html
 Channel 27	`0https://rakettvcom.blogspot.com/2024/07/oly27.html
 Channel 28	`0https://rakettvcom.blogspot.com/2024/07/oly28.html
+
+https://skytest.starlive.workers.dev/https://linear001-ie-dash1-prd-cf.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(premiersports1)/manifest_720.mpd
