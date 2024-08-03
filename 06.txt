@@ -1,7 +1,6 @@
 UK English Club TVᴴᴰ 🇬🇧	http://iptv.prosto.tv:7000/ch206/video.m3u8
 UK Mr. Bean	http://51.159.104.29:8080/mrbean/index.m3u8
 AR Urban Kids	http://200.194.238.229:8383/live/urbankids/playlist.m3u8
-US Duck TV	http://iptv.prosto.tv:7000/ch209/video.m3u8
 US GameToonᴴᴰ 🇺🇸	http://iptv.prosto.tv:7000/ch256/video.m3u8
 AE Dubai TV	http://210.210.155.35/uq2663/h/h152/index2.m3u8
 BR TVE 🇧🇷	http://streaming.procergs.com.br:1935/tve/stve/chunklist.m3u8
@@ -20,7 +19,6 @@ US Red Bull TVᴴᴰ 🇺🇸	http://rbmn-live.akamaized.net/hls/live/590964/BoR
 US Toonami AfterMath East	http://api.toonamiaftermath.com:3000/est/playlist.m3u8
 US Trips Marterᴴᴰ 🇺🇸	http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist.m3u8
 US W Sport	http://210.210.155.35/uq2663/h/h26/index.m3u8
-Eurosport 1 🇵🇱🇺🇸ᴴᴰ	http://54.39.17.6:8080/eurosport/playlist.m3u8
 KH Rasmey Hang Meas	http://clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/playlist.m3u8
 KH Hang Meas HDTV	http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/playlist.m3u8
 ID Bandung TV	http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
@@ -42,35 +40,6 @@ JP J Sport 1	http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=
 JP J Sport 2	http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19
 JP J Sport 3	http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
 JP J Sport 4	http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
-ID TVRI Aceh	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIACEH)/index.m3u8
-ID TVRI Bali	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIBALI)/index.m3u8
-ID TVRI Bangka Belitung	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIBABEL)/index.m3u8
-ID TVRI Bengkulu	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIBENGKULU)/index.m3u8
-ID TVRI DKI Jakarta	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIDKI)/index.m3u8
-ID TVRI Gorontalo	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIGORONTALO)/index.m3u8
-ID TVRI Jambi	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJAMBI)/index.m3u8
-ID TVRI Jawa Barat	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/index.m3u8
-ID TVRI Jawa Tengah	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJATENGSEMARANG)/index.m3u8
-ID TVRI Jawa Timur	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJATIMSURABAYA)/index.m3u8
-ID TVRI Kalimantan Barat	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKALBAR)/index.m3u8
-ID TVRI Kalimantan Selatan	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKALSELBANJARMSN)/index.m3u8
-ID TVRI Kalimantan Tengah	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKALTENG)/index.m3u8
-ID TVRI Kalimantan Timur	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKALTIMSAMARINDA)/index.m3u8
-ID TVRI Lampung	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRILAMPUNG)/index.m3u8
-ID TVRI Maluku	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIMALUKUAMBON)/index.m3u8
-ID TVRI Nasional	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
-ID TVRI Nusa Tenggara Barat	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINTBMATARAM)/index.m3u8
-ID TVRI Nusa Tenggara Timur	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINTTKUPANG)/index.m3u8
-ID TVRI Papua	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIPAPUA)/index.m3u8
-ID TVRI Riau	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIRIAU)/index.m3u8
-ID TVRI Sport	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/index.m3u8
-ID TVRI Sulawesi Barat	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISULBARMAJENE)/index.m3u8
-ID TVRI Sulawesi Selatan	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISULSELMAKASAR)/index.m3u8
-ID TVRI Sulawesi Tengah	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISULTENGPALU)/index.m3u8
-ID TVRI Sulawesi Tenggara	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISULTRA)/index.m3u8
-ID TVRI Sumatera Barat	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISUMBARPADANG)/index.m3u8
-ID TVRI Sumatera Selatan	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISUMSEL)/index.m3u8
-ID TVRI Yogyakarta	http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/index.m3u8
 ONTime Sports EG	00`b002512/index.m3u8
 CBC AZ	00`b001050/index.m3u8
 Dunya TV AZ	00`b002192/index.m3u8
