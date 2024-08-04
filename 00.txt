@@ -6,6 +6,23 @@ Olympics EuroSport 1	https://cache3.zapitv.com/live/eds_c2/eurosport_1_hd/dash_l
 Olympics EuroSport 2	https://cache3.zapitv.com/live/eds_c2/eurosport_2_hd/dash_live_enc/eurosport_2_hd.mpd``15382879a9bcfa6f1a04a86d5b4324e9:664241133368ab039dc1fb15206ba54b
 Olympics Sports 01	https://do2ibj89ih8kz.cloudfront.net/out/v1/7942a70dc4a64ed2bceb6b933402ffeb/manifest.mpd``14bc9706a4b044f083401ad4912ff657:e26b1490488635cdd2dc41c8b81c8cc1
 Olympics Sports 02	https://d2q3zea8ff7bj4.cloudfront.net/out/v1/a054e78fe6c7439faec28e9f71b16672/manifest.mpd``00c74743daaa4519b2d3d6b6e7a9a89c:87f7e82f78206a846a85bb214e619ed1
+Olympics Sports 03	https://me02.starlive.workers.dev/out/v1/2f39077458694b06bdfb15ef16f55d45/manifest.mpd``4d2b7b722f564526800fd7cb058303b5:2fed1593855c46873731379f3ab2d669
+Olympics Sports 04	https://me04.starlive.workers.dev/out/v1/4604623e7ff4462a962275664ccd8ee5/manifest.mpd``3b05bcb11f664736993fd5c7ddc0a0cf:d1f6705e028f81615221b6a7da2c91ae
+Olympics Sports 05	https://me03.starlive.workers.dev/out/v1/926637c1aba44cffa74adc74bf786816/manifest.mpd``60d21f9bd2bc4def81b7196a4f375bbd:5abae0e3b5bd439cc387a526a0eba70d
+Olympics Sports 06	https://me01.starlive.workers.dev/out/v1/d43dbc5da1334ec088ed9eb5796eee7c/manifest.mpd``c3d1cabc9bac4bb7854f7a98abee21b2:38b942982bfaa38cd031a656ab0c8f3c
+Olympics Sports 07	https://me02.starlive.workers.dev/out/v1/3b1dd652def14c0d88ad4d65b8a63103/manifest.mpd``c63eb5f8b141426bbd533073b3417650:a1f328dd9ec6e9aba76c3575e16f2607
+Olympics Sports 08	https://me03.starlive.workers.dev/out/v1/757f68f7d04b464d8ba433865b04adcd/manifest.mpd``6e359554fdae4c679b05cdbb12d60485:fda345af49cfe9787ffee91a6004a3d5
+Olympics Sports 09	https://me02.starlive.workers.dev/out/v1/c7968554079946679615c275e0e5d155/manifest.mpd``98548f126bcb4505a47d40133ac7d0ed:1446543ce3d62ef08d0c1eada2e7800a
+Olympics Sports 10	https://me02.starlive.workers.dev/out/v1/ff22f8d0966549a595ef1b32536a7044/manifest.mpd``f743a53a4ccf48729dcf8f20e6c878b3:1a2eeaf2193ec8a3dbd667450e4ff5d0
+Olympics Sports 11	https://me04.starlive.workers.dev/out/v1/c51d077e70d44638a9cbf99968e1491d/manifest.mpd``817e95985f9341839d4fb082527950ec:d146f45ec3e5a37b096aeca94a8556d5
+Olympics Sports 12	https://me01.starlive.workers.dev/out/v1/5c607c72d136423ab639168c101ad964/manifest.mpd``b5f778f91da94ad3badf79571db6ac2f:ba1c5c23fdaa9e597f5086da1beb8efb
+Olympics Sports 13	https://me02.starlive.workers.dev/out/v1/abd629d1565f47dab234e85f5ce2a6b7/manifest.mpd``508fec8751214a0191b2b46c97f891bf:bd72f87ff911cae70bda9e30d3a06f7e
+Olympics Sports 14	https://me01.starlive.workers.dev/out/v1/5f4a01d67c374c05987ef5175315ae32/manifest.mpd``b46e28db69004254aad034dd09c0deaa:64eb1db1b8c1eda6fdaefd0617c72102
+Olympics Sports 15	https://me03.starlive.workers.dev/out/v1/4987288922884ee581e31c09d9d3432f/manifest.mpd``fa1eff439479479fbed78ca86c92c40f:0717e702dcb29983cfaa74a88ae22637
+Olympics Sports 16	https://me01.starlive.workers.dev/out/v1/d25d6ac6065747579cc0336ed2d540a8/manifest.mpd``9c6ec2cb50874ac3954e2d6aca99318c:d7a862ecbe123f66239db75ada9c9706
+Olympics Sports 17	https://me04.starlive.workers.dev/out/v1/dbd2ba3639db4d61b6543856e815b1cc/manifest.mpd``de1f8f8d772a4b69b5dfa0d110f3f274:c6359d29b7752725de20a7783a0dc9ea
+Olympics Sports 18	https://me01.starlive.workers.dev/out/v1/7600d156a41348ba807e0903f4182781/manifest.mpd``461097ca44b247d9b5f572eeb6794eb5:4408fcf6fda093ca94debeff70b707d9
+Olympics Sports 19	https://me02.starlive.workers.dev/out/v1/7b8d435cc3ef421ea90f437143547133/manifest.mpd``097c0736feed44889bb554cbd5cef7bb:50e15a6476e3a6b9708a69dfbbf2eab6
 MY TV Okey	https://cors-proxy.cooks.fyi/https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 MY Sukan RTM TV	https://cors-proxy.cooks.fyi/https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 Olympics USA West	https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd``252a671825ba31ec8433f978c32ccf6d:ee560759ecc8d2274df2e63fcef56915
@@ -365,6 +382,7 @@ Sport TV 5	`0https://v3.sportsonline.si/channels/pt/sporttv5.php
 Boxing 1	`0https://streambtw.com/iframe/box1.php
 Boxing 2	`0https://streambtw.com/iframe/box2.php
 UFC	`0https://streambtw.com/iframe/ufc.php
+UFC	https://live.mocdn.tv/out/v1/e3b6cb27892d4466a522bf43fe92da1a/manifest_L1.mpd``3e17c3798a294c49b93c1b2ddbcd8f29:0917fa8c9cf68c206efc24946d0c22cc
 KH Rasmey Hang Meas	https://andi-cors-proxy-service-k8s.andisearch.com/http://clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/playlist.m3u8
 KH Hang Meas HDTV	https://andi-cors-proxy-service-k8s.andisearch.com/http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/playlist.m3u8
 LIVE SPL 01	https://tglmp04.akamaized.net/out/v1/6ec3ff8c3b5649249f9c8a6e2651195a/manifest.mpd``f5158194cc4044e699d0df01772f2212:072e611a383a2d1e3d4d8ea19e016a71
@@ -379,25 +397,8 @@ CCTV 8	https://node3.olelive.com:6443/live/CCTV8HD_360/hls.m3u8
 CCTV 9	https://node3.olelive.com:6443/live/CCTV9HD_360/hls.m3u8
 CCTV 13	https://node3.olelive.com:6443/live/CCTV13HD_360/hls.m3u8
 CCTV 16	https://node3.olelive.com:6443/live/CCTV16HD_360/hls.m3u8
-Olympics Sports HD 01	https://uniproxy.misty.workers.dev/https://mwmpos03.akamaized.net/out/v1/7cfe6d15c127407588568af9f4574a21/manifest.mpd``1a9ba0c413994882a487461c73361c73:ce2231d461355a4b7a28c2a17f01144b
-Olympics Sports HD 02	https://uniproxy.misty.workers.dev/https://mwmpos01.akamaized.net/out/v1/5fa3fdc8720b4317b14df756e81b78c1/manifest.mpd``d6b60d4db6f046ebb800b90bd9d08ad3:6d1594f639ea5de668ba41a191d1c215
-Olympics Sports HD 03	https://uniproxy.misty.workers.dev/https://mwmpos02.akamaized.net/out/v1/2f39077458694b06bdfb15ef16f55d45/manifest.mpd``4d2b7b722f564526800fd7cb058303b5:2fed1593855c46873731379f3ab2d669
-Olympics Sports HD 04	https://uniproxy.misty.workers.dev/https://mwmpos04.akamaized.net/out/v1/4604623e7ff4462a962275664ccd8ee5/manifest.mpd``3b05bcb11f664736993fd5c7ddc0a0cf:d1f6705e028f81615221b6a7da2c91ae
-Olympics Sports HD 05	https://uniproxy.misty.workers.dev/https://mwmpos03.akamaized.net/out/v1/926637c1aba44cffa74adc74bf786816/manifest.mpd``60d21f9bd2bc4def81b7196a4f375bbd:5abae0e3b5bd439cc387a526a0eba70d
-Olympics Sports HD 06	https://uniproxy.misty.workers.dev/https://mwmpos01.akamaized.net/out/v1/d43dbc5da1334ec088ed9eb5796eee7c/manifest.mpd``c3d1cabc9bac4bb7854f7a98abee21b2:38b942982bfaa38cd031a656ab0c8f3c
-Olympics Sports HD 07	https://uniproxy.misty.workers.dev/https://mwmpos02.akamaized.net/out/v1/3b1dd652def14c0d88ad4d65b8a63103/manifest.mpd``c63eb5f8b141426bbd533073b3417650:a1f328dd9ec6e9aba76c3575e16f2607
-Olympics Sports HD 08	https://uniproxy.misty.workers.dev/https://mwmpos03.akamaized.net/out/v1/757f68f7d04b464d8ba433865b04adcd/manifest.mpd``6e359554fdae4c679b05cdbb12d60485:fda345af49cfe9787ffee91a6004a3d5
-Olympics Sports HD 09	https://uniproxy.misty.workers.dev/https://mwmpos02.akamaized.net/out/v1/c7968554079946679615c275e0e5d155/manifest.mpd``98548f126bcb4505a47d40133ac7d0ed:1446543ce3d62ef08d0c1eada2e7800a
-Olympics Sports HD 10	https://uniproxy.misty.workers.dev/https://mwmpos02.akamaized.net/out/v1/ff22f8d0966549a595ef1b32536a7044/manifest.mpd``f743a53a4ccf48729dcf8f20e6c878b3:1a2eeaf2193ec8a3dbd667450e4ff5d0
-Olympics Sports HD 11	https://uniproxy.misty.workers.dev/https://mwmpos04.akamaized.net/out/v1/c51d077e70d44638a9cbf99968e1491d/manifest.mpd``817e95985f9341839d4fb082527950ec:d146f45ec3e5a37b096aeca94a8556d5
-Olympics Sports HD 12	https://uniproxy.misty.workers.dev/https://mwmpos01.akamaized.net/out/v1/5c607c72d136423ab639168c101ad964/manifest.mpd``b5f778f91da94ad3badf79571db6ac2f:ba1c5c23fdaa9e597f5086da1beb8efb
-Olympics Sports HD 13	https://uniproxy.misty.workers.dev/https://mwmpos02.akamaized.net/out/v1/abd629d1565f47dab234e85f5ce2a6b7/manifest.mpd``508fec8751214a0191b2b46c97f891bf:bd72f87ff911cae70bda9e30d3a06f7e
-Olympics Sports HD 14	https://uniproxy.misty.workers.dev/https://mwmpos01.akamaized.net/out/v1/5f4a01d67c374c05987ef5175315ae32/manifest.mpd``b46e28db69004254aad034dd09c0deaa:64eb1db1b8c1eda6fdaefd0617c72102
-Olympics Sports HD 15	https://uniproxy.misty.workers.dev/https://mwmpos03.akamaized.net/out/v1/4987288922884ee581e31c09d9d3432f/manifest.mpd``fa1eff439479479fbed78ca86c92c40f:0717e702dcb29983cfaa74a88ae22637
-Olympics Sports HD 16	https://uniproxy.misty.workers.dev/https://mwmpos01.akamaized.net/out/v1/d25d6ac6065747579cc0336ed2d540a8/manifest.mpd``9c6ec2cb50874ac3954e2d6aca99318c:d7a862ecbe123f66239db75ada9c9706
-Olympics Sports HD 17	https://uniproxy.misty.workers.dev/https://mwmpos04.akamaized.net/out/v1/dbd2ba3639db4d61b6543856e815b1cc/manifest.mpd``de1f8f8d772a4b69b5dfa0d110f3f274:c6359d29b7752725de20a7783a0dc9ea
-Olympics Sports HD 18	https://uniproxy.misty.workers.dev/https://mwmpos01.akamaized.net/out/v1/7600d156a41348ba807e0903f4182781/manifest.mpd``461097ca44b247d9b5f572eeb6794eb5:4408fcf6fda093ca94debeff70b707d9
-Olympics Sports HD 19	https://uniproxy.misty.workers.dev/https://mwmpos02.akamaized.net/out/v1/7b8d435cc3ef421ea90f437143547133/manifest.mpd``097c0736feed44889bb554cbd5cef7bb:50e15a6476e3a6b9708a69dfbbf2eab6
+Olympics Sports HD 01	https://me03.starlive.workers.dev/out/v1/7cfe6d15c127407588568af9f4574a21/manifest.mpd``1a9ba0c413994882a487461c73361c73:ce2231d461355a4b7a28c2a17f01144b
+Olympics Sports HD 02	https://me01.starlive.workers.dev/out/v1/5fa3fdc8720b4317b14df756e81b78c1/manifest.mpd``d6b60d4db6f046ebb800b90bd9d08ad3:6d1594f639ea5de668ba41a191d1c215
 Olympics EuroSport 3 251	https://linear311-it-dash1-prd-akg0.cdn13.skycdp.com/31917/FHD/skysport251/master.mpd``0036422cf4293ae7cf1e7f7062cc29e8:37a223fcc17c087043bc837432fd25d8
 Olympics EuroSport 4 252	https://linear311-it-dash1-prd-akg0.cdn13.skycdp.com/32951/FHD/skysport252/master.mpd``003643bc9d61268c987504fa93b397f6:b8d5767c73ff8bba68d955035b56f4c1
 Olympics EuroSport 5 253	https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/32233/FHD/skysport253/master.mpd``0036077996d02761a9d4c29ddfac7466:e83d078779ae5b53e2eb999513d55682
