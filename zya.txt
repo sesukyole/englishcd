@@ -1,18 +1,9 @@
-{s} Ⓗa0 ⚽️Live Sports	^^sa0
-{s} Ⓜa1 🤹Multi	^^sa1
-{s} Ⓧa2 🤺eXtra	^^sa2
-{h} Ⓞb0 Okay	^^hb0
-{h} Ⓒb1 Cool	^^hb1
-{h} Ⓕb2 Fun	^^hb2
-{h} Ⓦb3 Wow Great!	^^hb3
-{s} Ⓢ 0 Samsung	^^s0
-{s} Ⓟ 1 Pluto	^^s1
-{h} Ⓘ 2 iptv-org	^^h2
 {h} * Action Movies Film VOD	^^hhttps://raw.githubusercontent.com/Justryuz/jtv/main/actionvod.m3u
 {s} Ⓥ Movies Film 1	^^s3
 {h} Ⓨ Movies Film 2	^^h4
 {h} * Conspiracy Truth 1	^^h7
 {h} * Conspiracy Truth 2	^^h8
+{h} Ⓦb3 Wow Great!	^^hb3
 {s} * Plex	^^shttps://i.mjh.nz/Plex/all.m3u8
 {s} * Stirr	^^shttps://i.mjh.nz/Stirr/all.m3u8
 {s} * Kodi	^^shttps://i.mjh.nz/all/kodi-tv.m3u8
@@ -286,3 +277,13 @@ Science	^^hk^science.m3u
 Weather	^^hk^weather.m3u
 Auto	^^hk^auto.m3u
 Relax	^^hk^relax.m3u
+{s} Ⓗa0 ⚽️Live Sports	^^sa0
+{s} Ⓜa1 🤹Multi	^^sa1
+{s} Ⓧa2 🤺eXtra	^^sa2
+{h} Ⓞb0 Okay	^^hb0
+{h} Ⓒb1 Cool	^^hb1
+{h} Ⓕb2 Fun	^^hb2
+{h} Ⓦb3 Wow	^^hb3
+{s} Ⓢ 0 Samsung	^^s0
+{s} Ⓟ 1 Pluto	^^s1
+{h} Ⓘ 2 iptv-org	^^h2

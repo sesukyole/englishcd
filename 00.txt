@@ -112,6 +112,43 @@ TV4 Sport Live 3	https://proji.glitch.me/https://director.streaming.telia.com/tv
 TV4 Sport Live 4	https://proji.glitch.me/https://director.streaming.telia.com/tvm-packager-prod/group1/60896d5647a23d19495cd627/manifest.mpd``99c9c1d2eff15da09b1b64ed16a17a84:6f7174c7e2d5e07fff7ba012e2e94956
 TV4 Tennis	https://proji.glitch.me/https://director.streaming.telia.com/tvm-packager-prod/group2/60ae45e51522bd66f469461b/manifest.mpd``eb4b504ae8015e149965a48cfff9418e:b67881cf246e6c7ef8a3db7491c5b036
 A21 Network Russian Motorsport	https://proji.glitch.me/https://autopilot.catcast.tv/content/37909/index.m3u8
+DAZN F1	01`01a1601`01b
+DAZN 1 DE	01`01a1701`01b
+DAZN 2 DE	01`01a1801`01b
+SportDigital Fussball	01`01a2201`01b
+NFL	01`01a2301`01b
+Zona DAZN	01`01a2401`01b
+Milan TV	01`01a2501`01b
+MLB	01`01a2601`01b
+EuroSport 1 DE	01`01a2701`01b
+EuroSport 2 DE	01`01a2801`01b
+EuroSport 1 IT	01`01a2901`01b
+EuroSport 2 IT	01`01a3001`01b
+EuroSport 1 ES	01`01a3101`01b
+EuroSport 2 ES	01`01a3201`01b
+Inter TV	01`01a3301`01b
+DAZN NBA	01`01a3501`01b
+Redbull TV	01`01a3601`01b
+DAZN 1 ES	01`01a3701`01b
+DAZN 2 ES	01`01a3801`01b
+LaLiga Live HyperMotion	01`01a4001`01b
+DAZN LaLiga	01`01a4301`01b
+Unbeaten	01`01a4401`01b
+DAZN 1 US	01`01a4501`01b
+Canal+ Ligue1 Uber Eats	01`01a4601`01b
+DAZN Eleven 1 ES	01`01a4701`01b
+DAZN Eleven 1 ES	01`01a4801`01b
+DAZN Eleven 01	01`01a4901`01b
+DAZN Eleven League 01	01`01a5001`01b
+PlaySports 1	01`01a5101`01b
+PlaySports 2	01`01a5201`01b
+PlaySports 3	01`01a5301`01b
+DAZN Eleven 1	01`01a5401`01b
+DAZN Eleven 2	01`01a5501`01b
+DAZN Eleven 3	01`01a5601`01b
+DAZN Eleven 4	01`01a5701`01b
+DAZN Eleven 5	01`01a5801`01b
+DAZN Eleven 6	01`01a5901`01b
 ES beIN Sports Xtra	https://bein-esp-xumo.amagi.tv/playlist.m3u8
 ES beIN Sports Xtra	https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
 ES Real Madrid ENG	https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
@@ -421,43 +458,6 @@ Alkass 6	https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass6xydam/master
 Alkass 2	https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass2hgfdfghjikmnhygf/master.m3u8
 Alkass 5	https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass5xtwe/master.m3u8
 LaLiga Plus	https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdgeVX/smil:272_HD.smil/manifest.mpd``aa724943787320593f5563048c90032d:a039276254f53769b040199a4eca8c2c
-DAZN F1	01`01a1601`01b
-DAZN 1 DE	01`01a1701`01b
-DAZN 2 DE	01`01a1801`01b
-SportDigital Fussball	01`01a2201`01b
-NFL	01`01a2301`01b
-Zona DAZN	01`01a2401`01b
-Milan TV	01`01a2501`01b
-MLB	01`01a2601`01b
-EuroSport 1 DE	01`01a2701`01b
-EuroSport 2 DE	01`01a2801`01b
-EuroSport 1 IT	01`01a2901`01b
-EuroSport 2 IT	01`01a3001`01b
-EuroSport 1 ES	01`01a3101`01b
-EuroSport 2 ES	01`01a3201`01b
-Inter TV	01`01a3301`01b
-DAZN NBA	01`01a3501`01b
-Redbull TV	01`01a3601`01b
-DAZN 1 ES	01`01a3701`01b
-DAZN 2 ES	01`01a3801`01b
-LaLiga Live HyperMotion	01`01a4001`01b
-DAZN LaLiga	01`01a4301`01b
-Unbeaten	01`01a4401`01b
-DAZN 1 US	01`01a4501`01b
-Canal+ Ligue1 Uber Eats	01`01a4601`01b
-DAZN Eleven 1 ES	01`01a4701`01b
-DAZN Eleven 1 ES	01`01a4801`01b
-DAZN Eleven 01	01`01a4901`01b
-DAZN Eleven League 01	01`01a5001`01b
-PlaySports 1	01`01a5101`01b
-PlaySports 2	01`01a5201`01b
-PlaySports 3	01`01a5301`01b
-DAZN Eleven 1	01`01a5401`01b
-DAZN Eleven 2	01`01a5501`01b
-DAZN Eleven 3	01`01a5601`01b
-DAZN Eleven 4	01`01a5701`01b
-DAZN Eleven 5	01`01a5801`01b
-DAZN Eleven 6	01`01a5901`01b
 CTV 1	`0https://live.sportsnews.id/p/ctv.html
 CTV 2	`0https://live.sportsnews.id/p/ctv2.html
 UCL Infinity 1	https://live03p-seg.msf.cdn.mediaset.net/live/ch-u1/u1-dash-widevine.isml/manifest.mpd``00f9f3c0783536b832a8f0326fbdc02e:ade0533ba667bb7e9847d8f215f03076
