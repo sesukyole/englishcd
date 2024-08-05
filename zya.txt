@@ -9,7 +9,6 @@
 {s} * Kodi	^^shttps://i.mjh.nz/all/kodi-tv.m3u8
 {h} Ⓩ Movies Film 3	^^h5
 {h} Ⓣ Movies Film 4	^^h6
-Sports	^^hk^sports.m3u
 🌍 International	^^hc^int.m3u
 🇮🇩 Indonesia	^^hc^id.m3u
 🇹🇭 Thailand	^^hc^th.m3u
@@ -287,3 +286,4 @@ Relax	^^hk^relax.m3u
 {s} Ⓢ 0 Samsung	^^s0
 {s} Ⓟ 1 Pluto	^^s1
 {h} Ⓘ 2 iptv-org	^^h2
+{h} * Sports	^^hk^sports.m3u

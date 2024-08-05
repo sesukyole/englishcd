@@ -32,3 +32,4 @@
 {s} Ⓢ 0 Samsung	^^s0
 {s} Ⓟ 1 Pluto	^^s1
 {h} Ⓘ 2 iptv-org	^^h2
+{h} * Sports	^^hk^sports.m3u
