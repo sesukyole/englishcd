@@ -1,7 +1,4 @@
 RTB Aneka Go	https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
-Volleyball Channels *	`0https://rakettvcom.blogspot.com/2024/07/voli.html
-Basketball Channels *	`0https://rakettvcom.blogspot.com/2024/07/basket.html
-Badminton Channels *	`0https://rakettvcom.blogspot.com/2024/07/bwf_28.html
 Olympics EuroSport 1	https://cache3.zapitv.com/live/eds_c2/eurosport_1_hd/dash_live_enc/eurosport_1_hd.mpd``237be8ca9383755e9f5784dd23f545eb:15a723773c3b3cbce295c0aed0bc71c3
 Olympics EuroSport 2	https://cache3.zapitv.com/live/eds_c2/eurosport_2_hd/dash_live_enc/eurosport_2_hd.mpd``15382879a9bcfa6f1a04a86d5b4324e9:664241133368ab039dc1fb15206ba54b
 Olympics Sports 01	https://do2ibj89ih8kz.cloudfront.net/out/v1/7942a70dc4a64ed2bceb6b933402ffeb/manifest.mpd``14bc9706a4b044f083401ad4912ff657:e26b1490488635cdd2dc41c8b81c8cc1
@@ -188,6 +185,9 @@ TR Sports TV	https://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8
 HRT1	https://webtvstream.bhtelecom.ba/hrt1.m3u8
 HRT2	https://webtvstream.bhtelecom.ba/hrt2.m3u8
 HRT3	https://webtvstream.bhtelecom.ba/hrt3.m3u8
+Volleyball Channels *	`0https://rakettvcom.blogspot.com/2024/07/voli.html
+Basketball Channels *	`0https://rakettvcom.blogspot.com/2024/07/basket.html
+Badminton Channels *	`0https://rakettvcom.blogspot.com/2024/07/bwf_28.html
 beIN Sports US	`0https://popcdn.day/cue.php?stream=beINSPORTSUS
 beIN Sports 1 FR	`0https://popcdn.day/go.php?stream=BEINSPORT1FR
 beIN Sports 2 FR	`0https://popcdn.day/go.php?stream=BEINSPORT2FR
