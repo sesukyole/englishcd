@@ -1,6 +1,12 @@
 RTB Aneka Go	https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
 Olympics EuroSport 1	https://cache3.zapitv.com/live/eds_c2/eurosport_1_hd/dash_live_enc/eurosport_1_hd.mpd``237be8ca9383755e9f5784dd23f545eb:15a723773c3b3cbce295c0aed0bc71c3
 Olympics EuroSport 2	https://cache3.zapitv.com/live/eds_c2/eurosport_2_hd/dash_live_enc/eurosport_2_hd.mpd``15382879a9bcfa6f1a04a86d5b4324e9:664241133368ab039dc1fb15206ba54b
+Olympics EuroSport 3	01`01a6001`01b
+Olympics EuroSport 4	01`01a6101`01b
+Olympics EuroSport 5	01`01a6201`01b
+Olympics EuroSport 6	01`01a6301`01b
+Olympics EuroSport 7	01`01a6401`01b
+Olympics EuroSport 8	01`01a6501`01b
 Olympics Sports 01	https://do2ibj89ih8kz.cloudfront.net/out/v1/7942a70dc4a64ed2bceb6b933402ffeb/manifest.mpd``14bc9706a4b044f083401ad4912ff657:e26b1490488635cdd2dc41c8b81c8cc1
 Olympics Sports 02	https://d2q3zea8ff7bj4.cloudfront.net/out/v1/a054e78fe6c7439faec28e9f71b16672/manifest.mpd``00c74743daaa4519b2d3d6b6e7a9a89c:87f7e82f78206a846a85bb214e619ed1
 Olympics Sports 03	https://me02.starlive.workers.dev/out/v1/2f39077458694b06bdfb15ef16f55d45/manifest.mpd``4d2b7b722f564526800fd7cb058303b5:2fed1593855c46873731379f3ab2d669
@@ -670,10 +676,3 @@ Channel 25	`0https://rakettvcom.blogspot.com/2024/07/oly25.html
 Channel 26	`0https://rakettvcom.blogspot.com/2024/07/oly26.html
 Channel 27	`0https://rakettvcom.blogspot.com/2024/07/oly27.html
 Channel 28	`0https://rakettvcom.blogspot.com/2024/07/oly28.html
-Olympics EuroSport 3	01`01a6001`01b
-Olympics EuroSport 4	01`01a6101`01b
-Olympics EuroSport 5	01`01a6201`01b
-Olympics EuroSport 6	01`01a6301`01b
-Olympics EuroSport 7	01`01a6401`01b
-Olympics EuroSport 8	01`01a6501`01b
-Olympics EuroSport 9	01`01a6601`01b
