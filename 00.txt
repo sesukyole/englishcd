@@ -22,12 +22,12 @@ Olympics Sports 18	https://me01.starlive.workers.dev/out/v1/7600d156a41348ba807e
 Olympics Sports 19	https://me02.starlive.workers.dev/out/v1/7b8d435cc3ef421ea90f437143547133/manifest.mpd``097c0736feed44889bb554cbd5cef7bb:50e15a6476e3a6b9708a69dfbbf2eab6
 MY TV Okey	https://cors-proxy.cooks.fyi/https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 MY Sukan RTM TV	https://cors-proxy.cooks.fyi/https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
-Olympics Channel 1	https://cors-proxy.cooks.fyi/https://d25tgymtnqzu8s.cloudfront.net/event/smil:ag1/manifest.mpd
-Olympics Channel 2	https://cors-proxy.cooks.fyi/https://d25tgymtnqzu8s.cloudfront.net/event/smil:ag2/manifest.mpd
-Olympics Channel 3	https://cors-proxy.cooks.fyi/https://d25tgymtnqzu8s.cloudfront.net/event/smil:ag3/manifest.mpd
-Olympics Channel 4	https://cors-proxy.cooks.fyi/https://d25tgymtnqzu8s.cloudfront.net/event/smil:ag4/manifest.mpd
-Olympics Channel 5	https://cors-proxy.cooks.fyi/https://d25tgymtnqzu8s.cloudfront.net/event/smil:ag5/manifest.mpd
-Olympics Channel 6	https://cors-proxy.cooks.fyi/https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/manifest.mpd
+Olympics Channel 1	https://cors-proxy.cooks.fyi/https://d25tgymtnqzu8s.cloudfront.net/event/smil:ag1/chunklist.m3u8
+Olympics Channel 2	https://cors-proxy.cooks.fyi/https://d25tgymtnqzu8s.cloudfront.net/event/smil:ag2/chunklist.m3u8
+Olympics Channel 3	https://cors-proxy.cooks.fyi/https://d25tgymtnqzu8s.cloudfront.net/event/smil:ag3/chunklist.m3u8
+Olympics Channel 4	https://cors-proxy.cooks.fyi/https://d25tgymtnqzu8s.cloudfront.net/event/smil:ag4/chunklist.m3u8
+Olympics Channel 5	https://cors-proxy.cooks.fyi/https://d25tgymtnqzu8s.cloudfront.net/event/smil:ag5/chunklist.m3u8
+Olympics Channel 6	https://cors-proxy.cooks.fyi/https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist.m3u8
 Olympics USA West	https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd``252a671825ba31ec8433f978c32ccf6d:ee560759ecc8d2274df2e63fcef56915
 Olympics Universo East	https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(universo-east)/master.mpd``232d71bb013d39ffb92ee8c576fb7e8e:087408a48be8d57046c3868b37ea90ba
 Olympics Sky Open	https://linear-p.media.skyone.co.nz/primeplus1.clear.m3u8
@@ -670,3 +670,10 @@ Channel 25	`0https://rakettvcom.blogspot.com/2024/07/oly25.html
 Channel 26	`0https://rakettvcom.blogspot.com/2024/07/oly26.html
 Channel 27	`0https://rakettvcom.blogspot.com/2024/07/oly27.html
 Channel 28	`0https://rakettvcom.blogspot.com/2024/07/oly28.html
+Olympics EuroSport 3	01`01a6001`01b
+Olympics EuroSport 4	01`01a6101`01b
+Olympics EuroSport 5	01`01a6201`01b
+Olympics EuroSport 6	01`01a6301`01b
+Olympics EuroSport 7	01`01a6401`01b
+Olympics EuroSport 8	01`01a6501`01b
+Olympics EuroSport 9	01`01a6601`01b
