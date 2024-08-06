@@ -20,7 +20,6 @@ EuroSport HD 2	http://edge02.odtv.az/o3/eurosport2/playlist.m3u8
 EuroSport HD 1	http://185.189.225.157/EuroSport1/index.m3u8
 EuroSport HD 2	http://185.189.225.157/EuroSport2/index.m3u8
 Sky Sports LaLiga	http://181.78.105.146:2000/play/a08m/index.m3u8
-Sky Sports F1	http://e6ce69f2.kazaktelekom.com/iptv/K4NFFYMLT9ZLUX/7342/index.m3u8
 UK English Club TVᴴᴰ 🇬🇧	http://iptv.prosto.tv:7000/ch206/video.m3u8
 UK Mr. Bean	http://51.159.104.29:8080/mrbean/index.m3u8
 AR Urban Kids	http://200.194.238.229:8383/live/urbankids/playlist.m3u8
