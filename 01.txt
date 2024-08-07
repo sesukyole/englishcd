@@ -116,11 +116,11 @@ ID Dunia Games	https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6
 ID IDTV	https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 ID CNBC Indonesia	https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 ID CNN Indonesia	https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
-ID ATV	`9https://streaming.indihometv.com/atm/DASH/atv/manifest.mpd
-ID Cartoonito	`9https://streaming.indihometv.com/atm/DASH/boomerang/manifest.mpd
-ID Warner	`9https://streaming.indihometv.com/atm/DASH/warner/manifest.mpd
-ID Indosiar 3	`9https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
-ID SCTV 5	`9https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
+ID ATV	https://testcors.starlive.workers.dev/https://streaming.indihometv.com/atm/DASH/atv/manifest.mpd
+ID Cartoonito	https://andi-cors-proxy-service-k8s.andisearch.com/https://streaming.indihometv.com/atm/DASH/boomerang/manifest.mpd
+ID Warner	https://proji.glitch.me/https://streaming.indihometv.com/atm/DASH/warner/manifest.mpd
+ID Indosiar 3	https://cors-proxy.cooks.fyi/https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
+ID SCTV 5	https://skytest.starlive.workers.dev/https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
 ID tvOne	`9https://streaming.indihometv.com/atm/DASH/tvone/manifest.mpd
 ID Jawapos	`9https://streaming.indihometv.com/atm/DASH/jawapos/manifest.mpd
 ID BeritaSatu News	https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
