@@ -333,9 +333,9 @@ HU Match 4	https://cors-proxy.cooks.fyi/https://m7huvideolive.solocoo.tv/bluesky
 Pro TV	https://cors-proxy.cooks.fyi/https://m7rovideolive.solocoo.tv/blueskylivedash/blueprotv/Manifest.mpd``889750ca612844cfabc4073989befa3e:c188729c59e29bedafc1cbedaa107abb
 Ziggo Sport 3	https://cors-proxy.cooks.fyi/https://cdsvideolive3.solocoo.tv/blueskycdslive7dash/blueziggosportgolf/Manifest.mpd``bb4b78ef397646e3ae5f13bdb23d56ed:c1247a942c7126443a93214c67431fe8
 BE RTL Sports	https://cors-proxy.cooks.fyi/https://tvvvideolive3.solocoo.tv/blueskytvvlive7dash/bluertlclubhd/Manifest.mpd``0993fbc9c0f242e8bab9483484ff974e:08d3d32f7efefb22a7a865f81b5c8276
-RU Match! Futbol 1	`9https://strm.yandex.ru/kal/match_football1_hd/manifest.mpd``5269ab07e6a6db7585324ae20542f191:dba0dccffba1b26f658ec85a616102e8
-RU Match! Futbol 2	`9https://strm.yandex.ru/kal/match_football2_hd/manifest.mpd``56f7dcb5d20eeed212ff58620acb8931:76e139c0676ed2d7ae46392ce6fd9e89
-RU Match! Futbol 3	`9https://strm.yandex.ru/kal/match_football3_hd/manifest.mpd``b356d2c5bd7b4a71e99485906f6beeed:f2e7cb0fcdfb6a3fc0299eed50d29c97
+RU Match! Futbol 1	https://cors-proxy.cooks.fyi/https://strm.yandex.ru/kal/match_football1_hd/manifest.mpd``5269ab07e6a6db7585324ae20542f191:dba0dccffba1b26f658ec85a616102e8
+RU Match! Futbol 2	https://cors-proxy.cooks.fyi/https://strm.yandex.ru/kal/match_football2_hd/manifest.mpd``56f7dcb5d20eeed212ff58620acb8931:76e139c0676ed2d7ae46392ce6fd9e89
+RU Match! Futbol 3	https://cors-proxy.cooks.fyi/https://strm.yandex.ru/kal/match_football3_hd/manifest.mpd``b356d2c5bd7b4a71e99485906f6beeed:f2e7cb0fcdfb6a3fc0299eed50d29c97
 Premiere 1 BR	https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/4zkafrcxji/out/v1/810ebca1aff0443da717da4acdeda158/cenc.mpd``d98239180d8380b3a1bb28d875b1ddf2:cf836ced579257d1c76ae8809818e6c4
 Premiere 2 BR	https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/pgub1bh7o9/out/v1/7a59226197644bfaa2b00f488bd95288/cenc.mpd``fd2e8019f37211ca8b78a8b656f1b83a:273189c214e85b43ac36298d1c422330
 Premiere 3 BR	https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/8ci7l7dt0d/out/v1/98fe69f2cdc041388004305e63353268/cenc.mpd``9547f9aead1237c8a3b1bf0a91ed9995:534fab4541fef31921dd970c65d51848
@@ -384,8 +384,8 @@ Boxing 1	`0https://streambtw.com/iframe/box1.php
 Boxing 2	`0https://streambtw.com/iframe/box2.php
 UFC	`0https://streambtw.com/iframe/ufc.php
 UFC	https://live.mocdn.tv/out/v1/e3b6cb27892d4466a522bf43fe92da1a/manifest_L1.mpd``3e17c3798a294c49b93c1b2ddbcd8f29:0917fa8c9cf68c206efc24946d0c22cc
-KH Rasmey Hang Meas	`9http://clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/playlist.m3u8
-KH Hang Meas HDTV	`9http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/playlist.m3u8
+KH Rasmey Hang Meas	https://andi-cors-proxy-service-k8s.andisearch.com/http://clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/playlist.m3u8
+KH Hang Meas HDTV	https://andi-cors-proxy-service-k8s.andisearch.com/http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/playlist.m3u8
 LIVE SPL 01	https://tglmp04.akamaized.net/out/v1/6ec3ff8c3b5649249f9c8a6e2651195a/manifest.mpd``f5158194cc4044e699d0df01772f2212:072e611a383a2d1e3d4d8ea19e016a71
 LIVE SPL 02	https://tglmp02.akamaized.net/out/v1/06bffdc183074130a6faf73d04502eaa/manifest.mpd``deb6c84db4dc4578bdaa61e965b3424c:b2e6fff24da67654af548fe61aa6bd5a
 CCTV 1	https://node3.olelive.com:6443/live/CCTV1HD_360/hls.m3u8

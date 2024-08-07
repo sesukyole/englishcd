@@ -116,13 +116,13 @@ ID Dunia Games	https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6
 ID IDTV	https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 ID CNBC Indonesia	https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 ID CNN Indonesia	https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
-ID ATV	https://uniproxy.misty.workers.dev/https://streaming.indihometv.com/atm/DASH/atv/manifest.mpd
-ID Cartoonito	https://uniproxy.misty.workers.dev/https://streaming.indihometv.com/atm/DASH/boomerang/manifest.mpd
-ID Warner	https://uniproxy.misty.workers.dev/https://streaming.indihometv.com/atm/DASH/warner/manifest.mpd
-ID Indosiar 3	https://uniproxy.misty.workers.dev/https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
-ID SCTV 5	https://uniproxy.misty.workers.dev/https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
-ID tvOne	https://uniproxy.misty.workers.dev/https://streaming.indihometv.com/atm/DASH/tvone/manifest.mpd
-ID Jawapos	https://uniproxy.misty.workers.dev/https://streaming.indihometv.com/atm/DASH/jawapos/manifest.mpd
+ID ATV	`9https://streaming.indihometv.com/atm/DASH/atv/manifest.mpd
+ID Cartoonito	`9https://streaming.indihometv.com/atm/DASH/boomerang/manifest.mpd
+ID Warner	`9https://streaming.indihometv.com/atm/DASH/warner/manifest.mpd
+ID Indosiar 3	`9https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
+ID SCTV 5	`9https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
+ID tvOne	`9https://streaming.indihometv.com/atm/DASH/tvone/manifest.mpd
+ID Jawapos	`9https://streaming.indihometv.com/atm/DASH/jawapos/manifest.mpd
 ID BeritaSatu News	https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
 ID DAAI TV	https://dacastmmd.mmdlive.lldns.net/dacastmmd/683cc426c19442a4ba31c53be5c963bb/index.m3u8
 ID Trans TV	https://video.detik.com/transtv/smil:transtv-live.smil/index.m3u8
@@ -222,13 +222,13 @@ MY Maah TV	https://hls.maahtv.live/hls/stream.m3u8
 MY TV IKIM	https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
 MY Dunia Sinema	https://unifi-live01.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 MY Didik TV	https://raw.githubusercontent.com/mystery75/m3u8/main/DIDIKTVKPM.m3u8
-MY Berita RTM TV	https://cors-proxy.cooks.fyi/https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
-MY TV Okey	https://cors-proxy.cooks.fyi/https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
-MY Sukan RTM TV	https://cors-proxy.cooks.fyi/https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
-MY TV1	https://cors-proxy.cooks.fyi/https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
-MY TV2	https://cors-proxy.cooks.fyi/https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
+MY Berita RTM TV	`9https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
+MY TV Okey	`9https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
+MY Sukan RTM TV	`9https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
+MY TV1	`9https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
+MY TV2	`9https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 MY TV3	https://raw.githubusercontent.com/mystery75/m3u8/main/TV3.m3u8
-MY TV6	https://cors-proxy.cooks.fyi/https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
+MY TV6	`9https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 MY 8TV	https://raw.githubusercontent.com/mystery75/m3u8/main/8TV.m3u8
 MY TV9	https://raw.githubusercontent.com/mystery75/m3u8/main/TV9.m3u8
 MY Siar	https://unifi-live31.secureswiftcontent.com/UnifiHD/live31.mpd``fc23c442355854992a264931a28fc1c5:3a3368fa385a049695ff4de3c36809cd
@@ -668,7 +668,7 @@ LE FIGARO IDF	https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8
 I24 NEWS FR	https://bcovlive-a.akamaihd.net/cc8266d36bb5469b8b4a3097497e06e6/eu-central-1/5377161796001/playlist-all.m3u8
 CGTN FRANÇAIS	https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
 RDI CANADA	https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
-AFRICA 24	https://cors-proxy.cooks.fyi/https://edge12.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
+AFRICA 24	`9https://edge12.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
 BFM BUSINESS	https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&end=END
 BFM ALPES	https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_DICI_ALPESDUSUD/index.m3u8?start=LIVE&end=END
 BFM ALSACE	https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_ALSACE/index.m3u8?start=LIVE&end=END
