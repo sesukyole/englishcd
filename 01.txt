@@ -156,10 +156,22 @@ Always Funny Video Family	https://linear-12.frequency.stream/mt/plex/12/hls/mast
 WipeOut Xtra	https://d2stx9idyk58lb.cloudfront.net/wipeoutxtra-samsungus/playlist.m3u8
 Game Show Network	https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/gsn_720p/playlist.m3u8
 Game Show Central	https://gsn-gameshowchannnel-1-us.vizio.wurl.tv/playlist.m3u8
-Marvel Movies 1	https://hlsa-akm.douyucdn.cn/live/20415rnWbjg6Ex1K_900/playlist.m3u8?wsAuth=014b39c4437d974e4d70045eb2d23e67&token=web-h5-0-20415-b6774b3b3249db179435e1a37410043c7827528d80fff5fe&logo=0&expire=0&did=c2d6f221fb67b0e8f4e820a300001601&ver=Douyu_221090605&pt=2&st=0&origin=tct&mix=0&isp=
-Marvel Movies 2	https://openhls-tct.douyucdn2.cn/dyliveflv1/4332rX3jRtJ8YeWS_2000.m3u8?txSecret=d6829eeec766672c1d181d803664f2be&txTime=66aa75d7&token=h5-douyu-0-4332-231e448f1f60efc5d0e8a75a68ba91ea&did=10000000000000000000000000001501&origin=tct&vhost=play1&sid=395692957
-Marvel Movies 3	https://openhls-tct.douyucdn2.cn/dyliveflv1/36337rrvzb1lQbzV_2000.m3u8?txSecret=160b992cb2175c2e7b39eb67ea35ec5f&txTime=66aa7b9f&token=h5-douyu-0-36337-a392fca515a5d7d5f89c843fce671532&did=10000000000000000000000000001501&origin=tct&vhost=play1&sid=392624442
-Marvel Movies 4	https://openhls-tct.douyucdn2.cn/dyliveflv3/6140589rXtkMlhOs_2000.m3u8?txSecret=123698d8f3153d9f58782256fbecf0e8&txTime=66aa77ab&token=h5-douyu-0-6140589-c204e8bfb4cebcb8d94612e65faaf90d&did=10000000000000000000000000001501&origin=tct&vhost=play3&sid=394821347
+Action Movies A	https://openhls-tct.douyucdn2.cn/dyliveflv1/4332rrWkNoBuMryK_2000.m3u8?txSecret=c082b974ab3d9ba27af9cf4580b6ea4e&txTime=66b56c86
+Action Movies B	https://openhls-tct.douyucdn2.cn/dyliveflv1/36337rrvzb1lQbzV_2000.m3u8?txSecret=9a6f27d8a55f32dc0e095d1731d31791&txTime=66b56b41
+Action Movies C	https://openhls-tct.douyucdn2.cn/dyliveflv3/2793084rMRRceTj3_2000.m3u8?txSecret=e62426727f5369277b2b69d7f142d2a3&txTime=66b56f37
+Action Movies D	https://openhls-tct.douyucdn2.cn/dyliveflv3/6140589rQmhJc4S6_2000.m3u8?txSecret=46cd74cda3aecd4327fb83b36a51cbd7&txTime=66b56d85
+Action Movies E	https://openhls-tct.douyucdn2.cn/dyliveflv1/252802rryomo7kKd_2000.m3u8?txSecret=59978bc4282dd8b87d9d2256a932cb0b&txTime=66b57258
+Action Movies F	https://openhls-tct.douyucdn2.cn/dyliveflv3/8770422r7zPvlxKc_2000.m3u8?txSecret=e2e3d143e18c75b325266cf10bc3b364&txTime=66b572a9
+Action Movies G	https://openhls-tct.douyucdn2.cn/dyliveflv1/747764rQN67TutVA_2000.m3u8?txSecret=9cc462495bec726527cf6c4472cb0dbd&txTime=66b5703e
+Action Movies H	https://openhls-tct.douyucdn2.cn/dyliveflv3a/8814650rZqxye3Y7_2000.m3u8?txSecret=44c2e10840df652d8d9d04fa4b31dd5f&txTime=66b5703e
+Action Movies I	https://openhls-tct.douyucdn2.cn/dyliveflv3a/263824rkZl3tJ9Tm_2000.m3u8?txSecret=30eaa5b4a5ab835575e6c78dcfc1d974&txTime=66b56eb0
+Action Movies J	https://openhls-tct.douyucdn2.cn/dyliveflv1/323876rimvNCAQ8W_2000.m3u8?txSecret=203fb7977a7be540b688860aa59982c1&txTime=66b56eb0
+Action Movies K	https://openhls-tct.douyucdn2.cn/dyliveflv3a/2516864rENAuaK50_2000.m3u8?txSecret=47db86843956682f938b899736c2ba22&txTime=66b56d88
+Action Movies L	https://openhls-tct.douyucdn2.cn/dyliveflv3a/6566671r3VHsgcbX_2000.m3u8?txSecret=001c69b7a9d436a91d1ad9c537f15e40&txTime=66b572c3
+Action Movies M	https://openhls-tct.douyucdn2.cn/dyliveflv3/1226741rMWeSRqKU_2000.m3u8?txSecret=76e1e084627e337064fc7ec427383544&txTime=66b56b3b
+Action Movies N	https://openhls-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.m3u8?txSecret=ae5353b61f5f241ddf9eac1b843c4c3d&txTime=66b57323
+Action Movies O	https://openhls-tct.douyucdn2.cn/dyliveflv1/218859radBkxzatg_2000.m3u8?txSecret=ff6f6a6c5878fe8fb99535a28bc9fbd0&txTime=66b57590
+Action Movies P	https://hlsa-akm.douyucdn.cn/live/20415rnWbjg6Ex1K_900/playlist.m3u8?wsAuth=014b39c4437d974e4d70045eb2d23e67&token=web-h5-0-20415-b6774b3b3249db179435e1a37410043c7827528d80fff5fe&logo=0&expire=0
 Cinevault 80s	https://gsn-cinevault-80s-1-us.samsung.wurl.tv/playlist.m3u8
 Cinevault Westerns	https://gsn-cinevault-westerns-1-us.samsung.wurl.tv/playlist.m3u8
 ESR Games	https://eyeonesports.com/480/ESR-003SCTE35.m3u8
