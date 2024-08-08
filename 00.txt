@@ -34,6 +34,22 @@ Olympics Channel 3	`900`a04event/smil:ag3/chunklist.m3u8
 Olympics Channel 4	`900`a04event/smil:ag4/chunklist.m3u8
 Olympics Channel 5	`900`a04event/smil:ag5/chunklist.m3u8
 Olympics Channel 6	`900`a04event/smil:event1/chunklist.m3u8
+Olympics Channel A	00`a065150/default_primary.mpd``94fae17e4d15e1cd0bdc7ced096fa510:e19b697fdedc5b0cf0ad5068de13d0a9
+Olympics Channel B	00`a065151/default_primary.mpd``1604ec11358c6c88102bef8ab5bdca10:c6a09b1d801d3631cd77da486578ddf6
+Olympics Channel C	00`a065152/default_primary.mpd``d6afe246b3db067df837fafc06778d10:7c7a98236c7dcce43f1269190060b8a0
+Olympics Channel D	00`a065153/default_primary.mpd``64a8f08490d91ded89f977d85878d110:a1c391c1ea515756d5272972d6bbd729
+Olympics Channel E	00`a065154/default_primary.mpd``8cb67b7fa34de61532947254309d4d10:288e7f89c9c8726d880753ddaf9e70ed
+Olympics Channel F	00`a065155/default_primary.mpd``847059d47386706eee610062170f5610:9449a550b7c9d00f5a62ee1d68ae32a8
+Olympics Channel G	00`a065156/default_primary.mpd``c6a0127305b4e146c13678114d943b10:e7e624c9c7fa76d81a462aba112fc461
+Olympics Channel H	00`a065157/default_primary.mpd``21f1c4e873b14d8d72628ecab98fe810:06239087fc45361fa869068914e695fa
+Olympics Channel I	00`a065158/default_primary.mpd``81257d6815f45da763f05273c0ef5310:671f266367e2eeb9078041617394ff69
+Olympics Channel J	00`a065159/default_primary.mpd``3fc8322786658471d0fa02ce31147d10:37f15c6763c1d67c451e3a6f24c493bf
+Olympics Channel K	00`a065160/default_primary.mpd``c1bea23bddf56a18c19d5de612300910:44da935c6d074d290baf0f2c40339a02
+Olympics Channel L	00`a065161/default_primary.mpd``d566eb21d512365010ba325450eaba10:5af468398413fbfa270600bc7a0c6b61
+Olympics Channel M	00`a065162/default_primary.mpd``fdc00bcd7b723761b6e3102fd38fb410:d045be7cf2fa81d762952a144e2833f2
+Olympics Channel N	00`a065163/default_primary.mpd``358d0c3f6900a52ddfa08ed5ced24510:9ca37f9e4cf1618ab932709e44df367a
+Olympics Channel O	00`a065164/default_primary.mpd``8242bb2805292138e886088f70357610:d35e728245dd11dc362fc307a9300fc7
+Olympics Channel P	00`a065165/default_primary.mpd``b3e4daa30e0e957e809bae271e47b910:60e59bd86e2e4af1256922d1465728ca
 Olympics USA West	https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd``252a671825ba31ec8433f978c32ccf6d:ee560759ecc8d2274df2e63fcef56915
 Olympics Universo East	https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(universo-east)/master.mpd``232d71bb013d39ffb92ee8c576fb7e8e:087408a48be8d57046c3868b37ea90ba
 Olympics Sky Open	https://linear-p.media.skyone.co.nz/primeplus1.clear.m3u8
@@ -53,6 +69,22 @@ Arena Sport Premium 1	https://webtvstream.bhtelecom.ba/hls6/as_premium1.mpd``c18
 Arena Sport Premium 2	https://webtvstream.bhtelecom.ba/hls6/as_premium2.mpd``c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 Arena Sport Premium 3	https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd``c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 Arena Sport Premier League	https://webtvstream.bhtelecom.ba/hls6/premier_league.mpd``c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+TNT Sports 1	https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd``ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
+TNT Sports 2	https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd``6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
+TNT Sports 3	https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd``4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
+TNT Sports 4	https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd``e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729
+TNT Sports 5	https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/gesdwrdncn/out/v1/79e752f1eccd4e18b6a8904a0bc01f2d/cenc.mpd``60c0d9b41475e01db4ffb91ed557fbcc:36ee40e58948ca15e3caba8d47b8f34b
+IT Canal 1	https://live03p-seg.msf.cdn.mediaset.net/live/ch-i1/i1-dash-widevine.isml/manifest.mpd``00f9f3c0783536b8ee91704e23b78016:bfd04d6f544c9cc4d35cb13ab6778587
+IT Canal 5	https://live03p-seg.msf.cdn.mediaset.net/live/ch-c5/c5-dash-widevine.isml/manifest.mpd``00f9f3c0783536b8ce4a30a01a52e082:e926f7d45af4f7d154c990eae6a2d937
+Sport Italia	https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/amRdirect/ads_pod_type=playerpage_midroll&ads_env=prod&ads_ppid=&ads_rtvid=271861&ads_streaming_id=4f185419-74f6-4564-8ea9-4cdc60746e2f&ads_amagi_channel=781&ads_device_type=web&ads_device_model=&ads_device_year=&ads_player_width=&ads_rtv_content_language=ita&ads_market=it&ads_rtv_content_id=3741&ads_device_make=&ads_user_type=visitor&ads_content_classification=6&ads_gdpr_consent=&ads_device_lmt=1&ads_player_height=&uid=1gnmqg5gu-qsvc-bfo-gaq3-3dgjgexshpe/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/1920x1080_4540800/chunklist.m3u8
+Arena Sport 1	https://webtvstream.bhtelecom.ba/hls6/arena1.mpd``c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+Arena Sport 1x2	https://webtvstream.bhtelecom.ba/hls6/arena_1x2.mpd``c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+Arena Sport 2	https://webtvstream.bhtelecom.ba/hls6/arena2.mpd``c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+Arena Sport 3	https://webtvstream.bhtelecom.ba/hls6/arena3.mpd``c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+Arena Sport 4	https://webtvstream.bhtelecom.ba/hls6/arena4.mpd``c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+Arena Sport 5	https://webtvstream.bhtelecom.ba/hls6/arena5.mpd``c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+Arena Sport 6	https://webtvstream.bhtelecom.ba/hls6/arena6.mpd``c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+Arena Fight	https://webtvstream.bhtelecom.ba/hls6/arena_fight.mpd``c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 ES Real Madrid ENG	https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
 ES Real Madrid ESP	https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 UK MUTV	https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
@@ -97,11 +129,6 @@ NL NPO 1	https://nlziet-live.akamaized.net/L6/76fd047c/c427bd9d.isml/.mpd``7545f
 ETB 1	https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
 ETB 2	https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
 ETB Eventos	https://multimedia.eitb.eus/live-content/oka1hd-hls/master.m3u8
-TNT Sports 1	https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd``ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
-TNT Sports 2	https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd``6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
-TNT Sports 3	https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd``4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
-TNT Sports 4	https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd``e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729
-TNT Sports 5	https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/gesdwrdncn/out/v1/79e752f1eccd4e18b6a8904a0bc01f2d/cenc.mpd``60c0d9b41475e01db4ffb91ed557fbcc:36ee40e58948ca15e3caba8d47b8f34b
 Sport TV 1	`0https://popcdn.day/go.php?stream=SPT1
 Sport TV 2	`0https://popcdn.day/go.php?stream=SPT2
 Sport TV 3	`0https://popcdn.day/go.php?stream=SPT3
@@ -113,17 +140,6 @@ PT Eleven Sports 1	`0https://v3.sportsonline.si/channels/pt/eleven1.php
 PT Eleven Sports 2	`0https://v3.sportsonline.si/channels/pt/eleven1.php
 PT Eleven Sports 3	`0https://v3.sportsonline.si/channels/pt/eleven1.php
 PT Benefica	`0https://v3.sportsonline.si/channels/pt/btv.php
-IT Canal 1	https://live03p-seg.msf.cdn.mediaset.net/live/ch-i1/i1-dash-widevine.isml/manifest.mpd``00f9f3c0783536b8ee91704e23b78016:bfd04d6f544c9cc4d35cb13ab6778587
-IT Canal 5	https://live03p-seg.msf.cdn.mediaset.net/live/ch-c5/c5-dash-widevine.isml/manifest.mpd``00f9f3c0783536b8ce4a30a01a52e082:e926f7d45af4f7d154c990eae6a2d937
-Sport Italia	https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/amRdirect/ads_pod_type=playerpage_midroll&ads_env=prod&ads_ppid=&ads_rtvid=271861&ads_streaming_id=4f185419-74f6-4564-8ea9-4cdc60746e2f&ads_amagi_channel=781&ads_device_type=web&ads_device_model=&ads_device_year=&ads_player_width=&ads_rtv_content_language=ita&ads_market=it&ads_rtv_content_id=3741&ads_device_make=&ads_user_type=visitor&ads_content_classification=6&ads_gdpr_consent=&ads_device_lmt=1&ads_player_height=&uid=1gnmqg5gu-qsvc-bfo-gaq3-3dgjgexshpe/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/1920x1080_4540800/chunklist.m3u8
-Arena Sport 1	https://webtvstream.bhtelecom.ba/hls6/arena1.mpd``c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-Arena Sport 1x2	https://webtvstream.bhtelecom.ba/hls6/arena_1x2.mpd``c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-Arena Sport 2	https://webtvstream.bhtelecom.ba/hls6/arena2.mpd``c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-Arena Sport 3	https://webtvstream.bhtelecom.ba/hls6/arena3.mpd``c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-Arena Sport 4	https://webtvstream.bhtelecom.ba/hls6/arena4.mpd``c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-Arena Sport 5	https://webtvstream.bhtelecom.ba/hls6/arena5.mpd``c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-Arena Sport 6	https://webtvstream.bhtelecom.ba/hls6/arena6.mpd``c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-Arena Fight	https://webtvstream.bhtelecom.ba/hls6/arena_fight.mpd``c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 V Sport Premium	https://proji.glitch.me/https://director.streaming.telia.com/tvm-packager-prod/group1/60896c3647a23d7f115cd57a/manifest.mpd``eab13e69793756eda77d8d71fda90d5d:cd022e9bffa6a0d1523ee5d9fcda9ed4
 V Sport Ultra HD	https://proji.glitch.me/https://director.streaming.telia.com/tvm-packager-prod/group3/60b76e87baa9d5ddc9262457/manifest.mpd``c02b1c0a644d5aa4b7176ae585c572dc:5a7799ea89ea65e3bac9a10684e616bc
 V Sport Extra	https://proji.glitch.me/https://director.streaming.telia.com/tvm-packager-prod/group3/60ae4f5e1522bd739f6959a1/manifest.mpd``bc972382f04c531983b7aab6bf642ad8:ddfd212680eb891b755610eac5becf85
