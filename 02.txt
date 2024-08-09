@@ -1,3 +1,73 @@
+ID SpoTV 1	01`00a133/beib1/index.m3u8?c
+ID SpoTV 2	01`00a133/beib2/index.m3u8?c
+ID Football	00`a05rcti-soccerchannel-hd/sa_hls/rcti-soccerchannel-hd.m3u8?c
+ID Sport 1	00`a05rcti-sportstar/sa_hls/rcti-sportstar.m3u8?c
+ID Sport 2	00`a05rcti-sportstar2/sa_hls/rcti-sportstar2.m3u8?c
+ID Sport 3	00`a05mncsport3/sa_hls/mncsport3.m3u8?c
+ID Sport 4	00`a05VplusLiveRplus/sa_hls/VplusLiveRplus.m3u8?c
+ID iNews	00`a05inews-hdd/sa_hls/inews-hdd.m3u8?c
+ID RCTI 1	00`a05rcti-2/sa_hls/rcti-2.m3u8?c
+ID RCTI 2	https://rcti-cutv.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
+ID PSJ TV	https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
+ID Indosiar 1	https://op-group1-swiftservesd-1.dens.tv/s/s04/02.m3u8
+ID Indosiar 2	https://op-group1-swiftservesd-1.dens.tv/s/s04/01.m3u8
+ID Indosiar 3	https://andi-cors-proxy-service-k8s.andisearch.com/https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
+ID Indosiar 4	https://proji.glitch.me/https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd``5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
+ID SCTV 1	https://op-group1-swiftservesd-1.dens.tv/s/s03/02.m3u8
+ID SCTV 2	https://op-group1-swiftservesd-1.dens.tv/s/s03/01.m3u8
+ID SCTV 3	https://op-group1-swiftservehd-1.dens.tv/h/h217/01.m3u8
+ID SCTV 4	https://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
+ID SCTV 5	https://andi-cors-proxy-service-k8s.andisearch.com/https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
+ID Moji 1	01`00a134/ochannel/index.m3u8?c
+ID Moji 2	https://op-group1-swiftservesd-1.dens.tv/s/s41/02.m3u8
+ID Moji 3	https://op-group1-swiftservesd-1.dens.tv/s/s41/01.m3u8
+ID TVRI Sport 1	https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+ID TVRI Sport 2	https://op-group1-swiftservesd-1.dens.tv/s/s107/02.m3u8
+ID TVRI Sport 3	https://op-group1-swiftservesd-1.dens.tv/s/s107/01.m3u8
+ID RRI Net	https://private-streaming.rri.go.id/memfs/ff303a23-f1db-4cb3-95f9-4ae7bef2a392.m3u8
+ID AniPlus	https://op-group1-swiftservehd-1.dens.tv/h/h201/02.m3u8
+ID My Kidz	https://op-group1-swiftservesd-1.dens.tv/h/h191/index.m3u8
+ID Net TV 1	https://op-group1-swiftservehd-1.dens.tv/h/h223/01.m3u8
+ID Net TV 2	https://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
+ID CCTV 4 a	https://op-group1-swiftservesd-1.dens.tv/s/s19/02.m3u8
+ID CCTV 4 b	https://op-group1-swiftservesd-1.dens.tv/s/s19/01.m3u8
+ID K Plus 1	https://op-group1-swiftservehd-1.dens.tv/h/h08/02.m3u8
+ID K Plus 2	https://op-group1-swiftservehd-1.dens.tv/h/h08/01.m3u8
+ID K Plus 3	https://op-group1-swiftservehd-1.dens.tv/h/h219/01.m3u8
+ID K Plus 4	https://op-group1-swiftservehd-1.dens.tv/h/h219/02.m3u8
+ID My Cinema Europe 1	https://op-group1-swiftservehd-1.dens.tv/h/h18/02.m3u8
+ID My Cinema Europe 2	https://op-group1-swiftservehd-1.dens.tv/h/h18/01.m3u8
+ID RTV 1	https://op-group1-swiftservehd-1.dens.tv/h/h10/02.m3u8
+ID RTV 2	https://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
+ID Wion	https://op-group1-swiftservehd-1.dens.tv/h/h91/index.m3u8
+ID TVRI	https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
+ID DigiOne	https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/index.m3u8
+ID Indonesiana	https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/index.m3u8
+ID Magna	https://edge.medcom.id/live-edge/smil:magna.smil/chunklist.m3u8
+ID Metro Global Network	https://edge.medcom.id/live-edge/smil:mgnch.smil/chunklist.m3u8
+ID Dunia Games	https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6854467f-52fe-48ee-9822-00233c678709)/index.m3u8
+ID IDTV	https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
+ID CNBC Indonesia	https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
+ID CNN Indonesia	https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+ID ATV	https://andi-cors-proxy-service-k8s.andisearch.com/https://streaming.indihometv.com/atm/DASH/atv/manifest.mpd
+ID Cartoonito	https://andi-cors-proxy-service-k8s.andisearch.com/https://streaming.indihometv.com/atm/DASH/boomerang/manifest.mpd
+ID Warner	https://andi-cors-proxy-service-k8s.andisearch.com/https://streaming.indihometv.com/atm/DASH/warner/manifest.mpd
+ID tvOne	https://andi-cors-proxy-service-k8s.andisearch.com/https://streaming.indihometv.com/atm/DASH/tvone/manifest.mpd
+ID Jawapos	https://andi-cors-proxy-service-k8s.andisearch.com/https://streaming.indihometv.com/atm/DASH/jawapos/manifest.mpd
+ID BeritaSatu News	https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
+ID DAAI TV	https://dacastmmd.mmdlive.lldns.net/dacastmmd/683cc426c19442a4ba31c53be5c963bb/index.m3u8
+ID Trans TV	https://video.detik.com/transtv/smil:transtv-live.smil/index.m3u8
+ID Trans7	https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
+ID Dhoho TV	https://dhohotv.siar.us/dhohotv/live/playlist.m3u8
+ID Duta TV	https://dutatv.siar.us/dutatv/live/playlist.m3u8
+ID Huma Betang TV	https://v3.siar.us/humabetangtv/live/playlist.m3u8
+ID JITV (Jogja Istimewa TV)	https://mam.jogjaprov.go.id:1937/tv/jitv_720p/playlist.m3u8
+ID Lingkar TV	https://lingkartv.my.id/hls/lingkartv.m3u8
+ID Madu TV	https://re1.siar.us/madutv/hd720/playlist.m3u8
+ID MQTV	https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
+ID Sakti TV	https://saktitv.siar.us/saktitv/live/playlist.m3u8
+ID UGTV	https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
+ID MIC TV	https://v2.siar.us/mic/live/playlist.m3u8
 100%! Space Shower TV Plus	`1https://en.gdplayertv.to/live-tv/space-shower-tv-plus/?embed=1
 8TV (GEO Blocked)	`1https://en.gdplayertv.to/live-tv/8tv/?embed=1
 A Spor TV	`1https://en.gdplayertv.to/live-tv/a-spor-tv/?embed=1
