@@ -374,8 +374,6 @@ Boxing 1	`0https://streambtw.com/iframe/box1.php
 Boxing 2	`0https://streambtw.com/iframe/box2.php
 UFC	`0https://streambtw.com/iframe/ufc.php
 UFC	https://live.mocdn.tv/out/v1/e3b6cb27892d4466a522bf43fe92da1a/manifest_L1.mpd``3e17c3798a294c49b93c1b2ddbcd8f29:0917fa8c9cf68c206efc24946d0c22cc
-KH Rasmey Hang Meas	https://andi-cors-proxy-service-k8s.andisearch.com/http://clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/playlist.m3u8
-KH Hang Meas HDTV	https://andi-cors-proxy-service-k8s.andisearch.com/http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/playlist.m3u8
 LIVE SPL 01	https://tglmp04.akamaized.net/out/v1/6ec3ff8c3b5649249f9c8a6e2651195a/manifest.mpd``f5158194cc4044e699d0df01772f2212:072e611a383a2d1e3d4d8ea19e016a71
 LIVE SPL 02	https://tglmp02.akamaized.net/out/v1/06bffdc183074130a6faf73d04502eaa/manifest.mpd``deb6c84db4dc4578bdaa61e965b3424c:b2e6fff24da67654af548fe61aa6bd5a
 SK RTVS Sport	https://dash2.antik.sk/stream/nvidia_rtvs_sport/playlist_cenc.mpd``11223344556677889900112233445566:11223344556677889900112233445566

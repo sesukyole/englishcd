@@ -5,16 +5,20 @@ ID RCTI	00`a01100.m3u8
 ID Trans7	00`a01103.m3u8
 ID TransTV	00`a01102.m3u8
 ID tvOne	00`a01107.m3u8
+KH Rasmey Hang Meas	http://clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/playlist.m3u8
+KH Hang Meas HDTV	http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/playlist.m3u8
 ID Moji	http://filex.tv:8080/live/paramjeetsingh/002818/302279.m3u8
-ID Moji 1	http://op-group1-swiftservesd-1.dens.tv/s/s41/01.m3u8
-ID Moji 2	http://op-group1-swiftservesd-1.dens.tv/s/s41/02.m3u8
+ID Moji 1	http://op-group1-swiftservesd-1.dens.tv/s/s41/02.m3u8
+ID Moji 2	http://op-group1-swiftservesd-1.dens.tv/s/s41/01.m3u8
 ID SCTV 1	00`a01101.m3u8
-ID SCTV 2	http://op-group1-swiftservehd-1.dens.tv/h/h217/01.m3u8
-ID SCTV 3	http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
+ID SCTV 1	http://op-group1-swiftservesd-1.dens.tv/s/s03/02.m3u8
+ID SCTV 2	http://op-group1-swiftservesd-1.dens.tv/s/s03/01.m3u8
+ID SCTV 3	http://op-group1-swiftservehd-1.dens.tv/h/h217/01.m3u8
+ID SCTV 4	http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 ID Indosiar 1	00`a01105.m3u8
 ID Indosiar 2	http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45098.m3u8
-ID Indosiar 3	http://op-group1-swiftservesd-1.dens.tv/s/s04/01.m3u8
-ID Indosiar 4	http://op-group1-swiftservesd-1.dens.tv/s/s04/02.m3u8
+ID Indosiar 3	http://op-group1-swiftservesd-1.dens.tv/s/s04/02.m3u8
+ID Indosiar 4	http://op-group1-swiftservesd-1.dens.tv/s/s04/01.m3u8
 EuroSport HD 1	http://edge02.odtv.az/o7/eurosport/playlist.m3u8
 EuroSport HD 2	http://edge02.odtv.az/o3/eurosport2/playlist.m3u8
 EuroSport HD 1	http://185.189.225.157/EuroSport1/index.m3u8
@@ -41,8 +45,6 @@ US Red Bull TVᴴᴰ 🇺🇸	http://rbmn-live.akamaized.net/hls/live/590964/BoR
 US Toonami AfterMath East	http://api.toonamiaftermath.com:3000/est/playlist.m3u8
 US Trips Marterᴴᴰ 🇺🇸	http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist.m3u8
 US W Sport	http://210.210.155.35/uq2663/h/h26/index.m3u8
-KH Rasmey Hang Meas	http://clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/playlist.m3u8
-KH Hang Meas HDTV	http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/playlist.m3u8
 ID Bandung TV	http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
 ID Batu TV	http://117.103.69.219:8080/live/streaming/index.m3u8
 ID BNTV	http://210.210.155.35/uq2663/h/h39/index.m3u8

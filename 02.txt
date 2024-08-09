@@ -9,6 +9,8 @@ ID iNews	00`a05inews-hdd/sa_hls/inews-hdd.m3u8?c
 ID RCTI 1	00`a05rcti-2/sa_hls/rcti-2.m3u8?c
 ID RCTI 2	https://rcti-cutv.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
 ID PSJ TV	https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
+KH Rasmey Hang Meas	https://andi-cors-proxy-service-k8s.andisearch.com/http://clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/playlist.m3u8
+KH Hang Meas HDTV	https://andi-cors-proxy-service-k8s.andisearch.com/http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/playlist.m3u8
 ID Indosiar 1	https://op-group1-swiftservesd-1.dens.tv/s/s04/02.m3u8
 ID Indosiar 2	https://op-group1-swiftservesd-1.dens.tv/s/s04/01.m3u8
 ID Indosiar 3	https://andi-cors-proxy-service-k8s.andisearch.com/https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
