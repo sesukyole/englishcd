@@ -112,14 +112,14 @@ ES 101 Malaga	https://limited38.todostreaming.es/live/101tv-web101tv.m3u8
 ES 24h	https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
 ES Alcarria	https://cls.alcarria.tv/live/alcarriatv-livestream.m3u8
 ES Aragon	https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
-ES El Toro	https://proji.glitch.me/https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
+ES El Toro	01`01dstreaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
 ES La 1	https://cache3.zapitv.com/live/eds_c2/la1_4k/dash_live_enc/la1_4k.mpd``a3abc44525eef3b0a7af9138a9dbe34a:7740f8ae4223ce5ba293028f7f78f1c1
 ES La 2 ES-IP	https://rtvelivestreamv3.akamaized.net/rtvesec/la2/la2_main.m3u8
 ES La Otra	https://laotra-1-23-secure2.akamaized.net/master.m3u8
 ES Pequeradio	https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 UK Eman Channel	https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8
 UK Iqraa TV	https://ap02.iqplay.tv:8082/iqb8002/iq6a7k/chunks.m3u8
-AXN Movies	https://proji.glitch.me/https://ott.zapitv.com/live/eds_c2/axn_white/dash_live_enc/axn_white.mpd``f9e4be09926c262effa2b5381ae3553d:d630e04e0c5e3f98dc38840be1c1dd4c
+AXN Movies	01`01dott.zapitv.com/live/eds_c2/axn_white/dash_live_enc/axn_white.mpd``f9e4be09926c262effa2b5381ae3553d:d630e04e0c5e3f98dc38840be1c1dd4c
 ION	https://raw.githubusercontent.com/mystery75/m3u8/main/ION.m3u8
 ION Mystery	https://raw.githubusercontent.com/mystery75/m3u8/main/IONMYSTERY.m3u8
 MX Accion Mexicana	https://stream.ads.ottera.tv/playlist.m3u8?network_id=1153
@@ -157,7 +157,7 @@ RTB Aneka Go	https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
 RTB Go Live	https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
 MY Al Hijrah	https://172048-castr.akamaized.net/61e0e9a88ecf869e0a595bfa/live_feb292e0f94c11edbc052354c95d3ff1/tracks-v1a1/mono.m3u8
 MY Astro Awani	https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
-MY Boo	https://cors-proxy.cooks.fyi/https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/2407/default.mpd``ea4d51ade01bbf3946e0de973051ba10:f3266bec607f25879f48640f30f1c888
+MY Boo	01`01cstaging-linearjitp-playback.astro.com.my/dash-wv/linear/2407/default.mpd``ea4d51ade01bbf3946e0de973051ba10:f3266bec607f25879f48640f30f1c888
 MY Degup	https://pop5clustera00de07172379a62d6189.hypp.tv:443/PLTV/88888888/224/3221227923/3221227923.mpd?rrsip%3Dweb.hypp.tv&zoneoffset=0&servicetype=1&icpid&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=qD/Ghg01YduJJVCux%2B5ixF6lBrrzvU1Q2%2B8sLqGChu40fF7WRczKep1ijxO3BzygK7IGCYvN70sbDo5pVRv84y3usL46ekX4z6HfPL7ju%2BT/E8WgnGuV2Kpf7nZRV575l1Gu6dfQIjZRtiMM1k%2B5qA%3D%3D:20230704175902:UTC,1004320541,14.1.254.135,20230704175902,urn:Huawei:liveTV:XTV55631601,1004320541,-1,0,1,,,2,,,,2,3692854,0,2611154,2b9f924f-2e21-e330-87b4-2daffcd7b85b,,,2,1,END&GuardEncType=2&tenantId=6003``c2ef96fe03b52c27a7b9a25ebfc95a00:93c9bcd05f9f754026b5b5e17f4e6446
 MY Maah TV	https://hls.maahtv.live/hls/stream.m3u8
 MY TV IKIM	https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
@@ -270,7 +270,7 @@ US ABC TV	https://w.tryandrew.shop/abc.m3u8
 US CBS News	https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 US Fox News Now	https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8?c
 US NewsMax	https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-USA Today	https://proji.glitch.me/https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00731-gannettcoinc-usatodaynews-plex/playlist.m3u8?c
+USA Today	01`01dcdn-ue1-prod.tsv2.amagi.tv/linear/amg00731-gannettcoinc-usatodaynews-plex/playlist.m3u8?c
 CN CGTN Documentary TV	https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 CN CGTN EN	https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 Global Fashion Channel	https://gfcomnimedia-globalfashionchannel-1-eu.xiaomi.wurl.tv/playlist.m3u8
@@ -580,7 +580,7 @@ FR RTL Club 🇫🇷	https://raw.githubusercontent.com/inspirationlinks/m3u/live
 FR RTL bel 🇫🇷	https://raw.githubusercontent.com/inspirationlinks/m3u/live/Streams/RTLbel.m3u8
 FR Paris Premiere 🇫🇷	https://raw.githubusercontent.com/inspirationlinks/m3u/live/Streams/PaPremiere.m3u8
 Viju Nature	https://bkm.beetv.kz/btv/live/hls/000006482.m3u8
-Viju History	https://cors-proxy.cooks.fyi/https://bkm.beetv.kz/btv/live/hls/000005528.m3u8
+Viju History	01`01cbkm.beetv.kz/btv/live/hls/000005528.m3u8
 Canal tv Motor 🇺🇸	https://digicom.hls.iptvdc.com/canalmotor/tracks-v1a1/mono.m3u8
 UK BritBox Mysteriesᴴᴰ 🇬🇧 🟤	https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,BBC-BritBox-Mysteries.m3u8
 Trvl Channelᴴᴰ 🇺🇸	https://raw.githubusercontent.com/inspirationlinks/m3u/live/Streams/trvl.m3u8
