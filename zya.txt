@@ -18,7 +18,7 @@
 {h} Ⓦb3 Wow Great!	^^hb3
 {s} Ⓢ 0 Samsung	^^s0
 {s} Ⓟ 1 Pluto	^^s1
-{h} * Sports	^^hk^sports.m3u
+{h} * Sports TV	^^hk^sports.m3u
 🌍 International	^^hc^int.m3u
 🇮🇩 Indonesia	^^hc^id.m3u
 🇹🇭 Thailand	^^hc^th.m3u

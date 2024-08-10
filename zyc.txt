@@ -28,8 +28,8 @@
 {h} Ⓞb0 Okay	^^hb0
 {h} Ⓒb1 Cool	^^hb1
 {h} Ⓕb2 Fun	^^hb2
-{h} Ⓦb3 Wow	^^hb3
+{h} Ⓦb3 Wow Great!	^^hb3
 {s} Ⓢ 0 Samsung	^^s0
 {s} Ⓟ 1 Pluto	^^s1
 {h} Ⓘ 2 iptv-org	^^h2
-{h} * Sports	^^hk^sports.m3u
+{h} * Sports TV	^^hk^sports.m3u
