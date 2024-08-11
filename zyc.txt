@@ -43,3 +43,7 @@ RU Match! Futbol 6	https://cors.eu.org/https://strm.yandex.ru/kal/match_football
 RU Match! Futbol 7	https://api.allorigins.win/raw?url=https://strm.yandex.ru/kal/match_football1_hd/manifest.mpd``5269ab07e6a6db7585324ae20542f191:dba0dccffba1b26f658ec85a616102e8?3
 RU Match! Futbol 8	https://worldradio.online/proxy/?q=https://strm.yandex.ru/kal/match_football1_hd/manifest.mpd``5269ab07e6a6db7585324ae20542f191:dba0dccffba1b26f658ec85a616102e8?3
 RU Match! Futbol 9	https://corsproxy.bunkum.us/corsproxy/?apiurl=https://strm.yandex.ru/kal/match_football1_hd/manifest.mpd``5269ab07e6a6db7585324ae20542f191:dba0dccffba1b26f658ec85a616102e8?3
+Bernama	https://youtube.worst.workers.dev/0F53Ps27Nfc/index.m3u8
+Pluto TV Paramount+ Picks	https://jmp2.uk/PlutoTV/5ff8c708653d080007361b14-alt.m3u8
+Pluto TV Action	https://jmp2.uk/PlutoTV/561d7d484dc7c8770484914a-alt.m3u8
+Pluto TV Horror	https://jmp2.uk/PlutoTV/569546031a619b8f07ce6e25-alt.m3u8
