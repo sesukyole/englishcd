@@ -251,9 +251,9 @@ HU Match 4	01`01cm7huvideolive.solocoo.tv/blueskylive2dash/bluedigisport1hu/Mani
 Pro TV	01`01cm7rovideolive.solocoo.tv/blueskylivedash/blueprotv/Manifest.mpd``889750ca612844cfabc4073989befa3e:c188729c59e29bedafc1cbedaa107abb
 Ziggo Sport 3	01`01ccdsvideolive3.solocoo.tv/blueskycdslive7dash/blueziggosportgolf/Manifest.mpd``bb4b78ef397646e3ae5f13bdb23d56ed:c1247a942c7126443a93214c67431fe8
 BE RTL Sports	01`01ctvvvideolive3.solocoo.tv/blueskytvvlive7dash/bluertlclubhd/Manifest.mpd``0993fbc9c0f242e8bab9483484ff974e:08d3d32f7efefb22a7a865f81b5c8276
-RU Match! Futbol 1	https://testcors.starlive.workers.dev/https://strm.yandex.ru/kal/match_football1_hd/manifest.mpd``5269ab07e6a6db7585324ae20542f191:dba0dccffba1b26f658ec85a616102e8
-RU Match! Futbol 2	https://testcors.starlive.workers.dev/https://strm.yandex.ru/kal/match_football2_hd/manifest.mpd``56f7dcb5d20eeed212ff58620acb8931:76e139c0676ed2d7ae46392ce6fd9e89
-RU Match! Futbol 3	https://testcors.starlive.workers.dev/https://strm.yandex.ru/kal/match_football3_hd/manifest.mpd``b356d2c5bd7b4a71e99485906f6beeed:f2e7cb0fcdfb6a3fc0299eed50d29c97
+RU Match! Futbol 1	01`01dstrm.yandex.ru/kal/match_football1_hd/manifest.mpd``5269ab07e6a6db7585324ae20542f191:dba0dccffba1b26f658ec85a616102e8
+RU Match! Futbol 2	01`01dstrm.yandex.ru/kal/match_football2_hd/manifest.mpd``56f7dcb5d20eeed212ff58620acb8931:76e139c0676ed2d7ae46392ce6fd9e89
+RU Match! Futbol 3	01`01dstrm.yandex.ru/kal/match_football3_hd/manifest.mpd``b356d2c5bd7b4a71e99485906f6beeed:f2e7cb0fcdfb6a3fc0299eed50d29c97
 Belarus 24	https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
 Belarus 1	https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8
 Belarus 2	https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8
