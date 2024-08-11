@@ -182,6 +182,10 @@ MY Jom Ngaji	https://068877e598224108a60fb9cd5db3717f.mediatailor.ap-southeast-1
 MY Oh My Ceria	https://068877e598224108a60fb9cd5db3717f.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_7_Ad/dash.mpd
 MY Now Jelli	https://pop5clustera00de07172379a62d6189.hypp.tv:443/PLTV/88888888/224/3221227559/3221227559.mpd?rrsip=web.hypp.tv&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=qD%2FGhg01YduJJVCux%2B5ixF6lBrrzvU1Q2%2B8sLqGChu40fF7WRczKep1ijxO3BzygK7IGCYvN70sbDo5pVRv846haXUJR5R32mBb1BUUaHHv17QezgK4lI66BNld%2BWvWSl1Gu6dfQIjZRtiMM1k%2B5qA%3D%3D%3A20230704185240%3AUTC%2C1004320541%2C14.1.254.135%2C20230704185240%2Curn:Huawei:liveTV:iptv28981%2C1004320541%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C3692854%2C0%2C2611154%2C2b9f924f-2e21-e330-87b4-2daffcd7b85b%2C%2C%2C2%2C1%2CEND&GuardEncType=2&tenantId=6003``489a7503db27114694ce416b0a032fc1:1ba9a24d9b92e5fe8e419b16616a9ae3
 MY Selangor TV	https://skyios.sky4k.top/S1G_010/playlist.m3u8
+Bahrain Quran	https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8
+Bahrain International	https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/playlist.m3u8
+Bahrain TV	https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/playlist.m3u8
+Oman TV	https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist.m3u8
 TH ALTV4	https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
 TH 7Flix	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC5/index.m3u8
 TH AmarinTV HD	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chamarin3/index.m3u8
