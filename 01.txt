@@ -9,7 +9,7 @@ ID Makkah TV	01`00a130/alquran/index.m3u8?c
 ID AFN	01`00a133/afc/index.m3u8?c
 ID Animal Planet	01`00a194/animalplanet/index.m3u8?c
 ID AniMax	01`00a130/animax/index.m3u8?c
-ID ANTV 1	01`00a130/antv/index.m3u8?c
+ID ANTV	01`00a130/antv/index.m3u8?c
 ID Bali TV	01`00a134/balitv/index.m3u8?c
 ID Bioskop Indonesia	01`00a130/bioskopindonesia/index.m3u8?c
 ID Cartoon Network	01`00a194/cartoonnetwork/index.m3u8?c
@@ -56,13 +56,13 @@ ID Love Nature	01`00a194/lovenature/index.m3u8?c
 ID MaxStream	01`00a194/maxstream/index.m3u8?c
 ID Mentari TV	01`00a134/mentaritv/index.m3u8?c
 ID Metro TV	01`00a133/metrotv/index.m3u8?c
-ID Moji 1	01`00a134/ochannel/index.m3u8?c
+ID Moji	01`00a134/ochannel/index.m3u8?c
 ID MUI TV	01`00a130/muitv/index.m3u8?c
 ID Musik Indonesia	01`00a134/musikindo/index.m3u8?c
 ID My Cinema	01`00a133/mycinema/index.m3u8?c
 ID My Cinema Asia	01`00a133/mycinemaasia/index.m3u8?c
 ID NBA	01`00a133/nba/index.m3u8?c
-ID Net TV 1	01`00a133/net/index.m3u8?c
+ID Net TV	01`00a133/net/index.m3u8?c
 ID Channel News Asia	01`00a134/newsasia/index.m3u8?c
 ID NHK World	01`00a130/nhkworld/index.m3u8?c
 ID Nick Jr	01`00a130/nickjr/index.m3u8?c
@@ -72,8 +72,8 @@ ID RTV	01`00a130/rtv/index.m3u8?c
 ID Seru	01`00a134/seru/index.m3u8?c
 ID GEM	01`00a133/sgem/index.m3u8?c
 ID One	01`00a133/sone/index.m3u8?c
-ID Sports 1	01`00a133/beib1/index.m3u8?c
-ID Sports 3	01`00a133/beib2/index.m3u8?c
+ID SpoTV 1	01`00a133/beib1/index.m3u8?c
+ID SpoTV 2	01`00a133/beib2/index.m3u8?c
 ID TechStorm	01`00a133/techstorm/index.m3u8?c
 ID TLC	01`00a133/tlc/index.m3u8?c
 ID Trans TV	01`00a133/transtv/index.m3u8?c
@@ -163,13 +163,13 @@ MY Maah TV	https://hls.maahtv.live/hls/stream.m3u8
 MY TV IKIM	https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
 MY Dunia Sinema	https://unifi-live01.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 MY Didik TV	https://raw.githubusercontent.com/mystery75/m3u8/main/DIDIKTVKPM.m3u8
-MY Berita RTM TV	`9https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
-MY TV Okey	`9https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
-MY Sukan RTM TV	`9https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
-MY TV1	`9https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
-MY TV2	`9https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
+MY Berita RTM TV	`9d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
+MY TV Okey	`9d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
+MY Sukan RTM TV	`9d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
+MY TV1	`9d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
+MY TV2	`9d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 MY TV3	https://raw.githubusercontent.com/mystery75/m3u8/main/TV3.m3u8
-MY TV6	`9https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
+MY TV6	`9d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 MY 8TV	https://raw.githubusercontent.com/mystery75/m3u8/main/8TV.m3u8
 MY TV9	https://raw.githubusercontent.com/mystery75/m3u8/main/TV9.m3u8
 MY Siar	https://unifi-live31.secureswiftcontent.com/UnifiHD/live31.mpd``fc23c442355854992a264931a28fc1c5:3a3368fa385a049695ff4de3c36809cd
@@ -609,7 +609,7 @@ LE FIGARO IDF	https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8
 I24 NEWS FR	https://bcovlive-a.akamaihd.net/cc8266d36bb5469b8b4a3097497e06e6/eu-central-1/5377161796001/playlist-all.m3u8
 CGTN FRANÇAIS	https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
 RDI CANADA	https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
-AFRICA 24	`9https://edge12.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
+AFRICA 24	`9edge12.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
 BFM BUSINESS	https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&end=END
 BFM ALPES	https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_DICI_ALPESDUSUD/index.m3u8?start=LIVE&end=END
 BFM ALSACE	https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_ALSACE/index.m3u8?start=LIVE&end=END
