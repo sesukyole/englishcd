@@ -143,7 +143,7 @@ Flow Caribe	https://stream.ads.ottera.tv/playlist.m3u8?network_id=1083
 Gravitas Movies	https://ddniyunj92pl0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2amrzf32ny10z/playlist.m3u8
 Haz Clic!	https://stream.ads.ottera.tv/playlist.m3u8?network_id=4310
 ITV Deportes	https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010
-ES Mundo Pequeño	https://stream.ads.ottera.tv/playlist.m3u8?network_id=3366
+ES Mundo PequeÃ±o	https://stream.ads.ottera.tv/playlist.m3u8?network_id=3366
 Novelas Turcas	https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088
 Novelisima	https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
 Planeta de Aventuras	https://stream.ads.ottera.tv/playlist.m3u8?network_id=4311
@@ -156,72 +156,55 @@ Sony Canal Novelas	https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-
 Tierra De Amor y Venganza	https://stream.ads.ottera.tv/playlist.m3u8?network_id=1080
 Toon Goggles en Espanol	https://stream.ads.ottera.tv/playlist.m3u8?network_id=771
 Tu Pop Favorito	https://stream.ads.ottera.tv/playlist.m3u8?network_id=1086
-Zona de Acción	https://stream.ads.ottera.tv/playlist.m3u8?network_id=4312
+Zona de AcciÃ³n	https://stream.ads.ottera.tv/playlist.m3u8?network_id=4312
 Cinema One	https://cinemaone-abscbn-ono.amagi.tv/index.m3u8?c
 RTB SukmaIndera	https://d1211whpimeups.cloudfront.net/smil:rtb1/chunklist.m3u8
 RTB Aneka Go	https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
 RTB Go Live	https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
 MY Al Hijrah	https://172048-castr.akamaized.net/61e0e9a88ecf869e0a595bfa/live_feb292e0f94c11edbc052354c95d3ff1/tracks-v1a1/mono.m3u8
-MY Astro Awani	https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
-MY Boo	01`01cstaging-linearjitp-playback.astro.com.my/dash-wv/linear/2407/default.mpd``ea4d51ade01bbf3946e0de973051ba10:f3266bec607f25879f48640f30f1c888
-MY Degup	https://pop5clustera00de07172379a62d6189.hypp.tv:443/PLTV/88888888/224/3221227923/3221227923.mpd?rrsip%3Dweb.hypp.tv&zoneoffset=0&servicetype=1&icpid&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=qD/Ghg01YduJJVCux%2B5ixF6lBrrzvU1Q2%2B8sLqGChu40fF7WRczKep1ijxO3BzygK7IGCYvN70sbDo5pVRv84y3usL46ekX4z6HfPL7ju%2BT/E8WgnGuV2Kpf7nZRV575l1Gu6dfQIjZRtiMM1k%2B5qA%3D%3D:20230704175902:UTC,1004320541,14.1.254.135,20230704175902,urn:Huawei:liveTV:XTV55631601,1004320541,-1,0,1,,,2,,,,2,3692854,0,2611154,2b9f924f-2e21-e330-87b4-2daffcd7b85b,,,2,1,END&GuardEncType=2&tenantId=6003``c2ef96fe03b52c27a7b9a25ebfc95a00:93c9bcd05f9f754026b5b5e17f4e6446
-MY Maah TV	https://hls.maahtv.live/hls/stream.m3u8
-MY TV IKIM	https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
-MY Dunia Sinema	https://unifi-live01.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
-MY Didik TV	https://raw.githubusercontent.com/mystery75/m3u8/main/DIDIKTVKPM.m3u8
+MY Aura	00`a06609/default.mpd``869c3237d2fae78301a91dbb5a924d10:f5c2312185f9f0c4894b73ce17419d8c
+MY Awani	https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
 MY Berita RTM TV	`9d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
-MY TV Okey	`9d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
+MY Boo	01`01cstaging-linearjitp-playback.astro.com.my/dash-wv/linear/2407/default.mpd``ea4d51ade01bbf3946e0de973051ba10:f3266bec607f25879f48640f30f1c888
+MY Ceria	00`a062606/default_ott.mpd``b6e60ca0d28e8f97395f07b4e2e53a10:0f0ea6c3543c29d7f513eb886eb74f88
+MY Chinese	00`a062308/default.mpd``60507ef0dc9c813d5f8c7b2229412f10:c8a0f7e69bb31dfd475da26fc6c6003b
+MY Degup	https://pop5clustera00de07172379a62d6189.hypp.tv:443/PLTV/88888888/224/3221227923/3221227923.mpd?rrsip%3Dweb.hypp.tv&zoneoffset=0&servicetype=1&icpid&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=qD/Ghg01YduJJVCux%2B5ixF6lBrrzvU1Q2%2B8sLqGChu40fF7WRczKep1ijxO3BzygK7IGCYvN70sbDo5pVRv84y3usL46ekX4z6HfPL7ju%2BT/E8WgnGuV2Kpf7nZRV575l1Gu6dfQIjZRtiMM1k%2B5qA%3D%3D:20230704175902:UTC,1004320541,14.1.254.135,20230704175902,urn:Huawei:liveTV:XTV55631601,1004320541,-1,0,1,,,2,,,,2,3692854,0,2611154,2b9f924f-2e21-e330-87b4-2daffcd7b85b,,,2,1,END&GuardEncType=2&tenantId=6003``c2ef96fe03b52c27a7b9a25ebfc95a00:93c9bcd05f9f754026b5b5e17f4e6446
+MY Didik TV	https://raw.githubusercontent.com/mystery75/m3u8/main/DIDIKTVKPM.m3u8
+MY Drama Hebat	https://ce2388031147403ca25a81e56607a193.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_1_Ad/dash.mpd
+MY Drama HotPot	https://770c1b3657e94bc4b76ecd3e12882bcc.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_4_Ad/dash.mpd
+MY Dunia Sinema	https://unifi-live01.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
+MY Filem Mantap	https://78470390525b4b03b023113696878114.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_2_Ad/dash.mpd
+MY HBO	00`a062304/default_ott.mpd``a098896d2b11c5f3906a993c3ba5c610:f3f842c54cc96cbbd0bcb96a4cb8a813
+MY iQIYI	00`a061006/default_ott.mpd``7ef7e913ce85a1131b27036069169a10:77d98ed71db7524c27875a09a975f9e6
+MY Jom Ngaji	https://068877e598224108a60fb9cd5db3717f.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_6_Ad/dash.mpd
+MY Lawak Sentral	https://4940c5f69db24a558151436f708d5a69.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_3_Ad/dash.mpd
+MY Maah TV	https://hls.maahtv.live/hls/stream.m3u8
+MY Now Jelli	https://pop5clustera00de07172379a62d6189.hypp.tv:443/PLTV/88888888/224/3221227559/3221227559.mpd?rrsip=web.hypp.tv&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=qD%2FGhg01YduJJVCux%2B5ixF6lBrrzvU1Q2%2B8sLqGChu40fF7WRczKep1ijxO3BzygK7IGCYvN70sbDo5pVRv846haXUJR5R32mBb1BUUaHHv17QezgK4lI66BNld%2BWvWSl1Gu6dfQIjZRtiMM1k%2B5qA%3D%3D%3A20230704185240%3AUTC%2C1004320541%2C14.1.254.135%2C20230704185240%2Curn:Huawei:liveTV:iptv28981%2C1004320541%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C3692854%2C0%2C2611154%2C2b9f924f-2e21-e330-87b4-2daffcd7b85b%2C%2C%2C2%2C1%2CEND&GuardEncType=2&tenantId=6003``489a7503db27114694ce416b0a032fc1:1ba9a24d9b92e5fe8e419b16616a9ae3
+MY Oasis	00`a062505/default.mpd``17d5d62dc61954b82ee016da264abd10:5f35f815699140e2649d825f0d24028e
+MY Oh My Ceria	https://068877e598224108a60fb9cd5db3717f.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_7_Ad/dash.mpd
+MY Prima	01`01cstaging-linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_primary.mpd``0b65326aede3edbe81e6fb40317d5310:8412f444ffbe350cf2ece051f9152e90
+MY Rania	00`a06608/default_ott.mpd``784c6037e5888e84106e41059fe2b110:8e4200bf5c4d523ff00bfd173d021602
+MY Selangor TV	https://skyios.sky4k.top/S1G_010/playlist.m3u8
+MY Siar	https://unifi-live31.secureswiftcontent.com/UnifiHD/live31.mpd``fc23c442355854992a264931a28fc1c5:3a3368fa385a049695ff4de3c36809cd
 MY Sukan RTM TV	`9d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
+MY Travel & Taste	https://068877e598224108a60fb9cd5db3717f.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_5_Ad/dash.mpd
+MY Tutor	00`a065071/default.mpd``8829b8f4d91d2630f398c67ed94c2310:aed9dc02038725aadbd0c7bd1709240b
+MY TV IKIM	https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
+MY TV Okey	`9d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 MY TV1	`9d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 MY TV2	`9d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 MY TV3	https://raw.githubusercontent.com/mystery75/m3u8/main/TV3.m3u8
+MY TV5	00`a065021/default_ott.mpd``c3e956b38ae993be1494c7cfa17b1110:55ccaee886b340dd901f4bf8dd9d3a6a
 MY TV6	`9d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 MY 8TV	https://raw.githubusercontent.com/mystery75/m3u8/main/8TV.m3u8
 MY TV9	https://raw.githubusercontent.com/mystery75/m3u8/main/TV9.m3u8
-MY Siar	https://unifi-live31.secureswiftcontent.com/UnifiHD/live31.mpd``fc23c442355854992a264931a28fc1c5:3a3368fa385a049695ff4de3c36809cd
-MY Drama Hebat	https://ce2388031147403ca25a81e56607a193.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_1_Ad/dash.mpd
-MY Filem Mantap	https://78470390525b4b03b023113696878114.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_2_Ad/dash.mpd
-MY Lawak Sentral	https://4940c5f69db24a558151436f708d5a69.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_3_Ad/dash.mpd
-MY Drama HotPot	https://770c1b3657e94bc4b76ecd3e12882bcc.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_4_Ad/dash.mpd
-MY Travel & Taste	https://068877e598224108a60fb9cd5db3717f.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_5_Ad/dash.mpd
-MY Jom Ngaji	https://068877e598224108a60fb9cd5db3717f.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_6_Ad/dash.mpd
-MY Oh My Ceria	https://068877e598224108a60fb9cd5db3717f.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_7_Ad/dash.mpd
-MY Now Jelli	https://pop5clustera00de07172379a62d6189.hypp.tv:443/PLTV/88888888/224/3221227559/3221227559.mpd?rrsip=web.hypp.tv&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=qD%2FGhg01YduJJVCux%2B5ixF6lBrrzvU1Q2%2B8sLqGChu40fF7WRczKep1ijxO3BzygK7IGCYvN70sbDo5pVRv846haXUJR5R32mBb1BUUaHHv17QezgK4lI66BNld%2BWvWSl1Gu6dfQIjZRtiMM1k%2B5qA%3D%3D%3A20230704185240%3AUTC%2C1004320541%2C14.1.254.135%2C20230704185240%2Curn:Huawei:liveTV:iptv28981%2C1004320541%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C3692854%2C0%2C2611154%2C2b9f924f-2e21-e330-87b4-2daffcd7b85b%2C%2C%2C2%2C1%2CEND&GuardEncType=2&tenantId=6003``489a7503db27114694ce416b0a032fc1:1ba9a24d9b92e5fe8e419b16616a9ae3
-MY Selangor TV	https://skyios.sky4k.top/S1G_010/playlist.m3u8
 Bahrain Quran	https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8
 Bahrain International	https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/playlist.m3u8
 Bahrain TV	https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/playlist.m3u8
 Oman TV	https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist.m3u8
 TH ALTV4	https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
-TH 7Flix	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC5/index.m3u8
-TH AmarinTV HD	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chamarin3/index.m3u8
-TH Animal Kingdom	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC18/index.m3u8
-TH Boomerang	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chboomberang/index.m3u8
-TH Box Film	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC52/index.m3u8
-TH CH3 HD	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch3hd3/index.m3u8
-TH CH7 HD	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch7hd3/index.m3u8
-TH CH8	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch83/index.m3u8
 TH Channel 8	https://cdn-th-vip.login.in.th/ch8/ch8/chunklist.m3u8
-TH GMM25	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chgmm3/index.m3u8
-TH JKN 18	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/newtv3/index.m3u8
-TH MCOT HD	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chmcothd3/index.m3u8
-TH Mono	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chmono293/index.m3u8
-TH Movies World 1	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC11/index.m3u8
-TH Movies World 2	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC53/index.m3u8
-TH Movies World 3	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC2/index.m3u8
-TH Nation TV	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chnation3/index.m3u8
-TH NBT 2 HD	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chnbt3/index.m3u8
-TH ONE 31 HD	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chonehd3/index.m3u8
-TH Parliament	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/TPTV3/index.m3u8
-TH PPTV HD	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chpptvhd3/index.m3u8
-TH Thairath TV HD	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chthairath3/index.m3u8
-TH TNN	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtnn3/index.m3u8
-TH TPBS	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chthaipbs3/index.m3u8
-TH True 4 U	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtrue4u3/index.m3u8
-TH T-Sports7	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtsport3/index.m3u8
-TH TV5 HD	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch5hd3/index.m3u8
 TH TVB	https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/playlist.m3u8
-TH Workpoint TV	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chworkpoint3/index.m3u8
 TH HBO	https://cnt1-streamer9.cdn.3bbtv.com:8443/3bb/live/103/103.mpd``9c5735afb4fd402580360aed8364469c:128d55d9ac2b47ad85f86b5d08320179
 TH HBO Family	https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/106/106.mpd``07b138f30ad3441ca5a2f476e550af25:826ee4deef4b45cfafd5f79a591b15c6
 TH HBO Hits	https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/105/105.mpd``7c04b8e7aa524afea879b2ed1aef8242:91e72b75fcb94c3bb36cceb741afd621
@@ -484,7 +467,6 @@ PT TVI Internacional sᴅ 🇵🇹	https://raw.githubusercontent.com/ipstreet312
 PT TVIᴴᴰ 🇵🇹	https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tvi.m3u8
 Qwest Jazzᴴᴰ 🟤	https://qwest-jazz-plex.amagi.tv/playlist720_p.m3u8?c
 Qwest tvᴴᴰ 🟤	https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwesttv-samsungbr/playlist.m3u8?c
-RAI Italia Asia	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC7/index.m3u8
 Rakuten Documentariesᴴᴰ 🇵🇹🇧🇷 🟤	https://rakuten-documentaries-14-pt.samsung.wurl.tv/3000.m3u8
 Rakuten vikiᴴᴰ 🇺🇸🇰🇷 🟤	https://newidco-rakutenviki-2-us.lg.wurl.tv/playlist.m3u8
 RU Старт 🇷🇺	https://strm.yandex.ru/kal/start/start0.m3u8
@@ -693,3 +675,31 @@ UK Sky Crime	01`00blinear013-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720
 UK Sky Atlantic	01`00blinear019-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skyatlantic)/manifest_720.mpd``000533bb655b97f89fef59db87f507ec:5f1c8bf427349228aa6469486a84c54b
 UK Sky Max	01`00blinear016-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skymax)/manifest_720.mpd``000350070546d852d30a328bc62fbeda:0789751fcfbc476469c302b1a174ebb8
 UK Sky Showcase	01`00blinear035-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skyshowcase)/manifest_720.mpd``0003c312fd726f0ed430816abd7bb735:a3b08d3438447fa93a53aa823a834d7e
+TH 7Flix	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC5/index.m3u8
+TH AmarinTV HD	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chamarin3/index.m3u8
+TH Animal Kingdom	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC18/index.m3u8
+TH Boomerang	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chboomberang/index.m3u8
+TH Box Film	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC52/index.m3u8
+TH CH3 HD	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch3hd3/index.m3u8
+TH CH7 HD	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch7hd3/index.m3u8
+TH CH8	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch83/index.m3u8
+TH GMM25	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chgmm3/index.m3u8
+TH JKN 18	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/newtv3/index.m3u8
+TH MCOT HD	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chmcothd3/index.m3u8
+TH Mono	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chmono293/index.m3u8
+TH Movies World 1	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC11/index.m3u8
+TH Movies World 2	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC53/index.m3u8
+TH Movies World 3	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC2/index.m3u8
+TH Nation TV	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chnation3/index.m3u8
+TH NBT 2 HD	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chnbt3/index.m3u8
+TH ONE 31 HD	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chonehd3/index.m3u8
+TH Parliament	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/TPTV3/index.m3u8
+TH PPTV HD	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chpptvhd3/index.m3u8
+TH Thairath TV HD	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chthairath3/index.m3u8
+TH TNN	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtnn3/index.m3u8
+TH TPBS	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chthaipbs3/index.m3u8
+TH True 4 U	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtrue4u3/index.m3u8
+TH T-Sports7	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtsport3/index.m3u8
+TH TV5 HD	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch5hd3/index.m3u8
+TH Workpoint TV	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chworkpoint3/index.m3u8
+RAI Italia Asia	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC7/index.m3u8
