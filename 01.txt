@@ -84,7 +84,8 @@ ID Zhejiang	01`00a130/zhejiang/index.m3u8?c
 Sony GEM	https://tglmp01.akamaized.net/out/v1/acd34a6d1e2540f888793461457b77e1/manifest.mpd``0403e654ddab419db6cc72bb3fa51248:9d43bcc51f3750550d321cdc37e57cc9
 Angry Birds 1	https://stream.ads.ottera.tv/playlist.m3u8?network_id=547
 Angry Birds 2	https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=514
-Dora TV	https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fb6c84dd37df3b4290c5/master.m3u8?c&advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=949ffd00-b258-11ee-b9bb-67540c86de73&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a228f049-3e34-4c61-88b3-7b47e6a36cf5&userId=&serverSideAds=true
+Pluto TV Dora	https://jmp2.uk/PlutoTV/5d14fb6c84dd37df3b4290c5-alt.m3u8
+Pluto TV Tortues Ninja	https://jmp2.uk/PlutoTV/5d0c16d686454ead733d08f8-alt.m3u8
 Anime TV	https://stmv1.srvif.com/animetv/animetv/chunklist.m3u8
 Kidoodle	https://kidoodletv-kdtv-1-us.samsung.wurl.tv/playlist.m3u8
 Kidsflix	https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
@@ -92,7 +93,6 @@ Moonbug Kids	https://moonbug-rokuus.amagi.tv/playlist.m3u8?c
 PBS Kids	https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 Spacetoon	https://stream1.freetv.fun/spacetoon-1.m3u8?7
 Toonzkids	https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/toonzkids/master.m3u8
-Tortues Ninja 🇺🇸 🟤	https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d0c16d686454ead733d08f8/master.m3u8?c&deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 Universal Kids	https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv/master_en.m3u8
 ZooMoo	https://zoomoo-samsungau.amagi.tv/playlist.m3u8?c
 Just for Laughs Gags	https://distributionsjustepourrire-justforlaughsgags-1-br.samsung.wurl.tv/playlist.m3u8
@@ -103,6 +103,12 @@ Game Show Central	https://gsn-gameshowchannnel-1-us.vizio.wurl.tv/playlist.m3u8
 Action Movies	https://hlsa-akm.douyucdn.cn/live/20415rnWbjg6Ex1K_900/playlist.m3u8?wsAuth=014b39c4437d974e4d70045eb2d23e67&token=web-h5-0-20415-b6774b3b3249db179435e1a37410043c7827528d80fff5fe&logo=0&expire=0
 Cinevault 80s	https://gsn-cinevault-80s-1-us.samsung.wurl.tv/playlist.m3u8
 Cinevault Westerns	https://gsn-cinevault-westerns-1-us.samsung.wurl.tv/playlist.m3u8
+Sony Movies	https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8
+Pluto TV Paramount+ Picks	https://jmp2.uk/PlutoTV/5ff8c708653d080007361b14-alt.m3u8
+Pluto TV Action	https://jmp2.uk/PlutoTV/561d7d484dc7c8770484914a-alt.m3u8
+Pluto TV Horror	https://jmp2.uk/PlutoTV/569546031a619b8f07ce6e25-alt.m3u8
+Pluto TV Naruto	https://jmp2.uk/PlutoTV/5da0c85bd2c9c10009370984-alt.m3u8
+Pluto TV One Piece	https://jmp2.uk/PlutoTV/5f7790b3ed0c88000720b241-alt.m3u8
 ESR Games	https://eyeonesports.com/480/ESR-003SCTE35.m3u8
 Real Wild 🇬🇧	https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwild-tcl/playlist.m3u8?c
 WildEarth	https://wildearth-plex.amagi.tv/master.m3u8?c
@@ -240,6 +246,7 @@ SG Vasantham	https://tglmp03.akamaized.net/out/v1/14eb6e921cae41298efaa4d9db0f28
 Africa News	https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/africanews/africanews-en.m3u8
 KR Korea Central TV (KCNA)	https://tv.nknews.org/tvdash/stream.mpd
 JP NHK World Japan	https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/bmcc-live/id/playlist.m3u8
+JP NHK World Premium	01`01dcdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
 JP Nippon News 24	https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 US MovieSphere TV	https://moviesphere-plex.amagi.tv/playlist.m3u8?c
 US SYFY	https://vbchcdedge03.national-linear-ddtc-tve.tve.cox.net/SYFYD_HD_CX_DDTVE_58623_0_5302026933975814163.mpd``b6f0313b542c403db100450122a25dce:b7c76618c5d877f6ced637eeab8112b1
@@ -300,12 +307,15 @@ FE TV	https://frndlytv6.akamaized.net/hls/live/2023658/fetvmsl/fetvmsl/fetv_600/
 Now 70	https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8?c
 Now 80	https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8?c
 Now 90	https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8?c
+MYX	https://myxnola-abscbn-ono.amagi.tv/index.m3u8?c
 MBC Movies	https://shls-live-ak.akamaized.net/out/v1/90143f040feb40589d18c57863d9e829/index.m3u8
 HeartLand	https://sr-live4-frndly.akamaized.net/out/v1/01af02e4a23e4e30af639feb328b1a66/index.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07
 Dove Kids	https://sr-live4-frndly.akamaized.net/out/v1/dfed6dba20b8471993a7d14abf14b9cc/index.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07
+Travel XP	https://travelxp-travelxp-3-nl.samsung.wurl.tv/playlist.m3u8
 Xplore	https://xlpore-samsungus.amagi.tv/playlist.m3u8?c
 Animal Planet	https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
 Animal Planet	https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_17.m3u8
+Inc TV	https://199211.global.ssl.fastly.net/643cc12aa824db4374021c8c/live_95f6ac80dd6511ed9d08b12be56ae55e/index.m3u8
 Loupe	https://linear-144.frequency.stream/dist/localnow/144/hls/hd/playlist.m3u8
 Hi-Yaah Movies	https://a28dc5e3f24c4a8da3a67c68be729c2c.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-59-HIYAH-PLEX/mt/plex/59/hls/master/playlist.m3u8
 Quietude	https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/quietude/playlist.m3u8
@@ -599,7 +609,6 @@ Discovery HD 🇮🇳🇺🇸	https://denver1769.pages.dev/Discovery/discovery_h
 DMAX 🇮🇳🇺🇸	https://raw.githubusercontent.com/inspirationlinks/m3u/live/Streams/Dmax.m3u8
 Animal Planet HD 🇮🇳🇺🇸	https://raw.githubusercontent.com/inspirationlinks/m3u/live/Streams/AniPlanet.m3u8
 Action Hollywood Movies 🇺🇸 🟤	https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8?c
-Al Jazeeraᴴᴰ 🇬🇧	https://live-hls-web-aje.getaj.net/AJE/03.m3u8
 Discovery Scienceᴴᴰ 🇮🇳🇺🇸	https://raw.githubusercontent.com/inspirationlinks/m3u/live/Streams/DiscSci.m3u8
 Discovery Scienceᴴᴰ 🇮🇳🇺🇸	https://denver1769.pages.dev/Discovery/discovery_science_english.m3u8
 Discovery Turbo 🇺🇸	https://raw.githubusercontent.com/inspirationlinks/m3u/live/Streams/DiscTurbo.m3u8
@@ -651,29 +660,29 @@ FASHION TV	https://fash1043.cloudycdn.services/slive/ftv_paris_adaptive.smil/pla
 FASHION TV	https://34963c1506c8467bb8132d8a9ae4fedc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_FashionTV/playlist.m3u8
 TV5MONDE STYLE [geo-area]	https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/index.m3u8
 Bollywood	https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
-|SHAHID| SHAHID LIVE	https://shls-live-ak.akamaized.net/out/v1/8e2419c6c7494dbba478be025af490ee/index_1.m3u8
-|SHAHID| WIFI	https://shls-live-ak.akamaized.net/out/v1/22a1fb00da8a4b1fb15cbd70b8b59856/index_2.m3u8
-|SHAHID| ALHOSN	https://shls-live-ak.akamaized.net/out/v1/e09d6e88de95452fa5566a839ca5ed5c/index_9.m3u8
-|SHAHID| AFLAM	https://shls-live-ak.akamaized.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index_2.m3u8
-|SHAHID| MOVIES	https://shls-live-ak.akamaized.net/out/v1/90143f040feb40589d18c57863d9e829/index_2.m3u8
-|SHAHID| MOVIES THRILLER	https://shls-live-ak.akamaized.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index_2.m3u8
-|SHAHID| MOVIES ACTION	https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index_2.m3u8
-|SHAHID| RAMEZ	https://shls-live-ak.akamaized.net/out/v1/ea4275b6dc0840c198c17f6dc6f1ec49/index_2.m3u8
-|SHAHID| AL KABEER AWI	https://shls-live-ak.akamaized.net/out/v1/5f5de4f9efe24f758f1364dde5e2a45c/index_2.m3u8
-|SHAHID| TASH	https://shls-live-ak.akamaized.net/out/v1/e34e3ac9d2534543a13b44c2b458b0c2/index_2.m3u8
-|SHAHID| AL ASOUF	https://shls-live-ak.akamaized.net/out/v1/0afd546fcb5342f69d6bfff2dd1596e9/index_19.m3u8
-|SHAHID| AL LEABA	https://shls-live-ak.akamaized.net/out/v1/d6e1fdee781f4506a6ac147fee5ba715/index_2.m3u8
-|SHAHID| BAB AL HARA	https://shls-live-ak.akamaized.net/out/v1/948c54279b594944adde578c95f1d7d1/index_2.m3u8
-|SHAHID| MASRAH MASR	https://shls-live-ak.akamaized.net/out/v1/8fae48b64942450cb5d60b3fb6910de0/index_2.m3u8
-|SHAHID| SELFIE	https://shls-live-ak.akamaized.net/out/v1/2a0f4768f7fa42ed813674628b487e95/index_2.m3u8
-|SHAHID| NASER AL QASSABY	https://shls-live-ak.akamaized.net/out/v1/20e003242d244710bfe9ca0fd2b94d00/index_2.m3u8
-|SHAHID| SPACETOON	https://spacetoon-prod-dub-ak.akamaized.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index_2.m3u8
-|SHAHID| FASHION TV	https://mbc1-enc.edgenextcdn.net/out/v1/61474465407042c896d3d27685175891/index_3.m3u8
-|SHAHID| AL THAQAFEYA	https://thaqafeyyah-ak.akamaized.net/out/v1/f6851f68ada94f82ae6b64a441eb5ab1/index_3.m3u8
-|SHAHID| TOP GEAR	https://shls-live-ak.akamaized.net/out/v1/07a6ab2d57b2453a91bbdd2d46b5865a/index_2.m3u8
-|SHAHID| MARAYA	https://shls-live-ak.akamaized.net/out/v1/a4a39d8e92e34b0780ca602270a59512/index_2.m3u8
-|SHAHID| RASHED AL-MAJED	https://rashed-almajed-ak.akamaized.net/out/v1/77b0946130344d1388e5cd34afdcb772/index_19.m3u8
-|SHAHID| MUHAMMAD ABDO	https://mohammed-abdou-ak.akamaized.net/out/v1/3b57275cf54747cda4cda03ecf146f92/index_19.m3u8
+|SHAHID| SHAHID LIVE	https://shls-live-ak.akamaized.net/out/v1/8e2419c6c7494dbba478be025af490ee/index.m3u8
+|SHAHID| WIFI	https://shls-live-ak.akamaized.net/out/v1/22a1fb00da8a4b1fb15cbd70b8b59856/index.m3u8
+|SHAHID| ALHOSN	https://shls-live-ak.akamaized.net/out/v1/e09d6e88de95452fa5566a839ca5ed5c/index.m3u8
+|SHAHID| AFLAM	https://shls-live-ak.akamaized.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index.m3u8
+|SHAHID| MOVIES	https://shls-live-ak.akamaized.net/out/v1/90143f040feb40589d18c57863d9e829/index.m3u8
+|SHAHID| MOVIES THRILLER	https://shls-live-ak.akamaized.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8
+|SHAHID| MOVIES ACTION	https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
+|SHAHID| RAMEZ	https://shls-live-ak.akamaized.net/out/v1/ea4275b6dc0840c198c17f6dc6f1ec49/index.m3u8
+|SHAHID| AL KABEER AWI	https://shls-live-ak.akamaized.net/out/v1/5f5de4f9efe24f758f1364dde5e2a45c/index.m3u8
+|SHAHID| TASH	https://shls-live-ak.akamaized.net/out/v1/e34e3ac9d2534543a13b44c2b458b0c2/index.m3u8
+|SHAHID| AL ASOUF	https://shls-live-ak.akamaized.net/out/v1/0afd546fcb5342f69d6bfff2dd1596e9/index.m3u8
+|SHAHID| AL LEABA	https://shls-live-ak.akamaized.net/out/v1/d6e1fdee781f4506a6ac147fee5ba715/index.m3u8
+|SHAHID| BAB AL HARA	https://shls-live-ak.akamaized.net/out/v1/948c54279b594944adde578c95f1d7d1/index.m3u8
+|SHAHID| MASRAH MASR	https://shls-live-ak.akamaized.net/out/v1/8fae48b64942450cb5d60b3fb6910de0/index.m3u8
+|SHAHID| SELFIE	https://shls-live-ak.akamaized.net/out/v1/2a0f4768f7fa42ed813674628b487e95/index.m3u8
+|SHAHID| NASER AL QASSABY	https://shls-live-ak.akamaized.net/out/v1/20e003242d244710bfe9ca0fd2b94d00/index.m3u8
+|SHAHID| SPACETOON	https://spacetoon-prod-dub-ak.akamaized.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
+|SHAHID| FASHION TV	https://mbc1-enc.edgenextcdn.net/out/v1/61474465407042c896d3d27685175891/index.m3u8
+|SHAHID| AL THAQAFEYA	https://thaqafeyyah-ak.akamaized.net/out/v1/f6851f68ada94f82ae6b64a441eb5ab1/index.m3u8
+|SHAHID| TOP GEAR	https://shls-live-ak.akamaized.net/out/v1/07a6ab2d57b2453a91bbdd2d46b5865a/index.m3u8
+|SHAHID| MARAYA	https://shls-live-ak.akamaized.net/out/v1/a4a39d8e92e34b0780ca602270a59512/index.m3u8
+|SHAHID| RASHED AL-MAJED	https://rashed-almajed-ak.akamaized.net/out/v1/77b0946130344d1388e5cd34afdcb772/index.m3u8
+|SHAHID| MUHAMMAD ABDO	https://mohammed-abdou-ak.akamaized.net/out/v1/3b57275cf54747cda4cda03ecf146f92/index.m3u8
 UK Sky Cinema Action	01`00blinear401-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skycinemaaction)/manifest_720.mpd``0009a340cc0a79210aac42485474d01f:42ad18fa32d4001a1b0d196d194b4f82
 UK Sky Cinema Premier	01`00blinear407-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skycinemapremier)/manifest_720.mpd``00073338ff8073d4304f83c62a015923:097c82ec30a82545cfc1f9d66ba7bfa0
 UK Sky Cinema Animation	01`00blinear401-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skycinemaanimation)/manifest_720.mpd``0007cb3f3fe2ed34cc3a0dead47c2769:0a8bb5a04ab2fdf7b14af67b8ecf0867

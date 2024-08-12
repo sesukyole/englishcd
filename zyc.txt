@@ -23,16 +23,16 @@
 {h} * Justryuz jtv merged_playlist	^^hhttps://raw.githubusercontent.com/Justryuz/jtv/main/merged_playlist.m3u
 {h} * Justryuz TV JTV	^^hhttps://raw.githubusercontent.com/Justryuz/TV/main/JTV
 {h} * Justryuz TV zzz	^^hhttps://raw.githubusercontent.com/Justryuz/TV/main/xxx
-{s} Ⓗa0 ⚽️Live Sports	^^sa0
-{s} Ⓜa1 🤹Multi	^^sa1
-{s} Ⓧa2 🤺eXtra 🇮🇩	^^sa2
-{h} Ⓞb0 Okay	^^hb0
-{h} Ⓒb1 Cool	^^hb1
-{h} Ⓕb2 Fun	^^hb2
-{h} Ⓦb3 Wow Great!	^^hb3
-{s} Ⓢ 0 Samsung	^^s0
-{s} Ⓟ 1 Pluto	^^s1
-{h} Ⓘ 2 iptv-org	^^h2
+{s} ΓÆ╜a0 ΓÜ╜∩╕ÅLive Sports	^^sa0
+{s} Γôéa1 ≡ƒñ╣Multi	^^sa1
+{s} Γôìa2 ≡ƒñ║eXtra ≡ƒç«≡ƒç⌐	^^sa2
+{h} Γôäb0 Okay	^^hb0
+{h} ΓÆ╕b1 Cool	^^hb1
+{h} ΓÆ╗b2 Fun	^^hb2
+{h} Γôîb3 Wow Great!	^^hb3
+{s} Γôê 0 Samsung	^^s0
+{s} Γôà 1 Pluto	^^s1
+{h} ΓÆ╛ 2 iptv-org	^^h2
 {h} * Sports TV	^^hk^sports.m3u
 RU Match! Futbol 1	https://testcors.starlive.workers.dev/https://strm.yandex.ru/kal/match_football1_hd/manifest.mpd``5269ab07e6a6db7585324ae20542f191:dba0dccffba1b26f658ec85a616102e8?3
 RU Match! Futbol 2	https://andi-cors-proxy-service-k8s.andisearch.com/https://strm.yandex.ru/kal/match_football1_hd/manifest.mpd``5269ab07e6a6db7585324ae20542f191:dba0dccffba1b26f658ec85a616102e8?3
@@ -44,6 +44,5 @@ RU Match! Futbol 7	https://api.allorigins.win/raw?url=https://strm.yandex.ru/kal
 RU Match! Futbol 8	https://worldradio.online/proxy/?q=https://strm.yandex.ru/kal/match_football1_hd/manifest.mpd``5269ab07e6a6db7585324ae20542f191:dba0dccffba1b26f658ec85a616102e8?3
 RU Match! Futbol 9	https://corsproxy.bunkum.us/corsproxy/?apiurl=https://strm.yandex.ru/kal/match_football1_hd/manifest.mpd``5269ab07e6a6db7585324ae20542f191:dba0dccffba1b26f658ec85a616102e8?3
 Bernama	https://youtube.worst.workers.dev/0F53Ps27Nfc/index.m3u8
-Pluto TV Paramount+ Picks	https://jmp2.uk/PlutoTV/5ff8c708653d080007361b14-alt.m3u8
-Pluto TV Action	https://jmp2.uk/PlutoTV/561d7d484dc7c8770484914a-alt.m3u8
-Pluto TV Horror	https://jmp2.uk/PlutoTV/569546031a619b8f07ce6e25-alt.m3u8
+CNN Indonesia	https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
+CNBC Indonesia	https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
