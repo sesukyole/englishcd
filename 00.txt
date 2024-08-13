@@ -61,13 +61,14 @@ NBC 4	https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/ch
 TRT Spor	https://hw1.jemtv.com/app/trtspor/playlist.m3u8
 TR TV8,5	https://hw1.jemtv.com/app/tv85/chunks.m3u8
 BR BandSports	https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/290/290.m3u8
-Abu Dhabi Sports 1	https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8?c
-Abu Dhabi Sports 2	https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8?c
+True Premier Football 2	https://media.wacthstream.com/dvr/602_eng2/playlist_dvr.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS82LzIwMjMgNTo1NzoxMCBQTSZoYXNoX3ZhbHVlPWF3TUtrbWFRWlNBSUY5aG9NdDJSWVE9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MCZpZD1jaF8xODg1Mg==
 SMC 4 Sports	https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 Kuwait Sports	https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/index.m3u8
 Dubai Sports 1	https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
 Dubai Sports 2	https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
 Dubai Sports 3	https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
+Abu Dhabi Sports 2	https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8?c
+Abu Dhabi Sports 1	https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8?c
 EuroSport 1	https://cache3.zapitv.com/live/eds_c2/eurosport_1_hd/dash_live_enc/eurosport_1_hd.mpd``237be8ca9383755e9f5784dd23f545eb:15a723773c3b3cbce295c0aed0bc71c3
 EuroSport 2	https://cache3.zapitv.com/live/eds_c2/eurosport_2_hd/dash_live_enc/eurosport_2_hd.mpd``15382879a9bcfa6f1a04a86d5b4324e9:664241133368ab039dc1fb15206ba54b
 JP NHK G	https://vnpt.nekocdn.xyz/b783a989-9e73-4bce-bfa3-9996a9eaa455.m3u8?c
@@ -380,7 +381,6 @@ RTM Channel 3	`900`a04event/smil:ag3/chunklist.m3u8
 RTM Channel 4	`900`a04event/smil:ag4/chunklist.m3u8
 RTM Channel 5	`900`a04event/smil:ag5/chunklist.m3u8
 RTM Channel 6	`900`a04event/smil:event1/chunklist.m3u8
-TH T Sports 7	https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtsport3/index.m3u8
 Telemundo USA	https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
 TV 2 Direkte	https://aws-appeartv-cdn.rikstv.no/rikstv/1/11/dash/TV2_HD/manifest.mpd``bfb0134de69d76d25b5b4b202df11431:025915bd3062c4bde44a13916c5bfefe
 TV 3 Plus	https://aws-appeartv-cdn.rikstv.no/rikstv/708/2/dash/Viasat4/manifest.mpd``bc603bd4cbdaae7f9debc7accca10266:bb2ed19b76e7bd6cb8ad228b4a79827c
@@ -424,7 +424,6 @@ TSN 3	https://livecdn-iptv001.rumsport.com/stream/772/manifest.mpd
 TSN 4	https://livecdn-iptv001.rumsport.com/stream/773/manifest.mpd
 TSN 5	https://livecdn-iptv001.rumsport.com/stream/774/manifest.mpd
 Canal 4 Elsalvador	https://telecorporacion-es.cdn.vustreams.com/live/65b52a0a-415d-4686-8ef5-7a0b07b83992/live.isml/.m3u8
-Persiana Sport	https://persianasport.mastercast.cloud/memfs/ae5f15e4-63eb-48b3-a0b4-5346c34a8f37.m3u8
 BBC 1	https://da-3efc67472a028801000600020000000000000007.id.cdn.upcbroadband.com/wp/wp1-obc1112-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV09091/manifest.mpd``6401e1fead9d4f43910aaad360f46dd0:598f5e4f10d4e040d25579478cadc4ee
 BBC 2	https://da-3efc67472a028801000600020000000000000007.id.cdn.upcbroadband.com/wp/wp1-obc1112-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV09003/manifest.mpd``4af943b2626c4eb2b3a49f412204ce59:d62226a1df341e526e39a38501050048
 BBC 3	https://da-3efc67472a028801000600020000000000000007.id.cdn.upcbroadband.com/wp/wp1-obc1112-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV09093/manifest.mpd``4a50525c66084589983d260a52808f59:04ebf492aec2c867560092a956bf51b6
@@ -460,8 +459,6 @@ TRT Spor 1	https://trtspor.blutv.com/blutv_trtspor/live_720p2000000kbps/index.m3
 TRT Spor 2	https://trtsporyildiz.blutv.com/blutv_trtsporyildiz/live_720p2000000kbps/index.m3u8
 beIN Sports TV 1	https://edge1.laotv.la/live/Bsport1/manifest.mpd
 beIN Sports TV 2	https://edge1.laotv.la/live/Bsport2/manifest.mpd
-True Premier Football 1	https://edge1.laotv.la/live/TSport1/sc-gaFECQ/v1/manifest.mpd
-True Premier Football 2	https://edge1.laotv.la/live/TSport2/sc-gaFECQ/v1/manifest.mpd
 True Sports 1	https://edge1.laotv.la/live/TrueSport6/manifest.mpd
 True Sports 2	https://edge1.laotv.la/live/TrueSport2/manifest.mpd
 True Sports 3	https://edge1.laotv.la/live/TrueSport3/manifest.mpd
@@ -508,68 +505,7 @@ Orange Sport 3	https://ott1.cyberhost.ro/sdash/LIVE$DolceSport3/index.mpd/Manife
 Orange Sport 4	https://ott1.cyberhost.ro/sdash/LIVE$DolceSport4/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC``202a927cd913101de765b0e5bb3f500f:cdd399869057bc34c827f257f562643a
 Amazon Cricket	https://aba5sdmaaaaaaaamkycwliah6buj4.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tgcrfjcgia/out/v1/7296f026409c4e9ba8844a238628f9ad/cenc.mpd``d1badeadb11f16bbd0ad7d47914d939e:bd52d185d3537c4c1759db6d66f90f31
 Amazon Cricket Plus	https://aba5sdmaaaaaaaamibyasmmfoav3v.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/dmmqe7ssji/out/v1/3775f3d149f34a7a81d8cd7d58118e40/cenc.mpd``1105b85e6db6214e686e462206ed86ec:59d851187354b65fa2d14829046893ef
-TH Football 1	https://cors-proxy.elfsight.com/https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL001/HLS/TL001.m3u8
-TH Football 2	https://cors-proxy.elfsight.com/https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL002/HLS/TL002.m3u8
-TH Football 3	https://cors-proxy.elfsight.com/https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL003/HLS/TL003.m3u8
-TH Football 4	https://cors-proxy.elfsight.com/https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL004/HLS/TL004.m3u8
-TH Football 5	https://cors-proxy.elfsight.com/https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL005/HLS/TL005.m3u8
-TH Football 6	https://cors-proxy.elfsight.com/https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL006/HLS/TL006.m3u8
-TH Football 7	https://cors-proxy.elfsight.com/https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL007/HLS/TL007.m3u8
-TH Football 8	https://cors-proxy.elfsight.com/https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL008/HLS/TL008.m3u8
-JP Siam Sport J League 1	https://cors-proxy.elfsight.com/https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/JL004/HLS/JL001.m3u8
-JP Siam Sport J League 2	https://cors-proxy.elfsight.com/https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/JL004/HLS/JL002.m3u8
-JP Siam Sport J League 3	https://cors-proxy.elfsight.com/https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/JL004/HLS/JL003.m3u8
-JP Siam Sport J League 4	https://cors-proxy.elfsight.com/https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/JL004/HLS/JL004.m3u8
-beIN Sports 1	https://cors-proxy.elfsight.com/https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0001/DASH/S0001.mpd``3fd52d1e9ba4b180aec12c9295b62c0f:bb274e33da0c709e62c55d0cba911889
-beIN Sports 2	https://cors-proxy.elfsight.com/https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0002/DASH/S0002.mpd``30c11587a1686b72f115f34b0bf1c383:1e3a6af2408cdd78347b722728560c3b
-beIN Sports 3	https://cors-proxy.elfsight.com/https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0003/DASH/S0003.mpd``aa724943787320593f5563048c90032d:a039276254f53769b040199a4eca8c2c
-beIN Sports 4	https://cors-proxy.elfsight.com/https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0004/DASH/S0004.mpd``cb419fa5f5498e2c6cbc39363248ddd7:b5853b51f2060025a822e62973154556
-beIN Sports 5	https://cors-proxy.elfsight.com/https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0005/DASH/S0005.mpd``3a165f923cd49e616f173fc6c341cc56:4cb96186d69f1a63c40218812a6f6910
-beIN Sports 6	https://cors-proxy.elfsight.com/https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0006/DASH/S0006.mpd``ceac4607562049abb9d1b0309d9cd6f3:d396d277a364fab00d0193d25b700847
-beIN Sports 7	https://cors-proxy.elfsight.com/https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0007/DASH/S0007.mpd``94a28a75b3891e92a97efbe76f941095:7b39cd0e318ee481b98c36a125c540fb
-US DAZN NFL	`0https://go.now.net.eu.org/p/live?embed=daznnfl&type=m
-US DAZN MLB	`0https://go.now.net.eu.org/p/live?embed=daznmlb&type=m
-US DAZN NBA	`0https://go.now.net.eu.org/p/live?embed=daznnba&type=m
-US DAZN RedBull	`0https://go.now.net.eu.org/p/live?embed=redbull&type=m
-ES DAZN F1	`0https://go.now.net.eu.org/p/live?embed=daznf1&type=m
-DE DAZN 1	`0https://go.now.net.eu.org/p/live?embed=dazn1de&type=m
-DE DAZN 2	`0https://go.now.net.eu.org/p/live?embed=dazn2de&type=m
-DE SportDigital FussBall	`0https://go.now.net.eu.org/p/live?embed=digital&type=m
-IT Zona DAZN	`0https://go.now.net.eu.org/p/live?embed=zonait&type=m
-IT Milan TV	`0https://go.now.net.eu.org/p/live?embed=milantv&type=m
-DE EuroSport 1	`0https://go.now.net.eu.org/p/live?embed=euro1de&type=m
-DE EuroSport 2	`0https://go.now.net.eu.org/p/live?embed=euro2de&type=m
-ES EuroSport 1	`0https://go.now.net.eu.org/p/live?embed=euro1es&type=m
-ES EuroSport 2	`0https://go.now.net.eu.org/p/live?embed=euro2es&type=m
-IT Inter TV	`0https://go.now.net.eu.org/p/live?embed=intertv&type=m
-ES DAZN 1	`0https://go.now.net.eu.org/p/live?embed=dazn1es&type=m
-ES DAZN 2	`0https://go.now.net.eu.org/p/live?embed=dazn2es&type=m
-ES DAZN LaLiga HyperMotion	`0https://go.now.net.eu.org/p/live?embed=laligah&type=m
-ES DAZN LaLiga	`0https://go.now.net.eu.org/p/live?embed=laligaes&type=m
-BE PlaySports 1	`0https://go.now.net.eu.org/p/live?embed=plays1be&type=m
-BE PlaySports 2	`0https://go.now.net.eu.org/p/live?embed=plays2be&type=m
-BE PlaySports 3	`0https://go.now.net.eu.org/p/live?embed=plays3be&type=m
-PT Eleven Sports 1	`0https://go.now.net.eu.org/p/live?embed=eleven1pt&type=m
-PT Eleven Sports 2	`0https://go.now.net.eu.org/p/live?embed=eleven2pt&type=m
-PT Eleven Sports 3	`0https://go.now.net.eu.org/p/live?embed=eleven3pt&type=m
-PT Eleven Sports 4	`0https://go.now.net.eu.org/p/live?embed=eleven4pt&type=m
-PT Eleven Sports 5	`0https://go.now.net.eu.org/p/live?embed=eleven5pt&type=m
-PT Eleven Sports 6	`0https://go.now.net.eu.org/p/live?embed=eleven6pt&type=m
-FR beIN Sports 1	`0https://go.now.net.eu.org/p/live?embed=bein1fr&type=m
-FR beIN Sports 2	`0https://go.now.net.eu.org/p/live?embed=bein2fr&type=m
-FR beIN Sports 3	`0https://go.now.net.eu.org/p/live?embed=bein3fr&type=m
-FR beIN Sports Max 4	`0https://go.now.net.eu.org/p/live?embed=beinmax4fr&type=m
-FR beIN Sports Max 5	`0https://go.now.net.eu.org/p/live?embed=beinmax5fr&type=m
-FR beIN Sports Max 6	`0https://go.now.net.eu.org/p/live?embed=beinmax6fr&type=m
-FR beIN Sports Max 7	`0https://go.now.net.eu.org/p/live?embed=beinmax7fr&type=m
-FR beIN Sports Max 8	`0https://go.now.net.eu.org/p/live?embed=beinmax8fr&type=m
-FR beIN Sports Max 9	`0https://go.now.net.eu.org/p/live?embed=beinmax9fr&type=m
-FR beIN Sports Max 10	`0https://go.now.net.eu.org/p/live?embed=beinmax10fr&type=m
-MY Premier League	`0https://go.now.net.eu.org/p/lol/live?embed=bein4my&type=m
 TVMax	https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
-TH PPTV 36TV	https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/36/36.mpd``0aeffa7753674e77b99443fac7757b8a:b8c8a462008a40aa91823e0b02e8dd31
-TH 30TV	https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/30/30.mpd``b8c8a462008a40aa91823e0b02e8dd31:4b2bff3e598043cfaf949305e3d153fa
-TH 3BB Sports 1	https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/401/401.mpd``678bbba596584ad895d2923fb0255e82:c55471086c824112b217743a31abdf8f
 La Une	https://daiconnect.com/live/dash/rtbf/laune-premium-drm-2/.mpd``1a8315e4b64c4e638dc24d93134b9b2d:2821b54058fb3adc9c6252c631aef9e5
 Das Erste	https://p7s1-live-001-prod.akamaized.net/28df258a/t_009/daserste-de-hd/cenc-default.mpd``667f821486adfa6df62b53e41fe60c65:be65cc2c378180153cbac97bc6ab8625
 ZDF	https://p7s1-live-001-prod.akamaized.net/45371d5a/t_009/zdf-de-hd/cenc-default.mpd``7757d3fa8cdab673a2dd9f3ed7b41360:96e498b70eeecfc0164ed4e0a78e36f3
