@@ -11,7 +11,7 @@
 {h} * Free IPTV	^^hhttps://raw.githubusercontent.com/ipstreet312/freeiptv/master/all.m3u
 {s} Ⓗa0 ⚽️Live Sports	^^sa0
 {s} Ⓜa1 🤹Multi	^^sa1
-{s} Ⓧa2 🤺eXtra 🇮🇩	^^sa2
+{s} Ⓧa2 🤺eXtra 🆔	^^sa2
 {h} Ⓞb0 Okay	^^hb0
 {h} Ⓒb1 Cool	^^hb1
 {h} Ⓕb2 Fun	^^hb2

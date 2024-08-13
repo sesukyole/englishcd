@@ -2,6 +2,7 @@ SpoTV 1	01`01datemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd``e6
 SpoTV 2	01`01datemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd``e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
 ID SpoTV 1	01`00a133/beib1/index.m3u8?c
 ID SpoTV 2	01`00a133/beib2/index.m3u8?c
+🆔 Channels are also on Ⓞb0 Okay	^--
 ID Football	00`a05rcti-soccerchannel-hd/sa_hls/rcti-soccerchannel-hd.m3u8?c
 ID Sport 1	00`a05rcti-sportstar/sa_hls/rcti-sportstar.m3u8?c
 ID Sport 2	00`a05rcti-sportstar2/sa_hls/rcti-sportstar2.m3u8?c
@@ -1038,6 +1039,7 @@ Ziggo Sport Racing TV	`1https://en.gdplayertv.to/live-tv/ziggo-sport-racing/?emb
 Ziggo Sport Select TV	`1https://en.gdplayertv.to/live-tv/ziggo-sport-select/?embed=1
 Ziggo Sport Voetbal TV	`1https://en.gdplayertv.to/live-tv/ziggo-sport-voetbal/?embed=1
 ZooMoo TV	`1https://en.gdplayertv.to/live-tv/zoomoo/?embed=1
+Channels below are only for Desktop Chrome	^--
 MakkahTV.id	01`02aAlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd``67fe3ac3ca111c9bdd6e8480091dc13c:7d05fb1ff7705c1e452ff7e1b841a1b8
 Soccer.id	01`02asoccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd``4d38060bf41b3c29df0ec950ece6b5da:7ee9506b13480491d79b71c062ab5366
 Sport1.id	01`02aMNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd``531c6d50e3e9f9ba66446f624f492289:d769d9ae238bdd424f8bcdcdc9a3801f
