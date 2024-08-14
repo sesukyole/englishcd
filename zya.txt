@@ -1,6 +1,7 @@
-{h} * Action Movies Film VOD	^^hhttps://raw.githubusercontent.com/Justryuz/jtv/main/actionvod.m3u
+{h} * Al Qur'an.mp3	^^h9
 {h} * Conspiracy Truth 1	^^h7
 {h} * Conspiracy Truth 2	^^h8
+{h} * Action Movies Film VOD	^^hhttps://raw.githubusercontent.com/Justryuz/jtv/main/actionvod.m3u
 {s} Ⓥ Movies Film 1	^^s3
 {h} Ⓨ Movies Film 2	^^h4
 {h} Ⓩ Movies Film 3	^^h5
