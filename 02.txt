@@ -3,7 +3,7 @@ ID SpoTV 2	01`00a133/beib2/index.m3u8?c
 ID Football	00`a05rcti-soccerchannel-hd/sa_hls/rcti-soccerchannel-hd.m3u8?c
 ID Sport 1	00`a05rcti-sportstar/sa_hls/rcti-sportstar.m3u8?c
 ID Sport 2	00`a05rcti-sportstar2/sa_hls/rcti-sportstar2.m3u8?c
-🆔 Channels also available on Ⓞb0 Okay	^--
+🆔 Channels also available on Ⓜa1 & Ⓞb0	^--
 ID Sport 3	00`a05mncsport3/sa_hls/mncsport3.m3u8?c
 ID Sport 4	00`a05VplusLiveRplus/sa_hls/VplusLiveRplus.m3u8?c
 ID iNews	00`a05inews-hdd/sa_hls/inews-hdd.m3u8?c
