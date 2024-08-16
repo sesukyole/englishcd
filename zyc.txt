@@ -22,4 +22,6 @@
 {s} Ⓢ 0 Samsung	^^s0
 {s} Ⓟ 1 Pluto	^^s1
 {h} * Sports TV	^^hk^sports.m3u
+🌍 International	^^hc^int.m3u
+🇮🇩 Indonesia	^^hc^id.m3u
 {h} Ⓘ 2 iptv-org	^^h2
