@@ -13,6 +13,26 @@ Sport TV 4	`0https://popcdn.day/go.php?stream=SPT4
 Sport TV 5	`0https://popcdn.day/go.php?stream=SPT5
 Sport TV 6	`0https://popcdn.day/go.php?stream=SPT6
 Sport TV +	`0https://popcdn.day/go.php?stream=SPTPlus
+Arena ESport	`0https://cineasticview.blogspot.com/2024/03/arenaes.html
+DAZN 1	`0https://cineasticview.blogspot.com/2024/03/ts1.html
+DAZN 2	`0https://cineasticview.blogspot.com/2024/03/ts2.html
+Sky Sport Channels *7	`0https://cineasticview.blogspot.com/2024/08/sky.html
+LaLiga Channels *5	`0https://cineasticview.blogspot.com/2024/08/ligaspanyol.html
+EPL Channels *5	`0https://cineasticview.blogspot.com/2024/08/ligainggris.html
+Liga Serie A Channels *5	`0https://cineasticview.blogspot.com/2024/08/ligaitalia.html
+Bundes Liga Channels *5	`0https://cineasticview.blogspot.com/2024/08/ligajerman.html
+Ligue 1 Channels *5	`0https://cineasticview.blogspot.com/2024/08/ligafrancis.html
+TR beIN Sports Channels *4	`0https://cineasticview.blogspot.com/2024/03/b1.html
+MY Arena Sports Channels *8	`0https://cineasticview.blogspot.com/2022/12/arena.html
+SA SSC Channels *5	`0https://cineasticview.blogspot.com/2024/03/cicing1.html
+ID Liga 1 Channels *5	`0https://cineasticview.blogspot.com/2024/08/ligaidn.html
+MY Liga Super Channels *5	`0https://cineasticview.blogspot.com/2024/08/ligamy.html
+BR Sportv Channels *3	`0https://cineasticview.blogspot.com/2024/08/stv.html
+TNT Sports Channels *4	`0https://cineasticview.blogspot.com/2024/03/ms1.html
+Arena Sport Channels *6	`0https://cineasticview.blogspot.com/2024/03/arena1.html
+Arena Sport Premium Channels *3	`0https://cineasticview.blogspot.com/2024/03/arenap1.html
+MY SpoTV Channels *2	`0https://cineasticview.blogspot.com/2024/04/spotv1.html
+MY Sukma Serawak Channels *3	`0https://cineasticview.blogspot.com/2024/05/serawak.html
 Live Sports HD 1	`0https://v3.sportsonline.si/channels/hd/hd1.php
 Live Sports HD 2	`0https://v3.sportsonline.si/channels/hd/hd2.php
 Live Sports HD 3	`0https://v3.sportsonline.si/channels/hd/hd3.php
@@ -98,6 +118,11 @@ Live Sports 5	`0https://v3.sportsonline.si/channels/bra/br5.php
 Live Sports 6	`0https://v3.sportsonline.si/channels/bra/br6.php
 Live Sports 7	`0https://v3.sportsonline.si/channels/bra/br7.php
 Live Sports 8	`0https://v3.sportsonline.si/channels/bra/br8.php
+Football/Soccer Channels *5	`0https://rakettvcom.blogspot.com/2024/07/bl1.html
+Badminton Channels *4	`0https://rakettvcom.blogspot.com/2024/07/bwf_28.html
+Basketball Channels *9	`0https://rakettvcom.blogspot.com/2024/07/basket.html
+MotoGP Channels *4	`0https://rakettvcom.blogspot.com/2024/07/gp.html
+Volleyball Channels *4	`0https://rakettvcom.blogspot.com/2024/07/voli.html
 RTB Aneka Go	https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
 MY TV Okey	`900`a04smil:okey/manifest.mpd
 MY Sukan RTM TV	`900`a04smil:sukan/manifest.mpd
@@ -111,11 +136,6 @@ ES La2	https://rtvelivestreamv3.akamaized.net/rtvesec/la2/la2_main.m3u8?c
 CA Sportsnet 1	https://live-streaming-rsm.akamaized.net/sn1hd/sn1hd_cenc.isml/.mpd``f9dd2ed9609f49309ddf07892d25b081:c1254109aaff73701fbea97dc1899b8e
 CA Sportsnet World	https://live-streaming-rsm.azureedge.net/snwlh/snwlh_cenc.isml/.mpd``44f6a1e5467d4df7a9da2d1b96ee62ca:157d3d7156dd1b288d661d453dbfc682
 Sport en France	https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
-Football/Soccer Channels *	`0https://rakettvcom.blogspot.com/2024/07/bl1.html
-Badminton Channels *	`0https://rakettvcom.blogspot.com/2024/07/bwf_28.html
-MotoGP Channels *	`0https://rakettvcom.blogspot.com/2024/07/gp.html
-Volleyball Channels *	`0https://rakettvcom.blogspot.com/2024/07/voli.html
-Basketball Channels *	`0https://rakettvcom.blogspot.com/2024/07/basket.html
 ESPN 1	https://b.trybrett.shop/espn.m3u8?c
 ESPN 2	https://b.trybrett.shop/espn2.m3u8?c
 ESPN Live	https://b.trybrett.shop/espn3.m3u8?c
