@@ -5,7 +5,6 @@ Arena Sport Premium 1	https://webtvstream.bhtelecom.ba/hls6/as_premium1.mpd``c18
 Arena Sport Premium 2	https://webtvstream.bhtelecom.ba/hls6/as_premium2.mpd``c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 Arena Sport Premium 3	https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd``c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 Arena Sport Premier League	https://webtvstream.bhtelecom.ba/hls6/premier_league.mpd``c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-True Premier Football 2	https://media.wacthstream.com/dvr/602_eng2/playlist_dvr.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS82LzIwMjMgNTo1NzoxMCBQTSZoYXNoX3ZhbHVlPWF3TUtrbWFRWlNBSUY5aG9NdDJSWVE9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MCZpZD1jaF8xODg1Mg==
 Sport TV 1	`0i3`00SPT1
 Sport TV 2	`0i3`00SPT2
 Sport TV 3	`0i3`00SPT3
@@ -133,6 +132,7 @@ Sport TV 5	`0i3`02pt/sporttv5.php
 Football/Soccer Channels *5	`0i3`032024/07/bl1.html
 Badminton Channels *4	`0i3`032024/07/bwf_28.html
 Basketball Channels *9	`0i3`032024/07/basket.html
+Formula 1 Channels *4	`0i3`032024/07/jrx6.html
 MotoGP Channels *4	`0i3`032024/07/gp.html
 Volleyball Channels *4	`0i3`032024/07/voli.html
 RTB Aneka Go	https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
