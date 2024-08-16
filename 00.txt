@@ -6,48 +6,55 @@ Arena Sport Premium 2	https://webtvstream.bhtelecom.ba/hls6/as_premium2.mpd``c18
 Arena Sport Premium 3	https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd``c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 Arena Sport Premier League	https://webtvstream.bhtelecom.ba/hls6/premier_league.mpd``c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 True Premier Football 2	https://media.wacthstream.com/dvr/602_eng2/playlist_dvr.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS82LzIwMjMgNTo1NzoxMCBQTSZoYXNoX3ZhbHVlPWF3TUtrbWFRWlNBSUY5aG9NdDJSWVE9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MCZpZD1jaF8xODg1Mg==
-Sport TV 1	`0https://popcdn.day/go.php?stream=SPT1
-Sport TV 2	`0https://popcdn.day/go.php?stream=SPT2
-Sport TV 3	`0https://popcdn.day/go.php?stream=SPT3
-Sport TV 4	`0https://popcdn.day/go.php?stream=SPT4
-Sport TV 5	`0https://popcdn.day/go.php?stream=SPT5
-Sport TV 6	`0https://popcdn.day/go.php?stream=SPT6
-Sport TV +	`0https://popcdn.day/go.php?stream=SPTPlus
-Arena ESport	`0https://cineasticview.blogspot.com/2024/03/arenaes.html
-DAZN 1	`0https://cineasticview.blogspot.com/2024/03/ts1.html
-DAZN 2	`0https://cineasticview.blogspot.com/2024/03/ts2.html
-Sky Sport Channels *7	`0https://cineasticview.blogspot.com/2024/08/sky.html
-LaLiga Channels *5	`0https://cineasticview.blogspot.com/2024/08/ligaspanyol.html
-EPL Channels *5	`0https://cineasticview.blogspot.com/2024/08/ligainggris.html
-Liga Serie A Channels *5	`0https://cineasticview.blogspot.com/2024/08/ligaitalia.html
-Bundes Liga Channels *5	`0https://cineasticview.blogspot.com/2024/08/ligajerman.html
-Ligue 1 Channels *5	`0https://cineasticview.blogspot.com/2024/08/ligafrancis.html
-TR beIN Sports Channels *4	`0https://cineasticview.blogspot.com/2024/03/b1.html
-MY Arena Sports Channels *8	`0https://cineasticview.blogspot.com/2022/12/arena.html
-SA SSC Channels *5	`0https://cineasticview.blogspot.com/2024/03/cicing1.html
-ID Liga 1 Channels *5	`0https://cineasticview.blogspot.com/2024/08/ligaidn.html
-MY Liga Super Channels *5	`0https://cineasticview.blogspot.com/2024/08/ligamy.html
-BR Sportv Channels *3	`0https://cineasticview.blogspot.com/2024/08/stv.html
-TNT Sports Channels *4	`0https://cineasticview.blogspot.com/2024/03/ms1.html
-Arena Sport Channels *6	`0https://cineasticview.blogspot.com/2024/03/arena1.html
-Arena Sport Premium Channels *3	`0https://cineasticview.blogspot.com/2024/03/arenap1.html
-MY SpoTV Channels *2	`0https://cineasticview.blogspot.com/2024/04/spotv1.html
-MY Sukma Serawak Channels *3	`0https://cineasticview.blogspot.com/2024/05/serawak.html
-Live Sports HD 1	`0https://v3.sportsonline.si/channels/hd/hd1.php
-Live Sports HD 2	`0https://v3.sportsonline.si/channels/hd/hd2.php
-Live Sports HD 3	`0https://v3.sportsonline.si/channels/hd/hd3.php
-Live Sports HD 4	`0https://v3.sportsonline.si/channels/hd/hd4.php
-Live Sports HD 5	`0https://v3.sportsonline.si/channels/hd/hd5.php
-Live Sports HD 6	`0https://v3.sportsonline.si/channels/hd/hd6.php
-Live Sports HD 7	`0https://v3.sportsonline.si/channels/hd/hd7.php
-Live Sports HD 8	`0https://v3.sportsonline.si/channels/hd/hd8.php
-Live Sports HD 9	`0https://v3.sportsonline.si/channels/hd/hd9.php
-Live Sports HD 10	`0https://v3.sportsonline.si/channels/hd/hd10.php
-Live Sports HD 11	`0https://v3.sportsonline.si/channels/hd/hd11.php
-PT Eleven Sports 1	`0https://v3.sportsonline.si/channels/pt/eleven1.php
-PT Eleven Sports 2	`0https://v3.sportsonline.si/channels/pt/eleven1.php
-PT Eleven Sports 3	`0https://v3.sportsonline.si/channels/pt/eleven1.php
-PT Benefica	`0https://v3.sportsonline.si/channels/pt/btv.php
+Sport TV 1	`0i3`00SPT1
+Sport TV 2	`0i3`00SPT2
+Sport TV 3	`0i3`00SPT3
+Sport TV 4	`0i3`00SPT4
+Sport TV 5	`0i3`00SPT5
+Sport TV 6	`0i3`00SPT6
+Sport TV +	`0i3`00SPTPlus
+beIN Sports US	`0https://popcdn.day/cue.php?stream=beINSPORTSUS
+beIN Sports 1 FR	`0i3`00BEINSPORT1FR
+beIN Sports 2 FR	`0i3`00BEINSPORT2FR
+beIN Sports 3 FR	`0i3`00BEINSPORT3FR
+beIN Sports 1 TR	`0i3`00beINSPORTS1TR
+beIN Sports 2 TR	`0i3`00beINSPORTS2TR
+beIN Sports 3 TR	`0i3`00beINSPORTS3TR
+Arena ESport	`0i3`012024/03/arenaes.html
+DAZN 1	`0i3`012024/03/ts1.html
+DAZN 2	`0i3`012024/03/ts2.html
+Sky Sport Channels *7	`0i3`012024/08/sky.html
+LaLiga Channels *5	`0i3`012024/08/ligaspanyol.html
+EPL Channels *5	`0i3`012024/08/ligainggris.html
+Liga Serie A Channels *5	`0i3`012024/08/ligaitalia.html
+Bundes Liga Channels *5	`0i3`012024/08/ligajerman.html
+Ligue 1 Channels *5	`0i3`012024/08/ligafrancis.html
+TR beIN Sports Channels *4	`0i3`012024/03/b1.html
+MY Arena Sports Channels *8	`0i3`012022/12/arena.html
+SA SSC Channels *5	`0i3`012024/03/cicing1.html
+ID Liga 1 Channels *5	`0i3`012024/08/ligaidn.html
+MY Liga Super Channels *5	`0i3`012024/08/ligamy.html
+BR Sportv Channels *3	`0i3`012024/08/stv.html
+TNT Sports Channels *4	`0i3`012024/03/ms1.html
+Arena Sport Channels *6	`0i3`012024/03/arena1.html
+Arena Sport Premium Channels *3	`0i3`012024/03/arenap1.html
+MY SpoTV Channels *2	`0i3`012024/04/spotv1.html
+MY Sukma Serawak Channels *3	`0i3`012024/05/serawak.html
+Live Sports HD 1	`0i3`02hd/hd1.php
+Live Sports HD 2	`0i3`02hd/hd2.php
+Live Sports HD 3	`0i3`02hd/hd3.php
+Live Sports HD 4	`0i3`02hd/hd4.php
+Live Sports HD 5	`0i3`02hd/hd5.php
+Live Sports HD 6	`0i3`02hd/hd6.php
+Live Sports HD 7	`0i3`02hd/hd7.php
+Live Sports HD 8	`0i3`02hd/hd8.php
+Live Sports HD 9	`0i3`02hd/hd9.php
+Live Sports HD 10	`0i3`02hd/hd10.php
+Live Sports HD 11	`0i3`02hd/hd11.php
+PT Eleven Sports 1	`0i3`02pt/eleven1.php
+PT Eleven Sports 2	`0i3`02pt/eleven1.php
+PT Eleven Sports 3	`0i3`02pt/eleven1.php
+PT Benefica	`0i3`02pt/btv.php
 TNT Sports 1	https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd``ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
 TNT Sports 2	https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd``6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
 TNT Sports 3	https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd``4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
@@ -110,19 +117,24 @@ beIN Sports Extra	https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df
 ES Real Madrid ENG	https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
 ES Real Madrid ESP	https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 UK MUTV	https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
-Live Sports 1	`0https://v3.sportsonline.si/channels/bra/br1.php
-Live Sports 2	`0https://v3.sportsonline.si/channels/bra/br2.php
-Live Sports 3	`0https://v3.sportsonline.si/channels/bra/br3.php
-Live Sports 4	`0https://v3.sportsonline.si/channels/bra/br4.php
-Live Sports 5	`0https://v3.sportsonline.si/channels/bra/br5.php
-Live Sports 6	`0https://v3.sportsonline.si/channels/bra/br6.php
-Live Sports 7	`0https://v3.sportsonline.si/channels/bra/br7.php
-Live Sports 8	`0https://v3.sportsonline.si/channels/bra/br8.php
-Football/Soccer Channels *5	`0https://rakettvcom.blogspot.com/2024/07/bl1.html
-Badminton Channels *4	`0https://rakettvcom.blogspot.com/2024/07/bwf_28.html
-Basketball Channels *9	`0https://rakettvcom.blogspot.com/2024/07/basket.html
-MotoGP Channels *4	`0https://rakettvcom.blogspot.com/2024/07/gp.html
-Volleyball Channels *4	`0https://rakettvcom.blogspot.com/2024/07/voli.html
+Live Sports 1	`0i3`02bra/br1.php
+Live Sports 2	`0i3`02bra/br2.php
+Live Sports 3	`0i3`02bra/br3.php
+Live Sports 4	`0i3`02bra/br4.php
+Live Sports 5	`0i3`02bra/br5.php
+Live Sports 6	`0i3`02bra/br6.php
+Live Sports 7	`0i3`02bra/br7.php
+Live Sports 8	`0i3`02bra/br8.php
+Sport TV 1	`0i3`02pt/sporttv1.php
+Sport TV 2	`0i3`02pt/sporttv2.php
+Sport TV 3	`0i3`02pt/sporttv3.php
+Sport TV 4	`0i3`02pt/sporttv4.php
+Sport TV 5	`0i3`02pt/sporttv5.php
+Football/Soccer Channels *5	`0i3`032024/07/bl1.html
+Badminton Channels *4	`0i3`032024/07/bwf_28.html
+Basketball Channels *9	`0i3`032024/07/basket.html
+MotoGP Channels *4	`0i3`032024/07/gp.html
+Volleyball Channels *4	`0i3`032024/07/voli.html
 RTB Aneka Go	https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
 MY TV Okey	`900`a04smil:okey/manifest.mpd
 MY Sukan RTM TV	`900`a04smil:sukan/manifest.mpd
@@ -163,13 +175,6 @@ HRT1	https://webtvstream.bhtelecom.ba/hrt1.m3u8
 HRT2	https://webtvstream.bhtelecom.ba/hrt2.m3u8
 HRT3	https://webtvstream.bhtelecom.ba/hrt3.m3u8
 Sky Sport News	01`00blinear030-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_120/Live/channel(skysportsnews)/manifest_720.mpd``00057bfb9cf2fc40b5ed61f9c8a41d54:cb9908093e35e3c3f7db06f55913cce0
-beIN Sports US	`0https://popcdn.day/cue.php?stream=beINSPORTSUS
-beIN Sports 1 FR	`0https://popcdn.day/go.php?stream=BEINSPORT1FR
-beIN Sports 2 FR	`0https://popcdn.day/go.php?stream=BEINSPORT2FR
-beIN Sports 3 FR	`0https://popcdn.day/go.php?stream=BEINSPORT3FR
-beIN Sports 1 TR	`0https://popcdn.day/go.php?stream=beINSPORTS1TR
-beIN Sports 2 TR	`0https://popcdn.day/go.php?stream=beINSPORTS2TR
-beIN Sports 3 TR	`0https://popcdn.day/go.php?stream=beINSPORTS3TR
 QAZ Sport Premium	https://gameslive.akamaized.net/hls/live-97eee134-2b19-4781-b794-04d3490229e4_720p2800kbs/index.m3u8
 QAZ Sport	01`01dbkm.beetv.kz/btv/live/hls/000003038.m3u8
 Go3 Sport 1	01`01dcdnlb.tvplayhome.lt/live/eds/TV3_Sport_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport_HD_HVC.mpd``610ad79e26a84fc782c987455e21a86b:d2d4acc6e79447b55f3f5c0267af06f5
@@ -302,19 +307,14 @@ Mola 9	https://live.mocdn.tv/out/v1/a2f7dfe1378940dfa09879b845d07ca1/manifest_L1
 Mola 10	https://live.mocdn.tv/out/v1/d89b099c972e4f47bf736e8a9b602f16/manifest_L1.mpd``3e17c3798a294c49b93c1b2ddbcd8f29:0917fa8c9cf68c206efc24946d0c22cc
 Mola 11	https://live.mocdn.tv/out/v1/0bea17259d5e491d8562b68edf850af5/manifest_L1.mpd``3e17c3798a294c49b93c1b2ddbcd8f29:0917fa8c9cf68c206efc24946d0c22cc
 Mola 12	https://live.mocdn.tv/out/v1/f652f46af7114b4a9be234af2050b095/manifest_L1.mpd``3e17c3798a294c49b93c1b2ddbcd8f29:0917fa8c9cf68c206efc24946d0c22cc
-Sport TV 1	`0https://v3.sportsonline.si/channels/pt/sporttv1.php
-Sport TV 2	`0https://v3.sportsonline.si/channels/pt/sporttv2.php
-Sport TV 3	`0https://v3.sportsonline.si/channels/pt/sporttv3.php
-Sport TV 4	`0https://v3.sportsonline.si/channels/pt/sporttv4.php
-Sport TV 5	`0https://v3.sportsonline.si/channels/pt/sporttv5.php
-Formula 1	`0https://streambtw.com/iframe/f1.php
-MotoGP Racing	`0https://streambtw.com/iframe/moto.php
-Sports Live 1	`0https://streambtw.com/iframe/ch1.php
-Sports Live 2	`0https://streambtw.com/iframe/ch2.php
-Sports Live 3	`0https://streambtw.com/iframe/ch3.php
-Boxing 1	`0https://streambtw.com/iframe/box1.php
-Boxing 2	`0https://streambtw.com/iframe/box2.php
-UFC	`0https://streambtw.com/iframe/ufc.php
+Formula 1	`0i3`04f1.php
+MotoGP Racing	`0i3`04moto.php
+Sports Live 1	`0i3`04ch1.php
+Sports Live 2	`0i3`04ch2.php
+Sports Live 3	`0i3`04ch3.php
+Boxing 1	`0i3`04box1.php
+Boxing 2	`0i3`04box2.php
+UFC	`0i3`04ufc.php
 UFC	https://live.mocdn.tv/out/v1/e3b6cb27892d4466a522bf43fe92da1a/manifest_L1.mpd``3e17c3798a294c49b93c1b2ddbcd8f29:0917fa8c9cf68c206efc24946d0c22cc
 LIVE SPL 01	https://tglmp04.akamaized.net/out/v1/6ec3ff8c3b5649249f9c8a6e2651195a/manifest.mpd``f5158194cc4044e699d0df01772f2212:072e611a383a2d1e3d4d8ea19e016a71
 LIVE SPL 02	https://tglmp02.akamaized.net/out/v1/06bffdc183074130a6faf73d04502eaa/manifest.mpd``deb6c84db4dc4578bdaa61e965b3424c:b2e6fff24da67654af548fe61aa6bd5a
