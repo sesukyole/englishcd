@@ -118,43 +118,6 @@ beIN Sports Extra	https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df
 ES Real Madrid ENG	https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
 ES Real Madrid ESP	https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 UK MUTV	https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
-AR ESPN Premium	`0i3`05espn_premium
-AR Fox Sports 1	`0i3`05fox1ar
-AR Fox Sports 2	`0i3`05fox2ar
-AR Fox Sports 3	`0i3`05fox3ar
-AR TNT Sports	`0i3`05tntsports_argentina
-Caliente	`0i3`05calientetvmx
-CH TNT Sports	`0i3`05tnt_chile
-Claro Sports 1	`0i3`05clarosports1
-Dsports +	`0i3`05dsports_plus
-Dsports 1	`0i3`05dsports
-Dsports 2	`0i3`05dsports_2
-ES DAZN 1	`0i3`05dazn1
-ES DAZN 2	`0i3`05dazn2
-ES DAZN LaLiga	`0i3`05dazn_laliga
-ES Eurosports 1	`0i3`05eurosports1_es
-ES Eurosports 2	`0i3`05eurosports2_es
-ESPN 1	`0i3`05espn1
-ESPN 2	`0i3`05espn2
-ESPN 3	`0i3`05espn3
-ESPN 4	`0i3`05espn4
-ESPN 5	`0i3`05espn5
-ESPN 6	`0i3`05espn6
-ESPN 7	`0i3`05espn7
-ESPN Deportes	`0i3`05espn_deportes
-Fox Deportes USA	`0i3`05fox_deportes_usa
-Fox Sports Premium	`0i3`05foxsportspremium
-GolPeru	`0!i3`05golperu
-Liga 1 MAX	`0i3`05l1max
-MX Acteca Deportes	`0i3`05azteca_deportes
-MX ESPN	`0i3`05espnmx
-MX Fox Sports 1	`0i3`05foxsportsmx
-Telefe	`0i3`05telefe
-TUDN USA	`0i3`05tudn_usa
-TV Pública	`0i3`05tv_publica
-TYC Sports	`0i3`05tyc_sports
-Win Sports +	`0i3`05winplus
-Win Sports	`0i3`05winsports
 Live Sports 1	`0i3`02bra/br1.php
 Live Sports 2	`0i3`02bra/br2.php
 Live Sports 3	`0i3`02bra/br3.php
@@ -575,6 +538,43 @@ Dubai Racing 2	https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.
 Dubai Racing 3	https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/chunklist.m3u8
 USA East	https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd``882c9f5613b43b47adc70aa968a308ce:de534ef8914bfe62ba3cdd6bdb9e1c04
 MY Arena Sports Channels *8	`0i3`012022/12/arena.html
+AR ESPN Premium	`1i3`05espn_premium
+AR Fox Sports 1	`1i3`05fox1ar
+AR Fox Sports 2	`1i3`05fox2ar
+AR Fox Sports 3	`1i3`05fox3ar
+AR TNT Sports	`1i3`05tntsports_argentina
+Caliente	`1i3`05calientetvmx
+CH TNT Sports	`1i3`05tnt_chile
+Claro Sports 1	`1i3`05clarosports1
+Dsports +	`1i3`05dsports_plus
+Dsports 1	`1i3`05dsports
+Dsports 2	`1i3`05dsports_2
+ES DAZN 1	`1i3`05dazn1
+ES DAZN 2	`1i3`05dazn2
+ES DAZN LaLiga	`1i3`05dazn_laliga
+ES Eurosports 1	`1i3`05eurosports1_es
+ES Eurosports 2	`1i3`05eurosports2_es
+ESPN 1	`1i3`05espn1
+ESPN 2	`1i3`05espn2
+ESPN 3	`1i3`05espn3
+ESPN 4	`1i3`05espn4
+ESPN 5	`1i3`05espn5
+ESPN 6	`1i3`05espn6
+ESPN 7	`1i3`05espn7
+ESPN Deportes	`1i3`05espn_deportes
+Fox Deportes USA	`1i3`05fox_deportes_usa
+Fox Sports Premium	`1i3`05foxsportspremium
+GolPeru	`1i3`05golperu
+Liga 1 MAX	`1i3`05l1max
+MX Acteca Deportes	`1i3`05azteca_deportes
+MX ESPN	`1i3`05espnmx
+MX Fox Sports 1	`1i3`05foxsportsmx
+Telefe	`1i3`05telefe
+TUDN USA	`1i3`05tudn_usa
+TV Pública	`1i3`05tv_publica
+TYC Sports	`1i3`05tyc_sports
+Win Sports +	`1i3`05winplus
+Win Sports	`1i3`05winsports
 Event S 01	https://pull.niues.live/live/stream-991140_lhd.m3u8
 Event S 02	https://pull.niues.live/live/stream-9912050_lhd.m3u8
 Event S 03	https://pull.niur.live/live/stream-278654_lhd.m3u8
