@@ -25,7 +25,7 @@
 🌍 International	^^hc^int.m3u
 🇮🇩 Indonesia	^^hc^id.m3u
 {h} Ⓘ 2 iptv-org	^^h2
-Quran Recitations with Translation (English)<br>	^--
+Qur`an Recitations with Translation (English)<br>	^--
 Sûrat Al-Fatihah (The Opening) . 1:28	https://quran.islamway.net/quran3/641/001.mp3
 Sûrat Al-Baqarah (The Cow) . 3:21:30	https://quran.islamway.net/quran3/641/002.mp3
 Sûrat Al-Imran (The Family of Imran) . 2:05:46	https://quran.islamway.net/quran3/641/003.mp3
@@ -140,7 +140,7 @@ Sûrat Al-Masad (The Palm Fibre) . 1:09	https://quran.islamway.net/quran3/641/11
 Sûrat Al-Ikhlas (Sincerity) . 0:41	https://quran.islamway.net/quran3/641/112.mp3
 Sûrat Al-Falaq (The Daybreak) . 0:56	https://quran.islamway.net/quran3/641/113.mp3
 Sûrat An-Nas (Mankind) . 1:17	https://quran.islamway.net/quran3/641/114.mp3
-<br>Quran Recitations with Translation (Melayu)<br>	^--
+<br>Qur`an Recitations with Translation (Melayu)<br>	^--
 Surah Al-Fatihah (Pembukaan) . 1:40	https://archive.org/download/MurotalMR/001.mp3
 Surah Al-Baqarah (Lembu Betina) . 3:54:59	https://archive.org/download/MurotalMR/002.mp3
 Surah Ali 'Imran (Keluarga Imran) . 2:25:58	https://archive.org/download/MurotalMR/003.mp3
