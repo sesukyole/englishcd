@@ -571,7 +571,7 @@ MX ESPN	`1i3`05espnmx
 MX Fox Sports 1	`1i3`05foxsportsmx
 Telefe	`1i3`05telefe
 TUDN USA	`1i3`05tudn_usa
-TV Pública	`1i3`05tv_publica
+TV Publica	`1i3`05tv_publica
 TYC Sports	`1i3`05tyc_sports
 Win Sports +	`1i3`05winplus
 Win Sports	`1i3`05winsports
