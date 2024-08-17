@@ -32,6 +32,8 @@ Ligue 1 Channels *5	`0i3`012024/08/ligafrancis.html
 TR beIN Sports Channels *4	`0i3`012024/03/b1.html
 SA SSC Channels *5	`0i3`012024/03/cicing1.html
 ID Liga 1 Channels *5	`0i3`012024/08/ligaidn.html
+ID Liga 1 A 	`0https://live.sportsnews.id/p/ch2.html
+ID Liga 1 B 	`0https://live.sportsnews.id/p/ch3.html
 MY Liga Super Channels *5	`0i3`012024/08/ligamy.html
 BR Sportv Channels *3	`0i3`012024/08/stv.html
 TNT Sports Channels *4	`0i3`012024/03/ms1.html
@@ -116,6 +118,43 @@ beIN Sports Extra	https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df
 ES Real Madrid ENG	https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
 ES Real Madrid ESP	https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 UK MUTV	https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
+AR ESPN Premium	`0i3`05espn_premium
+AR Fox Sports 1	`0i3`05fox1ar
+AR Fox Sports 2	`0i3`05fox2ar
+AR Fox Sports 3	`0i3`05fox3ar
+AR TNT Sports	`0i3`05tntsports_argentina
+Caliente	`0i3`05calientetvmx
+CH TNT Sports	`0i3`05tnt_chile
+Claro Sports 1	`0i3`05clarosports1
+Dsports +	`0i3`05dsports_plus
+Dsports 1	`0i3`05dsports
+Dsports 2	`0i3`05dsports_2
+ES DAZN 1	`0i3`05dazn1
+ES DAZN 2	`0i3`05dazn2
+ES DAZN LaLiga	`0i3`05dazn_laliga
+ES Eurosports 1	`0i3`05eurosports1_es
+ES Eurosports 2	`0i3`05eurosports2_es
+ESPN 1	`0i3`05espn1
+ESPN 2	`0i3`05espn2
+ESPN 3	`0i3`05espn3
+ESPN 4	`0i3`05espn4
+ESPN 5	`0i3`05espn5
+ESPN 6	`0i3`05espn6
+ESPN 7	`0i3`05espn7
+ESPN Deportes	`0i3`05espn_deportes
+Fox Deportes USA	`0i3`05fox_deportes_usa
+Fox Sports Premium	`0i3`05foxsportspremium
+GolPeru	`0!i3`05golperu
+Liga 1 MAX	`0i3`05l1max
+MX Acteca Deportes	`0i3`05azteca_deportes
+MX ESPN	`0i3`05espnmx
+MX Fox Sports 1	`0i3`05foxsportsmx
+Telefe	`0i3`05telefe
+TUDN USA	`0i3`05tudn_usa
+TV Pública	`0i3`05tv_publica
+TYC Sports	`0i3`05tyc_sports
+Win Sports +	`0i3`05winplus
+Win Sports	`0i3`05winsports
 Live Sports 1	`0i3`02bra/br1.php
 Live Sports 2	`0i3`02bra/br2.php
 Live Sports 3	`0i3`02bra/br3.php
@@ -172,6 +211,7 @@ TR Galatasaray TV	https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist.m3u8
 HRT1	https://webtvstream.bhtelecom.ba/hrt1.m3u8
 HRT2	https://webtvstream.bhtelecom.ba/hrt2.m3u8
 HRT3	https://webtvstream.bhtelecom.ba/hrt3.m3u8
+Sky Open	https://linear-p.media.skyone.co.nz/primeplus1.clear.m3u8?7
 Sky Sport News	01`00blinear030-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_120/Live/channel(skysportsnews)/manifest_720.mpd``00057bfb9cf2fc40b5ed61f9c8a41d54:cb9908093e35e3c3f7db06f55913cce0
 QAZ Sport Premium	https://gameslive.akamaized.net/hls/live-97eee134-2b19-4781-b794-04d3490229e4_720p2800kbs/index.m3u8
 QAZ Sport	01`01dbkm.beetv.kz/btv/live/hls/000003038.m3u8
