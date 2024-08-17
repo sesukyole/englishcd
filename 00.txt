@@ -20,7 +20,6 @@ beIN Sports 3 FR	`0i3`00BEINSPORT3FR
 beIN Sports 1 TR	`0i3`00beINSPORTS1TR
 beIN Sports 2 TR	`0i3`00beINSPORTS2TR
 beIN Sports 3 TR	`0i3`00beINSPORTS3TR
-Sky Sport F1 DE	`0i3`00SkySportF1DE
 Arena ESport	`0i3`012024/03/arenaes.html
 DAZN 1	`0i3`012024/03/ts1.html
 DAZN 2	`0i3`012024/03/ts2.html
@@ -552,6 +551,7 @@ Event 03	https://zbpull3.zyjymall.com/live/93658075241063506404.m3u8
 Event 04	`0https://xlz.plcdn.xyz/ajax/chanel/type/5/link/channel59
 Event 05	`0https://xlz.plcdn.xyz/ajax/chanel/type/1/link/rchtwtx
 Event 06	`0https://xlz.plcdn.xyz/ajax/chanel/type/1/link/jggujqm
-beIN Sports US	`0i3`00beINSPORTSUS
-Sky Sports Cricket UK	`0i3`00skysportscricketuk
 Sky Sport Premier League DE	`0i3`00SkySportPremierLeagueDE
+beIN Sports US	`0i3`00beINSPORTSUS
+Sky Sport F1 DE	`0i3`00SkySportF1DE
+Sky Sports Cricket UK	`0i3`00skysportscricketuk
