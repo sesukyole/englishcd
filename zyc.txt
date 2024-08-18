@@ -25,7 +25,7 @@
 🌍 International	^^hc^int.m3u
 🇮🇩 Indonesia	^^hc^id.m3u
 {h} Ⓘ 2 iptv-org	^^h2
-<br>These Movies are for Mobile Chrome<br>	^--
+<br>These Action Movies are for Mobile Only<br>	^--
 Action Movies A	i3`064332
 Action Movies B	i3`066140589
 Action Movies C	i3`062516864
