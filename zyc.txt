@@ -25,19 +25,20 @@
 🌍 International	^^hc^int.m3u
 🇮🇩 Indonesia	^^hc^id.m3u
 {h} Ⓘ 2 iptv-org	^^h2
-Douyu Movies 8	`0https://epg.112114.xyz/douyu/4332
-Douyu Movies 9	`0https://epg.112114.xyz/douyu/6140589
-Douyu Movies 12	`0https://epg.112114.xyz/douyu/2516864
-Douyu Movies 15	`0https://epg.112114.xyz/douyu/8770422
-Douyu Movies 16	`0https://epg.112114.xyz/douyu/218859
-Douyu Movies 19	`0https://epg.112114.xyz/douyu/747764
-Douyu Movies 20	`0https://epg.112114.xyz/douyu/52787
-Douyu Movies 23	`0https://epg.112114.xyz/douyu/252802
-Douyu Movies 24	`0https://epg.112114.xyz/douyu/36337
-Douyu Movies 25	`0https://epg.112114.xyz/douyu/8814650
-Douyu Movies 26	`0https://epg.112114.xyz/douyu/20415
-Douyu Movies 28	`0https://epg.112114.xyz/douyu/263824
-Douyu Movies 44	`0https://epg.112114.xyz/douyu/323876
-Douyu Movies A	`0https://epg.112114.xyz/douyu/2793084
-Douyu Movies B	`0https://epg.112114.xyz/douyu/6566671
-Douyu Movies C	`0https://epg.112114.xyz/douyu/1226741
+<br>These Movies are for Mobile Chrome<br>	^--
+Action Movies A	i3`064332
+Action Movies B	i3`066140589
+Action Movies C	i3`062516864
+Action Movies D	i3`068770422
+Action Movies E	i3`06218859
+Action Movies F	i3`06747764
+Action Movies G	i3`0652787
+Action Movies H	i3`06252802
+Action Movies I	i3`0636337
+Action Movies J	i3`068814650
+Action Movies K	i3`0620415
+Action Movies L	i3`06263824
+Action Movies M	i3`06323876
+Action Movies N	i3`062793084
+Action Movies O	i3`066566671
+Action Movies P	i3`061226741
