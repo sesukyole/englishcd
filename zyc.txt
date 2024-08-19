@@ -25,6 +25,7 @@
 🌍 International	^^hc^int.m3u
 🇮🇩 Indonesia	^^hc^id.m3u
 {h} Ⓘ 2 iptv-org	^^h2
+CCTV 5+	http://zqjy.info/live.php?id=CCTV5PHD
 <br>These Action Movies are for Mobile Only<br>	^--
 Action Movies A	i3`064332
 Action Movies B	i3`066140589
@@ -42,3 +43,83 @@ Action Movies M	i3`06323876
 Action Movies N	i3`062793084
 Action Movies O	i3`066566671
 Action Movies P	i3`061226741
+{h} * China TV	^^hhttps://raw.github.tax/wwb521/live/main/tv.m3u
+HakkaTV	http://37.27.111.214:8080/live/1/hls.m3u8
+TiTV	http://37.27.111.214:8080/live/2/hls.m3u8
+Formosa A	http://37.27.111.214:8080/live/4/hls.m3u8
+Formosa B	http://37.27.111.214:8080/live/5/hls.m3u8
+Formosa C	http://37.27.111.214:8080/live/6/hls.m3u8
+CTV 1	http://37.27.111.214:8080/live/7/hls.m3u8
+CTS	http://37.27.111.214:8080/live/8/hls.m3u8
+TV Monde Style	http://37.27.111.214:8080/live/9/hls.m3u8
+Asia Travel	http://37.27.111.214:8080/live/10/hls.m3u8
+@Classic	http://37.27.111.214:8080/live/11/hls.m3u8
+Nickelodeon	http://37.27.111.214:8080/live/12/hls.m3u8
+Golf	http://37.27.111.214:8080/live/13/hls.m3u8
+PGA Tour	http://37.27.111.214:8080/live/14/hls.m3u8
+Billiard	http://37.27.111.214:8080/live/15/hls.m3u8
+Tennis	http://37.27.111.214:8080/live/16/hls.m3u8
+LTV 1	http://37.27.111.214:8080/live/19/hls.m3u8
+EBC	http://37.27.111.214:8080/live/20/hls.m3u8
+Nick Jr.	http://37.27.111.214:8080/live/22/hls.m3u8
+TVBS A	http://37.27.111.214:8080/live/23/hls.m3u8
+TVBS B	http://37.27.111.214:8080/live/24/hls.m3u8
+MTV Now Rock Alt. Indie	http://37.27.111.214:8080/live/25/hls.m3u8
+TW TV	http://37.27.111.214:8080/live/26/hls.m3u8
+History	http://37.27.111.214:8080/live/27/hls.m3u8
+HITS	http://37.27.111.214:8080/live/28/hls.m3u8
+Crime Investigation	http://37.27.111.214:8080/live/29/hls.m3u8
+CinemaWorld	http://37.27.111.214:8080/live/30/hls.m3u8
+SET	http://37.27.111.214:8080/live/31/hls.m3u8
+Bloomberg	http://37.27.111.214:8080/live/34/hls.m3u8
+TV Shows	http://37.27.111.214:8080/live/35/hls.m3u8
+rollor	http://37.27.111.214:8080/live/40/hls.m3u8
+LTV 2	http://37.27.111.214:8080/live/41/hls.m3u8
+LTV 3	http://37.27.111.214:8080/live/42/hls.m3u8
+Al Jazeera English	http://37.27.111.214:8080/live/44/hls.m3u8
+VOA	http://37.27.111.214:8080/live/45/hls.m3u8
+DW	http://37.27.111.214:8080/live/46/hls.m3u8
+CTV 2	http://37.27.111.214:8080/live/47/hls.m3u8
+Bravo	http://37.27.111.214:8080/live/48/hls.m3u8
+Arirang	http://37.27.111.214:8080/live/52/hls.m3u8
+Global Trekker	http://37.27.111.214:8080/live/53/hls.m3u8
+Learn English	http://37.27.111.214:8080/live/54/hls.m3u8
+ELTV	http://37.27.111.214:8080/live/56/hls.m3u8
+DreamWorks	http://37.27.111.214:8080/live/57/hls.m3u8
+TV Shows	http://37.27.111.214:8080/live/61/hls.m3u8
+mnews	http://37.27.111.214:8080/live/62/hls.m3u8
+TV Shows	http://37.27.111.214:8080/live/63/hls.m3u8
+TV Shows	http://37.27.111.214:8080/live/64/hls.m3u8
+TV Shows	http://37.27.111.214:8080/live/65/hls.m3u8
+TV Shows	http://37.27.111.214:8080/live/66/hls.m3u8
+CN FTV 1	http://37.27.111.214:8080/live/67/hls.m3u8
+Rock Entertainment	http://37.27.111.214:8080/live/70/hls.m3u8
+Lifetime	http://37.27.111.214:8080/live/71/hls.m3u8
+Stingray cmusic	http://37.27.111.214:8080/live/72/hls.m3u8
+Our Sport	http://37.27.111.214:8080/live/77/hls.m3u8
+TV Shows	http://37.27.111.214:8080/live/78/hls.m3u8
+TechStorm	http://37.27.111.214:8080/live/80/hls.m3u8
+Pet Club	http://37.27.111.214:8080/live/81/hls.m3u8
+CN FTV 2	http://37.27.111.214:8080/live/82/hls.m3u8
+Stingray Festival	http://37.27.111.214:8080/live/83/hls.m3u8
+Love Nature	http://37.27.111.214:8080/live/84/hls.m3u8
+ELTA	http://37.27.111.214:8080/live/85/hls.m3u8
+LUXE	http://37.27.111.214:8080/live/86/hls.m3u8
+TV Shows	http://37.27.111.214:8080/live/87/hls.m3u8
+CN FTV 3	http://37.27.111.214:8080/live/88/hls.m3u8
+Doc DigiChannel	http://37.27.111.214:8080/live/92/hls.m3u8
+TV Shows	http://37.27.111.214:8080/live/93/hls.m3u8
+Rock Action	TV	http://37.27.111.214:8080/live/94/hls.m3u8
+MCE	http://37.27.111.214:8080/live/98/hls.m3u8
+Good 2	http://37.27.111.214:8080/live/99/hls.m3u8
+BLTV	http://37.27.111.214:8080/live/101/hls.m3u8
+CNBC	http://37.27.111.214:8080/live/102/hls.m3u8
+TV Shows	http://37.27.111.214:8080/live/103/hls.m3u8
+TV Shows	http://37.27.111.214:8080/live/104/hls.m3u8
+@Cartoon	http://37.27.111.214:8080/live/105/hls.m3u8
+@Animation	http://37.27.111.214:8080/live/106/hls.m3u8
+@Cartoon	http://37.27.111.214:8080/live/107/hls.m3u8
+@TV Shows	http://37.27.111.214:8080/live/108/hls.m3u8
+@TV Shows	http://37.27.111.214:8080/live/109/hls.m3u8
+@KidsTV	http://37.27.111.214:8080/live/110/hls.m3u8
+@TV Shows	http://37.27.111.214:8080/live/111/hls.m3u8
