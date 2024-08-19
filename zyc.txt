@@ -25,7 +25,6 @@
 🌍 International	^^hc^int.m3u
 🇮🇩 Indonesia	^^hc^id.m3u
 {h} Ⓘ 2 iptv-org	^^h2
-CCTV 5+	http://zqjy.info/live.php?id=CCTV5PHD
 <br>These Action Movies are for Mobile Only<br>	^--
 Action Movies A	i3`064332
 Action Movies B	i3`066140589

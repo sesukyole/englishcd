@@ -73,6 +73,7 @@ ID MQTV	https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
 ID Sakti TV	https://saktitv.siar.us/saktitv/live/playlist.m3u8
 ID UGTV	https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
 ID MIC TV	https://v2.siar.us/mic/live/playlist.m3u8
+Action Movies	https://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=3b64dd17d293b133c58bda21e3147e5b&token=cpn-androidmpro-0-20415-b6774b3b3249db1768f0ac048c5ed218ac54e1f82b04b2bf&logo=0&expire=0
 100%! Space Shower TV Plus	`1https://en.gdplayertv.to/live-tv/space-shower-tv-plus/?embed=1
 A Spor TV	`1https://en.gdplayertv.to/live-tv/a-spor-tv/?embed=1
 A Sports TV	`1https://en.gdplayertv.to/live-tv/a-sports-tv/?embed=1
