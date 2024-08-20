@@ -75,8 +75,6 @@ NO TV 3	01`00blive-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra100/xtra100.isml/index.mpd
 NL NPO 2	https://nlziet-live.akamaized.net/L27/576200ff/17f23d2b.isml/.mpd``cd2e51e9dadd4e38b2b8df5680f7aa43:ce1083c14ed247bbc693bbe6bf0fd36b
 NL NPO 3	https://nlziet-live.akamaized.net/L7/7be0c2b0/358f270a.isml/.mpd``fe20b1562fc045caa0e341cfad93e153:cea73dbdf65c288dbff24ad6af8d535e
 DAZN 1	01`01a6001`01e
-DAZN Eleven League 02	01`01ctvvvideolive3.solocoo.tv:443/blueskytvvlive7dash/blueelevenproleague2nl/Manifest.mpd``16251e842a834570a8c5a34d45a0d64d:b7243739698cad0d58af01f142d13eae
-DAZN Eleven League 03	01`01ctvvvideolive3.solocoo.tv:443/blueskytvvlive7dash/blueelevenproleague3nl/Manifest.mpd``c6455c5a1ad1484fa4029ba498659838:4329fb08c3444a8ae9b3c477efe11002
 ES beIN Sports Xtra	https://bein-esp-xumo.amagi.tv/playlist.m3u8
 ES beIN Sports Xtra	https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
 Betis TV	https://streamer.zapitv.com/betis/index.mpd
@@ -94,8 +92,8 @@ ES Real Madrid ENG	https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/maste
 ES Real Madrid ESP	https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 UK MUTV	https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 Football/Soccer Channels *5	`0i3`032024/07/bl1.html
-Badminton Channels *4	`0i3`032024/07/bwf_28.html
-Basketball Channels *9	`0i3`032024/07/basket.html
+Badminton Channels *3	`0i3`032024/07/bwf_28.html
+Basketball Channels *4	`0i3`032024/07/basket.html
 Formula 1 Channels *4	`0i3`032024/07/jrx6.html
 MotoGP Channels *4	`0i3`032024/07/gp.html
 Volleyball Channels *4	`0i3`032024/07/voli.html
@@ -104,9 +102,6 @@ MY TV Okey	`900`a04smil:okey/manifest.mpd
 MY Sukan RTM TV	`900`a04smil:sukan/manifest.mpd
 BHRT	https://webtvstream.bhtelecom.ba/hls19/bht1.mpd``c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 Mediacorp MeWatch 5	https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd``607b7d22565c4bc3b95ff6c33ce65425:28cc5367df666c44be4382e64af64d57
-ES La1	https://cache3.zapitv.com/live/eds_c2/la1_4k/dash_live_enc/la1_4k.mpd``a3abc44525eef3b0a7af9138a9dbe34a:7740f8ae4223ce5ba293028f7f78f1c1
-ES TDP	https://cache3.zapitv.com/live/eds_c2/teledeporte_hd/dash_live_enc/teledeporte_hd.mpd``1937b8f0dc833e0a8f457240972e440d:8cbb79a6410cc0d0d80d148f282afd95
-ES La2	https://rtvelivestreamv3.akamaized.net/rtvesec/la2/la2_main.m3u8?c
 CA Sportsnet 1	https://live-streaming-rsm.akamaized.net/sn1hd/sn1hd_cenc.isml/.mpd``f9dd2ed9609f49309ddf07892d25b081:c1254109aaff73701fbea97dc1899b8e
 CA Sportsnet World	https://live-streaming-rsm.azureedge.net/snwlh/snwlh_cenc.isml/.mpd``44f6a1e5467d4df7a9da2d1b96ee62ca:157d3d7156dd1b288d661d453dbfc682
 Sport en France	https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
@@ -115,23 +110,53 @@ ESPN 2	https://b.trybrett.shop/espn2.m3u8?c
 ESPN Live	https://b.trybrett.shop/espn3.m3u8?c
 NBC 1	https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc122ycnuy)/master.mpd``0020d88a6713159839743f655c5da7de:ba9f34226301f69a4f0f13f65a1f92ec
 NBC 4	https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/master.mpd``0045a118e231f1326bcdb45350b1ceaa:8c13afbfa54ea37a368b8b859021f6e3
-TRT Spor	https://hw1.jemtv.com/app/trtspor/playlist.m3u8
-TR TV8,5	https://hw1.jemtv.com/app/tv85/chunks.m3u8
-BR BandSports	https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/290/290.m3u8
-SMC 4 Sports	https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 Kuwait Sports	https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/index.m3u8
 Dubai Sports 1	https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
 Dubai Sports 2	https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
 Dubai Sports 3	https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
-Abu Dhabi Sports 2	https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8?c
-Abu Dhabi Sports 1	https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8?c
-JP NHK G	https://vnpt.nekocdn.xyz/b783a989-9e73-4bce-bfa3-9996a9eaa455.m3u8?c
-JP NTV	https://vnpt.nekocdn.xyz/427b3914-a2b4-401b-b5ed-706158d73908.m3u8?c
-JP TV Asahi	https://vnpt.nekocdn.xyz/0fc25793-9d0a-459d-b645-46254bd89616.m3u8?c
+DAZN F1	01`01a1601`01b
+DAZN 1 DE	01`01a1701`01b
+DAZN 2 DE	01`01a1801`01b
+SportDigital Fussball	01`01a2201`01b
+NFL	01`01a2301`01b
+Zona DAZN	01`01a2401`01b
+Milan TV	01`01a2501`01b
+MLB	01`01a2601`01b
+EuroSport 1 DE	01`01a2701`01b
+EuroSport 2 DE	01`01a2801`01b
+EuroSport 1 IT	01`01a2901`01b
+EuroSport 2 IT	01`01a3001`01b
+EuroSport 1 ES	01`01a3101`01b
+EuroSport 2 ES	01`01a3201`01b
+Inter TV	01`01a3301`01b
+DAZN NBA	01`01a3501`01b
+Redbull TV	01`01a3601`01b
+DAZN 1 ES	01`01a3701`01b
+DAZN 2 ES	01`01a3801`01b
+LaLiga Live HyperMotion	01`01a4001`01b
+DAZN LaLiga	01`01a4301`01b
+Unbeaten	01`01a4401`01b
+DAZN 1 US	01`01a4501`01b
+Canal+ Ligue1 Uber Eats	01`01a4601`01b
+DAZN Eleven 1 ES	01`01a4701`01b
+DAZN Eleven 1 ES	01`01a4801`01b
+DAZN Eleven 01	01`01a4901`01b
+DAZN Eleven League 01	01`01a5001`01b
+PlaySports 1	01`01a5101`01b
+PlaySports 2	01`01a5201`01b
+PlaySports 3	01`01a5301`01b
+DAZN Eleven 1	01`01a5401`01b
+DAZN Eleven 2	01`01a5501`01b
+DAZN Eleven 3	01`01a5601`01b
+DAZN Eleven 4	01`01a5701`01b
+DAZN Eleven 5	01`01a5801`01b
+DAZN Eleven 6	01`01a5901`01b
+JP NHK G	https://vnpt.nekocdn.xyz/b783a989-9e73-4bce-bfa3-9996a9eaa455.m3u8?7
+JP NTV	https://vnpt.nekocdn.xyz/427b3914-a2b4-401b-b5ed-706158d73908.m3u8?7
+JP TV Asahi	https://vnpt.nekocdn.xyz/0fc25793-9d0a-459d-b645-46254bd89616.m3u8?7
 ETB 1	https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
 ETB 2	https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
 ETB Eventos	https://multimedia.eitb.eus/live-content/oka1hd-hls/master.m3u8
-A21 Network Russian Motorsport	01`01dautopilot.catcast.tv/content/37909/index.m3u8
 TR Galatasaray TV	https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist.m3u8
 HRT1	https://webtvstream.bhtelecom.ba/hrt1.m3u8
 HRT2	https://webtvstream.bhtelecom.ba/hrt2.m3u8
@@ -339,43 +364,6 @@ Live Sports 5	`0i3`02bra/br5.php
 Live Sports 6	`0i3`02bra/br6.php
 Live Sports 7	`0i3`02bra/br7.php
 Live Sports 8	`0i3`02bra/br8.php
-DAZN F1	01`01a1601`01b
-DAZN 1 DE	01`01a1701`01b
-DAZN 2 DE	01`01a1801`01b
-SportDigital Fussball	01`01a2201`01b
-NFL	01`01a2301`01b
-Zona DAZN	01`01a2401`01b
-Milan TV	01`01a2501`01b
-MLB	01`01a2601`01b
-EuroSport 1 DE	01`01a2701`01b
-EuroSport 2 DE	01`01a2801`01b
-EuroSport 1 IT	01`01a2901`01b
-EuroSport 2 IT	01`01a3001`01b
-EuroSport 1 ES	01`01a3101`01b
-EuroSport 2 ES	01`01a3201`01b
-Inter TV	01`01a3301`01b
-DAZN NBA	01`01a3501`01b
-Redbull TV	01`01a3601`01b
-DAZN 1 ES	01`01a3701`01b
-DAZN 2 ES	01`01a3801`01b
-LaLiga Live HyperMotion	01`01a4001`01b
-DAZN LaLiga	01`01a4301`01b
-Unbeaten	01`01a4401`01b
-DAZN 1 US	01`01a4501`01b
-Canal+ Ligue1 Uber Eats	01`01a4601`01b
-DAZN Eleven 1 ES	01`01a4701`01b
-DAZN Eleven 1 ES	01`01a4801`01b
-DAZN Eleven 01	01`01a4901`01b
-DAZN Eleven League 01	01`01a5001`01b
-PlaySports 1	01`01a5101`01b
-PlaySports 2	01`01a5201`01b
-PlaySports 3	01`01a5301`01b
-DAZN Eleven 1	01`01a5401`01b
-DAZN Eleven 2	01`01a5501`01b
-DAZN Eleven 3	01`01a5601`01b
-DAZN Eleven 4	01`01a5701`01b
-DAZN Eleven 5	01`01a5801`01b
-DAZN Eleven 6	01`01a5901`01b
 V Sport Premium	01`01ddirector.streaming.telia.com/tvm-packager-prod/group1/60896c3647a23d7f115cd57a/manifest.mpd``eab13e69793756eda77d8d71fda90d5d:cd022e9bffa6a0d1523ee5d9fcda9ed4
 V Sport Ultra HD	01`01ddirector.streaming.telia.com/tvm-packager-prod/group3/60b76e87baa9d5ddc9262457/manifest.mpd``c02b1c0a644d5aa4b7176ae585c572dc:5a7799ea89ea65e3bac9a10684e616bc
 V Sport Extra	01`01ddirector.streaming.telia.com/tvm-packager-prod/group3/60ae4f5e1522bd739f6959a1/manifest.mpd``bc972382f04c531983b7aab6bf642ad8:ddfd212680eb891b755610eac5becf85
@@ -576,6 +564,9 @@ MY Arena Sports Channels *8	`0i3`012022/12/arena.html
 AR Fox Sports 2	`1i3`05fox2ar
 AR Fox Sports 3	`1i3`05fox3ar
 AR TNT Sports	`1i3`05tntsports_argentina
+ES La1	https://cache3.zapitv.com/live/eds_c2/la1_4k/dash_live_enc/la1_4k.mpd``a3abc44525eef3b0a7af9138a9dbe34a:7740f8ae4223ce5ba293028f7f78f1c1
+ES TDP	https://cache3.zapitv.com/live/eds_c2/teledeporte_hd/dash_live_enc/teledeporte_hd.mpd``1937b8f0dc833e0a8f457240972e440d:8cbb79a6410cc0d0d80d148f282afd95
+ES La2	https://rtvelivestreamv3.akamaized.net/rtvesec/la2/la2_main.m3u8?7
 Event S 01	https://pull.niues.live/live/stream-991140_lhd.m3u8
 Event S 02	https://pull.niues.live/live/stream-9912050_lhd.m3u8
 Event S 03	https://pull.niur.live/live/stream-278654_lhd.m3u8
@@ -598,3 +589,11 @@ Sky Sport F1 DE	`0i3`00SkySportF1DE
 NBC News	https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/master.mpd``0045a118e231f1326bcdb45350b1ceaa:8c13afbfa54ea37a368b8b859021f6e3
 Sky Sports Cricket UK	`0i3`00skysportscricketuk
 Bally Sports 	`0https://streaming.sportsnews.id/p/ch11.html
+TRT Spor	https://hw1.jemtv.com/app/trtspor/playlist.m3u8?7
+TR TV8,5	https://hw1.jemtv.com/app/tv85/chunks.m3u8?7
+SMC 4 Sports	https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8?7
+Abu Dhabi Sports 1	https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8?7
+Abu Dhabi Sports 2	https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8?7
+Motorsport	01`01dautopilot.catcast.tv/content/37909/index.m3u8?7
+DAZN Eleven League 02	01`01ctvvvideolive3.solocoo.tv:443/blueskytvvlive7dash/blueelevenproleague2nl/Manifest.mpd``16251e842a834570a8c5a34d45a0d64d:b7243739698cad0d58af01f142d13eae
+DAZN Eleven League 03	01`01ctvvvideolive3.solocoo.tv:443/blueskytvvlive7dash/blueelevenproleague3nl/Manifest.mpd``c6455c5a1ad1484fa4029ba498659838:4329fb08c3444a8ae9b3c477efe11002
