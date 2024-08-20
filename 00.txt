@@ -28,20 +28,20 @@ DAZN 2	`0i3`012024/03/ts2.html
 Sky Sport Channels *7	`0i3`012024/08/sky.html
 LaLiga Channels *5	`0i3`012024/08/ligaspanyol.html
 EPL Channels *5	`0i3`012024/08/ligainggris.html
-Liga Serie A Channels *5	`0i3`012024/08/ligaitalia.html
 Bundes Liga Channels *5	`0i3`012024/08/ligajerman.html
 Ligue 1 Channels *5	`0i3`012024/08/ligafrancis.html
+Liga Serie A Channels *3	`0i3`012024/08/ligaitalia.html
 TR beIN Sports Channels *4	`0i3`012024/03/b1.html
 SA SSC Channels *5	`0i3`012024/03/cicing1.html
-ID Liga 1 Channels *5	`0i3`012024/08/ligaidn.html
-ID Liga 1 A 	`0https://live.sportsnews.id/p/ch2.html
-ID Liga 1 B 	`0https://live.sportsnews.id/p/ch3.html
-MY Liga Super Channels *5	`0i3`012024/08/ligamy.html
 BR Sportv Channels *3	`0i3`012024/08/stv.html
 TNT Sports Channels *4	`0i3`012024/03/ms1.html
 Arena Sport Channels *6	`0i3`012024/03/arena1.html
 Arena Sport Premium Channels *3	`0i3`012024/03/arenap1.html
 MY SpoTV Channels *2	`0i3`012024/04/spotv1.html
+ID Liga 1 Channels *2	`0i3`012024/08/ligaidn.html
+ID Liga 1 A 	`0https://live.sportsnews.id/p/ch2.html
+ID Liga 1 B 	`0https://live.sportsnews.id/p/ch3.html
+MY Liga Super Channels *5	`0i3`012024/08/ligamy.html
 MY Sukma Serawak Channels *3	`0i3`012024/05/serawak.html
 TNT Sports 1	https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd``ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
 TNT Sports 2	https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd``6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
@@ -66,17 +66,6 @@ TV 2 Sport 1	https://rikstv-live-scalstrm.telenorcdn.net/live/rikstv/64393bf81db
 NO V Sport 1	https://rikstv-live-scalstrm.telenorcdn.net/live/rikstv/644bb6e91dbc891fd422efc9/manifest.mpd``4d808f2b9a74536cadbd95be141888ed:9dd89f67b8885dc65721a8b1fbeae700
 NO V Sport 2	https://rikstv-live-scalstrm.telenorcdn.net/live/rikstv/644bb6e91dbc891fd422efef/manifest.mpd``0d3ff38c34985fdd81a37567646322b9:6b4504297769acefae2e50920b7c8a77
 NO V Sport 3	https://rikstv-live-scalstrm.telenorcdn.net/live/rikstv/644bb6ea1dbc891fd422f01e/manifest.mpd``fdcb8ee4623458e5832a92801fc723b1:634a67c44b7b7030872043df95c1a55e
-V Sport Premium	01`01ddirector.streaming.telia.com/tvm-packager-prod/group1/60896c3647a23d7f115cd57a/manifest.mpd``eab13e69793756eda77d8d71fda90d5d:cd022e9bffa6a0d1523ee5d9fcda9ed4
-V Sport Ultra HD	01`01ddirector.streaming.telia.com/tvm-packager-prod/group3/60b76e87baa9d5ddc9262457/manifest.mpd``c02b1c0a644d5aa4b7176ae585c572dc:5a7799ea89ea65e3bac9a10684e616bc
-V Sport Extra	01`01ddirector.streaming.telia.com/tvm-packager-prod/group3/60ae4f5e1522bd739f6959a1/manifest.mpd``bc972382f04c531983b7aab6bf642ad8:ddfd212680eb891b755610eac5becf85
-V Sport 1	01`01ddirector.streaming.telia.com/tvm-packager-prod/group1/6089c17d47a23d76645ceaf4/manifest.mpd``04c5eaf62cd75f2d947ab4d621f39256:76967598962e7a7314a2b251e9070725
-TV4 Motor Rally	01`01ddirector.streaming.telia.com/tvm-packager-prod/group1/6089c58f47a23d7ce45cf30f/manifest.mpd``39557d4a1ba75e168fc7b13756084b4d:efe8223510249dc20db097bb814feb41
-TV4 Sportkanalen	01`01ddirector.streaming.telia.com/tvm-packager-prod/group3/60ae4bff1522bd2d466954df/manifest.mpd``a9e0ecea640959c6aec904a1f34934a5:284ea8e5fa0de4bc90c17c21148dbdea
-TV4 Sport Live 1	01`01ddirector.streaming.telia.com/tvm-packager-prod/group1/60896cc147a23d68775cd5c3/manifest.mpd``d094d1401faa5cd29cfb361274629aad:793d3bf7e16e9300c0298fb2b3ba6f68
-TV4 Sport Live 2	01`01ddirector.streaming.telia.com/tvm-packager-prod/group1/60896d1247a23dae065cd5f4/manifest.mpd``d7a1fb185df6505fbc8b63df59c31f55:368257ec8b55026bc42e2de5b60aa737
-TV4 Sport Live 3	01`01ddirector.streaming.telia.com/tvm-packager-prod/group1/60896d3547a23d6bbd5cd609/manifest.mpd``90397fef042351ec88035875ada6d1dd:6edb6ccecf50362a74d647e6ea285365
-TV4 Sport Live 4	01`01ddirector.streaming.telia.com/tvm-packager-prod/group1/60896d5647a23d19495cd627/manifest.mpd``99c9c1d2eff15da09b1b64ed16a17a84:6f7174c7e2d5e07fff7ba012e2e94956
-TV4 Tennis	01`01ddirector.streaming.telia.com/tvm-packager-prod/group2/60ae45e51522bd66f469461b/manifest.mpd``eb4b504ae8015e149965a48cfff9418e:b67881cf246e6c7ef8a3db7491c5b036
 UK ViaPlay Premier League	01`00blive-dash-cdn7-vp.cdn.viaplay.tv/vp/vssp/vssp.isml/index.mpd``d8d0506523d95fc082d6caef60e84979:69992fd2d7b9211d41ecc2243803e87c
 UK ViaPlay Sport 1	01`00blive-dash-cdn7-vp.cdn.viaplay.tv/vp/vpsports1uk/vpsports1uk.isml/index.mpd``4d4ace310f235981bef56897fe94e766:06383cd4cdcc92bb3e83d8ea49245472
 UK ViaPlay Sport 2	01`00blive-dash-cdn7-vp.cdn.viaplay.tv/vp/vpsports2uk/vpsports2uk.isml/index.mpd``6fe6d9cf50835945881cb56a38839fce:213ad868126fd2cb352b189b07b25421
@@ -85,7 +74,7 @@ ViaPlay Extra 12	01`00blive-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra12/xtra12.isml/in
 NO TV 3	01`00blive-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra100/xtra100.isml/index.mpd``b08d9804e8ea51bb8d71fd4bf77c3f5b:b9fe3237a5f11a2a084264074b125c9c
 NL NPO 2	https://nlziet-live.akamaized.net/L27/576200ff/17f23d2b.isml/.mpd``cd2e51e9dadd4e38b2b8df5680f7aa43:ce1083c14ed247bbc693bbe6bf0fd36b
 NL NPO 3	https://nlziet-live.akamaized.net/L7/7be0c2b0/358f270a.isml/.mpd``fe20b1562fc045caa0e341cfad93e153:cea73dbdf65c288dbff24ad6af8d535e
-DAZN 1	01`01a6001`01b
+DAZN 1	01`01a6001`01e
 DAZN Eleven League 02	01`01ctvvvideolive3.solocoo.tv:443/blueskytvvlive7dash/blueelevenproleague2nl/Manifest.mpd``16251e842a834570a8c5a34d45a0d64d:b7243739698cad0d58af01f142d13eae
 DAZN Eleven League 03	01`01ctvvvideolive3.solocoo.tv:443/blueskytvvlive7dash/blueelevenproleague3nl/Manifest.mpd``c6455c5a1ad1484fa4029ba498659838:4329fb08c3444a8ae9b3c477efe11002
 ES beIN Sports Xtra	https://bein-esp-xumo.amagi.tv/playlist.m3u8
@@ -387,6 +376,17 @@ DAZN Eleven 3	01`01a5601`01b
 DAZN Eleven 4	01`01a5701`01b
 DAZN Eleven 5	01`01a5801`01b
 DAZN Eleven 6	01`01a5901`01b
+V Sport Premium	01`01ddirector.streaming.telia.com/tvm-packager-prod/group1/60896c3647a23d7f115cd57a/manifest.mpd``eab13e69793756eda77d8d71fda90d5d:cd022e9bffa6a0d1523ee5d9fcda9ed4
+V Sport Ultra HD	01`01ddirector.streaming.telia.com/tvm-packager-prod/group3/60b76e87baa9d5ddc9262457/manifest.mpd``c02b1c0a644d5aa4b7176ae585c572dc:5a7799ea89ea65e3bac9a10684e616bc
+V Sport Extra	01`01ddirector.streaming.telia.com/tvm-packager-prod/group3/60ae4f5e1522bd739f6959a1/manifest.mpd``bc972382f04c531983b7aab6bf642ad8:ddfd212680eb891b755610eac5becf85
+V Sport 1	01`01ddirector.streaming.telia.com/tvm-packager-prod/group1/6089c17d47a23d76645ceaf4/manifest.mpd``04c5eaf62cd75f2d947ab4d621f39256:76967598962e7a7314a2b251e9070725
+TV4 Motor Rally	01`01ddirector.streaming.telia.com/tvm-packager-prod/group1/6089c58f47a23d7ce45cf30f/manifest.mpd``39557d4a1ba75e168fc7b13756084b4d:efe8223510249dc20db097bb814feb41
+TV4 Sportkanalen	01`01ddirector.streaming.telia.com/tvm-packager-prod/group3/60ae4bff1522bd2d466954df/manifest.mpd``a9e0ecea640959c6aec904a1f34934a5:284ea8e5fa0de4bc90c17c21148dbdea
+TV4 Sport Live 1	01`01ddirector.streaming.telia.com/tvm-packager-prod/group1/60896cc147a23d68775cd5c3/manifest.mpd``d094d1401faa5cd29cfb361274629aad:793d3bf7e16e9300c0298fb2b3ba6f68
+TV4 Sport Live 2	01`01ddirector.streaming.telia.com/tvm-packager-prod/group1/60896d1247a23dae065cd5f4/manifest.mpd``d7a1fb185df6505fbc8b63df59c31f55:368257ec8b55026bc42e2de5b60aa737
+TV4 Sport Live 3	01`01ddirector.streaming.telia.com/tvm-packager-prod/group1/60896d3547a23d6bbd5cd609/manifest.mpd``90397fef042351ec88035875ada6d1dd:6edb6ccecf50362a74d647e6ea285365
+TV4 Sport Live 4	01`01ddirector.streaming.telia.com/tvm-packager-prod/group1/60896d5647a23d19495cd627/manifest.mpd``99c9c1d2eff15da09b1b64ed16a17a84:6f7174c7e2d5e07fff7ba012e2e94956
+TV4 Tennis	01`01ddirector.streaming.telia.com/tvm-packager-prod/group2/60ae45e51522bd66f469461b/manifest.mpd``eb4b504ae8015e149965a48cfff9418e:b67881cf246e6c7ef8a3db7491c5b036
 Sport TV 1	`0i3`02pt/sporttv1.php
 Sport TV 2	`0i3`02pt/sporttv2.php
 Sport TV 3	`0i3`02pt/sporttv3.php
