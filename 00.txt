@@ -595,5 +595,6 @@ Event 06	`0https://xlz.plcdn.xyz/ajax/chanel/type/1/link/jggujqm
 Sky Sport Premier League DE	`0i3`00SkySportPremierLeagueDE
 beIN Sports US	`0i3`00beINSPORTSUS
 Sky Sport F1 DE	`0i3`00SkySportF1DE
+NBC News	https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/master.mpd``0045a118e231f1326bcdb45350b1ceaa:8c13afbfa54ea37a368b8b859021f6e3
 Sky Sports Cricket UK	`0i3`00skysportscricketuk
 Bally Sports 	`0https://streaming.sportsnews.id/p/ch11.html
