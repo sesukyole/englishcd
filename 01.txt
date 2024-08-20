@@ -149,7 +149,7 @@ Flow Caribe	https://stream.ads.ottera.tv/playlist.m3u8?network_id=1083
 Gravitas Movies	https://ddniyunj92pl0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2amrzf32ny10z/playlist.m3u8
 Haz Clic!	https://stream.ads.ottera.tv/playlist.m3u8?network_id=4310
 ITV Deportes	https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010
-ES Mundo PequeÃ±o	https://stream.ads.ottera.tv/playlist.m3u8?network_id=3366
+ES Mundo Pequeño	https://stream.ads.ottera.tv/playlist.m3u8?network_id=3366
 Novelas Turcas	https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088
 Novelisima	https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
 Planeta de Aventuras	https://stream.ads.ottera.tv/playlist.m3u8?network_id=4311
@@ -162,7 +162,7 @@ Sony Canal Novelas	https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-
 Tierra De Amor y Venganza	https://stream.ads.ottera.tv/playlist.m3u8?network_id=1080
 Toon Goggles en Espanol	https://stream.ads.ottera.tv/playlist.m3u8?network_id=771
 Tu Pop Favorito	https://stream.ads.ottera.tv/playlist.m3u8?network_id=1086
-Zona de AcciÃ³n	https://stream.ads.ottera.tv/playlist.m3u8?network_id=4312
+Zona de Acción	https://stream.ads.ottera.tv/playlist.m3u8?network_id=4312
 Cinema One	https://cinemaone-abscbn-ono.amagi.tv/index.m3u8?c
 RTB SukmaIndera	https://d1211whpimeups.cloudfront.net/smil:rtb1/chunklist.m3u8
 RTB Aneka Go	https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
