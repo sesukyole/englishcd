@@ -28,8 +28,6 @@ DAZN 2	`0i3`012024/03/ts2.html
 ID Liga 1 Channels *2	`0i3`012024/08/ligaidn.html
 ID Liga 1 A 	`0https://live.sportsnews.id/p/ch2.html
 ID Liga 1 B 	`0https://live.sportsnews.id/p/ch3.html
-MY Liga Super Channels *5	`0i3`012024/08/ligamy.html
-MY Sukma Serawak Channels *3	`0i3`012024/05/serawak.html
 TNT Sports 1	https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd``ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
 TNT Sports 2	https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd``6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
 TNT Sports 3	https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd``4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
@@ -78,12 +76,6 @@ beIN Sports Extra	https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df
 ES Real Madrid ENG	https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
 ES Real Madrid ESP	https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 UK MUTV	https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
-Football/Soccer Channels *5	`0i3`032024/07/bl1.html
-Badminton Channels *3	`0i3`032024/07/bwf_28.html
-Basketball Channels *4	`0i3`032024/07/basket.html
-Formula 1 Channels *4	`0i3`032024/07/jrx6.html
-MotoGP Channels *4	`0i3`032024/07/gp.html
-Volleyball Channels *4	`0i3`032024/07/voli.html
 RTB Aneka Go	https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
 MY TV Okey	`900`a04smil:okey/manifest.mpd
 MY Sukan RTM TV	`900`a04smil:sukan/manifest.mpd
@@ -547,7 +539,6 @@ Dubai Racing 1	https://dmisvthvll.cdn.mgmlcdn.com/events/smil:events.stream.smil
 Dubai Racing 2	https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8
 Dubai Racing 3	https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/chunklist.m3u8
 USA East	https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd``882c9f5613b43b47adc70aa968a308ce:de534ef8914bfe62ba3cdd6bdb9e1c04
-MY Arena Sports Channels *8	`0i3`012022/12/arena.html
 AR Fox Sports 2	`1i3`05fox2ar
 AR Fox Sports 3	`1i3`05fox3ar
 AR TNT Sports	`1i3`05tntsports_argentina

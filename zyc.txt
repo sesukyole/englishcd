@@ -43,6 +43,28 @@ Action Movies N	i3`062793084
 Action Movies O	i3`066566671
 Action Movies P	i3`061226741
 {h} * China TV	^^hhttps://raw.github.tax/wwb521/live/main/tv.m3u
+Arena Sport Channels *6	`0i3`012024/03/arena1.html
+Arena Sport Premium Channels *3	`0i3`012024/03/arenap1.html
+Badminton Channels *3	`0i3`032024/07/bwf_28.html
+Basketball Channels *4	`0i3`032024/07/basket.html
+BR Sportv Channels *3	`0i3`012024/08/stv.html
+Bundes Liga Channels *5	`0i3`012024/08/ligajerman.html
+EPL Channels *5	`0i3`012024/08/ligainggris.html
+Football/Soccer Channels *5	`0i3`032024/07/bl1.html
+Formula 1 Channels *4	`0i3`032024/07/jrx6.html
+LaLiga Channels *5	`0i3`012024/08/ligaspanyol.html
+Liga Serie A Channels *3	`0i3`012024/08/ligaitalia.html
+Ligue 1 Channels *5	`0i3`012024/08/ligafrancis.html
+MotoGP Channels *4	`0i3`032024/07/gp.html
+MY Arena Sports Channels *8	`0i3`012022/12/arena.html
+MY Liga Super Channels *5	`0i3`012024/08/ligamy.html
+MY SpoTV Channels *2	`0i3`012024/04/spotv1.html
+MY Sukma Serawak Channels *3	`0i3`012024/05/serawak.html
+SA SSC Channels *5	`0i3`012024/03/cicing1.html
+Sky Sport Channels *7	`0i3`012024/08/sky.html
+TNT Sports Channels *4	`0i3`012024/03/ms1.html
+TR beIN Sports Channels *4	`0i3`012024/03/b1.html
+Volleyball Channels *4	`0i3`032024/07/voli.html
 HakkaTV	http://37.27.111.214:8080/live/1/hls.m3u8
 TiTV	http://37.27.111.214:8080/live/2/hls.m3u8
 Formosa A	http://37.27.111.214:8080/live/4/hls.m3u8
