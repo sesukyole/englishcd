@@ -89,10 +89,23 @@ ESPN 2	https://b.trybrett.shop/espn2.m3u8?c
 ESPN Live	https://b.trybrett.shop/espn3.m3u8?c
 NBC 1	https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc122ycnuy)/master.mpd``0020d88a6713159839743f655c5da7de:ba9f34226301f69a4f0f13f65a1f92ec
 NBC 4	https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/master.mpd``0045a118e231f1326bcdb45350b1ceaa:8c13afbfa54ea37a368b8b859021f6e3
+NBC News	https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/master.mpd``0045a118e231f1326bcdb45350b1ceaa:8c13afbfa54ea37a368b8b859021f6e3
 Kuwait Sports	https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/index.m3u8
+SMC 4 Sports	https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 Dubai Sports 1	https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
 Dubai Sports 2	https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
 Dubai Sports 3	https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
+V Sport Premium	01`01ddirector.streaming.telia.com/tvm-packager-prod/group1/60896c3647a23d7f115cd57a/manifest.mpd``eab13e69793756eda77d8d71fda90d5d:cd022e9bffa6a0d1523ee5d9fcda9ed4
+V Sport Ultra HD	01`01ddirector.streaming.telia.com/tvm-packager-prod/group3/60b76e87baa9d5ddc9262457/manifest.mpd``c02b1c0a644d5aa4b7176ae585c572dc:5a7799ea89ea65e3bac9a10684e616bc
+V Sport Extra	01`01ddirector.streaming.telia.com/tvm-packager-prod/group3/60ae4f5e1522bd739f6959a1/manifest.mpd``bc972382f04c531983b7aab6bf642ad8:ddfd212680eb891b755610eac5becf85
+V Sport 1	01`01ddirector.streaming.telia.com/tvm-packager-prod/group1/6089c17d47a23d76645ceaf4/manifest.mpd``04c5eaf62cd75f2d947ab4d621f39256:76967598962e7a7314a2b251e9070725
+TV4 Motor Rally	01`01ddirector.streaming.telia.com/tvm-packager-prod/group1/6089c58f47a23d7ce45cf30f/manifest.mpd``39557d4a1ba75e168fc7b13756084b4d:efe8223510249dc20db097bb814feb41
+TV4 Sportkanalen	01`01ddirector.streaming.telia.com/tvm-packager-prod/group3/60ae4bff1522bd2d466954df/manifest.mpd``a9e0ecea640959c6aec904a1f34934a5:284ea8e5fa0de4bc90c17c21148dbdea
+TV4 Sport Live 1	01`01ddirector.streaming.telia.com/tvm-packager-prod/group1/60896cc147a23d68775cd5c3/manifest.mpd``d094d1401faa5cd29cfb361274629aad:793d3bf7e16e9300c0298fb2b3ba6f68
+TV4 Sport Live 2	01`01ddirector.streaming.telia.com/tvm-packager-prod/group1/60896d1247a23dae065cd5f4/manifest.mpd``d7a1fb185df6505fbc8b63df59c31f55:368257ec8b55026bc42e2de5b60aa737
+TV4 Sport Live 3	01`01ddirector.streaming.telia.com/tvm-packager-prod/group1/60896d3547a23d6bbd5cd609/manifest.mpd``90397fef042351ec88035875ada6d1dd:6edb6ccecf50362a74d647e6ea285365
+TV4 Sport Live 4	01`01ddirector.streaming.telia.com/tvm-packager-prod/group1/60896d5647a23d19495cd627/manifest.mpd``99c9c1d2eff15da09b1b64ed16a17a84:6f7174c7e2d5e07fff7ba012e2e94956
+TV4 Tennis	01`01ddirector.streaming.telia.com/tvm-packager-prod/group2/60ae45e51522bd66f469461b/manifest.mpd``eb4b504ae8015e149965a48cfff9418e:b67881cf246e6c7ef8a3db7491c5b036
 DAZN F1	01`01a1601`01b
 DAZN 1 DE	01`01a1701`01b
 DAZN 2 DE	01`01a1801`01b
@@ -130,6 +143,9 @@ DAZN Eleven 3	01`01a5601`01b
 DAZN Eleven 4	01`01a5701`01b
 DAZN Eleven 5	01`01a5801`01b
 DAZN Eleven 6	01`01a5901`01b
+DAZN Eleven League 02	01`01ctvvvideolive3.solocoo.tv:443/blueskytvvlive7dash/blueelevenproleague2nl/Manifest.mpd``16251e842a834570a8c5a34d45a0d64d:b7243739698cad0d58af01f142d13eae
+DAZN Eleven League 03	01`01ctvvvideolive3.solocoo.tv:443/blueskytvvlive7dash/blueelevenproleague3nl/Manifest.mpd``c6455c5a1ad1484fa4029ba498659838:4329fb08c3444a8ae9b3c477efe11002
+Bally Sports 	`0https://streaming.sportsnews.id/p/ch11.html
 JP NHK G	https://vnpt.nekocdn.xyz/b783a989-9e73-4bce-bfa3-9996a9eaa455.m3u8
 JP NTV	https://vnpt.nekocdn.xyz/427b3914-a2b4-401b-b5ed-706158d73908.m3u8
 JP TV Asahi	https://vnpt.nekocdn.xyz/0fc25793-9d0a-459d-b645-46254bd89616.m3u8
@@ -140,8 +156,11 @@ TR Galatasaray TV	https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist.m3u8
 HRT1	https://webtvstream.bhtelecom.ba/hrt1.m3u8
 HRT2	https://webtvstream.bhtelecom.ba/hrt2.m3u8
 HRT3	https://webtvstream.bhtelecom.ba/hrt3.m3u8
+Ziggo Sport 3	01`01ccdsvideolive3.solocoo.tv/blueskycdslive7dash/blueziggosportgolf/Manifest.mpd``bb4b78ef397646e3ae5f13bdb23d56ed:c1247a942c7126443a93214c67431fe8
+Formula 1	`0i3`04f1.php
 Sky Open	https://linear-p.media.skyone.co.nz/primeplus1.clear.m3u8
 Sky Sport News	01`00blinear030-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_120/Live/channel(skysportsnews)/manifest_720.mpd``00057bfb9cf2fc40b5ed61f9c8a41d54:cb9908093e35e3c3f7db06f55913cce0
+Sky Sports Cricket UK	`0i3`00skysportscricketuk
 QAZ Sport Premium	https://gameslive.akamaized.net/hls/live-97eee134-2b19-4781-b794-04d3490229e4_720p2800kbs/index.m3u8
 QAZ Sport	01`01dbkm.beetv.kz/btv/live/hls/000003038.m3u8
 Go3 Sport 1	01`01dcdnlb.tvplayhome.lt/live/eds/TV3_Sport_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport_HD_HVC.mpd``610ad79e26a84fc782c987455e21a86b:d2d4acc6e79447b55f3f5c0267af06f5
@@ -219,6 +238,7 @@ BEK Sports West	https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPR
 MAVTV	https://d70mb4nkspm3g.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vvwqo3j029lz0/playlist.m3u8
 Fite TV	https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
 MTRSPT 1	01`01dcdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-samsungau/playlist.m3u8
+Motorsport	01`01dautopilot.catcast.tv/content/37909/index.m3u8
 Motorvision	https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 Motorvision	01`01dcdn-apse1-prod.tsv2.amagi.tv/linear/amg01329-otterainc-motorvisionnz-samsungnz/playlist.m3u8
 PFL MMA	https://d856dff4.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsLWdiX1BGTE1NQV9ITFM/22e27f77-d243-40b2-9dd3-cb6efe6e61a0/5.m3u8
@@ -235,6 +255,8 @@ US Matchroom 1	https://dcj-ak-livedazn.akamaized.net/dash/dazn-linear-515/stream
 US Matchroom 2	https://dcj-ak-livedazn.akamaized.net/dash/dazn-linear-516/stream.mpd``cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
 US Motor Stories	https://dcj-ak-livedazn.akamaized.net/dash/dazn-linear-518/stream.mpd``cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
 US SportStak	https://dcj-ak-livedazn.akamaized.net/dash/dazn-linear-520/stream.mpd``cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
+Telemundo PR	https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+Telemundo USA	https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
 Billiard	https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
 GT Azteca	https://ch1-tva.duin.dev/hls/stream.m3u8
 GT A Mas	https://ch2-tva.duin.dev/hls/stream.m3u8
@@ -246,7 +268,6 @@ Setanta Sports 1b	01`01dtr.live.cdn.cgates.lt/live/dash/561002/index.mpd``8ab233
 Viju+ Sport	01`01dbkm.beetv.kz/btv/live/hls/000000135.m3u8
 HU Match 4	01`01cm7huvideolive.solocoo.tv/blueskylive2dash/bluedigisport1hu/Manifest.mpd``36d6377bb94b43a58af1c415ac686f4b:82fcba8160b4f88948cd3268bb330dbf
 Pro TV	01`01cm7rovideolive.solocoo.tv/blueskylivedash/blueprotv/Manifest.mpd``889750ca612844cfabc4073989befa3e:c188729c59e29bedafc1cbedaa107abb
-Ziggo Sport 3	01`01ccdsvideolive3.solocoo.tv/blueskycdslive7dash/blueziggosportgolf/Manifest.mpd``bb4b78ef397646e3ae5f13bdb23d56ed:c1247a942c7126443a93214c67431fe8
 BE RTL Sports	01`01ctvvvideolive3.solocoo.tv/blueskytvvlive7dash/bluertlclubhd/Manifest.mpd``0993fbc9c0f242e8bab9483484ff974e:08d3d32f7efefb22a7a865f81b5c8276
 Belarus 24	https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
 Belarus 1	https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8
@@ -254,6 +275,29 @@ Belarus 2	https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8
 Belarus 3	https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8
 Belarus 5	https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
 Belarus 5 Int	https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8
+Live Sports HD 1	`0i3`02hd/hd1.php
+Live Sports HD 2	`0i3`02hd/hd2.php
+Live Sports HD 3	`0i3`02hd/hd3.php
+Live Sports HD 4	`0i3`02hd/hd4.php
+Live Sports HD 5	`0i3`02hd/hd5.php
+Live Sports HD 6	`0i3`02hd/hd6.php
+Live Sports HD 7	`0i3`02hd/hd7.php
+Live Sports HD 8	`0i3`02hd/hd8.php
+Live Sports HD 9	`0i3`02hd/hd9.php
+Live Sports HD 10	`0i3`02hd/hd10.php
+Live Sports HD 11	`0i3`02hd/hd11.php
+PT Eleven Sports 1	`0i3`02pt/eleven1.php
+PT Eleven Sports 2	`0i3`02pt/eleven1.php
+PT Eleven Sports 3	`0i3`02pt/eleven1.php
+PT Benefica	`0i3`02pt/btv.php
+Live Sports 1	`0i3`02bra/br1.php
+Live Sports 2	`0i3`02bra/br2.php
+Live Sports 3	`0i3`02bra/br3.php
+Live Sports 4	`0i3`02bra/br4.php
+Live Sports 5	`0i3`02bra/br5.php
+Live Sports 6	`0i3`02bra/br6.php
+Live Sports 7	`0i3`02bra/br7.php
+Live Sports 8	`0i3`02bra/br8.php
 Premiere 1 BR	https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/4zkafrcxji/out/v1/810ebca1aff0443da717da4acdeda158/cenc.mpd``d98239180d8380b3a1bb28d875b1ddf2:cf836ced579257d1c76ae8809818e6c4
 Premiere 2 BR	https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/pgub1bh7o9/out/v1/7a59226197644bfaa2b00f488bd95288/cenc.mpd``fd2e8019f37211ca8b78a8b656f1b83a:273189c214e85b43ac36298d1c422330
 Premiere 3 BR	https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/8ci7l7dt0d/out/v1/98fe69f2cdc041388004305e63353268/cenc.mpd``9547f9aead1237c8a3b1bf0a91ed9995:534fab4541fef31921dd970c65d51848
@@ -262,10 +306,10 @@ Premiere 5 BR	https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/en
 Premiere 6 BR	https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/cydwktwhqj/out/v1/c6e2919fe4e04a73935691f8284a4afe/cenc.mpd``05cedc366ce4ec735ee4b33fcefbf01f:475d6dd40eaba6896e02b26a6cf34d95
 Premiere 7 BR	https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/wczqphrl5k/out/v1/7a20b4be236a4a9484fdf5cdfcbe79d5/cenc.mpd``7ce96e01eee54fb77e5cc4e7b753d6b0:184f94303d3357b9a7381ccdeee9b611
 Premiere 8 BR	https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/dabubydklo/out/v1/c272f10312ac4e81bcf2183509703dd1/cenc.mpd``7ba384f9d983c731ab1e3702c16e2faf:f28adca4375e8a041fd22aef26440009
-Mola 1	https://live.mocdn.tv/out/v1/678ab9a54d9844568af751dcaf418d97/manifest_L1.mpd``3e17c3798a294c49b93c1b2ddbcd8f29:0917fa8c9cf68c206efc24946d0c22cc
-Mola 2	https://live.mocdn.tv/out/v1/664dce1a02dd4cd7a748d6eb9b719425/manifest_L1.mpd``3e17c3798a294c49b93c1b2ddbcd8f29:0917fa8c9cf68c206efc24946d0c22cc
-Mola 3	https://live.mocdn.tv/out/v1/9e8f191625804cc5b78af9fca0e78aec/manifest_L1.mpd``3e17c3798a294c49b93c1b2ddbcd8f29:0917fa8c9cf68c206efc24946d0c22cc
-Mola 4	https://live.mocdn.tv/out/v1/0f558211487c4531ba911feca2036bb3/manifest_L1.mpd``3e17c3798a294c49b93c1b2ddbcd8f29:0917fa8c9cf68c206efc24946d0c22cc
+Mola 1	https://live.mocdn.tv/out/v1/0f558211487c4531ba911feca2036bb3/manifest_L1.mpd``3e17c3798a294c49b93c1b2ddbcd8f29:0917fa8c9cf68c206efc24946d0c22cc
+Mola 2	https://live.mocdn.tv/out/v1/678ab9a54d9844568af751dcaf418d97/manifest_L1.mpd``3e17c3798a294c49b93c1b2ddbcd8f29:0917fa8c9cf68c206efc24946d0c22cc
+Mola 3	https://live.mocdn.tv/out/v1/664dce1a02dd4cd7a748d6eb9b719425/manifest_L1.mpd``3e17c3798a294c49b93c1b2ddbcd8f29:0917fa8c9cf68c206efc24946d0c22cc
+Mola 4	https://live.mocdn.tv/out/v1/9e8f191625804cc5b78af9fca0e78aec/manifest_L1.mpd``3e17c3798a294c49b93c1b2ddbcd8f29:0917fa8c9cf68c206efc24946d0c22cc
 Mola 5	https://live.mocdn.tv/out/v1/e3b6cb27892d4466a522bf43fe92da1a/manifest_L1.mpd``3e17c3798a294c49b93c1b2ddbcd8f29:0917fa8c9cf68c206efc24946d0c22cc
 Mola 6	https://live.mocdn.tv/out/v1/f617293796134126b93ff1fea65c8255/manifest_L1.mpd``3e17c3798a294c49b93c1b2ddbcd8f29:0917fa8c9cf68c206efc24946d0c22cc
 Mola 7	https://live.mocdn.tv/out/v1/2e1d1b597e5345b59edc803895bad88b/manifest_L1.mpd``3e17c3798a294c49b93c1b2ddbcd8f29:0917fa8c9cf68c206efc24946d0c22cc
@@ -274,26 +318,20 @@ Mola 9	https://live.mocdn.tv/out/v1/a2f7dfe1378940dfa09879b845d07ca1/manifest_L1
 Mola 10	https://live.mocdn.tv/out/v1/d89b099c972e4f47bf736e8a9b602f16/manifest_L1.mpd``3e17c3798a294c49b93c1b2ddbcd8f29:0917fa8c9cf68c206efc24946d0c22cc
 Mola 11	https://live.mocdn.tv/out/v1/0bea17259d5e491d8562b68edf850af5/manifest_L1.mpd``3e17c3798a294c49b93c1b2ddbcd8f29:0917fa8c9cf68c206efc24946d0c22cc
 Mola 12	https://live.mocdn.tv/out/v1/f652f46af7114b4a9be234af2050b095/manifest_L1.mpd``3e17c3798a294c49b93c1b2ddbcd8f29:0917fa8c9cf68c206efc24946d0c22cc
-Formula 1	`0i3`04f1.php
-MotoGP Racing	`0i3`04moto.php
-Sports Live 1	`0i3`04ch1.php
-Sports Live 2	`0i3`04ch2.php
-Sports Live 3	`0i3`04ch3.php
-Boxing 1	`0i3`04box1.php
-Boxing 2	`0i3`04box2.php
-UFC	`0i3`04ufc.php
 UFC	https://live.mocdn.tv/out/v1/e3b6cb27892d4466a522bf43fe92da1a/manifest_L1.mpd``3e17c3798a294c49b93c1b2ddbcd8f29:0917fa8c9cf68c206efc24946d0c22cc
 LIVE SPL 01	https://tglmp04.akamaized.net/out/v1/6ec3ff8c3b5649249f9c8a6e2651195a/manifest.mpd``f5158194cc4044e699d0df01772f2212:072e611a383a2d1e3d4d8ea19e016a71
 LIVE SPL 02	https://tglmp02.akamaized.net/out/v1/06bffdc183074130a6faf73d04502eaa/manifest.mpd``deb6c84db4dc4578bdaa61e965b3424c:b2e6fff24da67654af548fe61aa6bd5a
-Telemundo PR	https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 AR ESPN Premium	`1i3`05espn_premium
 AR Fox Sports 1	`1i3`05fox1ar
+AR Fox Sports 2	`1i3`05fox2ar
+AR Fox Sports 3	`1i3`05fox3ar
+AR TNT Sports	`1i3`05tntsports_argentina
 Caliente	`1i3`05calientetvmx
 CH TNT Sports	`1i3`05tnt_chile
 Claro Sports 1	`1i3`05clarosports1
+Dsports +	`1i3`05dsports_plus
 Dsports 1	`1i3`05dsports
 Dsports 2	`1i3`05dsports_2
-Dsports +	`1i3`05dsports_plus
 ES DAZN 1	`1i3`05dazn1
 ES DAZN 2	`1i3`05dazn2
 ES DAZN LaLiga	`1i3`05dazn_laliga
@@ -318,42 +356,8 @@ Telefe	`1i3`05telefe
 TUDN USA	`1i3`05tudn_usa
 TV Pública	`1i3`05tv_publica
 TYC Sports	`1i3`05tyc_sports
-Win Sports	`1i3`05winsports
 Win Sports +	`1i3`05winplus
-Live Sports HD 1	`0i3`02hd/hd1.php
-Live Sports HD 2	`0i3`02hd/hd2.php
-Live Sports HD 3	`0i3`02hd/hd3.php
-Live Sports HD 4	`0i3`02hd/hd4.php
-Live Sports HD 5	`0i3`02hd/hd5.php
-Live Sports HD 6	`0i3`02hd/hd6.php
-Live Sports HD 7	`0i3`02hd/hd7.php
-Live Sports HD 8	`0i3`02hd/hd8.php
-Live Sports HD 9	`0i3`02hd/hd9.php
-Live Sports HD 10	`0i3`02hd/hd10.php
-Live Sports HD 11	`0i3`02hd/hd11.php
-PT Eleven Sports 1	`0i3`02pt/eleven1.php
-PT Eleven Sports 2	`0i3`02pt/eleven1.php
-PT Eleven Sports 3	`0i3`02pt/eleven1.php
-PT Benefica	`0i3`02pt/btv.php
-Live Sports 1	`0i3`02bra/br1.php
-Live Sports 2	`0i3`02bra/br2.php
-Live Sports 3	`0i3`02bra/br3.php
-Live Sports 4	`0i3`02bra/br4.php
-Live Sports 5	`0i3`02bra/br5.php
-Live Sports 6	`0i3`02bra/br6.php
-Live Sports 7	`0i3`02bra/br7.php
-Live Sports 8	`0i3`02bra/br8.php
-V Sport Premium	01`01ddirector.streaming.telia.com/tvm-packager-prod/group1/60896c3647a23d7f115cd57a/manifest.mpd``eab13e69793756eda77d8d71fda90d5d:cd022e9bffa6a0d1523ee5d9fcda9ed4
-V Sport Ultra HD	01`01ddirector.streaming.telia.com/tvm-packager-prod/group3/60b76e87baa9d5ddc9262457/manifest.mpd``c02b1c0a644d5aa4b7176ae585c572dc:5a7799ea89ea65e3bac9a10684e616bc
-V Sport Extra	01`01ddirector.streaming.telia.com/tvm-packager-prod/group3/60ae4f5e1522bd739f6959a1/manifest.mpd``bc972382f04c531983b7aab6bf642ad8:ddfd212680eb891b755610eac5becf85
-V Sport 1	01`01ddirector.streaming.telia.com/tvm-packager-prod/group1/6089c17d47a23d76645ceaf4/manifest.mpd``04c5eaf62cd75f2d947ab4d621f39256:76967598962e7a7314a2b251e9070725
-TV4 Motor Rally	01`01ddirector.streaming.telia.com/tvm-packager-prod/group1/6089c58f47a23d7ce45cf30f/manifest.mpd``39557d4a1ba75e168fc7b13756084b4d:efe8223510249dc20db097bb814feb41
-TV4 Sportkanalen	01`01ddirector.streaming.telia.com/tvm-packager-prod/group3/60ae4bff1522bd2d466954df/manifest.mpd``a9e0ecea640959c6aec904a1f34934a5:284ea8e5fa0de4bc90c17c21148dbdea
-TV4 Sport Live 1	01`01ddirector.streaming.telia.com/tvm-packager-prod/group1/60896cc147a23d68775cd5c3/manifest.mpd``d094d1401faa5cd29cfb361274629aad:793d3bf7e16e9300c0298fb2b3ba6f68
-TV4 Sport Live 2	01`01ddirector.streaming.telia.com/tvm-packager-prod/group1/60896d1247a23dae065cd5f4/manifest.mpd``d7a1fb185df6505fbc8b63df59c31f55:368257ec8b55026bc42e2de5b60aa737
-TV4 Sport Live 3	01`01ddirector.streaming.telia.com/tvm-packager-prod/group1/60896d3547a23d6bbd5cd609/manifest.mpd``90397fef042351ec88035875ada6d1dd:6edb6ccecf50362a74d647e6ea285365
-TV4 Sport Live 4	01`01ddirector.streaming.telia.com/tvm-packager-prod/group1/60896d5647a23d19495cd627/manifest.mpd``99c9c1d2eff15da09b1b64ed16a17a84:6f7174c7e2d5e07fff7ba012e2e94956
-TV4 Tennis	01`01ddirector.streaming.telia.com/tvm-packager-prod/group2/60ae45e51522bd66f469461b/manifest.mpd``eb4b504ae8015e149965a48cfff9418e:b67881cf246e6c7ef8a3db7491c5b036
+Win Sports	`1i3`05winsports
 Sport TV 1	`0i3`02pt/sporttv1.php
 Sport TV 2	`0i3`02pt/sporttv2.php
 Sport TV 3	`0i3`02pt/sporttv3.php
@@ -372,6 +376,13 @@ SK Arena Sport 2	https://dash2.antik.sk/stream/hisi_as2/playlist_cbcs.mpd``11223
 SK Nova Sport 1	https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd``11223344556677889900112233445566:11223344556677889900112233445566
 SK Nova Sport 2	https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd``11223344556677889900112233445566:11223344556677889900112233445566
 SK JOJ Sport	https://dash2.antik.sk/stream/nvidia_joj_sport/playlist_cenc.mpd``11223344556677889900112233445566:11223344556677889900112233445566
+MotoGP Racing	`0i3`04moto.php
+Sports Live 1	`0i3`04ch1.php
+Sports Live 2	`0i3`04ch2.php
+Sports Live 3	`0i3`04ch3.php
+Boxing 1	`0i3`04box1.php
+Boxing 2	`0i3`04box2.php
+UFC	`0i3`04ufc.php
 Sky Sport Action	https://linear013-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_120/Live/channel(skysportsaction)/manifest_720.mpd``0003d0fbdf31675b39ee3ea8b9f0ce68:ebfa3109af67dc34a10321f78627b631
 Sky Sport Cricket	https://linear007-gb-dash1-prd-cf.cdn.skycdp.com/Content/DASH_003_720_120/Live/channel(skysportscricket)/manifest_720-120.mpd``00056d5c8882917a4463d5b42ba86c31:226c39dd7d41b6f0e27cb7d8940f644f
 Sky Sport Football	https://linear019-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_120/Live/channel(skysportsfootball)/manifest_720-120.mpd``00051940357f91714b419a79af5a5f9a:f4e7d0c43db524393ba85fd240d9cd6e
@@ -402,7 +413,6 @@ Sky Sport Uno	https://linear301-it-dash1-prd-akg0.cdn13.skycdp.com/31023/FHD/sky
 Sky Sport Calcio	https://linear301-it-dash1-prd-akg0.cdn13.skycdp.com/31209/FHD/skysportseriea/master.mpd``00369a2c69176d5a2deff777247b6637:e122d4bad34c1e430ee349f5aac0060b
 Sky Sport 258	https://linear311-it-dash1-prd-akg0.cdn13.skycdp.com/32772/skysport258/master.mpd``0036fd8ccfddba47c8b40aeff63a797c:dfd5c9d0f4ac6f3a1bd89803399e7026
 Sky Sport 259	https://linear311-it-dash1-prd-akg0.cdn13.skycdp.com/31613/skysport259/master.mpd``0036644f7699f43e401f88d920dc385c:e5b0cebdc3edd7996d283041535fce9c
-Telemundo USA	https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
 TV 2 Direkte	https://aws-appeartv-cdn.rikstv.no/rikstv/1/11/dash/TV2_HD/manifest.mpd``bfb0134de69d76d25b5b4b202df11431:025915bd3062c4bde44a13916c5bfefe
 TV 3 Plus	https://aws-appeartv-cdn.rikstv.no/rikstv/708/2/dash/Viasat4/manifest.mpd``bc603bd4cbdaae7f9debc7accca10266:bb2ed19b76e7bd6cb8ad228b4a79827c
 Fox Sports 1	https://linear.stvacdn.spectrum.com/LIVE/5239/bpk-tv/00700/drm/manifest.mpd``ff18f095bc835e8d902be9420438729e:bbfdc8de223e8b33144d5c718f01f58b
@@ -539,9 +549,6 @@ Dubai Racing 1	https://dmisvthvll.cdn.mgmlcdn.com/events/smil:events.stream.smil
 Dubai Racing 2	https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8
 Dubai Racing 3	https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/chunklist.m3u8
 USA East	https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd``882c9f5613b43b47adc70aa968a308ce:de534ef8914bfe62ba3cdd6bdb9e1c04
-AR Fox Sports 2	`1i3`05fox2ar
-AR Fox Sports 3	`1i3`05fox3ar
-AR TNT Sports	`1i3`05tntsports_argentina
 ES La1	https://cache3.zapitv.com/live/eds_c2/la1_4k/dash_live_enc/la1_4k.mpd``a3abc44525eef3b0a7af9138a9dbe34a:7740f8ae4223ce5ba293028f7f78f1c1
 ES TDP	https://cache3.zapitv.com/live/eds_c2/teledeporte_hd/dash_live_enc/teledeporte_hd.mpd``1937b8f0dc833e0a8f457240972e440d:8cbb79a6410cc0d0d80d148f282afd95
 ES La2	https://rtvelivestreamv3.akamaized.net/rtvesec/la2/la2_main.m3u8
@@ -564,14 +571,7 @@ Event 06	`0https://xlz.plcdn.xyz/ajax/chanel/type/1/link/jggujqm
 Sky Sport Premier League DE	`0i3`00SkySportPremierLeagueDE
 beIN Sports US	`0i3`00beINSPORTSUS
 Sky Sport F1 DE	`0i3`00SkySportF1DE
-NBC News	https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/master.mpd``0045a118e231f1326bcdb45350b1ceaa:8c13afbfa54ea37a368b8b859021f6e3
-Sky Sports Cricket UK	`0i3`00skysportscricketuk
-Bally Sports 	`0https://streaming.sportsnews.id/p/ch11.html
-TRT Spor	https://hw1.jemtv.com/app/trtspor/playlist.m3u8
-TR TV8,5	https://hw1.jemtv.com/app/tv85/chunks.m3u8
-SMC 4 Sports	https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 Abu Dhabi Sports 1	https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
 Abu Dhabi Sports 2	https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
-Motorsport	01`01dautopilot.catcast.tv/content/37909/index.m3u8
-DAZN Eleven League 02	01`01ctvvvideolive3.solocoo.tv:443/blueskytvvlive7dash/blueelevenproleague2nl/Manifest.mpd``16251e842a834570a8c5a34d45a0d64d:b7243739698cad0d58af01f142d13eae
-DAZN Eleven League 03	01`01ctvvvideolive3.solocoo.tv:443/blueskytvvlive7dash/blueelevenproleague3nl/Manifest.mpd``c6455c5a1ad1484fa4029ba498659838:4329fb08c3444a8ae9b3c477efe11002
+TRT Spor	https://hw1.jemtv.com/app/trtspor/playlist.m3u8
+TR TV8,5	https://hw1.jemtv.com/app/tv85/chunks.m3u8
