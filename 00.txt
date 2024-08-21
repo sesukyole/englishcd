@@ -146,9 +146,6 @@ DAZN Eleven 6	01`01a5901`01b
 DAZN Eleven League 02	01`01ctvvvideolive3.solocoo.tv:443/blueskytvvlive7dash/blueelevenproleague2nl/Manifest.mpd``16251e842a834570a8c5a34d45a0d64d:b7243739698cad0d58af01f142d13eae
 DAZN Eleven League 03	01`01ctvvvideolive3.solocoo.tv:443/blueskytvvlive7dash/blueelevenproleague3nl/Manifest.mpd``c6455c5a1ad1484fa4029ba498659838:4329fb08c3444a8ae9b3c477efe11002
 Bally Sports 	`0https://streaming.sportsnews.id/p/ch11.html
-JP NHK G	https://vnpt.nekocdn.xyz/b783a989-9e73-4bce-bfa3-9996a9eaa455.m3u8
-JP NTV	https://vnpt.nekocdn.xyz/427b3914-a2b4-401b-b5ed-706158d73908.m3u8
-JP TV Asahi	https://vnpt.nekocdn.xyz/0fc25793-9d0a-459d-b645-46254bd89616.m3u8
 ETB 1	https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
 ETB 2	https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
 ETB Eventos	https://multimedia.eitb.eus/live-content/oka1hd-hls/master.m3u8
