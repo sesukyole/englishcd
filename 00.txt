@@ -45,6 +45,7 @@ Sport TV 4	`0i3`00SPT4
 Sport TV 5	`0i3`00SPT5
 Sport TV 6	`0i3`00SPT6
 Sport TV +	`0i3`00SPTPlus
+Sky Sport Cricket UK	`0i3`00skysportscricketuk
 Arena ESport	`0i3`012024/03/arenaes.html
 DAZN 1	`0i3`012024/03/ts1.html
 DAZN 2	`0i3`012024/03/ts2.html
@@ -155,8 +156,6 @@ HRT2	https://webtvstream.bhtelecom.ba/hrt2.m3u8
 HRT3	https://webtvstream.bhtelecom.ba/hrt3.m3u8
 Sky Sport F1	`0i3`04f1.php
 Sky Open	https://linear-p.media.skyone.co.nz/primeplus1.clear.m3u8
-Sky Sport Cricket UK	`0i3`00skysportscricketuk
-Sky Sport Uno	https://linear301-it-dash1-prd-akg0.cdn13.skycdp.com/31023/FHD/skysportuno/master_stereo.mpd``0036dc70e4d659fe5ae57b52793a1ff3:55517f806b6be917c2bf0e9cf9acc44f
 QAZ Sport Premium	https://gameslive.akamaized.net/hls/live-97eee134-2b19-4781-b794-04d3490229e4_720p2800kbs/index.m3u8
 VTC	https://liveh12.vtvcab.vn/hls/ONVTC1_CL/index.m3u8
 Iraq Sport	https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/imn/news1/chunks.m3u8
@@ -416,6 +415,10 @@ CCTV 8	https://node3.olelive.com:6443/live/CCTV8HD/hls.m3u8
 CCTV 9	https://node3.olelive.com:6443/live/CCTV9HD/hls.m3u8
 CCTV 13	https://node3.olelive.com:6443/live/CCTV13HD/hls.m3u8
 CCTV 16	https://node3.olelive.com:6443/live/CCTV16HD/hls.m3u8
+Sky Sport Uno	https://linear301-it-dash1-prd-akg0.cdn13.skycdp.com/31023/FHD/skysportuno/master_stereo.mpd``0036dc70e4d659fe5ae57b52793a1ff3:55517f806b6be917c2bf0e9cf9acc44f
+Sky Sport F1	https://linear307-it-dash1-prd-akg0.cdn13.skycdp.com/016a/31478/FHD/skysportf1/master_stereo.mpd``0036a96b6bbbf1828488f90e6b2ca1f4:d24e6ae926e88f8303b6926271ff8155
+Sky Sport MotoGP	https://linear306-it-dash1-prd-akg0.cdn13.skycdp.com/016a/31483/FHD/skysportmotogp/master.mpd``00362e9181eaa0c5f91761ade3515eb8:52cf3c27885d58ad76aaf36d4217a984
+Sky Sport Calcio	https://linear301-it-dash1-prd-akg0.cdn13.skycdp.com/31209/FHD/skysportseriea/master.mpd``00369a2c69176d5a2deff777247b6637:e122d4bad34c1e430ee349f5aac0060b
 Sky EuroSport 3 251	https://linear311-it-dash1-prd-akg0.cdn13.skycdp.com/31917/FHD/skysport251/master.mpd``0036422cf4293ae7cf1e7f7062cc29e8:37a223fcc17c087043bc837432fd25d8
 Sky EuroSport 4 252	https://linear311-it-dash1-prd-akg0.cdn13.skycdp.com/32951/FHD/skysport252/master.mpd``003643bc9d61268c987504fa93b397f6:b8d5767c73ff8bba68d955035b56f4c1
 Sky EuroSport 5 253	https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/32233/FHD/skysport253/master.mpd``0036077996d02761a9d4c29ddfac7466:e83d078779ae5b53e2eb999513d55682
@@ -423,9 +426,6 @@ Sky EuroSport 6 254	https://linear311-it-dash1-prd-akg0.cdn13.skycdp.com/31234/F
 Sky EuroSport 7 255	https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/32910/FHD/skysport255/master.mpd``0036b781a22ebb0c20c16ac27d5d1448:f309b94acfda720bf1ed5741489f8967
 Sky EuroSport 8 256	https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/31912/FHD/skysport256/master.mpd``00366f263859fc1cc82d2c4da6a66ef6:754ae922d113c54349002cd9a88694a4
 Sky EuroSport 9 257	https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/31775/FHD/skysport257/master.mpd``0036faeace9872d3ceeb8b1b63f0baa3:dbd41ee944243307d39b7b27f16615a8
-Sky Sport F1	https://linear307-it-dash1-prd-akg0.cdn13.skycdp.com/016a/31478/FHD/skysportf1/master_stereo.mpd``0036a96b6bbbf1828488f90e6b2ca1f4:d24e6ae926e88f8303b6926271ff8155
-Sky Sport MotoGP	https://linear306-it-dash1-prd-akg0.cdn13.skycdp.com/016a/31483/FHD/skysportmotogp/master.mpd``00362e9181eaa0c5f91761ade3515eb8:52cf3c27885d58ad76aaf36d4217a984
-Sky Sport Calcio	https://linear301-it-dash1-prd-akg0.cdn13.skycdp.com/31209/FHD/skysportseriea/master.mpd``00369a2c69176d5a2deff777247b6637:e122d4bad34c1e430ee349f5aac0060b
 Sky Sport 258	https://linear311-it-dash1-prd-akg0.cdn13.skycdp.com/32772/skysport258/master.mpd``0036fd8ccfddba47c8b40aeff63a797c:dfd5c9d0f4ac6f3a1bd89803399e7026
 Sky Sport 259	https://linear311-it-dash1-prd-akg0.cdn13.skycdp.com/31613/skysport259/master.mpd``0036644f7699f43e401f88d920dc385c:e5b0cebdc3edd7996d283041535fce9c
 TV 2 Direkte	https://aws-appeartv-cdn.rikstv.no/rikstv/1/11/dash/TV2_HD/manifest.mpd``bfb0134de69d76d25b5b4b202df11431:025915bd3062c4bde44a13916c5bfefe
@@ -524,7 +524,6 @@ Sky Sport MotoGP	https://linear306-it-dash1-prd-ll.cdn13.skycdp.com/31483/FHD/sk
 Sky Sport NBA	https://linear301-it-dash1-prd-ll.cdn13.skycdp.com/31764/FHD/skysportnba/master_stereo.mpd``0036c4e453ae2a044f4c861ed73b560a:ea5626c0aa092c382ca58151b5f4b208
 Sky Sport Tennis	https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/32559/FHD/skysporttennis/master.mpd``00360f4f90045f029a53a022738c2422:fa39fd500dc4e291801a710499634330
 Sky Sport 259	https://linear311-it-dash1-prd-ll.cdn13.skycdp.com/31613/skysport259/master.mpd``0036644f7699f43e401f88d920dc385c:e5b0cebdc3edd7996d283041535fce9c
-Sky Sport Top Event	https://donelfantastic.github.io/webiptv/web/de/skysp0rtsTE.m3u8
 FUTV	https://cdn02.teletica.com/StreamFutv/Streamfutv04122023/playlist.m3u8
 Extreme Sports	https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:153_HD.smil/manifest.mpd``8518dcac42e4cfeb420ae4b5a633e23:d87181be4661c2b67d518860e98438fd
 Moto Adv	https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:68_HD.smil/manifest.mpd``ba07f96a90c24d9cab511c6698c79010:e4f8e87e4056ac60c577ac06ac0b02fd
