@@ -65,82 +65,134 @@ Sky Sport Channels *7	`0i3`012024/08/sky.html
 TNT Sports Channels *4	`0i3`012024/03/ms1.html
 TR beIN Sports Channels *4	`0i3`012024/03/b1.html
 Volleyball Channels *4	`0i3`032024/07/voli.html
-HakkaTV	http://37.27.111.214:8080/live/1/hls.m3u8
-TiTV	http://37.27.111.214:8080/live/2/hls.m3u8
-Formosa A	http://37.27.111.214:8080/live/4/hls.m3u8
-Formosa B	http://37.27.111.214:8080/live/5/hls.m3u8
-Formosa C	http://37.27.111.214:8080/live/6/hls.m3u8
-CTV 1	http://37.27.111.214:8080/live/7/hls.m3u8
-CTS	http://37.27.111.214:8080/live/8/hls.m3u8
-TV Monde Style	http://37.27.111.214:8080/live/9/hls.m3u8
-Asia Travel	http://37.27.111.214:8080/live/10/hls.m3u8
-@Classic	http://37.27.111.214:8080/live/11/hls.m3u8
-Nickelodeon	http://37.27.111.214:8080/live/12/hls.m3u8
-Golf	http://37.27.111.214:8080/live/13/hls.m3u8
-PGA Tour	http://37.27.111.214:8080/live/14/hls.m3u8
-Billiard	http://37.27.111.214:8080/live/15/hls.m3u8
-Tennis	http://37.27.111.214:8080/live/16/hls.m3u8
-LTV 1	http://37.27.111.214:8080/live/19/hls.m3u8
-EBC	http://37.27.111.214:8080/live/20/hls.m3u8
-Nick Jr.	http://37.27.111.214:8080/live/22/hls.m3u8
-TVBS A	http://37.27.111.214:8080/live/23/hls.m3u8
-TVBS B	http://37.27.111.214:8080/live/24/hls.m3u8
-MTV Now Rock Alt. Indie	http://37.27.111.214:8080/live/25/hls.m3u8
-TW TV	http://37.27.111.214:8080/live/26/hls.m3u8
-History	http://37.27.111.214:8080/live/27/hls.m3u8
-HITS	http://37.27.111.214:8080/live/28/hls.m3u8
-Crime Investigation	http://37.27.111.214:8080/live/29/hls.m3u8
-CinemaWorld	http://37.27.111.214:8080/live/30/hls.m3u8
-SET	http://37.27.111.214:8080/live/31/hls.m3u8
-Bloomberg	http://37.27.111.214:8080/live/34/hls.m3u8
-TV Shows	http://37.27.111.214:8080/live/35/hls.m3u8
-rollor	http://37.27.111.214:8080/live/40/hls.m3u8
-LTV 2	http://37.27.111.214:8080/live/41/hls.m3u8
-LTV 3	http://37.27.111.214:8080/live/42/hls.m3u8
-Al Jazeera English	http://37.27.111.214:8080/live/44/hls.m3u8
-VOA	http://37.27.111.214:8080/live/45/hls.m3u8
-DW	http://37.27.111.214:8080/live/46/hls.m3u8
-CTV 2	http://37.27.111.214:8080/live/47/hls.m3u8
-Bravo	http://37.27.111.214:8080/live/48/hls.m3u8
-Arirang	http://37.27.111.214:8080/live/52/hls.m3u8
-Global Trekker	http://37.27.111.214:8080/live/53/hls.m3u8
-Learn English	http://37.27.111.214:8080/live/54/hls.m3u8
-ELTV	http://37.27.111.214:8080/live/56/hls.m3u8
-DreamWorks	http://37.27.111.214:8080/live/57/hls.m3u8
-TV Shows	http://37.27.111.214:8080/live/61/hls.m3u8
-mnews	http://37.27.111.214:8080/live/62/hls.m3u8
-TV Shows	http://37.27.111.214:8080/live/63/hls.m3u8
-TV Shows	http://37.27.111.214:8080/live/64/hls.m3u8
-TV Shows	http://37.27.111.214:8080/live/65/hls.m3u8
-TV Shows	http://37.27.111.214:8080/live/66/hls.m3u8
-CN FTV 1	http://37.27.111.214:8080/live/67/hls.m3u8
-Rock Entertainment	http://37.27.111.214:8080/live/70/hls.m3u8
-Lifetime	http://37.27.111.214:8080/live/71/hls.m3u8
-Stingray cmusic	http://37.27.111.214:8080/live/72/hls.m3u8
-Our Sport	http://37.27.111.214:8080/live/77/hls.m3u8
-TV Shows	http://37.27.111.214:8080/live/78/hls.m3u8
-TechStorm	http://37.27.111.214:8080/live/80/hls.m3u8
-Pet Club	http://37.27.111.214:8080/live/81/hls.m3u8
-CN FTV 2	http://37.27.111.214:8080/live/82/hls.m3u8
-Stingray Festival	http://37.27.111.214:8080/live/83/hls.m3u8
-Love Nature	http://37.27.111.214:8080/live/84/hls.m3u8
-ELTA	http://37.27.111.214:8080/live/85/hls.m3u8
-LUXE	http://37.27.111.214:8080/live/86/hls.m3u8
-TV Shows	http://37.27.111.214:8080/live/87/hls.m3u8
-CN FTV 3	http://37.27.111.214:8080/live/88/hls.m3u8
-Doc DigiChannel	http://37.27.111.214:8080/live/92/hls.m3u8
-TV Shows	http://37.27.111.214:8080/live/93/hls.m3u8
-Rock Action	TV	http://37.27.111.214:8080/live/94/hls.m3u8
-MCE	http://37.27.111.214:8080/live/98/hls.m3u8
-Good 2	http://37.27.111.214:8080/live/99/hls.m3u8
-BLTV	http://37.27.111.214:8080/live/101/hls.m3u8
-CNBC	http://37.27.111.214:8080/live/102/hls.m3u8
-TV Shows	http://37.27.111.214:8080/live/103/hls.m3u8
-TV Shows	http://37.27.111.214:8080/live/104/hls.m3u8
-@Cartoon	http://37.27.111.214:8080/live/105/hls.m3u8
-@Animation	http://37.27.111.214:8080/live/106/hls.m3u8
-@Cartoon	http://37.27.111.214:8080/live/107/hls.m3u8
-@TV Shows	http://37.27.111.214:8080/live/108/hls.m3u8
-@TV Shows	http://37.27.111.214:8080/live/109/hls.m3u8
-@KidsTV	http://37.27.111.214:8080/live/110/hls.m3u8
-@TV Shows	http://37.27.111.214:8080/live/111/hls.m3u8
+http Non SSL	^--
+HakkaTV	01`00f1/hls.m3u8
+TiTV	01`00f2/hls.m3u8
+Formosa A	01`00f4/hls.m3u8
+Formosa B	01`00f5/hls.m3u8
+Formosa C	01`00f6/hls.m3u8
+CTV 1	01`00f7/hls.m3u8
+CTS	01`00f8/hls.m3u8
+TV Monde Style	01`00f9/hls.m3u8
+Asia Travel	01`00f10/hls.m3u8
+@Classic	01`00f11/hls.m3u8
+Nickelodeon	01`00f12/hls.m3u8
+Golf	01`00f13/hls.m3u8
+PGA Tour	01`00f14/hls.m3u8
+Billiard	01`00f15/hls.m3u8
+Tennis	01`00f16/hls.m3u8
+LTV 1	01`00f19/hls.m3u8
+EBC	01`00f20/hls.m3u8
+Nick Jr.	01`00f22/hls.m3u8
+TVBS A	01`00f23/hls.m3u8
+TVBS B	01`00f24/hls.m3u8
+MTV Now Rock Alt. Indie	01`00f25/hls.m3u8
+TW TV	01`00f26/hls.m3u8
+History	01`00f27/hls.m3u8
+HITS	01`00f28/hls.m3u8
+Crime Investigation	01`00f29/hls.m3u8
+CinemaWorld	01`00f30/hls.m3u8
+SET	01`00f31/hls.m3u8
+Bloomberg	01`00f34/hls.m3u8
+TV Shows	01`00f35/hls.m3u8
+rollor	01`00f40/hls.m3u8
+LTV 2	01`00f41/hls.m3u8
+LTV 3	01`00f42/hls.m3u8
+Al Jazeera English	01`00f44/hls.m3u8
+VOA	01`00f45/hls.m3u8
+DW	01`00f46/hls.m3u8
+CTV 2	01`00f47/hls.m3u8
+Bravo	01`00f48/hls.m3u8
+Arirang	01`00f52/hls.m3u8
+Global Trekker	01`00f53/hls.m3u8
+Learn English	01`00f54/hls.m3u8
+ELTV	01`00f56/hls.m3u8
+DreamWorks	01`00f57/hls.m3u8
+TV Shows	01`00f61/hls.m3u8
+mnews	01`00f62/hls.m3u8
+TV Shows	01`00f63/hls.m3u8
+TV Shows	01`00f64/hls.m3u8
+TV Shows	01`00f65/hls.m3u8
+TV Shows	01`00f66/hls.m3u8
+CN FTV 1	01`00f67/hls.m3u8
+Rock Entertainment	01`00f70/hls.m3u8
+Lifetime	01`00f71/hls.m3u8
+Stingray cmusic	01`00f72/hls.m3u8
+Our Sport	01`00f77/hls.m3u8
+TV Shows	01`00f78/hls.m3u8
+TechStorm	01`00f80/hls.m3u8
+Pet Club	01`00f81/hls.m3u8
+CN FTV 2	01`00f82/hls.m3u8
+Stingray Festival	01`00f83/hls.m3u8
+Love Nature	01`00f84/hls.m3u8
+ELTA	01`00f85/hls.m3u8
+LUXE	01`00f86/hls.m3u8
+TV Shows	01`00f87/hls.m3u8
+CN FTV 3	01`00f88/hls.m3u8
+Doc DigiChannel	01`00f92/hls.m3u8
+TV Shows	01`00f93/hls.m3u8
+Rock Action	TV	01`00f94/hls.m3u8
+MCE	01`00f98/hls.m3u8
+Good 2	01`00f99/hls.m3u8
+BLTV	01`00f101/hls.m3u8
+CNBC	01`00f102/hls.m3u8
+TV Shows	01`00f103/hls.m3u8
+TV Shows	01`00f104/hls.m3u8
+@Cartoon	01`00f105/hls.m3u8
+@Animation	01`00f106/hls.m3u8
+@Cartoon	01`00f107/hls.m3u8
+@TV Shows	01`00f108/hls.m3u8
+@TV Shows	01`00f109/hls.m3u8
+@KidsTV	01`00f110/hls.m3u8
+@TV Shows	01`00f111/hls.m3u8
+https SSL	^--
+ES 24 Horas	https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main.m3u8
+PT 24Kitchen	i3`0724Kitchen.php
+PT A Bola	i3`07ABolaTV.php
+TR A Spor	i3`07A-Spor.php
+AU ABC News	https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+AE Abu Dhabi Sport 1	i3`07AbuDhabiSports1.php
+AE Abu Dhabi Sport 2	i3`07AbuDhabiSports2.php
+GR ANT1 F1	i3`07ANT1F1GR.php
+ES Aragon	https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
+CZ Arena Sport 1	i3`07arenasport1CZ.php
+HR Arena Sport 1	i3`07ArenaSport1HR.php
+HR Arena Sport Premium 1	i3`07ArenaSport1Premium.php
+CZ Arena Sport 2	i3`07arenasport2CZ.php
+HR Arena Sport 2	i3`07ArenaSport2HR.php
+HR Arena Sport Premium 2	i3`07ArenaSport2Premium.php
+CZ Arena Sport 3	i3`07arenasport3CZ.php
+HR Arena Sport 3	i3`07ArenaSport3HR.php
+HR Arena Sport Premium 3	i3`07ArenaSport3Premium.php
+HR Arena Sport 4	i3`07ArenaSport4HR.php
+HR Arena Sport 5	i3`07ArenaSport5HR.php
+HR Arena Sport 6	i3`07ArenaSport6HR.php
+HR Arena Sport 7	i3`07ArenaSport7HR.php
+HR Arena Sport 8	i3`07ArenaSport8HR.php
+UK BBC News	i3`07BBCNewsUK.php
+UK BBC One	i3`07BBConeUK.php
+FR beIN Sports 1	i3`07beINSPORTS1FR.php
+TR beIN Sports 1	i3`07beINSPORTS1TR.php
+FR beIN Sports 2	i3`07beINSPORTS2FR.php
+TR beIN Sports 2	i3`07beINSPORTS2TR.php
+FR beIN Sports 3	i3`07beINSPORTS3FR.php
+TR beIN Sports 3	i3`07beINSPORTS3TR.php
+TR beIN Sports 5	i3`07beINSPORTS5TR.php
+FR beIN Sports Max 4	i3`07beINSPORTSMax4FR.php
+FR beIN Sports Max 5	i3`07beINSPORTSMax5FR.php
+FR beIN Sports Max 6	i3`07beINSPORTSMax6FR.php
+FR beIN Sports Max 7	i3`07beINSPORTSMax7FR.php
+FR beIN Sports Max 8	i3`07beINSPORTSMax8FR.php
+FR beIN Sports Max 9	i3`07beINSPORTSMax9FR.php
+ES beIN Sports Extra	i3`07BeinSportsES.php
+US beIN Sports	i3`07BeINSportsUSA.php
+PT Benfica TV Extra 1	i3`07BenficaTVx1.php
+PT Benfica TV Extra 2	i3`07BenficaTVx2.php
+PT Benfica TV	i3`07BenficaTV.php
+EU Bloomberg	https://www.bloomberg.com/media-manifest/streams/eu.m3u8
+BTV Multicamara	i3`07BTVMulti.php
+BX1 Bruxelles	https://59959724487e3.streamlock.net/stream/live/chunklist.m3u8
+PT Caza Y Pesca	i3`07CazaYPesca.php
+PT Cazavision	i3`07CazavisionPT.php
+US California Music Channel	https://cmc-ono.amagi.tv/amRdirect/device[did]=%5BAD_IDFA%5B&us_privacy=%7BUS_PRIVACY%7D&coppa=%7BCOPPA%7D&uid=1fpn9sr15-vpg2-1jg-4kgx-p57ss8l4h2/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/1920x1080_5711200/index.m3u8
+PT Canal 11	i3`07Canal11.php
