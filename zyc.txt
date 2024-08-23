@@ -144,35 +144,3 @@ TV Shows	http://37.27.111.214:8080/live/104/hls.m3u8
 @TV Shows	http://37.27.111.214:8080/live/109/hls.m3u8
 @KidsTV	http://37.27.111.214:8080/live/110/hls.m3u8
 @TV Shows	http://37.27.111.214:8080/live/111/hls.m3u8
-ES 24 Horas	https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main.m3u8
-PT 24Kitchen	`0https://www.freeshot.live/embed/24Kitchen.php
-PT A Bola	`0https://www.freeshot.live/embed/ABolaTV.php
-TR A Spor	`0https://www.freeshot.live/embed/A-Spor.php
-AU ABC News	https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-AE Abu Dhabi Sport 1	`0https://www.freeshot.live/embed/AbuDhabiSports1.php
-AE Abu Dhabi Sport 2	`0https://www.freeshot.live/embed/AbuDhabiSports2.php
-GR ANT1 F1	`0https://www.freeshot.live/embed/ANT1F1GR.php
-ES Aragon	https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
-CZ Arena Sport 1	`0https://www.freeshot.live/embed/arenasport1CZ.php
-HR Arena Sport 1	`0https://www.freeshot.live/embed/ArenaSport1HR.php
-HR Arena Sport Premium 1	`0https://www.freeshot.live/embed/ArenaSport1Premium.php
-CZ Arena Sport 2	`0https://www.freeshot.live/embed/arenasport2CZ.php
-HR Arena Sport 2	`0https://www.freeshot.live/embed/ArenaSport2HR.php
-HR Arena Sport Premium 2	`0https://www.freeshot.live/embed/ArenaSport2Premium.php
-CZ Arena Sport 3	`0https://www.freeshot.live/embed/arenasport3CZ.php
-HR Arena Sport 3	`0https://www.freeshot.live/embed/ArenaSport3HR.php
-HR Arena Sport Premium 3	`0https://www.freeshot.live/embed/ArenaSport3Premium.php
-HR Arena Sport 4	`0https://www.freeshot.live/embed/ArenaSport4HR.php
-HR Arena Sport 5	`0https://www.freeshot.live/embed/ArenaSport5HR.php
-HR Arena Sport 6	`0https://www.freeshot.live/embed/ArenaSport6HR.php
-HR Arena Sport 7	`0https://www.freeshot.live/embed/ArenaSport7HR.php
-HR Arena Sport 8	`0https://www.freeshot.live/embed/ArenaSport8HR.php
-UK BBC News	`0https://www.freeshot.live/embed/BBCNewsUK.php
-UK BBC One	`0https://www.freeshot.live/embed/BBConeUK.php
-FR beIN Sports 1	`0https://www.freeshot.live/embed/beINSPORTS1FR.php
-TR beIN Sports 1	`0https://www.freeshot.live/embed/beINSPORTS1TR.php
-FR beIN Sports 2	`0https://www.freeshot.live/embed/beINSPORTS2FR.php
-TR beIN Sports 2	`0https://www.freeshot.live/embed/beINSPORTS2TR.php
-FR beIN Sports 3	`0https://www.freeshot.live/embed/beINSPORTS3FR.php
-TR beIN Sports 3	`0https://www.freeshot.live/embed/beINSPORTS3TR.php
-TR beIN Sports 5	`0https://www.freeshot.live/embed/beINSPORTS5TR.php
