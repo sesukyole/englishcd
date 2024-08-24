@@ -1,15 +1,3 @@
-Premier Sports 1 [VPN]	01`00elinear001-ie-dash1-prd-cf.cdn.skycdp.com/Content/DASH_003_720_120/Live/channel(premiersports1)/manifest_720.mpd``0005b3dba78ae0fe7a9288022d3b3736:d2827df80dd7e9243ba6b5bbda5dfa82
-Premier Sports 2 [VPN]	01`00elinear033-ie-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_120/Live/channel(premiersports2)/manifest_720.mpd``0005d61a0ac86aca28176591b21ae2d9:f87ad1430a7a38fd0ac248fc9a8389b1
-UK ViaPlay Premier League [VPN]	01`00elive-dash-cdn7-vp.cdn.viaplay.tv/vp/vssp/vssp.isml/index.mpd``d8d0506523d95fc082d6caef60e84979:69992fd2d7b9211d41ecc2243803e87c
-UK ViaPlay Sport 1 [VPN]	01`00elive-dash-cdn7-vp.cdn.viaplay.tv/vp/vpsports1uk/vpsports1uk.isml/index.mpd``4d4ace310f235981bef56897fe94e766:06383cd4cdcc92bb3e83d8ea49245472
-UK ViaPlay Sport 2 [VPN]	01`00elive-dash-cdn7-vp.cdn.viaplay.tv/vp/vpsports2uk/vpsports2uk.isml/index.mpd``6fe6d9cf50835945881cb56a38839fce:213ad868126fd2cb352b189b07b25421
-ViaPlay Extra 65 [VPN]	01`00elive-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra65/xtra65.isml/index.mpd``2e2e68763da359799dd279ffa7476c81:b9e5d7d8f547aafa41634e845a47e051
-ViaPlay Extra 12 [VPN]	01`00elive-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra12/xtra12.isml/index.mpd``ed4086de5e445f9bac5c093362a0f549:599aa72e49e4736f58e947ea0c34f235
-NO TV 3 [VPN]	01`00elive-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra100/xtra100.isml/index.mpd``b08d9804e8ea51bb8d71fd4bf77c3f5b:b9fe3237a5f11a2a084264074b125c9c
-Sky Sport Football [VPN]	01`00elinear019-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_120/Live/channel(skysportsfootball)/manifest_720-120.mpd``0005c37ab85893a379c1e1e5ed60fcf0:b60a9aa6c55026adfc3f47136ce64924
-Sky Sport Premier League [VPN]	01`00elinear015-gb-dash1-prd-ll.cdn.skycdp.com/Content/DASH_003_720_120/Live/channel(skysportspremierleague)/manifest_720.mpd``00058832b1c058c3de8b5d118cc775d4:721345f25729d236d6bb317fce797b77
-Sky Sport Main Event [VPN]	01`00elinear015-gb-dash1-prd-ll.cdn.skycdp.com/Content/DASH_003_720_120/Live/channel(skysportsmainevent)/manifest_720.mpd``000546476256963bd054ded3b6ae5800:1e497068bcc078fdb2f4296bc400ca2b
-Sky Sport News [VPN]	01`00elinear030-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_120/Live/channel(skysportsnews)/manifest_720.mpd``00057bfb9cf2fc40b5ed61f9c8a41d54:cb9908093e35e3c3f7db06f55913cce0
 Premier League	https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd``002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
 USA West	https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd``252a671825ba31ec8433f978c32ccf6d:ee560759ecc8d2274df2e63fcef56915
 Universo East	https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(universo-east)/master.mpd``232d71bb013d39ffb92ee8c576fb7e8e:087408a48be8d57046c3868b37ea90ba
@@ -68,6 +56,18 @@ Arena Sport 4	https://webtvstream.bhtelecom.ba/hls6/arena4.mpd``c18b6aa739be4c0b
 Arena Sport 5	https://webtvstream.bhtelecom.ba/hls6/arena5.mpd``c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 Arena Sport 6	https://webtvstream.bhtelecom.ba/hls6/arena6.mpd``c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 Arena Fight	https://webtvstream.bhtelecom.ba/hls6/arena_fight.mpd``c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+Premier Sports 1 [VPN]	01`00elinear001-ie-dash1-prd-cf.cdn.skycdp.com/Content/DASH_003_720_120/Live/channel(premiersports1)/manifest_720.mpd``0005b3dba78ae0fe7a9288022d3b3736:d2827df80dd7e9243ba6b5bbda5dfa82
+Premier Sports 2 [VPN]	01`00elinear033-ie-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_120/Live/channel(premiersports2)/manifest_720.mpd``0005d61a0ac86aca28176591b21ae2d9:f87ad1430a7a38fd0ac248fc9a8389b1
+UK ViaPlay Premier League [VPN]	01`00elive-dash-cdn7-vp.cdn.viaplay.tv/vp/vssp/vssp.isml/index.mpd``d8d0506523d95fc082d6caef60e84979:69992fd2d7b9211d41ecc2243803e87c
+UK ViaPlay Sport 1 [VPN]	01`00elive-dash-cdn7-vp.cdn.viaplay.tv/vp/vpsports1uk/vpsports1uk.isml/index.mpd``4d4ace310f235981bef56897fe94e766:06383cd4cdcc92bb3e83d8ea49245472
+UK ViaPlay Sport 2 [VPN]	01`00elive-dash-cdn7-vp.cdn.viaplay.tv/vp/vpsports2uk/vpsports2uk.isml/index.mpd``6fe6d9cf50835945881cb56a38839fce:213ad868126fd2cb352b189b07b25421
+ViaPlay Extra 65 [VPN]	01`00elive-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra65/xtra65.isml/index.mpd``2e2e68763da359799dd279ffa7476c81:b9e5d7d8f547aafa41634e845a47e051
+ViaPlay Extra 12 [VPN]	01`00elive-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra12/xtra12.isml/index.mpd``ed4086de5e445f9bac5c093362a0f549:599aa72e49e4736f58e947ea0c34f235
+NO TV 3 [VPN]	01`00elive-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra100/xtra100.isml/index.mpd``b08d9804e8ea51bb8d71fd4bf77c3f5b:b9fe3237a5f11a2a084264074b125c9c
+Sky Sport Football [VPN]	01`00elinear019-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_120/Live/channel(skysportsfootball)/manifest_720-120.mpd``0005c37ab85893a379c1e1e5ed60fcf0:b60a9aa6c55026adfc3f47136ce64924
+Sky Sport Premier League [VPN]	01`00elinear015-gb-dash1-prd-ll.cdn.skycdp.com/Content/DASH_003_720_120/Live/channel(skysportspremierleague)/manifest_720.mpd``00058832b1c058c3de8b5d118cc775d4:721345f25729d236d6bb317fce797b77
+Sky Sport Main Event [VPN]	01`00elinear015-gb-dash1-prd-ll.cdn.skycdp.com/Content/DASH_003_720_120/Live/channel(skysportsmainevent)/manifest_720.mpd``000546476256963bd054ded3b6ae5800:1e497068bcc078fdb2f4296bc400ca2b
+Sky Sport News [VPN]	01`00elinear030-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_120/Live/channel(skysportsnews)/manifest_720.mpd``00057bfb9cf2fc40b5ed61f9c8a41d54:cb9908093e35e3c3f7db06f55913cce0
 NL Channel S	https://live.vrtcdn.be/groupc/live/8edf3bdf-7db3-41c3-a318-72cb7f82de66/live.isml/.mpd``ef4daa3c90333621e4115ff1ca5bfbda:424c9902fce5a2e7dcbeb37ffc06b906
 NRK1	https://rikstv-live-scalstrm.telenorcdn.net/live/rikstv/64393b4f1dbc891fd41f5242/manifest.mpd``01010101010101010101010101010101:01010101010101010101010101010101
 RTL	https://pnowlive-a.akamaized.net/live/rtlhd/dash/rtlhd.mpd``57e48b99f3f6d4f13f5c5afdcca084ca:29379a5e2d3405fad2f5d9cbe92586c3
