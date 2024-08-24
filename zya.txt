@@ -2,13 +2,10 @@
 {h} * Conspiracy Truth 1	^^h7
 {h} * Conspiracy Truth 2	^^h8
 {h} * Action Movies Film VOD	^^hhttps://raw.githubusercontent.com/Justryuz/jtv/main/actionvod.m3u
-{s} Ⓥ Movies Film 1	^^s3
-{h} Ⓨ Movies Film 2	^^h4
-{h} Ⓩ Movies Film 3	^^h5
-{h} Ⓣ Movies Film 4	^^h6
-{s} * Plex	^^shttps://i.mjh.nz/Plex/all.m3u8
-{s} * Stirr	^^shttps://i.mjh.nz/Stirr/all.m3u8
-{s} * Kodi	^^shttps://i.mjh.nz/all/kodi-tv.m3u8
+{h} Ⓨ Movies Film 1	^^h4
+{h} Ⓩ Movies Film 2	^^h5
+{h} Ⓣ Movies Film 3	^^h6
+{s} * Kodi	^^s3
 {h} * Free IPTV	^^hhttps://raw.githubusercontent.com/ipstreet312/freeiptv/master/all.m3u
 {s} Ⓗa0 ⚽️Live Sports	^^sa0
 {s} Ⓜa1 🤹Multi	^^sa1
@@ -17,7 +14,7 @@
 {h} Ⓒb1 Cool	^^hb1
 {h} Ⓕb2 Fun	^^hb2
 {h} Ⓦb3 Wow Great!	^^hb3
-{s} Ⓢ 0 Samsung	^^s0
+{s} Ⓢ 0 Movies Film	^^s0
 {s} Ⓟ 1 Pluto	^^s1
 {h} * Sports TV	^^hk^sports.m3u
 🌍 International	^^hc^int.m3u
@@ -288,3 +285,5 @@ Weather	^^hk^weather.m3u
 Auto	^^hk^auto.m3u
 Relax	^^hk^relax.m3u
 {h} Ⓘ 2 iptv-org	^^h2
+{s} Ⓢ 0 Samsung	^^shttps://i.mjh.nz/SamsungTVPlus/all.m3u8
+{s} Ⓟ 1 Pluto	^^shttps://i.mjh.nz/PlutoTV/all.m3u8
