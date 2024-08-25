@@ -4,15 +4,13 @@ ID SpoTV 2	01`00a133/beib2/index.m3u8?c
 ID Football	00`a05rcti-soccerchannel-hd/sa_hls/rcti-soccerchannel-hd.m3u8?c
 ID Sport 1	00`a05rcti-sportstar/sa_hls/rcti-sportstar.m3u8?c
 ID Sport 2	00`a05rcti-sportstar2/sa_hls/rcti-sportstar2.m3u8?c
-ID Sport 3	00`a05mncsport3/sa_hls/mncsport3.m3u8?c
-ID Sport 4	00`a05VplusLiveRplus/sa_hls/VplusLiveRplus.m3u8?c
 ID iNews	00`a05inews-hdd/sa_hls/inews-hdd.m3u8?c
 ID RCTI 1	00`a05rcti-2/sa_hls/rcti-2.m3u8?c
 ID RCTI 2	https://rcti-cutv.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
 SpoTV 1	01`01datemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd``e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
 SpoTV 2	01`01datemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd``e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
-KH Rasmey Hang Meas	https://testcors.starlive.workers.dev/http://clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/playlist.m3u8
-KH Hang Meas HDTV	https://testcors.starlive.workers.dev/http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/playlist.m3u8
+KH Rasmey Hang Meas	http://clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/playlist.m3u8
+KH Hang Meas HDTV	http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/playlist.m3u8
 ID PSJ TV	https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
 ID Indosiar 1	https://op-group1-swiftservesd-1.dens.tv/s/s04/02.m3u8
 ID Indosiar 2	https://op-group1-swiftservesd-1.dens.tv/s/s04/01.m3u8
@@ -29,7 +27,6 @@ ID Moji 3	https://op-group1-swiftservesd-1.dens.tv/s/s41/01.m3u8
 ID TVRI Sport 1	https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 ID TVRI Sport 2	https://op-group1-swiftservesd-1.dens.tv/s/s107/02.m3u8
 ID TVRI Sport 3	https://op-group1-swiftservesd-1.dens.tv/s/s107/01.m3u8
-ID RRI Net	https://private-streaming.rri.go.id/memfs/ff303a23-f1db-4cb3-95f9-4ae7bef2a392.m3u8
 ID AniPlus	https://op-group1-swiftservehd-1.dens.tv/h/h201/02.m3u8
 ID My Kidz	https://op-group1-swiftservesd-1.dens.tv/h/h191/index.m3u8
 ID Net TV 1	https://op-group1-swiftservehd-1.dens.tv/h/h223/01.m3u8
@@ -61,7 +58,6 @@ ID MIC TV	https://v2.siar.us/mic/live/playlist.m3u8
 ID tvOne	01`01dstreaming.indihometv.com/atm/DASH/tvone/manifest.mpd
 ID Jawapos	01`01dstreaming.indihometv.com/atm/DASH/jawapos/manifest.mpd
 ID BeritaSatu News	https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
-ID DAAI TV	https://dacastmmd.mmdlive.lldns.net/dacastmmd/683cc426c19442a4ba31c53be5c963bb/index.m3u8
 ID Trans TV	https://video.detik.com/transtv/smil:transtv-live.smil/index.m3u8
 ID Trans7	https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
 ID Dhoho TV	https://dhohotv.siar.us/dhohotv/live/playlist.m3u8
@@ -1153,3 +1149,7 @@ ZooMoo.id	01`02aBoomerang/sa_dash_vmx/Boomerang.mpd``5ff6154f28d6950063f9f5b4db7
 CinemaWorld.id	01`02aCinemaWorld/sa_dash_vmx/CinemaWorld.mpd``958df746f24f371dffc95e7cd714fbd7:fbd6e4540b9a917a27da8be01542f53f
 NatGeo.id	01`02aNatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd``05457a5e16a76fe666a22cc7ae2c6548:626e37901bfb985e994d714e9f9de1b5
 NatGeoWild.id	01`02aNatGeoWild/sa_dash_vmx/NatGeoWild.mpd``c3066eaa0984588f78d12dcdb75ef88b:4e98eb4927941bff51ea526d223fa16d
+ID Sport 3	00`a05mncsport3/sa_hls/mncsport3.m3u8?c
+ID Sport 4	00`a05VplusLiveRplus/sa_hls/VplusLiveRplus.m3u8?c
+ID DAAI TV	https://dacastmmd.mmdlive.lldns.net/dacastmmd/683cc426c19442a4ba31c53be5c963bb/index.m3u8
+ID RRI Net	https://private-streaming.rri.go.id/memfs/ff303a23-f1db-4cb3-95f9-4ae7bef2a392.m3u8
