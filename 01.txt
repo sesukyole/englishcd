@@ -239,6 +239,7 @@ SG Rock Entertainment	https://tglmp02.akamaized.net/out/v1/621a7089e63144e4be789
 SG Suria	https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.mpd``7a9ea6df52044841b0c562766e602610:b9380188b4896b25e8d419dfce938c6e
 SG Vasantham	https://tglmp03.akamaized.net/out/v1/14eb6e921cae41298efaa4d9db0f2875/manifest.mpd``9970038ef6c548e39768f3a1ff6f5081:3e19d54b7bcd8bb336776fe136d48f57
 Africa News	https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/africanews/africanews-en.m3u8
+SEA Today	01`01g7687?zyz
 KR Korea Central TV (KCNA)	https://tv.nknews.org/tvdash/stream.mpd
 JP NHK World Japan	https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/bmcc-live/id/playlist.m3u8
 JP NHK World Premium	01`01dcdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
@@ -272,6 +273,7 @@ RU Russia Today Documentary English	https://rt-rtd.rttv.com/live/rtdoc/playlist.
 RU Duma TV HD	https://dumatv.iptv2022.com/tracks-v2a1/mono.m3u8
 AU ABC News Australia TV	https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 AU ABC News TV	https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+AU ABC Australia	01`01g7150?zyz
 US ABC TV	https://w.tryandrew.shop/abc.m3u8
 US CBS News	https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 US Fox News Now	https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8?c
