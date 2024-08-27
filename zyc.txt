@@ -242,13 +242,6 @@ news-asia@	01`01g6411?zyz
 *antv	01`01g782?zyz`
 *kompas-tv	01`01g874?zyz`
 *metro-tv	01`01g777?zyz`
-*indosiar	01`01g205?zyz
-*sctv	01`01g204?zyz
-*trans-tv	01`01g733?zyz
-*trans7	01`01g734?zyz
-*antv	01`01g782?zyz
-*kompas-tv	01`01g874?zyz
-*metro-tv	01`01g777?zyz
 net-tv	01`01g875?zyz``
 bein-1*	01`01g6299?zyz``
 bein-3*	01`01g6317?zyz``
