@@ -24,23 +24,6 @@ EuroSport HD 2	http://edge02.odtv.az/o3/eurosport2/playlist.m3u8
 EuroSport HD 1	http://185.189.225.157/EuroSport1/index.m3u8
 EuroSport HD 2	http://185.189.225.157/EuroSport2/index.m3u8
 Sky Sports LaLiga	http://181.78.105.146:2000/play/a08m/index.m3u8
-<br>These Action Movies are for Mobile Only<br>	^--
-Action Movies A	i3`064332
-Action Movies B	i3`066140589
-Action Movies C	i3`062516864
-Action Movies D	i3`068770422
-Action Movies E	i3`06218859
-Action Movies F	i3`06747764
-Action Movies G	i3`064246519
-Action Movies H	i3`06252802
-Action Movies I	i3`0636337
-Action Movies J	i3`068814650
-Action Movies K	i3`0620415
-Action Movies L	i3`06263824
-Action Movies M	i3`06323876
-Action Movies N	i3`062793084
-Action Movies O	i3`066566671
-Action Movies P	i3`061226741
 UK English Club TVᴴᴰ 🇬🇧	http://iptv.prosto.tv:7000/ch206/video.m3u8
 UK Mr. Bean	http://51.159.104.29:8080/mrbean/index.m3u8
 AR Urban Kids	http://200.194.238.229:8383/live/urbankids/playlist.m3u8
