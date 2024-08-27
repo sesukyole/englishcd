@@ -198,11 +198,11 @@ PT Caza Y Pesca	i3`07CazaYPesca.php
 PT Cazavision	i3`07CazavisionPT.php
 US California Music Channel	https://cmc-ono.amagi.tv/amRdirect/device[did]=%5BAD_IDFA%5B&us_privacy=%7BUS_PRIVACY%7D&coppa=%7BCOPPA%7D&uid=1fpn9sr15-vpg2-1jg-4kgx-p57ss8l4h2/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/1920x1080_5711200/index.m3u8
 PT Canal 11	i3`07Canal11.php
-*indosiar	01`01g205?zyz`
-*sctv	01`01g204?zyz`
+*indosiar	01`01g205?zyz
+*sctv	01`01g204?zyz
 *moji@	01`01g206?zyz
-*trans-tv	01`01g733?zyz`
-*trans7	01`01g734?zyz`
+*trans-tv	01`01g733?zyz
+*trans7	01`01g734?zyz
 *abc-australia@	01`01g7150?zyz
 *africanews-tv@	01`01g12784?zyz
 *aljazeera@	01`01g6410?zyz
@@ -212,7 +212,7 @@ PT Canal 11	i3`07Canal11.php
 *nhk-world-japan@	01`01g7968?zyz
 *sea-today@	01`01g7687?zyz
 *ajwa-tv@	01`01g7464?zyz
-*antv	01`01g782?zyz`
+*antv	01`01g782?zyz
 *btv@	01`01g6165?zyz
 *daai-tv@	01`01g6482?zyz
 *elshinta-tv@	01`01g10975?zyz
@@ -221,10 +221,10 @@ PT Canal 11	i3`07Canal11.php
 *jaktv@	01`01g5415?zyz
 *jawapostv@	01`01g9714?zyz
 *jtv@	01`01g9713?zyz
-*kompas-tv	01`01g874?zyz`
+*kompas-tv	01`01g874?zyz
 *makkah-tv@	01`01g6852?zyz
 *mentari-tv@	01`01g8237?zyz
-*metro-tv	01`01g777?zyz`
+*metro-tv	01`01g777?zyz
 *musica@	01`01g7619?zyz
 *nusantara-tv@	01`01g7432?zyz
 *rans-channel@	01`01g8241?zyz
