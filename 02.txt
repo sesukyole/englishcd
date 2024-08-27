@@ -14,17 +14,17 @@ ID Indosiar 1	https://op-group1-swiftservesd-1.dens.tv/s/s04/02.m3u8
 ID Indosiar 2	https://op-group1-swiftservesd-1.dens.tv/s/s04/01.m3u8
 ID Indosiar 3	01`01dstreaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
 ID Indosiar 4	01`01datemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd``5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
-ID Indosiar 5	01`01g205?zyz`
+ID Indosiar 5*	01`01g205?zyz`
 ID SCTV 1	https://op-group1-swiftservesd-1.dens.tv/s/s03/02.m3u8
 ID SCTV 2	https://op-group1-swiftservesd-1.dens.tv/s/s03/01.m3u8
 ID SCTV 3	https://op-group1-swiftservehd-1.dens.tv/h/h217/01.m3u8
 ID SCTV 4	https://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 ID SCTV 5	01`01dstreaming.indihometv.com/atm/DASH/sctv/manifest.mpd
-ID SCTV 6	01`01g204?zyz`
+ID SCTV 6*	01`01g204?zyz`
 ID Moji 1	01`00a134/ochannel/index.m3u8?c
 ID Moji 2	https://op-group1-swiftservesd-1.dens.tv/s/s41/02.m3u8
 ID Moji 3	https://op-group1-swiftservesd-1.dens.tv/s/s41/01.m3u8
-ID Moji 4	01`01g206?zyz
+ID Moji 4*	01`01g206?zyz
 ID TVRI Sport 1	https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 ID TVRI Sport 2	https://op-group1-swiftservesd-1.dens.tv/s/s107/02.m3u8
 ID TVRI Sport 3	https://op-group1-swiftservesd-1.dens.tv/s/s107/01.m3u8
@@ -32,7 +32,7 @@ ID AniPlus	https://op-group1-swiftservehd-1.dens.tv/h/h201/02.m3u8
 ID My Kidz	https://op-group1-swiftservesd-1.dens.tv/h/h191/index.m3u8
 ID Net TV 1	https://op-group1-swiftservehd-1.dens.tv/h/h223/01.m3u8
 ID Net TV 2	https://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
-ID Net TV 3	01`01g875?zyz``
+ID Net TV 3*	01`01g875?zyz``
 ID CCTV 4 a	https://op-group1-swiftservesd-1.dens.tv/s/s19/02.m3u8
 ID CCTV 4 b	https://op-group1-swiftservesd-1.dens.tv/s/s19/01.m3u8
 ID K Plus 1	https://op-group1-swiftservehd-1.dens.tv/h/h08/02.m3u8
@@ -61,9 +61,9 @@ ID tvOne	01`01dstreaming.indihometv.com/atm/DASH/tvone/manifest.mpd
 ID Jawapos	01`01dstreaming.indihometv.com/atm/DASH/jawapos/manifest.mpd
 ID BeritaSatu News	https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
 ID Trans TV 1	https://video.detik.com/transtv/smil:transtv-live.smil/index.m3u8
-ID Trans TV 2	01`01g733?zyz`
+ID Trans TV 2*	01`01g733?zyz`
 ID Trans7 1	https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
-ID Trans7 2	01`01g734?zyz`
+ID Trans7 2*	01`01g734?zyz`
 ID Dhoho TV	https://dhohotv.siar.us/dhohotv/live/playlist.m3u8
 ID Duta TV	https://dutatv.siar.us/dutatv/live/playlist.m3u8
 ID Huma Betang TV	https://v3.siar.us/humabetangtv/live/playlist.m3u8
@@ -150,7 +150,7 @@ Abu Dhabi TV	`1https://en.gdplayertv.to/live-tv/abu-dhabi-tv/?embed=1
 ACC Network TV	`1https://en.gdplayertv.to/live-tv/acc-network/?embed=1
 Action Channel Japan	`1https://en.gdplayertv.to/live-tv/action-channel-jp/?embed=1
 Adult Swim TV USA	`1https://en.gdplayertv.to/live-tv/adult-swim-tv/?embed=1
-Ajwa TV	01`01g7464?zyz
+Ajwa TV*	01`01g7464?zyz
 Al Jazeera TV	`1https://en.gdplayertv.to/live-tv/aljazeera/?embed=1
 Alkass Four TV	`1https://en.gdplayertv.to/live-tv/alkass-4/?embed=1
 Alkass One TV	`1https://en.gdplayertv.to/live-tv/alkass-1/?embed=1
@@ -380,7 +380,7 @@ CTI News TV (中天新聞台)	`1https://en.gdplayertv.to/live-tv/cti-news-tv/?em
 CTS TV (華視全球資訊網)	`1https://en.gdplayertv.to/live-tv/cts-tv/?embed=1
 CTV (中視綜合台)	`1https://en.gdplayertv.to/live-tv/ctv/?embed=1
 CTV News (中視新聞台)	`1https://en.gdplayertv.to/live-tv/ctv-news/?embed=1
-DAAI TV	01`01g6482?zyz
+DAAI TV*	01`01g6482?zyz
 Dance Channel Japan	`1https://en.gdplayertv.to/live-tv/dance-channel-jp/?embed=1
 DAZN 1 TV Germany	`1https://en.gdplayertv.to/live-tv/dazn-1-de/?embed=1
 DAZN 1 TV Spain	`1https://en.gdplayertv.to/live-tv/dazn-1-es/?embed=1
@@ -446,7 +446,7 @@ Eleven Sports 3 TV Portugal	`1https://en.gdplayertv.to/live-tv/eleven-sports-3-p
 Eleven Sports 4 TV Portugal	`1https://en.gdplayertv.to/live-tv/eleven-sports-4-pt/?embed=1
 Eleven Sports 5 TV Portugal	`1https://en.gdplayertv.to/live-tv/eleven-sports-5-pt/?embed=1
 Eleven Sports 6 TV Portugal	`1https://en.gdplayertv.to/live-tv/eleven-sports-6-pt/?embed=1
-ElShinta TV	01`01g10975?zyz
+ElShinta TV*	01`01g10975?zyz
 English Club TV	`1https://en.gdplayertv.to/live-tv/ectv/?embed=1
 ERA Drama TV Japan	`1https://en.gdplayertv.to/live-tv/jidaigeki-senmon-tv/?embed=1
 Era News TV (年代新聞)	`1https://en.gdplayertv.to/live-tv/era-news/?embed=1
@@ -523,7 +523,7 @@ HBO Signature 中文	`1https://en.gdplayertv.to/live-tv/hbo-signature-cn/?embed=
 HBO TV	`1https://en.gdplayertv.to/live-tv/hbo/?embed=1
 HBO 中文	`1https://en.gdplayertv.to/live-tv/hbo-cn/?embed=1
 Hip Hip Horee TV	`1https://en.gdplayertv.to/live-tv/hip-hip-horee-tv/?embed=1
-Hip Hip Horee TV	01`01g7052?zyz
+Hip Hip Horee TV*	01`01g7052?zyz
 History TV	`1https://en.gdplayertv.to/live-tv/history/?embed=1
 History TV Japan	`1https://en.gdplayertv.to/live-tv/history-channel-jp/?embed=1
 Hits Movies TV	`1https://en.gdplayertv.to/live-tv/hits-movies/?embed=1
@@ -533,7 +533,7 @@ Hollywood Movie TV (好萊塢電影台)	`1https://en.gdplayertv.to/live-tv/holly
 Home & Garden TV (HGTV)	`1https://en.gdplayertv.to/live-tv/hgtv/?embed=1
 Home Drama Channel	`1https://en.gdplayertv.to/live-tv/home-drama-channel/?embed=1
 Horee TV	`1https://en.gdplayertv.to/live-tv/horee-tv/?embed=1
-Horee TV	01`01g6397?zyz
+Horee TV*	01`01g6397?zyz
 Horse & Country TV	`1https://en.gdplayertv.to/live-tv/horse-country-tv/?embed=1
 Hunan TV	`1https://en.gdplayertv.to/live-tv/hunan-tv/?embed=1
 IDX Channel TV	`1https://en.gdplayertv.to/live-tv/idx-channel/?embed=1
@@ -613,7 +613,7 @@ MBC TV	`1https://en.gdplayertv.to/live-tv/mbc/?embed=1
 MBS TV	`1https://en.gdplayertv.to/live-tv/mbs-tv/?embed=1
 Mei Ah Entertainment (美亞娛樂) TV	`1https://en.gdplayertv.to/live-tv/mei-ah-entertainment/?embed=1
 Mentari TV	`1https://en.gdplayertv.to/live-tv/mentari-tv/?embed=1
-Mentari TV	01`01g8237?zyz
+Mentari TV*	01`01g8237?zyz
 MERTO TV	`1https://en.gdplayertv.to/live-tv/metrotv/?embed=1
 MLB Network TV	`1https://en.gdplayertv.to/live-tv/mlb-network/?embed=1
 MLB TV	`1https://en.gdplayertv.to/live-tv/mlb-tv/?embed=1
@@ -639,7 +639,7 @@ Music Japan TV	`1https://en.gdplayertv.to/live-tv/music-japan-tv/?embed=1
 MUSIC ON! TV	`1https://en.gdplayertv.to/live-tv/music-on-tv/?embed=1
 Music Top TV	`1https://en.gdplayertv.to/live-tv/music-top-tv/?embed=1
 Music TV	`1https://en.gdplayertv.to/live-tv/music-tv/?embed=1
-Musica TV	01`01g7619?zyz
+Musica TV*	01`01g7619?zyz
 Musik Indonesia TV	`1https://en.gdplayertv.to/live-tv/musik-indonesia-tv/?embed=1
 MUTV	`1https://en.gdplayertv.to/live-tv/mutv/?embed=1
 My Cinema Asia TV	`1https://en.gdplayertv.to/live-tv/my-cinema-asia/?embed=1
@@ -686,7 +686,7 @@ NOW 70s TV	`1https://en.gdplayertv.to/live-tv/now-70s/?embed=1
 NOW 80s TV	`1https://en.gdplayertv.to/live-tv/now-80s/?embed=1
 NOW Rock TV	`1https://en.gdplayertv.to/live-tv/now-rock/?embed=1
 NTV Plus	`1https://en.gdplayertv.to/live-tv/ntv-plus/?embed=1
-Nusantara TV	01`01g7432?zyz
+Nusantara TV*	01`01g7432?zyz
 OCN Movies 2 TV	`1https://en.gdplayertv.to/live-tv/ocn-movies-2/?embed=1
 OCN Movies TV	`1https://en.gdplayertv.to/live-tv/ocn-movies/?embed=1
 OCN TV	`1https://en.gdplayertv.to/live-tv/ocn/?embed=1
@@ -719,7 +719,7 @@ Radio 51 TV	`1https://en.gdplayertv.to/live-tv/radio-51-tv/?embed=1
 Rai 1 TV	`1https://en.gdplayertv.to/live-tv/rai-1-tv/?embed=1
 Rai 2 TV	`1https://en.gdplayertv.to/live-tv/rai-2-tv/?embed=1
 Rai Sport TV	`1https://en.gdplayertv.to/live-tv/rai-sport-tv/?embed=1
-Rans Channel	01`01g8241?zyz
+Rans Channel*	01`01g8241?zyz
 Rally TV	`1https://en.gdplayertv.to/live-tv/rally-tv/?embed=1
 Real Madrid TV	`1https://en.gdplayertv.to/live-tv/real-madrid-tv/?embed=1
 Red Bull TV	`1https://en.gdplayertv.to/live-tv/red-bull-tv/?embed=1
@@ -896,7 +896,7 @@ TBS TV 한국	`1https://en.gdplayertv.to/live-tv/tbs-tv/?embed=1
 TeenNick TV	`1https://en.gdplayertv.to/live-tv/teennick/?embed=1
 Tele-Asa Channel 1	`1https://en.gdplayertv.to/live-tv/tv-asahi-ch1/?embed=1
 Tele-Asa Channel 2	`1https://en.gdplayertv.to/live-tv/tv-asahi-ch2/?embed=1
-Tempo TV	01`01g7946?zyz
+Tempo TV*	01`01g7946?zyz
 TEN Sports TV Pakistan	`1https://en.gdplayertv.to/live-tv/ten-sports-pk/?embed=1
 Tennis Channel TV	`1https://en.gdplayertv.to/live-tv/tennis-channel/?embed=1
 Tetsudo Channel	`1https://en.gdplayertv.to/live-tv/tetsudo-ch/?embed=1
@@ -1029,7 +1029,7 @@ Ziggo Sport Racing TV	`1https://en.gdplayertv.to/live-tv/ziggo-sport-racing/?emb
 Ziggo Sport Select TV	`1https://en.gdplayertv.to/live-tv/ziggo-sport-select/?embed=1
 Ziggo Sport Voetbal TV	`1https://en.gdplayertv.to/live-tv/ziggo-sport-voetbal/?embed=1
 ZooMoo TV	`1https://en.gdplayertv.to/live-tv/zoomoo/?embed=1
-ZooMoo TV	01`01g6533?zyz
+ZooMoo TV*	01`01g6533?zyz
 Channels below are only for Desktop Chrome	^--
 MoonBug.id	https://melon-live-cdn.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd
 My-Kids.id	https://melon-live-cdn.mncnow.id/live/eds/My-Kids/sa_dash_vmx/My-Kids.mpd
