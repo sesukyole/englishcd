@@ -17,9 +17,11 @@ ID Indosiar 3	01`01dstreaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
 ID Indosiar 4	01`01datemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd``5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
 ID Indosiar 5**	01`01g205?zyz`
 ID Liga 1 Channels *2	`0i3`012024/08/ligaidn.html
-ID Liga 1 A	https://live2.procdnlive.com/livecdn/channel8.m3u8?auth_key=3000001724825205-0-0-e6520ad5fd5d180bfedcbfe865d56293
-ID Liga 1 B	`0https://live.sportsnews.id/p/ch2.html
-ID Liga 1 C	`0https://live.sportsnews.id/p/ch3.html
+ID Liga 1 A	https://live2.procdnlive.com/livecdn/channel21.m3u8?auth_key=3000001724045916-0-0-cf6946e7efaaa70e61187fa7bb8d1410
+ID Liga 1 B	https://live2.procdnlive.com/livecdn/channel8.m3u8?auth_key=3000001724825205-0-0-e6520ad5fd5d180bfedcbfe865d56293
+ID Liga 1 C	https://live2.procdnlive.com/livecdn/channel5.m3u8?auth_key=3000001723961468-0-0-0775f7fd12ea4af4dba1d3539389804b
+ID Liga 1 D	`0https://live.sportsnews.id/p/ch2.html
+ID Liga 1 E	`0https://live.sportsnews.id/p/ch3.html
 ID SCTV 1	https://op-group1-swiftservesd-1.dens.tv/s/s03/02.m3u8
 ID SCTV 2	https://op-group1-swiftservesd-1.dens.tv/s/s03/01.m3u8
 ID SCTV 3	https://op-group1-swiftservehd-1.dens.tv/h/h217/01.m3u8
