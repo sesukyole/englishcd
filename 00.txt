@@ -6,10 +6,9 @@ Arena Sport Premier League	https://webtvstream.bhtelecom.ba/hls6/premier_league.
 Arena Sport Premium 1	https://webtvstream.bhtelecom.ba/hls6/as_premium1.mpd``c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 Arena Sport Premium 2	https://webtvstream.bhtelecom.ba/hls6/as_premium2.mpd``c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 Arena Sport Premium 3	https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd``c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-🇮🇩 Channels: Ⓜa1, Ⓧa2 & Ⓞb0	^--
-ID Liga 1 A	https://live2.procdnlive.com/livecdn/channel21.m3u8?auth_key=3000001724045916-0-0-cf6946e7efaaa70e61187fa7bb8d1410
-ID Liga 1 B	https://live2.procdnlive.com/livecdn/channel8.m3u8?auth_key=3000001724825205-0-0-e6520ad5fd5d180bfedcbfe865d56293
-ID Liga 1 C	https://live2.procdnlive.com/livecdn/channel5.m3u8?auth_key=3000001723961468-0-0-0775f7fd12ea4af4dba1d3539389804b
+ID Live Events A	https://live2.procdnlive.com/livecdn/channel21.m3u8?auth_key=3000001724045916-0-0-cf6946e7efaaa70e61187fa7bb8d1410
+ID Live Events B	https://live2.procdnlive.com/livecdn/channel8.m3u8?auth_key=3000001724825205-0-0-e6520ad5fd5d180bfedcbfe865d56293
+ID Live Events C	https://live2.procdnlive.com/livecdn/channel5.m3u8?auth_key=3000001723961468-0-0-0775f7fd12ea4af4dba1d3539389804b
 SS Premier League	`0i3`00DSTVPREMIERLEAGUE
 SS LaLiga	`0i3`00DSTVLALIGA
 SS FootBall	`0i3`00DSTVFOOTBALL

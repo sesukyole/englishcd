@@ -7,7 +7,7 @@
 {h} Ⓣ Movies Film 3	^^h6
 {s} * Kodi	^^s3
 {h} * Free IPTV	^^hhttps://raw.githubusercontent.com/ipstreet312/freeiptv/master/all.m3u
-🇮🇩 Channels: Ⓜa1, Ⓧa2 & Ⓞb0	^--
+🆔 Channels: Ⓜa1, Ⓧa2 & Ⓞb0	^--
 {s} Ⓗa0 ⚽️Live Sports	^^sa0
 {s} Ⓜa1 🤹Multi 🆔	^^sa1
 {s} Ⓧa2 🤺eXtra 🆔	^^sa2

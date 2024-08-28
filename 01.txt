@@ -1,6 +1,7 @@
 SA Makkah	https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
 SA Medina 1	https://op-group1-swiftservesd-1.dens.tv/s/s27/02.m3u8
 SA Medina 2	https://op-group1-swiftservesd-1.dens.tv/s/s27/01.m3u8
+ID Makkah TV	01`00a130/alquran/index.m3u8?c
 PS Palestine Today	https://live.paltodaytv.com/paltv/live/playlist.m3u8
 PS Palestine TV	https://pbc.furrera.ps/palestinehd/index.m3u8
 PS Musawwa	https://pbc.furrera.ps/musawahd/index.m3u8
@@ -21,8 +22,7 @@ Action Movies M	i3`066566671?zyz
 Action Movies N	i3`061226741?zyz
 Action Movies O	i3`064246519?zyz
 Action Movies P	i3`06252802?zyz
-🇮🇩 Channels: Ⓜa1, Ⓧa2 & Ⓞb0	^--
-ID Makkah TV	01`00a130/alquran/index.m3u8?c
+🆔 Channels: Ⓜa1, Ⓧa2 & Ⓞb0	^--
 ID AFN	01`00a133/afc/index.m3u8?c
 ID Animal Planet	01`00a194/animalplanet/index.m3u8?c
 ID AniMax	01`00a130/animax/index.m3u8?c

@@ -1,8 +1,8 @@
 ID ANTV	00`a01106.m3u8
 ID GTV	00`a01109.m3u8
 ID iNews	00`a0199.m3u8
-🇮🇩 Channels: Ⓜa1, Ⓧa2 & Ⓞb0	^--
 ID RCTI	00`a01100.m3u8
+🆔 Channels: Ⓜa1, Ⓧa2 & Ⓞb0	^--
 ID Trans7	00`a01103.m3u8
 ID TransTV	00`a01102.m3u8
 ID tvOne	00`a01107.m3u8
