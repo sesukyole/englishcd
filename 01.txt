@@ -5,6 +5,7 @@ PS Palestine Today	https://live.paltodaytv.com/paltv/live/playlist.m3u8
 PS Palestine TV	https://pbc.furrera.ps/palestinehd/index.m3u8
 PS Musawwa	https://pbc.furrera.ps/musawahd/index.m3u8
 PS Voice of Palestine	https://pbc.furrera.ps/PalLive/VOPTV/index.m3u8
+🇮🇩 Channels: Ⓜa1, Ⓧa2 & Ⓞb0	^--
 ID Makkah TV	01`00a130/alquran/index.m3u8?c
 ID AFN	01`00a133/afc/index.m3u8?c
 ID Animal Planet	01`00a194/animalplanet/index.m3u8?c
