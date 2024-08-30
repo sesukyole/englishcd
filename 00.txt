@@ -40,11 +40,13 @@ RTL	https://pnowlive-a.akamaized.net/live/rtlhd/dash/rtlhd.mpd``57e48b99f3f6d4f1
 NO V Sport 1	https://rikstv-live-scalstrm.telenorcdn.net/live/rikstv/644bb6e91dbc891fd422efc9/manifest.mpd``4d808f2b9a74536cadbd95be141888ed:9dd89f67b8885dc65721a8b1fbeae700
 NO V Sport 2	https://rikstv-live-scalstrm.telenorcdn.net/live/rikstv/644bb6e91dbc891fd422efef/manifest.mpd``0d3ff38c34985fdd81a37567646322b9:6b4504297769acefae2e50920b7c8a77
 NO V Sport 3	https://rikstv-live-scalstrm.telenorcdn.net/live/rikstv/644bb6ea1dbc891fd422f01e/manifest.mpd``fdcb8ee4623458e5832a92801fc723b1:634a67c44b7b7030872043df95c1a55e
-ID Live Events A	https://live2.procdnlive.com/livecdn/channel21.m3u8?auth_key=3000001724045916-0-0-cf6946e7efaaa70e61187fa7bb8d1410
-ID Live Events B	https://live2.procdnlive.com/livecdn/channel8.m3u8?auth_key=3000001724825205-0-0-e6520ad5fd5d180bfedcbfe865d56293
-ID Live Events C	https://live2.procdnlive.com/livecdn/channel5.m3u8?auth_key=3000001723961468-0-0-0775f7fd12ea4af4dba1d3539389804b
-ID Live Events D	https://live2.procdnlive.com/livecdn/channel10.m3u8?auth_key=3000001724754689-0-0-a63c1b082a016c87b5314763ac849f29
-ID Live Events E	https://live2.procdnlive.com/livecdn/channel6.m3u8?auth_key=3000001724651482-0-0-26b0e15b29812a53ed9627bac3582fb1
+ID Live Events A	`0https://live.sportsnews.id/p/ch2.html
+ID Live Events B	`0https://live.sportsnews.id/p/ch3.html
+ID Live Events C	https://live2.procdnlive.com/livecdn/channel21.m3u8?auth_key=3000001724045916-0-0-cf6946e7efaaa70e61187fa7bb8d1410
+ID Live Events D	https://live2.procdnlive.com/livecdn/channel8.m3u8?auth_key=3000001724825205-0-0-e6520ad5fd5d180bfedcbfe865d56293
+ID Live Events E	https://live2.procdnlive.com/livecdn/channel5.m3u8?auth_key=3000001723961468-0-0-0775f7fd12ea4af4dba1d3539389804b
+ID Live Events F	https://live2.procdnlive.com/livecdn/channel10.m3u8?auth_key=3000001724754689-0-0-a63c1b082a016c87b5314763ac849f29
+ID Live Events G	https://live2.procdnlive.com/livecdn/channel6.m3u8?auth_key=3000001724651482-0-0-26b0e15b29812a53ed9627bac3582fb1
 SS Premier League	`0i3`00DSTVPREMIERLEAGUE
 SS LaLiga	`0i3`00DSTVLALIGA
 SS FootBall	`0i3`00DSTVFOOTBALL
