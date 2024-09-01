@@ -1,11 +1,12 @@
 ID Live Events 1	`0https://live.sportsnews.id/p/ch2.html
 ID Live Events 2	`0https://live.sportsnews.id/p/ch3.html
 ID Live Events Channels *2	`0i3`012024/08/ligaidn.html
-ID Live Events A	https://live2.procdnlive.com/livecdn/channel21.m3u8?auth_key=3000001724045916-0-0-cf6946e7efaaa70e61187fa7bb8d1410
-ID Live Events B	https://live2.procdnlive.com/livecdn/channel8.m3u8?auth_key=3000001724825205-0-0-e6520ad5fd5d180bfedcbfe865d56293
-ID Live Events C	https://live2.procdnlive.com/livecdn/channel5.m3u8?auth_key=3000001723961468-0-0-0775f7fd12ea4af4dba1d3539389804b
-ID Live Events D	https://live2.procdnlive.com/livecdn/channel10.m3u8?auth_key=3000001724754689-0-0-a63c1b082a016c87b5314763ac849f29
-ID Live Events E	https://live2.procdnlive.com/livecdn/channel6.m3u8?auth_key=3000001724651482-0-0-26b0e15b29812a53ed9627bac3582fb1
+ID Live Events A	https://live2.procdnlive.com/livecdn/channel3.m3u8?auth_key=3000001725001915-0-0-6a9fde85cf58f4d279f64f81ece6e1c8
+ID Live Events B	https://live2.procdnlive.com/livecdn/channel10.m3u8?auth_key=3000001724754689-0-0-a63c1b082a016c87b5314763ac849f29
+ID Live Events C	https://live2.procdnlive.com/livecdn/channel6.m3u8?auth_key=3000001724651482-0-0-26b0e15b29812a53ed9627bac3582fb1
+ID Live Events D	https://live2.procdnlive.com/livecdn/channel21.m3u8?auth_key=3000001724045916-0-0-cf6946e7efaaa70e61187fa7bb8d1410
+ID Live Events E	https://live2.procdnlive.com/livecdn/channel8.m3u8?auth_key=3000001724825205-0-0-e6520ad5fd5d180bfedcbfe865d56293
+ID Live Events F	https://live2.procdnlive.com/livecdn/channel5.m3u8?auth_key=3000001723961468-0-0-0775f7fd12ea4af4dba1d3539389804b
 SpoTV 1	01`01datemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd``e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
 SpoTV 2	01`01datemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd``e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
 🆔 Channels: Ⓜa1, Ⓧa2 & Ⓞb0	^--
@@ -160,6 +161,7 @@ Badminton Indonesia Masters 4	https://lebo.huminbird.cn/live/ballbar_28310.m3u8
 Badminton Korea Open 1	https://lebo.huminbird.cn/live/ballbar_30070.m3u8
 Badminton Korea Open 2	https://lebo.huminbird.cn/live/ballbar_27490.m3u8
 Badminton Korea Open 3	https://lebo.huminbird.cn/live/ballbar_31340.m3u8
+Badminton Korea Open 4	https://lebo.huminbird.cn/live/ballbar_38180.m3u8
 100%! Space Shower TV Plus	`1https://en.gdplayertv.to/live-tv/space-shower-tv-plus/?embed=1
 A Spor TV	`1https://en.gdplayertv.to/live-tv/a-spor-tv/?embed=1
 A Sports TV	`1https://en.gdplayertv.to/live-tv/a-sports-tv/?embed=1
