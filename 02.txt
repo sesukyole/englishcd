@@ -1,4 +1,6 @@
-Indonesia U19 vs South Korea U19	`0https://jack4uso.freedombetter54.shop/id/football/international-friendly-4047703/korea-republic-u19-vs-indonesia-u19.html
+Indonesia U19 vs South Korea U19 A	https://bf.shandongjnkt.com/live/322697_hd01.m3u8?txSecret=f0de679aea42d2059b3d530135113d0b&txTime=66d44078
+Indonesia U19 vs South Korea U19 B	https://bf.shandongjnkt.com/live/322580_hd01.m3u8?txSecret=86a8da1f87552344716ecaaa4b04bbe6&txTime=66d444bb
+Indonesia U19 vs South Korea U19 C	`0https://jack4uso.freedombetter54.shop/id/football/international-friendly-4047703/korea-republic-u19-vs-indonesia-u19.html
 ID Live Events 1	https://live2.procdnlive.com/livecdn/channel3.m3u8?auth_key=3000001724977535-0-0-6c3958acacd0a839bb8091375db68337
 ID Live Events 2	https://live2.procdnlive.com/livecdn/channel3.m3u8?auth_key=3000001725001915-0-0-6a9fde85cf58f4d279f64f81ece6e1c8
 ID Live Events 3	`0https://live.sportsnews.id/p/ch2.html
