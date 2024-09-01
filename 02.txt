@@ -1,5 +1,6 @@
-ID Live Events 1	`0https://live.sportsnews.id/p/ch2.html
-ID Live Events 2	`0https://live.sportsnews.id/p/ch3.html
+ID Live Events 1	https://live2.procdnlive.com/livecdn/channel3.m3u8?auth_key=3000001724977535-0-0-6c3958acacd0a839bb8091375db68337
+ID Live Events 2	`0https://live.sportsnews.id/p/ch2.html
+ID Live Events 3	`0https://live.sportsnews.id/p/ch3.html
 ID Live Events Channels *2	`0i3`012024/08/ligaidn.html
 ID Live Events A	https://live2.procdnlive.com/livecdn/channel3.m3u8?auth_key=3000001725001915-0-0-6a9fde85cf58f4d279f64f81ece6e1c8
 ID Live Events B	https://live2.procdnlive.com/livecdn/channel10.m3u8?auth_key=3000001724754689-0-0-a63c1b082a016c87b5314763ac849f29
@@ -154,14 +155,15 @@ Nusantara TV*	01`01g7432?zyz
 Rans Channel*	01`01g8241?zyz
 Tempo TV*	01`01g7946?zyz
 ZooMoo TV*	01`01g6533?zyz
-Badminton Indonesia Masters 1	https://lebo.huminbird.cn/live/ballbar_36370.m3u8
-Badminton Indonesia Masters 2	https://lebo.huminbird.cn/live/ballbar_31080.m3u8
-Badminton Indonesia Masters 3	https://lebo.huminbird.cn/live/ballbar_31050.m3u8
-Badminton Indonesia Masters 4	https://lebo.huminbird.cn/live/ballbar_28310.m3u8
-Badminton Korea Open 1	https://lebo.huminbird.cn/live/ballbar_30070.m3u8
-Badminton Korea Open 2	https://lebo.huminbird.cn/live/ballbar_27490.m3u8
-Badminton Korea Open 3	https://lebo.huminbird.cn/live/ballbar_31340.m3u8
-Badminton Korea Open 4	https://lebo.huminbird.cn/live/ballbar_38180.m3u8
+Badminton Indonesia Masters 1	https://lebo.huminbird.cn/live/ballbar_29950.m3u8
+Badminton Indonesia Masters 2	https://lebo.huminbird.cn/live/ballbar_36370.m3u8
+Badminton Indonesia Masters 3	https://lebo.huminbird.cn/live/ballbar_31080.m3u8
+Badminton Indonesia Masters 4	https://lebo.huminbird.cn/live/ballbar_31050.m3u8
+Badminton Indonesia Masters 5	https://lebo.huminbird.cn/live/ballbar_28310.m3u8
+Badminton Korea Open 1	https://lebo.huminbird.cn/live/ballbar_38180.m3u8
+Badminton Korea Open 2	https://lebo.huminbird.cn/live/ballbar_30070.m3u8
+Badminton Korea Open 3	https://lebo.huminbird.cn/live/ballbar_27490.m3u8
+Badminton Korea Open 4	https://lebo.huminbird.cn/live/ballbar_31340.m3u8
 100%! Space Shower TV Plus	`1https://en.gdplayertv.to/live-tv/space-shower-tv-plus/?embed=1
 A Spor TV	`1https://en.gdplayertv.to/live-tv/a-spor-tv/?embed=1
 A Sports TV	`1https://en.gdplayertv.to/live-tv/a-sports-tv/?embed=1
