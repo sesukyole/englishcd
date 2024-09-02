@@ -5,6 +5,7 @@
 {h} Ⓨ Movies Film 1	^^h4
 {h} Ⓩ Movies Film 2	^^h5
 {h} Ⓣ Movies Film 3	^^h6
+{h} * Movies Film VOD 1	^^hhttps://raw.githubusercontent.com/mimipipi22/lalajo/main/vod
 {s} * Kodi	^^s3
 {h} * Free IPTV	^^hhttps://raw.githubusercontent.com/ipstreet312/freeiptv/master/all.m3u
 🆔 Channels: Ⓜa1, Ⓧa2 & Ⓞb0	^--

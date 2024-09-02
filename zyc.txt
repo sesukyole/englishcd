@@ -6,6 +6,7 @@
 {h} Ⓨ Movies Film 2	^^h4
 {h} Ⓩ Movies Film 3	^^h5
 {h} Ⓣ Movies Film 4	^^h6
+{h} * Movies Film VOD 1	^^hhttps://raw.githubusercontent.com/mimipipi22/lalajo/main/vod
 {s} * Plex	^^shttps://i.mjh.nz/Plex/all.m3u8
 {s} * Stirr	^^shttps://i.mjh.nz/Stirr/all.m3u8
 {s} * Kodi	^^shttps://i.mjh.nz/all/kodi-tv.m3u8
@@ -13,7 +14,9 @@
 {h} * TH 1	^^hhttps://freenote.biz/raw/gk9psZfSQu
 {h} * Film 1	^^hhttps://gist.githubusercontent.com/Jeffguitar/8fc1fdd9b895447bb612/raw/9bb268792ae517d4338c6c51e78358d9c3fc87bf/filmes8.m3u
 {h} * Free 1	^^hhttps://freenote.biz/raw/orxenzp7zz
-{s} * Playlist24	^^hhttps://raw.githubusercontent.com/mimipipi22/lalajo/main/playlist24
+{s} * playlist24	^^shttps://raw.githubusercontent.com/mimipipi22/lalajo/main/playlist24
+{s} * yoyo	^^shttps://raw.githubusercontent.com/mimipipi22/lalajo/main/yoyo
+{s} * hbogoasia	^^shttps://raw.githubusercontent.com/mimipipi22/lalajo/main/hbogoasia
 {s} Ⓗa0 ⚽️Live Sports	^^sa0
 {s} Ⓜa1 🤹Multi	^^sa1
 {s} Ⓧa2 🤺eXtra 🆔	^^sa2
