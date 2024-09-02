@@ -42,8 +42,6 @@ RTL	https://pnowlive-a.akamaized.net/live/rtlhd/dash/rtlhd.mpd``57e48b99f3f6d4f1
 NO V Sport 1	https://rikstv-live-scalstrm.telenorcdn.net/live/rikstv/644bb6e91dbc891fd422efc9/manifest.mpd``4d808f2b9a74536cadbd95be141888ed:9dd89f67b8885dc65721a8b1fbeae700
 NO V Sport 2	https://rikstv-live-scalstrm.telenorcdn.net/live/rikstv/644bb6e91dbc891fd422efef/manifest.mpd``0d3ff38c34985fdd81a37567646322b9:6b4504297769acefae2e50920b7c8a77
 NO V Sport 3	https://rikstv-live-scalstrm.telenorcdn.net/live/rikstv/644bb6ea1dbc891fd422f01e/manifest.mpd``fdcb8ee4623458e5832a92801fc723b1:634a67c44b7b7030872043df95c1a55e
-ID Live Events 1	`0https://live.sportsnews.id/p/ch2.html
-ID Live Events 2	`0https://live.sportsnews.id/p/ch3.html
 SS Premier League	`0i3`00DSTVPREMIERLEAGUE
 SS LaLiga	`0i3`00DSTVLALIGA
 SS FootBall	`0i3`00DSTVFOOTBALL
@@ -71,6 +69,7 @@ Sport TV 4	`0i3`00SPT4
 Sport TV 5	`0i3`00SPT5
 Sport TV 6	`0i3`00SPT6
 Sport TV +	`0i3`00SPTPlus
+ES Eurosports 1	01`01datemecdnbalancer-voe.sysln.id/live/eds/EUROSPORTHD/mpd/EUROSPORTHD.mpd``47c03f29f04747d2a298c0ad63f3b2c1:8b48b2cb2743b91d5f20cf2622067f3a
 Sky Sport Cricket UK	`0i3`00skysportscricketuk
 Arena ESport	`0i3`012024/03/arenaes.html
 DAZN 1	`0i3`012024/03/ts1.html

@@ -1,16 +1,15 @@
-Indonesia U19 vs South Korea U19 A	https://bf.shandongjnkt.com/live/322697_hd01.m3u8?txSecret=f0de679aea42d2059b3d530135113d0b&txTime=66d44078
-Indonesia U19 vs South Korea U19 B	https://bf.shandongjnkt.com/live/322580_hd01.m3u8?txSecret=86a8da1f87552344716ecaaa4b04bbe6&txTime=66d444bb
-Indonesia U19 vs South Korea U19 C	`0https://jack4uso.freedombetter54.shop/id/football/international-friendly-4047703/korea-republic-u19-vs-indonesia-u19.html
-ID Live Events 1	https://live2.procdnlive.com/livecdn/channel3.m3u8?auth_key=3000001724977535-0-0-6c3958acacd0a839bb8091375db68337
-ID Live Events 2	https://live2.procdnlive.com/livecdn/channel3.m3u8?auth_key=3000001725001915-0-0-6a9fde85cf58f4d279f64f81ece6e1c8
-ID Live Events 3	`0https://live.sportsnews.id/p/ch2.html
-ID Live Events 4	`0https://live.sportsnews.id/p/ch3.html
+ID Live Events A	`0https://live.sportsnews.id/p/ch2.html
+ID Live Events B	`0https://live.sportsnews.id/p/ch3.html
 ID Live Events Channels *2	`0i3`012024/08/ligaidn.html
-ID Live Events A	https://live2.procdnlive.com/livecdn/channel10.m3u8?auth_key=3000001724754689-0-0-a63c1b082a016c87b5314763ac849f29
-ID Live Events B	https://live2.procdnlive.com/livecdn/channel6.m3u8?auth_key=3000001724651482-0-0-26b0e15b29812a53ed9627bac3582fb1
-ID Live Events C	https://live2.procdnlive.com/livecdn/channel5.m3u8?auth_key=3000001723961468-0-0-0775f7fd12ea4af4dba1d3539389804b
-ID Live Events D	https://live2.procdnlive.com/livecdn/channel8.m3u8?auth_key=3000001724825205-0-0-e6520ad5fd5d180bfedcbfe865d56293
-ID Live Events E	https://live2.procdnlive.com/livecdn/channel21.m3u8?auth_key=3000001724045916-0-0-cf6946e7efaaa70e61187fa7bb8d1410
+ID Live Events 1	https://bf.shandongjnkt.com/live/322697_hd01.m3u8?txSecret=f0de679aea42d2059b3d530135113d0b&txTime=66d44078
+ID Live Events 2	https://bf.shandongjnkt.com/live/322580_hd01.m3u8?txSecret=86a8da1f87552344716ecaaa4b04bbe6&txTime=66d444bb
+ID Live Events A	https://live2.procdnlive.com/livecdn/channel3.m3u8?auth_key=3000001724977535-0-0-6c3958acacd0a839bb8091375db68337
+ID Live Events B	https://live2.procdnlive.com/livecdn/channel3.m3u8?auth_key=3000001725001915-0-0-6a9fde85cf58f4d279f64f81ece6e1c8
+ID Live Events C	https://live2.procdnlive.com/livecdn/channel10.m3u8?auth_key=3000001724754689-0-0-a63c1b082a016c87b5314763ac849f29
+ID Live Events D	https://live2.procdnlive.com/livecdn/channel6.m3u8?auth_key=3000001724651482-0-0-26b0e15b29812a53ed9627bac3582fb1
+ID Live Events E	https://live2.procdnlive.com/livecdn/channel5.m3u8?auth_key=3000001723961468-0-0-0775f7fd12ea4af4dba1d3539389804b
+ID Live Events F	https://live2.procdnlive.com/livecdn/channel8.m3u8?auth_key=3000001724825205-0-0-e6520ad5fd5d180bfedcbfe865d56293
+ID Live Events G	https://live2.procdnlive.com/livecdn/channel21.m3u8?auth_key=3000001724045916-0-0-cf6946e7efaaa70e61187fa7bb8d1410
 🆔 Channels: Ⓜa1, Ⓧa2 & Ⓞb0	^--
 ID Football	00`a05rcti-soccerchannel-hd/sa_hls/rcti-soccerchannel-hd.m3u8?c
 ID Sport 1	00`a05rcti-sportstar/sa_hls/rcti-sportstar.m3u8?c
@@ -1188,4 +1187,5 @@ NatGeoWild.id	01`02aNatGeoWild/sa_dash_vmx/NatGeoWild.mpd``c3066eaa0984588f78d12
 ID Sport 3	00`a05mncsport3/sa_hls/mncsport3.m3u8?c
 ID Sport 4	00`a05VplusLiveRplus/sa_hls/VplusLiveRplus.m3u8?c
 ID RRI Net	https://private-streaming.rri.go.id/memfs/ff303a23-f1db-4cb3-95f9-4ae7bef2a392.m3u8
+ID RRI Net	https://private-streaming.rri.go.id/memfs/ff303a23-f1db-4cb3-95f9-4ae7bef2a392_output_0.m3u8
 ID DAAI TV	https://dacastmmd.mmdlive.lldns.net/dacastmmd/683cc426c19442a4ba31c53be5c963bb/index.m3u8
