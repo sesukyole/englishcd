@@ -11,10 +11,11 @@
 {h} * Stirr	^^hhttps://i.mjh.nz/Stirr/all.m3u8
 {h} * Kodi	^^hhttps://i.mjh.nz/all/kodi-tv.m3u8
 {h} * Free IPTV	^^hhttps://raw.githubusercontent.com/ipstreet312/freeiptv/master/all.m3u
+{h} * International Channels 1	^^hhttps://raw.githubusercontent.com/inspirationlinks/m3u/live/pt.m3u8
+{h} * International Channels 2	^^hhttps://freenote.biz/raw/dyv52mh0zb
 {h} * TH 1	^^hhttps://freenote.biz/raw/gk9psZfSQu
 {h} * Film 1	^^hhttps://gist.githubusercontent.com/Jeffguitar/8fc1fdd9b895447bb612/raw/9bb268792ae517d4338c6c51e78358d9c3fc87bf/filmes8.m3u
 {h} * Free 1	^^hhttps://freenote.biz/raw/orxenzp7zz
-{h} * 🇵🇹 Portugal	^^hhttps://raw.githubusercontent.com/inspirationlinks/m3u/live/pt.m3u8
 {s} * playlist24	^^shttps://raw.githubusercontent.com/mimipipi22/lalajo/main/playlist24
 {s} * yoyo	^^shttps://raw.githubusercontent.com/mimipipi22/lalajo/main/yoyo
 {s} * hbogoasia	^^shttps://raw.githubusercontent.com/mimipipi22/lalajo/main/hbogoasia
@@ -30,7 +31,7 @@
 {h} Ⓢ 0 Samsung	^^hhttps://i.mjh.nz/SamsungTVPlus/all.m3u8
 {h} Ⓟ 1 Pluto	^^hhttps://i.mjh.nz/PlutoTV/all.m3u8
 {h} * Sports TV	^^hk^sports.m3u
-🌍 International	^^hc^int.m3u
+🌍 Countries: International	^^hc^int.m3u
 🇮🇩 Indonesia	^^hc^id.m3u
 {h} Ⓘ 2 iptv-org	^^h2
 <br>These Action Movies are for Mobile Only<br>	^--

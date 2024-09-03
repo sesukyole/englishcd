@@ -8,7 +8,8 @@
 {h} * Movies Film VOD 1	^^hhttps://raw.githubusercontent.com/mimipipi22/lalajo/main/vod
 {h} * Kodi	^^h3
 {h} * Free IPTV	^^hhttps://raw.githubusercontent.com/ipstreet312/freeiptv/master/all.m3u
-{h} * International Channels	^^hhttps://raw.githubusercontent.com/inspirationlinks/m3u/live/pt.m3u8
+{h} * International Channels 1	^^hhttps://raw.githubusercontent.com/inspirationlinks/m3u/live/pt.m3u8
+{h} * International Channels 2	^^hhttps://freenote.biz/raw/dyv52mh0zb
 🆔 Channels: Ⓜa1, Ⓧa2 & Ⓞb0	^--
 {s} Ⓗa0 ⚽️Live Sports	^^sa0
 {s} Ⓜa1 🤹Multi 🆔	^^sa1
