@@ -30,7 +30,8 @@ ID SCTV 2	https://op-group1-swiftservesd-1.dens.tv/s/s03/01.m3u8
 ID SCTV 3	https://op-group1-swiftservehd-1.dens.tv/h/h217/01.m3u8
 ID SCTV 4	https://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 ID SCTV 5	01`01dstreaming.indihometv.com/atm/DASH/sctv/manifest.mpd
-ID SCTV 6**	01`01g204?zyz`
+ID SCTV 6	01`01datemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd``a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
+ID SCTV 7**	01`01g204?zyz`
 ID Moji 1	01`00a134/ochannel/index.m3u8?c
 ID Moji 2	https://op-group1-swiftservesd-1.dens.tv/s/s41/02.m3u8
 ID Moji 3	https://op-group1-swiftservesd-1.dens.tv/s/s41/01.m3u8
@@ -155,6 +156,8 @@ Nusantara TV*	01`01g7432?zyz
 Rans Channel*	01`01g8241?zyz
 Tempo TV*	01`01g7946?zyz
 ZooMoo TV*	01`01g6533?zyz
+SpoTV 1	01`01datemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd``e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
+SpoTV 2	01`01datemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd``e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
 Badminton Indonesia Masters 1	https://lebo.huminbird.cn/live/ballbar_29950.m3u8
 Badminton Indonesia Masters 2	https://lebo.huminbird.cn/live/ballbar_36370.m3u8
 Badminton Indonesia Masters 3	https://lebo.huminbird.cn/live/ballbar_31080.m3u8
@@ -164,8 +167,9 @@ Badminton Korea Open 1	https://lebo.huminbird.cn/live/ballbar_38180.m3u8
 Badminton Korea Open 2	https://lebo.huminbird.cn/live/ballbar_30070.m3u8
 Badminton Korea Open 3	https://lebo.huminbird.cn/live/ballbar_27490.m3u8
 Badminton Korea Open 4	https://lebo.huminbird.cn/live/ballbar_31340.m3u8
-SpoTV 1	01`01datemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd``e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
-SpoTV 2	01`01datemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd``e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
+Badminton Japan Open 1	`0https://streaming.sportsnews.id/p/ch12.html
+Badminton Japan Open 2	`0https://streaming.sportsnews.id/p/ch13.html
+Badminton Japan Open 3	`0https://streaming.sportsnews.id/p/ch14.html
 100%! Space Shower TV Plus	`1https://en.gdplayertv.to/live-tv/space-shower-tv-plus/?embed=1
 A Spor TV	`1https://en.gdplayertv.to/live-tv/a-spor-tv/?embed=1
 A Sports TV	`1https://en.gdplayertv.to/live-tv/a-sports-tv/?embed=1
