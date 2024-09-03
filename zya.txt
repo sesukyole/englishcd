@@ -6,7 +6,7 @@
 {h} Ⓩ Movies Film 2	^^h5
 {h} Ⓣ Movies Film 3	^^h6
 {h} * Movies Film VOD 1	^^hhttps://raw.githubusercontent.com/mimipipi22/lalajo/main/vod
-{s} * Kodi	^^s3
+{h} * Kodi	^^h3
 {h} * Free IPTV	^^hhttps://raw.githubusercontent.com/ipstreet312/freeiptv/master/all.m3u
 🆔 Channels: Ⓜa1, Ⓧa2 & Ⓞb0	^--
 {s} Ⓗa0 ⚽️Live Sports	^^sa0
@@ -17,7 +17,7 @@
 {h} Ⓕb2 Fun	^^hb2
 {h} Ⓦb3 Wow Great!	^^hb3
 {s} Ⓢ 0 Movies Film	^^s0
-{s} Ⓟ 1 Pluto	^^s1
+{h} Ⓟ 1 Pluto	^^h1
 {h} * Sports TV	^^hk^sports.m3u
 🌍 International	^^hc^int.m3u
 🆔 Indonesia	^^hc^id.m3u

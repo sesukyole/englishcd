@@ -2,14 +2,14 @@
 {h} * Conspiracy Truth 1	^^h7
 {h} * Conspiracy Truth 2	^^h8
 {h} * Action Movies Film VOD	^^hhttps://raw.githubusercontent.com/Justryuz/jtv/main/actionvod.m3u
-{s} Ⓥ Movies Film 1	^^s3
+{s} Ⓥ Movies Film 1	^^s0
 {h} Ⓨ Movies Film 2	^^h4
 {h} Ⓩ Movies Film 3	^^h5
 {h} Ⓣ Movies Film 4	^^h6
 {h} * Movies Film VOD 1	^^hhttps://raw.githubusercontent.com/mimipipi22/lalajo/main/vod
-{s} * Plex	^^shttps://i.mjh.nz/Plex/all.m3u8
-{s} * Stirr	^^shttps://i.mjh.nz/Stirr/all.m3u8
-{s} * Kodi	^^shttps://i.mjh.nz/all/kodi-tv.m3u8
+{h} * Plex	^^hhttps://i.mjh.nz/Plex/all.m3u8
+{h} * Stirr	^^hhttps://i.mjh.nz/Stirr/all.m3u8
+{h} * Kodi	^^hhttps://i.mjh.nz/all/kodi-tv.m3u8
 {h} * Free IPTV	^^hhttps://raw.githubusercontent.com/ipstreet312/freeiptv/master/all.m3u
 {h} * TH 1	^^hhttps://freenote.biz/raw/gk9psZfSQu
 {h} * Film 1	^^hhttps://gist.githubusercontent.com/Jeffguitar/8fc1fdd9b895447bb612/raw/9bb268792ae517d4338c6c51e78358d9c3fc87bf/filmes8.m3u
@@ -24,10 +24,10 @@
 {h} Ⓒb1 Cool	^^hb1
 {h} Ⓕb2 Fun	^^hb2
 {h} Ⓦb3 Wow Great!	^^hb3
-{s} Ⓢ 0 Samsung	^^s0
-{s} Ⓟ 1 Pluto	^^s1
-{s} Ⓢ 0 Samsung	^^shttps://i.mjh.nz/SamsungTVPlus/all.m3u8
-{s} Ⓟ 1 Pluto	^^shttps://i.mjh.nz/PlutoTV/all.m3u8
+{h} Ⓢ 0 Samsung	^^h3
+{h} Ⓟ 1 Pluto	^^h1
+{h} Ⓢ 0 Samsung	^^hhttps://i.mjh.nz/SamsungTVPlus/all.m3u8
+{h} Ⓟ 1 Pluto	^^hhttps://i.mjh.nz/PlutoTV/all.m3u8
 {h} * Sports TV	^^hk^sports.m3u
 🌍 International	^^hc^int.m3u
 🇮🇩 Indonesia	^^hc^id.m3u
