@@ -8,7 +8,7 @@
 {h} * Movies Film VOD 1	^^hhttps://raw.githubusercontent.com/mimipipi22/lalajo/main/vod
 {h} * Kodi	^^h3
 {h} * Free IPTV	^^hhttps://raw.githubusercontent.com/ipstreet312/freeiptv/master/all.m3u
-{h} * 🇵🇹 Portugal	^^hhttps://raw.githubusercontent.com/inspirationlinks/m3u/live/pt.m3u8
+{h} * International Channels	^^hhttps://raw.githubusercontent.com/inspirationlinks/m3u/live/pt.m3u8
 🆔 Channels: Ⓜa1, Ⓧa2 & Ⓞb0	^--
 {s} Ⓗa0 ⚽️Live Sports	^^sa0
 {s} Ⓜa1 🤹Multi 🆔	^^sa1
@@ -20,7 +20,7 @@
 {s} Ⓢ 0 Movies Film	^^s0
 {h} Ⓟ 1 Pluto	^^h1
 {h} * Sports TV	^^hk^sports.m3u
-🌍 International	^^hc^int.m3u
+🌍 Countries: International	^^hc^int.m3u
 🆔 Indonesia	^^hc^id.m3u
 🇹🇭 Thailand	^^hc^th.m3u
 🇻🇳 Vietnam	^^hc^vn.m3u
