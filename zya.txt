@@ -8,6 +8,7 @@
 {h} * Movies Film VOD 1	^^hhttps://raw.githubusercontent.com/mimipipi22/lalajo/main/vod
 {h} * Kodi	^^h3
 {h} * Free IPTV	^^hhttps://raw.githubusercontent.com/ipstreet312/freeiptv/master/all.m3u
+{h} * 🇵🇹 Portugal	^^hhttps://raw.githubusercontent.com/inspirationlinks/m3u/live/pt.m3u8
 🆔 Channels: Ⓜa1, Ⓧa2 & Ⓞb0	^--
 {s} Ⓗa0 ⚽️Live Sports	^^sa0
 {s} Ⓜa1 🤹Multi 🆔	^^sa1
@@ -289,48 +290,7 @@ Relax	^^hk^relax.m3u
 {h} Ⓘ 2 iptv-org	^^h2
 {s} Ⓢ 0 Samsung	^^h10
 {s} Ⓟ 1 Pluto	^^h11
-Celtic x Rangers 18:30 | HD10 | SportTV2	^--
-Schalke 04 x Köln 18:30 | HD3	^--
-Newcastle United x Tottenham Hotspur 19:30 | HD1 | HD11 | Eleven2 | BR2	^--
-Chelsea x Crystal Palace 19:30 | HD5 | Eleven1 | BR5	^--
-F1: Italian Grand Prix Sunday 19:55 | HD9 | HD8 | SportTV4 | BR4	^--
-Monaco x Lens 20:00 | HD4 | SportTV5	^--
-Heidenheim x Augsburg 20:30 | HD3 | Eleven3	^--
-Sheffield United x Watford 21:00 | HD10	^--
-Grêmio x Atlético Mineiro 21:00 | BR1	^--
-Cruzeiro x Atlético Goianiense 21:00 | BR3	^--
-Nacional x Farense 21:30 | SportTV1	^--
-PSV x Go Ahead Eagles 21:45 | SportTV3	^--
-Manchester United x Liverpool 22:00 | HD1 | HD11 | Eleven1 | BR2	^--
-Osasuna x Celta de Vigo 22:00 | HD2 | HD6	^--
-Reims x Rennes 22:00 | HD4	^--
-Deportivo Alavés x Las Palmas 22:00 | Eleven2	^--
-Chaves x Mafra 22:00 | SportTV2	^--
-Bayern München x Freiburg 22:30 | HD3 | Eleven3 | BR6	^--
-Levadiakos x AEK Athens 23:00 | HD10	^--
-Eyüpspor x Trabzonspor 23:15 | HD9	^--
-Genoa x Hellas Verona 23:30 | HD8	^--
-Fiorentina x Monza 23:30 | HD5 | HD7	^--
-Sevilla x Girona 00:00 | HD2 | HD6 | Eleven2	^--
-Rio Ave x Arouca 00:00 | SportTV1	^--
-Atromitos x PAOK 00:30 | HD11	^--
-Lille x PSG 01:45 | HD4	^--
-Juventus x Roma 01:45 | HD5 | HD8 | SportTV3 | BR2	^--
-Udinese x Como 01:45 | HD7	^--
-Beşiktaş x Sivasspor 01:45 | HD9	^--
-Kallithea x Panathinaikos 02:00 | HD10	^--
-Corinthians x Flamengo 02:00 | BR1	^--
-Real Madrid x Real Betis 02:30 | HD2 | HD6 | HD3 | Eleven1 | BR5 | BR6	^--
-Gil Vicente x Sporting Braga 02:30 | SportTV1	^--
-Vitória Guimarães x Famalicão 02:30 | SportTV2	^--
-Independiente x River Plate 03:00 | HD11 | SportTV5	^--
-Vitória x Vasco da Gama 04:30 | BR4	^--
-Fluminense x São Paulo 04:30 | BR3	^--
-RB Bragantino x Bahia 04:30 | BR5	^--
-Juventude x Internacional 04:30 | BR7	^--
-Athletico-PR x Palmeiras 04:30 | BR6	^--
-Millonarios x Patriotas Boyacá 05:10 | HD10	^--
-Pumas UNAM x Tigres UANL 06:00 | HD9	^--
-Banfield x Instituto 06:00 | HD11	^--
-Junior x Santa Fe 06:20 | HD10	^--
-Santos Laguna x Necaxa 07:05 | HD9	^--
+FIFA WCQ (AFC) 05 Sept 2024 17:00 Qatar vs UAE	^--
+FIFA WCQ (AFC) 05 Sept 2024 17:00 Australia vs Bahrain	^--
+FIFA WCQ (AFC) 05 Sept 2024 17:35 Japan vs China	^--
+FIFA WCQ (AFC) 06 Sept 2024 01:00 Saudi Arabia vs Indonesia	^--
