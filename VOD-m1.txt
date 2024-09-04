@@ -18,9 +18,47 @@ Shooting Stars 2023	https://ZZC/HBOAsia/651f9005d940521074e40eb9_hbovodhd/dash0/
 Bama Rush 2023	https://ZZC/HBOAsia/65454719d940521074e79cab_hbovodhd/dash0/IDN_DOLBY_index.mpd``35c46b4b36d53f9c9e74eb061e8bd8f9:e9fd1a90aa43a31db7c1007e9165d70a
 Praise This 2023	https://ZZC/HBOAsia/650e55a5d940521074e273f8_hbovodhd/dash0/IDN_DOLBY_index.mpd``8f26d21278dbc7e643d25fa9395bc20e:e9f42c0ed2338a1ee2abdc11fe85b611
 The Super Mario Bros. Movie 2023	https://ZZC/HBOAsia/6566fd56d940521074eac1e7_hbovodhd/dash0/IDN_DOLBY_index.mpd``ccf4698050003d7e0e1b7695a6454f7f:b9865f7d2152b176ac241166517e4aec
-Cocaine Bear 2023	https://ZZC/HBOAsia/65452a2cd940521074e799ca_hbovodhd/dash0/MYS_DOLBY_index.mpd``02f26648b3f951a7fdef85f737299e6a:aea7f4643c7b98d76fcae03e198dec1b
 American Pain 2023	https://ZZC/HBOAsia/650e6b22d940521074e27616_hbovodhd/dash0/IDN_DOLBY_index.mpd``f58b11a488f7f5f30540ff994b300db8:1fdc9fb3da5d0fa5ac91a8771f6b6a77
 Knock At The Cabin 2023	https://ZZC/HBOAsia/6545177fd940521074e797ec_hbovodhd/dash0/IDN_DOLBY_index.mpd``0f432456c5e58e45013d1ba2ea0f860e:6df575acb28196ecdaba6d55bff7e852
 Baby Ruby 2023	https://ZZC/HBOAsia/654545a9d940521074e79c83_hbovodhd/dash0/IDN_DOLBY_index.mpd``7d82776d50a48edf49594b46d56a0787:60a71e0a05ce61d647ecad0e37c70b61
 When You Finish Saving The World 2023	https://ZZC/HBOAsia/6545601ad940521074e79f3b_hbovodhd/dash0/IDN_DOLBY_index.mpd``c2bf82e3adcb49f58faebb28ee1e3df7:16c705cbb4a9cc307836aa1faa937729
+Fast & Furious: Hobbs & Shaw	https://ZZC/HBOAsia/5e7864b63a736626cecbf699_hbovodhd/dash0/MYS_index.mpd``6b9b56bd7f8a51a4a37f450cf3334152:ead1c52f745993bc3c8802ad7de99d64
 Taking On Taylor Swift 2023	https://ZZC/HBOAsia/654499f2d940521074e78b79_hbovodhd/dash0/IDN_index.mpd``efb08a878fd59dc395ee05d53e5d9b9b:f0f1923ca07a8ddf9666b6f474ea5bc4
+The Nun Ii 2023	https://ZZC/HBOAsia/6537627dd940521074e64adf_hbovodhd/dash0/IDN_DOLBY_index.mpd``e4063e8388256eeabd2f4efdae7aedd3:12843781a238285c811dcc5a3715e344
+Meg 2: The Trench 2023	https://ZZC/HBOAsia/64fee5add940521074e10087_hbovodhd/dash0/IDN_DOLBY_index.mpd``a7244ed7a5678d52130672c4b3cf514e:342e55749e9ef5b57c9371fc4c008132
+The Flash 2023	https://ZZC/HBOAsia/64c3794dd940521074db6e41_hbovodhd/dash0/IDN_DOLBY_index.mpd``3828dfa474ecbb86ac6e3a9b370abdde:05f5c24805c2fab927d96575bdc20237
+Reality 2023	https://ZZC/HBOAsia/646fee3ed940521074d39a27_hbovodhd/dash0/IDN_DOLBY_index.mpd``0b181fb3df6f5577055086173921b597:98c1ea4a4b2d95116eb627df374033fe
+Land Of Gold 2023	https://ZZC/HBOAsia/6513e9cbd940521074e2f8f0_hbovodhd/dash0/IDN_DOLBY_index.mpd``4a4d6c73b26cae6fd6f1fc0ad72a5ad2:c30d41201d7e999d1fedc9d187a47087
+Evil Dead Rise 2023	https://ZZC/HBOAsia/648828a5d940521074d5dcf8_hbovodhd/dash0/IDN_DOLBY_index.mpd``9221c8e67c756f094f45420242d8560e:987cb364121b8aac88d6d33544c9526b
+Dungeons & Dragons: Honor Among Thieves 2023	https://ZZC/HBOAsia/64cbd7dcd940521074dc3623_hbovodhd/dash0/IDN_DOLBY_index.mpd``c9256c2319bee1155eb1ab05ddb2848c:e9940878b41a3be09407bf86111fc3c1
+Shazam! Fury Of The Gods 2023	https://ZZC/HBOAsia/64532a79d940521074d0e71b_hbovodhd/dash0/IDN_DOLBY_index.mpd``170bb91139d6de563658bb4902db9492:fdbd71bb5164009ba1f924bb91bbc521
+Scream Vi 2023	https://ZZC/HBOAsia/65012e17d940521074e137bd_hbovodhd/dash0/IDN_DOLBY_index.mpd``671a3fc7b55dcb56f8c66ed8eaad141e:962953b30ed281c5b40eca0078466df0
+Khun Pan 3 2023	https://ZZC/HBOAsia/64aa6825d940521074d91179_hbovodhd/dash0/IDN_DOLBY_index.mpd``e080e8d17a75b68c171bafed250c617e:e2666c16aaa10cc855a580ff0d39a633
+The Weeknd: Live At Sofi Stadium 2023	https://ZZC/HBOAsia/64564331d940521074d1329a_hbovodhd/dash0/IDN_DOLBY_index.mpd``626e2f639f995fb4622bf4cc23fca4e5:c51ea0657317aa01e5513c601b18b8ed
+Cocaine Bear 2023	https://ZZC/HBOAsia/65452a2cd940521074e799ca_hbovodhd/dash0/IDN_DOLBY_index.mpd``02f26648b3f951a7fdef85f737299e6a:aea7f4643c7b98d76fcae03e198dec1b
+War Zone: Bear Grylls Meets President Zelenskyy 2023	https://ZZC/HBOAsia/6453259bd940521074d0e6a3_hbovodhd/dash0/IDN_index.mpd``8236b774c756a2b9b2c791a970ab7305:3edf7f7049b0fb5ebbb1ed1f77d315ac
+Magic Mike'S Last Dance 2023	https://ZZC/HBOAsia/6470b5b4d940521074d3ad30_hbovodhd/dash0/IDN_DOLBY_index.mpd``65be40852d44ba852db6264d66a79cd7:54a86402886d6e0d45d5e563edf08395
+All That Breathes 2023	https://ZZC/HBOAsia/6406dabad940521074c9c1ce_hbovodhd/dash0/IDN_DOLBY_index.mpd``3da7954f870d56992b55af368f401976:7fad2d7f2c64a81bf46883e1eea7e66a
+80 For Brady 2023	https://ZZC/HBOAsia/64ddf8a9d940521074dde8cb_hbovodhd/dash0/IDN_DOLBY_index.mpd``1aff956d4b7a35b96796a924be279fd3:921a9e776c3bc895852f97c4d7dd5fff
+Mummies 2023	https://ZZC/HBOAsia/640687cad940521074c9b9f9_hbovodhd/dash0/IDN_DOLBY_index.mpd``c446b9fe09cf1153a0143b09485e2170:bcd75dc517b3678ee3f634ca2cbf3697
+House Party 2023	https://ZZC/HBOAsia/63f5fd48d940521074c8292d_hbovodhd/dash0/IDN_DOLBY_index.mpd``f5eca074d2c6e430e4fee5544973ecca:c9863fba861904a40b2b9285e83105ea
+The Offering 2023	https://ZZC/HBOAsia/63f30896d940521074c7e1e3_hbovodhd/dash0/IDN_DOLBY_index.mpd``af7b6b433d0063a06f61c525b1e69a92:7f827a202d6b476d2dc451836381cf0b
+The Ringleader: The Case Of The Bling Ring 2023	https://ZZC/HBOAsia/6516a967d940521074e33b6b_hbovodhd/dash0/IDN_DOLBY_index.mpd``6979fdf856afc2c97816f2070b1bee97:50062d58cd80a5f5b377fa0037d618de
+Babylon 2023	https://ZZC/HBOAsia/64aa69ead940521074d911a6_hbovodhd/dash0/IDN_DOLBY_index.mpd``4dc6d1e91bc36abd53dd21f9fce3fa25:452a8841eedbc4ac17597fb7010f79fd
+M3Gan 2023	https://ZZC/HBOAsia/65012f6fd940521074e137e1_hbovodhd/dash0/IDN_DOLBY_index.mpd``86576a103454a1c26c739a2ea8b2b38b:9e86fb8545f9c1aa555c7c9bee027471
+Lizzo: Live In Concert 2022	https://ZZC/HBOAsia/64321e38d940521074cdccb7_hbovodhd/dash0/IDN_DOLBY_index.mpd``3e2b0e16d670a1c1960f3192878c27d1:1d717d6394c6b7df61df8cebf76f010d
+Christmas Carole 2022	https://ZZC/HBOAsia/6545259bd940521074e7994e_hbovodhd/dash0/IDN_DOLBY_index.mpd``1091b16af5f5f18f543a3e8ddd43fb54:51c0950b03fe827787f705bbd9befe23
+Puss In Boots: The Last Wish 2022	https://ZZC/HBOAsia/64aa5d9fd940521074d9106a_hbovodhd/dash0/IDN_DOLBY_index.mpd``153abc2316da6cbac563da3385fb52a4:d2c1db89ec43fd5bb8ce047a10847fde
+A Hollywood Christmas 2022	https://ZZC/HBOAsia/6544fe89d940521074e79563_hbovodhd/dash0/IDN_DOLBY_index.mpd``178866894bde8ac5d0bc3a32c69812a5:b82b3593894e987d2682997548aa47d5
+Violent Night 2022	https://ZZC/HBOAsia/65450736d940521074e79643_hbovodhd/dash0/IDN_DOLBY_index.mpd``f4cfebfdec23629a10f58e6b4f5fee14:dce778a9b9d00d3b90d8d6fba3d79259
+Dolly Parton’S Mountain Magic Christmas 2022	https://ZZC/HBOAsia/65454744d940521074e79cb3_hbovodhd/dash0/IDN_DOLBY_index.mpd``c314bdf37d72ee5994bbfa8aeb208d36:7092f9234298039e3ba77a57c9ba17ed
+Tom And Jerry: Snowman'S Land 2022	https://ZZC/HBOAsia/6455beb3d940521074d12528_hbovodhd/dash0/IDN_DOLBY_index.mpd``c147967dee0910abb50cd6e4f7475f5e:28f4f1307372b4ff53ff4b9f91ce3951
+Love, Lizzo 2022	https://ZZC/HBOAsia/64321955d940521074cdcc2e_hbovodhd/dash0/IDN_DOLBY_index.mpd``adea58414fa6fea36decd84397760eb1:70e145eb62725108e9e1f6f5526364e9
+Holiday Harmony 2022	https://ZZC/HBOAsia/6544fffdd940521074e79589_hbovodhd/dash0/IDN_DOLBY_index.mpd``3b6e41bbb9df34f6f0d97a765f255fca:a002eb929fdf1080b636e70e35edbbaa
+A Christmas Mystery 2022	https://ZZC/HBOAsia/6544fad7d940521074e79500_hbovodhd/dash0/IDN_DOLBY_index.mpd``80649c1872ac570001a73731b598dcf6:ff35df2e733e949370ac2ac4371df2f9
+The Fabelmans 2022	https://ZZC/HBOAsia/64c37444d940521074db6dc6_hbovodhd/dash0/IDN_DOLBY_index.mpd``c16c1647d9406c6f84f06f0fbeb04a2b:2a1edcd261957c85236cd360b66ea0e7
+Prancer: A Christmas Tale 2022	https://ZZC/HBOAsia/65452708d940521074e79974_hbovodhd/dash0/IDN_DOLBY_index.mpd``2cba534ad663fe6cfde5dd341e0b7fe6:024b6a3908a0cef99770563fd0c70af8
+The Travelog: Hyoyeon & Sunny In Qatar 2022	https://ZZC/HBOAsia/63914ccad940521074beb2da_hbovodhd/dash0/IDN_index.mpd``6dffbce17cef9345eaebdaf245f155b0:5dc68edcaf3aec5489b2562489e9327d
+A Waltons' Thanksgiving 2022	https://ZZC/HBOAsia/650e623bd940521074e2753b_hbovodhd/dash0/IDN_DOLBY_index.mpd``1ca0d834e235268a2cb541d1a4f3cf19:cd5d3975665848549855556203b1a865
+She Said 2022	https://ZZC/HBOAsia/64fb2e8bd940521074e0a73f_hbovodhd/dash0/IDN_DOLBY_index.mpd``7b7eda64587b2bdd5393e1187c53b4b1:b76273f23b2ba6a47385211df7e37b6e
+A Christmas Story Christmas 2022	https://ZZC/HBOAsia/6544fd1ed940521074e7953f_hbovodhd/dash0/IDN_DOLBY_index.mpd``3773be80ee90e014f918f65cd2a7b464:6693b72f37320ab6f27ff7a507f217e6
