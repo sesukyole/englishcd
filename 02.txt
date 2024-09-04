@@ -145,6 +145,42 @@ TVRI.id	01`02aPemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd``ca65af90adc5e3ddb
 MyCinema.id	01`02aMyCinema/sa_dash_vmx/MyCinema.mpd``4310edb8b9ffe79abb40bacafa778ec3:aebb7e86d8a336d9a93d3dd8a41153cf
 MyCinemaAsia.id	01`02aMyCinema-Asia/sa_dash_vmx/MyCinema-Asia.mpd``4310edb8b9ffe79abb40bacafa778ec3:aebb7e86d8a336d9a93d3dd8a41153cf
 JakTV.id	01`02aJakTV/sa_dash_vmx/JakTV.mpd``f2c9087e5432ce2c2f4ae8e1fd77ae4c:f7a50262991ca7d505fce1572a7f0c2a
+My-Kids.id	01`02aMy-Kids/sa_dash_vmx/My-Kids.mpd``a2dd864fc95998efd52979e5f732e029:4f705ca934ba3ef5513fea618d4f938d
+IDX.id	01`02aIDX/sa_dash_vmx/IDX.mpd``fbdbe252e6354b175852d1929c42d848:7a8bb14fcf8fd0b896ab41c29a78aae0
+MNC-News.id	01`02aMNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd``26cc3e3343858d3986322f16e10b5823:0ad735e707e1c79bc550efa49f2ea4bd
+AlJazeera.id	01`02aAlJazeeraInternational/sa_dash_vmx/AlJazeeraInternational.mpd``59b86c4bc0dc5de64bdfafe5152cc8f1:014e41ad9ec2997fe29d3c3bc372491f
+SEA-Today.id	01`02aSEA-Channel/sa_dash_vmx/SEA-Channel.mpd``dfb76a400a6af053881f7fff14483323:aa5af1f3edb3abd10a68b8f7e7c0b1ad
+Bali.id	01`02aBaliTV/sa_dash_vmx/BaliTV.mpd``c6bb2f182bc8c5905c2636153ac36249:152b81c5cd1306bb83993290193063cb
+TV9.id	01`02aTV9/sa_dash_vmx/TV9.mpd``ce1a653fafa780cd4a8747c08872e3ab:d83bcf72b3f5a3d09674602b06caaa71
+DW.id	01`02aDW/sa_dash_vmx/DW.mpd``4472db9a36186f11703d04a4adbbf279:f00791bacba0575927de6cf15cfcd9d9
+DAAI.id	01`02aDAAITV/sa_dash_vmx/DAAITV.mpd``eb7c09e964e89e668266ea31f2710ffa:0a9832e32206fff46674b8210c9b6897
+Bandung.id	01`02aBandungTV/sa_dash_vmx/BandungTV.mpd``a7fd43751f24d64a16f6f4d289ebd395:2ef65773d541ccaf8ba61a3d141711f0
+Entertainment.id	01`02aMNCEntertainment/sa_dash_vmx/MNCEntertainment.mpd``e97187c5c7978ad9fc48943df7ed9045:36af3adb3e7c4edd9286e7412fc5f596
+Infotainment.id	01`02aMNCInfotainment/sa_dash_vmx/MNCInfotainment.mpd``a17bbb3d95ba22f0fa680bba609340f6:cb682391dc1830d2cec8ca9d4ce681cc
+BBC-Earth.id	01`02aBBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd``c154c12b5f8336cc9cbef82fb5cc0ab4:5c365427c75eacf217255effcb5fff3e
+CGTN.id	01`02aCGTN/sa_dash_vmx/CGTN.mpd``725ccd861fa88300c0e1d258b20bc9b1:ab190baece633191b7201cb96d065bbb
+CGTN-Doc.id	01`02aCGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd``87354c602dcabe0eef472f2a68f6685a:518ecaa33b9f05494f8cfaa7dd56a968
+Global-Trekker.id	01`02aGlobaltrekker/sa_dash_vmx/Globaltrekker.mpd``8b27270c10422acdf2b70c296c8ddb29:32ca577ab5b577a31cc61eb847642fa8
+Crime-Investigation.id	01`02aCrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd``dc6157edc80fa15e6b6f23e695d461e4:7c068dd99c87e0ab1efc635bb77adcb4
+NHK-World-Japan.id	01`02aNHKWorldTV/sa_dash_vmx/NHKWorldTV.mpd``62ce01c83653c3f20af6bcafc6979fe6:f1325e71f440c06f7e93d7551cb4014a
+RT-English.id	01`02aRTEnglish/sa_dash_vmx/RTEnglish.mpd``ec5705bb82f3e66b054de048287fd3a4:7819a6f6427b7c7764a514abe8173b02
+TRT-World.id	01`02aTRTWorld/sa_dash_vmx/TRTWorld.mpd``2664cc86dfb0f48e6b3f792dd4e8983c:5fc5b980db05c4450482b4bd7cda39fe
+Channel-News-Asia.id	01`02aChannelNewsAsia/sa_dash_vmx/ChannelNewsAsia.mpd``e1ae750e09889a610744516182c8e95a:2f7aa7b21102d05a986a4212c4afa06f
+France24.id	01`02aFrance24/sa_dash_vmx/France24.mpd``2968b8d8884c66ebfc54b53bee1070ee:7182638b386cb06e211b6771c1a10861
+LifeStyleFashion.id	01`02aLifeStyleFashion/sa_dash_vmx/LifeStyleFashion.mpd``eeba2c9c08078d2a729328dbcd1e002b:19090336609b8f4fee1e7aea837a10d9
+MTV	01`02aMTV/sa_dash_vmx/MTV.mpd``5b9753643572b0c6c467793b50900029:ebeda1cf36dae2b0bdedf1065129ea93
+MTV-90-HD	01`02aMTV-90-HD/sa_dash_vmx/MTV-90-HD.mpd``37ef71f668c1c1126595be0f557587f5:008df022d78a9ec318a745cf8365b048
+FMN.id	01`02aFMN/sa_dash_vmx/FMN.mpd``009a1278e0755ed82e70df01460e90c3:12d010a918431785676c4fd63ef648bd
+Paramount.id	01`02aParamount-HD/sa_dash_vmx/Paramount-HD.mpd``faa79feb03b3ebf0e4566e649cb938f0:2d5e77223719fb1af573cbeab56bb16a
+Arirang.id	01`02aArirang/sa_dash_vmx/Arirang.mpd``9bc202de2b177ff5bb64dacb0ab3fd8d:d71b81338f16bf009608665b08a49197
+NHK-World-Premium.id	01`02aNHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd``a56d6a274eb073cdf94754bd0ffe3335:10ad173ac7249bc42c8390c090ca09e3
+ABC-Australia-Plus.id	01`02aAustraliaPlus/sa_dash_vmx/AustraliaPlus.mpd``a2dd864fc95998efd52979e5f732e029:4f705ca934ba3ef5513fea618d4f938d
+BBC-World-News.id	01`02aBBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd``82e458dc5613eaaa2608de8d190f1637:c25659bd78913e93e3fddace99a964c1
+Bloomberg.id	01`02aBloomberg/sa_dash_vmx/Bloomberg.mpd``272401a5b200375e49a4712cf39f369c:39d7bc2faf1f13b8a2bb106b617e604a
+CNBC.id	01`02aCNBC/sa_dash_vmx/CNBC.mpd``a6de9ad0c51e2673f543b71ac5a54211:533886c95819317d48fd079d78c3d757
+Euro-News.id	01`02aEuroNews/sa_dash_vmx/EuroNews.mpd``9acec565e4d5e994523b3b18e0a7521e:a16eb03e31229b194ec4b45c3cb80b46
+Fight-Sports.id	01`02aFightSports/sa_dash_vmx/FightSports.mpd``d2159ffe3be22ed4916a6abe4d58d265:3e4efcec08d5d5c18a403b7048a43638
+Fox-News.id	01`02aFoxNews/sa_dash_vmx/FoxNews.mpd``a547a31e9c19c36f94d120a83f61f92d:7e86ccfba721e3297b73fc9e2b07628d
 Ajwa TV*	01`01g7464?zyz
 DAAI TV*	01`01g6482?zyz
 ElShinta TV*	01`01g10975?zyz
@@ -1053,47 +1089,11 @@ Ziggo Sport Select TV	`1https://en.gdplayertv.to/live-tv/ziggo-sport-select/?emb
 Ziggo Sport Voetbal TV	`1https://en.gdplayertv.to/live-tv/ziggo-sport-voetbal/?embed=1
 Channels below are only for Desktop Chrome	^--
 MoonBug.id	https://melon-live-cdn.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd
-My-Kids.id	https://melon-live-cdn.mncnow.id/live/eds/My-Kids/sa_dash_vmx/My-Kids.mpd
-IDX.id	https://melon-live-cdn.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
-MNC-News.id	https://melon-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
-AlJazeera.id	https://melon-live-cdn.mncnow.id/live/eds/AlJazeeraInternational/sa_dash_vmx/AlJazeeraInternational.mpd
-SEA-Today.id	https://melon-live-cdn.mncnow.id/live/eds/SEA-Channel/sa_dash_vmx/SEA-Channel.mpd
-Bali.id	https://melon-live-cdn.mncnow.id/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd
-TV9.id	https://melon-live-cdn.mncnow.id/live/eds/TV9/sa_dash_vmx/TV9.mpd
-DW.id	https://melon-live-cdn.mncnow.id/live/eds/DW/sa_dash_vmx/DW.mpd
-DAAI.id	https://melon-live-cdn.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
-Bandung.id	https://melon-live-cdn.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
-Entertainment.id	https://melon-live-cdn.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainment.mpd
-Infotainment.id	https://melon-live-cdn.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotainment.mpd
-BBC-Earth.id	https://melon-live-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
-CGTN.id	https://melon-live-cdn.mncnow.id/live/eds/CGTN/sa_dash_vmx/CGTN.mpd
-CGTN-Doc.id	https://melon-live-cdn.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
-Global-Trekker.id	https://melon-live-cdn.mncnow.id/live/eds/Globaltrekker/sa_dash_vmx/Globaltrekker.mpd
-Crime-Investigation.id	https://melon-live-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
-NHK-World-Japan.id	https://melon-live-cdn.mncnow.id/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorldTV.mpd
-RT-English.id	https://melon-live-cdn.mncnow.id/live/eds/RTEnglish/sa_dash_vmx/RTEnglish.mpd
-TRT-World.id	https://melon-live-cdn.mncnow.id/live/eds/TRTWorld/sa_dash_vmx/TRTWorld.mpd
-Channel-News-Asia.id	https://melon-live-cdn.mncnow.id/live/eds/ChannelNewsAsia/sa_dash_vmx/ChannelNewsAsia.mpd
-France24.id	https://melon-live-cdn.mncnow.id/live/eds/France24/sa_dash_vmx/France24.mpd
-LifeStyleFashion.id	https://melon-live-cdn.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFashion.mpd
-MTV	https://melon-live-cdn.mncnow.id/live/eds/MTV/sa_dash_vmx/MTV.mpd
-MTV-90-HD	https://melon-live-cdn.mncnow.id/live/eds/MTV-90-HD/sa_dash_vmx/MTV-90-HD.mpd
 Anhui.id	https://melon-live-cdn.mncnow.id/live/eds/AnhuiTV/sa_dash_vmx/AnhuiTV.mpd
 Hunan.id	https://melon-live-cdn.mncnow.id/live/eds/HunanTV/sa_dash_vmx/HunanTV.mpd
 Jiangsu.id	https://melon-live-cdn.mncnow.id/live/eds/JiangsuTV/sa_dash_vmx/JiangsuTV.mpd
 ShanghaiDragon.id	https://melon-live-cdn.mncnow.id/live/eds/ShanghaiDragonTV/sa_dash_vmx/ShanghaiDragonTV.mpd
 XingKong.id	https://melon-live-cdn.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd
-FMN.id	https://melon-live-cdn.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
-Paramount.id	https://melon-live-cdn.mncnow.id/live/eds/Paramount-HD/sa_dash_vmx/Paramount-HD.mpd
-Arirang.id	https://melon-live-cdn.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
-NHK-World-Premium.id	https://melon-live-cdn.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd
-ABC-Australia-Plus.id	https://melon-live-cdn.mncnow.id/live/eds/AustraliaPlus/sa_dash_vmx/AustraliaPlus.mpd
-BBC-World-News.id	https://melon-live-cdn.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd
-Bloomberg.id	https://melon-live-cdn.mncnow.id/live/eds/Bloomberg/sa_dash_vmx/Bloomberg.mpd
-CNBC.id	https://melon-live-cdn.mncnow.id/live/eds/CNBC/sa_dash_vmx/CNBC.mpd
-Euro-News.id	https://melon-live-cdn.mncnow.id/live/eds/EuroNews/sa_dash_vmx/EuroNews.mpd
-Fight-Sports.id	https://melon-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
-Fox-News.id	https://melon-live-cdn.mncnow.id/live/eds/FoxNews/sa_dash_vmx/FoxNews.mpd
 Live Events 1	`0https://live.sportsnews.id/p/ch1.html
 Live Events 2	`0https://live.sportsnews.id/p/ch2.html
 Live Events 3	`0https://live.sportsnews.id/p/ch3.html
