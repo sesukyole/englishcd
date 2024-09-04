@@ -88,8 +88,6 @@ MakkahTV.id	01`02aAlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd``67fe3ac3ca111
 Soccer.id	01`02asoccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd``4d38060bf41b3c29df0ec950ece6b5da:7ee9506b13480491d79b71c062ab5366
 Sport1.id	01`02aMNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd``531c6d50e3e9f9ba66446f624f492289:d769d9ae238bdd424f8bcdcdc9a3801f
 Sport2.id	01`02aMNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd``45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
-Sport3.id	01`02aMNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd``fadd2720deff5925ab86df0819cd7775:f67ff08c7ebc779f6a6fcfc83835f65b
-Sport4.id	01`02aSportstar4/sa_dash_vmx/Sportstar4.mpd``b81b1942c65f35547ced1bff074206a5:a07dc4d86f51db7195f4b7e2abe9d9e8
 Spo1.id	01`02aSPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd``57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
 Spo2.id	01`02aSPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd``57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
 ABC-Australia-Plus.id	01`02aAustraliaPlus/sa_dash_vmx/AustraliaPlus.mpd``a2dd864fc95998efd52979e5f732e029:4f705ca934ba3ef5513fea618d4f938d
@@ -101,7 +99,6 @@ AXN.id	01`02aAXN/sa_dash_vmx/AXN.mpd``c5d5297a84f8b2de977f07286345c591:bdb773d6d
 Bali.id	01`02aBaliTV/sa_dash_vmx/BaliTV.mpd``c6bb2f182bc8c5905c2636153ac36249:152b81c5cd1306bb83993290193063cb
 Bandung.id	01`02aBandungTV/sa_dash_vmx/BandungTV.mpd``a7fd43751f24d64a16f6f4d289ebd395:2ef65773d541ccaf8ba61a3d141711f0
 BBC-Earth.id	01`02aBBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd``c154c12b5f8336cc9cbef82fb5cc0ab4:5c365427c75eacf217255effcb5fff3e
-BBC-World-News.id	01`02aBBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd``82e458dc5613eaaa2608de8d190f1637:c25659bd78913e93e3fddace99a964c1
 BeritaSatu.id	01`02aBeritaSatu/sa_dash_vmx/BeritaSatu.mpd``d022ff3be9391a16a8436261059806b0:e6dd32d6a257f900acb52a82d898bb81
 Bloomberg.id	01`02aBloomberg/sa_dash_vmx/Bloomberg.mpd``272401a5b200375e49a4712cf39f369c:39d7bc2faf1f13b8a2bb106b617e604a
 CBeebies.id	01`02aCbeebies/sa_dash_vmx/Cbeebies.mpd``194891b41223a5f1ec2beff1c95e2f53:eeb1fb2ec011f9563653495f9ac427b1
@@ -109,13 +106,11 @@ CelestialClassic.id	01`02aCelestialClassic/sa_dash_vmx/CelestialClassic.mpd``12d
 CelestialMovie.id	01`02aCelestialMovie/sa_dash_vmx/CelestialMovie.mpd``13aecb26aeee22bc86920045f22d134d:80aa44d998c7c0cc221c96d26730fe9b
 CGTN.id	01`02aCGTN/sa_dash_vmx/CGTN.mpd``725ccd861fa88300c0e1d258b20bc9b1:ab190baece633191b7201cb96d065bbb
 CGTN-Doc.id	01`02aCGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd``87354c602dcabe0eef472f2a68f6685a:518ecaa33b9f05494f8cfaa7dd56a968
-Channel-News-Asia.id	01`02aChannelNewsAsia/sa_dash_vmx/ChannelNewsAsia.mpd``e1ae750e09889a610744516182c8e95a:2f7aa7b21102d05a986a4212c4afa06f
 CinemaChi.id	01`02aCinemachi-HD/sa_dash_vmx/Cinemachi-HD.mpd``eeea0c2986e91a13eacd590ad1ebfe43:0acc16bd84921489f67bad19e4099cae
 CinemaChiAction.id	01`02aCinemachi-Action/sa_dash_vmx/Cinemachi-Action.mpd``fba45325e2cd8355972ede4981f43b2a:d88a4bdd67f89cd21eb074c81de1b994
 CinemaChiExtra.id	01`02aCinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtra-HD.mpd``b64eee6360b118d0d90329cc2c9e4c60:4e97aa6422b26ffb372647dbd0a7683c
 CinemaChiKids.id	01`02aCinemachi-Kids-HD/sa_dash_vmx/Cinemachi-Kids-HD.mpd``ebe6190a3cfbbed4ec34e4d9c7a30e1e:d161b1f737e2aee9501149406c8abe9e
 CinemaChiMax.id	01`02aCinemachi-Max-HD/sa_dash_vmx/Cinemachi-Max-HD.mpd``6c256f70830647e4bdf654d86e710ed5:fe41e9bcbae52f9d233407f7488bca5f
-Cinema-World.id	01`02aCinemaWorld/sa_dash_vmx/CinemaWorld.mpd``958df746f24f371dffc95e7cd714fbd7:fbd6e4540b9a917a27da8be01542f53f
 CNBC.id	01`02aCNBC/sa_dash_vmx/CNBC.mpd``a6de9ad0c51e2673f543b71ac5a54211:533886c95819317d48fd079d78c3d757
 Crime-Investigation.id	01`02aCrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd``dc6157edc80fa15e6b6f23e695d461e4:7c068dd99c87e0ab1efc635bb77adcb4
 DAAI.id	01`02aDAAITV/sa_dash_vmx/DAAITV.mpd``eb7c09e964e89e668266ea31f2710ffa:0a9832e32206fff46674b8210c9b6897
@@ -131,7 +126,6 @@ Galaxy.id	01`02aGalaxy-HD/sa_dash_vmx/Galaxy-HD.mpd``e5c40292f8d01b1d5f0c6b3904d
 GalaxyPremium.id	01`02aGalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd``7bc29ff5f405dff971e3a326223fe26c:06849a953a38da997b31bacf433cc74a
 Global-Trekker.id	01`02aGlobaltrekker/sa_dash_vmx/Globaltrekker.mpd``8b27270c10422acdf2b70c296c8ddb29:32ca577ab5b577a31cc61eb847642fa8
 GTV.id	01`02aGTV-HD/sa_dash_vmx/GTV-HD.mpd``88f6c7cbd793374cb5f12d7e26dcd63b:e82daa7c7bfb03d99327463fdbd37336
-History.id	01`02aHistory/sa_dash_vmx/History.mpd``2ccaa7d9731c2e69fa5344c5a547b836:d23fb6a3c73eb7ab8ad19ca841db0fb5
 Hits.id	01`02aHITS/sa_dash_vmx/HITS.mpd``78d17d4851a5e9eede96f283b15ec053:c5ae33f70cc967fe107b35eb7225f52a
 HitsMovies.id	01`02aHitsMovies/sa_dash_vmx/HitsMovies.mpd``5d9684b1737e3b68801b4cff7225d4bb:902e7634820c26a8ff36f3708f0191d4
 IDX.id	01`02aIDX/sa_dash_vmx/IDX.mpd``fbdbe252e6354b175852d1929c42d848:7a8bb14fcf8fd0b896ab41c29a78aae0
@@ -156,16 +150,12 @@ MyCinema.id	01`02aMyCinema/sa_dash_vmx/MyCinema.mpd``4310edb8b9ffe79abb40bacafa7
 MyCinemaAsia.id	01`02aMyCinema-Asia/sa_dash_vmx/MyCinema-Asia.mpd``4310edb8b9ffe79abb40bacafa778ec3:aebb7e86d8a336d9a93d3dd8a41153cf
 MyFamily.id	01`02aMyFamily/sa_dash_vmx/MyFamily.mpd``4310edb8b9ffe79abb40bacafa778ec3:aebb7e86d8a336d9a93d3dd8a41153cf
 My-Kids.id	01`02aMy-Kids/sa_dash_vmx/My-Kids.mpd``a2dd864fc95998efd52979e5f732e029:4f705ca934ba3ef5513fea618d4f938d
-Nat-Geo-Channel.id	01`02aNatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd``05457a5e16a76fe666a22cc7ae2c6548:626e37901bfb985e994d714e9f9de1b5
-Nat-Geo-Wild.id	01`02aNatGeoWild/sa_dash_vmx/NatGeoWild.mpd``c3066eaa0984588f78d12dcdb75ef88b:4e98eb4927941bff51ea526d223fa16d
 NetTV.id	01`02aNetTV-HD/sa_dash_vmx/NetTV-HD.mpd``6b7bbcf1d511a56e6b3ceda392e4fa33:d1766244d7c1c44efd4c67aafae3ee7b
 NHK-World-Japan.id	01`02aNHKWorldTV/sa_dash_vmx/NHKWorldTV.mpd``62ce01c83653c3f20af6bcafc6979fe6:f1325e71f440c06f7e93d7551cb4014a
 NHK-World-Premium.id	01`02aNHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd``a56d6a274eb073cdf94754bd0ffe3335:10ad173ac7249bc42c8390c090ca09e3
 Nickelodeon.id	01`02aNickelodeon/sa_dash_vmx/Nickelodeon.mpd``785024598882dc751652cea2bce44b8e:56a40e58acd59965e865947dd719108d
 NickJr.id	01`02aNickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd``f71ca09f57ea09e27ee63d7d1f0d0e31:8a07ef45b4a18973ef12f8da482dcec0
-OKTV.id	01`02aOKTV/sa_dash_vmx/OKTV.mpd``57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
 One.id	01`02aSetOne/sa_dash_vmx/SetOne.mpd``7b212a67ce3e8b056af85b890e3de811:428a68fac3d97a5fae0f695edcee6346
-Paramount.id	01`02aParamount-HD/sa_dash_vmx/Paramount-HD.mpd``faa79feb03b3ebf0e4566e649cb938f0:2d5e77223719fb1af573cbeab56bb16a
 RCTI.id	01`02aRCTI-DD/sa_dash_vmx/RCTI-DD.mpd``9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
 RockAction.id	01`02aRockaction/sa_dash_vmx/Rockaction.mpd``b9c123fbf587e6524b2706bd960c7f67:d2aaac6845b33627cdce1272feac5acc
 Rock-Entertainment.id	01`02aRockentertainment/sa_dash_vmx/Rockentertainment.mpd``57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
@@ -177,9 +167,6 @@ Thrill.id	01`02aThrill/sa_dash_vmx/Thrill.mpd``06e7e95fdb30086d24111f300c9d91f1:
 Trans7.id	01`02aTrans7-2/sa_dash_vmx/Trans7-2.mpd``26bd60e03bbed7819eea0b27075a1897:d221ba6a6ab66e3083c001d2c4a3e5c5
 TransTV.id	01`02aTransTV-2/sa_dash_vmx/TransTV-2.mpd``334950781f60a66f5e58324b70ac675d:73caca97be8999ce9cfeb3babad8669d
 TRT-World.id	01`02aTRTWorld/sa_dash_vmx/TRTWorld.mpd``2664cc86dfb0f48e6b3f792dd4e8983c:5fc5b980db05c4450482b4bd7cda39fe
-TV5-Monde-Asie.id	01`02aTV5/sa_dash_vmx/TV5.mpd``1b411a92f60bd9751d9637e849d3a632:d9bbfb8e1d34089daf5cc0c3ca17c694
-TV9.id	01`02aTV9/sa_dash_vmx/TV9.mpd``ce1a653fafa780cd4a8747c08872e3ab:d83bcf72b3f5a3d09674602b06caaa71
-TVMuhammadiyah.id	01`02aTVMuhammadiyah/sa_dash_vmx/TVMuhammadiyah.mpd``2fa7625e3470d5e9429f64150614f9a5:c495ad0e82e2266fd207934327c71ce3
 tvN.id	01`02atvN/sa_dash_vmx/tvN.mpd``742131dbcb507c31502eb60b32be6bb8:209f03c525bbbc9fd8652aa7a9cc5cb0
 tvNMovies.id	01`02atvNMovies/sa_dash_vmx/tvNMovies.mpd``45c004003b09719751adb885d28d491f:fe82bc3ffe00477c833812fae74caed7
 TVOne.id	01`02aTVOne-2/sa_dash_vmx/TVOne-2.mpd``90204c05545f95a262bb0d3ac45de870:0e80f2a19fdf8da476bf695cd9570bb2
@@ -1194,10 +1181,22 @@ ZooMoo TV	`1https://en.gdplayertv.to/live-tv/zoomoo/?embed=1
 Sport3.id	01`02aMNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd``fadd2720deff5925ab86df0819cd7775:f67ff08c7ebc779f6a6fcfc83835f65b
 Sport4.id	01`02aSportstar4/sa_dash_vmx/Sportstar4.mpd``b81b1942c65f35547ced1bff074206a5:a07dc4d86f51db7195f4b7e2abe9d9e8
 ZooMoo.id	01`02aBoomerang/sa_dash_vmx/Boomerang.mpd``5ff6154f28d6950063f9f5b4db7be009:93cac38fd15124acce5b658896df0a25
-CinemaWorld.id	01`02aCinemaWorld/sa_dash_vmx/CinemaWorld.mpd``958df746f24f371dffc95e7cd714fbd7:fbd6e4540b9a917a27da8be01542f53f
-NatGeo.id	01`02aNatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd``05457a5e16a76fe666a22cc7ae2c6548:626e37901bfb985e994d714e9f9de1b5
-NatGeoWild.id	01`02aNatGeoWild/sa_dash_vmx/NatGeoWild.mpd``c3066eaa0984588f78d12dcdb75ef88b:4e98eb4927941bff51ea526d223fa16d
+BBC-World-News.id	01`02aBBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd``82e458dc5613eaaa2608de8d190f1637:c25659bd78913e93e3fddace99a964c1
+Channel-News-Asia.id	01`02aChannelNewsAsia/sa_dash_vmx/ChannelNewsAsia.mpd``e1ae750e09889a610744516182c8e95a:2f7aa7b21102d05a986a4212c4afa06f
+Cinema-World.id	01`02aCinemaWorld/sa_dash_vmx/CinemaWorld.mpd``958df746f24f371dffc95e7cd714fbd7:fbd6e4540b9a917a27da8be01542f53f
+History.id	01`02aHistory/sa_dash_vmx/History.mpd``2ccaa7d9731c2e69fa5344c5a547b836:d23fb6a3c73eb7ab8ad19ca841db0fb5
+ID DAAI TV	https://dacastmmd.mmdlive.lldns.net/dacastmmd/683cc426c19442a4ba31c53be5c963bb/index.m3u8
+ID RRI Net	https://private-streaming.rri.go.id/memfs/ff303a23-f1db-4cb3-95f9-4ae7bef2a392.m3u8
 ID Sport 3	00`a05mncsport3/sa_hls/mncsport3.m3u8?c
 ID Sport 4	00`a05VplusLiveRplus/sa_hls/VplusLiveRplus.m3u8?c
-ID RRI Net	https://private-streaming.rri.go.id/memfs/ff303a23-f1db-4cb3-95f9-4ae7bef2a392.m3u8
-ID DAAI TV	https://dacastmmd.mmdlive.lldns.net/dacastmmd/683cc426c19442a4ba31c53be5c963bb/index.m3u8
+NatGeo.id	01`02aNatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd``05457a5e16a76fe666a22cc7ae2c6548:626e37901bfb985e994d714e9f9de1b5
+Nat-Geo-Channel.id	01`02aNatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd``05457a5e16a76fe666a22cc7ae2c6548:626e37901bfb985e994d714e9f9de1b5
+NatGeoWild.id	01`02aNatGeoWild/sa_dash_vmx/NatGeoWild.mpd``c3066eaa0984588f78d12dcdb75ef88b:4e98eb4927941bff51ea526d223fa16d
+Nat-Geo-Wild.id	01`02aNatGeoWild/sa_dash_vmx/NatGeoWild.mpd``c3066eaa0984588f78d12dcdb75ef88b:4e98eb4927941bff51ea526d223fa16d
+OKTV.id	01`02aOKTV/sa_dash_vmx/OKTV.mpd``57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
+Paramount.id	01`02aParamount-HD/sa_dash_vmx/Paramount-HD.mpd``faa79feb03b3ebf0e4566e649cb938f0:2d5e77223719fb1af573cbeab56bb16a
+Sport3.id	01`02aMNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd``fadd2720deff5925ab86df0819cd7775:f67ff08c7ebc779f6a6fcfc83835f65b
+Sport4.id	01`02aSportstar4/sa_dash_vmx/Sportstar4.mpd``b81b1942c65f35547ced1bff074206a5:a07dc4d86f51db7195f4b7e2abe9d9e8
+TV5-Monde-Asie.id	01`02aTV5/sa_dash_vmx/TV5.mpd``1b411a92f60bd9751d9637e849d3a632:d9bbfb8e1d34089daf5cc0c3ca17c694
+TV9.id	01`02aTV9/sa_dash_vmx/TV9.mpd``ce1a653fafa780cd4a8747c08872e3ab:d83bcf72b3f5a3d09674602b06caaa71
+TVMuhammadiyah.id	01`02aTVMuhammadiyah/sa_dash_vmx/TVMuhammadiyah.mpd``2fa7625e3470d5e9429f64150614f9a5:c495ad0e82e2266fd207934327c71ce3
