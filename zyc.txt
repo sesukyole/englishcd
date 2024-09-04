@@ -1,12 +1,13 @@
 {h} * Al Qur'an.mp3	^^h9
 {h} * Conspiracy Truth 1	^^h7
 {h} * Conspiracy Truth 2	^^h8
+{s} Ⓢ 0 Movies Film	^^s0
+{h} * Movies Film VOD 1	^^h12
+{h} * Movies Film VOD 2	^^h13
 {h} * Action Movies Film VOD	^^hhttps://raw.githubusercontent.com/Justryuz/jtv/main/actionvod.m3u
-{s} Ⓥ Movies Film 1	^^s0
 {h} Ⓨ Movies Film 2	^^h4
 {h} Ⓩ Movies Film 3	^^h5
 {h} Ⓣ Movies Film 4	^^h6
-{h} * Movies Film VOD 1	^^hhttps://raw.githubusercontent.com/mimipipi22/lalajo/main/vod
 {h} * Plex	^^hhttps://i.mjh.nz/Plex/all.m3u8
 {h} * Stirr	^^hhttps://i.mjh.nz/Stirr/all.m3u8
 {h} * Kodi	^^hhttps://i.mjh.nz/all/kodi-tv.m3u8
