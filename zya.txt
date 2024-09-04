@@ -1,11 +1,12 @@
 {h} * Al Qur'an.mp3	^^h9
 {h} * Conspiracy Truth 1	^^h7
 {h} * Conspiracy Truth 2	^^h8
+{s} Ⓢ 0 Movies Film	^^s0
+{h} * Movies Film VOD 1	^^h12
 {h} * Action Movies Film VOD	^^hhttps://raw.githubusercontent.com/Justryuz/jtv/main/actionvod.m3u
 {h} Ⓨ Movies Film 1	^^h4
 {h} Ⓩ Movies Film 2	^^h5
 {h} Ⓣ Movies Film 3	^^h6
-{h} * Movies Film VOD 1	^^hhttps://raw.githubusercontent.com/mimipipi22/lalajo/main/vod
 {h} * Kodi	^^h3
 {h} * Free IPTV	^^hhttps://raw.githubusercontent.com/ipstreet312/freeiptv/master/all.m3u
 {h} * International Channels 🇧🇷	^^hhttps://freenote.biz/raw/dyv52mh0zb
@@ -17,7 +18,6 @@
 {h} Ⓒb1 Cool	^^hb1
 {h} Ⓕb2 Fun	^^hb2
 {h} Ⓦb3 Wow Great!	^^hb3
-{s} Ⓢ 0 Movies Film	^^s0
 {h} Ⓟ 1 Pluto	^^h1
 {h} * Sports TV	^^hk^sports.m3u
 🌍 Countries: International	^^hc^int.m3u
