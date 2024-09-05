@@ -1,6 +1,6 @@
-ID RCTI 1	00`a05rcti-2/sa_hls/rcti-2.m3u8?c
-ID RCTI 2	https://rcti-cutv.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
+Saudi Arabia vs Indonesia RCTI 2	https://rcti-cutv.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
 Saudi Arabia vs Indonesia HD 4	`0i3`02hd/hd4.php
+ID RCTI 1	00`a05rcti-2/sa_hls/rcti-2.m3u8?c
 RCTI.id	01`02aRCTI-DD/sa_dash_vmx/RCTI-DD.mpd``9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
 Australia vs Bahrain HD 5	`0i3`02hd/hd5.php
 Japan vs China HD 8	`0i3`02hd/hd8.php
