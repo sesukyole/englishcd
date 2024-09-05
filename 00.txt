@@ -1,3 +1,6 @@
+ID RCTI 1	00`a05rcti-2/sa_hls/rcti-2.m3u8?c
+ID RCTI 2	https://rcti-cutv.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
+RCTI.id	01`02aRCTI-DD/sa_dash_vmx/RCTI-DD.mpd``9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
 VPN: VeePN Chrome Ext. or Psiphon Pro APK	^--
 UK Premier Sports 1 [VPN]	01`00elinear001-ie-dash1-prd-cf.cdn.skycdp.com/Content/DASH_003_720_120/Live/channel(premiersports1)/manifest_720.mpd``0005b3dba78ae0fe7a9288022d3b3736:d2827df80dd7e9243ba6b5bbda5dfa82
 UK Premier Sports 2 [VPN]	01`00elinear033-ie-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_120/Live/channel(premiersports2)/manifest_720.mpd``0005d61a0ac86aca28176591b21ae2d9:f87ad1430a7a38fd0ac248fc9a8389b1
