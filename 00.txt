@@ -1,5 +1,6 @@
 Saudi Arabia vs Indonesia https://lebo.huminbird.cn/live/ballbar_36310.m3u8
 Saudi Arabia vs Indonesia https://lebo.huminbird.cn/live/ballbar_18370.m3u8
+Saudi Arabia vs Indonesia Sport 2	00`a05rcti-sportstar2/sa_hls/rcti-sportstar2.m3u8?c
 Saudi Arabia vs Indonesia https://andi-cors-proxy-service-k8s.andisearch.com/https://lebo.huminbird.cn/live/ballbar_36310.m3u8
 Saudi Arabia vs Indonesia https://andi-cors-proxy-service-k8s.andisearch.com/https://lebo.huminbird.cn/live/ballbar_18370.m3u8
 Saudi Arabia vs Indonesia HD 4	`0i3`02hd/hd4.php
