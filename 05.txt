@@ -1,4 +1,4 @@
-This Playlist Must Use Incognito Window<>This Playlist Must on http Non SSL	^--
+This Playlist Must Use Incognito Window<>This Playlist Must on No SSL http	^--
 24/7 001:ADVENTURE TIME	00`06alive00`06b60941.m3u8
 24/7 002:AVATAR	00`06alive00`06b60940.m3u8
 24/7 003:A HAUNTING	00`06alive00`06b60939.m3u8
