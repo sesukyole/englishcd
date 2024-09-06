@@ -4,6 +4,8 @@
 {s} Ⓢ 0 Movies Film	^^s0
 {h} * Movies Film VOD 1	^^h12
 {h} * Movies Film VOD 2	^^h13
+{h} * IPTV Lokal Campur	^^hhttps://gist.githubusercontent.com/ahmadarif/d707ed2a80cc7afd7c7283dbe888e64d/raw/126478a6903f233924e8fbf09b73d7495b5ab56f/IPTV%2520Lokal%2520Campur.m3u
+{h} * id m3u	^^hhttps://gist.githubusercontent.com/ahmadarif/32534ce0c685d157af76991cb0353690/raw/e88fafe4b08a1c4f94df94f766dbc58c29b402da/id.m3u
 {h} * Action Movies Film VOD	^^hhttps://raw.githubusercontent.com/Justryuz/jtv/main/actionvod.m3u
 {h} Ⓨ Movies Film 2	^^h4
 {h} Ⓩ Movies Film 3	^^h5
