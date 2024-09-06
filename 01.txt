@@ -120,6 +120,9 @@ Always Funny Video Family	https://linear-12.frequency.stream/mt/plex/12/hls/mast
 WipeOut Xtra	https://d2stx9idyk58lb.cloudfront.net/wipeoutxtra-samsungus/playlist.m3u8
 Game Show Network	https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/gsn_720p/playlist.m3u8
 Game Show Central	https://gsn-gameshowchannnel-1-us.vizio.wurl.tv/playlist.m3u8
+Asian Crush	https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/amg01201-cinedigmenterta-asiancrush-cineverse/cb543d1b796c668c84cb3f62cef049a2f9421fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7756db80148e782a8eb3dc68306d390ec90c1fbcbf5ba0f8ff5e43ca78a3b51a4b902910e39f429d8118a681d50ec85e8f25f4118095a1d88017d38f9437f852b7061632571541527ee9ab6d9e98f15931957d21560e5ce8a6808c2156e466702c337b56dd1f9b32dd8024fb115f7bc49f3def019f6eb006a9a16da9b9a29d3529c64c6f381345f0b5dae6d63027af69bb8fe8d37a7098bc721223983c89737979f897ba896357ae21976ea5cdecad7a7b0867a5bdf8e8cea3844bd308cbc9fd943c789c026e16ab52b89361d728922de69e53696b444aa99542d7c6f76a70331fc8d005942412b78ddfd89f166d9e295b7bf870d55e3269ce1f6568aa78aacd723fdf6642ae1d09d67479c04ef5b329b580dee60d34fc9ee44aed60e2b04583a756e73d720c55e0a7620e1c153de3ef600c22708c10b78484b2217b75869dfaf7ce5737102a57035cf985c944dbdf90674d6c823940477b1f109a01ac19fc085b0f23cc5e9eec3e7d8b022e3af5e558795f7f9ddcbe918db59b12e767b2a90e151a88cffbf5d1232a4e5e745aa3/162/1280x720_3329040/index.m3u8
+K Movies	https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NewMovies/playlist.m3u8
+So Real	https://dai.google.com/linear/hls/event/VMzvtHhOQdOAzbV_hQKQbQ/master.m3u8
 Cinevault 80s	https://gsn-cinevault-80s-1-us.samsung.wurl.tv/playlist.m3u8
 Cinevault Westerns	https://gsn-cinevault-westerns-1-us.samsung.wurl.tv/playlist.m3u8
 Sony Movies	https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8
@@ -302,6 +305,7 @@ US M2O TV	https://streamcdne2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S6
 US Radio 51 TV	https://59d7d6f47d7fc.streamlock.net/canale51/canale51/eroz_brebes.m3u8
 US United Nations Web TV	https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
 Action Hollywood Movies	https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8?c
+Food Food	https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/foodfood/master.m3u8
 The Food Network	https://raw.githubusercontent.com/mimipipi22/inspirationlinks/live/Streams/foodNet.m3u8
 Motor Stories	https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 Sony Crackle	https://crackle-plex.amagi.tv/playlist.m3u8?c
@@ -496,6 +500,8 @@ Qwest Jazzᴴᴰ 🟤	https://qwest-jazz-plex.amagi.tv/playlist720_p.m3u8?c
 Qwest tvᴴᴰ 🟤	https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwesttv-samsungbr/playlist.m3u8?c
 Rakuten Documentariesᴴᴰ 🇵🇹🇧🇷 🟤	https://rakuten-documentaries-14-pt.samsung.wurl.tv/3000.m3u8
 Rakuten vikiᴴᴰ 🇺🇸🇰🇷 🟤	https://newidco-rakutenviki-2-us.lg.wurl.tv/playlist.m3u8
+Insight	https://insighttv-samsung-us.amagi.tv/playlist.m3u8
+Bonappetit	https://bonappetit-rakuten.amagi.tv/playlist.m3u8
 RU Старт 🇷🇺	https://strm.yandex.ru/kal/start/start0.m3u8
 TG Junior Kids 🟤	https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=31
 Trace Latina 🟤	https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinaes-samsungspain/playlist.m3u8?c
