@@ -1,8 +1,8 @@
-366.2022	01`a00movie01`b0046407.mp4
-%LIKE	01`a00movie01`b0038450.mkv
-%MUTE (2023)	01`a00movie01`b0050518.mp4
-%Truth (2019)	01`a00movie01`b0038313.mkv
-%Unknown (2022)	01`a00movie01`b0046960.mp4
+366 (2022)	01`a00movie01`b0046407.mp4
+#LIKE	01`a00movie01`b0038450.mkv
+#MUTE (2023)	01`a00movie01`b0050518.mp4
+#Truth (2019)	01`a00movie01`b0038313.mkv
+#Unknown (2022)	01`a00movie01`b0046960.mp4
 [REC] - 2007	01`a00movie01`b0014262.mp4
 [REC]² - 2009	01`a00movie01`b0014263.mp4
 [REC]³ Genesis - 2012	01`a00movie01`b0014264.mp4
