@@ -671,7 +671,6 @@ WILD SIDE TV	https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8
 KTO	https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
 MY ZEN	https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8?c
 FASHION TV	https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
-FASHION TV	https://fash1043.cloudycdn.services/slive/ftv_paris_adaptive.smil/playlist.m3u8
 FASHION TV	https://34963c1506c8467bb8132d8a9ae4fedc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_FashionTV/playlist.m3u8
 TV5MONDE STYLE [geo-area]	https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/index.m3u8
 Bollywood	https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
@@ -698,6 +697,9 @@ Bollywood	https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761
 |SHAHID| MARAYA	https://shls-live-ak.akamaized.net/out/v1/a4a39d8e92e34b0780ca602270a59512/index.m3u8
 |SHAHID| RASHED AL-MAJED	https://rashed-almajed-ak.akamaized.net/out/v1/77b0946130344d1388e5cd34afdcb772/index.m3u8
 |SHAHID| MUHAMMAD ABDO	https://mohammed-abdou-ak.akamaized.net/out/v1/3b57275cf54747cda4cda03ecf146f92/index.m3u8
+tvN HD	https://Zz8rx3/2288/6e627b4e8a65eec3773d6f8a33c9648d/index.m3u8?7
+FTV Formosa HD	https://Zz8rx1/2805/102008c80263e9f1c2bb3a507521fcf0/index.m3u8?7
+Astro SuperSports 1 HD	https://Zz8rx3/1070/a371ed8c364f2e68149a7a97388e95f9/index.m3u8?7
 UK Sky Cinema Action	01`00blinear401-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skycinemaaction)/manifest_720.mpd``0009a340cc0a79210aac42485474d01f:42ad18fa32d4001a1b0d196d194b4f82
 UK Sky Cinema Premier	01`00blinear407-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skycinemapremier)/manifest_720.mpd``00073338ff8073d4304f83c62a015923:097c82ec30a82545cfc1f9d66ba7bfa0
 UK Sky Cinema Animation	01`00blinear401-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skycinemaanimation)/manifest_720.mpd``0007cb3f3fe2ed34cc3a0dead47c2769:0a8bb5a04ab2fdf7b14af67b8ecf0867
@@ -708,6 +710,3 @@ UK Sky Crime	01`00blinear013-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720
 UK Sky Atlantic	01`00blinear019-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skyatlantic)/manifest_720.mpd``000533bb655b97f89fef59db87f507ec:5f1c8bf427349228aa6469486a84c54b
 UK Sky Max	01`00blinear016-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skymax)/manifest_720.mpd``000350070546d852d30a328bc62fbeda:0789751fcfbc476469c302b1a174ebb8
 UK Sky Showcase	01`00blinear035-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skyshowcase)/manifest_720.mpd``0003c312fd726f0ed430816abd7bb735:a3b08d3438447fa93a53aa823a834d7e
-tvN	https://Zz8rx3/2288/6e627b4e8a65eec3773d6f8a33c9648d/index.m3u8?7
-FTV Formosa	https://Zz8rx1/2805/102008c80263e9f1c2bb3a507521fcf0/index.m3u8?7
-Astro SuperSports 1	https://Zz8rx3/1070/a371ed8c364f2e68149a7a97388e95f9/index.m3u8?7
