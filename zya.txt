@@ -4,12 +4,12 @@
 {s} Ⓢ 0 Movies Film	^^s0
 {h} * Movies Film VOD 1	^^h12
 {h} * Movies Film VOD 2	^^h13
-{h} * Action Movies Film VOD	^^hhttps://raw.githubusercontent.com/Justryuz/jtv/main/actionvod.m3u
+{h} * Action Movies Film VOD	^^h^^hJustryuz/jtv/main/actionvod.m3u
 {h} Ⓨ Movies Film 1	^^h4
 {h} Ⓩ Movies Film 2	^^h5
 {h} Ⓣ Movies Film 3	^^h6
 {h} * Kodi	^^h3
-{h} * Free IPTV	^^hhttps://raw.githubusercontent.com/ipstreet312/freeiptv/master/all.m3u
+{h} * Free IPTV	^^h^^hipstreet312/freeiptv/master/all.m3u
 {h} * International Channels 🇧🇷	^^hhttps://freenote.biz/raw/dyv52mh0zb
 🆔 Channels: Ⓜa1, Ⓧa2 & Ⓞb0	^--
 {s} Ⓗa0 ⚽️Live Sports	^^sa0
@@ -291,4 +291,4 @@ Relax	^^hk^relax.m3u
 {h} Ⓘ 2 iptv-org	^^h2
 {s} Ⓢ 0 Samsung	^^h10
 {s} Ⓟ 1 Pluto	^^h11
-<hr>Always use Chrome browser! ⚠️ Please Allow Popups and Disable Ad Blocker. ⚠️ Install Chrome Browser Extension: CORS Unblock & Allow CORS! ⚠️ 🔒|Site settings | Privacy & security | Insecure content: Allow.👈 ⚠️ Settings | Privacy & security | Security | Always use secure connections: Upgrade navigations to HTTPS: Disable.👈<><hr>Always use Chrome browser! ⚠️ Please Allow Popups and Disable Ad Blocker. ⚠️ Settings | Privacy & security | Always use secure connections: Upgrade navigations to HTTPS: Disable.👈	^--
+<hr>Always use Chrome browser! ⚠️ Please Allow Popups and Disable Ad Blocker. ⚠️ Install Chrome Browser Extension: CORS Unblock, Allow CORS & Always Disable Content-Security-Policy! ⚠️ 🔒|Site settings | Privacy & security | Insecure content: Allow.👈 ⚠️ Settings | Privacy & security | Security | Always use secure connections: Upgrade navigations to HTTPS: Disable.👈<><hr>Always use Chrome browser! ⚠️ Please Allow Popups and Disable Ad Blocker. ⚠️ Settings | Privacy & security | Always use secure connections: Upgrade navigations to HTTPS: Disable.👈	^--

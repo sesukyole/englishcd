@@ -6,22 +6,22 @@
 {h} * Movies Film VOD 2	^^h13
 {h} * IPTV Lokal Campur	^^hhttps://gist.githubusercontent.com/ahmadarif/d707ed2a80cc7afd7c7283dbe888e64d/raw/126478a6903f233924e8fbf09b73d7495b5ab56f/IPTV%2520Lokal%2520Campur.m3u
 {h} * id m3u	^^hhttps://gist.githubusercontent.com/ahmadarif/32534ce0c685d157af76991cb0353690/raw/e88fafe4b08a1c4f94df94f766dbc58c29b402da/id.m3u
-{h} * Action Movies Film VOD	^^hhttps://raw.githubusercontent.com/Justryuz/jtv/main/actionvod.m3u
+{h} * Action Movies Film VOD	^^h00`a00Justryuz/jtv/main/actionvod.m3u
 {h} Ⓨ Movies Film 2	^^h4
 {h} Ⓩ Movies Film 3	^^h5
 {h} Ⓣ Movies Film 4	^^h6
 {h} * Plex	^^hhttps://i.mjh.nz/Plex/all.m3u8
 {h} * Stirr	^^hhttps://i.mjh.nz/Stirr/all.m3u8
 {h} * Kodi	^^hhttps://i.mjh.nz/all/kodi-tv.m3u8
-{h} * Free IPTV	^^hhttps://raw.githubusercontent.com/ipstreet312/freeiptv/master/all.m3u
+{h} * Free IPTV	^^h00`a00ipstreet312/freeiptv/master/all.m3u
 {h} * International Channels 🇧🇷	^^hhttps://freenote.biz/raw/dyv52mh0zb
-{h} * International Channels 🇵🇹	^^hhttps://raw.githubusercontent.com/inspirationlinks/m3u/live/pt.m3u8
+{h} * International Channels 🇵🇹	^^h00`a00inspirationlinks/m3u/live/pt.m3u8
 {h} * TH 1	^^hhttps://freenote.biz/raw/gk9psZfSQu
 {h} * Film 1	^^hhttps://gist.githubusercontent.com/Jeffguitar/8fc1fdd9b895447bb612/raw/9bb268792ae517d4338c6c51e78358d9c3fc87bf/filmes8.m3u
 {h} * Free 1	^^hhttps://freenote.biz/raw/orxenzp7zz
-{s} * playlist24	^^shttps://raw.githubusercontent.com/mimipipi22/lalajo/main/playlist24
-{s} * yoyo	^^shttps://raw.githubusercontent.com/mimipipi22/lalajo/main/yoyo
-{s} * hbogoasia	^^shttps://raw.githubusercontent.com/mimipipi22/lalajo/main/hbogoasia
+{s} * playlist24	^^s00`a00mimipipi22/lalajo/main/playlist24
+{s} * yoyo	^^s00`a00mimipipi22/lalajo/main/yoyo
+{s} * hbogoasia	^^s00`a00mimipipi22/lalajo/main/hbogoasia
 {s} Ⓗa0 ⚽️Live Sports	^^sa0
 {s} Ⓜa1 🤹Multi	^^sa1
 {s} Ⓧa2 🤺eXtra 🆔	^^sa2
@@ -276,4 +276,10 @@ tv5monde*	01`01g17278?zyz``
 17637*!	01`01g17637?zyz``
 17669*!	01`01g17669?zyz``
 17674!	01`01g17674?zyz``
+1	http://hbx9.blogspot.com/?m=0oya471&yz=00`a00jackson0829/jackson0829.github.io/main/AV.txt
+2	^^h00`a00jackson0829/jackson0829.github.io/main/AV2.txt
+3	^^h00`a00jackson0829/jackson0829.github.io/main/AV3.txt
+4	^^h00`a00jackson0829/jackson0829.github.io/main/AV4.txt
+5	^^h00`a00jackson0829/jackson0829.github.io/main/AV5.txt
+6	^^h00`a00jackson0829/jackson0829.github.io/main/AV6.txt
 Always use Chrome browser! ⚠️ Please Allow Popups and Disable Ad Blocker. ⚠️ Install Chrome Browser Extension: CORS Unblock & Allow CORS! ⚠️ 🔒|Site settings | Privacy & security | Insecure content: Allow.👈 ⚠️ Settings | Privacy & security | Security | Always use secure connections: Upgrade navigations to HTTPS: Disable.👈<br><>Always use Chrome browser! ⚠️ Please Allow Popups and Disable Ad Blocker. ⚠️ Settings | Privacy & security | Always use secure connections: Upgrade navigations to HTTPS: Disable.👈<br>	^--
