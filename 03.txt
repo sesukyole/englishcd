@@ -66,6 +66,173 @@ JP J Sport 1	http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=
 JP J Sport 2	http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19
 JP J Sport 3	http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
 JP J Sport 4	http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
+Antara TV	01`a00live01`b0032586.m3u8?7
+Bali TV	01`a00live01`b00889.m3u8?7
+DAAI TV	01`a00live01`b0021.m3u8?7
+Dunia Lain	01`a00live01`b00910.m3u8?7
+Indosiar	01`a00live01`b001845.m3u8?7
+NET TV	01`a00live01`b0024.m3u8?7
+NET TV FHD	01`a00live01`b0078.m3u8?7
+Rajawali TV	01`a00live01`b0037.m3u8?7
+SCTV	01`a00live01`b0032.m3u8?7
+SCTV HD	01`a00live01`b00931.m3u8?7
+Trans 7	01`a00live01`b0035.m3u8?7
+Trans 7 FHD	01`a00live01`b00930.m3u8?7
+Trans TV	01`a00live01`b0034.m3u8?7
+Trans TV FHD	01`a00live01`b00929.m3u8?7
+Aljazeera EN	01`a00live01`b0089.m3u8?7
+Berita Satu News	01`a00live01`b00136.m3u8?7
+Channel News Asia	01`a00live01`b001191.m3u8?7
+CNBC Indonesia	01`a00live01`b001512.m3u8?7
+CNN Indonesia	01`a00live01`b0044.m3u8?7
+CNN Int	01`a00live01`b001200.m3u8?7
+DW TV Asia	01`a00live01`b00205.m3u8?7
+France 24	01`a00live01`b00787.m3u8?7
+Kompas TV	01`a00live01`b0030.m3u8?7
+Metro TV	01`a00live01`b0052.m3u8?7
+Metro TV HD	01`a00live01`b001697.m3u8?7
+TV ONE	01`a00live01`b0029.m3u8?7
+TVRI	01`a00live01`b0036.m3u8?7
+ATV	01`a00live01`b0029899.m3u8?7
+AXN	01`a00live01`b009.m3u8?7
+Bioskop Indonesia	01`a00live01`b00908.m3u8?7
+Rock Entertainment HD	01`a00live01`b00811.m3u8?7
+Celestial Movies	01`a00live01`b005.m3u8?7
+Cinemax FHD	01`a00live01`b0030185.m3u8?7
+Cinemax ID	01`a00live01`b002156.m3u8?7
+FLIK HD	01`a00live01`b0029592.m3u8?7
+Hits Movies	01`a00live01`b001478.m3u8?7
+Hits Movies HD	01`a00live01`b0099.m3u8?7
+My Family Channel	01`a00live01`b0014994.m3u8?7
+Discovery Channel HD	01`a00live01`b0095.m3u8?7
+HITS	01`a00live01`b0094.m3u8?7
+Paramount Network	01`a00live01`b0098.m3u8?7
+Galaxy Premium SD	01`a00live01`b0029603.m3u8?7
+Galaxy SD	01`a00live01`b0029604.m3u8?7
+HBO Family FHD	01`a00live01`b0030184.m3u8?7
+HBO Family HD	01`a00live01`b00592.m3u8?7
+HBO Family SD	01`a00live01`b0026598.m3u8?7
+HBO FHD	01`a00live01`b001496.m3u8?7
+HBO HD	01`a00live01`b00210.m3u8?7
+HBO Hits FHD	01`a00live01`b0011492.m3u8?7
+HBO Hits HD	01`a00live01`b00591.m3u8?7
+HBO Hits SD	01`a00live01`b0026596.m3u8?7
+HBO SD	01`a00live01`b0026595.m3u8?7
+HBO Signature FHD	01`a00live01`b001498.m3u8?7
+HBO Signature HD	01`a00live01`b00873.m3u8?7
+HBO Signature SD	01`a00live01`b0026597.m3u8?7
+HITS HD	01`a00live01`b001195.m3u8?7
+Hits Movie SD	01`a00live01`b00957.m3u8?7
+IMC SD	01`a00live01`b0035484.m3u8?7
+KIX HD	01`a00live01`b008.m3u8?7
+LifeTime HD	01`a00live01`b00866.m3u8?7
+My Cinema Asia	01`a00live01`b001859.m3u8?7
+Thrill	01`a00live01`b004.m3u8?7
+Warner TV ID HD	01`a00live01`b001533.m3u8?7
+Da Vinci Learning	01`a00live01`b0036729.m3u8?7
+History FHD	01`a00live01`b008131.m3u8?7
+History HD	01`a00live01`b00718.m3u8?7
+Lingua Channel	01`a00live01`b0014944.m3u8?7
+TechStorm	01`a00live01`b00455.m3u8?7
+Animax	01`a00live01`b003.m3u8?7
+Aniplus	01`a00live01`b002.m3u8?7
+Boomerang ID	01`a00live01`b00305.m3u8?7
+Cartoon Network ID HD	01`a00live01`b00680.m3u8?7
+Indi Kids	01`a00live01`b003479.m3u8?7
+My Kidz	01`a00live01`b00213.m3u8?7
+Dream Works HD	01`a00live01`b0032529.m3u8?7
+Dunia Anak	01`a00live01`b00907.m3u8?7
+Horee	01`a00live01`b0014106.m3u8?7
+My Kidz	01`a00live01`b001483.m3u8?7
+.idku	01`a00live01`b0036730.m3u8?7
+AFN HD	01`a00live01`b00807.m3u8?7
+BBC Lifestyle HD	01`a00live01`b0036766.m3u8?7
+Rock Action HD	01`a00live01`b001506.m3u8?7
+Citra Drama	01`a00live01`b00905.m3u8?7
+Eat & Go	01`a00live01`b0026979.m3u8?7
+Fashion TV	01`a00live01`b00280.m3u8?7
+HGTV	01`a00live01`b00537.m3u8?7
+Insert	01`a00live01`b001763.m3u8?7
+TLC HD	01`a00live01`b00352.m3u8?7
+Drama Korea LBS	01`a00live01`b0035769.m3u8?7
+K Plus	01`a00live01`b0018.m3u8?7
+KBS World HD	01`a00live01`b0015057.m3u8?7
+Sony ONE	01`a00live01`b0019.m3u8?7
+TVN ID	01`a00live01`b00767.m3u8?7
+tVN Movies HD	01`a00live01`b00927.m3u8?7
+Citra Dangdut	01`a00live01`b002207.m3u8?7
+i konser	01`a00live01`b0029594.m3u8?7
+MTV LIVE HD	01`a00live01`b009110.m3u8?7
+ONE African TV	01`a00live01`b001731.m3u8?7
+Prambors TV	01`a00live01`b001157.m3u8?7
+BeIN Sport 1 ID	01`a00live01`b00728.m3u8?7
+BeIN Sport 2 ID	01`a00live01`b00729.m3u8?7
+Fight Sports	01`a00live01`b00784.m3u8?7
+Chinese Drama	01`a00live01`b0036733.m3u8?7
+Kungfu TV	01`a00live01`b0029598.m3u8?7
+TVBS News	01`a00live01`b0029600.m3u8?7
+MY Sun Music	01`a00live01`b002555.m3u8?7
+MY ABC AUSTRALIA	01`a00live01`b0037387.m3u8?7
+MY AFN HD	01`a00live01`b0037412.m3u8?7
+MY ANIMAL PLANET HD	01`a00live01`b0037394.m3u8?7
+MY ANIPLUS HD	01`a00live01`b0037439.m3u8?7
+MY AOD 351 HD	01`a00live01`b0037357.m3u8?7
+MY ASTRO ARENA HD	01`a00live01`b0037422.m3u8?7
+MY Astro Aura HD	01`a00live01`b0037468.m3u8?7
+MY ASTRO CRICKET	01`a00live01`b0037438.m3u8?7
+MY ASTRO OASIS HD	01`a00live01`b0037334.m3u8?7
+MY Astro Premier	01`a00live01`b0037348.m3u8?7
+MY Astro Rania HD	01`a00live01`b0037467.m3u8?7
+MY AXN HD	01`a00live01`b0037406.m3u8?7
+MY BBC Earth HD	01`a00live01`b0037449.m3u8?7
+MY BBC Lifestyle	01`a00live01`b0037450.m3u8?7
+MY Bein Sports 2	01`a00live01`b0048099.m3u8?7
+MY bEIN Sports 3	01`a00live01`b0037433.m3u8?7
+MY beIN SPORTS	01`a00live01`b0037432.m3u8?7
+MY BLOOMBERG TV	01`a00live01`b0037386.m3u8?7
+MY BOO	01`a00live01`b0037457.m3u8?7
+MY CCTV4 HD	01`a00live01`b0037364.m3u8?7
+MY CELESTIAL HD	01`a00live01`b0037355.m3u8?7
+MY CGTN	01`a00live01`b0037379.m3u8?7
+MY Chutti TV	01`a00live01`b0048089.m3u8?7
+MY CNA HD	01`a00live01`b0037384.m3u8?7
+MY CNBC	01`a00live01`b0037385.m3u8?7
+MY CNN HD	01`a00live01`b0048093.m3u8?7
+MY COLORS TAMIL	01`a00live01`b0037346.m3u8?7
+MY DISCOVERY HD	01`a00live01`b0037390.m3u8?7
+MY DW HD	01`a00live01`b0037441.m3u8?7
+MY FOOD NTWK HD	01`a00live01`b0037411.m3u8?7
+MY France 24 HD	01`a00live01`b0048101.m3u8?7
+MY Global Trekker	01`a00live01`b0037335.m3u8?7
+MY HGTV HD	01`a00live01`b0037416.m3u8?7
+MY HITS HD	01`a00live01`b0037409.m3u8?7
+MY HITS MOVIES HD	01`a00live01`b0037373.m3u8?7
+MY KBS World HD	01`a00live01`b0037369.m3u8?7
+MY KPlus HD	01`a00live01`b0048100.m3u8?7
+MY KTV HD	01`a00live01`b0048102.m3u8?7
+MY Love Nature	01`a00live01`b0037333.m3u8?7
+MY Moonbug Kids	01`a00live01`b0037460.m3u8?7
+MY NATGEO PEOPLE	01`a00live01`b0037413.m3u8?7
+MY NICK JR	01`a00live01`b0037405.m3u8?7
+MY NICKELODEON HD	01`a00live01`b0037404.m3u8?7
+MY ONE HD	01`a00live01`b0037370.m3u8?7
+MY PRemier Sports	01`a00live01`b0048106.m3u8?7
+MY PrimeTime	01`a00live01`b0037458.m3u8?7
+MY Showcase Movies	01`a00live01`b0037428.m3u8?7
+MY SPOTV	01`a00live01`b0037443.m3u8?7
+MY SUN TV HD	01`a00live01`b0037347.m3u8?7
+MY TA-DAA	01`a00live01`b0037445.m3u8?7
+MY TLC HD	01`a00live01`b0037410.m3u8?7
+MY TV ALHIJRAH	01`a00live01`b0037337.m3u8?7
+MY TV1	01`a00live01`b0037446.m3u8?7
+MY TV2	01`a00live01`b0037447.m3u8?7
+MY TVB Classic	01`a00live01`b0048090.m3u8?7
+MY TVB JADE	01`a00live01`b0037356.m3u8?7
+MY TVB XING HE HD	01`a00live01`b0037360.m3u8?7
+MY tvN HD	01`a00live01`b0037372.m3u8?7
+MY tvN Movies	01`a00live01`b0037376.m3u8?7
+MY WWE NETWORK	01`a00live01`b0037435.m3u8?7
+MY Zee Cinema HD	01`a00live01`b0037332.m3u8?7
 -----|USA|------	^--
 US001:A&E HD	00`d003167.m3u8
 US002:ABC HD	00`d003166.m3u8
