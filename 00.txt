@@ -9,6 +9,7 @@ Sport Italia	https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv
 Sport TV 4	`0i3`00SPT4
 Sport TV 6	`0i3`00SPT6
 Sport TV +	`0i3`00SPTPlus
+Astro SuperSports 1 HD	https://Zz8rx3/1070/a371ed8c364f2e68149a7a97388e95f9/index.m3u8?7
 beIN Sports 1 EN HD	https://Zz8rx1/2403/1e7a7f7d3ba7acf36796928ec9deb9ea/index.m3u8?7
 beIN Sports 3 EN HD	https://Zz8rx1/2405/b2e567a130b342be942234f5e48c28dc/index.m3u8?7
 VPN: VeePN Chrome Ext. or Psiphon Pro APK	^--
