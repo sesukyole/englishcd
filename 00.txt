@@ -1,15 +1,16 @@
+Germany vs Hungary TV 1	`0i3`00SPT1
+Netherlands vs Bosnia Herzegovina TV 2	`0i3`00SPT2
+Greece vs Finland TV 3	`0i3`00SPT3
+Ukraine vs Albania TV 5	`0i3`00SPT5
+USA vs Canada HD 11	`0i3`02hd/hd11.php
+Mexico vs New Zealand HD 11	`0i3`02hd/hd11.php
 Arena Sport 1x2	https://webtvstream.bhtelecom.ba/hls6/arena_1x2.mpd``c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 Sport Italia	https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/amRdirect/ads_pod_type=playerpage_midroll&ads_env=prod&ads_ppid=&ads_rtvid=271861&ads_streaming_id=4f185419-74f6-4564-8ea9-4cdc60746e2f&ads_amagi_channel=781&ads_device_type=web&ads_device_model=&ads_device_year=&ads_player_width=&ads_rtv_content_language=ita&ads_market=it&ads_rtv_content_id=3741&ads_device_make=&ads_user_type=visitor&ads_content_classification=6&ads_gdpr_consent=&ads_device_lmt=1&ads_player_height=&uid=1gnmqg5gu-qsvc-bfo-gaq3-3dgjgexshpe/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/1920x1080_4540800/chunklist.m3u8
-Sport TV 1	`0i3`00SPT1
-Sport TV 2	`0i3`00SPT2
-Sport TV 3	`0i3`00SPT3
 Sport TV 4	`0i3`00SPT4
-Sport TV 5	`0i3`00SPT5
 Sport TV 6	`0i3`00SPT6
 Sport TV +	`0i3`00SPTPlus
-Astro SuperSports 1	https://cdn.whystream.pro:8089~`0ujwsgck5Vjwh/index.m3u8?7
 beIN Sports 1 EN HD	https://Zz8rx1/2403/1e7a7f7d3ba7acf36796928ec9deb9ea/index.m3u8?7
-beIN Sports 3 EN HD	https://Zz8rx1/2403/1e7a7f7d3ba7acf36796928ec9deb9ea/index.m3u8?7
+beIN Sports 3 EN HD	https://Zz8rx1/2405/b2e567a130b342be942234f5e48c28dc/index.m3u8?7
 VPN: VeePN Chrome Ext. or Psiphon Pro APK	^--
 UK Premier Sports 1 [VPN]	01`00elinear001-ie-dash1-prd-cf.cdn.skycdp.com/Content/DASH_003_720_120/Live/channel(premiersports1)/manifest_720.mpd``0005b3dba78ae0fe7a9288022d3b3736:d2827df80dd7e9243ba6b5bbda5dfa82
 UK Premier Sports 2 [VPN]	01`00elinear033-ie-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_120/Live/channel(premiersports2)/manifest_720.mpd``0005d61a0ac86aca28176591b21ae2d9:f87ad1430a7a38fd0ac248fc9a8389b1
