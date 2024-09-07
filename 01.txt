@@ -699,6 +699,13 @@ Bollywood	https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761
 |SHAHID| MUHAMMAD ABDO	https://mohammed-abdou-ak.akamaized.net/out/v1/3b57275cf54747cda4cda03ecf146f92/index.m3u8
 tvN HD	https://Zz8rx3/2288/6e627b4e8a65eec3773d6f8a33c9648d/index.m3u8?7
 FTV Formosa HD	https://Zz8rx1/2805/102008c80263e9f1c2bb3a507521fcf0/index.m3u8?7
+From Japan HD	https://Zz8rx3/46/f02a81ef8894bafbc6efb82a89384917/index.m3u8
+Public 3 HD	https://Zz8rx1/1340/dcc7dbc7db74ed0b2c8cf08eff7c520f/index.m3u8
+Cinemax HD	https://Zz8rx3/346/4c036b559352b19242e1b2b27c329fc7/index.m3u8
+CCM HD	https://Zz8rx3/2289/2976c22827abb434e323d7c73ca72ba0/index.m3u8
+Jingyang Cartoon HD	https://Zz8rx1/348/f46f118edd38e34cf5f65affac4835dd/index.m3u8
+DAZN 1 HD	https://Zz8rx1/3224/74a0fc69b6b226bf9aa0103a8a2ea5eb/index.m3u8
+Tennis HD	https://Zz8rx1/175/bb35c070bb8ce8d1742b24d6f727eac7/index.m3u8
 Astro SuperSports 1 HD	https://Zz8rx3/1070/a371ed8c364f2e68149a7a97388e95f9/index.m3u8?7
 UK Sky Cinema Action	01`00blinear401-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skycinemaaction)/manifest_720.mpd``0009a340cc0a79210aac42485474d01f:42ad18fa32d4001a1b0d196d194b4f82
 UK Sky Cinema Premier	01`00blinear407-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skycinemapremier)/manifest_720.mpd``00073338ff8073d4304f83c62a015923:097c82ec30a82545cfc1f9d66ba7bfa0
