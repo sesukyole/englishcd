@@ -708,5 +708,6 @@ UK Sky Crime	01`00blinear013-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720
 UK Sky Atlantic	01`00blinear019-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skyatlantic)/manifest_720.mpd``000533bb655b97f89fef59db87f507ec:5f1c8bf427349228aa6469486a84c54b
 UK Sky Max	01`00blinear016-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skymax)/manifest_720.mpd``000350070546d852d30a328bc62fbeda:0789751fcfbc476469c302b1a174ebb8
 UK Sky Showcase	01`00blinear035-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skyshowcase)/manifest_720.mpd``0003c312fd726f0ed430816abd7bb735:a3b08d3438447fa93a53aa823a834d7e
-tvN	https://z88.ubtvfans.com/live/rx3/2288/6e627b4e8a65eec3773d6f8a33c9648d/index.m3u8?7
-FTV Formosa	https://z88.ubtvfans.com/live/rx1/2805/102008c80263e9f1c2bb3a507521fcf0/index.m3u8
+tvN	https://Zz8rx3/2288/6e627b4e8a65eec3773d6f8a33c9648d/index.m3u8?7
+FTV Formosa	https://Zz8rx1/2805/102008c80263e9f1c2bb3a507521fcf0/index.m3u8
+Astro SuperSports 1	https://Zz8rx3/1070/a371ed8c364f2e68149a7a97388e95f9/index.m3u8
