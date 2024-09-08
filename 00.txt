@@ -1,26 +1,26 @@
-* Denmark vs Serbia	^--
-* Portugal vs Scotland	^--
+* Denmark vs Serbia 23:00	^--
+* Portugal vs Scotland 01:45	^--
 Sport TV 1	`0i3`00SPT1
-* Luxembourg vs Belarus	^--
-* Bulgaria vs Northern Ireland	^--
-* Switzerland vs Spain	^--
+* Luxembourg vs Belarus 20:00	^--
+* Bulgaria vs Northern Ireland 23:00	^--
+* Switzerland vs Spain 01:45	^--
 Sport TV 2	`0i3`00SPT2
-* Gibraltar vs Liechtenstein	^--
-* Sweden vs Estonia	^--
+* Gibraltar vs Liechtenstein 23:00	^--
+* Sweden vs Estonia 01:45	^--
 Sport TV 3	`0i3`00SPT3
-MotoGP of San Marino	^--
+MotoGP of San Marino 15:00	^--
 Sport TV 4	`0i3`00SPT4
 Sport TV 5	`0i3`00SPT5
 Sport TV 6	`0i3`00SPT6
 Sport TV +	`0i3`00SPTPlus
 Live Sports HD 1	`0i3`02hd/hd1.php
-Slovakia vs Azerbaijan	^--
+Slovakia vs Azerbaijan 23:00	^--
 Live Sports HD 2	`0i3`02hd/hd2.php
 Live Sports HD 3	`0i3`02hd/hd3.php
-Croatia vs Poland	^--
+Croatia vs Poland 01:45	^--
 Live Sports HD 4	`0i3`02hd/hd4.php
-* Gambia vs Tunisia	^--
-* El Salvador vs Bonaire	^--
+* Gambia vs Tunisia 22:00	^--
+* El Salvador vs Bonaire 08:00	^--
 Live Sports HD 5	`0i3`02hd/hd5.php
 Live Sports HD 6	`0i3`02hd/hd6.php
 Live Sports HD 7	`0i3`02hd/hd7.php
