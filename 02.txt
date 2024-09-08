@@ -84,6 +84,21 @@ ID Madu TV	https://re1.siar.us/madutv/hd720/playlist.m3u8
 ID Sakti TV	https://saktitv.siar.us/saktitv/live/playlist.m3u8
 ID UGTV	https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
 ID MQTV	https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
+SpoTV 1	01`01datemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd``e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
+SpoTV 2	01`01datemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd``e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
+Badminton Indonesia Masters 1	https://lebo.huminbird.cn/live/ballbar_29950.m3u8
+Badminton Indonesia Masters 2	https://lebo.huminbird.cn/live/ballbar_36370.m3u8
+Badminton Indonesia Masters 3	https://lebo.huminbird.cn/live/ballbar_31080.m3u8
+Badminton Indonesia Masters 4	https://lebo.huminbird.cn/live/ballbar_31050.m3u8
+Badminton Indonesia Masters 5	https://lebo.huminbird.cn/live/ballbar_28310.m3u8
+Badminton Korea Open 1	https://lebo.huminbird.cn/live/ballbar_38180.m3u8
+Badminton Korea Open 2	https://lebo.huminbird.cn/live/ballbar_30070.m3u8
+Badminton Korea Open 3	https://lebo.huminbird.cn/live/ballbar_27490.m3u8
+Badminton Korea Open 4	https://lebo.huminbird.cn/live/ballbar_31340.m3u8
+Badminton Japan Open 1	`0https://streaming.sportsnews.id/p/ch12.html
+Badminton Japan Open 2	`0https://streaming.sportsnews.id/p/ch13.html
+Badminton Japan Open 3	`0https://streaming.sportsnews.id/p/ch14.html
+These Channels are Only For Desktop Chrome	^--
 MakkahTV.id	01`02aAlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd``67fe3ac3ca111c9bdd6e8480091dc13c:7d05fb1ff7705c1e452ff7e1b841a1b8
 Soccer.id	01`02asoccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd``4d38060bf41b3c29df0ec950ece6b5da:7ee9506b13480491d79b71c062ab5366
 Sport1.id	01`02aMNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd``531c6d50e3e9f9ba66446f624f492289:d769d9ae238bdd424f8bcdcdc9a3801f
@@ -174,34 +189,7 @@ TVRI.id	01`02aPemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd``ca65af90adc5e3ddb
 VisionPrime.id	01`02aVisionPrime/sa_dash_vmx/VisionPrime.mpd``50056951f6d5f5fbaf286cd99c965379:4ec78e3b7d66d1db3815a127f792b604
 ZeeBioskop.id	01`02aZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd``9e7df70530006bef067327cefde82c0e:b92b6a2aba522bd9bb2d07cf241e7398
 Zoomoo.id	01`02aZoomoo/sa_dash_vmx/Zoomoo.mpd``5ff6154f28d6950063f9f5b4db7be009:93cac38fd15124acce5b658896df0a25
-Ajwa TV*	01`01g7464?zyz
-DAAI TV*	01`01g6482?zyz
-ElShinta TV*	01`01g10975?zyz
-Hip Hip Horee TV*	01`01g7052?zyz
-Horee TV*	01`01g6397?zyz
-Mentari TV*	01`01g8237?zyz
-Musica TV*	01`01g7619?zyz
-Nusantara TV*	01`01g7432?zyz
-Rans Channel*	01`01g8241?zyz
-Tempo TV*	01`01g7946?zyz
-ZooMoo TV*	01`01g6533?zyz
-Dangdut Koplo Indonesia - Nagaswara	https://nagaswarakoplo.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8?zyz
-Music Video Dancedut - Nagaswara	https://nagaswaraclip.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8?zyz
-POP Indonesia - Nagaswara	https://nagaswara-pop.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8?zyz
-SpoTV 1	01`01datemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd``e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
-SpoTV 2	01`01datemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd``e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
-Badminton Indonesia Masters 1	https://lebo.huminbird.cn/live/ballbar_29950.m3u8
-Badminton Indonesia Masters 2	https://lebo.huminbird.cn/live/ballbar_36370.m3u8
-Badminton Indonesia Masters 3	https://lebo.huminbird.cn/live/ballbar_31080.m3u8
-Badminton Indonesia Masters 4	https://lebo.huminbird.cn/live/ballbar_31050.m3u8
-Badminton Indonesia Masters 5	https://lebo.huminbird.cn/live/ballbar_28310.m3u8
-Badminton Korea Open 1	https://lebo.huminbird.cn/live/ballbar_38180.m3u8
-Badminton Korea Open 2	https://lebo.huminbird.cn/live/ballbar_30070.m3u8
-Badminton Korea Open 3	https://lebo.huminbird.cn/live/ballbar_27490.m3u8
-Badminton Korea Open 4	https://lebo.huminbird.cn/live/ballbar_31340.m3u8
-Badminton Japan Open 1	`0https://streaming.sportsnews.id/p/ch12.html
-Badminton Japan Open 2	`0https://streaming.sportsnews.id/p/ch13.html
-Badminton Japan Open 3	`0https://streaming.sportsnews.id/p/ch14.html
+These Channels are For Mobile & Desktop	^--
 100%! Space Shower TV Plus	`1https://en.gdplayertv.to/live-tv/space-shower-tv-plus/?embed=1
 A Spor TV	`1https://en.gdplayertv.to/live-tv/a-spor-tv/?embed=1
 A Sports TV	`1https://en.gdplayertv.to/live-tv/a-sports-tv/?embed=1
@@ -1200,3 +1188,17 @@ Sport4.id	01`02aSportstar4/sa_dash_vmx/Sportstar4.mpd``b81b1942c65f35547ced1bff0
 TV5-Monde-Asie.id	01`02aTV5/sa_dash_vmx/TV5.mpd``1b411a92f60bd9751d9637e849d3a632:d9bbfb8e1d34089daf5cc0c3ca17c694
 TV9.id	01`02aTV9/sa_dash_vmx/TV9.mpd``ce1a653fafa780cd4a8747c08872e3ab:d83bcf72b3f5a3d09674602b06caaa71
 TVMuhammadiyah.id	01`02aTVMuhammadiyah/sa_dash_vmx/TVMuhammadiyah.mpd``2fa7625e3470d5e9429f64150614f9a5:c495ad0e82e2266fd207934327c71ce3
+Ajwa TV*	01`01g7464?zyz
+DAAI TV*	01`01g6482?zyz
+ElShinta TV*	01`01g10975?zyz
+Hip Hip Horee TV*	01`01g7052?zyz
+Horee TV*	01`01g6397?zyz
+Mentari TV*	01`01g8237?zyz
+Musica TV*	01`01g7619?zyz
+Nusantara TV*	01`01g7432?zyz
+Rans Channel*	01`01g8241?zyz
+Tempo TV*	01`01g7946?zyz
+ZooMoo TV*	01`01g6533?zyz
+Dangdut Koplo Indonesia - Nagaswara	https://nagaswarakoplo.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8?zyz
+Music Video Dancedut - Nagaswara	https://nagaswaraclip.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8?zyz
+POP Indonesia - Nagaswara	https://nagaswara-pop.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8?zyz
