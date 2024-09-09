@@ -261,6 +261,13 @@ JP NHK World Premium	01`01dcdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/N
 JP Nippon News 24	https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 US MovieSphere TV	https://moviesphere-plex.amagi.tv/playlist.m3u8?c
 US SYFY	https://vbchcdedge03.national-linear-ddtc-tve.tve.cox.net/SYFYD_HD_CX_DDTVE_58623_0_5302026933975814163.mpd``b6f0313b542c403db100450122a25dce:b7c76618c5d877f6ced637eeab8112b1
+KR KBS News	http://mytv.dothome.co.kr/ch/catv/1.php
+KR KBS Drama	http://mytv.dothome.co.kr/ch/catv/2.php
+KR KBS Joy	http://mytv.dothome.co.kr/ch/catv/3.php
+KR KBS Story	http://mytv.dothome.co.kr/ch/catv/4.php
+KR KBS Life	http://mytv.dothome.co.kr/ch/catv/5.php
+KR KBS Kids	http://mytv.dothome.co.kr/ch/catv/6.php
+KR KBS World	http://mytv.dothome.co.kr/ch/catv/7.php
 KR ABN TV	https://vod2.abn.co.kr/IPHONE/abn.m3u8
 KR Arirang	https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist.m3u8
 KR EBS Kids TV	https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
