@@ -268,6 +268,8 @@ KR KBS Story	http://mytv.dothome.co.kr/ch/catv/4.php
 KR KBS Life	http://mytv.dothome.co.kr/ch/catv/5.php
 KR KBS Kids	http://mytv.dothome.co.kr/ch/catv/6.php
 KR KBS World	http://mytv.dothome.co.kr/ch/catv/7.php
+KR JTBC Golf & Sports	http://mytv.dothome.co.kr/ch/catv/58.php
+KR YTN 사이언스	http://mytv.dothome.co.kr/ch/catv/261.php
 KR ABN TV	https://vod2.abn.co.kr/IPHONE/abn.m3u8
 KR Arirang	https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist.m3u8
 KR EBS Kids TV	https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
