@@ -1,7 +1,8 @@
 {h} * Al Qur'an.mp3	^^h9
 {h} * Conspiracy Truth 1	^^h7
 {h} * Conspiracy Truth 2	^^h8
-{s} Ⓢ 0 Movies Film	^^s0
+{h} * zeemoontv b1	`0https://zeeplayer.pages.dev/b/b1?id=b1&type=m
+{s} Ⓢc0 Movies Film	^^s0
 {h} * Movies Film VOD 1	^^h12
 {h} * Movies Film VOD 2	^^h13
 {h} * IPTV Lokal Campur	^^hhttps://gist.githubusercontent.com/ahmadarif/d707ed2a80cc7afd7c7283dbe888e64d/raw/126478a6903f233924e8fbf09b73d7495b5ab56f/IPTV%2520Lokal%2520Campur.m3u
@@ -30,7 +31,7 @@
 {h} Ⓕb2 Fun	^^hb2
 {h} Ⓦb3 Wow Great!	^^hb3
 {h} Ⓢ 0 Samsung	^^h3
-{h} Ⓟ 1 Pluto	^^h1
+{h} Ⓟc1 Pluto	^^h1
 {h} Ⓢ 0 Samsung	^^hhttps://i.mjh.nz/SamsungTVPlus/all.m3u8
 {h} Ⓟ 1 Pluto	^^hhttps://i.mjh.nz/PlutoTV/all.m3u8
 {h} * Sports TV	^^hk^sports.m3u
