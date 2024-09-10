@@ -99,8 +99,6 @@ ID TV9	01`00a130/tv9/index.m3u8?c
 ID tvN	01`00a133/tvn/index.m3u8?c
 ID tvN Movies	01`00a133/tvnmovies/index.m3u8?c
 ID Zhejiang	01`00a130/zhejiang/index.m3u8?c
-SEA Today*	01`01g7687?zyz
-AU ABC Australia*	01`01g7150?zyz
 Sony GEM	https://tglmp01.akamaized.net/out/v1/acd34a6d1e2540f888793461457b77e1/manifest.mpd``0403e654ddab419db6cc72bb3fa51248:9d43bcc51f3750550d321cdc37e57cc9
 Angry Birds 1	https://stream.ads.ottera.tv/playlist.m3u8?network_id=547
 Angry Birds 2	https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=514
@@ -726,3 +724,5 @@ UK Sky Crime	01`00blinear013-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720
 UK Sky Atlantic	01`00blinear019-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skyatlantic)/manifest_720.mpd``000533bb655b97f89fef59db87f507ec:5f1c8bf427349228aa6469486a84c54b
 UK Sky Max	01`00blinear016-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skymax)/manifest_720.mpd``000350070546d852d30a328bc62fbeda:0789751fcfbc476469c302b1a174ebb8
 UK Sky Showcase	01`00blinear035-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skyshowcase)/manifest_720.mpd``0003c312fd726f0ed430816abd7bb735:a3b08d3438447fa93a53aa823a834d7e
+SEA Today*	01`01g7687?zyz
+AU ABC Australia*	01`01g7150?zyz
