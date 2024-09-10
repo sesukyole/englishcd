@@ -3,9 +3,9 @@ Live Sports HD 8	`0i3`02hd/hd8.php
 Live RCTI 1	https://1s1.rctiplus.id/rcti2023.m3u8
 Live RCTI 2	https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
 Live RCTI 3	00`a05rcti-2/sa_hls/rcti-2.m3u8?c
-Live Sport 1	00`a05rcti-sportstar/sa_hls/rcti-sportstar.m3u8?c
-Live Sport 2	00`a05rcti-sportstar2/sa_hls/rcti-sportstar2.m3u8?c
 Live iNews	https://1s1.rctiplus.id/inews2023.m3u8
+Live Sport 2	00`a05rcti-sportstar2/sa_hls/rcti-sportstar2.m3u8?c
+Live Sport 1	00`a05rcti-sportstar/sa_hls/rcti-sportstar.m3u8?c
 Live Events 1	https://lebo.huminbird.cn/live/ballbar_36310.m3u8
 Live Events 2	https://lebo.huminbird.cn/live/ballbar_18370.m3u8
 Live Events A	`0https://live.sportsnews.id/p/ch2.html
