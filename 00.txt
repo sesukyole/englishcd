@@ -1,43 +1,25 @@
-Mozambique v Guinea-Bissau . 20:00	^--
-Latvia v Faroe Islands . 23:00	^--
-Netherlands v Germany . 01:45	^--
 Ecuador v Peru . 04:00	^--
 Paraguay v Brazil . 07:30	^--
 Sport TV 1	`0i3`00SPT1
-Rwanda v Nigeria . 20:00	^--
-England v Finland . 01:45	^--
 Sport TV 2	`0i3`00SPT2
 Colombia v Argentina . 03:30	^--
 Sport TV 3	`0i3`00SPT3
-Hungary v Bosnia and Herzegovina . 01:45	^--
 Sport TV 4	`0i3`00SPT4
-Ireland Republic v Greece . 01:45	^--
 Sport TV 5	`0i3`00SPT5
 Sport TV 6	`0i3`00SPT6
 Sport TV +	`0i3`00SPTPlus
 Live Sports HD 1	`0i3`02hd/hd1.php
 Live Sports HD 2	`0i3`02hd/hd2.php
-Botswana v Egypt . 20:00	^--
-Liberia v Algeria . 23:00	^--
-Cape Verde Islands v Mauritania . 02:00	^--
 Live Sports HD 3	`0i3`02hd/hd3.php
-Palestine v Jordan . 21:00	^--
 Live Sports HD 4	`0i3`02hd/hd4.php
-Czech Republic v Ukraine . 01:45	^--
 Venezuela v Uruguay . 05:00	^--
 Live Sports HD 5	`0i3`02hd/hd5.php
 Live Sports HD 6	`0i3`02hd/hd6.php
 Live Sports HD 7	`0i3`02hd/hd7.php
-Oman v Korea Republic . 21:00	^--
-Bahrain v Japan . 23:00	^--
-Chad v Côte d'Ivoire . 02:00	^--
 Live Sports HD 8	`0i3`02hd/hd8.php
-China v Saudi Arabia . 19:00	^--
-Zimbabwe v Cameroon . 23:00	^--
 USA v New Zealand . 06:00	^--
 Live Sports HD 9	`0i3`02hd/hd9.php
 Live Sports HD 10	`0i3`02hd/hd10.php
-Albania v Georgia . 01:45	^--
 Chile v Bolivia . 04:00	^--
 Mexico v Canada . 07:30	^--
 Live Sports HD 11	`0i3`02hd/hd11.php
