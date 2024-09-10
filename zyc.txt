@@ -2,6 +2,15 @@
 {h} * Conspiracy Truth 1	^^h7
 {h} * Conspiracy Truth 2	^^h8
 {h} * zeemoontv b1	`0https://zeeplayer.pages.dev/b/b1?id=b1&type=m
+NL S	01`01clive.vrtcdn.be/groupc/live/8edf3bdf-7db3-41c3-a318-72cb7f82de66/live.isml/.mpd``ef4daa3c90333621e4115ff1ca5bfbda:424c9902fce5a2e7dcbeb37ffc06b906
+Abu Dhabi Sports 1	01`01cvo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
+ES Eurosports 1	https://cors-anywhere-batou.herokuapp.com/https://atemecdnbalancer-voe.sysln.id/live/eds/EUROSPORTHD/mpd/EUROSPORTHD.mpd``47c03f29f04747d2a298c0ad63f3b2c1:8b48b2cb2743b91d5f20cf2622067f3a
+ES Eurosports 2	https://twilight-sun-c62a.gdrivegdrive002.workers.dev/https://atemecdnbalancer-voe.sysln.id/live/eds/EUROSPORTHD/mpd/EUROSPORTHD.mpd``47c03f29f04747d2a298c0ad63f3b2c1:8b48b2cb2743b91d5f20cf2622067f3a
+ES Eurosports 3	https://dark-sunset-ca86.rendypaylater.workers.dev/https://atemecdnbalancer-voe.sysln.id/live/eds/EUROSPORTHD/mpd/EUROSPORTHD.mpd``47c03f29f04747d2a298c0ad63f3b2c1:8b48b2cb2743b91d5f20cf2622067f3a
+ES Eurosports 4	https://proji.glitch.me/https://atemecdnbalancer-voe.sysln.id/live/eds/EUROSPORTHD/mpd/EUROSPORTHD.mpd``47c03f29f04747d2a298c0ad63f3b2c1:8b48b2cb2743b91d5f20cf2622067f3a
+ES Eurosports 5	https://cors-proxy.cooks.fyi/https://atemecdnbalancer-voe.sysln.id/live/eds/EUROSPORTHD/mpd/EUROSPORTHD.mpd``47c03f29f04747d2a298c0ad63f3b2c1:8b48b2cb2743b91d5f20cf2622067f3a
+ES Eurosports 6	https://andi-cors-proxy-service-k8s.andisearch.com/https://atemecdnbalancer-voe.sysln.id/live/eds/EUROSPORTHD/mpd/EUROSPORTHD.mpd``47c03f29f04747d2a298c0ad63f3b2c1:8b48b2cb2743b91d5f20cf2622067f3a
+ES Eurosports 7	https://cors.eu.org/https://atemecdnbalancer-voe.sysln.id/live/eds/EUROSPORTHD/mpd/EUROSPORTHD.mpd``47c03f29f04747d2a298c0ad63f3b2c1:8b48b2cb2743b91d5f20cf2622067f3a
 {s} Ⓢc0 Movies Film	^^s0
 {h} * Movies Film VOD 1	^^h12
 {h} * Movies Film VOD 2	^^h13
