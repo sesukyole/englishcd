@@ -1,10 +1,11 @@
 Indonesia v Australia . 19:00	^--
-Live Sports HD 8	`0i3`02hd/hd8.php
 Live Sport 2	00`a05rcti-sportstar2/sa_hls/rcti-sportstar2.m3u8?c
-Live Events 1	https://lebo.huminbird.cn/live/ballbar_32600.m3u8
-Live Events 2	https://lebo.huminbird.cn/live/ballbar_31170.m3u8
-Live Events 3	https://lebo.huminbird.cn/live/ballbar_23170.m3u8
-Live Events 4	https://lebo.huminbird.cn/live/ballbar_21640.m3u8
+Live Events 1	https://lebo.huminbird.cn/live/ballbar_23170.m3u8
+Live Events 2	https://live3.procdnlive.com/livecdn/channel34.m3u8?auth_key=3000001725929208-0-0-c13286dd609a92abc53a635895f6fd9d
+Live Events 3	https://lebo.huminbird.cn/live/ballbar_32600.m3u8
+Live Events 4	https://lebo.huminbird.cn/live/ballbar_31170.m3u8
+Live Events 5	https://lebo.huminbird.cn/live/ballbar_21640.m3u8
+Live Sports HD 8	`0i3`02hd/hd8.php
 Live Events Now	`0https://zeeplayer.pages.dev/b/b1?id=b1&type=m
 Live iNews	https://1s1.rctiplus.id/inews2023.m3u8
 RCTI.id for PC	01`02aRCTI-DD/sa_dash_vmx/RCTI-DD.mpd``9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
