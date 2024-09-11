@@ -1,16 +1,4 @@
-IDN Liga 1	https://bf.shandongjnsd.com/live/322665_hd01.m3u8?txSecret=01d564c22f113516e3f03840316f9818&txTime=66e15c07
 AFC Asian Qualifiers Road to 26	https://svc40.main.vr.t-online.de/LCID3221228350.originalserver.prod.sngtv.t-online.de/PLTV/88888888/224/3221228350/3221228350.mpd``64fdf75a9fc7fa2f0dc197ecdfd07eba:44094f8dd29164989b9daecb9aabf4f2
-Badminton Hong Kong Open 1	https://wakacha.github.io/live/c1.m3u8
-Badminton Hong Kong Open 2	https://wakacha.github.io/live/c2.m3u8
-Badminton Hong Kong Open 3	https://wakacha.github.io/live/c3.m3u8
-Badminton Hong Kong Open 4	https://wakacha.github.io/live/c4.m3u8
-Live Sport 1	00`a05rcti-sportstar/sa_hls/rcti-sportstar.m3u8?c
-Live Sport 2	00`a05rcti-sportstar2/sa_hls/rcti-sportstar2.m3u8?c
-Live iNews	https://1s1.rctiplus.id/inews2023.m3u8
-Live RCTI 1	https://1s1.rctiplus.id/rcti2023.m3u8
-Live RCTI 2	00`a05rcti-2/sa_hls/rcti-2.m3u8?c
-Live RCTI 3	https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
-RCTI.id for PC	01`02aRCTI-DD/sa_dash_vmx/RCTI-DD.mpd``9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
 Sport TV 1	`0i3`00SPT1
 Sport TV 2	`0i3`00SPT2
 Sport TV 3	`0i3`00SPT3
@@ -18,6 +6,8 @@ Sport TV 4	`0i3`00SPT4
 Sport TV 5	`0i3`00SPT5
 Sport TV 6	`0i3`00SPT6
 Sport TV +	`0i3`00SPTPlus
+ID Live Sport 1	00`a05rcti-sportstar/sa_hls/rcti-sportstar.m3u8?c
+ID Live Sport 2	00`a05rcti-sportstar2/sa_hls/rcti-sportstar2.m3u8?c
 Live Sports HD 1	`0i3`02hd/hd1.php
 Live Sports HD 2	`0i3`02hd/hd2.php
 Live Sports HD 3	`0i3`02hd/hd3.php
@@ -29,6 +19,8 @@ Live Sports HD 8	`0i3`02hd/hd8.php
 Live Sports HD 9	`0i3`02hd/hd9.php
 Live Sports HD 10	`0i3`02hd/hd10.php
 Live Sports HD 11	`0i3`02hd/hd11.php
+ID iNews	https://1s1.rctiplus.id/inews2023.m3u8
+ID RCTI 1	https://1s1.rctiplus.id/rcti2023.m3u8
 Arena Sport 1x2	https://webtvstream.bhtelecom.ba/hls6/arena_1x2.mpd``c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 Sport Italia	https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/amRdirect/ads_pod_type=playerpage_midroll&ads_env=prod&ads_ppid=&ads_rtvid=271861&ads_streaming_id=4f185419-74f6-4564-8ea9-4cdc60746e2f&ads_amagi_channel=781&ads_device_type=web&ads_device_model=&ads_device_year=&ads_player_width=&ads_rtv_content_language=ita&ads_market=it&ads_rtv_content_id=3741&ads_device_make=&ads_user_type=visitor&ads_content_classification=6&ads_gdpr_consent=&ads_device_lmt=1&ads_player_height=&uid=1gnmqg5gu-qsvc-bfo-gaq3-3dgjgexshpe/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/1920x1080_4540800/chunklist.m3u8
 VPN: VeePN Chrome Ext. or Psiphon Pro APK	^--
@@ -45,6 +37,10 @@ UK Sky Sport Premier League [VPN]	01`00elinear015-gb-dash1-prd-ll.cdn.skycdp.com
 UK Sky Sport Main Event [VPN]	01`00elinear015-gb-dash1-prd-ll.cdn.skycdp.com/Content/DASH_003_720_120/Live/channel(skysportsmainevent)/manifest_720.mpd``000546476256963bd054ded3b6ae5800:1e497068bcc078fdb2f4296bc400ca2b
 UK Sky Sport News [VPN]	01`00elinear030-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_120/Live/channel(skysportsnews)/manifest_720.mpd``00057bfb9cf2fc40b5ed61f9c8a41d54:cb9908093e35e3c3f7db06f55913cce0
 Non VPN: No Need for VPN	^--
+Badminton Hong Kong Open 1	https://wakacha.github.io/live/c1.m3u8
+Badminton Hong Kong Open 2	https://wakacha.github.io/live/c2.m3u8
+Badminton Hong Kong Open 3	https://wakacha.github.io/live/c3.m3u8
+Badminton Hong Kong Open 4	https://wakacha.github.io/live/c4.m3u8
 ITV Sport	https://tv.cdn.xsg.ge/gpb-2tv/tracks-v1a1/mono.m3u8
 TV 2 Sport 1	https://rikstv-live-scalstrm.telenorcdn.net/live/rikstv/64393bf81dbc891fd41f53ac/manifest.mpd``0c6212056d2f51fcbf569f9a1a8517d1:d07b404deb7c958347d742e6d1d2f3f9
 TV 2 Sport Premium	https://ch11-hls-live.akamaized.net/out/u/433127.mpd``d12e4c9dc52f4cbab7ac9b2278317e47:a7987e5b6ec42db68a25486e108ca9f2
@@ -897,3 +893,7 @@ Live Events 2	https://lebo.huminbird.cn/live/ballbar_32600.m3u8
 Live Events 3	https://lebo.huminbird.cn/live/ballbar_31170.m3u8
 Live Events 4	https://lebo.huminbird.cn/live/ballbar_21640.m3u8
 Live Events 5	https://live3.procdnlive.com/livecdn/channel34.m3u8?auth_key=3000001725929208-0-0-c13286dd609a92abc53a635895f6fd9d?7
+IDN Liga 1	https://bf.shandongjnsd.com/live/322665_hd01.m3u8?txSecret=01d564c22f113516e3f03840316f9818&txTime=66e15c07
+Live RCTI 2	00`a05rcti-2/sa_hls/rcti-2.m3u8?c
+Live RCTI 3	https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
+RCTI.id for PC	01`02aRCTI-DD/sa_dash_vmx/RCTI-DD.mpd``9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
