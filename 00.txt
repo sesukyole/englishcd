@@ -1,4 +1,9 @@
 IDN Liga 1	https://bf.shandongjnsd.com/live/322665_hd01.m3u8?txSecret=01d564c22f113516e3f03840316f9818&txTime=66e15c07
+AFC Asian Qualifiers Road to 26	https://svc40.main.vr.t-online.de/LCID3221228350.originalserver.prod.sngtv.t-online.de/PLTV/88888888/224/3221228350/3221228350.mpd``64fdf75a9fc7fa2f0dc197ecdfd07eba:44094f8dd29164989b9daecb9aabf4f2
+Badminton Hong Kong Open 1	https://wakacha.github.io/live/c1.m3u8
+Badminton Hong Kong Open 2	https://wakacha.github.io/live/c2.m3u8
+Badminton Hong Kong Open 3	https://wakacha.github.io/live/c3.m3u8
+Badminton Hong Kong Open 4	https://wakacha.github.io/live/c4.m3u8
 Live Sport 1	00`a05rcti-sportstar/sa_hls/rcti-sportstar.m3u8?c
 Live Sport 2	00`a05rcti-sportstar2/sa_hls/rcti-sportstar2.m3u8?c
 Live iNews	https://1s1.rctiplus.id/inews2023.m3u8
