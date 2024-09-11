@@ -1,3 +1,4 @@
+{s} Ⓜa1 Multi	^--
 SA Makkah	https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
 SA Medina 1	https://op-group1-swiftservesd-1.dens.tv/s/s27/02.m3u8
 SA Medina 2	https://op-group1-swiftservesd-1.dens.tv/s/s27/01.m3u8
