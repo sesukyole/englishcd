@@ -1,8 +1,5 @@
-Ecuador v Peru . 04:00	^--
-Paraguay v Brazil . 07:30	^--
 Sport TV 1	`0i3`00SPT1
 Sport TV 2	`0i3`00SPT2
-Colombia v Argentina . 03:30	^--
 Sport TV 3	`0i3`00SPT3
 Sport TV 4	`0i3`00SPT4
 Sport TV 5	`0i3`00SPT5
@@ -12,16 +9,12 @@ Live Sports HD 1	`0i3`02hd/hd1.php
 Live Sports HD 2	`0i3`02hd/hd2.php
 Live Sports HD 3	`0i3`02hd/hd3.php
 Live Sports HD 4	`0i3`02hd/hd4.php
-Venezuela v Uruguay . 05:00	^--
 Live Sports HD 5	`0i3`02hd/hd5.php
 Live Sports HD 6	`0i3`02hd/hd6.php
 Live Sports HD 7	`0i3`02hd/hd7.php
 Live Sports HD 8	`0i3`02hd/hd8.php
-USA v New Zealand . 06:00	^--
 Live Sports HD 9	`0i3`02hd/hd9.php
 Live Sports HD 10	`0i3`02hd/hd10.php
-Chile v Bolivia . 04:00	^--
-Mexico v Canada . 07:30	^--
 Live Sports HD 11	`0i3`02hd/hd11.php
 Arena Sport 1x2	https://webtvstream.bhtelecom.ba/hls6/arena_1x2.mpd``c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 Sport Italia	https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/amRdirect/ads_pod_type=playerpage_midroll&ads_env=prod&ads_ppid=&ads_rtvid=271861&ads_streaming_id=4f185419-74f6-4564-8ea9-4cdc60746e2f&ads_amagi_channel=781&ads_device_type=web&ads_device_model=&ads_device_year=&ads_player_width=&ads_rtv_content_language=ita&ads_market=it&ads_rtv_content_id=3741&ads_device_make=&ads_user_type=visitor&ads_content_classification=6&ads_gdpr_consent=&ads_device_lmt=1&ads_player_height=&uid=1gnmqg5gu-qsvc-bfo-gaq3-3dgjgexshpe/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/1920x1080_4540800/chunklist.m3u8
@@ -898,3 +891,4 @@ Live Events 2	https://lebo.huminbird.cn/live/ballbar_32600.m3u8
 Live Events 3	https://lebo.huminbird.cn/live/ballbar_31170.m3u8
 Live Events 4	https://lebo.huminbird.cn/live/ballbar_21640.m3u8
 Live Events 5	https://live3.procdnlive.com/livecdn/channel34.m3u8?auth_key=3000001725929208-0-0-c13286dd609a92abc53a635895f6fd9d?7
+Abu Dhabi Sports 1	01`01cvo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
