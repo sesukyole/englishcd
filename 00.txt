@@ -1,6 +1,7 @@
 {s} Ⓗa0 Sports	^--
 SportDigital Fussball	https://svc40.main.vr.t-online.de/LCID3221228350.originalserver.prod.sngtv.t-online.de/PLTV/88888888/224/3221228350/3221228350.mpd``64fdf75a9fc7fa2f0dc197ecdfd07eba:44094f8dd29164989b9daecb9aabf4f2
-IDN Liga 1	`0https://zeeplayer.pages.dev/b/b1?id=b1&type=m
+IDN Liga 1 A	`0https://zeeplayer.pages.dev/b/b1?id=b1&type=m
+IDN Liga 1 B	`0https://zeeplayer.pages.dev/b/b2?id=b2&type=m
 ID Live Sport 1	00`a05rcti-sportstar/sa_hls/rcti-sportstar.m3u8?c
 ID Live Sport 2	00`a05rcti-sportstar2/sa_hls/rcti-sportstar2.m3u8?c
 ID iNews	https://1s1.rctiplus.id/inews2023.m3u8
