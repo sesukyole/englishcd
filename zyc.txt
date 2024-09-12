@@ -1,6 +1,15 @@
 {h} * Al Qur'an.mp3	^^h9
 {h} * Conspiracy Truth 1	^^h7
 {h} * Conspiracy Truth 2	^^h8
+{h} * PABLOPOM 1	^^hhttps://raw.githubusercontent.com/PABLOPOM/m3u/main/TELEVISION
+{h} * PABLOPOM 2	^^hhttps://raw.githubusercontent.com/PABLOPOM/m3u/main/TELEVISION2
+{h} * PABLOPOM 3	^^hhttps://raw.githubusercontent.com/PABLOPOM/m3u/main/TELEVISION2
+{h} * PABLOPOM 4	^^hhttps://raw.githubusercontent.com/PABLOPOM/m3u/main/TELEVISION2
+{h} * PABLOPOM 5	^^hhttps://raw.githubusercontent.com/PABLOPOM/m3u/main/TELEVISION2
+{h} * PABLOPOM 6	^^hhttps://raw.githubusercontent.com/PABLOPOM/m3u/main/TELEVISION2
+{h} * PABLOPOM 7	^^hhttps://raw.githubusercontent.com/PABLOPOM/m3u/main/TELEVISION2
+{h} * PABLOPOM 8	^^hhttps://raw.githubusercontent.com/PABLOPOM/m3u/main/TELEVISION2
+{h} * PABLOPOM 9	^^hhttps://raw.githubusercontent.com/PABLOPOM/m3u/main/TELEVISION2
 {h} * mnctv r+	https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv?zyz
 {h} * zeemoontv b1	`0https://zeeplayer.pages.dev/b/b1?id=b1&type=m
 {s} Ⓢc0 Movies Film	^^s0
