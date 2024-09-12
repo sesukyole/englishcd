@@ -265,7 +265,7 @@ EPL Football 5 TV	https://l.m1/02_PremierHD5_720p/chunklist.m3u8
 Sports 1 TV	https://l.m1/02_2sporthd1_720p/chunklist.m3u8
 Sports 2 TV	https://l.m1/02_2sporthd2_720p/chunklist.m3u8
 Sports 3 TV	https://l.m1/02_2sporthd3_720p/chunklist.m3u8
-Sports 3 TV	https://l.m1/02_2sporthd4_720p/chunklist.m3u8
+Sports 4 TV	https://l.m1/02_2sporthd4_720p/chunklist.m3u8
 Tennis TV	https://l.m1/02_TennisHD_720p/chunklist.m3u8
 Golf TV	https://l.m1/02_golfhd_720p/chunklist.m3u8
 Spo 1 TV	https://l.m1/02_foxsport_720p/chunklist.m3u8

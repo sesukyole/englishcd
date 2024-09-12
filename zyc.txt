@@ -10,6 +10,7 @@
 {h} * PABLOPOM 7	^^hhttps://raw.githubusercontent.com/PABLOPOM/m3u/main/TELEVISION2
 {h} * PABLOPOM 8	^^hhttps://raw.githubusercontent.com/PABLOPOM/m3u/main/TELEVISION2
 {h} * PABLOPOM 9	^^hhttps://raw.githubusercontent.com/PABLOPOM/m3u/main/TELEVISION2
+{h} * epg.pw	^^hhttps://epg.pw/test_channels_sport.txt
 {h} * mnctv r+	https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv?zyz
 {h} * zeemoontv b1	`0https://zeeplayer.pages.dev/b/b1?id=b1&type=m
 {s} Ⓢc0 Movies Film	^^s0
@@ -48,7 +49,6 @@
 🌍 Countries: International	^^hc^int.m3u
 🇮🇩 Indonesia	^^hc^id.m3u
 {h} Ⓘ 2 iptv-org	^^h2
-<br>These Action Movies are for Mobile Only<br>	^--
 Action Movies A	i3`064332?zyz
 Action Movies B	i3`066140589?zyz
 Action Movies C	i3`062516864?zyz
