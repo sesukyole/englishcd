@@ -255,6 +255,27 @@ Telemundo PR	https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/str
 Billiard	https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
 GT Azteca	https://ch1-tva.duin.dev/hls/stream.m3u8
 GT A Mas	https://ch2-tva.duin.dev/hls/stream.m3u8
+beIN Sports 1 TV	https://l.m1/02_epl1_720p/chunklist.m3u8
+beIN Sports 3 TV	https://l.m1/02_epl2_720p/chunklist.m3u8
+EPL Football 1 TV	https://l.m1/02_PremierHD1_720p/chunklist.m3u8
+EPL Football 2 TV	https://l.m1/02_PremierHD2_720p/chunklist.m3u8
+EPL Football 3 TV	https://l.m1/02_PremierHD3_720p/chunklist.m3u8
+EPL Football 4 TV	https://l.m1/02_PremierHD4_720p/chunklist.m3u8
+EPL Football 5 TV	https://l.m1/02_PremierHD5_720p/chunklist.m3u8
+Sports 1 TV	https://l.m1/02_2sporthd1_720p/chunklist.m3u8
+Sports 2 TV	https://l.m1/02_2sporthd2_720p/chunklist.m3u8
+Sports 3 TV	https://l.m1/02_2sporthd3_720p/chunklist.m3u8
+Sports 3 TV	https://l.m1/02_2sporthd4_720p/chunklist.m3u8
+Tennis TV	https://l.m1/02_TennisHD_720p/chunklist.m3u8
+Golf TV	https://l.m1/02_golfhd_720p/chunklist.m3u8
+Spo 1 TV	https://l.m1/02_foxsport_720p/chunklist.m3u8
+Spo 2 TV	https://l.m1/02_FoxSport2_TH_720p/chunklist.m3u8
+Channel 7 TV	https://l.m1/02_FoxSport3_TH_720p/chunklist.m3u8
+Sports 5 Golf	https://l.m1/02_sport5_480p/chunklist.m3u8
+Sports 2 beIN 1	https://l.m1/02_sport2_480p/chunklist.m3u8
+Sports 6 beIN 3	https://l.m1/02_sport6_480p/chunklist.m3u8
+Sports 7 SD	https://l.m1/02_sport7_480p/chunklist.m3u8
+T Sports SD	https://l.m1/02_T_Sports_480p/chunklist.m3u8
 AR ESPN Premium	`1i3`05espn_premium
 AR Fox Sports 1	`1i3`05fox1ar
 AR Fox Sports 2	`1i3`05fox2ar
