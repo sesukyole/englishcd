@@ -167,24 +167,6 @@ TVRI.id	01`02aPemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd``ca65af90adc5e3ddb
 VisionPrime.id	01`02aVisionPrime/sa_dash_vmx/VisionPrime.mpd``50056951f6d5f5fbaf286cd99c965379:4ec78e3b7d66d1db3815a127f792b604
 ZeeBioskop.id	01`02aZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd``9e7df70530006bef067327cefde82c0e:b92b6a2aba522bd9bb2d07cf241e7398
 Zoomoo.id	01`02aZoomoo/sa_dash_vmx/Zoomoo.mpd``5ff6154f28d6950063f9f5b4db7be009:93cac38fd15124acce5b658896df0a25
-Sport3.id	01`02aMNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd``fadd2720deff5925ab86df0819cd7775:f67ff08c7ebc779f6a6fcfc83835f65b
-Sport4.id	01`02aSportstar4/sa_dash_vmx/Sportstar4.mpd``b81b1942c65f35547ced1bff074206a5:a07dc4d86f51db7195f4b7e2abe9d9e8
-ZooMoo.id	01`02aBoomerang/sa_dash_vmx/Boomerang.mpd``5ff6154f28d6950063f9f5b4db7be009:93cac38fd15124acce5b658896df0a25
-BBC-World-News.id	01`02aBBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd``82e458dc5613eaaa2608de8d190f1637:c25659bd78913e93e3fddace99a964c1
-Channel-News-Asia.id	01`02aChannelNewsAsia/sa_dash_vmx/ChannelNewsAsia.mpd``e1ae750e09889a610744516182c8e95a:2f7aa7b21102d05a986a4212c4afa06f
-Cinema-World.id	01`02aCinemaWorld/sa_dash_vmx/CinemaWorld.mpd``958df746f24f371dffc95e7cd714fbd7:fbd6e4540b9a917a27da8be01542f53f
-History.id	01`02aHistory/sa_dash_vmx/History.mpd``2ccaa7d9731c2e69fa5344c5a547b836:d23fb6a3c73eb7ab8ad19ca841db0fb5
-NatGeo.id	01`02aNatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd``05457a5e16a76fe666a22cc7ae2c6548:626e37901bfb985e994d714e9f9de1b5
-Nat-Geo-Channel.id	01`02aNatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd``05457a5e16a76fe666a22cc7ae2c6548:626e37901bfb985e994d714e9f9de1b5
-NatGeoWild.id	01`02aNatGeoWild/sa_dash_vmx/NatGeoWild.mpd``c3066eaa0984588f78d12dcdb75ef88b:4e98eb4927941bff51ea526d223fa16d
-Nat-Geo-Wild.id	01`02aNatGeoWild/sa_dash_vmx/NatGeoWild.mpd``c3066eaa0984588f78d12dcdb75ef88b:4e98eb4927941bff51ea526d223fa16d
-OKTV.id	01`02aOKTV/sa_dash_vmx/OKTV.mpd``57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
-Paramount.id	01`02aParamount-HD/sa_dash_vmx/Paramount-HD.mpd``faa79feb03b3ebf0e4566e649cb938f0:2d5e77223719fb1af573cbeab56bb16a
-Sport3.id	01`02aMNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd``fadd2720deff5925ab86df0819cd7775:f67ff08c7ebc779f6a6fcfc83835f65b
-Sport4.id	01`02aSportstar4/sa_dash_vmx/Sportstar4.mpd``b81b1942c65f35547ced1bff074206a5:a07dc4d86f51db7195f4b7e2abe9d9e8
-TV5-Monde-Asie.id	01`02aTV5/sa_dash_vmx/TV5.mpd``1b411a92f60bd9751d9637e849d3a632:d9bbfb8e1d34089daf5cc0c3ca17c694
-TV9.id	01`02aTV9/sa_dash_vmx/TV9.mpd``ce1a653fafa780cd4a8747c08872e3ab:d83bcf72b3f5a3d09674602b06caaa71
-TVMuhammadiyah.id	01`02aTVMuhammadiyah/sa_dash_vmx/TVMuhammadiyah.mpd``2fa7625e3470d5e9429f64150614f9a5:c495ad0e82e2266fd207934327c71ce3
 POP Indonesia - Nagaswara	https://nagaswara-pop.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8?zyz
 Badminton Indonesia Masters 1	https://lebo.huminbird.cn/live/ballbar_29950.m3u8
 Badminton Indonesia Masters 2	https://lebo.huminbird.cn/live/ballbar_36370.m3u8
@@ -1209,3 +1191,19 @@ Hunan.id	01`02aHunanTV/sa_dash_vmx/HunanTV.mpd
 Jiangsu.id	01`02aJiangsuTV/sa_dash_vmx/JiangsuTV.mpd
 ShanghaiDragon.id	01`02aShanghaiDragonTV/sa_dash_vmx/ShanghaiDragonTV.mpd
 XingKong.id	01`02aXingKongTV/sa_dash_vmx/XingKongTV.mpd
+BBC-World-News.id	01`02aBBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd``82e458dc5613eaaa2608de8d190f1637:c25659bd78913e93e3fddace99a964c1
+Channel-News-Asia.id	01`02aChannelNewsAsia/sa_dash_vmx/ChannelNewsAsia.mpd``e1ae750e09889a610744516182c8e95a:2f7aa7b21102d05a986a4212c4afa06f
+Cinema-World.id	01`02aCinemaWorld/sa_dash_vmx/CinemaWorld.mpd``958df746f24f371dffc95e7cd714fbd7:fbd6e4540b9a917a27da8be01542f53f
+History.id	01`02aHistory/sa_dash_vmx/History.mpd``2ccaa7d9731c2e69fa5344c5a547b836:d23fb6a3c73eb7ab8ad19ca841db0fb5
+NatGeo.id	01`02aNatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd``05457a5e16a76fe666a22cc7ae2c6548:626e37901bfb985e994d714e9f9de1b5
+Nat-Geo-Channel.id	01`02aNatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd``05457a5e16a76fe666a22cc7ae2c6548:626e37901bfb985e994d714e9f9de1b5
+NatGeoWild.id	01`02aNatGeoWild/sa_dash_vmx/NatGeoWild.mpd``c3066eaa0984588f78d12dcdb75ef88b:4e98eb4927941bff51ea526d223fa16d
+Nat-Geo-Wild.id	01`02aNatGeoWild/sa_dash_vmx/NatGeoWild.mpd``c3066eaa0984588f78d12dcdb75ef88b:4e98eb4927941bff51ea526d223fa16d
+OKTV.id	01`02aOKTV/sa_dash_vmx/OKTV.mpd``57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
+Paramount.id	01`02aParamount-HD/sa_dash_vmx/Paramount-HD.mpd``faa79feb03b3ebf0e4566e649cb938f0:2d5e77223719fb1af573cbeab56bb16a
+Sport3.id	01`02aMNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd``fadd2720deff5925ab86df0819cd7775:f67ff08c7ebc779f6a6fcfc83835f65b
+Sport4.id	01`02aSportstar4/sa_dash_vmx/Sportstar4.mpd``b81b1942c65f35547ced1bff074206a5:a07dc4d86f51db7195f4b7e2abe9d9e8
+TV5-Monde-Asie.id	01`02aTV5/sa_dash_vmx/TV5.mpd``1b411a92f60bd9751d9637e849d3a632:d9bbfb8e1d34089daf5cc0c3ca17c694
+TV9.id	01`02aTV9/sa_dash_vmx/TV9.mpd``ce1a653fafa780cd4a8747c08872e3ab:d83bcf72b3f5a3d09674602b06caaa71
+TVMuhammadiyah.id	01`02aTVMuhammadiyah/sa_dash_vmx/TVMuhammadiyah.mpd``2fa7625e3470d5e9429f64150614f9a5:c495ad0e82e2266fd207934327c71ce3
+ZooMoo.id	01`02aBoomerang/sa_dash_vmx/Boomerang.mpd``5ff6154f28d6950063f9f5b4db7be009:93cac38fd15124acce5b658896df0a25
