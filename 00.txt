@@ -1,30 +1,10 @@
 {s} Ⓗa0 Sports	^--
+SportDigital Fussball	https://svc40.main.vr.t-online.de/LCID3221228350.originalserver.prod.sngtv.t-online.de/PLTV/88888888/224/3221228350/3221228350.mpd``64fdf75a9fc7fa2f0dc197ecdfd07eba:44094f8dd29164989b9daecb9aabf4f2
 IDN Liga 1	`0https://zeeplayer.pages.dev/b/b1?id=b1&type=m
-AFC Asian Qualifiers Road to 26	https://svc40.main.vr.t-online.de/LCID3221228350.originalserver.prod.sngtv.t-online.de/PLTV/88888888/224/3221228350/3221228350.mpd``64fdf75a9fc7fa2f0dc197ecdfd07eba:44094f8dd29164989b9daecb9aabf4f2
-Sport TV 1	`0i3`00SPT1
-Sport TV 2	`0i3`00SPT2
-Sport TV 3	`0i3`00SPT3
-Sport TV 4	`0i3`00SPT4
-Sport TV 5	`0i3`00SPT5
-Sport TV 6	`0i3`00SPT6
-Sport TV +	`0i3`00SPTPlus
 ID Live Sport 1	00`a05rcti-sportstar/sa_hls/rcti-sportstar.m3u8?c
 ID Live Sport 2	00`a05rcti-sportstar2/sa_hls/rcti-sportstar2.m3u8?c
-Live Sports HD 1	`0i3`02hd/hd1.php
-Live Sports HD 2	`0i3`02hd/hd2.php
-Live Sports HD 3	`0i3`02hd/hd3.php
-Live Sports HD 4	`0i3`02hd/hd4.php
-Live Sports HD 5	`0i3`02hd/hd5.php
-Live Sports HD 6	`0i3`02hd/hd6.php
-Live Sports HD 7	`0i3`02hd/hd7.php
-Live Sports HD 8	`0i3`02hd/hd8.php
-Live Sports HD 9	`0i3`02hd/hd9.php
-Live Sports HD 10	`0i3`02hd/hd10.php
-Live Sports HD 11	`0i3`02hd/hd11.php
 ID iNews	https://1s1.rctiplus.id/inews2023.m3u8
 ID RCTI 1	https://1s1.rctiplus.id/rcti2023.m3u8
-Arena Sport 1x2	https://webtvstream.bhtelecom.ba/hls6/arena_1x2.mpd``c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-Sport Italia	https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/amRdirect/ads_pod_type=playerpage_midroll&ads_env=prod&ads_ppid=&ads_rtvid=271861&ads_streaming_id=4f185419-74f6-4564-8ea9-4cdc60746e2f&ads_amagi_channel=781&ads_device_type=web&ads_device_model=&ads_device_year=&ads_player_width=&ads_rtv_content_language=ita&ads_market=it&ads_rtv_content_id=3741&ads_device_make=&ads_user_type=visitor&ads_content_classification=6&ads_gdpr_consent=&ads_device_lmt=1&ads_player_height=&uid=1gnmqg5gu-qsvc-bfo-gaq3-3dgjgexshpe/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/1920x1080_4540800/chunklist.m3u8
 VPN: VeePN Chrome Ext. or Psiphon Pro APK	^--
 UK Premier Sports 1 [VPN]	01`00elinear001-ie-dash1-prd-cf.cdn.skycdp.com/Content/DASH_003_720_120/Live/channel(premiersports1)/manifest_720.mpd``0005b3dba78ae0fe7a9288022d3b3736:d2827df80dd7e9243ba6b5bbda5dfa82
 UK Premier Sports 2 [VPN]	01`00elinear033-ie-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_120/Live/channel(premiersports2)/manifest_720.mpd``0005d61a0ac86aca28176591b21ae2d9:f87ad1430a7a38fd0ac248fc9a8389b1
@@ -50,6 +30,8 @@ Premier League	https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channe
 USA West	https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd``252a671825ba31ec8433f978c32ccf6d:ee560759ecc8d2274df2e63fcef56915
 NBC USA	https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/master.mpd``0045a118e231f1326bcdb45350b1ceaa:8c13afbfa54ea37a368b8b859021f6e3
 Universo East	https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(universo-east)/master.mpd``232d71bb013d39ffb92ee8c576fb7e8e:087408a48be8d57046c3868b37ea90ba
+Sport Italia	https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/amRdirect/ads_pod_type=playerpage_midroll&ads_env=prod&ads_ppid=&ads_rtvid=271861&ads_streaming_id=4f185419-74f6-4564-8ea9-4cdc60746e2f&ads_amagi_channel=781&ads_device_type=web&ads_device_model=&ads_device_year=&ads_player_width=&ads_rtv_content_language=ita&ads_market=it&ads_rtv_content_id=3741&ads_device_make=&ads_user_type=visitor&ads_content_classification=6&ads_gdpr_consent=&ads_device_lmt=1&ads_player_height=&uid=1gnmqg5gu-qsvc-bfo-gaq3-3dgjgexshpe/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/1920x1080_4540800/chunklist.m3u8
+Arena Sport 1x2	https://webtvstream.bhtelecom.ba/hls6/arena_1x2.mpd``c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 Arena Sport 1	https://webtvstream.bhtelecom.ba/hls6/arena1.mpd``c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 Arena Sport 2	https://webtvstream.bhtelecom.ba/hls6/arena2.mpd``c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 Arena Sport 3	https://webtvstream.bhtelecom.ba/hls6/arena3.mpd``c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
@@ -62,6 +44,24 @@ TNT Sports 2	https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc
 TNT Sports 3	https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd``4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
 TNT Sports 4	https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd``e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729
 TNT Sports 5	https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/gesdwrdncn/out/v1/79e752f1eccd4e18b6a8904a0bc01f2d/cenc.mpd``60c0d9b41475e01db4ffb91ed557fbcc:36ee40e58948ca15e3caba8d47b8f34b
+Sport TV 1	`0i3`00SPT1
+Sport TV 2	`0i3`00SPT2
+Sport TV 3	`0i3`00SPT3
+Sport TV 4	`0i3`00SPT4
+Sport TV 5	`0i3`00SPT5
+Sport TV 6	`0i3`00SPT6
+Sport TV +	`0i3`00SPTPlus
+Live Sports HD 1	`0i3`02hd/hd1.php
+Live Sports HD 2	`0i3`02hd/hd2.php
+Live Sports HD 3	`0i3`02hd/hd3.php
+Live Sports HD 4	`0i3`02hd/hd4.php
+Live Sports HD 5	`0i3`02hd/hd5.php
+Live Sports HD 6	`0i3`02hd/hd6.php
+Live Sports HD 7	`0i3`02hd/hd7.php
+Live Sports HD 8	`0i3`02hd/hd8.php
+Live Sports HD 9	`0i3`02hd/hd9.php
+Live Sports HD 10	`0i3`02hd/hd10.php
+Live Sports HD 11	`0i3`02hd/hd11.php
 beIN Sports 1 EN HD	https://Zz8rx1/2403/1e7a7f7d3ba7acf36796928ec9deb9ea/index.m3u8?7
 beIN Sports 3 EN HD	https://Zz8rx1/2405/b2e567a130b342be942234f5e48c28dc/index.m3u8?7
 Astro SuperSports 1 HD	https://Zz8rx3/1070/a371ed8c364f2e68149a7a97388e95f9/index.m3u8?7

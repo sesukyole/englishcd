@@ -1,13 +1,13 @@
 {h} * Al Qur'an.mp3	^^h9
 {h} * Conspiracy Truth 1	^^h7
 {h} * Conspiracy Truth 2	^^h8
-{s} Ⓢc0 Movies Film	^^s0
-{h} * Movies Film VOD 1 Mobile	^^h12
-{h} * Movies Film VOD 2	^^h13
+{s} Ⓢc0 Movies Film Sub Indo	^^s0
+{h} * Movies Film VOD 1 Sub Indo	^^h12
+{h} * Movies Film VOD 2 Sub Indo Mobile	^^h13
 {h} * Action Movies Film VOD	^^hhttps://raw.githubusercontent.com/Justryuz/jtv/main/actionvod.m3u
-{h} Ⓨ Movies Film 1	^^h4
-{h} Ⓩ Movies Film 2	^^h5
-{h} Ⓣ Movies Film 3	^^h6
+{h} Ⓨ Movies Film 1 Sub Indo	^^h4
+{h} Ⓩ Movies Film 2 Sub Indo	^^h5
+{h} Ⓣ Movies Film 3 Sub Indo	^^h6
 {h} * Kodi	^^h3
 {h} * Free IPTV	^^hhttps://raw.githubusercontent.com/ipstreet312/freeiptv/master/all.m3u
 {h} * International Channels 🇧🇷	^^hhttps://freenote.biz/raw/dyv52mh0zb
