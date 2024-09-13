@@ -1,14 +1,12 @@
 {s} Ⓗa0 Sports	^--
 SportDigital Fussball	https://svc40.main.vr.t-online.de/LCID3221228350.originalserver.prod.sngtv.t-online.de/PLTV/88888888/224/3221228350/3221228350.mpd``64fdf75a9fc7fa2f0dc197ecdfd07eba:44094f8dd29164989b9daecb9aabf4f2
 Premier League	https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd``002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
-Malut United v Semen Padang . 15:30	^--
-IDN Liga 1 A	`0https://zeeplayer.pages.dev/b/b1?id=b1&type=m
-Persis Solo FC v Madura United . 19:00	^--
-IDN Liga 1 B	`0https://zeeplayer.pages.dev/b/b2?id=b2&type=m
+ID PSJ TV	https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
 ID Live Sport 1	00`a05rcti-sportstar/sa_hls/rcti-sportstar.m3u8?c
 ID Live Sport 2	00`a05rcti-sportstar2/sa_hls/rcti-sportstar2.m3u8?c
 ID iNews	https://1s1.rctiplus.id/inews2023.m3u8
-ID RCTI 1	https://1s1.rctiplus.id/rcti2023.m3u8
+ID RCTI	https://1s1.rctiplus.id/rcti2023.m3u8
+ID Indosiar	https://l.0/IndosiarHD/mpd/IndosiarHD.mpd``5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
 VPN: VeePN Chrome Ext. or Psiphon Pro APK	^--
 UK Premier Sports 1 [VPN]	01`00elinear001-ie-dash1-prd-cf.cdn.skycdp.com/Content/DASH_003_720_120/Live/channel(premiersports1)/manifest_720.mpd``0005b3dba78ae0fe7a9288022d3b3736:d2827df80dd7e9243ba6b5bbda5dfa82
 UK Premier Sports 2 [VPN]	01`00elinear033-ie-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_120/Live/channel(premiersports2)/manifest_720.mpd``0005d61a0ac86aca28176591b21ae2d9:f87ad1430a7a38fd0ac248fc9a8389b1
@@ -922,3 +920,5 @@ Badminton Hong Kong Open 1	https://wakacha.github.io/live/c1.m3u8
 Badminton Hong Kong Open 2	https://wakacha.github.io/live/c2.m3u8
 Badminton Hong Kong Open 3	https://wakacha.github.io/live/c3.m3u8
 Badminton Hong Kong Open 4	https://wakacha.github.io/live/c4.m3u8
+ID Liga 1 A	`0https://zeeplayer.pages.dev/b/b1?id=b1&type=m
+ID Liga 1 B	`0https://zeeplayer.pages.dev/b/b2?id=b2&type=m
