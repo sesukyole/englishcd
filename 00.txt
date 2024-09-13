@@ -256,64 +256,6 @@ Telemundo PR	https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/str
 Billiard	https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
 GT Azteca	https://ch1-tva.duin.dev/hls/stream.m3u8
 GT A Mas	https://ch2-tva.duin.dev/hls/stream.m3u8
-beIN Sports 1 TV	https://l.m1/02_epl1_720p/chunklist.m3u8
-beIN Sports 3 TV	https://l.m1/02_epl2_720p/chunklist.m3u8
-EPL Football 1 TV	https://l.m1/02_PremierHD1_720p/chunklist.m3u8
-EPL Football 2 TV	https://l.m1/02_PremierHD2_720p/chunklist.m3u8
-EPL Football 3 TV	https://l.m1/02_PremierHD3_720p/chunklist.m3u8
-EPL Football 4 TV	https://l.m1/02_PremierHD4_720p/chunklist.m3u8
-EPL Football 5 TV	https://l.m1/02_PremierHD5_720p/chunklist.m3u8
-Sports 1 TV	https://l.m1/02_2sporthd1_720p/chunklist.m3u8
-Sports 2 TV	https://l.m1/02_2sporthd2_720p/chunklist.m3u8
-Sports 3 TV	https://l.m1/02_2sporthd3_720p/chunklist.m3u8
-Sports 4 TV	https://l.m1/02_2sporthd4_720p/chunklist.m3u8
-Tennis TV	https://l.m1/02_TennisHD_720p/chunklist.m3u8
-Golf TV	https://l.m1/02_golfhd_720p/chunklist.m3u8
-Spo 1 TV	https://l.m1/02_foxsport_720p/chunklist.m3u8
-Spo 2 TV	https://l.m1/02_FoxSport2_TH_720p/chunklist.m3u8
-Channel 7 TV	https://l.m1/02_FoxSport3_TH_720p/chunklist.m3u8
-Sports 5 Golf	https://l.m1/02_sport5_480p/chunklist.m3u8
-Sports 2 beIN 1	https://l.m1/02_sport2_480p/chunklist.m3u8
-Sports 6 beIN 3	https://l.m1/02_sport6_480p/chunklist.m3u8
-Sports 7 SD	https://l.m1/02_sport7_480p/chunklist.m3u8
-T Sports SD	https://l.m1/02_T_Sports_480p/chunklist.m3u8
-AR ESPN Premium	`1i3`05espn_premium
-AR Fox Sports 1	`1i3`05fox1ar
-AR Fox Sports 2	`1i3`05fox2ar
-AR Fox Sports 3	`1i3`05fox3ar
-AR TNT Sports	`1i3`05tntsports_argentina
-Caliente	`1i3`05calientetvmx
-CH TNT Sports	`1i3`05tnt_chile
-Claro Sports 1	`1i3`05clarosports1
-Dsports +	`1i3`05dsports_plus
-Dsports 1	`1i3`05dsports
-Dsports 2	`1i3`05dsports_2
-ES DAZN 1	`1i3`05dazn1
-ES DAZN 2	`1i3`05dazn2
-ES DAZN LaLiga	`1i3`05dazn_laliga
-ES Eurosports 1	`1i3`05eurosports1_es
-ES Eurosports 2	`1i3`05eurosports2_es
-ESPN 1	`1i3`05espn1
-ESPN 2	`1i3`05espn2
-ESPN 3	`1i3`05espn3
-ESPN 4	`1i3`05espn4
-ESPN 5	`1i3`05espn5
-ESPN 6	`1i3`05espn6
-ESPN 7	`1i3`05espn7
-ESPN Deportes	`1i3`05espn_deportes
-Fox Deportes USA	`1i3`05fox_deportes_usa
-Fox Sports Premium	`1i3`05foxsportspremium
-GolPeru	`1i3`05golperu
-Liga 1 MAX	`1i3`05l1max
-MX Azteca Deportes	`1i3`05azteca_deportes
-MX ESPN	`1i3`05espnmx
-MX Fox Sports 1	`1i3`05foxsportsmx
-Telefe	`1i3`05telefe
-TUDN USA	`1i3`05tudn_usa
-TV Pública	`1i3`05tv_publica
-TYC Sports	`1i3`05tyc_sports
-Win Sports +	`1i3`05winplus
-Win Sports	`1i3`05winsports
 ESPN [AR]	`4https://topembed.pw/channel/ESPN[AR]
 DirecTVSports [Argentina]	`4https://topembed.pw/channel/DirecTVSports[Argentina]
 DirecTVSports2 [Argentina]	`4https://topembed.pw/channel/DirecTVSports2[Argentina]
@@ -920,5 +862,63 @@ Badminton Hong Kong Open 1	https://wakacha.github.io/live/c1.m3u8
 Badminton Hong Kong Open 2	https://wakacha.github.io/live/c2.m3u8
 Badminton Hong Kong Open 3	https://wakacha.github.io/live/c3.m3u8
 Badminton Hong Kong Open 4	https://wakacha.github.io/live/c4.m3u8
+beIN Sports 1 TV	https://l.m1/02_epl1_720p/chunklist.m3u8
+beIN Sports 3 TV	https://l.m1/02_epl2_720p/chunklist.m3u8
+EPL Football 1 TV	https://l.m1/02_PremierHD1_720p/chunklist.m3u8
+EPL Football 2 TV	https://l.m1/02_PremierHD2_720p/chunklist.m3u8
+EPL Football 3 TV	https://l.m1/02_PremierHD3_720p/chunklist.m3u8
+EPL Football 4 TV	https://l.m1/02_PremierHD4_720p/chunklist.m3u8
+EPL Football 5 TV	https://l.m1/02_PremierHD5_720p/chunklist.m3u8
+Sports 1 TV	https://l.m1/02_2sporthd1_720p/chunklist.m3u8
+Sports 2 TV	https://l.m1/02_2sporthd2_720p/chunklist.m3u8
+Sports 3 TV	https://l.m1/02_2sporthd3_720p/chunklist.m3u8
+Sports 4 TV	https://l.m1/02_2sporthd4_720p/chunklist.m3u8
+Tennis TV	https://l.m1/02_TennisHD_720p/chunklist.m3u8
+Golf TV	https://l.m1/02_golfhd_720p/chunklist.m3u8
+Spo 1 TV	https://l.m1/02_foxsport_720p/chunklist.m3u8
+Spo 2 TV	https://l.m1/02_FoxSport2_TH_720p/chunklist.m3u8
+Channel 7 TV	https://l.m1/02_FoxSport3_TH_720p/chunklist.m3u8
+Sports 5 Golf	https://l.m1/02_sport5_480p/chunklist.m3u8
+Sports 2 beIN 1	https://l.m1/02_sport2_480p/chunklist.m3u8
+Sports 6 beIN 3	https://l.m1/02_sport6_480p/chunklist.m3u8
+Sports 7 SD	https://l.m1/02_sport7_480p/chunklist.m3u8
+T Sports SD	https://l.m1/02_T_Sports_480p/chunklist.m3u8
+AR ESPN Premium	`1i3`05espn_premium
+AR Fox Sports 1	`1i3`05fox1ar
+AR Fox Sports 2	`1i3`05fox2ar
+AR Fox Sports 3	`1i3`05fox3ar
+AR TNT Sports	`1i3`05tntsports_argentina
+Caliente	`1i3`05calientetvmx
+CH TNT Sports	`1i3`05tnt_chile
+Claro Sports 1	`1i3`05clarosports1
+Dsports +	`1i3`05dsports_plus
+Dsports 1	`1i3`05dsports
+Dsports 2	`1i3`05dsports_2
+ES DAZN 1	`1i3`05dazn1
+ES DAZN 2	`1i3`05dazn2
+ES DAZN LaLiga	`1i3`05dazn_laliga
+ES Eurosports 1	`1i3`05eurosports1_es
+ES Eurosports 2	`1i3`05eurosports2_es
+ESPN 1	`1i3`05espn1
+ESPN 2	`1i3`05espn2
+ESPN 3	`1i3`05espn3
+ESPN 4	`1i3`05espn4
+ESPN 5	`1i3`05espn5
+ESPN 6	`1i3`05espn6
+ESPN 7	`1i3`05espn7
+ESPN Deportes	`1i3`05espn_deportes
+Fox Deportes USA	`1i3`05fox_deportes_usa
+Fox Sports Premium	`1i3`05foxsportspremium
+GolPeru	`1i3`05golperu
+Liga 1 MAX	`1i3`05l1max
+MX Azteca Deportes	`1i3`05azteca_deportes
+MX ESPN	`1i3`05espnmx
+MX Fox Sports 1	`1i3`05foxsportsmx
+Telefe	`1i3`05telefe
+TUDN USA	`1i3`05tudn_usa
+TV Pública	`1i3`05tv_publica
+TYC Sports	`1i3`05tyc_sports
+Win Sports +	`1i3`05winplus
+Win Sports	`1i3`05winsports
 ID Liga 1 A	`0https://l.1/b/b1?id=b1&type=m
 ID Liga 1 B	`0https://l.1/b/b2?id=b2&type=m
