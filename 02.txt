@@ -14,19 +14,20 @@ ID PSJ TV	https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
 ID Indosiar 1	https://op-group1-swiftservesd-1.dens.tv/s/s04/02.m3u8
 ID Indosiar 2	https://op-group1-swiftservesd-1.dens.tv/s/s04/01.m3u8
 ID Indosiar 3	01`01dstreaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
-ID Indosiar 4	01`01datemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd``5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
+ID Indosiar 4	https://l.0/IndosiarHD/mpd/IndosiarHD.mpd``5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
 ID Indosiar 5**	01`01g205?zyz`
 ID SCTV 1	https://op-group1-swiftservesd-1.dens.tv/s/s03/02.m3u8
 ID SCTV 2	https://op-group1-swiftservesd-1.dens.tv/s/s03/01.m3u8
 ID SCTV 3	https://op-group1-swiftservehd-1.dens.tv/h/h217/01.m3u8
 ID SCTV 4	https://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 ID SCTV 5	01`01dstreaming.indihometv.com/atm/DASH/sctv/manifest.mpd
-ID SCTV 6	01`01datemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd``a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
+ID SCTV 6	https://l.0/SCTVHD/mpd/SCTVHD.mpd``a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
 ID SCTV 7**	01`01g204?zyz`
 ID Moji 1	01`00a134/ochannel/index.m3u8?c
 ID Moji 2	https://op-group1-swiftservesd-1.dens.tv/s/s41/02.m3u8
 ID Moji 3	https://op-group1-swiftservesd-1.dens.tv/s/s41/01.m3u8
-ID Moji 4*	01`01g206?zyz
+ID Moji 4	https://l.0/MOJIOChannel/mpd/MOJIOChannel.mpd``052861ebedab473089d0e7480d0c5b63:4d51aa0304af98c449fdec1548a199f9
+ID Moji 5*	01`01g206?zyz
 ID TVRI Sport 1	https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 ID TVRI Sport 2	https://op-group1-swiftservesd-1.dens.tv/s/s107/02.m3u8
 ID TVRI Sport 3	https://op-group1-swiftservesd-1.dens.tv/s/s107/01.m3u8
@@ -75,8 +76,8 @@ ID Madu TV	https://re1.siar.us/madutv/hd720/playlist.m3u8
 ID Sakti TV	https://saktitv.siar.us/saktitv/live/playlist.m3u8
 ID UGTV	https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
 ID MQTV	https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
-SpoTV 1	01`01datemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd``e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
-SpoTV 2	01`01datemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd``e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
+SpoTV 1	https://l.0/SPOTVHD/mpd/SPOTVHD.mpd``e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
+SpoTV 2	https://l.0/SPOTV2HD/mpd/SPOTV2HD.mpd``e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
 MakkahTV.id	01`02aAlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd``67fe3ac3ca111c9bdd6e8480091dc13c:7d05fb1ff7705c1e452ff7e1b841a1b8
 Soccer.id	01`02asoccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd``4d38060bf41b3c29df0ec950ece6b5da:7ee9506b13480491d79b71c062ab5366
 Sport1.id	01`02aMNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd``531c6d50e3e9f9ba66446f624f492289:d769d9ae238bdd424f8bcdcdc9a3801f
