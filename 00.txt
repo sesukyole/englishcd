@@ -2,7 +2,33 @@
 SportDigital Fussball	https://svc40.main.vr.t-online.de/LCID3221228350.originalserver.prod.sngtv.t-online.de/PLTV/88888888/224/3221228350/3221228350.mpd``64fdf75a9fc7fa2f0dc197ecdfd07eba:44094f8dd29164989b9daecb9aabf4f2
 Premier League	https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd``002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
 Barito Putera v Persik Kediri . 15:30	^-
-ID Liga 1 A	`0https://l.1/b/b1?id=b1&type=m
+Football/Soccer A	`0https://l.1/b/b1?id=b1&type=m
+Southampton v Manchester United . 18:30	^-
+Football/Soccer B	`0https://l.1/b/b2?id=b2&type=m
+Persita v Persebaya . 19:00	^-
+Football/Soccer C	`0https://l.1/b/b3?id=b3
+Como v Bologna . 20:00	^-
+Football/Soccer D	`0https://l.1/b/b4?id=b4
+Manchester City v Brentford . 21:00	^-
+Football/Soccer E	`0https://l.1/b/b5?id=b5
+Liverpool v Nottingham Forest . 21:00	^-
+Football/Soccer F	`0https://l.1/b/b6?id=b6
+Brighton & Hove Albion v Ipswich Town . 21:00	^-
+Football/Soccer G	`0https://l.1/b/b7?id=b7
+Empoli v Juventus . 23:00	^-
+Football/Soccer H	`0https://l.1/b/b8?id=b8
+Holstein Kiel v Bayern München . 23:30	^-
+Football/Soccer I	`0https://l.1/b/b9?id=b9
+Al Riyadh v Al Hilal . 01:00	^-
+Football/Soccer J	`0https://l.1/b/b10?id=b10
+Milan v Venezia . 01:45	^-
+Football/Soccer K	`0https://l.1/b/b11?id=b11
+Real Sociedad v Real Madrid . 02:00	^-
+Football/Soccer L	`0https://l.1/b/b12?id=b12
+AFC Bournemouth v Chelsea . 02:00	^-
+Football/Soccer M	`0https://l.1/b/b13?id=b13
+Paris Saint-Germain v Stade Brestois 29 . 02:00	^-
+Football/Soccer N	`0https://l.1/b/b14?id=b14
 ID PSJ TV	01`01fplay.accolamedia.id/accola/psj.stream/playlist.m3u8
 Felgueiras 1932 v Chaves . 17:00	^-
 Casa Pia v Moreirense . 21:30	^-
@@ -20,7 +46,7 @@ Racing Club v Boca Juniors . 03:30	^-
 Sport TV 3 A	`0i3`00SPT3
 Sport TV 3 B	`0i3`02pt/sporttv3.php
 Olympique Marseille v Nice . 22:00	^-
-PSG v Brest . 02:00	^-
+Paris Saint-Germain v Stade Brestois 29 . 02:00	^-
 Sport TV 4 A	`0i3`00SPT4
 Sport TV 4 B	`0i3`02pt/sporttv4.php
 Millwall v Luton Town . 18:30	^-
@@ -32,7 +58,7 @@ Sport TV +	`0i3`00SPTPlus
 Southampton v Manchester United . 18:30	^-
 Crystal Palace v Leicester City . 21:00	^-
 Aston Villa v Everton . 23:30	^-
-FC Bournemouth v Chelsea . 02:00	^-
+AFC Bournemouth v Chelsea . 02:00	^-
 Live Sports HD 1	`0i3`02hd/hd1.php
 Manchester City v Brentford . 21:00	^-
 Sevilla v Getafe . 23:30	^-
@@ -76,7 +102,7 @@ PT Eleven Sports 1	`0i3`02pt/eleven1.php
 Mallorca v Villarreal . 19:00	^-
 Liverpool v Nottingham Forest . 21:00	^-
 Holstein Kiel v Bayern München . 23:30	^-
-FC Bournemouth v Chelsea . 02:00	^-
+AFC Bournemouth v Chelsea . 02:00	^-
 PT Eleven Sports 2	`0i3`02pt/eleven1.php
 Fulham v West Ham United . 21:00	^-
 Sevilla v Getafe . 23:30	^-
@@ -100,7 +126,7 @@ Manchester City v Brentford . 21:00	^-
 Benfica v Santa Clara . 02:30	^-
 Premiere 4 BR	https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/zytzybatcd/out/v1/4e59aa00f6784bb98170741d40b33e3e/cenc.mpd``ce5d18ffd68650affce1985201983ab7:397c64e42507d95e5460830918c22a98
 Liverpool v Nottingham Forest . 21:00	^-
-FC Bournemouth v Chelsea . 02:00	^-
+AFC Bournemouth v Chelsea . 02:00	^-
 Premiere 5 BR	https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/j4y12ucrx0/out/v1/9135597c4400465e9e752dc32de587fd/cenc.mpd``d5a3ac0b892bfccdf352b6def9cb2764:ac0936acc0036fad2273efaa42b1fafd
 Mallorca v Villarreal . 19:00	^-
 Fulham v West Ham United . 21:00	^-
@@ -994,5 +1020,3 @@ TV Pública	`1i3`05tv_publica
 TYC Sports	`1i3`05tyc_sports
 Win Sports +	`1i3`05winplus
 Win Sports	`1i3`05winsports
-^=Southampton v Manchester United . 18:30	^-
-^=ID Liga 1 B	`0https://l.1/b/b2?id=b2&type=m
