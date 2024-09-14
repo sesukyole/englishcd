@@ -431,4 +431,6 @@ Action Movies P	i3`06252802?zyz
 {h} * MyLocal	^^hhttps://raw.githubusercontent.com/khalissuratmen/MKS-IPTV/main/MYLOCAL
 {h} * MyLocal	^^hhttps://raw.githubusercontent.com/Justryuz/TV/main/JTV
 TSN_1	^&https://topembed.mizhls.ru/lb/eplayerTSN_1_HD/playlist.m3u8
+beIN 1	^&https://ddy6.mizhls.ru/ddy6/premium491/tracks-v1a1/mono.m3u8
+beIN 3	^&https://ddy6.mizhls.ru/ddy6/premium493/tracks-v1a1/mono.m3u8
 tv.burhansyam.com	^&https://tv.burhansyam.com/
