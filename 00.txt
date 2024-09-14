@@ -48,6 +48,37 @@ Sport TV 4 A	`0i3`00SPT4
 Millwall v Luton Town . 18:30	^-
 Watford v Coventry City . 21:00	^-
 Sport TV 5 A	`0i3`00SPT5
+Felgueiras 1932 v Chaves . 17:00	^-
+Casa Pia v Moreirense . 21:30	^-
+AVS v Rio Ave . 00:00	^-
+Famalicão v Gil Vicente . 02:30	^-
+SportTV1 [Portugal]	`4https://topembed.pw/channel/SportTV1[Portugal]
+Como v Bologna . 20:00	^-
+Empoli v Juventus . 23:00	^-
+Milan v Venezia . 01:45	^-
+SportTV2 [Portugal]	`4https://topembed.pw/channel/SportTV2[Portugal]
+Al Riyadh v Al Hilal . 01:00	^-
+Racing Club v Boca Juniors . 03:30	^-
+SportTV3 [Portugal]	`4https://topembed.pw/channel/SportTV3[Portugal]
+Olympique Marseille v Nice . 22:00	^-
+Paris Saint-Germain v Stade Brestois 29 . 02:00	^-
+SportTV4 [Portugal]	`4https://topembed.pw/channel/SportTV4[Portugal]
+Millwall v Luton Town . 18:30	^-
+Watford v Coventry City . 21:00	^-
+SportTV5 [Portugal]	`4https://topembed.pw/channel/SportTV5[Portugal]
+Southampton v Manchester United . 18:30	^-
+Manchester City v Brentford . 21:00	^-
+Aston Villa v Everton . 23:30	^-
+Real Sociedad v Real Madrid . 02:00	^-
+ElevenSports1 [Portugal]	`4https://topembed.pw/channel/ElevenSports1[Portugal]
+Mallorca v Villarreal . 19:00	^-
+Liverpool v Nottingham Forest . 21:00	^-
+Holstein Kiel v Bayern München . 23:30	^-
+AFC Bournemouth v Chelsea . 02:00	^-
+ElevenSports2 [Portugal]	`4https://topembed.pw/channel/ElevenSports2[Portugal]
+Fulham v West Ham United . 21:00	^-
+Sevilla v Getafe . 23:30	^-
+ElevenSports3 [Portugal]	`4https://topembed.pw/channel/ElevenSports3[Portugal]
 ID Live Sport 1	00`a05rcti-sportstar/sa_hls/rcti-sportstar.m3u8?c
 ID Live Sport 2	00`a05rcti-sportstar2/sa_hls/rcti-sportstar2.m3u8?c
 ID iNews	https://1s1.rctiplus.id/inews2023.m3u8
@@ -936,27 +967,20 @@ Felgueiras 1932 v Chaves . 17:00	^-
 Casa Pia v Moreirense . 21:30	^-
 AVS v Rio Ave . 00:00	^-
 Famalicão v Gil Vicente . 02:30	^-
-Sport TV 1 A	`0i3`00SPT1
 Sport TV 1 B	`0i3`02pt/sporttv1.php
 Como v Bologna . 20:00	^-
 Empoli v Juventus . 23:00	^-
 Milan v Venezia . 01:45	^-
-Sport TV 2 A	`0i3`00SPT2
 Sport TV 2 B	`0i3`02pt/sporttv2.php
 Al Riyadh v Al Hilal . 01:00	^-
 Racing Club v Boca Juniors . 03:30	^-
-Sport TV 3 A	`0i3`00SPT3
 Sport TV 3 B	`0i3`02pt/sporttv3.php
 Olympique Marseille v Nice . 22:00	^-
 Paris Saint-Germain v Stade Brestois 29 . 02:00	^-
-Sport TV 4 A	`0i3`00SPT4
 Sport TV 4 B	`0i3`02pt/sporttv4.php
 Millwall v Luton Town . 18:30	^-
 Watford v Coventry City . 21:00	^-
-Sport TV 5 A	`0i3`00SPT5
 Sport TV 5 B	`0i3`02pt/sporttv5.php
-Sport TV 6	`0i3`00SPT6
-Sport TV +	`0i3`00SPTPlus
 Southampton v Manchester United . 18:30	^-
 Crystal Palace v Leicester City . 21:00	^-
 Aston Villa v Everton . 23:30	^-
