@@ -1,13 +1,115 @@
-{s} Ⓗa0 Sports	^--
+{s} Ⓗa0 Sports	^-
+Felgueiras 1932 v Chaves . 17:00	^-
+Casa Pia x Moreirense . 21:30	^-
+AVS x Rio Ave . 00:00	^-
+Famalicão x Gil Vicente . 02:30	^-
+Sport TV 1	`0i3`00SPT1
+Como v Bologna . 20:00	^-
+Empoli x Juventus . 23:00	^-
+Milan x Venezia . 01:45	^-
+Sport TV 2	`0i3`00SPT2
+Al Riyadh x Al Hilal . 01:00	^-
+Racing Club x Boca Juniors . 03:30	^-
+Sport TV 3	`0i3`00SPT3
+Olympique Marseille x Nice . 22:00	^-
+PSG x Brest . 02:00	^-
+Sport TV 4	`0i3`00SPT4
+Millwall v Luton Town . 18:30	^-
+Watford v Coventry City . 21:00	^-
+Sport TV 5	`0i3`00SPT5
+Sport TV 6	`0i3`00SPT6
+Sport TV +	`0i3`00SPTPlus
+Southampton v Manchester United . 18:30	^-
+Crystal Palace v Leicester City . 21:00	^-
+Aston Villa x Everton . 23:30	^-
+FC Bournemouth x Chelsea . 02:00	^-
+Live Sports HD 1	`0i3`02hd/hd1.php
+Manchester City v Brentford . 21:00	^-
+Sevilla x Getafe . 23:30	^-
+Real Sociedad x Real Madrid . 02:00	^-
+Live Sports HD 2	`0i3`02hd/hd2.php
+Darmstadt 98 v Eintracht Braunschweig . 18:00	^-
+Hoffenheim v Bayer Leverkusen . 20:30	^-
+Köln x Magdeburg . 01:30	^-
+Live Sports HD 3	`0i3`02hd/hd3.php
+Paris FC v Metz . 19:30	^-
+Auxerre x Monaco . 00:00	^-
+Live Sports HD 4	`0i3`02hd/hd4.php
+Liverpool v Nottingham Forest . 21:00	^-
+Live Sports HD 5	`0i3`02hd/hd5.php
+Mallorca v Villarreal . 19:00	^-
+Espanyol v Deportivo Alavés . 21:15	^-
+Live Sports HD 6	`0i3`02hd/hd6.php
+Live Sports HD 7	`0i3`02hd/hd7.php
+Holstein Kiel x Bayern München . 23:30	^-
+Live Sports HD 8	`0i3`02hd/hd8.php
+Borussia M'gladbach v Stuttgart . 20:30	^-
+Groningen x Feyenoord . 23:45	^-
+AZ x Heerenveen . 02:00	^-
+Deportes Tolima x Boyacá Chicó . 06:20	^-
+Rionegro Águilas x Medellín . 08:30	^-
+Live Sports HD 9	`0i3`02hd/hd9.php
+Brighton & Hove Albion v Ipswich Town . 21:00	^-
+Galatasaray x Rizespor . 00:00	^-
+Racing Club x Boca Juniors . 03:30	^-
+Tigre x Gimnasia La Plata . 06:00	^-
+Live Sports HD 10	`0i3`02hd/hd10.php
+Fulham v West Ham United . 21:00	^-
+América x Guadalajara . 07:50	^-
+Santos Laguna x Monterrey . 10:00	^-
+Live Sports HD 11	`0i3`02hd/hd11.php
+Southampton v Manchester United . 18:30	^-
+Manchester City v Brentford . 21:00	^-
+Aston Villa x Everton . 23:30	^-
+Real Sociedad x Real Madrid . 02:00	^-
+PT Eleven Sports 1	`0i3`02pt/eleven1.php
+Mallorca v Villarreal . 19:00	^-
+Liverpool v Nottingham Forest . 21:00	^-
+Holstein Kiel x Bayern München . 23:30	^-
+FC Bournemouth x Chelsea . 02:00	^-
+PT Eleven Sports 2	`0i3`02pt/eleven1.php
+Fulham v West Ham United . 21:00	^-
+Sevilla x Getafe . 23:30	^-
+PT Eleven Sports 3	`0i3`02pt/eleven1.php
+Hoffenheim v Bayer Leverkusen . 20:30	^-
+Holstein Kiel x Bayern München . 23:30	^-
+Atlético Goianiense x Vitória . 02:00	^-
+Botafogo x Corinthians . 07:00	^-
+Premiere 1 BR	https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/4zkafrcxji/out/v1/810ebca1aff0443da717da4acdeda158/cenc.mpd``d98239180d8380b3a1bb28d875b1ddf2:cf836ced579257d1c76ae8809818e6c4
+Southampton v Manchester United . 18:30	^-
+Crystal Palace v Leicester City . 21:00	^-
+Aston Villa x Everton . 23:30	^-
+Real Sociedad x Real Madrid . 02:00	^-
+Premiere 2 BR	https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/pgub1bh7o9/out/v1/7a59226197644bfaa2b00f488bd95288/cenc.mpd``fd2e8019f37211ca8b78a8b656f1b83a:273189c214e85b43ac36298d1c422330
+Brighton & Hove Albion v Ipswich Town . 21:00	^-
+Sevilla x Getafe . 23:30	^-
+Milan x Venezia . 01:45	^-
+Athletico-PR x Fortaleza . 04:30	^-
+Premiere 3 BR	https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/8ci7l7dt0d/out/v1/98fe69f2cdc041388004305e63353268/cenc.mpd``9547f9aead1237c8a3b1bf0a91ed9995:534fab4541fef31921dd970c65d51848
+Manchester City v Brentford . 21:00	^-
+Benfica x Santa Clara . 02:30	^-
+Premiere 4 BR	https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/zytzybatcd/out/v1/4e59aa00f6784bb98170741d40b33e3e/cenc.mpd``ce5d18ffd68650affce1985201983ab7:397c64e42507d95e5460830918c22a98
+Liverpool v Nottingham Forest . 21:00	^-
+FC Bournemouth x Chelsea . 02:00	^-
+Premiere 5 BR	https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/j4y12ucrx0/out/v1/9135597c4400465e9e752dc32de587fd/cenc.mpd``d5a3ac0b892bfccdf352b6def9cb2764:ac0936acc0036fad2273efaa42b1fafd
+Mallorca v Villarreal . 19:00	^-
+Fulham v West Ham United . 21:00	^-
+Empoli x Juventus . 23:00	^-
+Racing Club x Boca Juniors . 03:30	^-
+Premiere 6 BR	https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/cydwktwhqj/out/v1/c6e2919fe4e04a73935691f8284a4afe/cenc.mpd``05cedc366ce4ec735ee4b33fcefbf01f:475d6dd40eaba6896e02b26a6cf34d95
+Premiere 7 BR	https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/wczqphrl5k/out/v1/7a20b4be236a4a9484fdf5cdfcbe79d5/cenc.mpd``7ce96e01eee54fb77e5cc4e7b753d6b0:184f94303d3357b9a7381ccdeee9b611
+Premiere 8 BR	https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/dabubydklo/out/v1/c272f10312ac4e81bcf2183509703dd1/cenc.mpd``7ba384f9d983c731ab1e3702c16e2faf:f28adca4375e8a041fd22aef26440009
+Benfica x Santa Clara . 02:30	^-
+PT Benefica	`0i3`02pt/btv.php
 SportDigital Fussball	https://svc40.main.vr.t-online.de/LCID3221228350.originalserver.prod.sngtv.t-online.de/PLTV/88888888/224/3221228350/3221228350.mpd``64fdf75a9fc7fa2f0dc197ecdfd07eba:44094f8dd29164989b9daecb9aabf4f2
 Premier League	https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd``002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
-ID PSJ TV	https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
+ID PSJ TV	01`01fplay.accolamedia.id/accola/psj.stream/playlist.m3u8
 ID Live Sport 1	00`a05rcti-sportstar/sa_hls/rcti-sportstar.m3u8?c
 ID Live Sport 2	00`a05rcti-sportstar2/sa_hls/rcti-sportstar2.m3u8?c
 ID iNews	https://1s1.rctiplus.id/inews2023.m3u8
 ID RCTI	https://1s1.rctiplus.id/rcti2023.m3u8
 ID Indosiar	https://l.0/IndosiarHD/mpd/IndosiarHD.mpd``5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
-VPN: VeePN Chrome Ext. or Psiphon Pro APK	^--
+VPN: VeePN Chrome Ext. or Psiphon Pro APK	^-
 UK Premier Sports 1 [VPN]	01`00elinear001-ie-dash1-prd-cf.cdn.skycdp.com/Content/DASH_003_720_120/Live/channel(premiersports1)/manifest_720.mpd``0005b3dba78ae0fe7a9288022d3b3736:d2827df80dd7e9243ba6b5bbda5dfa82
 UK Premier Sports 2 [VPN]	01`00elinear033-ie-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_120/Live/channel(premiersports2)/manifest_720.mpd``0005d61a0ac86aca28176591b21ae2d9:f87ad1430a7a38fd0ac248fc9a8389b1
 UK ViaPlay Premier League [VPN]	01`00elive-dash-cdn7-vp.cdn.viaplay.tv/vp/vssp/vssp.isml/index.mpd``d8d0506523d95fc082d6caef60e84979:69992fd2d7b9211d41ecc2243803e87c
@@ -20,7 +122,7 @@ UK Sky Sport Football [VPN]	01`00elinear019-gb-dash1-prd-ak.cdn.skycdp.com/Conte
 UK Sky Sport Premier League [VPN]	01`00elinear015-gb-dash1-prd-ll.cdn.skycdp.com/Content/DASH_003_720_120/Live/channel(skysportspremierleague)/manifest_720.mpd``00058832b1c058c3de8b5d118cc775d4:721345f25729d236d6bb317fce797b77
 UK Sky Sport Main Event [VPN]	01`00elinear015-gb-dash1-prd-ll.cdn.skycdp.com/Content/DASH_003_720_120/Live/channel(skysportsmainevent)/manifest_720.mpd``000546476256963bd054ded3b6ae5800:1e497068bcc078fdb2f4296bc400ca2b
 UK Sky Sport News [VPN]	01`00elinear030-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_120/Live/channel(skysportsnews)/manifest_720.mpd``00057bfb9cf2fc40b5ed61f9c8a41d54:cb9908093e35e3c3f7db06f55913cce0
-Non VPN: No Need for VPN	^--
+Non VPN: No Need for VPN	^-
 ITV Sport	https://tv.cdn.xsg.ge/gpb-2tv/tracks-v1a1/mono.m3u8
 TV 2 Sport 1	https://rikstv-live-scalstrm.telenorcdn.net/live/rikstv/64393bf81dbc891fd41f53ac/manifest.mpd``0c6212056d2f51fcbf569f9a1a8517d1:d07b404deb7c958347d742e6d1d2f3f9
 TV 2 Sport Premium	https://ch11-hls-live.akamaized.net/out/u/433127.mpd``d12e4c9dc52f4cbab7ac9b2278317e47:a7987e5b6ec42db68a25486e108ca9f2
@@ -45,31 +147,10 @@ TNT Sports 2	https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc
 TNT Sports 3	https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd``4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
 TNT Sports 4	https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd``e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729
 TNT Sports 5	https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/gesdwrdncn/out/v1/79e752f1eccd4e18b6a8904a0bc01f2d/cenc.mpd``60c0d9b41475e01db4ffb91ed557fbcc:36ee40e58948ca15e3caba8d47b8f34b
-Sport TV 1	`0i3`00SPT1
-Sport TV 2	`0i3`00SPT2
-Sport TV 3	`0i3`00SPT3
-Sport TV 4	`0i3`00SPT4
-Sport TV 5	`0i3`00SPT5
-Sport TV 6	`0i3`00SPT6
-Sport TV +	`0i3`00SPTPlus
-Live Sports HD 1	`0i3`02hd/hd1.php
-Live Sports HD 2	`0i3`02hd/hd2.php
-Live Sports HD 3	`0i3`02hd/hd3.php
-Live Sports HD 4	`0i3`02hd/hd4.php
-Live Sports HD 5	`0i3`02hd/hd5.php
-Live Sports HD 6	`0i3`02hd/hd6.php
-Live Sports HD 7	`0i3`02hd/hd7.php
-Live Sports HD 8	`0i3`02hd/hd8.php
-Live Sports HD 9	`0i3`02hd/hd9.php
-Live Sports HD 10	`0i3`02hd/hd10.php
-Live Sports HD 11	`0i3`02hd/hd11.php
 beIN Sports 1 EN HD	https://Zz8rx1/2403/1e7a7f7d3ba7acf36796928ec9deb9ea/index.m3u8?7
 beIN Sports 3 EN HD	https://Zz8rx1/2405/b2e567a130b342be942234f5e48c28dc/index.m3u8?7
 Astro SuperSports 1 HD	https://Zz8rx3/1070/a371ed8c364f2e68149a7a97388e95f9/index.m3u8?7
 A Sport HD	https://Zz8rx4/2367/be327d3419942a1883b9307a11638b3c/index.m3u8?7
-PT Eleven Sports 1	`0i3`02pt/eleven1.php
-PT Eleven Sports 2	`0i3`02pt/eleven1.php
-PT Eleven Sports 3	`0i3`02pt/eleven1.php
 NL Channel	01`01clive.vrtcdn.be/groupc/live/8edf3bdf-7db3-41c3-a318-72cb7f82de66/live.isml/.mpd``ef4daa3c90333621e4115ff1ca5bfbda:424c9902fce5a2e7dcbeb37ffc06b906
 NRK1	https://rikstv-live-scalstrm.telenorcdn.net/live/rikstv/64393b4f1dbc891fd41f5242/manifest.mpd``01010101010101010101010101010101:01010101010101010101010101010101
 RTL	https://pnowlive-a.akamaized.net/live/rtlhd/dash/rtlhd.mpd``57e48b99f3f6d4f13f5c5afdcca084ca:29379a5e2d3405fad2f5d9cbe92586c3
@@ -542,15 +623,6 @@ WillowXtra [USA]	`4https://topembed.pw/channel/WillowXtra[USA]
 Wnyw [USA]	`4https://topembed.pw/channel/Wnyw[USA]
 WweNetwork [USA]	`4https://topembed.pw/channel/WweNetwork[USA]
 YES [USA]	`4https://topembed.pw/channel/YES[USA]
-Premiere 1 BR	https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/4zkafrcxji/out/v1/810ebca1aff0443da717da4acdeda158/cenc.mpd``d98239180d8380b3a1bb28d875b1ddf2:cf836ced579257d1c76ae8809818e6c4
-Premiere 2 BR	https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/pgub1bh7o9/out/v1/7a59226197644bfaa2b00f488bd95288/cenc.mpd``fd2e8019f37211ca8b78a8b656f1b83a:273189c214e85b43ac36298d1c422330
-Premiere 3 BR	https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/8ci7l7dt0d/out/v1/98fe69f2cdc041388004305e63353268/cenc.mpd``9547f9aead1237c8a3b1bf0a91ed9995:534fab4541fef31921dd970c65d51848
-Premiere 4 BR	https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/zytzybatcd/out/v1/4e59aa00f6784bb98170741d40b33e3e/cenc.mpd``ce5d18ffd68650affce1985201983ab7:397c64e42507d95e5460830918c22a98
-Premiere 5 BR	https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/j4y12ucrx0/out/v1/9135597c4400465e9e752dc32de587fd/cenc.mpd``d5a3ac0b892bfccdf352b6def9cb2764:ac0936acc0036fad2273efaa42b1fafd
-Premiere 6 BR	https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/cydwktwhqj/out/v1/c6e2919fe4e04a73935691f8284a4afe/cenc.mpd``05cedc366ce4ec735ee4b33fcefbf01f:475d6dd40eaba6896e02b26a6cf34d95
-Premiere 7 BR	https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/wczqphrl5k/out/v1/7a20b4be236a4a9484fdf5cdfcbe79d5/cenc.mpd``7ce96e01eee54fb77e5cc4e7b753d6b0:184f94303d3357b9a7381ccdeee9b611
-Premiere 8 BR	https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/dabubydklo/out/v1/c272f10312ac4e81bcf2183509703dd1/cenc.mpd``7ba384f9d983c731ab1e3702c16e2faf:f28adca4375e8a041fd22aef26440009
-PT Benefica	`0i3`02pt/btv.php
 Live Sports 1	`0i3`02bra/br1.php
 Live Sports 2	`0i3`02bra/br2.php
 Live Sports 3	`0i3`02bra/br3.php

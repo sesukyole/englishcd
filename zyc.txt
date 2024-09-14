@@ -25,6 +25,7 @@
 {h} * Plex	^^hhttps://i.mjh.nz/Plex/all.m3u8
 {h} * Stirr	^^hhttps://i.mjh.nz/Stirr/all.m3u8
 {h} * Kodi	^^hhttps://i.mjh.nz/all/kodi-tv.m3u8
+{h} * zzz	^^hhttps://raw.githubusercontent.com/Justryuz/TV/main/xxx
 {h} * Free IPTV	^^hhttps://raw.githubusercontent.com/ipstreet312/freeiptv/master/all.m3u
 {h} * International Channels 🇧🇷	^^hhttps://freenote.biz/raw/dyv52mh0zb
 {h} * International Channels 🇵🇹	^^hhttps://raw.githubusercontent.com/inspirationlinks/m3u/live/pt.m3u8
@@ -88,7 +89,7 @@ Sky Sport Channels *7	`0i3`012024/08/sky.html
 TNT Sports Channels *4	`0i3`012024/03/ms1.html
 TR beIN Sports Channels *4	`0i3`012024/03/b1.html
 Volleyball Channels *4	`0i3`032024/07/voli.html
-http Non SSL	^--
+http Non SSL	^-
 HakkaTV	01`00f1/hls.m3u8
 TiTV	01`00f2/hls.m3u8
 Formosa A	01`00f4/hls.m3u8
@@ -168,7 +169,7 @@ TV Shows	01`00f104/hls.m3u8
 @TV Shows	01`00f109/hls.m3u8
 @KidsTV	01`00f110/hls.m3u8
 @TV Shows	01`00f111/hls.m3u8
-https SSL	^--
+https SSL	^-
 ES 24 Horas	https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main.m3u8
 PT 24Kitchen	i3`0724Kitchen.php
 PT A Bola	i3`07ABolaTV.php
@@ -287,7 +288,7 @@ tv5monde*	01`01g17278?zyz``
 17637*!	01`01g17637?zyz``
 17669*!	01`01g17669?zyz``
 17674!	01`01g17674?zyz``
-Always use Chrome browser! ⚠️ Please Allow Popups and Disable Ad Blocker. ⚠️ Install Chrome Browser Extension: CORS Unblock & Allow CORS! ⚠️ 🔒|Site settings | Privacy & security | Insecure content: Allow.👈 ⚠️ Settings | Privacy & security | Security | Always use secure connections: Upgrade navigations to HTTPS: Disable.👈<br><>Always use Chrome browser! ⚠️ Please Allow Popups and Disable Ad Blocker. ⚠️ Settings | Privacy & security | Always use secure connections: Upgrade navigations to HTTPS: Disable.👈<br>	^--
+Always use Chrome browser! ⚠️ Please Allow Popups and Disable Ad Blocker. ⚠️ Install Chrome Browser Extension: CORS Unblock & Allow CORS! ⚠️ 🔒|Site settings | Privacy & security | Insecure content: Allow.👈 ⚠️ Settings | Privacy & security | Security | Always use secure connections: Upgrade navigations to HTTPS: Disable.👈<br><>Always use Chrome browser! ⚠️ Please Allow Popups and Disable Ad Blocker. ⚠️ Settings | Privacy & security | Always use secure connections: Upgrade navigations to HTTPS: Disable.👈<br>	^-
 ACCNetwork [USA]		`4https://topembed.pw/channel/ACCNetwork[USA]
 ArenaPremium1 [Serbia]		`4https://topembed.pw/channel/ArenaPremium1[Serbia]
 ArenaPremium2 [Serbia]		`4https://topembed.pw/channel/ArenaPremium2[Serbia]

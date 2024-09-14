@@ -1,4 +1,4 @@
-{s} Ⓜa1 Multi	^--
+{s} Ⓜa1 Multi	^-
 SA Makkah	https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
 SA Medina 1	https://op-group1-swiftservesd-1.dens.tv/s/s27/02.m3u8
 SA Medina 2	https://op-group1-swiftservesd-1.dens.tv/s/s27/01.m3u8
@@ -23,7 +23,7 @@ Action Movies M	i3`066140589?zyz
 Action Movies N	i3`066566671?zyz
 Action Movies O	i3`068770422?zyz
 Action Movies P	i3`068814650?zyz
-🆔 Channels: Ⓜa1, Ⓧa2 & Ⓞb0	^--
+🆔 Channels: Ⓜa1, Ⓧa2 & Ⓞb0	^-
 ID Oxygen TV	https://cdn4-reg2.mm.oxygen.id:8080/hls/oxygentv-web/index.m3u8
 ID AFN	01`00a133/afc/index.m3u8?c
 ID Animal Planet	01`00a194/animalplanet/index.m3u8?c

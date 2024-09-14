@@ -8,7 +8,7 @@
 {h} Ⓨ Movies Film 1 Sub Indo	^^h4
 {h} Ⓩ Movies Film 2 Sub Indo	^^h5
 {h} Ⓣ Movies Film 3 Sub Indo	^^h6
-🆔 Channels: Ⓜa1, Ⓧa2 & Ⓞb0	^--
+🆔 Channels: Ⓜa1, Ⓧa2 & Ⓞb0	^-
 {s} Ⓗa0 ⚽️Live Sports	^^sa0
 {s} Ⓜa1 🤹Multi 🆔	^^sa1
 {s} Ⓧa2 🤺eXtra 🆔	^^sa2
@@ -291,4 +291,4 @@ Relax	^^hk^relax.m3u
 {h} Ⓘc2 iptv-org	^^h2
 {s} Ⓢ 0 Samsung	^^h10
 {s} Ⓟ 1 Pluto	^^h11
-<hr>Always use Chrome browser! ⚠️ Please Allow Popups and Disable Ad Blocker. ⚠️ Install Chrome Browser Extension: CORS Unblock, Allow CORS & Always Disable Content-Security-Policy! ⚠️ 🔒|Site settings | Privacy & security | Insecure content: Allow.👈 ⚠️ Settings | Privacy & security | Security | Always use secure connections: Upgrade navigations to HTTPS: Disable.👈<><hr>Always use Chrome browser! ⚠️ Please Allow Popups and Disable Ad Blocker. ⚠️ Settings | Privacy & security | Always use secure connections: Upgrade navigations to HTTPS: Disable.👈	^--
+<hr>Always use Chrome browser! ⚠️ Please Allow Popups and Disable Ad Blocker. ⚠️ Install Chrome Browser Extension: CORS Unblock, Allow CORS & Always Disable Content-Security-Policy! ⚠️ 🔒|Site settings | Privacy & security | Insecure content: Allow.👈 ⚠️ Settings | Privacy & security | Security | Always use secure connections: Upgrade navigations to HTTPS: Disable.👈<><hr>Always use Chrome browser! ⚠️ Please Allow Popups and Disable Ad Blocker. ⚠️ Settings | Privacy & security | Always use secure connections: Upgrade navigations to HTTPS: Disable.👈	^-
