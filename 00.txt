@@ -1,18 +1,18 @@
 {s} Ⓗa0 Sports	^-
 Felgueiras 1932 v Chaves . 17:00	^-
-Casa Pia x Moreirense . 21:30	^-
-AVS x Rio Ave . 00:00	^-
-Famalicão x Gil Vicente . 02:30	^-
+Casa Pia v Moreirense . 21:30	^-
+AVS v Rio Ave . 00:00	^-
+Famalicão v Gil Vicente . 02:30	^-
 Sport TV 1	`0i3`00SPT1
 Como v Bologna . 20:00	^-
-Empoli x Juventus . 23:00	^-
-Milan x Venezia . 01:45	^-
+Empoli v Juventus . 23:00	^-
+Milan v Venezia . 01:45	^-
 Sport TV 2	`0i3`00SPT2
-Al Riyadh x Al Hilal . 01:00	^-
-Racing Club x Boca Juniors . 03:30	^-
+Al Riyadh v Al Hilal . 01:00	^-
+Racing Club v Boca Juniors . 03:30	^-
 Sport TV 3	`0i3`00SPT3
-Olympique Marseille x Nice . 22:00	^-
-PSG x Brest . 02:00	^-
+Olympique Marseille v Nice . 22:00	^-
+PSG v Brest . 02:00	^-
 Sport TV 4	`0i3`00SPT4
 Millwall v Luton Town . 18:30	^-
 Watford v Coventry City . 21:00	^-
@@ -21,19 +21,19 @@ Sport TV 6	`0i3`00SPT6
 Sport TV +	`0i3`00SPTPlus
 Southampton v Manchester United . 18:30	^-
 Crystal Palace v Leicester City . 21:00	^-
-Aston Villa x Everton . 23:30	^-
-FC Bournemouth x Chelsea . 02:00	^-
+Aston Villa v Everton . 23:30	^-
+FC Bournemouth v Chelsea . 02:00	^-
 Live Sports HD 1	`0i3`02hd/hd1.php
 Manchester City v Brentford . 21:00	^-
-Sevilla x Getafe . 23:30	^-
-Real Sociedad x Real Madrid . 02:00	^-
+Sevilla v Getafe . 23:30	^-
+Real Sociedad v Real Madrid . 02:00	^-
 Live Sports HD 2	`0i3`02hd/hd2.php
 Darmstadt 98 v Eintracht Braunschweig . 18:00	^-
 Hoffenheim v Bayer Leverkusen . 20:30	^-
-Köln x Magdeburg . 01:30	^-
+Köln v Magdeburg . 01:30	^-
 Live Sports HD 3	`0i3`02hd/hd3.php
 Paris FC v Metz . 19:30	^-
-Auxerre x Monaco . 00:00	^-
+Auxerre v Monaco . 00:00	^-
 Live Sports HD 4	`0i3`02hd/hd4.php
 Liverpool v Nottingham Forest . 21:00	^-
 Live Sports HD 5	`0i3`02hd/hd5.php
@@ -41,65 +41,65 @@ Mallorca v Villarreal . 19:00	^-
 Espanyol v Deportivo Alavés . 21:15	^-
 Live Sports HD 6	`0i3`02hd/hd6.php
 Live Sports HD 7	`0i3`02hd/hd7.php
-Holstein Kiel x Bayern München . 23:30	^-
+Holstein Kiel v Bayern München . 23:30	^-
 Live Sports HD 8	`0i3`02hd/hd8.php
 Borussia M'gladbach v Stuttgart . 20:30	^-
-Groningen x Feyenoord . 23:45	^-
-AZ x Heerenveen . 02:00	^-
-Deportes Tolima x Boyacá Chicó . 06:20	^-
-Rionegro Águilas x Medellín . 08:30	^-
+Groningen v Feyenoord . 23:45	^-
+AZ v Heerenveen . 02:00	^-
+Deportes Tolima v Boyacá Chicó . 06:20	^-
+Rionegro Águilas v Medellín . 08:30	^-
 Live Sports HD 9	`0i3`02hd/hd9.php
 Brighton & Hove Albion v Ipswich Town . 21:00	^-
-Galatasaray x Rizespor . 00:00	^-
-Racing Club x Boca Juniors . 03:30	^-
-Tigre x Gimnasia La Plata . 06:00	^-
+Galatasaray v Rizespor . 00:00	^-
+Racing Club v Boca Juniors . 03:30	^-
+Tigre v Gimnasia La Plata . 06:00	^-
 Live Sports HD 10	`0i3`02hd/hd10.php
 Fulham v West Ham United . 21:00	^-
-América x Guadalajara . 07:50	^-
-Santos Laguna x Monterrey . 10:00	^-
+América v Guadalajara . 07:50	^-
+Santos Laguna v Monterrey . 10:00	^-
 Live Sports HD 11	`0i3`02hd/hd11.php
 Southampton v Manchester United . 18:30	^-
 Manchester City v Brentford . 21:00	^-
-Aston Villa x Everton . 23:30	^-
-Real Sociedad x Real Madrid . 02:00	^-
+Aston Villa v Everton . 23:30	^-
+Real Sociedad v Real Madrid . 02:00	^-
 PT Eleven Sports 1	`0i3`02pt/eleven1.php
 Mallorca v Villarreal . 19:00	^-
 Liverpool v Nottingham Forest . 21:00	^-
-Holstein Kiel x Bayern München . 23:30	^-
-FC Bournemouth x Chelsea . 02:00	^-
+Holstein Kiel v Bayern München . 23:30	^-
+FC Bournemouth v Chelsea . 02:00	^-
 PT Eleven Sports 2	`0i3`02pt/eleven1.php
 Fulham v West Ham United . 21:00	^-
-Sevilla x Getafe . 23:30	^-
+Sevilla v Getafe . 23:30	^-
 PT Eleven Sports 3	`0i3`02pt/eleven1.php
 Hoffenheim v Bayer Leverkusen . 20:30	^-
-Holstein Kiel x Bayern München . 23:30	^-
-Atlético Goianiense x Vitória . 02:00	^-
-Botafogo x Corinthians . 07:00	^-
+Holstein Kiel v Bayern München . 23:30	^-
+Atlético Goianiense v Vitória . 02:00	^-
+Botafogo v Corinthians . 07:00	^-
 Premiere 1 BR	https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/4zkafrcxji/out/v1/810ebca1aff0443da717da4acdeda158/cenc.mpd``d98239180d8380b3a1bb28d875b1ddf2:cf836ced579257d1c76ae8809818e6c4
 Southampton v Manchester United . 18:30	^-
 Crystal Palace v Leicester City . 21:00	^-
-Aston Villa x Everton . 23:30	^-
-Real Sociedad x Real Madrid . 02:00	^-
+Aston Villa v Everton . 23:30	^-
+Real Sociedad v Real Madrid . 02:00	^-
 Premiere 2 BR	https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/pgub1bh7o9/out/v1/7a59226197644bfaa2b00f488bd95288/cenc.mpd``fd2e8019f37211ca8b78a8b656f1b83a:273189c214e85b43ac36298d1c422330
 Brighton & Hove Albion v Ipswich Town . 21:00	^-
-Sevilla x Getafe . 23:30	^-
-Milan x Venezia . 01:45	^-
-Athletico-PR x Fortaleza . 04:30	^-
+Sevilla v Getafe . 23:30	^-
+Milan v Venezia . 01:45	^-
+Athletico-PR v Fortaleza . 04:30	^-
 Premiere 3 BR	https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/8ci7l7dt0d/out/v1/98fe69f2cdc041388004305e63353268/cenc.mpd``9547f9aead1237c8a3b1bf0a91ed9995:534fab4541fef31921dd970c65d51848
 Manchester City v Brentford . 21:00	^-
-Benfica x Santa Clara . 02:30	^-
+Benfica v Santa Clara . 02:30	^-
 Premiere 4 BR	https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/zytzybatcd/out/v1/4e59aa00f6784bb98170741d40b33e3e/cenc.mpd``ce5d18ffd68650affce1985201983ab7:397c64e42507d95e5460830918c22a98
 Liverpool v Nottingham Forest . 21:00	^-
-FC Bournemouth x Chelsea . 02:00	^-
+FC Bournemouth v Chelsea . 02:00	^-
 Premiere 5 BR	https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/j4y12ucrx0/out/v1/9135597c4400465e9e752dc32de587fd/cenc.mpd``d5a3ac0b892bfccdf352b6def9cb2764:ac0936acc0036fad2273efaa42b1fafd
 Mallorca v Villarreal . 19:00	^-
 Fulham v West Ham United . 21:00	^-
-Empoli x Juventus . 23:00	^-
-Racing Club x Boca Juniors . 03:30	^-
+Empoli v Juventus . 23:00	^-
+Racing Club v Boca Juniors . 03:30	^-
 Premiere 6 BR	https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/cydwktwhqj/out/v1/c6e2919fe4e04a73935691f8284a4afe/cenc.mpd``05cedc366ce4ec735ee4b33fcefbf01f:475d6dd40eaba6896e02b26a6cf34d95
 Premiere 7 BR	https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/wczqphrl5k/out/v1/7a20b4be236a4a9484fdf5cdfcbe79d5/cenc.mpd``7ce96e01eee54fb77e5cc4e7b753d6b0:184f94303d3357b9a7381ccdeee9b611
 Premiere 8 BR	https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/dabubydklo/out/v1/c272f10312ac4e81bcf2183509703dd1/cenc.mpd``7ba384f9d983c731ab1e3702c16e2faf:f28adca4375e8a041fd22aef26440009
-Benfica x Santa Clara . 02:30	^-
+Benfica v Santa Clara . 02:30	^-
 PT Benefica	`0i3`02pt/btv.php
 SportDigital Fussball	https://svc40.main.vr.t-online.de/LCID3221228350.originalserver.prod.sngtv.t-online.de/PLTV/88888888/224/3221228350/3221228350.mpd``64fdf75a9fc7fa2f0dc197ecdfd07eba:44094f8dd29164989b9daecb9aabf4f2
 Premier League	https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd``002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
