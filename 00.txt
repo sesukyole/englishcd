@@ -3,8 +3,6 @@ SportDigital Fussball	https://svc40.main.vr.t-online.de/LCID3221228350.originals
 Premier League	https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd``002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
 Barito Putera v Persik Kediri . 15:30	^-
 ID Liga 1 A	`0https://l.1/b/b1?id=b1&type=m
-^=Southampton v Manchester United . 18:30	^-
-^=ID Liga 1 B	`0https://l.1/b/b2?id=b2&type=m
 ID PSJ TV	01`01fplay.accolamedia.id/accola/psj.stream/playlist.m3u8
 Felgueiras 1932 v Chaves . 17:00	^-
 Casa Pia v Moreirense . 21:30	^-
@@ -996,3 +994,5 @@ TV Pública	`1i3`05tv_publica
 TYC Sports	`1i3`05tyc_sports
 Win Sports +	`1i3`05winplus
 Win Sports	`1i3`05winsports
+^=Southampton v Manchester United . 18:30	^-
+^=ID Liga 1 B	`0https://l.1/b/b2?id=b2&type=m
