@@ -430,3 +430,4 @@ Action Movies P	i3`06252802?zyz
 {h} * PlexTV	^^hhttps://raw.githubusercontent.com/khalissuratmen/MKS-IPTV/main/PLEXTV
 {h} * MyLocal	^^hhttps://raw.githubusercontent.com/khalissuratmen/MKS-IPTV/main/MYLOCAL
 {h} * MyLocal	^^hhttps://raw.githubusercontent.com/Justryuz/TV/main/JTV
+TSN_1	`0https://topembed.mizhls.ru/lb/eplayerTSN_1_HD/playlist.m3u8
