@@ -1,8 +1,10 @@
 {s} Ⓗa0 Sports	^-
+SportDigital Fussball	https://svc40.main.vr.t-online.de/LCID3221228350.originalserver.prod.sngtv.t-online.de/PLTV/88888888/224/3221228350/3221228350.mpd``64fdf75a9fc7fa2f0dc197ecdfd07eba:44094f8dd29164989b9daecb9aabf4f2
+Premier League	https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd``002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
 Barito Putera v Persik Kediri . 15:30	^-
 ID Liga 1 A	`0https://l.1/b/b1?id=b1&type=m
-Southampton v Manchester United . 18:30	^-
-ID Liga 1 B	`0https://l.1/b/b2?id=b2&type=m
+^=Southampton v Manchester United . 18:30	^-
+^=ID Liga 1 B	`0https://l.1/b/b2?id=b2&type=m
 ID PSJ TV	01`01fplay.accolamedia.id/accola/psj.stream/playlist.m3u8
 Felgueiras 1932 v Chaves . 17:00	^-
 Casa Pia v Moreirense . 21:30	^-
@@ -106,8 +108,6 @@ Premiere 7 BR	https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/en
 Premiere 8 BR	https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/dabubydklo/out/v1/c272f10312ac4e81bcf2183509703dd1/cenc.mpd``7ba384f9d983c731ab1e3702c16e2faf:f28adca4375e8a041fd22aef26440009
 Benfica v Santa Clara . 02:30	^-
 PT Benefica	`0i3`02pt/btv.php
-SportDigital Fussball	https://svc40.main.vr.t-online.de/LCID3221228350.originalserver.prod.sngtv.t-online.de/PLTV/88888888/224/3221228350/3221228350.mpd``64fdf75a9fc7fa2f0dc197ecdfd07eba:44094f8dd29164989b9daecb9aabf4f2
-Premier League	https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd``002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
 ID Live Sport 1	00`a05rcti-sportstar/sa_hls/rcti-sportstar.m3u8?c
 ID Live Sport 2	00`a05rcti-sportstar2/sa_hls/rcti-sportstar2.m3u8?c
 ID iNews	https://1s1.rctiplus.id/inews2023.m3u8
