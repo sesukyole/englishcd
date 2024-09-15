@@ -292,6 +292,18 @@ Relax	^^hk^relax.m3u
 {s} Ⓢ 0 Samsung	^^h10
 {s} Ⓟ 1 Pluto	^^h11
 <hr>Always use Chrome browser! ⚠️ Please Allow Popups and Disable Ad Blocker. ⚠️ Install Chrome Browser Extension: CORS Unblock, Allow CORS & Always Disable Content-Security-Policy! ⚠️ 🔒|Site settings | Privacy & security | Insecure content: Allow.👈 ⚠️ Settings | Privacy & security | Security | Always use secure connections: Upgrade navigations to HTTPS: Disable.👈<><hr>Always use Chrome browser! ⚠️ Please Allow Popups and Disable Ad Blocker. ⚠️ Settings | Privacy & security | Always use secure connections: Upgrade navigations to HTTPS: Disable.👈	^-
+a1a	https://a1.livesd.online/hls/0/stream.m3u8
+a1b	https://a1.livesd.online/hls/1/stream.m3u8
+a2a	https://a2.livesd.online/hls/0/stream.m3u8
+a2b	https://a2.livesd.online/hls/1/stream.m3u8
+a3a	https://a3.livesd.online/hls/0/stream.m3u8
+a3b	https://a3.livesd.online/hls/1/stream.m3u8
+a4a	https://a4.livesd.online/hls/0/stream.m3u8
+a4b	https://a4.livesd.online/hls/1/stream.m3u8
+a5a	https://a5.livesd.online/hls/0/stream.m3u8
+a5b	https://a5.livesd.online/hls/1/stream.m3u8
+a6a	https://a6.livesd.online/hls/0/stream.m3u8
+a6b	https://a6.livesd.online/hls/1/stream.m3u8
 hd1	`0https://l.1/ch/hd1?id=hd1
 hd2	`0https://l.1/ch/hd2?id=hd2
 hd3	`0https://l.1/ch/hd3?id=hd3
@@ -430,7 +442,4 @@ Action Movies P	i3`06252802?zyz
 {h} * PlexTV	^^hhttps://raw.githubusercontent.com/khalissuratmen/MKS-IPTV/main/PLEXTV
 {h} * MyLocal	^^hhttps://raw.githubusercontent.com/khalissuratmen/MKS-IPTV/main/MYLOCAL
 {h} * MyLocal	^^hhttps://raw.githubusercontent.com/Justryuz/TV/main/JTV
-TSN_1	^&https://topembed.mizhls.ru/lb/eplayerTSN_1_HD/playlist.m3u8
-beIN 1	^&https://ddy6.mizhls.ru/ddy6/premium491/tracks-v1a1/mono.m3u8
-beIN 3	^&https://ddy6.mizhls.ru/ddy6/premium493/tracks-v1a1/mono.m3u8
-tv.burhansyam.com	^&https://tv.burhansyam.com/
+tv.burhansyam.com	^^hhttps://tv.burhansyam.com/
