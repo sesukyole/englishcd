@@ -292,18 +292,18 @@ Relax	^^hk^relax.m3u
 {s} Ⓢ 0 Samsung	^^h10
 {s} Ⓟ 1 Pluto	^^h11
 <hr>Always use Chrome browser! ⚠️ Please Allow Popups and Disable Ad Blocker. ⚠️ Install Chrome Browser Extension: CORS Unblock, Allow CORS & Always Disable Content-Security-Policy! ⚠️ 🔒|Site settings | Privacy & security | Insecure content: Allow.👈 ⚠️ Settings | Privacy & security | Security | Always use secure connections: Upgrade navigations to HTTPS: Disable.👈<><hr>Always use Chrome browser! ⚠️ Please Allow Popups and Disable Ad Blocker. ⚠️ Settings | Privacy & security | Always use secure connections: Upgrade navigations to HTTPS: Disable.👈	^-
-a1a	https://a1.livesd.online/hls/0/stream.m3u8
-a1b	https://a1.livesd.online/hls/1/stream.m3u8
-a2a	https://a2.livesd.online/hls/0/stream.m3u8
-a2b	https://a2.livesd.online/hls/1/stream.m3u8
-a3a	https://a3.livesd.online/hls/0/stream.m3u8
-a3b	https://a3.livesd.online/hls/1/stream.m3u8
-a4a	https://a4.livesd.online/hls/0/stream.m3u8
-a4b	https://a4.livesd.online/hls/1/stream.m3u8
-a5a	https://a5.livesd.online/hls/0/stream.m3u8
-a5b	https://a5.livesd.online/hls/1/stream.m3u8
-a6a	https://a6.livesd.online/hls/0/stream.m3u8
-a6b	https://a6.livesd.online/hls/1/stream.m3u8
+a1a	https://a1.l.2/0/stream.m3u8
+a1b	https://a1.l.2/1/stream.m3u8
+a2a	https://a2.l.2/0/stream.m3u8
+a2b	https://a2.l.2/1/stream.m3u8
+a3a	https://a3.l.2/0/stream.m3u8
+a3b	https://a3.l.2/1/stream.m3u8
+a4a	https://a4.l.2/0/stream.m3u8
+a4b	https://a4.l.2/1/stream.m3u8
+a5a	https://a5.l.2/0/stream.m3u8
+a5b	https://a5.l.2/1/stream.m3u8
+a6a	https://a6.l.2/0/stream.m3u8
+a6b	https://a6.l.2/1/stream.m3u8
 hd1	`0https://l.1/ch/hd1?id=hd1
 hd2	`0https://l.1/ch/hd2?id=hd2
 hd3	`0https://l.1/ch/hd3?id=hd3
@@ -443,3 +443,22 @@ Action Movies P	i3`06252802?zyz
 {h} * MyLocal	^^hhttps://raw.githubusercontent.com/khalissuratmen/MKS-IPTV/main/MYLOCAL
 {h} * MyLocal	^^hhttps://raw.githubusercontent.com/Justryuz/TV/main/JTV
 tv.burhansyam.com	^^hhttps://tv.burhansyam.com/
+Football / Kora 1 A	https://a1.l.2/0/stream.m3u8
+Football / Kora 1 B	https://a1.l.2/1/stream.m3u8
+Football / Kora 2 A	https://a2.l.2/0/stream.m3u8
+Football / Kora 2 B	https://a2.l.2/1/stream.m3u8
+Football / Kora 3 A	https://a3.l.2/0/stream.m3u8
+Football / Kora 3 B	https://a3.l.2/1/stream.m3u8
+Football / Kora 4 A	https://a4.l.2/0/stream.m3u8
+Football / Kora 4 B	https://a4.l.2/1/stream.m3u8
+Football / Kora 5 A	https://a5.l.2/0/stream.m3u8
+Football / Kora 5 B	https://a5.l.2/1/stream.m3u8
+Football / Kora 6 A	https://a6.l.2/0/stream.m3u8
+Football / Kora 6 B	https://a6.l.2/1/stream.m3u8
+Football / Kora 7 A	https://a7.l.2/0/stream.m3u8
+Football / Kora 7 B	https://a7.l.2/1/stream.m3u8
+Football / Kora 8 A	https://a8.l.2/0/stream.m3u8
+Football / Kora 8 B	https://a8.l.2/1/stream.m3u8
+Football / Kora 9 A	https://a9.l.2/0/stream.m3u8
+Football / Kora 9 B	https://a9.l.2/1/stream.m3u8
+
