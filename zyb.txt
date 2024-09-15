@@ -459,6 +459,3 @@ Football / Kora 7 A	https://a7.l.2/0/stream.m3u8
 Football / Kora 7 B	https://a7.l.2/1/stream.m3u8
 Football / Kora 8 A	https://a8.l.2/0/stream.m3u8
 Football / Kora 8 B	https://a8.l.2/1/stream.m3u8
-Football / Kora 9 A	https://a9.l.2/0/stream.m3u8
-Football / Kora 9 B	https://a9.l.2/1/stream.m3u8
-
