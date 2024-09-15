@@ -905,7 +905,7 @@ Live Events 5	https://live3.procdnlive.com/livecdn/channel34.m3u8?auth_key=30000
 IDN Liga 1	https://bf.shandongjnsd.com/live/322665_hd01.m3u8?txSecret=01d564c22f113516e3f03840316f9818&txTime=66e15c07
 Live RCTI 2	00`a05rcti-2/sa_hls/rcti-2.m3u8?c
 Live RCTI 3	https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
-RCTI.id for PC	01`02aRCTI-DD/sa_dash_vmx/RCTI-DD.mpd``9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
+RCTI.id	01`02aRCTI-DD/sa_dash_vmx/RCTI-DD.mpd``9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
 Badminton Hong Kong Open 1	https://wakacha.github.io/live/c1.m3u8
 Badminton Hong Kong Open 2	https://wakacha.github.io/live/c2.m3u8
 Badminton Hong Kong Open 3	https://wakacha.github.io/live/c3.m3u8
@@ -969,102 +969,31 @@ TYC Sports	`1i3`05tyc_sports
 Win Sports +	`1i3`05winplus
 Win Sports	`1i3`05winsports
 # # # Offline # # #	^-
-Felgueiras 1932 v Chaves . 17:00	^-
-Casa Pia v Moreirense . 21:30	^-
-AVS v Rio Ave . 00:00	^-
-Famalicão v Gil Vicente . 02:30	^-
 Sport TV 1 B	`0i3`02pt/sporttv1.php
-Como v Bologna . 20:00	^-
-Empoli v Juventus . 23:00	^-
-Milan v Venezia . 01:45	^-
 Sport TV 2 B	`0i3`02pt/sporttv2.php
-Al Riyadh v Al Hilal . 01:00	^-
-Racing Club v Boca Juniors . 03:30	^-
 Sport TV 3 B	`0i3`02pt/sporttv3.php
-Olympique Marseille v Nice . 22:00	^-
-Paris Saint-Germain v Stade Brestois 29 . 02:00	^-
 Sport TV 4 B	`0i3`02pt/sporttv4.php
-Millwall v Luton Town . 18:30	^-
-Watford v Coventry City . 21:00	^-
 Sport TV 5 B	`0i3`02pt/sporttv5.php
-Southampton v Manchester United . 18:30	^-
-Crystal Palace v Leicester City . 21:00	^-
-Aston Villa v Everton . 23:30	^-
-AFC Bournemouth v Chelsea . 02:00	^-
 Live Sports HD 1	`0i3`02hd/hd1.php
-Manchester City v Brentford . 21:00	^-
-Sevilla v Getafe . 23:30	^-
-Real Sociedad v Real Madrid . 02:00	^-
 Live Sports HD 2	`0i3`02hd/hd2.php
-Darmstadt 98 v Eintracht Braunschweig . 18:00	^-
-Hoffenheim v Bayer Leverkusen . 20:30	^-
-Köln v Magdeburg . 01:30	^-
 Live Sports HD 3	`0i3`02hd/hd3.php
-Paris FC v Metz . 19:30	^-
-Auxerre v Monaco . 00:00	^-
 Live Sports HD 4	`0i3`02hd/hd4.php
-Liverpool v Nottingham Forest . 21:00	^-
 Live Sports HD 5	`0i3`02hd/hd5.php
-Mallorca v Villarreal . 19:00	^-
-Espanyol v Deportivo Alavés . 21:15	^-
 Live Sports HD 6	`0i3`02hd/hd6.php
 Live Sports HD 7	`0i3`02hd/hd7.php
-Holstein Kiel v Bayern München . 23:30	^-
 Live Sports HD 8	`0i3`02hd/hd8.php
-Borussia M'gladbach v Stuttgart . 20:30	^-
-Groningen v Feyenoord . 23:45	^-
-AZ v Heerenveen . 02:00	^-
-Deportes Tolima v Boyacá Chicó . 06:20	^-
-Rionegro Águilas v Medellín . 08:30	^-
 Live Sports HD 9	`0i3`02hd/hd9.php
-Brighton & Hove Albion v Ipswich Town . 21:00	^-
-Galatasaray v Rizespor . 00:00	^-
-Racing Club v Boca Juniors . 03:30	^-
-Tigre v Gimnasia La Plata . 06:00	^-
 Live Sports HD 10	`0i3`02hd/hd10.php
-Fulham v West Ham United . 21:00	^-
-América v Guadalajara . 07:50	^-
-Santos Laguna v Monterrey . 10:00	^-
 Live Sports HD 11	`0i3`02hd/hd11.php
-Southampton v Manchester United . 18:30	^-
-Manchester City v Brentford . 21:00	^-
-Aston Villa v Everton . 23:30	^-
-Real Sociedad v Real Madrid . 02:00	^-
 PT Eleven Sports 1	`0i3`02pt/eleven1.php
-Mallorca v Villarreal . 19:00	^-
-Liverpool v Nottingham Forest . 21:00	^-
-Holstein Kiel v Bayern München . 23:30	^-
-AFC Bournemouth v Chelsea . 02:00	^-
-PT Eleven Sports 2	`0i3`02pt/eleven1.php
-Fulham v West Ham United . 21:00	^-
-Sevilla v Getafe . 23:30	^-
-PT Eleven Sports 3	`0i3`02pt/eleven1.php
-Hoffenheim v Bayer Leverkusen . 20:30	^-
-Holstein Kiel v Bayern München . 23:30	^-
-Atlético Goianiense v Vitória . 02:00	^-
-Botafogo v Corinthians . 07:00	^-
+PT Eleven Sports 2	`0i3`02pt/eleven2.php
+PT Eleven Sports 3	`0i3`02pt/eleven3.php
 Live Sports BR 1	`0i3`02bra/br1.php
-Southampton v Manchester United . 18:30	^-
-Crystal Palace v Leicester City . 21:00	^-
-Aston Villa v Everton . 23:30	^-
-Real Sociedad v Real Madrid . 02:00	^-
-Brighton & Hove Albion v Ipswich Town . 21:00	^-
-Sevilla v Getafe . 23:30	^-
-Milan v Venezia . 01:45	^-
-Athletico-PR v Fortaleza . 04:30	^-
+Live Sports BR 2	`0i3`02bra/br2.php
 Live Sports BR 3	`0i3`02bra/br3.php
-Manchester City v Brentford . 21:00	^-
-Benfica v Santa Clara . 02:30	^-
 Live Sports BR 4	`0i3`02bra/br4.php
-Liverpool v Nottingham Forest . 21:00	^-
-AFC Bournemouth v Chelsea . 02:00	^-
 Live Sports BR 5	`0i3`02bra/br5.php
-Mallorca v Villarreal . 19:00	^-
-Fulham v West Ham United . 21:00	^-
-Empoli v Juventus . 23:00	^-
-Racing Club v Boca Juniors . 03:30	^-
 Live Sports BR 6	`0i3`02bra/br6.php
 Live Sports BR 7	`0i3`02bra/br7.php
 Live Sports BR 8	`0i3`02bra/br8.php
-Benfica v Santa Clara . 02:30	^-
 PT Benefica	`0i3`02pt/btv.php
