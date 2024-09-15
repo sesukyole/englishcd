@@ -2,42 +2,42 @@
 SportDigital Fussball	https://svc40.main.vr.t-online.de/LCID3221228350.originalserver.prod.sngtv.t-online.de/PLTV/88888888/224/3221228350/3221228350.mpd``64fdf75a9fc7fa2f0dc197ecdfd07eba:44094f8dd29164989b9daecb9aabf4f2
 Premier League	https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd``002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
 ID PSJ TV	01`01fplay.accolamedia.id/accola/psj.stream/playlist.m3u8
-@17:00 Marítimo x Alverca	^-
-@21:30 Porto x Farense	^-
-@00:00 Trabzonspor x Beşiktaş	^-
-@02:30 Sporting Braga x Vitória Guimarães	^-
+17:00 Marítimo x Alverca	^-
+21:30 Porto x Farense	^-
+00:00 Trabzonspor x Beşiktaş	^-
+02:30 Sporting Braga x Vitória Guimarães	^-
 SportTV1 [Portugal]	`4https://topembed.pw/channel/SportTV1[Portugal]
 Sport TV 1 A	`0i3`00SPT1
-@17:00 Mafra x Tondela	^-
-@21:30 Leixões x Vizela	^-
-@00:00 Estoril x Nacional	^-
+17:00 Mafra x Tondela	^-
+21:30 Leixões x Vizela	^-
+00:00 Estoril x Nacional	^-
 SportTV2 [Portugal]	`4https://topembed.pw/channel/SportTV2[Portugal]
 Sport TV 2 A	`0i3`00SPT2
-@17:30 Genoa x Roma	^-
-@20:00 Atalanta x Fiorentina	^-
-@23:00 Cagliari x Napoli	^-
-@01:45 Monza x Internazionale	^-
+17:30 Genoa x Roma	^-
+20:00 Atalanta x Fiorentina	^-
+23:00 Cagliari x Napoli	^-
+01:45 Monza x Internazionale	^-
 SportTV3 [Portugal]	`4https://topembed.pw/channel/SportTV3[Portugal]
 Sport TV 3 A	`0i3`00SPT3
-@17:15 F1: Azerbaijan Grand Prix	^-
+17:15 F1: Azerbaijan Grand Prix	^-
 SportTV4 [Portugal]	`4https://topembed.pw/channel/SportTV4[Portugal]
 Sport TV 4 A	`0i3`00SPT4
-@18:00 Dundee United x Rangers	^-
-@20:00 Rennes x Montpellier	^-
-@01:45 Lens x Olympique Lyonnais	^-
+18:00 Dundee United x Rangers	^-
+20:00 Rennes x Montpellier	^-
+01:45 Lens x Olympique Lyonnais	^-
 SportTV5 [Portugal]	`4https://topembed.pw/channel/SportTV5[Portugal]
 Sport TV 5 A	`0i3`00SPT5
-@20:00 Tottenham Hotspur x Arsenal	^-
-@22:30 Wolverhampton Wanderers x Newcastle United	^-
-@02:00 Atlético Madrid x Valencia	^-
+20:00 Tottenham Hotspur x Arsenal	^-
+22:30 Wolverhampton Wanderers x Newcastle United	^-
+02:00 Atlético Madrid x Valencia	^-
 ElevenSports1 [Portugal]	`4https://topembed.pw/channel/ElevenSports1[Portugal]
-@19:00 Celta de Vigo x Real Valladolid	^-
-@21:15 Girona x Barcelona	^-
-@23:30 Las Palmas x Athletic Club	^-
+19:00 Celta de Vigo x Real Valladolid	^-
+21:15 Girona x Barcelona	^-
+23:30 Las Palmas x Athletic Club	^-
 ElevenSports2 [Portugal]	`4https://topembed.pw/channel/ElevenSports2[Portugal]
-@18:30 Hertha BSC x Fortuna Düsseldorf	^-
-@20:30 Augsburg x St. Pauli	^-
-@22:30 Mainz 05 x Werder Bremen	^-
+18:30 Hertha BSC x Fortuna Düsseldorf	^-
+20:30 Augsburg x St. Pauli	^-
+22:30 Mainz 05 x Werder Bremen	^-
 ElevenSports3 [Portugal]	`4https://topembed.pw/channel/ElevenSports3[Portugal]
 10/02/25 19:00 Arema FC x PSM Makassar	^-
 Football / Soccer A	`0https://l.1/b/b1?id=b1&type=m
