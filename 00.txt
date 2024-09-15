@@ -1,11 +1,49 @@
 {s} Ⓗa0 Sports	^-
 SportDigital Fussball	https://svc40.main.vr.t-online.de/LCID3221228350.originalserver.prod.sngtv.t-online.de/PLTV/88888888/224/3221228350/3221228350.mpd``64fdf75a9fc7fa2f0dc197ecdfd07eba:44094f8dd29164989b9daecb9aabf4f2
 Premier League	https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd``002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
-Barito Putera v Persik Kediri . 15:30	^-
+ID PSJ TV	01`01fplay.accolamedia.id/accola/psj.stream/playlist.m3u8
+@17:00 Marítimo x Alverca	^-
+@21:30 Porto x Farense	^-
+@00:00 Trabzonspor x Beşiktaş	^-
+@02:30 Sporting Braga x Vitória Guimarães	^-
+SportTV1 [Portugal]	`4https://topembed.pw/channel/SportTV1[Portugal]
+Sport TV 1 A	`0i3`00SPT1
+@17:00 Mafra x Tondela	^-
+@21:30 Leixões x Vizela	^-
+@00:00 Estoril x Nacional	^-
+SportTV2 [Portugal]	`4https://topembed.pw/channel/SportTV2[Portugal]
+Sport TV 2 A	`0i3`00SPT2
+@17:30 Genoa x Roma	^-
+@20:00 Atalanta x Fiorentina	^-
+@23:00 Cagliari x Napoli	^-
+@01:45 Monza x Internazionale	^-
+SportTV3 [Portugal]	`4https://topembed.pw/channel/SportTV3[Portugal]
+Sport TV 3 A	`0i3`00SPT3
+@17:15 F1: Azerbaijan Grand Prix	^-
+SportTV4 [Portugal]	`4https://topembed.pw/channel/SportTV4[Portugal]
+Sport TV 4 A	`0i3`00SPT4
+@18:00 Dundee United x Rangers	^-
+@20:00 Rennes x Montpellier	^-
+@01:45 Lens x Olympique Lyonnais	^-
+SportTV5 [Portugal]	`4https://topembed.pw/channel/SportTV5[Portugal]
+Sport TV 5 A	`0i3`00SPT5
+@20:00 Tottenham Hotspur x Arsenal	^-
+@22:30 Wolverhampton Wanderers x Newcastle United	^-
+@02:00 Atlético Madrid x Valencia	^-
+ElevenSports1 [Portugal]	`4https://topembed.pw/channel/ElevenSports1[Portugal]
+@19:00 Celta de Vigo x Real Valladolid	^-
+@21:15 Girona x Barcelona	^-
+@23:30 Las Palmas x Athletic Club	^-
+ElevenSports2 [Portugal]	`4https://topembed.pw/channel/ElevenSports2[Portugal]
+@18:30 Hertha BSC x Fortuna Düsseldorf	^-
+@20:30 Augsburg x St. Pauli	^-
+@22:30 Mainz 05 x Werder Bremen	^-
+ElevenSports3 [Portugal]	`4https://topembed.pw/channel/ElevenSports3[Portugal]
+10/02/25 19:00 Arema FC x PSM Makassar	^-
 Football / Soccer A	`0https://l.1/b/b1?id=b1&type=m
 Southampton v Manchester United . 18:30	^-
 Football / Soccer B	`0https://l.1/b/b2?id=b2&type=m
-Persita v Persebaya . 19:00	^-
+19:00 Persib Bandung x PSIS Semarang	^-
 Football / Soccer C	`0https://l.1/b/b3?id=b3
 Como v Bologna . 20:00	^-
 Football / Soccer D	`0https://l.1/b/b4?id=b4
@@ -29,56 +67,6 @@ AFC Bournemouth v Chelsea . 02:00	^-
 Football / Soccer M	`0https://l.1/b/b13?id=b13
 Paris Saint-Germain v Stade Brestois 29 . 02:00	^-
 Football / Soccer N	`0https://l.1/b/b14?id=b14
-ID PSJ TV	01`01fplay.accolamedia.id/accola/psj.stream/playlist.m3u8
-Felgueiras 1932 v Chaves . 17:00	^-
-Casa Pia v Moreirense . 21:30	^-
-AVS v Rio Ave . 00:00	^-
-Famalicão v Gil Vicente . 02:30	^-
-Sport TV 1 A	`0i3`00SPT1
-Como v Bologna . 20:00	^-
-Empoli v Juventus . 23:00	^-
-Milan v Venezia . 01:45	^-
-Sport TV 2 A	`0i3`00SPT2
-Al Riyadh v Al Hilal . 01:00	^-
-Racing Club v Boca Juniors . 03:30	^-
-Sport TV 3 A	`0i3`00SPT3
-Olympique Marseille v Nice . 22:00	^-
-Paris Saint-Germain v Stade Brestois 29 . 02:00	^-
-Sport TV 4 A	`0i3`00SPT4
-Millwall v Luton Town . 18:30	^-
-Watford v Coventry City . 21:00	^-
-Sport TV 5 A	`0i3`00SPT5
-Felgueiras 1932 v Chaves . 17:00	^-
-Casa Pia v Moreirense . 21:30	^-
-AVS v Rio Ave . 00:00	^-
-Famalicão v Gil Vicente . 02:30	^-
-SportTV1 [Portugal]	`4https://topembed.pw/channel/SportTV1[Portugal]
-Como v Bologna . 20:00	^-
-Empoli v Juventus . 23:00	^-
-Milan v Venezia . 01:45	^-
-SportTV2 [Portugal]	`4https://topembed.pw/channel/SportTV2[Portugal]
-Al Riyadh v Al Hilal . 01:00	^-
-Racing Club v Boca Juniors . 03:30	^-
-SportTV3 [Portugal]	`4https://topembed.pw/channel/SportTV3[Portugal]
-Olympique Marseille v Nice . 22:00	^-
-Paris Saint-Germain v Stade Brestois 29 . 02:00	^-
-SportTV4 [Portugal]	`4https://topembed.pw/channel/SportTV4[Portugal]
-Millwall v Luton Town . 18:30	^-
-Watford v Coventry City . 21:00	^-
-SportTV5 [Portugal]	`4https://topembed.pw/channel/SportTV5[Portugal]
-Southampton v Manchester United . 18:30	^-
-Manchester City v Brentford . 21:00	^-
-Aston Villa v Everton . 23:30	^-
-Real Sociedad v Real Madrid . 02:00	^-
-ElevenSports1 [Portugal]	`4https://topembed.pw/channel/ElevenSports1[Portugal]
-Mallorca v Villarreal . 19:00	^-
-Liverpool v Nottingham Forest . 21:00	^-
-Holstein Kiel v Bayern München . 23:30	^-
-AFC Bournemouth v Chelsea . 02:00	^-
-ElevenSports2 [Portugal]	`4https://topembed.pw/channel/ElevenSports2[Portugal]
-Fulham v West Ham United . 21:00	^-
-Sevilla v Getafe . 23:30	^-
-ElevenSports3 [Portugal]	`4https://topembed.pw/channel/ElevenSports3[Portugal]
 ID Live Sport 1	00`a05rcti-sportstar/sa_hls/rcti-sportstar.m3u8?c
 ID Live Sport 2	00`a05rcti-sportstar2/sa_hls/rcti-sportstar2.m3u8?c
 ID iNews	https://1s1.rctiplus.id/inews2023.m3u8
