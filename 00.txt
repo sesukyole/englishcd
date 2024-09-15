@@ -39,6 +39,35 @@ ElevenSports2 [Portugal]	`4https://topembed.pw/channel/ElevenSports2[Portugal]
 20:30 Augsburg x St. Pauli	^-
 22:30 Mainz 05 x Werder Bremen	^-
 ElevenSports3 [Portugal]	`4https://topembed.pw/channel/ElevenSports3[Portugal]
+10/02/25 19:00 Arema FC x PSM Makassar	^-
+Football / Soccer A	`0https://l.1/b/b1?id=b1&type=m
+18:30 Genoa x AS Roma	^-
+Football / Soccer B	`0https://l.1/b/b2?id=b2&type=m
+19:00 Persib Bandung x PSIS Semarang	^-
+Football / Soccer C	`0https://l.1/b/b3?id=b3
+20:00 Atalanta BC x ACF Fiorentina	^-
+Football / Soccer D	`0https://l.1/b/b4?id=b4
+20:00 Tottenham Hotspur x Arsenal	^-
+Football / Soccer E	`0https://l.1/b/b5?id=b5
+21:00 Girona FC x FC Barcelona	^-
+Football / Soccer F	`0https://l.1/b/b6?id=b6
+22:30 Wolverhampton W. x Newcastle United	^-
+Football / Soccer G	`0https://l.1/b/b7?id=b7
+23:00 Cagliari x Napoli	^-
+Football / Soccer H	`0https://l.1/b/b8?id=b8
+01:45 Monza x Inter Milan	^-
+Football / Soccer I	`0https://l.1/b/b9?id=b9
+02:00 Atletico Madrid x Valencia CF	^-
+Football / Soccer J	`0https://l.1/b/b10?id=b10
+Milan v Venezia . 01:45	^-
+Football / Soccer K	`0https://l.1/b/b11?id=b11
+Real Sociedad v Real Madrid . 02:00	^-
+Football / Soccer L	`0https://l.1/b/b12?id=b12
+AFC Bournemouth v Chelsea . 02:00	^-
+Football / Soccer M	`0https://l.1/b/b13?id=b13
+Paris Saint-Germain v Stade Brestois 29 . 02:00	^-
+Football / Soccer N	`0https://l.1/b/b14?id=b14
+18:30 Genoa x AS Roma	^-
 Football / Kora 1 A	https://a1.l.2/0/stream.m3u8
 Football / Kora 1 B	https://a1.l.2/1/stream.m3u8
 Football / Kora 2 A	https://a2.l.2/0/stream.m3u8
@@ -55,34 +84,6 @@ Football / Kora 7 A	https://a7.l.2/0/stream.m3u8
 Football / Kora 7 B	https://a7.l.2/1/stream.m3u8
 Football / Kora 8 A	https://a8.l.2/0/stream.m3u8
 Football / Kora 8 B	https://a8.l.2/1/stream.m3u8
-10/02/25 19:00 Arema FC x PSM Makassar	^-
-Football / Soccer A	`0https://l.1/b/b1?id=b1&type=m
-Southampton v Manchester United . 18:30	^-
-Football / Soccer B	`0https://l.1/b/b2?id=b2&type=m
-19:00 Persib Bandung x PSIS Semarang	^-
-Football / Soccer C	`0https://l.1/b/b3?id=b3
-Como v Bologna . 20:00	^-
-Football / Soccer D	`0https://l.1/b/b4?id=b4
-Manchester City v Brentford . 21:00	^-
-Football / Soccer E	`0https://l.1/b/b5?id=b5
-Liverpool v Nottingham Forest . 21:00	^-
-Football / Soccer F	`0https://l.1/b/b6?id=b6
-Brighton & Hove Albion v Ipswich Town . 21:00	^-
-Football / Soccer G	`0https://l.1/b/b7?id=b7
-Empoli v Juventus . 23:00	^-
-Football / Soccer H	`0https://l.1/b/b8?id=b8
-Holstein Kiel v Bayern München . 23:30	^-
-Football / Soccer I	`0https://l.1/b/b9?id=b9
-Al Riyadh v Al Hilal . 01:00	^-
-Football / Soccer J	`0https://l.1/b/b10?id=b10
-Milan v Venezia . 01:45	^-
-Football / Soccer K	`0https://l.1/b/b11?id=b11
-Real Sociedad v Real Madrid . 02:00	^-
-Football / Soccer L	`0https://l.1/b/b12?id=b12
-AFC Bournemouth v Chelsea . 02:00	^-
-Football / Soccer M	`0https://l.1/b/b13?id=b13
-Paris Saint-Germain v Stade Brestois 29 . 02:00	^-
-Football / Soccer N	`0https://l.1/b/b14?id=b14
 ID Live Sport 1	00`a05rcti-sportstar/sa_hls/rcti-sportstar.m3u8?c
 ID Live Sport 2	00`a05rcti-sportstar2/sa_hls/rcti-sportstar2.m3u8?c
 ID Moji	https://l.0/MOJIOChannel/mpd/MOJIOChannel.mpd``052861ebedab473089d0e7480d0c5b63:4d51aa0304af98c449fdec1548a199f9
