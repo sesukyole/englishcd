@@ -2,7 +2,7 @@
 Sports Channels on Ⓘc2 and Ⓦb3 Wow!	^-
 {s} Ⓘc2 SportsTV	^^s2
 {h} Ⓦb3 Wow Sports!	^^hb3
-{s} Ⓗa0 Live Sports Events	^-
+{s} Ⓗa0 Live Sports Events<hr>	^-
 19:30 Futsal: Portugal x Panama	^-
 21:50 Futsal: Tajikistan x Morocco	^-
 02:15 Estrela x Boavista	^-
@@ -73,10 +73,6 @@ Live Sports BR 6	`0i3`02bra/br6.php
 Live Sports BR 7	`0i3`02bra/br7.php
 Live Sports BR 8	`0i3`02bra/br8.php
 PT Benefica	`0i3`02pt/btv.php
-🆔 Channels: Ⓜa1, Ⓧa2 & Ⓞb0	^-
-{s} Ⓜa1 🤹Multi 🆔	^^sa1
-{s} Ⓧa2 🤺eXtra 🆔	^^sa2
-{h} Ⓞb0 Okay 🆔	^^hb0
 15:30 Bali United x PSS Sleman	^-
 Football / Soccer A	`0https://l.3/indonesian-liga-1-4029494/bali-united-vs-pss-sleman.html
 19:00 Persija Jakarta x Dewa United FC	^-
@@ -87,14 +83,6 @@ Football / Soccer C	`0https://l.3/afc-champions-league-elite-4045877/al-shorta-v
 Football / Soccer D	`0https://l.3/afc-champions-league-elite-4041836/al-ahli-sfc-vs-persepolis.html
 01:45 Lazio x Hellas Verona FC	^-
 Football / Soccer E	`0https://l.3/italian-serie-a-3993972/lazio-vs-hellas-verona.html
-Movies Channels Multi Sub +Indo	^-
-{s} Ⓢc0 Movies Film	^^s0
-{h} *12 Movies Film VOD 1	^^h12
-{h} *13 Movies Film VOD 2 Mobile	^^h13
-{h} * Action Movies Film VOD	^^hhttps://raw.githubusercontent.com/Justryuz/jtv/main/actionvod.m3u
-{h} Ⓨ4 Movies Film 1	^^h4
-{h} Ⓩ5 Movies Film 2	^^h5
-{h} Ⓣ6 Movies Film 3	^^h6
 TyC Sports A	https://d320m3arb2wo8b.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8
 TyC Sports B	https://dj8bzwveg7go9.cloudfront.net/out/v1/19321d887c274b58a4f62fe0f6e2151b/index.m3u8
 TyC Sports C	https://d1xm2jznwi5xzj.cloudfront.net/out/v1/1bcd1ee954894463b1793597891a25b6/index.m3u8
@@ -105,19 +93,15 @@ TyC Sports G	https://d3v9hc3dccxi3a.cloudfront.net/out/v1/bccdd4d97f434c63ab2f67
 TyC Sports H	https://dbjn2fo8vpiph.cloudfront.net/out/v1/4c8dc641a91448439388e41118924965/index.m3u8
 TyC Sports I	https://d1scuk1wvkchtc.cloudfront.net/out/v1/19321d887c274b58a4f62fe0f6e2151b/index.m3u8
 TyC Sports J	https://d2scohpz55y5r5.cloudfront.net/out/v1/c43ac17254584daa9781eaaeea1a085d/index.m3u8
-Football / Kora 1 A	https://a1.l.2/0/stream.m3u8
-Football / Kora 1 B	https://a1.l.2/1/stream.m3u8
-Football / Kora 2 A	https://a2.l.2/0/stream.m3u8
-Football / Kora 2 B	https://a2.l.2/1/stream.m3u8
-Football / Kora 3 A	https://a3.l.2/0/stream.m3u8
-Football / Kora 3 B	https://a3.l.2/1/stream.m3u8
-Football / Kora 4 A	https://a4.l.2/0/stream.m3u8
-Football / Kora 4 B	https://a4.l.2/1/stream.m3u8
-Football / Kora 5 A	https://a5.l.2/0/stream.m3u8
-Football / Kora 5 B	https://a5.l.2/1/stream.m3u8
-Football / Kora 6 A	https://a6.l.2/0/stream.m3u8
-Football / Kora 6 B	https://a6.l.2/1/stream.m3u8
-Football / Kora 7 A	https://a7.l.2/0/stream.m3u8
-Football / Kora 7 B	https://a7.l.2/1/stream.m3u8
-Football / Kora 8 A	https://a8.l.2/0/stream.m3u8
-Football / Kora 8 B	https://a8.l.2/1/stream.m3u8
+🆔 Channels: Ⓜa1, Ⓧa2 & Ⓞb0	^-
+{s} Ⓜa1 🤹Multi 🆔	^^sa1
+{s} Ⓧa2 🤺eXtra 🆔	^^sa2
+{h} Ⓞb0 Okay 🆔	^^hb0
+Movies Channels Multi Sub +Indo	^-
+{s} Ⓢc0 Movies Film	^^s0
+{h} *12 Movies Film VOD 1	^^h12
+{h} *13 Movies Film VOD 2 Mobile	^^h13
+{h} * Action Movies Film VOD	^^hhttps://raw.githubusercontent.com/Justryuz/jtv/main/actionvod.m3u
+{h} Ⓨ4 Movies Film 1	^^h4
+{h} Ⓩ5 Movies Film 2	^^h5
+{h} Ⓣ6 Movies Film 3	^^h6
