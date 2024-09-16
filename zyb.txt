@@ -8,6 +8,60 @@
 {h} Ⓨ Movies Film 1 Sub Indo	^^h4
 {h} Ⓩ Movies Film 2 Sub Indo	^^h5
 {h} Ⓣ Movies Film 3 Sub Indo	^^h6
+Football / Kora 1 A	https://a1.l.2/0/stream.m3u8
+Football / Kora 1 B	https://a1.l.2/1/stream.m3u8
+Football / Kora 2 A	https://a2.l.2/0/stream.m3u8
+Football / Kora 2 B	https://a2.l.2/1/stream.m3u8
+Football / Kora 3 A	https://a3.l.2/0/stream.m3u8
+Football / Kora 3 B	https://a3.l.2/1/stream.m3u8
+Football / Kora 4 A	https://a4.l.2/0/stream.m3u8
+Football / Kora 4 B	https://a4.l.2/1/stream.m3u8
+Football / Kora 5 A	https://a5.l.2/0/stream.m3u8
+Football / Kora 5 B	https://a5.l.2/1/stream.m3u8
+Football / Kora 6 A	https://a6.l.2/0/stream.m3u8
+Football / Kora 6 B	https://a6.l.2/1/stream.m3u8
+Football / Kora 7 A	https://a7.l.2/0/stream.m3u8
+Football / Kora 7 B	https://a7.l.2/1/stream.m3u8
+Football / Kora 8 A	https://a8.l.2/0/stream.m3u8
+Football / Kora 8 B	https://a8.l.2/1/stream.m3u8
+TyC Sports A	https://d320m3arb2wo8b.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8
+TyC Sports B	https://dj8bzwveg7go9.cloudfront.net/out/v1/19321d887c274b58a4f62fe0f6e2151b/index.m3u8
+TyC Sports C	https://d1xm2jznwi5xzj.cloudfront.net/out/v1/1bcd1ee954894463b1793597891a25b6/index.m3u8
+TyC Sports D	https://dj8bzwveg7go9.cloudfront.net/out/v1/366fc52554ae42c58465ea4b278eac0c/index.m3u8
+TyC Sports E	https://d107yb993altze.cloudfront.net/out/v1/772e0b0193134726ad84693b7baca6c6/index.m3u8
+TyC Sports F	https://d21no6qan3ol31.cloudfront.net/out/v1/a2f25f61e9d44701aa4e813ac5efc4a4/index.m3u8
+TyC Sports G	https://d3v9hc3dccxi3a.cloudfront.net/out/v1/bccdd4d97f434c63ab2f675e5145758f/index.m3u8
+TyC Sports H	https://dbjn2fo8vpiph.cloudfront.net/out/v1/4c8dc641a91448439388e41118924965/index.m3u8
+TyC Sports I	https://d1scuk1wvkchtc.cloudfront.net/out/v1/19321d887c274b58a4f62fe0f6e2151b/index.m3u8
+TyC Sports J	https://d2scohpz55y5r5.cloudfront.net/out/v1/c43ac17254584daa9781eaaeea1a085d/index.m3u8
+Sport TV 1 B	`0i3`02pt/sporttv1.php
+Sport TV 2 B	`0i3`02pt/sporttv2.php
+Sport TV 3 B	`0i3`02pt/sporttv3.php
+Sport TV 4 B	`0i3`02pt/sporttv4.php
+Sport TV 5 B	`0i3`02pt/sporttv5.php
+PT Eleven Sports 1	`0i3`02pt/eleven1.php
+PT Eleven Sports 2	`0i3`02pt/eleven2.php
+PT Eleven Sports 3	`0i3`02pt/eleven3.php
+Live Sports HD 1	`0i3`02hd/hd1.php
+Live Sports HD 2	`0i3`02hd/hd2.php
+Live Sports HD 3	`0i3`02hd/hd3.php
+Live Sports HD 4	`0i3`02hd/hd4.php
+Live Sports HD 5	`0i3`02hd/hd5.php
+Live Sports HD 6	`0i3`02hd/hd6.php
+Live Sports HD 7	`0i3`02hd/hd7.php
+Live Sports HD 8	`0i3`02hd/hd8.php
+Live Sports HD 9	`0i3`02hd/hd9.php
+Live Sports HD 10	`0i3`02hd/hd10.php
+Live Sports HD 11	`0i3`02hd/hd11.php
+Live Sports BR 1	`0i3`02bra/br1.php
+Live Sports BR 2	`0i3`02bra/br2.php
+Live Sports BR 3	`0i3`02bra/br3.php
+Live Sports BR 4	`0i3`02bra/br4.php
+Live Sports BR 5	`0i3`02bra/br5.php
+Live Sports BR 6	`0i3`02bra/br6.php
+Live Sports BR 7	`0i3`02bra/br7.php
+Live Sports BR 8	`0i3`02bra/br8.php
+PT Benefica	`0i3`02pt/btv.php
 🆔 Channels: Ⓜa1, Ⓧa2 & Ⓞb0	^-
 {s} Ⓗa0 ⚽️Live Sports	^^sa0
 {s} Ⓜa1 🤹Multi 🆔	^^sa1
@@ -292,46 +346,28 @@ Relax	^^hk^relax.m3u
 {s} Ⓢ 0 Samsung	^^h10
 {s} Ⓟ 1 Pluto	^^h11
 <hr>Always use Chrome browser! ⚠️ Please Allow Popups and Disable Ad Blocker. ⚠️ Install Chrome Browser Extension: CORS Unblock, Allow CORS & Always Disable Content-Security-Policy! ⚠️ 🔒|Site settings | Privacy & security | Insecure content: Allow.👈 ⚠️ Settings | Privacy & security | Security | Always use secure connections: Upgrade navigations to HTTPS: Disable.👈<><hr>Always use Chrome browser! ⚠️ Please Allow Popups and Disable Ad Blocker. ⚠️ Settings | Privacy & security | Always use secure connections: Upgrade navigations to HTTPS: Disable.👈	^-
-a1a	https://a1.l.2/0/stream.m3u8
-a1b	https://a1.l.2/1/stream.m3u8
-a2a	https://a2.l.2/0/stream.m3u8
-a2b	https://a2.l.2/1/stream.m3u8
-a3a	https://a3.l.2/0/stream.m3u8
-a3b	https://a3.l.2/1/stream.m3u8
-a4a	https://a4.l.2/0/stream.m3u8
-a4b	https://a4.l.2/1/stream.m3u8
-a5a	https://a5.l.2/0/stream.m3u8
-a5b	https://a5.l.2/1/stream.m3u8
-a6a	https://a6.l.2/0/stream.m3u8
-a6b	https://a6.l.2/1/stream.m3u8
-hd1	`0https://l.1/ch/hd1?id=hd1
-hd2	`0https://l.1/ch/hd2?id=hd2
-hd3	`0https://l.1/ch/hd3?id=hd3
-hd4	`0https://l.1/ch/hd4?id=hd4
-hd5	`0https://l.1/ch/hd5?id=hd5
-hd6	`0https://l.1/ch/hd6?id=hd6
-hd7	`0https://l.1/ch/hd7?id=hd7
-hd8	`0https://l.1/ch/hd8?id=hd8
-hd9	`0https://l.1/ch/hd9?id=hd9
-hd10	`0https://l.1/ch/hd10?id=hd10
-hd11	`0https://l.1/ch/hd11?id=hd11
-br1	`0https://l.1/ch/br1?id=br1
-br2	`0https://l.1/ch/br2?id=br2
-br3	`0https://l.1/ch/br3?id=br3
-br4	`0https://l.1/ch/br4?id=br4
-br5	`0https://l.1/ch/br5?id=br5
-br6	`0https://l.1/ch/br6?id=br6
-br7	`0https://l.1/ch/br7?id=br7
-br8	`0https://l.1/ch/br8?id=br8
-sp1	`0https://l.1/ch/sp1?id=sp1
-sp2	`0https://l.1/ch/sp2?id=sp2
-sp3	`0https://l.1/ch/sp3?id=sp3
-sp4	`0https://l.1/ch/sp4?id=sp4
-sp5	`0https://l.1/ch/sp5?id=sp5
-el1	`0https://l.1/ch/el1?id=el1
-el2	`0https://l.1/ch/el2?id=el3
-!el3	`0https://l.1/ch/el3?id=el3
-!el4	`0https://l.1/ch/el4?id=el4
+Action Movies A	i3`064332?zyz
+Action Movies B	i3`066140589?zyz
+Action Movies C	i3`062516864?zyz
+Action Movies D	i3`068770422?zyz
+Action Movies E	i3`06218859?zyz
+Action Movies F	i3`06747764?zyz
+Action Movies G	i3`0636337?zyz
+Action Movies H	i3`068814650?zyz
+Action Movies I	i3`0620415?zyz
+Action Movies J	i3`06263824?zyz
+Action Movies K	i3`06323876?zyz
+Action Movies L	i3`062793084?zyz
+Action Movies M	i3`066566671?zyz
+Action Movies N	i3`061226741?zyz
+Action Movies O	i3`064246519?zyz
+Action Movies P	i3`06252802?zyz
+{h} * SamsungTV	^^hhttps://raw.githubusercontent.com/khalissuratmen/MKS-IPTV/main/SAMSUNGTV
+{h} * PlutoTV	^^hhttps://raw.githubusercontent.com/khalissuratmen/MKS-IPTV/main/PlutoTV
+{h} * PlexTV	^^hhttps://raw.githubusercontent.com/khalissuratmen/MKS-IPTV/main/PLEXTV
+{h} * MyLocal	^^hhttps://raw.githubusercontent.com/khalissuratmen/MKS-IPTV/main/MYLOCAL
+{h} * MyLocal	^^hhttps://raw.githubusercontent.com/Justryuz/TV/main/JTV
+tv.burhansyam.com	^^hhttps://tv.burhansyam.com/
 b1	`0https://l.1/b/b1?id=b1
 b2	`0https://l.1/b/b2?id=b2
 b3	`0https://l.1/b/b3?id=b3
@@ -379,7 +415,6 @@ tnt1	`0https://l.1/tnt/tnt1?id=sp5
 tnt2	`0https://l.1/tnt/tnt2?id=sp5
 tnt3	`0https://l.1/tnt/tnt3?id=sp5
 tnt4	`0https://l.1/tnt/tnt4?id=sp5
-indo1	`0https://artikelkesehatan-kita.blogspot.com/p/indo1.html?id=indo1
 daznf1	`0https://l.1/tv/daznf1?id=daznf1
 daznes1	`0https://l.1/tv/daznes1?id=daznes1
 daznes2	`0https://l.1/tv/daznes2?id=daznes2
@@ -421,41 +456,3 @@ bein4	`0https://l.1/tv/bein4?id=bein4
 tv2no	`0https://l.1/tv/tv2no?id=tv2no
 skypl	`0https://l.1/tv/skypl?id=skypl
 js1	`0https://l.1/hd1?id=js1
-Action Movies A	i3`064332?zyz
-Action Movies B	i3`066140589?zyz
-Action Movies C	i3`062516864?zyz
-Action Movies D	i3`068770422?zyz
-Action Movies E	i3`06218859?zyz
-Action Movies F	i3`06747764?zyz
-Action Movies G	i3`0636337?zyz
-Action Movies H	i3`068814650?zyz
-Action Movies I	i3`0620415?zyz
-Action Movies J	i3`06263824?zyz
-Action Movies K	i3`06323876?zyz
-Action Movies L	i3`062793084?zyz
-Action Movies M	i3`066566671?zyz
-Action Movies N	i3`061226741?zyz
-Action Movies O	i3`064246519?zyz
-Action Movies P	i3`06252802?zyz
-{h} * SamsungTV	^^hhttps://raw.githubusercontent.com/khalissuratmen/MKS-IPTV/main/SAMSUNGTV
-{h} * PlutoTV	^^hhttps://raw.githubusercontent.com/khalissuratmen/MKS-IPTV/main/PlutoTV
-{h} * PlexTV	^^hhttps://raw.githubusercontent.com/khalissuratmen/MKS-IPTV/main/PLEXTV
-{h} * MyLocal	^^hhttps://raw.githubusercontent.com/khalissuratmen/MKS-IPTV/main/MYLOCAL
-{h} * MyLocal	^^hhttps://raw.githubusercontent.com/Justryuz/TV/main/JTV
-tv.burhansyam.com	^^hhttps://tv.burhansyam.com/
-Football / Kora 1 A	https://a1.l.2/0/stream.m3u8
-Football / Kora 1 B	https://a1.l.2/1/stream.m3u8
-Football / Kora 2 A	https://a2.l.2/0/stream.m3u8
-Football / Kora 2 B	https://a2.l.2/1/stream.m3u8
-Football / Kora 3 A	https://a3.l.2/0/stream.m3u8
-Football / Kora 3 B	https://a3.l.2/1/stream.m3u8
-Football / Kora 4 A	https://a4.l.2/0/stream.m3u8
-Football / Kora 4 B	https://a4.l.2/1/stream.m3u8
-Football / Kora 5 A	https://a5.l.2/0/stream.m3u8
-Football / Kora 5 B	https://a5.l.2/1/stream.m3u8
-Football / Kora 6 A	https://a6.l.2/0/stream.m3u8
-Football / Kora 6 B	https://a6.l.2/1/stream.m3u8
-Football / Kora 7 A	https://a7.l.2/0/stream.m3u8
-Football / Kora 7 B	https://a7.l.2/1/stream.m3u8
-Football / Kora 8 A	https://a8.l.2/0/stream.m3u8
-Football / Kora 8 B	https://a8.l.2/1/stream.m3u8

@@ -1,73 +1,106 @@
 {s} Ⓗa0 Sports	^-
-SportDigital Fussball	https://svc40.main.vr.t-online.de/LCID3221228350.originalserver.prod.sngtv.t-online.de/PLTV/88888888/224/3221228350/3221228350.mpd``64fdf75a9fc7fa2f0dc197ecdfd07eba:44094f8dd29164989b9daecb9aabf4f2
-Premier League	https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd``002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
+^=#26:62 AAA x ZZZ	^-
 ID PSJ TV	01`01fplay.accolamedia.id/accola/psj.stream/playlist.m3u8
-17:00 Marítimo x Alverca	^-
-21:30 Porto x Farense	^-
-00:00 Trabzonspor x Beşiktaş	^-
-02:30 Sporting Braga x Vitória Guimarães	^-
-SportTV1 [Portugal]	`4https://topembed.pw/channel/SportTV1[Portugal]
-Sport TV 1 A	`0i3`00SPT1
-17:00 Mafra x Tondela	^-
-21:30 Leixões x Vizela	^-
-00:00 Estoril x Nacional	^-
-SportTV2 [Portugal]	`4https://topembed.pw/channel/SportTV2[Portugal]
-Sport TV 2 A	`0i3`00SPT2
-17:30 Genoa x Roma	^-
-20:00 Atalanta x Fiorentina	^-
-23:00 Cagliari x Napoli	^-
-01:45 Monza x Internazionale	^-
-SportTV3 [Portugal]	`4https://topembed.pw/channel/SportTV3[Portugal]
-Sport TV 3 A	`0i3`00SPT3
-17:15 F1: Azerbaijan Grand Prix	^-
-SportTV4 [Portugal]	`4https://topembed.pw/channel/SportTV4[Portugal]
-Sport TV 4 A	`0i3`00SPT4
-18:00 Dundee United x Rangers	^-
-20:00 Rennes x Montpellier	^-
-01:45 Lens x Olympique Lyonnais	^-
-SportTV5 [Portugal]	`4https://topembed.pw/channel/SportTV5[Portugal]
-Sport TV 5 A	`0i3`00SPT5
-20:00 Tottenham Hotspur x Arsenal	^-
-22:30 Wolverhampton W. x Newcastle United	^-
-02:00 Atlético Madrid x Valencia	^-
-ElevenSports1 [Portugal]	`4https://topembed.pw/channel/ElevenSports1[Portugal]
-19:00 Celta de Vigo x Real Valladolid	^-
-21:15 Girona x Barcelona	^-
-23:30 Las Palmas x Athletic Club	^-
-ElevenSports2 [Portugal]	`4https://topembed.pw/channel/ElevenSports2[Portugal]
-18:30 Hertha BSC x Fortuna Düsseldorf	^-
-20:30 Augsburg x St. Pauli	^-
-22:30 Mainz 05 x Werder Bremen	^-
-ElevenSports3 [Portugal]	`4https://topembed.pw/channel/ElevenSports3[Portugal]
+Premier League	https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd``002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
+SportDigital Fussball	https://svc40.main.vr.t-online.de/LCID3221228350.originalserver.prod.sngtv.t-online.de/PLTV/88888888/224/3221228350/3221228350.mpd``64fdf75a9fc7fa2f0dc197ecdfd07eba:44094f8dd29164989b9daecb9aabf4f2
 10/02/25 19:00 Arema FC x PSM Makassar	^-
 Football / Soccer A	`0https://l.1/b/b1?id=b1&type=m
-18:30 Genoa x AS Roma	^-
+^=#26:62 AAA x ZZZ	^-
 Football / Soccer B	`0https://l.1/b/b2?id=b2&type=m
-19:00 Persib Bandung x PSIS Semarang	^-
+^=#26:62 AAA x ZZZ	^-
 Football / Soccer C	`0https://l.1/b/b3?id=b3
-20:00 Atalanta BC x ACF Fiorentina	^-
+^=#26:62 AAA x ZZZ	^-
 Football / Soccer D	`0https://l.1/b/b4?id=b4
-20:00 Tottenham Hotspur x Arsenal	^-
+^=#26:62 AAA x ZZZ	^-
 Football / Soccer E	`0https://l.1/b/b5?id=b5
-21:00 Girona FC x FC Barcelona	^-
+^=#26:62 AAA x ZZZ	^-
 Football / Soccer F	`0https://l.1/b/b6?id=b6
-22:30 Wolverhampton W. x Newcastle United	^-
+^=#26:62 AAA x ZZZ	^-
 Football / Soccer G	`0https://l.1/b/b7?id=b7
-23:00 Cagliari x Napoli	^-
+^=#26:62 AAA x ZZZ	^-
 Football / Soccer H	`0https://l.1/b/b8?id=b8
-01:45 Monza x Inter Milan	^-
+^=#26:62 AAA x ZZZ	^-
 Football / Soccer I	`0https://l.1/b/b9?id=b9
-02:00 Atletico Madrid x Valencia CF	^-
+^=#26:62 AAA x ZZZ	^-
 Football / Soccer J	`0https://l.1/b/b10?id=b10
-Milan v Venezia . 01:45	^-
+^=#26:62 AAA x ZZZ	^-
 Football / Soccer K	`0https://l.1/b/b11?id=b11
-Real Sociedad v Real Madrid . 02:00	^-
+^=#26:62 AAA x ZZZ	^-
 Football / Soccer L	`0https://l.1/b/b12?id=b12
-AFC Bournemouth v Chelsea . 02:00	^-
+^=#26:62 AAA x ZZZ	^-
 Football / Soccer M	`0https://l.1/b/b13?id=b13
-Paris Saint-Germain v Stade Brestois 29 . 02:00	^-
+^=#26:62 AAA x ZZZ	^-
 Football / Soccer N	`0https://l.1/b/b14?id=b14
-18:30 Genoa x AS Roma	^-
+19:30 Futsal: Portugal x Panama	^-
+21:50 Futsal: Tajikistan x Morocco	^-
+02:15 Estrela x Boavista	^-
+Sport TV 1 A	`0i3`00SPT1
+Sport TV 1 B	`0i3`02pt/sporttv1.php
+SportTV1 [Portugal]	`4https://topembed.pw/channel/SportTV1[Portugal]
+23:30 Parma x Udinese	^-
+01:45 Lazio x Hellas Verona	^-
+Sport TV 2 A	`0i3`00SPT2
+Sport TV 2 B	`0i3`02pt/sporttv2.php
+SportTV2 [Portugal]	`4https://topembed.pw/channel/SportTV2[Portugal]
+19:20 Futsal: Iran x Venezuela	^-
+22:00 Futsal: Guatemala x France	^-
+02:00 Birmingham City x Wrexham	^-
+Sport TV 3 A	`0i3`00SPT3
+Sport TV 3 B	`0i3`02pt/sporttv3.php
+SportTV3 [Portugal]	`4https://topembed.pw/channel/SportTV3[Portugal]
+Sport TV 4 A	`0i3`00SPT4
+Sport TV 4 B	`0i3`02pt/sporttv4.php
+SportTV4 [Portugal]	`4https://topembed.pw/channel/SportTV4[Portugal]
+Sport TV 5 A	`0i3`00SPT5
+Sport TV 5 B	`0i3`02pt/sporttv5.php
+SportTV5 [Portugal]	`4https://topembed.pw/channel/SportTV5[Portugal]
+02:00 Rayo Vallecano x Osasuna	^-
+PT Eleven Sports 1	`0i3`02pt/eleven1.php
+ElevenSports1 [Portugal]	`4https://topembed.pw/channel/ElevenSports1[Portugal]
+PT Eleven Sports 2	`0i3`02pt/eleven2.php
+ElevenSports2 [Portugal]	`4https://topembed.pw/channel/ElevenSports2[Portugal]
+PT Eleven Sports 3	`0i3`02pt/eleven3.php
+ElevenSports3 [Portugal]	`4https://topembed.pw/channel/ElevenSports3[Portugal]
+02:00 Birmingham City x Wrexham	^-
+07:15 NFL: Atlanta Falcons @ Philadelphia Eagles	^-
+Live Sports HD 1	`0i3`02hd/hd1.php
+02:00 Rayo Vallecano x Osasuna	^-
+Live Sports HD 2	`0i3`02hd/hd2.php
+01:00 Al Ahli x Persepolis	^-
+Live Sports HD 3	`0i3`02hd/hd3.php
+01:45 Grenoble Foot 38 x Caen	^-
+Live Sports HD 4	`0i3`02hd/hd4.php
+23:30 Parma x Udinese	^-
+01:45 Lazio x Hellas Verona	^-
+Live Sports HD 5	`0i3`02hd/hd5.php
+02:00 Rayo Vallecano x Osasuna	^-
+Live Sports HD 6	`0i3`02hd/hd6.php
+23:30 Parma x Udinese	^-
+Live Sports HD 7	`0i3`02hd/hd7.php
+01:45 Lazio x Hellas Verona	^-
+Live Sports HD 8	`0i3`02hd/hd8.php
+23:00 Al Ain x Al Sadd	^-
+06:30 Alianza Petrolera x Atlético Nacional	^-
+Live Sports HD 9	`0i3`02hd/hd9.php
+00:00 Antalyaspor x Adana Demirspor	^-
+Live Sports HD 10	`0i3`02hd/hd10.php
+23:00 Al Shorta x Al Nassr	^-
+Live Sports HD 11	`0i3`02hd/hd11.php
+06:00 Internacional x Cuiabá	^-
+Live Sports BR 1	`0i3`02bra/br1.php
+Live Sports BR 2	`0i3`02bra/br2.php
+01:45 Lazio x Hellas Verona	^-
+07:15 NFL: Atlanta Falcons @ Philadelphia Eagles	^-
+Live Sports BR 3	`0i3`02bra/br3.php
+02:00 Birmingham City x Wrexham	^-
+Live Sports BR 4	`0i3`02bra/br4.php
+Live Sports BR 5	`0i3`02bra/br5.php
+23:00 Al Shorta x Al Nassr	^-
+01:00 Al Ahli x Persepolis	^-
+Live Sports BR 6	`0i3`02bra/br6.php
+Live Sports BR 7	`0i3`02bra/br7.php
+Live Sports BR 8	`0i3`02bra/br8.php
+PT Benefica	`0i3`02pt/btv.php
 Football / Kora 1 A	https://a1.l.2/0/stream.m3u8
 Football / Kora 1 B	https://a1.l.2/1/stream.m3u8
 Football / Kora 2 A	https://a2.l.2/0/stream.m3u8
@@ -971,31 +1004,3 @@ TYC Sports	`1i3`05tyc_sports
 Win Sports +	`1i3`05winplus
 Win Sports	`1i3`05winsports
 # # # Offline # # #	^-
-Sport TV 1 B	`0i3`02pt/sporttv1.php
-Sport TV 2 B	`0i3`02pt/sporttv2.php
-Sport TV 3 B	`0i3`02pt/sporttv3.php
-Sport TV 4 B	`0i3`02pt/sporttv4.php
-Sport TV 5 B	`0i3`02pt/sporttv5.php
-Live Sports HD 1	`0i3`02hd/hd1.php
-Live Sports HD 2	`0i3`02hd/hd2.php
-Live Sports HD 3	`0i3`02hd/hd3.php
-Live Sports HD 4	`0i3`02hd/hd4.php
-Live Sports HD 5	`0i3`02hd/hd5.php
-Live Sports HD 6	`0i3`02hd/hd6.php
-Live Sports HD 7	`0i3`02hd/hd7.php
-Live Sports HD 8	`0i3`02hd/hd8.php
-Live Sports HD 9	`0i3`02hd/hd9.php
-Live Sports HD 10	`0i3`02hd/hd10.php
-Live Sports HD 11	`0i3`02hd/hd11.php
-PT Eleven Sports 1	`0i3`02pt/eleven1.php
-PT Eleven Sports 2	`0i3`02pt/eleven2.php
-PT Eleven Sports 3	`0i3`02pt/eleven3.php
-Live Sports BR 1	`0i3`02bra/br1.php
-Live Sports BR 2	`0i3`02bra/br2.php
-Live Sports BR 3	`0i3`02bra/br3.php
-Live Sports BR 4	`0i3`02bra/br4.php
-Live Sports BR 5	`0i3`02bra/br5.php
-Live Sports BR 6	`0i3`02bra/br6.php
-Live Sports BR 7	`0i3`02bra/br7.php
-Live Sports BR 8	`0i3`02bra/br8.php
-PT Benefica	`0i3`02pt/btv.php
