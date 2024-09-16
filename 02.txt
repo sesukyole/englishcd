@@ -1208,3 +1208,14 @@ TV5-Monde-Asie.id	01`02aTV5/sa_dash_vmx/TV5.mpd``1b411a92f60bd9751d9637e849d3a63
 TV9.id	01`02aTV9/sa_dash_vmx/TV9.mpd``ce1a653fafa780cd4a8747c08872e3ab:d83bcf72b3f5a3d09674602b06caaa71
 TVMuhammadiyah.id	01`02aTVMuhammadiyah/sa_dash_vmx/TVMuhammadiyah.mpd``2fa7625e3470d5e9429f64150614f9a5:c495ad0e82e2266fd207934327c71ce3
 ZooMoo.id	01`02aBoomerang/sa_dash_vmx/Boomerang.mpd``5ff6154f28d6950063f9f5b4db7be009:93cac38fd15124acce5b658896df0a25
+🆔 Channels: Ⓜa1, Ⓧa2 & Ⓞb0	^-
+{s} Ⓜa1 🤹Multi 🆔	^^sa1
+{h} Ⓞb0 Okay 🆔	^^hb0
+Movies Channels Multi Sub +Indo	^-
+{s} Ⓢc0 Movies Film	^^s0
+{h} *12 Movies Film VOD 1	^^h12
+{h} *13 Movies Film VOD 2 Mobile	^^h13
+{h} * Action Movies Film VOD	^^hhttps://raw.githubusercontent.com/Justryuz/jtv/main/actionvod.m3u
+{h} Ⓨ4 Movies Film 1	^^h4
+{h} Ⓩ5 Movies Film 2	^^h5
+{h} Ⓣ6 Movies Film 3	^^h6

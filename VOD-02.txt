@@ -1,4 +1,4 @@
-{h} Ⓩ Movies Film 2 Sub Indo	^-
+{h} Ⓩ5 Movies Film 2 Multi Sub +Indo	^-
 Tarzan (1999)	http://144.217.70.79/VODS-M/1080P/Tarzan%201999.mkv
 BARBIE LAS 3 MOSQUETERAS	http://archive.org/download/15902139288862477066218214529000/2.mp4
 BARBIE UNA AVENTURA DE SIRENAS	http://archive.org/download/15902139288862477066218214529000/3.mp4
@@ -1236,3 +1236,10 @@ American Girl	https://www.googleapis.com/drive/v3/files/1ZlkZtLFSNdh4eKyMgLcbEI_
 Phone Bhoot	https://www.googleapis.com/drive/v3/files/1ZpAU-7paPoA72xhjir8_Ndi1VK3ua8D0?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 Deep in the Forest	https://www.googleapis.com/drive/v3/files/1zrT9vWRBmZprDkLe_y0aV5zwjkTmGOCb?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 Bengkel Iblis	https://www.googleapis.com/drive/v3/files/1ZVgqrZVwgifraISZZPpXZWvjGv4nxrFf?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+Movies Channels Multi Sub +Indo	^-
+{s} Ⓢc0 Movies Film	^^s0
+{h} *12 Movies Film VOD 1	^^h12
+{h} *13 Movies Film VOD 2 Mobile	^^h13
+{h} * Action Movies Film VOD	^^hhttps://raw.githubusercontent.com/Justryuz/jtv/main/actionvod.m3u
+{h} Ⓨ4 Movies Film 1	^^h4
+{h} Ⓣ6 Movies Film 3	^^h6

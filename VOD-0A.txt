@@ -1,4 +1,4 @@
-{h} *12 Movies/Film VOD 1 Sub Indo	^-
+{h} *12 Movies/Film VOD 1 Multi Sub +Indo	^-
 366 (2022)	01`a00movie01`b0046407.mp4
 #LIKE	01`a00movie01`b0038450.mkv
 #MUTE (2023)	01`a00movie01`b0050518.mp4
@@ -2949,3 +2949,10 @@ Zhang Sanfeng 2: Tai Chi Master (2020)	01`a00movie01`b0038967.mkv
 Zhu Bajie: The Spring Years (2021)	01`a00movie01`b0040782.mkv
 Zom 100: Bucket List of the Dead (2023)	01`a00movie01`b0050677.mkv
 Zombae (2022)	01`a00movie01`b0048274.mp4
+Movies Channels Multi Sub +Indo	^-
+{s} Ⓢc0 Movies Film	^^s0
+{h} *13 Movies Film VOD 2 Mobile	^^h13
+{h} * Action Movies Film VOD	^^hhttps://raw.githubusercontent.com/Justryuz/jtv/main/actionvod.m3u
+{h} Ⓨ4 Movies Film 1	^^h4
+{h} Ⓩ5 Movies Film 2	^^h5
+{h} Ⓣ6 Movies Film 3	^^h6

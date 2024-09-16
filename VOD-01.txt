@@ -1,4 +1,4 @@
-{h} Ⓨ Movies Film 1 Sub Indo	^-
+{h} Ⓨ4 Movies Film 1 Multi Sub +Indo	^-
 Sherlock Holmes A game of Shadow (2011)	http://202.191.109.134/video/videomocha_upload/mp4/20210524/845ac1d40d314cf.mp4
 Sundooq.Al.Dunya.2020.Sub_arab	http://62.210.209.138:41000/movie/v52/v43/5880.mp4
 Ava.2020.BluRay.Sub_arab	http://62.210.209.138:41000/movie/v52/v43/5881.mp4
@@ -1648,3 +1648,10 @@ John Wick: Chapter 3 	https://www.googleapis.com/drive/v3/files/1jSYEVdC3-E4RX5y
 Mana Bisa Tahan	https://www.googleapis.com/drive/v3/files/1n9ZYDxtLdRVFEth3P_opwEb5pU8vkoGU?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 Rencana Luput	https://www.googleapis.com/drive/v3/files/1wQcSihpiOoZdE3igDqzoIS0sZ98VNvum?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 Pencet Sana Pencet Sini	https://www.googleapis.com/drive/v3/files/1z_nqnmq7JGcAmXTIyYmeknS26CPIBlOd?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+Movies Channels Multi Sub +Indo	^-
+{s} Ⓢc0 Movies Film	^^s0
+{h} *12 Movies Film VOD 1	^^h12
+{h} *13 Movies Film VOD 2 Mobile	^^h13
+{h} * Action Movies Film VOD	^^hhttps://raw.githubusercontent.com/Justryuz/jtv/main/actionvod.m3u
+{h} Ⓩ5 Movies Film 2	^^h5
+{h} Ⓣ6 Movies Film 3	^^h6

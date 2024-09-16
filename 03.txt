@@ -8141,3 +8141,14 @@ SuperSport ACTION	01`03ga1Waq4OmbuZOz-JvReko94/.m3u8?7
 FOX 504	01`03gdAFp5RuECxf2lWbtdZRgbI/.m3u8?7
 FOX 502	01`03gdNzsFEor3ugbEw7TKELVP8/.m3u8?7
 ID Indosiar 3	http://extraott.com/live/7921751389/6097373662/45098.m3u8
+🆔 Channels: Ⓜa1, Ⓧa2 & Ⓞb0	^-
+{s} Ⓜa1 🤹Multi 🆔	^^sa1
+{s} Ⓧa2 🤺eXtra 🆔	^^sa2
+Movies Channels Multi Sub +Indo	^-
+{s} Ⓢc0 Movies Film	^^s0
+{h} *12 Movies Film VOD 1	^^h12
+{h} *13 Movies Film VOD 2 Mobile	^^h13
+{h} * Action Movies Film VOD	^^hhttps://raw.githubusercontent.com/Justryuz/jtv/main/actionvod.m3u
+{h} Ⓨ4 Movies Film 1	^^h4
+{h} Ⓩ5 Movies Film 2	^^h5
+{h} Ⓣ6 Movies Film 3	^^h6

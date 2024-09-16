@@ -1,15 +1,5 @@
 ^=#26:62 AAA x ZZZ	^-
 {s} Ⓗa0 Live Sports Events	^-
-15:30 Bali United x PSS Sleman	^-
-Football / Soccer A	`0https://l.3/indonesian-liga-1-4029494/bali-united-vs-pss-sleman.html
-19:00 Persija Jakarta x Dewa United FC	^-
-Football / Soccer B	`0https://l.3/indonesian-liga-1-4029464/persija-jakarta-vs-dewa-united-fc.html
-23:00 Al Shorta x Al-Nasr	^-
-Football / Soccer C	`0https://l.3/afc-champions-league-elite-4045877/al-shorta-vs-al-nassr-fc.html
-01:00 Al-Ahli Saudi x Persepolis	^-
-Football / Soccer D	`0https://l.3/afc-champions-league-elite-4041836/al-ahli-sfc-vs-persepolis.html
-01:45 Lazio x Hellas Verona FC	^-
-Football / Soccer E	`0https://l.3/italian-serie-a-3993972/lazio-vs-hellas-verona.html
 19:30 Futsal: Portugal x Panama	^-
 21:50 Futsal: Tajikistan x Morocco	^-
 02:15 Estrela x Boavista	^-
@@ -96,6 +86,16 @@ Football / Kora 7 A	https://a7.l.2/0/stream.m3u8
 Football / Kora 7 B	https://a7.l.2/1/stream.m3u8
 Football / Kora 8 A	https://a8.l.2/0/stream.m3u8
 Football / Kora 8 B	https://a8.l.2/1/stream.m3u8
+15:30 Bali United x PSS Sleman	^-
+Football / Soccer A	`0https://l.3/indonesian-liga-1-4029494/bali-united-vs-pss-sleman.html
+19:00 Persija Jakarta x Dewa United FC	^-
+Football / Soccer B	`0https://l.3/indonesian-liga-1-4029464/persija-jakarta-vs-dewa-united-fc.html
+23:00 Al Shorta x Al-Nasr	^-
+Football / Soccer C	`0https://l.3/afc-champions-league-elite-4045877/al-shorta-vs-al-nassr-fc.html
+01:00 Al-Ahli Saudi x Persepolis	^-
+Football / Soccer D	`0https://l.3/afc-champions-league-elite-4041836/al-ahli-sfc-vs-persepolis.html
+01:45 Lazio x Hellas Verona FC	^-
+Football / Soccer E	`0https://l.3/italian-serie-a-3993972/lazio-vs-hellas-verona.html
 TyC Sports A	https://d320m3arb2wo8b.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8
 TyC Sports B	https://dj8bzwveg7go9.cloudfront.net/out/v1/19321d887c274b58a4f62fe0f6e2151b/index.m3u8
 TyC Sports C	https://d1xm2jznwi5xzj.cloudfront.net/out/v1/1bcd1ee954894463b1793597891a25b6/index.m3u8
@@ -113,3 +113,11 @@ Sports Channels on Ⓘc2 and Ⓦb3 Wow!	^-
 {s} Ⓜa1 🤹Multi 🆔	^^sa1
 {s} Ⓧa2 🤺eXtra 🆔	^^sa2
 {h} Ⓞb0 Okay 🆔	^^hb0
+Movies Channels Multi Sub +Indo	^-
+{s} Ⓢc0 Movies Film	^^s0
+{h} *12 Movies Film VOD 1	^^h12
+{h} *13 Movies Film VOD 2 Mobile	^^h13
+{h} * Action Movies Film VOD	^^hhttps://raw.githubusercontent.com/Justryuz/jtv/main/actionvod.m3u
+{h} Ⓨ4 Movies Film 1	^^h4
+{h} Ⓩ5 Movies Film 2	^^h5
+{h} Ⓣ6 Movies Film 3	^^h6

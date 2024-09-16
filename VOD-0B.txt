@@ -1,4 +1,4 @@
-{h} *13 Movies/Film VOD 2 Sub Indo	^-
+{h} *13 Movies/Film VOD 2 Multi Sub +Indo	^-
 This Playlist is Only For Mobile Chrome	^-
 Late Night with the Devil (2024)	https://ZZA/xxx/late-night-with-the-devil-2024-webdl_X_8979fea7/21/480.m3u8
 Dune: Part Two (2024)	https://ZZA/xxx/dune-part-two-2024-webdl_X_1cf9d26c/21/480.m3u8
@@ -241,3 +241,10 @@ Saw X 2023	https://ZZA/xxx/saw-x-2023-bluray_X_0c5fa68e/18/480.m3u8
 Gods of the Deep 2023	https://ZZA/yyy/gods-of-the-deep-2024-webdl_X_f24a3fd3/20/480.m3u8
 Cyber Heist 2023 (HK)	https://ZZA/yyy/cyber-heist-2023-webdl_X_2392cc27/1000/480.m3u8
 The Brotherhood of Rebel 2023 (HK)	https://ZZA/yyy/the-brotherhood-of-rebel-2023-bluray_X_4f293819/1000/480.m3u8
+Movies Channels Multi Sub +Indo	^-
+{s} Ⓢc0 Movies Film	^^s0
+{h} *12 Movies Film VOD 1	^^h12
+{h} * Action Movies Film VOD	^^hhttps://raw.githubusercontent.com/Justryuz/jtv/main/actionvod.m3u
+{h} Ⓨ4 Movies Film 1	^^h4
+{h} Ⓩ5 Movies Film 2	^^h5
+{h} Ⓣ6 Movies Film 3	^^h6

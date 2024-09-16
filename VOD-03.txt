@@ -1,4 +1,4 @@
-{h} Ⓣ Movies Film 3 Sub Indo	^-
+{h} Ⓣ6 Movies Film 3 Multi Sub +Indo	^-
 The Big 4 เดอะ บิ๊ก โฟร์ (2022) NETFLIX	https://cdn9x.com/playlist/update_bguh9vvv.m3u8
 ใจฟู…สตอรี่ Happy Ending (2022)	https://cdn9x.com/playlist/update_h99t9sf2.m3u8
 Kangaroo Valley หุบเขาแห่งจิงโจ้ (2022) NETFLIX	https://cdn9x.com/playlist/update_mefojfcr.m3u8
@@ -2325,3 +2325,10 @@ Blasted	https://xxx.77player.xyz/m3u8/f1c6afa127ae4dc14e4290d1/f1c6afa127ae4dc14
 The Hurricane วิบัติมนุษย์กลายพันธุ์ (2020)	https://xxx.77player.xyz/m3u8/f38c057d73a5fd4c4e289500/f38c057d73a5fd4c4e289500800.m3u8
 King Tweety	https://xxx.77player.xyz/m3u8/f6fbebe0afef36533f3bc17b/f6fbebe0afef36533f3bc17b800.m3u8
 The Post Truth World (2023) โลกหลังความจริง	https://xxx.77player.xyz/m3u8/fa04db405bc5835dc8f66f33/fa04db405bc5835dc8f66f33800.m3u8
+Movies Channels Multi Sub +Indo	^-
+{s} Ⓢc0 Movies Film	^^s0
+{h} *12 Movies Film VOD 1	^^h12
+{h} *13 Movies Film VOD 2 Mobile	^^h13
+{h} * Action Movies Film VOD	^^hhttps://raw.githubusercontent.com/Justryuz/jtv/main/actionvod.m3u
+{h} Ⓨ4 Movies Film 1	^^h4
+{h} Ⓩ5 Movies Film 2	^^h5
