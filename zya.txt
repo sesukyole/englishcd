@@ -17,7 +17,7 @@
 {h} Ⓕb2 Fun	^^hb2
 {h} Ⓦb3 Wow Sports!	^^hb3
 {h} Ⓟc1 Pluto	^^h1
-{h} Ⓘc2 SportsTV	^^h2
+{s} Ⓘc2 SportsTV	^^s2
 {h} * Kodi	^^h3
 {h} * Free IPTV	^^hhttps://raw.githubusercontent.com/ipstreet312/freeiptv/master/all.m3u
 {h} * International Sports	^^hk^sports.m3u
