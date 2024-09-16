@@ -1,120 +1,6 @@
-^=#26:62 AAA x ZZZ	^-
-{s} Ⓗa0 Sports	^-
-ID PSJ TV	01`01fplay.accolamedia.id/accola/psj.stream/playlist.m3u8
+{s} Ⓗa0 Sports TV Channels	^-
 Premier League	https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd``002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
 SportDigital Fussball	https://svc40.main.vr.t-online.de/LCID3221228350.originalserver.prod.sngtv.t-online.de/PLTV/88888888/224/3221228350/3221228350.mpd``64fdf75a9fc7fa2f0dc197ecdfd07eba:44094f8dd29164989b9daecb9aabf4f2
-15:30 Bali United x PSS Sleman	^-
-Football / Soccer A	`0https://l.1/b/b1?id=b1&type=m
-19:00 Persija Jakarta x Dewa United FC	^-
-Football / Soccer B	`0https://l.1/b/b2?id=b2&type=m
-23:00 Al Shorta x Al-Nasr	^-
-Football / Soccer C	`0https://l.1/b/b3?id=b3
-01:00 Al-Ahli Saudi x Persepolis	^-
-Football / Soccer D	`0https://l.1/b/b4?id=b4
-01:45 Lazio x Hellas Verona FC	^-
-Football / Soccer E	`0https://l.1/b/b5?id=b5
-Football / Soccer F	`0https://l.1/b/b6?id=b6
-Football / Soccer G	`0https://l.1/b/b7?id=b7
-Football / Soccer H	`0https://l.1/b/b8?id=b8
-Football / Soccer I	`0https://l.1/b/b9?id=b9
-Football / Soccer J	`0https://l.1/b/b10?id=b10
-Football / Soccer K	`0https://l.1/b/b11?id=b11
-Football / Soccer L	`0https://l.1/b/b12?id=b12
-Football / Soccer M	`0https://l.1/b/b13?id=b13
-Football / Soccer N	`0https://l.1/b/b14?id=b14
-19:30 Futsal: Portugal x Panama	^-
-21:50 Futsal: Tajikistan x Morocco	^-
-02:15 Estrela x Boavista	^-
-Sport TV 1 A	`0i3`00SPT1
-Sport TV 1 B	`0i3`02pt/sporttv1.php
-SportTV1 [Portugal]	`4https://topembed.pw/channel/SportTV1[Portugal]
-23:30 Parma x Udinese	^-
-01:45 Lazio x Hellas Verona	^-
-Sport TV 2 A	`0i3`00SPT2
-Sport TV 2 B	`0i3`02pt/sporttv2.php
-SportTV2 [Portugal]	`4https://topembed.pw/channel/SportTV2[Portugal]
-19:20 Futsal: Iran x Venezuela	^-
-22:00 Futsal: Guatemala x France	^-
-02:00 Birmingham City x Wrexham	^-
-Sport TV 3 A	`0i3`00SPT3
-Sport TV 3 B	`0i3`02pt/sporttv3.php
-SportTV3 [Portugal]	`4https://topembed.pw/channel/SportTV3[Portugal]
-Sport TV 4 A	`0i3`00SPT4
-Sport TV 4 B	`0i3`02pt/sporttv4.php
-SportTV4 [Portugal]	`4https://topembed.pw/channel/SportTV4[Portugal]
-Sport TV 5 A	`0i3`00SPT5
-Sport TV 5 B	`0i3`02pt/sporttv5.php
-SportTV5 [Portugal]	`4https://topembed.pw/channel/SportTV5[Portugal]
-02:00 Rayo Vallecano x Osasuna	^-
-PT Eleven Sports 1	`0i3`02pt/eleven1.php
-ElevenSports1 [Portugal]	`4https://topembed.pw/channel/ElevenSports1[Portugal]
-PT Eleven Sports 2	`0i3`02pt/eleven2.php
-ElevenSports2 [Portugal]	`4https://topembed.pw/channel/ElevenSports2[Portugal]
-PT Eleven Sports 3	`0i3`02pt/eleven3.php
-ElevenSports3 [Portugal]	`4https://topembed.pw/channel/ElevenSports3[Portugal]
-02:00 Birmingham City x Wrexham	^-
-07:15 NFL: Atlanta Falcons @ Philadelphia Eagles	^-
-Live Sports HD 1	`0i3`02hd/hd1.php
-02:00 Rayo Vallecano x Osasuna	^-
-Live Sports HD 2	`0i3`02hd/hd2.php
-01:00 Al Ahli x Persepolis	^-
-Live Sports HD 3	`0i3`02hd/hd3.php
-01:45 Grenoble Foot 38 x Caen	^-
-Live Sports HD 4	`0i3`02hd/hd4.php
-23:30 Parma x Udinese	^-
-01:45 Lazio x Hellas Verona	^-
-Live Sports HD 5	`0i3`02hd/hd5.php
-02:00 Rayo Vallecano x Osasuna	^-
-Live Sports HD 6	`0i3`02hd/hd6.php
-23:30 Parma x Udinese	^-
-Live Sports HD 7	`0i3`02hd/hd7.php
-01:45 Lazio x Hellas Verona	^-
-Live Sports HD 8	`0i3`02hd/hd8.php
-23:00 Al Ain x Al Sadd	^-
-06:30 Alianza Petrolera x Atlético Nacional	^-
-Live Sports HD 9	`0i3`02hd/hd9.php
-00:00 Antalyaspor x Adana Demirspor	^-
-Live Sports HD 10	`0i3`02hd/hd10.php
-23:00 Al Shorta x Al Nassr	^-
-Live Sports HD 11	`0i3`02hd/hd11.php
-06:00 Internacional x Cuiabá	^-
-Live Sports BR 1	`0i3`02bra/br1.php
-Live Sports BR 2	`0i3`02bra/br2.php
-01:45 Lazio x Hellas Verona	^-
-07:15 NFL: Atlanta Falcons @ Philadelphia Eagles	^-
-Live Sports BR 3	`0i3`02bra/br3.php
-02:00 Birmingham City x Wrexham	^-
-Live Sports BR 4	`0i3`02bra/br4.php
-Live Sports BR 5	`0i3`02bra/br5.php
-23:00 Al Shorta x Al Nassr	^-
-01:00 Al Ahli x Persepolis	^-
-Live Sports BR 6	`0i3`02bra/br6.php
-Live Sports BR 7	`0i3`02bra/br7.php
-Live Sports BR 8	`0i3`02bra/br8.php
-PT Benefica	`0i3`02pt/btv.php
-Football / Kora 1 A	https://a1.l.2/0/stream.m3u8
-Football / Kora 1 B	https://a1.l.2/1/stream.m3u8
-Football / Kora 2 A	https://a2.l.2/0/stream.m3u8
-Football / Kora 2 B	https://a2.l.2/1/stream.m3u8
-Football / Kora 3 A	https://a3.l.2/0/stream.m3u8
-Football / Kora 3 B	https://a3.l.2/1/stream.m3u8
-Football / Kora 4 A	https://a4.l.2/0/stream.m3u8
-Football / Kora 4 B	https://a4.l.2/1/stream.m3u8
-Football / Kora 5 A	https://a5.l.2/0/stream.m3u8
-Football / Kora 5 B	https://a5.l.2/1/stream.m3u8
-Football / Kora 6 A	https://a6.l.2/0/stream.m3u8
-Football / Kora 6 B	https://a6.l.2/1/stream.m3u8
-Football / Kora 7 A	https://a7.l.2/0/stream.m3u8
-Football / Kora 7 B	https://a7.l.2/1/stream.m3u8
-Football / Kora 8 A	https://a8.l.2/0/stream.m3u8
-Football / Kora 8 B	https://a8.l.2/1/stream.m3u8
-ID Live Sport 1	00`a05rcti-sportstar/sa_hls/rcti-sportstar.m3u8?c
-ID Live Sport 2	00`a05rcti-sportstar2/sa_hls/rcti-sportstar2.m3u8?c
-ID Live Soccer	00`a05rcti-soccerchannel-hd/sa_hls/rcti-soccerchannel-hd.m3u8
-ID Moji	https://l.0/MOJIOChannel/mpd/MOJIOChannel.mpd``052861ebedab473089d0e7480d0c5b63:4d51aa0304af98c449fdec1548a199f9
-ID Indosiar	https://l.0/IndosiarHD/mpd/IndosiarHD.mpd``5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
-ID iNews	https://1s1.rctiplus.id/inews2023.m3u8
-ID RCTI	https://1s1.rctiplus.id/rcti2023.m3u8
 VPN: VeePN Chrome Ext. or Psiphon Pro APK	^-
 UK Premier Sports 1 [VPN]	01`00elinear001-ie-dash1-prd-cf.cdn.skycdp.com/Content/DASH_003_720_120/Live/channel(premiersports1)/manifest_720.mpd``0005b3dba78ae0fe7a9288022d3b3736:d2827df80dd7e9243ba6b5bbda5dfa82
 UK Premier Sports 2 [VPN]	01`00elinear033-ie-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_120/Live/channel(premiersports2)/manifest_720.mpd``0005d61a0ac86aca28176591b21ae2d9:f87ad1430a7a38fd0ac248fc9a8389b1
@@ -929,9 +815,6 @@ Live Events 3	https://lebo.huminbird.cn/live/ballbar_31170.m3u8
 Live Events 4	https://lebo.huminbird.cn/live/ballbar_21640.m3u8
 Live Events 5	https://live3.procdnlive.com/livecdn/channel34.m3u8?auth_key=3000001725929208-0-0-c13286dd609a92abc53a635895f6fd9d?7
 IDN Liga 1	https://bf.shandongjnsd.com/live/322665_hd01.m3u8?txSecret=01d564c22f113516e3f03840316f9818&txTime=66e15c07
-Live RCTI 2	00`a05rcti-2/sa_hls/rcti-2.m3u8?c
-Live RCTI 3	https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
-RCTI.id	01`02aRCTI-DD/sa_dash_vmx/RCTI-DD.mpd``9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
 Badminton Hong Kong Open 1	https://wakacha.github.io/live/c1.m3u8
 Badminton Hong Kong Open 2	https://wakacha.github.io/live/c2.m3u8
 Badminton Hong Kong Open 3	https://wakacha.github.io/live/c3.m3u8

@@ -17,9 +17,10 @@
 {h} Ⓕb2 Fun	^^hb2
 {h} Ⓦb3 Wow Sports!	^^hb3
 {h} Ⓟc1 Pluto	^^h1
-{h} * Sports TV	^^hk^sports.m3u
+{h} Ⓘc2 SportsTV	^^h2
 {h} * Kodi	^^h3
 {h} * Free IPTV	^^hhttps://raw.githubusercontent.com/ipstreet312/freeiptv/master/all.m3u
+{h} * International Sports	^^hk^sports.m3u
 {h} * International Channels 🇧🇷	^^hhttps://freenote.biz/raw/dyv52mh0zb
 🌍 Countries: International	^^hc^int.m3u
 🆔 Indonesia	^^hc^id.m3u
@@ -288,7 +289,7 @@ Science	^^hk^science.m3u
 Weather	^^hk^weather.m3u
 Auto	^^hk^auto.m3u
 Relax	^^hk^relax.m3u
-{h} Ⓘc2 iptv-org	^^h2
+{h} Ⓘc2 iptv-org	^^h14
 {s} Ⓢ 0 Samsung	^^h10
 {s} Ⓟ 1 Pluto	^^h11
 <hr>Always use Chrome browser! ⚠️ Please Allow Popups and Disable Ad Blocker. ⚠️ Install Chrome Browser Extension: CORS Unblock, Allow CORS & Always Disable Content-Security-Policy! ⚠️ 🔒|Site settings | Privacy & security | Insecure content: Allow.👈 ⚠️ Settings | Privacy & security | Security | Always use secure connections: Upgrade navigations to HTTPS: Disable.👈<><hr>Always use Chrome browser! ⚠️ Please Allow Popups and Disable Ad Blocker. ⚠️ Settings | Privacy & security | Always use secure connections: Upgrade navigations to HTTPS: Disable.👈	^-
