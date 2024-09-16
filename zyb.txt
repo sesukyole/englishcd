@@ -9,13 +9,15 @@
 {h} Ⓩ Movies Film 2 Sub Indo	^^h5
 {h} Ⓣ Movies Film 3 Sub Indo	^^h6
 Tottenham Hotspur VS Arsenal	^-
-RePlay Football / Soccer	`0https://www.jalaa28.cc/#/player?matchType=1&id=1588&liveType=4
+RePlay Football / Soccer	`0https://m.jalaa28.cc/player?matchType=1&id=1588&liveType=4&url=1
 Real Sociedad VS Real Madrid	^-
-RePlay Football / Soccer	`0https://www.jalaa28.cc/#/player?matchType=1&id=1587&liveType=4
+RePlay Football / Soccer	`0https://m.jalaa28.cc/player?matchType=1&id=1587&liveType=4&url=1
 Manchester City VS Brentford	^-
-RePlay Football / Soccer	`0https://www.jalaa28.cc/#/player?matchType=1&id=1586&liveType=4
+RePlay Football / Soccer	`0https://m.jalaa28.cc/player?matchType=1&id=1586&liveType=4&url=1
 Southampton VS Manchester United	^-
-RePlay Football / Soccer	`0https://www.jalaa28.cc/#/player?matchType=1&id=1585&liveType=4
+RePlay Football / Soccer	`0https://m.jalaa28.cc/player?matchType=1&id=1585&liveType=4&url=1
+Tottenham Hotspur VS Arsenal	^-
+RePlay Football / Soccer	`0https://bfh5.jalabf.cc?poster=https://jalacos.kmijianl.cn/2024-06-30/ae656800d913b3a387231fd59d6e0eae.jpg&ad={"img":"https://jalacos.kmijianl.cn/2024-09-14/a14a47025c4e3e7f026373ed04426262.jpg","time":3,"url":"https://update.jalaa16.cc","enabled":true}
 15:30 Bali United x PSS Sleman	^-
 Live Football / Soccer	`0https://l.3/indonesian-liga-1-4029494/bali-united-vs-pss-sleman.html
 19:00 Persija Jakarta x Dewa United FC	^-
