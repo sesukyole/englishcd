@@ -1,24 +1,15 @@
 ^=#26:62 AAA x ZZZ	^-
 {s} Ⓗa0 Live Sports Events	^-
 15:30 Bali United x PSS Sleman	^-
-Football / Soccer A	`0https://l.1/b/b1?id=b1&type=m
+Football / Soccer A	`0https://l.3/indonesian-liga-1-4029494/bali-united-vs-pss-sleman.html
 19:00 Persija Jakarta x Dewa United FC	^-
-Football / Soccer B	`0https://l.1/b/b2?id=b2&type=m
+Football / Soccer B	`0https://l.3/indonesian-liga-1-4029464/persija-jakarta-vs-dewa-united-fc.html
 23:00 Al Shorta x Al-Nasr	^-
-Football / Soccer C	`0https://l.1/b/b3?id=b3
+Football / Soccer C	`0https://l.3/afc-champions-league-elite-4045877/al-shorta-vs-al-nassr-fc.html
 01:00 Al-Ahli Saudi x Persepolis	^-
-Football / Soccer D	`0https://l.1/b/b4?id=b4
+Football / Soccer D	`0https://l.3/afc-champions-league-elite-4041836/al-ahli-sfc-vs-persepolis.html
 01:45 Lazio x Hellas Verona FC	^-
-Football / Soccer E	`0https://l.1/b/b5?id=b5
-Football / Soccer F	`0https://l.1/b/b6?id=b6
-Football / Soccer G	`0https://l.1/b/b7?id=b7
-Football / Soccer H	`0https://l.1/b/b8?id=b8
-Football / Soccer I	`0https://l.1/b/b9?id=b9
-Football / Soccer J	`0https://l.1/b/b10?id=b10
-Football / Soccer K	`0https://l.1/b/b11?id=b11
-Football / Soccer L	`0https://l.1/b/b12?id=b12
-Football / Soccer M	`0https://l.1/b/b13?id=b13
-Football / Soccer N	`0https://l.1/b/b14?id=b14
+Football / Soccer E	`0https://l.3/italian-serie-a-3993972/lazio-vs-hellas-verona.html
 19:30 Futsal: Portugal x Panama	^-
 21:50 Futsal: Tajikistan x Morocco	^-
 02:15 Estrela x Boavista	^-
