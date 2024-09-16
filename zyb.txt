@@ -8,6 +8,16 @@
 {h} Ⓨ Movies Film 1 Sub Indo	^^h4
 {h} Ⓩ Movies Film 2 Sub Indo	^^h5
 {h} Ⓣ Movies Film 3 Sub Indo	^^h6
+15:30 Bali United x PSS Sleman	^-
+Football / Soccer A	`0https://l.3/indonesian-liga-1-4029494/bali-united-vs-pss-sleman.html
+19:00 Persija Jakarta x Dewa United FC	^-
+Football / Soccer B	`0https://l.3/indonesian-liga-1-4029464/persija-jakarta-vs-dewa-united-fc.html
+23:00 Al Shorta x Al-Nasr	^-
+Football / Soccer C	`0https://l.3/afc-champions-league-elite-4045877/al-shorta-vs-al-nassr-fc.html
+01:00 Al-Ahli Saudi x Persepolis	^-
+Football / Soccer D	`0https://l.3/afc-champions-league-elite-4041836/al-ahli-sfc-vs-persepolis.html
+01:45 Lazio x Hellas Verona FC	^-
+Football / Soccer E	`0https://l.3/italian-serie-a-3993972/lazio-vs-hellas-verona.html
 Football / Kora 1 A	https://a1.l.2/0/stream.m3u8
 Football / Kora 1 B	https://a1.l.2/1/stream.m3u8
 Football / Kora 2 A	https://a2.l.2/0/stream.m3u8
