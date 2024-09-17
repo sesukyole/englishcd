@@ -1,84 +1,44 @@
 ^=#26:62 AAA x ZZZ	^-
 <a>{s} Ⓗa0 Live Sports Events</a>	^-
-17/09 04:30 Cortulua x Deportes Quindio	^-
-Live Football / Soccer	`0https://l.3/colombian-torneo-betplay-dimayor-4010135/inter-palmira-vs-deportes-quindio.html
-17/09 04:30 Sportivo Trinidense x Tacuary	^-
-Live Football / Soccer	`0https://l.3/paraguayan-primera-division-4014583/sportivo-trinidense-vs-tacuary.html
-17/09 05:00 Barranquilla FC x Orsomarso	^-
-Live Football / Soccer	`0https://l.3/colombian-torneo-betplay-dimayor-4010134/barranquilla-fc-vs-orsomarso.html
-17/09 05:00 Boston River x Centro Atletico Fenix	^-
-Live Football / Soccer	`0https://l.3/uruguay-primera-division-4045274/boston-river-vs-centro-atletico-fenix.html
-17/09 05:00 Harbour View FC x Chapelton	^-
-Live Football / Soccer	`0https://l.3/jamaica-premier-league-4059350/harbour-view-fc-vs-chapelton.html
-17/09 05:00 #2 Clemson x Holy Cross	^-
-Live Football / Soccer	`0https://l.3/portuguese-cup-4059425/2-clemson-vs-holy-cross.html
-17/09 05:00 Pennsylvania x VCU	^-
-Live Football / Soccer	`0https://l.3/portuguese-cup-4059426/pennsylvania-vs-vcu.html
-17/09 06:00 Internacional RS x Cuiaba	^-
-Live Football / Soccer	`0https://l.3/brazilian-serie-a-3931517/internacional-rs-vs-cuiaba.html
-06:00 Club Necaxa (w) x Juarez FC (w)	^-
-Live Football / Soccer	`0https://l.3/mexico-liga-mx-femenil-3989916/club-necaxa-w-vs-juarez-fc-w.html
-17/09 06:00 Ferroviaria SP x Athletic Club MG	^-
-Live Football / Soccer	`0https://l.3/brazilian-serie-c-4047179/ferroviaria-sp-vs-athletic-club-mg.html
-17/09 06:00 Manhattan x Fordham	^-
-Live Football / Soccer	`0https://l.3/portuguese-cup-4059427/manhattan-vs-fordham.html
-17/09 06:30 Alianza Petrolera x Atletico Nacional Medellin	^-
-Live Football / Soccer	`0https://l.3/categoria-primera-a-4059431/alianza-ftbol-club-vs-atletico-nacional-medellin.html
-17/09 07:00 Independiente Rivadavia x Defensa Y Justicia	^-
-Live Football / Soccer	`0https://l.3/argentine-division-1-3892366/independiente-rivadavia-vs-defensa-y-justicia.html
-17/09 07:00 Tecnico Universitario x Libertad FC	^-
-Live Football / Soccer	`0https://l.3/ligapro-serie-a-3905767/tecnico-universitario-vs-libertad-fc.html
-17/09 07:00 Guarani CA x FC Nacional Asuncion	^-
-Live Football / Soccer	`0https://l.3/paraguayan-primera-division-4014590/guarani-ca-vs-fc-nacional-asuncion.html
-17/09 07:00 Lindenwood x Utah Valley	^-
-Live Football / Soccer	`0https://l.3/portuguese-cup-4059428/lindenwood-vs-utah-valley.html
-17/09 07:30 Waterhouse FC x Racing United	^-
-Live Football / Soccer	`0https://l.3/jamaica-premier-league-4059349/waterhouse-fc-vs-racing-united.html
-17/09 08:00 Cal Poly x Utah Tech	^-
-Live Football / Soccer	`0https://l.3/portuguese-cup-4059429/cal-poly-vs-utah-tech.html
-17/09 09:00 OL Reign Reign (w) x Gotham FC (W)	^-
-Live Football / Soccer	`0https://l.3/united-states-womens-national-soccer-league-3927664/ol-reign-women-vs-gotham-fc-w.html
-17/09 09:00 George Fox x Portland	^-
-Live Football / Soccer	`0https://l.3/ncaa-womens-soccer-4059430/george-fox-vs-portland.html
 17/09 15:30 PSBS Biak Numfor x Madura United	^-
 Live Football / Soccer	`0https://l.3/indonesian-liga-1-4029457/psbs-biak-numfor--vs-madura-united.html
-17:00 Shandong Taishan x Central Coast Mariners	^-
+17/09 17:00 Shandong Taishan x Central Coast Mariners	^-
 Live Football / Soccer	`0https://l.3/afc-champions-league-elite-4041430/shandong-taishan-fc-vs-central-coast-mariners.html
-17:00 Gwangju Football Club x Yokohama F Marinos	^-
+17/09 17:00 Gwangju Football Club x Yokohama F Marinos	^-
 Live Football / Soccer	`0https://l.3/afc-champions-league-elite-4048203/gwangju-football-club-vs-yokohama-f-marinos.html
-19:00 Borneo FC x Malut United	^-
+17/09 19:00 Borneo FC x Malut United	^-
 Live Football / Soccer	`0https://l.3/indonesian-liga-1-4032389/borneo-fc-vs-malut-united.html
-19:00 Shanghai Shenhua x Pohang Steelers	^-
+17/09 19:00 Shanghai Shenhua x Pohang Steelers	^-
 Live Football / Soccer	`0https://l.3/afc-champions-league-elite-4041775/shanghai-shenhua-fc-vs-pohang-steelers.html
-19:00 Buriram United x Vissel Kobe	^-
+17/09 19:00 Buriram United x Vissel Kobe	^-
 Live Football / Soccer	`0https://l.3/afc-champions-league-elite-4048205/buriram-united-vs-vissel-kobe.html
-19:00 Sporting Lisbon U19 x Lille U19	^-
+17/09 19:00 Sporting Lisbon U19 x Lille U19	^-
 Live Football / Soccer	`0https://l.3/uefa-youth-league-4055688/sporting-cp-u19-vs-lille-u19.html
-19:00 Juventus Youth x PSV Eindhoven U19	^-
+17/09 19:00 Juventus Youth x PSV Eindhoven U19	^-
 Live Football / Soccer	`0https://l.3/uefa-youth-league-4055690/juventus-youth-vs-psv-eindhoven-u19.html
-19:00 Young Boys U19 x Aston Villa U19	^-
+17/09 19:00 Young Boys U19 x Aston Villa U19	^-
 Live Football / Soccer	`0https://l.3/uefa-youth-league-4055691/young-boys-u19-vs-aston-villa-u19.html
-19:30 AC Milan U19 x Liverpool U19	^-
+17/09 19:30 AC Milan U19 x Liverpool U19	^-
 Live Football / Soccer	`0https://l.3/uefa-youth-league-4055689/ac-milan-u19-vs-liverpool-u19.html
-21:00 Scolar Resita x FK Csikszereda Miercurea Ciuc	^-
+17/09 21:00 Scolar Resita x FK Csikszereda Miercurea Ciuc	^-
 Live Football / Soccer	`0https://l.3/romanian-liga-ii-4023708/scolar-resita-vs-fk-csikszereda-miercurea-ciuc.html
-21:00 Pakhtakor x Al-Wasl	^-
+17/09 21:00 Pakhtakor x Al-Wasl	^-
 Live Football / Soccer	`0https://l.3/afc-champions-league-elite-4040059/pakhtakor-vs-al-wasl-sc.html
-21:00 Bayern Munchen U19 x Dinamo Zagreb U19	^-
+17/09 21:00 Bayern Munchen U19 x Dinamo Zagreb U19	^-
 Live Football / Soccer	`0https://l.3/uefa-youth-league-4055550/bayern-munchen-u19-vs-dinamo-zagreb-u19.html
-21:00 Real Madrid U19 x VfB Stuttgart U19	^-
+17/09 21:00 Real Madrid U19 x VfB Stuttgart U19	^-
 Live Football / Soccer	`0https://l.3/uefa-youth-league-4055692/real-madrid-u19-vs-vfb-stuttgart-u19.html
-21:00 FC Goa x Jamshedpur FC	^-
+17/09 21:00 FC Goa x Jamshedpur FC	^-
 Live Football / Soccer	`0https://l.3/indian-super-league-4055693/fc-goa-vs-jamshedpur-fc.html
-23:00 FC Istiklol Dushanbe x Al-Sharjah	^-
+17/09 23:00 FC Istiklol Dushanbe x Al-Sharjah	^-
 Live Football / Soccer	`0https://l.3/afc-champions-league-2-4040022/fc-istiklol-dushanbe-vs-al-sharjah.html
-23:00 Al Wehda x Sepahan	^-
+17/09 23:00 Al Wehda x Sepahan	^-
 Live Football / Soccer	`0https://l.3/afc-champions-league-2-4040363/al-wehdat-vs-sepahan.html
-23:00 Al Rayyan x Al Hilal SFC	^-
+17/09 23:00 Al Rayyan x Al Hilal SFC	^-
 Live Football / Soccer	`0https://l.3/afc-champions-league-elite-4042193/al-rayyan-vs-al-hilal.html
-23:45 Young Boys x Aston Villa	^-
+17/09 23:45 Young Boys x Aston Villa	^-
 Live Football / Soccer	`0https://l.3/uefa-champions-league-4049633/young-boys-vs-aston-villa.html
-23:45 Juventus x PSV Eindhoven	^-
+17/09 23:45 Juventus x PSV Eindhoven	^-
 Live Football / Soccer	`0https://l.3/uefa-champions-league-4049746/juventus-vs-psv-eindhoven.html
 18/09 00:00 Mallorca x Real Sociedad	^-
 Live Football / Soccer	`0https://l.3/spanish-la-liga-3994776/rcd-mallorca-vs-real-sociedad.html
@@ -122,6 +82,7 @@ Live Football / Soccer	`0https://l.3/uefa-champions-league-4049611/real-madrid-v
 Live Football / Soccer	`0https://l.3/uefa-champions-league-4049749/fc-bayern-munich-vs-dinamo-zagreb.html
 18/09 03:15 AD Tarma x Cusco FC	^-
 Live Football / Soccer	`0https://l.3/peruvian-liga-1-4020720/ad-tarma-vs-cusco-fc.html
+
 <a>RePlay ReWatch Football Match</a>	^-
 Tottenham Hotspur VS Arsenal	^-
 RePlay ReWatch Football Match	https://l.2/09-15/322675/UUpTbkdTR1JQRFhsRFtDUVJCW2lDVEkbFAMBcQcJEgUFHwc4Hg8YH08TBjJODRodBEpYaEZXR1tUQllvTlBEWVdEWGZCUUNIUEVbbkBTRg==/2024-09-15-21-00-01_eof.m3u8
@@ -131,77 +92,86 @@ Manchester City VS Brentford	^-
 RePlay ReWatch Football Match	https://l.2/09-14/5004240/UUpTbkdTR1JQRFhsRFtDUVRAWWtGVUNREQUaN1oSGwoPFAYxEwsdABVeCjAZWx8CFxVTbkNTRVhTQl1pRltCXFNGWmxCWUVZQkFcbUVVQV4=/2024-09-14-22-01-09_eof.m3u8
 Southampton VS Manchester United	^-
 RePlay ReWatch Football Match	https://l.2/09-14/322580/UUpTbkdTR1JQRFhsRFtDUVJCW2pMUUkbFAMBcQcJEgUFHwc4Hg8YH08TBjJODRodBEpYaEZXQFpSRFlvTlBEWVdDW2hMUUNIUEVbbkBTRg==/2024-09-14-19-30-01_eof.m3u8
+
 <a>Live Sports Events</a>	^-
-19:30 Futsal: Portugal x Panama	^-
-21:50 Futsal: Tajikistan x Morocco	^-
-02:15 Estrela x Boavista	^-
+17/09 02:00 Manchester United x Barnsley	^-
+18/09 07:30 Colo-Colo x River Plate	^-
+18/09 01:45 Brighton & Hove Albion x Wolverhampton Wanderers	^-
+18/09 05:00 Fluminense x Atlético Mineiro	^-
+18/09 07:30 Botafogo x São Paulo	^-
 Sport TV 1 A	`0i3`00SPT1
 Sport TV 1 B	`0i3`02pt/sporttv1.php
 SportTV1 [Portugal]	`4https://topembed.pw/channel/SportTV1[Portugal]
-23:30 Parma x Udinese	^-
-01:45 Lazio x Hellas Verona	^-
+17/09 00:00 Galatasaray x Gaziantep FK	^-
+18/09 07:30 Fortaleza x Corinthians	^-
+18/09 02:00 Coventry City x Tottenham Hotspur	^-
+18/09 07:30 Lanús x Medellín	^-
 Sport TV 2 A	`0i3`00SPT2
 Sport TV 2 B	`0i3`02pt/sporttv2.php
 SportTV2 [Portugal]	`4https://topembed.pw/channel/SportTV2[Portugal]
-19:20 Futsal: Iran x Venezuela	^-
-22:00 Futsal: Guatemala x France	^-
-02:00 Birmingham City x Wrexham	^-
+17/09 01:45 Preston North End x Fulham	^-
 Sport TV 3 A	`0i3`00SPT3
 Sport TV 3 B	`0i3`02pt/sporttv3.php
 SportTV3 [Portugal]	`4https://topembed.pw/channel/SportTV3[Portugal]
 Sport TV 4 A	`0i3`00SPT4
 Sport TV 4 B	`0i3`02pt/sporttv4.php
 SportTV4 [Portugal]	`4https://topembed.pw/channel/SportTV4[Portugal]
+17/09 02:00 Sporting CP x Lille	^-
 Sport TV 5 A	`0i3`00SPT5
 Sport TV 5 B	`0i3`02pt/sporttv5.php
 SportTV5 [Portugal]	`4https://topembed.pw/channel/SportTV5[Portugal]
-02:00 Rayo Vallecano x Osasuna	^-
+17/09 19:00 Sporting CP U19 x Lille U19	^-
+17/09 21:00 Bayern München U19 x Dinamo Zagreb U19	^-
+17/09 23:45 Juventus x PSV	^-
+17/09 02:00 Real Madrid x Stuttgart 	^-
+18/09 21:00 Manchester City U19 x Internazionale U19 	^-
+18/09 02:00 Manchester City x Internazionale 	^-
 PT Eleven Sports 1	`0i3`02pt/eleven1.php
 ElevenSports1 [Portugal]	`4https://topembed.pw/channel/ElevenSports1[Portugal]
+17/09 23:45 Young Boys x Aston Villa	^-
+17/09 02:00 Milan x Liverpool	^-
+18/09 23:45 Bologna x Shakhtar Donetsk	^-
+18/09 02:00 PSG x Girona	^-
 PT Eleven Sports 2	`0i3`02pt/eleven2.php
 ElevenSports2 [Portugal]	`4https://topembed.pw/channel/ElevenSports2[Portugal]
+17/09 02:00 Bayern München x Dinamo Zagreb	^-
+18/09 23:45 Sparta Praha x Salzburg	^-
+18/09 02:00 Club Brugge x Borussia Dortmund	^-
 PT Eleven Sports 3	`0i3`02pt/eleven3.php
 ElevenSports3 [Portugal]	`4https://topembed.pw/channel/ElevenSports3[Portugal]
-02:00 Birmingham City x Wrexham	^-
-07:15 NFL: Atlanta Falcons @ Philadelphia Eagles	^-
 Live Sports HD 1	`0i3`02hd/hd1.php
-02:00 Rayo Vallecano x Osasuna	^-
+18/09 02:00 Celtic x Slovan Bratislava	^-
+18/09 06:30 Atlanta United x Inter Miami	^-
 Live Sports HD 2	`0i3`02hd/hd2.php
-01:00 Al Ahli x Persepolis	^-
 Live Sports HD 3	`0i3`02hd/hd3.php
-01:45 Grenoble Foot 38 x Caen	^-
 Live Sports HD 4	`0i3`02hd/hd4.php
-23:30 Parma x Udinese	^-
-01:45 Lazio x Hellas Verona	^-
 Live Sports HD 5	`0i3`02hd/hd5.php
-02:00 Rayo Vallecano x Osasuna	^-
 Live Sports HD 6	`0i3`02hd/hd6.php
-23:30 Parma x Udinese	^-
 Live Sports HD 7	`0i3`02hd/hd7.php
-01:45 Lazio x Hellas Verona	^-
+17/09 19:00 Juventus U19 x PSV U19	^-
 Live Sports HD 8	`0i3`02hd/hd8.php
-23:00 Al Ain x Al Sadd	^-
-06:30 Alianza Petrolera x Atlético Nacional	^-
+17/09 17:00 Gwangju x Yokohama F. Marinos	^-
+17/09 23:00 Al Rayyan x Al Hilal	^-
 Live Sports HD 9	`0i3`02hd/hd9.php
-00:00 Antalyaspor x Adana Demirspor	^-
 Live Sports HD 10	`0i3`02hd/hd10.php
-23:00 Al Shorta x Al Nassr	^-
+17/09 00:00 Mallorca x Real Sociedad	^-
+18/09 08:00 Atlético San Luis x Cruz Azul	^-
+18/09 10:05 Pumas UNAM x Puebla	^-
 Live Sports HD 11	`0i3`02hd/hd11.php
-06:00 Internacional x Cuiabá	^-
+17/09 05:00 Novorizontino x Brusque	^-
+18/09 07:30 Guarani x Mirassol	^-
 Live Sports BR 1	`0i3`02bra/br1.php
 Live Sports BR 2	`0i3`02bra/br2.php
-01:45 Lazio x Hellas Verona	^-
-07:15 NFL: Atlanta Falcons @ Philadelphia Eagles	^-
 Live Sports BR 3	`0i3`02bra/br3.php
-02:00 Birmingham City x Wrexham	^-
+18/09 05:00 Sport Recife x Goiás	^-
+18/09 07:30 América Mineiro x Paysandu	^-
 Live Sports BR 4	`0i3`02bra/br4.php
 Live Sports BR 5	`0i3`02bra/br5.php
-23:00 Al Shorta x Al Nassr	^-
-01:00 Al Ahli x Persepolis	^-
 Live Sports BR 6	`0i3`02bra/br6.php
 Live Sports BR 7	`0i3`02bra/br7.php
 Live Sports BR 8	`0i3`02bra/br8.php
 PT Benefica	`0i3`02pt/btv.php
+
 Action Movies A	i3`064332?zyz
 Action Movies B	i3`066140589?zyz
 Action Movies C	i3`062516864?zyz
@@ -218,6 +188,7 @@ Action Movies M	i3`066566671?zyz
 Action Movies N	i3`061226741?zyz
 Action Movies O	i3`064246519?zyz
 Action Movies P	i3`06252802?zyz
+
 Sports Channels on Ⓘc2 and Ⓦb3 Wow!	^-
 {s} Ⓘc2 SportsTV	^^s2
 {h} Ⓦb3 Wow Sports!	^^hb3
