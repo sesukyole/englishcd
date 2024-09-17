@@ -1,4 +1,4 @@
-{s} Ⓧa2 eXtra 🆔	^-
+<a>{s} Ⓧa2 eXtra 🆔</a>	^-
 ID PSJ TV	01`01fplay.accolamedia.id/accola/psj.stream/playlist.m3u8
 ID Live Sport 1	00`a05rcti-sportstar/sa_hls/rcti-sportstar.m3u8?c
 ID Live Sport 2	00`a05rcti-sportstar2/sa_hls/rcti-sportstar2.m3u8?c

@@ -94,7 +94,7 @@ Southampton VS Manchester United	^-
 RePlay ReWatch Football Match	https://l.2/09-14/322580/UUpTbkdTR1JQRFhsRFtDUVJCW2pMUUkbFAMBcQcJEgUFHwc4Hg8YH08TBjJODRodBEpYaEZXQFpSRFlvTlBEWVdDW2hMUUNIUEVbbkBTRg==/2024-09-14-19-30-01_eof.m3u8
 
 <a>Live Sports Events</a>	^-
-17/09 02:00 Manchester United x Barnsley	^-
+18/09 02:00 Manchester United x Barnsley	^-
 18/09 07:30 Colo-Colo x River Plate	^-
 18/09 01:45 Brighton & Hove Albion x Wolverhampton Wanderers	^-
 18/09 05:00 Fluminense x Atlético Mineiro	^-
@@ -102,39 +102,39 @@ RePlay ReWatch Football Match	https://l.2/09-14/322580/UUpTbkdTR1JQRFhsRFtDUVJCW
 Sport TV 1 A	`0i3`00SPT1
 Sport TV 1 B	`0i3`02pt/sporttv1.php
 SportTV1 [Portugal]	`4https://topembed.pw/channel/SportTV1[Portugal]
-17/09 00:00 Galatasaray x Gaziantep FK	^-
+18/09 00:00 Galatasaray x Gaziantep FK	^-
 18/09 07:30 Fortaleza x Corinthians	^-
 18/09 02:00 Coventry City x Tottenham Hotspur	^-
 18/09 07:30 Lanús x Medellín	^-
 Sport TV 2 A	`0i3`00SPT2
 Sport TV 2 B	`0i3`02pt/sporttv2.php
 SportTV2 [Portugal]	`4https://topembed.pw/channel/SportTV2[Portugal]
-17/09 01:45 Preston North End x Fulham	^-
+18/09 01:45 Preston North End x Fulham	^-
 Sport TV 3 A	`0i3`00SPT3
 Sport TV 3 B	`0i3`02pt/sporttv3.php
 SportTV3 [Portugal]	`4https://topembed.pw/channel/SportTV3[Portugal]
 Sport TV 4 A	`0i3`00SPT4
 Sport TV 4 B	`0i3`02pt/sporttv4.php
 SportTV4 [Portugal]	`4https://topembed.pw/channel/SportTV4[Portugal]
-17/09 02:00 Sporting CP x Lille	^-
+18/09 02:00 Sporting CP x Lille	^-
 Sport TV 5 A	`0i3`00SPT5
 Sport TV 5 B	`0i3`02pt/sporttv5.php
 SportTV5 [Portugal]	`4https://topembed.pw/channel/SportTV5[Portugal]
 17/09 19:00 Sporting CP U19 x Lille U19	^-
 17/09 21:00 Bayern München U19 x Dinamo Zagreb U19	^-
 17/09 23:45 Juventus x PSV	^-
-17/09 02:00 Real Madrid x Stuttgart 	^-
+18/09 02:00 Real Madrid x Stuttgart 	^-
 18/09 21:00 Manchester City U19 x Internazionale U19 	^-
 18/09 02:00 Manchester City x Internazionale 	^-
 PT Eleven Sports 1	`0i3`02pt/eleven1.php
 ElevenSports1 [Portugal]	`4https://topembed.pw/channel/ElevenSports1[Portugal]
 17/09 23:45 Young Boys x Aston Villa	^-
-17/09 02:00 Milan x Liverpool	^-
+18/09 02:00 Milan x Liverpool	^-
 18/09 23:45 Bologna x Shakhtar Donetsk	^-
 18/09 02:00 PSG x Girona	^-
 PT Eleven Sports 2	`0i3`02pt/eleven2.php
 ElevenSports2 [Portugal]	`4https://topembed.pw/channel/ElevenSports2[Portugal]
-17/09 02:00 Bayern München x Dinamo Zagreb	^-
+18/09 02:00 Bayern München x Dinamo Zagreb	^-
 18/09 23:45 Sparta Praha x Salzburg	^-
 18/09 02:00 Club Brugge x Borussia Dortmund	^-
 PT Eleven Sports 3	`0i3`02pt/eleven3.php
@@ -154,11 +154,11 @@ Live Sports HD 8	`0i3`02hd/hd8.php
 17/09 23:00 Al Rayyan x Al Hilal	^-
 Live Sports HD 9	`0i3`02hd/hd9.php
 Live Sports HD 10	`0i3`02hd/hd10.php
-17/09 00:00 Mallorca x Real Sociedad	^-
+18/09 00:00 Mallorca x Real Sociedad	^-
 18/09 08:00 Atlético San Luis x Cruz Azul	^-
 18/09 10:05 Pumas UNAM x Puebla	^-
 Live Sports HD 11	`0i3`02hd/hd11.php
-17/09 05:00 Novorizontino x Brusque	^-
+18/09 05:00 Novorizontino x Brusque	^-
 18/09 07:30 Guarani x Mirassol	^-
 Live Sports BR 1	`0i3`02bra/br1.php
 Live Sports BR 2	`0i3`02bra/br2.php
@@ -172,6 +172,7 @@ Live Sports BR 7	`0i3`02bra/br7.php
 Live Sports BR 8	`0i3`02bra/br8.php
 PT Benefica	`0i3`02pt/btv.php
 
+<a>24/7 Action Movies Channels</a>	^-
 Action Movies A	i3`064332?zyz
 Action Movies B	i3`066140589?zyz
 Action Movies C	i3`062516864?zyz
