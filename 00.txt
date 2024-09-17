@@ -62,14 +62,16 @@ UEFA Champions League	`0https://l.3/uefa-champions-league-4049749/fc-bayern-muni
 Peruvian Liga 1	`0https://l.3/peruvian-liga-1-4020720/ad-tarma-vs-cusco-fc.html
 
 <a>RePlay ReWatch Football Match</a>	^-
-Tottenham Hotspur VS Arsenal	^-
-RePlay ReWatch Football Match	https://l.2/09-15/322675/UUpTbkdTR1JQRFhsRFtDUVJCW2lDVEkbFAMBcQcJEgUFHwc4Hg8YH08TBjJODRodBEpYaEZXR1tUQllvTlBEWVdEWGZCUUNIUEVbbkBTRg==/2024-09-15-21-00-01_eof.m3u8
-Real Sociedad VS Real Madrid	^-
-RePlay ReWatch Football Match	https://l.2/09-15/5004240/UUpTbkdTR1JQRFhsRFtDUVRAWWtGVUNREQUaN1oSGwoPFAYxEwsdABVeCjAZWx8CFxVTbkNTRVhVQF1vRFtCXFNGWmpAWUNbQkFcbUVVQV4=/2024-09-15-03-00-03_eof.m3u8
-Manchester City VS Brentford	^-
-RePlay ReWatch Football Match	https://l.2/09-14/5004240/UUpTbkdTR1JQRFhsRFtDUVRAWWtGVUNREQUaN1oSGwoPFAYxEwsdABVeCjAZWx8CFxVTbkNTRVhTQl1pRltCXFNGWmxCWUVZQkFcbUVVQV4=/2024-09-14-22-01-09_eof.m3u8
-Southampton VS Manchester United	^-
-RePlay ReWatch Football Match	https://l.2/09-14/322580/UUpTbkdTR1JQRFhsRFtDUVJCW2pMUUkbFAMBcQcJEgUFHwc4Hg8YH08TBjJODRodBEpYaEZXQFpSRFlvTlBEWVdDW2hMUUNIUEVbbkBTRg==/2024-09-14-19-30-01_eof.m3u8
+18/09 02:00	^-
+Real Madrid x VfB Stuttgart	https://l.2/09-18/5004240/UUpTbkdTR1JQRFhsRFtDUVRAWWtGVUNREQUaN1oSGwoPFAYxEwsdABVeCjAZWx8CFxVTbkNTRV5YSV9vRFtCXFNGX25AUUNbQkFcbUVVQV4=/2024-09-18-03-00-01_eof.m3u8
+15/09 20:00	^-
+Tottenham Hotspur VS Arsenal	https://l.2/09-15/322675/UUpTbkdTR1JQRFhsRFtDUVJCW2lDVEkbFAMBcQcJEgUFHwc4Hg8YH08TBjJODRodBEpYaEZXR1tUQllvTlBEWVdEWGZCUUNIUEVbbkBTRg==/2024-09-15-21-00-01_eof.m3u8
+15/09 02:00	^-
+Real Sociedad VS Real Madrid	https://l.2/09-15/5004240/UUpTbkdTR1JQRFhsRFtDUVRAWWtGVUNREQUaN1oSGwoPFAYxEwsdABVeCjAZWx8CFxVTbkNTRVhVQF1vRFtCXFNGWmpAWUNbQkFcbUVVQV4=/2024-09-15-03-00-03_eof.m3u8
+14/09 21:00	^-
+Manchester City VS Brentford	https://l.2/09-14/5004240/UUpTbkdTR1JQRFhsRFtDUVRAWWtGVUNREQUaN1oSGwoPFAYxEwsdABVeCjAZWx8CFxVTbkNTRVhTQl1pRltCXFNGWmxCWUVZQkFcbUVVQV4=/2024-09-14-22-01-09_eof.m3u8
+14/09 18:30	^-
+Southampton VS Manchester United	https://l.2/09-14/322580/UUpTbkdTR1JQRFhsRFtDUVJCW2pMUUkbFAMBcQcJEgUFHwc4Hg8YH08TBjJODRodBEpYaEZXQFpSRFlvTlBEWVdDW2hMUUNIUEVbbkBTRg==/2024-09-14-19-30-01_eof.m3u8
 
 <a>Live Sports Events</a>	^-
 18/09 02:00 Manchester United x Barnsley	^-
