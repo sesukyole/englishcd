@@ -171,7 +171,7 @@ Action Movies P	i3`06252802?zyz
 Sports Channels on Ⓘc2 and Ⓦb3 Wow!	^-
 {s} Ⓘc2 SportsTV	^^s2
 {h} Ⓦb3 Wow Sports!	^^hb3
-🆔 Channels: Ⓜa1, Ⓧa2 & Ⓞb0	^-
+🆔 Indo Channels: Ⓜa1, Ⓧa2 & Ⓞb0	^-
 {s} Ⓜa1 🤹Multi 🆔	^^sa1
 {s} Ⓧa2 🤺eXtra 🆔	^^sa2
 {h} Ⓞb0 Okay 🆔	^^hb0

@@ -178,7 +178,7 @@ Live Sports BR 6	`0i3`02bra/br6.php
 Live Sports BR 7	`0i3`02bra/br7.php
 Live Sports BR 8	`0i3`02bra/br8.php
 PT Benefica	`0i3`02pt/btv.php
-🆔 Channels: Ⓜa1, Ⓧa2 & Ⓞb0	^-
+🆔 Indo Channels: Ⓜa1, Ⓧa2 & Ⓞb0	^-
 {s} Ⓗa0 ⚽️Live Sports	^^sa0
 {s} Ⓜa1 🤹Multi 🆔	^^sa1
 {s} Ⓧa2 🤺eXtra 🆔	^^sa2

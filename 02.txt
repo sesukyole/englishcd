@@ -9,7 +9,7 @@ ID iNews	https://1s1.rctiplus.id/inews2023.m3u8
 ID RCTI	https://1s1.rctiplus.id/rcti2023.m3u8
 Live RCTI 2	00`a05rcti-2/sa_hls/rcti-2.m3u8?c
 Live RCTI 3	https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
-🆔 Channels: Ⓜa1, Ⓧa2 & Ⓞb0	^-
+🆔 Indo Channels: Ⓜa1, Ⓧa2 & Ⓞb0	^-
 ID SpoTV 1	01`00a133/beib1/index.m3u8?c
 ID SpoTV 2	01`00a133/beib2/index.m3u8?c
 ID iNews	00`a05inews-hdd/sa_hls/inews-hdd.m3u8?c
@@ -1208,7 +1208,7 @@ TV5-Monde-Asie.id	01`02aTV5/sa_dash_vmx/TV5.mpd``1b411a92f60bd9751d9637e849d3a63
 TV9.id	01`02aTV9/sa_dash_vmx/TV9.mpd``ce1a653fafa780cd4a8747c08872e3ab:d83bcf72b3f5a3d09674602b06caaa71
 TVMuhammadiyah.id	01`02aTVMuhammadiyah/sa_dash_vmx/TVMuhammadiyah.mpd``2fa7625e3470d5e9429f64150614f9a5:c495ad0e82e2266fd207934327c71ce3
 ZooMoo.id	01`02aBoomerang/sa_dash_vmx/Boomerang.mpd``5ff6154f28d6950063f9f5b4db7be009:93cac38fd15124acce5b658896df0a25
-🆔 Channels: Ⓜa1, Ⓧa2 & Ⓞb0	^-
+🆔 Indo Channels: Ⓜa1, Ⓧa2 & Ⓞb0	^-
 {s} Ⓜa1 🤹Multi 🆔	^^sa1
 {h} Ⓞb0 Okay 🆔	^^hb0
 Movies Channels Multi Sub +Indo	^-

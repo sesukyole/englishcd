@@ -880,7 +880,7 @@ Win Sports	`1i3`05winsports
 Sports Channels on Ⓘc2 and Ⓦb3 Wow!	^-
 {s} Ⓗa0 ⚽️Live Sports	^^sa0
 {h} Ⓦb3 Wow Sports!	^^hb3
-🆔 Channels: Ⓜa1, Ⓧa2 & Ⓞb0	^-
+🆔 Indo Channels: Ⓜa1, Ⓧa2 & Ⓞb0	^-
 {s} Ⓜa1 🤹Multi 🆔	^^sa1
 {s} Ⓧa2 🤺eXtra 🆔	^^sa2
 {h} Ⓞb0 Okay 🆔	^^hb0

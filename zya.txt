@@ -9,7 +9,7 @@ Movies Channels Multi Sub +Indo	^-
 {h} Ⓨ4 Movies Film 1	^^h4
 {h} Ⓩ5 Movies Film 2	^^h5
 {h} Ⓣ6 Movies Film 3	^^h6
-🆔 Channels: Ⓜa1, Ⓧa2 & Ⓞb0	^-
+🆔 Indo Channels: Ⓜa1, Ⓧa2 & Ⓞb0	^-
 {s} Ⓗa0 ⚽️Live Sports	^^sa0
 {s} Ⓜa1 🤹Multi 🆔	^^sa1
 {s} Ⓧa2 🤺eXtra 🆔	^^sa2
