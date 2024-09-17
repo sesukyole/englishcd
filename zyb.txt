@@ -8,7 +8,7 @@
 {h} Ⓨ Movies Film 1 Sub Indo	^^h4
 {h} Ⓩ Movies Film 2 Sub Indo	^^h5
 {h} Ⓣ Movies Film 3 Sub Indo	^^h6
-<a title='a'>Live Sports Events</a>	^-
+<a>Live Sports Events</a>	^-
 17/09 04:30 Cortulua x Deportes Quindio	^-
 Live Football / Soccer	`0https://l.3/colombian-torneo-betplay-dimayor-4010135/inter-palmira-vs-deportes-quindio.html
 17/09 04:30 Sportivo Trinidense x Tacuary	^-
@@ -131,7 +131,7 @@ Live Football / Soccer	`0https://l.3/uefa-champions-league-4049611/real-madrid-v
 Live Football / Soccer	`0https://l.3/uefa-champions-league-4049749/fc-bayern-munich-vs-dinamo-zagreb.html
 18/09 03:15 AD Tarma x Cusco FC	^-
 Live Football / Soccer	`0https://l.3/peruvian-liga-1-4020720/ad-tarma-vs-cusco-fc.html
-<a title='a'>RePlay ReWatch Football Match</a>	^-
+<a>RePlay ReWatch Football Match</a>	^-
 Tottenham Hotspur VS Arsenal	^-
 RePlay ReWatch Football Match	https://l.2/09-15/322675/UUpTbkdTR1JQRFhsRFtDUVJCW2lDVEkbFAMBcQcJEgUFHwc4Hg8YH08TBjJODRodBEpYaEZXR1tUQllvTlBEWVdEWGZCUUNIUEVbbkBTRg==/2024-09-15-21-00-01_eof.m3u8
 Real Sociedad VS Real Madrid	^-
