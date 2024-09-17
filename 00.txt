@@ -1,5 +1,5 @@
 ^=#26:62 AAA x ZZZ	^-
-{s} Ⓗa0 Live Sports Events	^-
+<a>{s} Ⓗa0 Live Sports Events</a>	^-
 17/09 04:30 Cortulua x Deportes Quindio	^-
 Live Football / Soccer	`0https://l.3/colombian-torneo-betplay-dimayor-4010135/inter-palmira-vs-deportes-quindio.html
 17/09 04:30 Sportivo Trinidense x Tacuary	^-
@@ -122,6 +122,7 @@ Live Football / Soccer	`0https://l.3/uefa-champions-league-4049611/real-madrid-v
 Live Football / Soccer	`0https://l.3/uefa-champions-league-4049749/fc-bayern-munich-vs-dinamo-zagreb.html
 18/09 03:15 AD Tarma x Cusco FC	^-
 Live Football / Soccer	`0https://l.3/peruvian-liga-1-4020720/ad-tarma-vs-cusco-fc.html
+<a>RePlay ReWatch Football Match</a>	^-
 Tottenham Hotspur VS Arsenal	^-
 RePlay ReWatch Football Match	https://l.2/09-15/322675/UUpTbkdTR1JQRFhsRFtDUVJCW2lDVEkbFAMBcQcJEgUFHwc4Hg8YH08TBjJODRodBEpYaEZXR1tUQllvTlBEWVdEWGZCUUNIUEVbbkBTRg==/2024-09-15-21-00-01_eof.m3u8
 Real Sociedad VS Real Madrid	^-
@@ -130,6 +131,7 @@ Manchester City VS Brentford	^-
 RePlay ReWatch Football Match	https://l.2/09-14/5004240/UUpTbkdTR1JQRFhsRFtDUVRAWWtGVUNREQUaN1oSGwoPFAYxEwsdABVeCjAZWx8CFxVTbkNTRVhTQl1pRltCXFNGWmxCWUVZQkFcbUVVQV4=/2024-09-14-22-01-09_eof.m3u8
 Southampton VS Manchester United	^-
 RePlay ReWatch Football Match	https://l.2/09-14/322580/UUpTbkdTR1JQRFhsRFtDUVJCW2pMUUkbFAMBcQcJEgUFHwc4Hg8YH08TBjJODRodBEpYaEZXQFpSRFlvTlBEWVdDW2hMUUNIUEVbbkBTRg==/2024-09-14-19-30-01_eof.m3u8
+<a>Live Sports Events</a>	^-
 19:30 Futsal: Portugal x Panama	^-
 21:50 Futsal: Tajikistan x Morocco	^-
 02:15 Estrela x Boavista	^-
@@ -200,16 +202,6 @@ Live Sports BR 6	`0i3`02bra/br6.php
 Live Sports BR 7	`0i3`02bra/br7.php
 Live Sports BR 8	`0i3`02bra/br8.php
 PT Benefica	`0i3`02pt/btv.php
-TyC Sports A	https://d320m3arb2wo8b.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8
-TyC Sports B	https://dj8bzwveg7go9.cloudfront.net/out/v1/19321d887c274b58a4f62fe0f6e2151b/index.m3u8
-TyC Sports C	https://d1xm2jznwi5xzj.cloudfront.net/out/v1/1bcd1ee954894463b1793597891a25b6/index.m3u8
-TyC Sports D	https://dj8bzwveg7go9.cloudfront.net/out/v1/366fc52554ae42c58465ea4b278eac0c/index.m3u8
-TyC Sports E	https://d107yb993altze.cloudfront.net/out/v1/772e0b0193134726ad84693b7baca6c6/index.m3u8
-TyC Sports F	https://d21no6qan3ol31.cloudfront.net/out/v1/a2f25f61e9d44701aa4e813ac5efc4a4/index.m3u8
-TyC Sports G	https://d3v9hc3dccxi3a.cloudfront.net/out/v1/bccdd4d97f434c63ab2f675e5145758f/index.m3u8
-TyC Sports H	https://dbjn2fo8vpiph.cloudfront.net/out/v1/4c8dc641a91448439388e41118924965/index.m3u8
-TyC Sports I	https://d1scuk1wvkchtc.cloudfront.net/out/v1/19321d887c274b58a4f62fe0f6e2151b/index.m3u8
-TyC Sports J	https://d2scohpz55y5r5.cloudfront.net/out/v1/c43ac17254584daa9781eaaeea1a085d/index.m3u8
 Sports Channels on Ⓘc2 and Ⓦb3 Wow!	^-
 {s} Ⓘc2 SportsTV	^^s2
 {h} Ⓦb3 Wow Sports!	^^hb3

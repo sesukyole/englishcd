@@ -602,17 +602,3 @@ Football / Kora 7 A	https://a7.l.2/0/stream.m3u8
 Football / Kora 7 B	https://a7.l.2/1/stream.m3u8
 Football / Kora 8 A	https://a8.l.2/0/stream.m3u8
 Football / Kora 8 B	https://a8.l.2/1/stream.m3u8
-15:30 Bali United x PSS Sleman	^-
-Live Football / Soccer	`0https://l.3/indonesian-liga-1-4029494/bali-united-vs-pss-sleman.html
-19:00 Persija Jakarta x Dewa United FC	^-
-Live Football / Soccer	`0https://l.3/indonesian-liga-1-4029464/persija-jakarta-vs-dewa-united-fc.html
-21:00 Mohammedan SC x North East United FC	^-
-Live Football / Soccer	`0https://l.3/indian-super-league-4055128/mohammedan-sc-vs-north-east-united-fc.html
-Tottenham Hotspur VS Arsenal	^-
-RePlay ReWatch Football Match	https://l.2/09-15/322675/UUpTbkdTR1JQRFhsRFtDUVJCW2lDVEkbFAMBcQcJEgUFHwc4Hg8YH08TBjJODRodBEpYaEZXR1tUQllvTlBEWVdEWGZCUUNIUEVbbkBTRg==/2024-09-15-21-00-01_eof.m3u8
-Real Sociedad VS Real Madrid	^-
-RePlay ReWatch Football Match	https://l.2/09-15/5004240/UUpTbkdTR1JQRFhsRFtDUVRAWWtGVUNREQUaN1oSGwoPFAYxEwsdABVeCjAZWx8CFxVTbkNTRVhVQF1vRFtCXFNGWmpAWUNbQkFcbUVVQV4=/2024-09-15-03-00-03_eof.m3u8
-Manchester City VS Brentford	^-
-RePlay ReWatch Football Match	https://l.2/09-14/5004240/UUpTbkdTR1JQRFhsRFtDUVRAWWtGVUNREQUaN1oSGwoPFAYxEwsdABVeCjAZWx8CFxVTbkNTRVhTQl1pRltCXFNGWmxCWUVZQkFcbUVVQV4=/2024-09-14-22-01-09_eof.m3u8
-Southampton VS Manchester United	^-
-RePlay ReWatch Football Match	https://l.2/09-14/322580/UUpTbkdTR1JQRFhsRFtDUVJCW2pMUUkbFAMBcQcJEgUFHwc4Hg8YH08TBjJODRodBEpYaEZXQFpSRFlvTlBEWVdDW2hMUUNIUEVbbkBTRg==/2024-09-14-19-30-01_eof.m3u8
