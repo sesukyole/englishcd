@@ -8,122 +8,9 @@
 {h} Ⓨ Movies Film 1 Sub Indo	^^h4
 {h} Ⓩ Movies Film 2 Sub Indo	^^h5
 {h} Ⓣ Movies Film 3 Sub Indo	^^h6
-Tottenham Hotspur VS Arsenal	^-
-RePlay ReWatch Football Match	https://l.2/09-15/322675/UUpTbkdTR1JQRFhsRFtDUVJCW2lDVEkbFAMBcQcJEgUFHwc4Hg8YH08TBjJODRodBEpYaEZXR1tUQllvTlBEWVdEWGZCUUNIUEVbbkBTRg==/2024-09-15-21-00-01_eof.m3u8
-Real Sociedad VS Real Madrid	^-
-RePlay ReWatch Football Match	https://l.2/09-15/5004240/UUpTbkdTR1JQRFhsRFtDUVRAWWtGVUNREQUaN1oSGwoPFAYxEwsdABVeCjAZWx8CFxVTbkNTRVhVQF1vRFtCXFNGWmpAWUNbQkFcbUVVQV4=/2024-09-15-03-00-03_eof.m3u8
-Manchester City VS Brentford	^-
-RePlay ReWatch Football Match	https://l.2/09-14/5004240/UUpTbkdTR1JQRFhsRFtDUVRAWWtGVUNREQUaN1oSGwoPFAYxEwsdABVeCjAZWx8CFxVTbkNTRVhTQl1pRltCXFNGWmxCWUVZQkFcbUVVQV4=/2024-09-14-22-01-09_eof.m3u8
-Southampton VS Manchester United	^-
-RePlay ReWatch Football Match	https://l.2/09-14/322580/UUpTbkdTR1JQRFhsRFtDUVJCW2pMUUkbFAMBcQcJEgUFHwc4Hg8YH08TBjJODRodBEpYaEZXQFpSRFlvTlBEWVdDW2hMUUNIUEVbbkBTRg==/2024-09-14-19-30-01_eof.m3u8
-23:00 Hoffenheim (w) x SC Freiburg (w)	^-
-Live Football / Soccer	`0https://l.3/german-frauen-bundesliga-4032571/hoffenheim-w-vs-sc-freiburg-w.html
-19:30 Iran x Venezuela	^-
-Live Football / Soccer	`0https://l.3/iceland-besta-deild-karla-4059421/iran-vs-venezuela.html
-19:30 Portugal x Panama	^-
-Live Football / Soccer	`0https://l.3/iceland-besta-deild-karla-4059422/portugal-vs-panama.html
-20:30 Verona U20 x Torino U20	^-
-Live Football / Soccer	`0https://l.3/italian-campionato-primavera-1-4037613/verona-u20-vs-torino-u19.html
-21:00 Belasitsa Petrich x FC Dobrudzha	^-
-Live Football / Soccer	`0https://l.3/bulgarian-second-league-3981350/belasitsa-petrich-vs-fc-dobrudzha.html
-21:30 Egersunds IK x Ranheim IL	^-
-Live Football / Soccer	`0https://l.3/norwegian-1-divisjon-3906387/egersunds-ik-vs-ranheim-il.html
-22:00 UTA Arad x Hermannstadt	^-
-Live Football / Soccer	`0https://l.3/romanian-liga-i-3998607/uta-arad-vs-hermannstadt.html
-22:00 Kolos Kovalyovka x LNZ Lebedyn	^-
-Live Football / Soccer	`0https://l.3/ukrainian-premier-league-3999315/kolos-kovalyovka-vs-lnz-cherkasy.html
-22:00 Guatemala x France	^-
-Live Football / Soccer	`0https://l.3/iceland-besta-deild-karla-4059423/guatemala-vs-france.html
-22:00 Tajikistan x Morocco	^-
-Live Football / Soccer	`0https://l.3/iceland-besta-deild-karla-4059424/tajikistan-vs-morocco.html
-22:30 Lazio Youth x AS Roma U20	^-
-Live Football / Soccer	`0https://l.3/italian-campionato-primavera-1-4035436/lazio-youth-vs-as-roma-u19.html
-22:40 Al Bukayriyah x Abha	^-
-Live Football / Soccer	`0https://l.3/saudi-arabia-division-1-4040109/al-bukayriyah-vs-abha.html
-23:00 GOSK Gabela x FK Zeljeznicar	^-
-Live Football / Soccer	`0https://l.3/bosnia-and-herzegovina-premier-league-4006512/gosk-gabela-vs-fk-zeljeznicar.html
-23:00 Al Ain x Al-Sadd	^-
-Live Football / Soccer	`0https://l.3/afc-champions-league-elite-4041849/al-ain-fc-vs-al-sadd.html
-23:00 Al Shorta x Al Nassr FC	^-
-Live Football / Soccer	`0https://l.3/afc-champions-league-elite-4045877/al-shorta-vs-al-nassr-fc.html
-23:30 Fredericia x Hobro	^-
-Live Football / Soccer	`0https://l.3/danish-1st-division-3986780/fredericia-vs-hobro.html
-23:30 Parma x Udinese	^-
-Live Football / Soccer	`0https://l.3/italian-serie-a-3993954/parma-vs-udinese.html
-23:45 Lokomotiv Sofia x CSKA Sofia	^-
-Live Football / Soccer	`0https://l.3/bulgarian-first-league-3980350/lokomotiv-sofia-vs-cska-sofia.html
-17/09 00:00 Start Kristiansand x Levanger FK	^-
-Live Football / Soccer	`0https://l.3/norwegian-1-divisjon-3906385/start-kristiansand-vs-levanger-fk.html
-17/09 00:00 Valerenga x Asane Fotball	^-
-Live Football / Soccer	`0https://l.3/norwegian-1-divisjon-3906386/vlerenga-fotball-elite-vs-asane-fotball.html
-17/09 00:00 Stabaek x Raufoss	^-
-Live Football / Soccer	`0https://l.3/norwegian-1-divisjon-3906389/stabaek-vs-raufoss-il.html
-17/09 00:00 Mjondalen IF x Bryne	^-
-Live Football / Soccer	`0https://l.3/norwegian-1-divisjon-3906390/mjondalen-if-vs-bryne.html
-17/09 00:00 Aalesund FK x Sandnes Ulf	^-
-Live Football / Soccer	`0https://l.3/norwegian-1-divisjon-3906391/aalesund-fk-vs-sandnes-ulf.html
-17/09 00:00 Kongsvinger x Moss	^-
-Live Football / Soccer	`0https://l.3/norwegian-1-divisjon-3906392/kongsvinger-vs-moss.html
-17/09 00:00 GKS Tychy x Ruch Chorzow	^-
-Live Football / Soccer	`0https://l.3/poland-liga-1-3980687/gks-tychy-vs-ruch-chorzow.html
-17/09 00:00 Znicz Pruszkow x Chrobry Glogow	^-
-Live Football / Soccer	`0https://l.3/poland-liga-1-3981041/znicz-pruszkow-vs-chrobry-glogow.html
-17/09 00:00 Nordsjaelland x Randers FC	^-
-Live Football / Soccer	`0https://l.3/danish-superliga-3982785/nordsjaelland-vs-randers-fc.html
-17/09 00:00 Antalyaspor x Adana Demirspor	^-
-Live Football / Soccer	`0https://l.3/turkish-super-league-3996492/antalyaspor-vs-adana-demirspor.html
-17/09 00:00 Feirense x Pacos de Ferreira	^-
-Live Football / Soccer	`0https://l.3/liga-portugal-2-4002378/feirense-vs-pacos-de-ferreira.html
-17/09 00:00 AEK Athens x Volos NFC	^-
-Live Football / Soccer	`0https://l.3/greek-super-league-4018602/aek-athens-vs-volos-nps.html
-17/09 00:00 Adanaspor x Keciorengucu	^-
-Live Football / Soccer	`0https://l.3/turkish-first-league-4028922/adanaspor-vs-keciorengucu.html
-17/09 00:00 Kazincbarcika x Diosgyor VTK	^-
-Live Football / Soccer	`0https://l.3/hungary--cup-4055683/kazincbarcika-vs-diosgyor-vtk.html
-17/09 00:10 Hammarby x IFK Norrkoping FK	^-
-Live Football / Soccer	`0https://l.3/sweden-allsvenskan-3895876/hammarby-vs-ifk-norrkoping-fk.html
-17/09 00:30 Al-Arabi(KSA) x Al-Jabalain	^-
-Live Football / Soccer	`0https://l.3/saudi-arabia-division-1-4040126/al-arabiksa-vs-al-jabalain.html
-17/09 01:00 Barracas Central x Banfield	^-
-Live Football / Soccer	`0https://l.3/argentine-division-1-3892365/barracas-central-vs-banfield.html
-17/09 01:00 Jedinstvo UB x Radnicki Nis	^-
-Live Football / Soccer	`0https://l.3/serbian-super-liga-3983145/jedinstvo-ub-vs-radnicki-nis.html
-17/09 01:00 Emmen x Vitesse Arnhem	^-
-Live Football / Soccer	`0https://l.3/netherlands-eerste-divisie-3987065/emmen-vs-vitesse-arnhem.html
-17/09 01:00 Helmond Sport x FC Oss	^-
-Live Football / Soccer	`0https://l.3/netherlands-eerste-divisie-3987068/helmond-sport-vs-fc-oss.html
-17/09 01:00 Excelsior SBV x VVV Venlo	^-
-Live Football / Soccer	`0https://l.3/netherlands-eerste-divisie-3987079/excelsior-sbv-vs-vvv-venlo.html
-17/09 01:00 FC Utrecht (Youth) x Den Bosch	^-
-Live Football / Soccer	`0https://l.3/netherlands-eerste-divisie-3987082/fc-utrecht-youth-vs-den-bosch.html
-17/09 01:00 Jong PSV Eindhoven (Youth) x ADO Den Haag	^-
-Live Football / Soccer	`0https://l.3/netherlands-eerste-divisie-3987088/jong-psv-eindhoven-youth-vs-ado-den-haag.html
-17/09 01:00 SC Cambuur x Roda JC	^-
-Live Football / Soccer	`0https://l.3/netherlands-eerste-divisie-3987095/sc-cambuur-leeuwarden-vs-roda-jc.html
-17/09 01:00 Rapid Bucuresti x Universitaea Cluj	^-
-Live Football / Soccer	`0https://l.3/romanian-liga-i-3998570/fc-rapid-1923-vs-fc-universitatea-cluj.html
-17/09 01:00 Al Ahli Jeddah x Persepolis	^-
-Live Football / Soccer	`0https://l.3/afc-champions-league-elite-4041836/al-ahli-sfc-vs-persepolis.html
-17/09 01:00 Esteghlal Tehran x Al-Garrafa	^-
-Live Football / Soccer	`0https://l.3/afc-champions-league-elite-4042192/esteghlal-tehran-vs-al-gharafa.html
-17/09 01:30 Almeria x Castellon	^-
-Live Football / Soccer	`0https://l.3/spanish-segunda-division-4001977/almeria-vs-castellon.html
-17/09 01:45 Galway United x Shamrock Rovers	^-
-Live Football / Soccer	`0https://l.3/ireland-premier-division-3891794/galway-united-vs-shamrock-rovers.html
-17/09 01:45 Lazio x Verona	^-
-Live Football / Soccer	`0https://l.3/italian-serie-a-3993972/lazio-vs-hellas-verona.html
-17/09 01:45 Grenoble x Caen	^-
-Live Football / Soccer	`0https://l.3/french-ligue-2-4038466/grenoble-vs-caen.html
-17/09 02:00 Rayo Vallecano x Osasuna	^-
-Live Football / Soccer	`0https://l.3/spanish-la-liga-3994772/rayo-vallecano-vs-ca-osasuna.html
-17/09 02:00 Birmingham City x Wrexham	^-
-Live Football / Soccer	`0https://l.3/english-football-league-one-3997051/birmingham-city-vs-wrexham.html
-17/09 02:15 Valur Reykjavik x KR Reykjavik	^-
-Live Football / Soccer	`0https://l.3/iceland-besta-deild-karla-3886766/valur-reykjavik-vs-kr-reykjavik.html
-17/09 02:15 Fylkir x Vikingur Reykjavik	^-
-Live Football / Soccer	`0https://l.3/iceland-besta-deild-karla-3886769/fylkir-vs-vikingur-reykjavik.html
-17/09 02:15 Estrela da Amadora x Boavista FC	^-
-Live Football / Soccer	`0https://l.3/portuguese-primera-liga-4001239/cf-estrela-amadora-sad-vs-boavista-fc.html
+<a title='a'>Live Sports Events</a>	^-
+17/09 04:30 Cortulua x Deportes Quindio	^-
+Live Football / Soccer	`0https://l.3/colombian-torneo-betplay-dimayor-4010135/inter-palmira-vs-deportes-quindio.html
 17/09 04:30 Sportivo Trinidense x Tacuary	^-
 Live Football / Soccer	`0https://l.3/paraguayan-primera-division-4014583/sportivo-trinidense-vs-tacuary.html
 17/09 05:00 Barranquilla FC x Orsomarso	^-
@@ -136,10 +23,12 @@ Live Football / Soccer	`0https://l.3/jamaica-premier-league-4059350/harbour-view
 Live Football / Soccer	`0https://l.3/portuguese-cup-4059425/2-clemson-vs-holy-cross.html
 17/09 05:00 Pennsylvania x VCU	^-
 Live Football / Soccer	`0https://l.3/portuguese-cup-4059426/pennsylvania-vs-vcu.html
-17/09 05:30 Inter Palmira x Deportes Quindio	^-
-Live Football / Soccer	`0https://l.3/colombian-torneo-betplay-dimayor-4010135/inter-palmira-vs-deportes-quindio.html
 17/09 06:00 Internacional RS x Cuiaba	^-
 Live Football / Soccer	`0https://l.3/brazilian-serie-a-3931517/internacional-rs-vs-cuiaba.html
+06:00 Club Necaxa (w) x Juarez FC (w)	^-
+Live Football / Soccer	`0https://l.3/mexico-liga-mx-femenil-3989916/club-necaxa-w-vs-juarez-fc-w.html
+17/09 06:00 Ferroviaria SP x Athletic Club MG	^-
+Live Football / Soccer	`0https://l.3/brazilian-serie-c-4047179/ferroviaria-sp-vs-athletic-club-mg.html
 17/09 06:00 Manhattan x Fordham	^-
 Live Football / Soccer	`0https://l.3/portuguese-cup-4059427/manhattan-vs-fordham.html
 17/09 06:30 Alianza Petrolera x Atletico Nacional Medellin	^-
@@ -162,6 +51,95 @@ Live Football / Soccer	`0https://l.3/united-states-womens-national-soccer-league
 Live Football / Soccer	`0https://l.3/ncaa-womens-soccer-4059430/george-fox-vs-portland.html
 17/09 15:30 PSBS Biak Numfor x Madura United	^-
 Live Football / Soccer	`0https://l.3/indonesian-liga-1-4029457/psbs-biak-numfor--vs-madura-united.html
+17:00 Shandong Taishan x Central Coast Mariners	^-
+Live Football / Soccer	`0https://l.3/afc-champions-league-elite-4041430/shandong-taishan-fc-vs-central-coast-mariners.html
+17:00 Gwangju Football Club x Yokohama F Marinos	^-
+Live Football / Soccer	`0https://l.3/afc-champions-league-elite-4048203/gwangju-football-club-vs-yokohama-f-marinos.html
+19:00 Borneo FC x Malut United	^-
+Live Football / Soccer	`0https://l.3/indonesian-liga-1-4032389/borneo-fc-vs-malut-united.html
+19:00 Shanghai Shenhua x Pohang Steelers	^-
+Live Football / Soccer	`0https://l.3/afc-champions-league-elite-4041775/shanghai-shenhua-fc-vs-pohang-steelers.html
+19:00 Buriram United x Vissel Kobe	^-
+Live Football / Soccer	`0https://l.3/afc-champions-league-elite-4048205/buriram-united-vs-vissel-kobe.html
+19:00 Sporting Lisbon U19 x Lille U19	^-
+Live Football / Soccer	`0https://l.3/uefa-youth-league-4055688/sporting-cp-u19-vs-lille-u19.html
+19:00 Juventus Youth x PSV Eindhoven U19	^-
+Live Football / Soccer	`0https://l.3/uefa-youth-league-4055690/juventus-youth-vs-psv-eindhoven-u19.html
+19:00 Young Boys U19 x Aston Villa U19	^-
+Live Football / Soccer	`0https://l.3/uefa-youth-league-4055691/young-boys-u19-vs-aston-villa-u19.html
+19:30 AC Milan U19 x Liverpool U19	^-
+Live Football / Soccer	`0https://l.3/uefa-youth-league-4055689/ac-milan-u19-vs-liverpool-u19.html
+21:00 Scolar Resita x FK Csikszereda Miercurea Ciuc	^-
+Live Football / Soccer	`0https://l.3/romanian-liga-ii-4023708/scolar-resita-vs-fk-csikszereda-miercurea-ciuc.html
+21:00 Pakhtakor x Al-Wasl	^-
+Live Football / Soccer	`0https://l.3/afc-champions-league-elite-4040059/pakhtakor-vs-al-wasl-sc.html
+21:00 Bayern Munchen U19 x Dinamo Zagreb U19	^-
+Live Football / Soccer	`0https://l.3/uefa-youth-league-4055550/bayern-munchen-u19-vs-dinamo-zagreb-u19.html
+21:00 Real Madrid U19 x VfB Stuttgart U19	^-
+Live Football / Soccer	`0https://l.3/uefa-youth-league-4055692/real-madrid-u19-vs-vfb-stuttgart-u19.html
+21:00 FC Goa x Jamshedpur FC	^-
+Live Football / Soccer	`0https://l.3/indian-super-league-4055693/fc-goa-vs-jamshedpur-fc.html
+23:00 FC Istiklol Dushanbe x Al-Sharjah	^-
+Live Football / Soccer	`0https://l.3/afc-champions-league-2-4040022/fc-istiklol-dushanbe-vs-al-sharjah.html
+23:00 Al Wehda x Sepahan	^-
+Live Football / Soccer	`0https://l.3/afc-champions-league-2-4040363/al-wehdat-vs-sepahan.html
+23:00 Al Rayyan x Al Hilal SFC	^-
+Live Football / Soccer	`0https://l.3/afc-champions-league-elite-4042193/al-rayyan-vs-al-hilal.html
+23:45 Young Boys x Aston Villa	^-
+Live Football / Soccer	`0https://l.3/uefa-champions-league-4049633/young-boys-vs-aston-villa.html
+23:45 Juventus x PSV Eindhoven	^-
+Live Football / Soccer	`0https://l.3/uefa-champions-league-4049746/juventus-vs-psv-eindhoven.html
+18/09 00:00 Mallorca x Real Sociedad	^-
+Live Football / Soccer	`0https://l.3/spanish-la-liga-3994776/rcd-mallorca-vs-real-sociedad.html
+18/09 00:00 Galatasaray x Gazisehir Gaziantep	^-
+Live Football / Soccer	`0https://l.3/turkish-super-league-3996480/galatasaray-vs-gazisehir-gaziantep.html
+18/09 00:00 Zenit St. Petersburg x Rubin Kazan	^-
+Live Football / Soccer	`0https://l.3/russian-cup-4011869/zenit-st-petersburg-vs-rubin-kazan.html
+18/09 00:30 LKS Lodz x Wisla Krakow	^-
+Live Football / Soccer	`0https://l.3/poland-liga-1-3984558/lks-lodz-vs-wisla-krakow.html
+18/09 00:30 Mamelodi Sundowns x Supersport United	^-
+Live Football / Soccer	`0https://l.3/south-africa-premier-soccer-league-4054513/mamelodi-sundowns-vs-supersport-united.html
+18/09 01:00 Anderlecht x Racing Genk	^-
+Live Football / Soccer	`0https://l.3/belgian-pro-league-3979232/anderlecht-vs-racing-genk.html
+18/09 01:00 Volendam x Dordrecht	^-
+Live Football / Soccer	`0https://l.3/netherlands-eerste-divisie-3987227/volendam-vs-dordrecht.html
+18/09 01:00 Jong Ajax (Youth) x AZ Alkmaar (Youth)	^-
+Live Football / Soccer	`0https://l.3/netherlands-eerste-divisie-3987246/jong-ajax-youth-vs-az-alkmaar-youth.html
+18/09 01:00 Sporting Cristal x Deportivo Garcilaso	^-
+Live Football / Soccer	`0https://l.3/peruvian-liga-1-4020709/sporting-cristal-vs-deportivo-garcilaso.html
+18/09 01:30 Stoke City x Fleetwood Town	^-
+Live Football / Soccer	`0https://l.3/english-carabao-cup-4049140/stoke-city-vs-fleetwood-town.html
+18/09 01:45 Queens Park Rangers (QPR) x Crystal Palace	^-
+Live Football / Soccer	`0https://l.3/english-carabao-cup-4048948/queens-park-rangers-vs-crystal-palace.html
+18/09 01:45 Blackpool x Sheffield Wednesday	^-
+Live Football / Soccer	`0https://l.3/english-carabao-cup-4049141/blackpool-vs-sheffield-wednesday.html
+18/09 01:45 Preston North End x Fulham	^-
+Live Football / Soccer	`0https://l.3/english-carabao-cup-4049142/preston-north-end-vs-fulham.html
+18/09 01:45 Everton x Southampton	^-
+Live Football / Soccer	`0https://l.3/english-carabao-cup-4049143/everton-vs-southampton.html
+18/09 01:45 Brentford x Leyton Orient	^-
+Live Football / Soccer	`0https://l.3/english-carabao-cup-4049144/brentford-vs-leyton-orient.html
+18/09 02:00 AC Milan x Liverpool	^-
+Live Football / Soccer	`0https://l.3/uefa-champions-league-4048551/ac-milan-vs-liverpool.html
+18/09 02:00 Sporting CP x Lille	^-
+Live Football / Soccer	`0https://l.3/uefa-champions-league-4048933/sporting-cp-vs-losc-lille.html
+18/09 02:00 Manchester United x Barnsley	^-
+Live Football / Soccer	`0https://l.3/english-carabao-cup-4049431/manchester-united-vs-barnsley.html
+18/09 02:00 Real Madrid x VfB Stuttgart	^-
+Live Football / Soccer	`0https://l.3/uefa-champions-league-4049611/real-madrid-vs-vfb-stuttgart.html
+18/09 02:00 Bayern Munchen x Dinamo Zagreb	^-
+Live Football / Soccer	`0https://l.3/uefa-champions-league-4049749/fc-bayern-munich-vs-dinamo-zagreb.html
+18/09 03:15 AD Tarma x Cusco FC	^-
+Live Football / Soccer	`0https://l.3/peruvian-liga-1-4020720/ad-tarma-vs-cusco-fc.html
+<a title='a'>RePlay ReWatch Football Match</a>	^-
+Tottenham Hotspur VS Arsenal	^-
+RePlay ReWatch Football Match	https://l.2/09-15/322675/UUpTbkdTR1JQRFhsRFtDUVJCW2lDVEkbFAMBcQcJEgUFHwc4Hg8YH08TBjJODRodBEpYaEZXR1tUQllvTlBEWVdEWGZCUUNIUEVbbkBTRg==/2024-09-15-21-00-01_eof.m3u8
+Real Sociedad VS Real Madrid	^-
+RePlay ReWatch Football Match	https://l.2/09-15/5004240/UUpTbkdTR1JQRFhsRFtDUVRAWWtGVUNREQUaN1oSGwoPFAYxEwsdABVeCjAZWx8CFxVTbkNTRVhVQF1vRFtCXFNGWmpAWUNbQkFcbUVVQV4=/2024-09-15-03-00-03_eof.m3u8
+Manchester City VS Brentford	^-
+RePlay ReWatch Football Match	https://l.2/09-14/5004240/UUpTbkdTR1JQRFhsRFtDUVRAWWtGVUNREQUaN1oSGwoPFAYxEwsdABVeCjAZWx8CFxVTbkNTRVhTQl1pRltCXFNGWmxCWUVZQkFcbUVVQV4=/2024-09-14-22-01-09_eof.m3u8
+Southampton VS Manchester United	^-
+RePlay ReWatch Football Match	https://l.2/09-14/322580/UUpTbkdTR1JQRFhsRFtDUVJCW2pMUUkbFAMBcQcJEgUFHwc4Hg8YH08TBjJODRodBEpYaEZXQFpSRFlvTlBEWVdDW2hMUUNIUEVbbkBTRg==/2024-09-14-19-30-01_eof.m3u8
 TyC Sports A	https://d320m3arb2wo8b.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8
 TyC Sports B	https://dj8bzwveg7go9.cloudfront.net/out/v1/19321d887c274b58a4f62fe0f6e2151b/index.m3u8
 TyC Sports C	https://d1xm2jznwi5xzj.cloudfront.net/out/v1/1bcd1ee954894463b1793597891a25b6/index.m3u8
@@ -630,3 +608,11 @@ Live Football / Soccer	`0https://l.3/indonesian-liga-1-4029494/bali-united-vs-ps
 Live Football / Soccer	`0https://l.3/indonesian-liga-1-4029464/persija-jakarta-vs-dewa-united-fc.html
 21:00 Mohammedan SC x North East United FC	^-
 Live Football / Soccer	`0https://l.3/indian-super-league-4055128/mohammedan-sc-vs-north-east-united-fc.html
+Tottenham Hotspur VS Arsenal	^-
+RePlay ReWatch Football Match	https://l.2/09-15/322675/UUpTbkdTR1JQRFhsRFtDUVJCW2lDVEkbFAMBcQcJEgUFHwc4Hg8YH08TBjJODRodBEpYaEZXR1tUQllvTlBEWVdEWGZCUUNIUEVbbkBTRg==/2024-09-15-21-00-01_eof.m3u8
+Real Sociedad VS Real Madrid	^-
+RePlay ReWatch Football Match	https://l.2/09-15/5004240/UUpTbkdTR1JQRFhsRFtDUVRAWWtGVUNREQUaN1oSGwoPFAYxEwsdABVeCjAZWx8CFxVTbkNTRVhVQF1vRFtCXFNGWmpAWUNbQkFcbUVVQV4=/2024-09-15-03-00-03_eof.m3u8
+Manchester City VS Brentford	^-
+RePlay ReWatch Football Match	https://l.2/09-14/5004240/UUpTbkdTR1JQRFhsRFtDUVRAWWtGVUNREQUaN1oSGwoPFAYxEwsdABVeCjAZWx8CFxVTbkNTRVhTQl1pRltCXFNGWmxCWUVZQkFcbUVVQV4=/2024-09-14-22-01-09_eof.m3u8
+Southampton VS Manchester United	^-
+RePlay ReWatch Football Match	https://l.2/09-14/322580/UUpTbkdTR1JQRFhsRFtDUVJCW2pMUUkbFAMBcQcJEgUFHwc4Hg8YH08TBjJODRodBEpYaEZXQFpSRFlvTlBEWVdDW2hMUUNIUEVbbkBTRg==/2024-09-14-19-30-01_eof.m3u8
