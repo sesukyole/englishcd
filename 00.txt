@@ -202,6 +202,22 @@ Live Sports BR 6	`0i3`02bra/br6.php
 Live Sports BR 7	`0i3`02bra/br7.php
 Live Sports BR 8	`0i3`02bra/br8.php
 PT Benefica	`0i3`02pt/btv.php
+Action Movies A	i3`064332?zyz
+Action Movies B	i3`066140589?zyz
+Action Movies C	i3`062516864?zyz
+Action Movies D	i3`068770422?zyz
+Action Movies E	i3`06218859?zyz
+Action Movies F	i3`06747764?zyz
+Action Movies G	i3`0636337?zyz
+Action Movies H	i3`068814650?zyz
+Action Movies I	i3`0620415?zyz
+Action Movies J	i3`06263824?zyz
+Action Movies K	i3`06323876?zyz
+Action Movies L	i3`062793084?zyz
+Action Movies M	i3`066566671?zyz
+Action Movies N	i3`061226741?zyz
+Action Movies O	i3`064246519?zyz
+Action Movies P	i3`06252802?zyz
 Sports Channels on Ⓘc2 and Ⓦb3 Wow!	^-
 {s} Ⓘc2 SportsTV	^^s2
 {h} Ⓦb3 Wow Sports!	^^hb3
