@@ -381,6 +381,13 @@ Manchester City VS Brentford	https://l.2/09-14/5004240/UUpTbkdTR1JQRFhsRFtDUVRAW
 14/09 18:30	^-
 Southampton VS Manchester United	https://l.2/09-14/322580/UUpTbkdTR1JQRFhsRFtDUVJCW2pMUUkbFAMBcQcJEgUFHwc4Hg8YH08TBjJODRodBEpYaEZXQFpSRFlvTlBEWVdDW2hMUUNIUEVbbkBTRg==/2024-09-14-19-30-01_eof.m3u8
 
+Football / Kora 1 A	https://r1.l.2/0/stream.m3u8
+Football / Kora 1 B	https://r1.l.2/1/stream.m3u8
+Football / Kora 2 A	https://r2.l.2/0/stream.m3u8
+Football / Kora 2 B	https://r2.l.2/1/stream.m3u8
+Football / Kora 3 A	https://r3.l.2/0/stream.m3u8
+Football / Kora 3 B	https://r3.l.2/1/stream.m3u8
+
 <a>Live Sports Events</a>	^-
 18/09 02:00 Manchester United x Barnsley	^-
 18/09 07:30 Colo-Colo x River Plate	^-
