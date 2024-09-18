@@ -877,7 +877,7 @@ TV Pública	`1i3`05tv_publica
 TYC Sports	`1i3`05tyc_sports
 Win Sports +	`1i3`05winplus
 Win Sports	`1i3`05winsports
-Sports Channels on Ⓘc2 and Ⓦb3 Wow!	^-
+Sports Channels on Ⓗa0 and Ⓦb3 Wow!	^-
 {s} Ⓗa0 ⚽️Live Sports	^^sa0
 {h} Ⓦb3 Wow Sports!	^^hb3
 🆔 Indo Channels: Ⓜa1, Ⓧa2 & Ⓞb0	^-
