@@ -161,11 +161,11 @@ Lincoln Red Imps FC U19 vs NK Maribor U20	`0https://l.3/uefa-youth-league-405653
 18/09 23:30 UEFA Youth League	^-
 JK Tallinna Kalev U19 vs FC Santa Coloma U19	`0https://l.3/uefa-youth-league-4057698/jk-tallinna-kalev-u19-vs-fc-santa-coloma-u19.html
 
-<a>18/09 23:45 UEFA Champions League</a>	^-
-Sparta Praha vs Red Bull Salzburg	`0https://l.3/uefa-champions-league-4049688/sparta-praha-vs-red-bull-salzburg.html
+18/09 23:45 UEFA Champions League	^-
+<l>Sparta Praha vs Red Bull Salzburg<z>	`0https://l.3/uefa-champions-league-4049688/sparta-praha-vs-red-bull-salzburg.html
 
-<a>18/09 23:45 UEFA Champions League</a>	^-
-Bologna vs FC Shakhtar Donetsk	`0https://l.3/uefa-champions-league-4049693/bologna-vs-fc-shakhtar-donetsk.html
+18/09 23:45 UEFA Champions League	^-
+<l>Bologna vs FC Shakhtar Donetsk<z>	`0https://l.3/uefa-champions-league-4049693/bologna-vs-fc-shakhtar-donetsk.html
 
 19/09 00:00 Sweden Allsvenskan	^-
 GAIS vs Malmo FF	`0https://l.3/sweden-allsvenskan-3895890/gais-vs-malmo-ff.html
@@ -231,23 +231,23 @@ FK Makhachkala vs Dynamo Moscow	`0https://l.3/russian-cup-4019310/fk-makhachkala
 19/09 01:30 UEFA Youth League	^-
 UCD U19 vs Stjarnan Gardabaer U19	`0https://l.3/uefa-youth-league-4056539/ucd-u19-vs-stjarnan-gardabaer-u19.html
 
-<g>19/09 01:45 English Carabao Cup<z>	^-
-Brighton Hove Albion vs Wolves	`0https://l.3/english-carabao-cup-4049107/brighton-hove-albion-vs-wolverhampton-wanderers.html
+19/09 01:45 English Carabao Cup	^-
+<g>Brighton Hove Albion vs Wolves<z>	`0https://l.3/english-carabao-cup-4049107/brighton-hove-albion-vs-wolverhampton-wanderers.html
 
-<g>19/09 02:00 English Carabao Cup<z>	^-
-Coventry City vs Tottenham Hotspur	`0https://l.3/english-carabao-cup-4049105/coventry-city-vs-tottenham-hotspur.html
+19/09 02:00 English Carabao Cup	^-
+<g>Coventry City vs Tottenham Hotspur<z>	`0https://l.3/english-carabao-cup-4049105/coventry-city-vs-tottenham-hotspur.html
 
-<a>19/09 02:00 UEFA Champions League</a>	^-
-Celtic FC vs Slovan Bratislava	`0https://l.3/uefa-champions-league-4049640/celtic-fc-vs-slovan-bratislava.html
+19/09 02:00 UEFA Champions League	^-
+<l>Celtic FC vs Slovan Bratislava<z>	`0https://l.3/uefa-champions-league-4049640/celtic-fc-vs-slovan-bratislava.html
 
-<a>19/09 02:00 UEFA Champions League</a>	^-
-Club Brugge vs Borussia Dortmund	`0https://l.3/uefa-champions-league-4049644/club-brugge-vs-borussia-dortmund.html
+19/09 02:00 UEFA Champions League	^-
+<l>Club Brugge vs Borussia Dortmund<z>	`0https://l.3/uefa-champions-league-4049644/club-brugge-vs-borussia-dortmund.html
 
-<a>19/09 02:00 UEFA Champions League</a>	^-
-Paris Saint Germain (PSG) vs Girona	`0https://l.3/uefa-champions-league-4049760/paris-saint-germain-vs-girona-fc.html
+19/09 02:00 UEFA Champions League	^-
+<l>Paris Saint Germain (PSG) vs Girona<z>	`0https://l.3/uefa-champions-league-4049760/paris-saint-germain-vs-girona-fc.html
 
-<a>19/09 02:00 UEFA Champions League</a>	^-
-Manchester City vs Inter Milan	`0https://l.3/uefa-champions-league-4055813/manchester-city-vs-inter-milan.html
+19/09 02:00 UEFA Champions League	^-
+<l>Manchester City vs Inter Milan<z>	`0https://l.3/uefa-champions-league-4055813/manchester-city-vs-inter-milan.html
 
 19/09 03:30 Peruvian Liga 1	^-
 Comerciantes Unidos vs Univ.Cesar Vallejo	`0https://l.3/peruvian-liga-1-4020708/comerciantes-unidos-vs-univcesar-vallejo.html
