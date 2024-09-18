@@ -1,9 +1,9 @@
-<a>{s} Ⓗa0 Live Sports Events</a>	^-
+<y>{s} Ⓗa0 Live Sports Events<z>	^-
 18/09 15:30 Indonesian Liga 1	^-
-Persik Kediri vs Persita Tangerang	`0https://l.3/indonesian-liga-1-4032387/persik-kediri-vs-persita-tangerang.html
+<y>Persik Kediri vs Persita Tangerang<z>	`0https://l.3/indonesian-liga-1-4032387/persik-kediri-vs-persita-tangerang.html
 
 18/09 15:30 Indonesian Liga 1	^-
-Semen Padang vs Barito Putera	`0https://l.3/indonesian-liga-1-4032390/semen-padang-vs-barito-putera.html
+<y>Semen Padang vs Barito Putera<z>	`0https://l.3/indonesian-liga-1-4032390/semen-padang-vs-barito-putera.html
 
 18/09 17:00 Japanese J1 League	^-
 Nagoya Grampus vs Albirex Niigata	`0https://l.3/japanese-j1-league-3907266/nagoya-grampus-vs-albirex-niigata.html
@@ -27,7 +27,7 @@ Kairat Almaty U19 vs Academia Rebeja U19	`0https://l.3/uefa-youth-league-4057697
 Cəbrayıl FK vs Zaqatala FK	`0https://l.3/azerbaijan-first-division-4059863/cbrayl-fk-vs-zaqatala-fk.html
 
 18/09 19:00 Indonesian Liga 1	^-
-Persebaya Surabaya vs Persis Solo FC	`0https://l.3/indonesian-liga-1-4032380/persebaya-surabaya-vs-persis-solo-fc.html
+<y>Persebaya Surabaya vs Persis Solo FC<z>	`0https://l.3/indonesian-liga-1-4032380/persebaya-surabaya-vs-persis-solo-fc.html
 
 18/09 19:00 AFC Champions League Elite	^-
 Shanghai Port vs Johor Darul Takzim	`0https://l.3/afc-champions-league-elite-4041776/shanghai-port-fc-vs-johor-darul-tazim-fc.html
@@ -162,10 +162,10 @@ Lincoln Red Imps FC U19 vs NK Maribor U20	`0https://l.3/uefa-youth-league-405653
 JK Tallinna Kalev U19 vs FC Santa Coloma U19	`0https://l.3/uefa-youth-league-4057698/jk-tallinna-kalev-u19-vs-fc-santa-coloma-u19.html
 
 18/09 23:45 UEFA Champions League	^-
-Sparta Praha vs Red Bull Salzburg	`0https://l.3/uefa-champions-league-4049688/sparta-praha-vs-red-bull-salzburg.html
+<a>Sparta Praha vs Red Bull Salzburg</a>	`0https://l.3/uefa-champions-league-4049688/sparta-praha-vs-red-bull-salzburg.html
 
 18/09 23:45 UEFA Champions League	^-
-Bologna vs FC Shakhtar Donetsk	`0https://l.3/uefa-champions-league-4049693/bologna-vs-fc-shakhtar-donetsk.html
+<a>Bologna vs FC Shakhtar Donetsk</a>	`0https://l.3/uefa-champions-league-4049693/bologna-vs-fc-shakhtar-donetsk.html
 
 19/09 00:00 Sweden Allsvenskan	^-
 GAIS vs Malmo FF	`0https://l.3/sweden-allsvenskan-3895890/gais-vs-malmo-ff.html
@@ -231,23 +231,23 @@ FK Makhachkala vs Dynamo Moscow	`0https://l.3/russian-cup-4019310/fk-makhachkala
 19/09 01:30 UEFA Youth League	^-
 UCD U19 vs Stjarnan Gardabaer U19	`0https://l.3/uefa-youth-league-4056539/ucd-u19-vs-stjarnan-gardabaer-u19.html
 
-19/09 01:45 English Carabao Cup	^-
+<g>19/09 01:45 English Carabao Cup<z>	^-
 Brighton Hove Albion vs Wolves	`0https://l.3/english-carabao-cup-4049107/brighton-hove-albion-vs-wolverhampton-wanderers.html
 
-19/09 02:00 English Carabao Cup	^-
+<g>19/09 02:00 English Carabao Cup<z>	^-
 Coventry City vs Tottenham Hotspur	`0https://l.3/english-carabao-cup-4049105/coventry-city-vs-tottenham-hotspur.html
 
 19/09 02:00 UEFA Champions League	^-
-Celtic FC vs Slovan Bratislava	`0https://l.3/uefa-champions-league-4049640/celtic-fc-vs-slovan-bratislava.html
+<a>Celtic FC vs Slovan Bratislava</a>	`0https://l.3/uefa-champions-league-4049640/celtic-fc-vs-slovan-bratislava.html
 
 19/09 02:00 UEFA Champions League	^-
-Club Brugge vs Borussia Dortmund	`0https://l.3/uefa-champions-league-4049644/club-brugge-vs-borussia-dortmund.html
+<a>Club Brugge vs Borussia Dortmund</a>	`0https://l.3/uefa-champions-league-4049644/club-brugge-vs-borussia-dortmund.html
 
 19/09 02:00 UEFA Champions League	^-
-Paris Saint Germain (PSG) vs Girona	`0https://l.3/uefa-champions-league-4049760/paris-saint-germain-vs-girona-fc.html
+<a>Paris Saint Germain (PSG) vs Girona</a>	`0https://l.3/uefa-champions-league-4049760/paris-saint-germain-vs-girona-fc.html
 
 19/09 02:00 UEFA Champions League	^-
-Manchester City vs Inter Milan	`0https://l.3/uefa-champions-league-4055813/manchester-city-vs-inter-milan.html
+<a>Manchester City vs Inter Milan</a>	`0https://l.3/uefa-champions-league-4055813/manchester-city-vs-inter-milan.html
 
 19/09 03:30 Peruvian Liga 1	^-
 Comerciantes Unidos vs Univ.Cesar Vallejo	`0https://l.3/peruvian-liga-1-4020708/comerciantes-unidos-vs-univcesar-vallejo.html
@@ -369,7 +369,7 @@ Seattle Sounders vs San Jose Earthquakes	`0https://l.3/united-states-major-leagu
 19/09 10:00 Mexico Liga MX	^-
 Monterrey vs FC Juarez	`0https://l.3/mexico-liga-mx-3981792/monterrey-vs-fc-juarez.html
 
-<a>RePlay ReWatch Football Match</a>	^-
+<y>RePlay ReWatch Football Match<z>	^-
 18/09 02:00	^-
 Real Madrid vs VfB Stuttgart	https://l.2/09-18/5004240/UUpTbkdTR1JQRFhsRFtDUVRAWWtGVUNREQUaN1oSGwoPFAYxEwsdABVeCjAZWx8CFxVTbkNTRV5YSV9vRFtCXFNGX25AUUNbQkFcbUVVQV4=/2024-09-18-03-00-01_eof.m3u8
 15/09 20:00	^-
@@ -388,7 +388,7 @@ Football / Kora 2 B	https://r2.l.2/1/stream.m3u8
 Football / Kora 3 A	https://r3.l.2/0/stream.m3u8
 Football / Kora 3 B	https://r3.l.2/1/stream.m3u8
 
-<a>Live Sports Events</a>	^-
+<y>Live Sports Events<z>	^-
 
 18/09 19:30 Futsal: Angola vs Ukraine	^-
 18/09 22:00 Futsal: Spain vs New Zealand	^-
@@ -513,7 +513,7 @@ PT Benefica	`0i3`02pt/btv.php
 
 
 
-<a>24/7 Action Movies Channels</a>	^-
+<y>24/7 Action Movies Channels<z>	^-
 Action Movies A	i3`064332?zyz
 Action Movies B	i3`066140589?zyz
 Action Movies C	i3`062516864?zyz

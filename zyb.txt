@@ -347,7 +347,7 @@ Relax	^^hk^relax.m3u
 {s} Ⓢ 0 Samsung	^^h10
 {s} Ⓟ 1 Pluto	^^h11
 <hr>Always use Chrome browser! ⚠️ Please Allow Popups and Disable Ad Blocker. ⚠️ Install Chrome Browser Extension: CORS Unblock, Allow CORS & Always Disable Content-Security-Policy! ⚠️ 🔒|Site settings | Privacy & security | Insecure content: Allow.👈 ⚠️ Settings | Privacy & security | Security | Always use secure connections: Upgrade navigations to HTTPS: Disable.👈<><hr>Always use Chrome browser! ⚠️ Please Allow Popups and Disable Ad Blocker. ⚠️ Settings | Privacy & security | Always use secure connections: Upgrade navigations to HTTPS: Disable.👈	^-
-<a>24/7 Action Movies Channels</a>	^-
+<y>24/7 Action Movies Channels<z>	^-
 Action Movies A	i3`064332?zyz
 Action Movies B	i3`066140589?zyz
 Action Movies C	i3`062516864?zyz
