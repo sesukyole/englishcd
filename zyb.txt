@@ -14,6 +14,7 @@ Football / Kora 2 A	https://r2.l.2/0/stream.m3u8
 Football / Kora 2 B	https://r2.l.2/1/stream.m3u8
 Football / Kora 3 A	https://r3.l.2/0/stream.m3u8
 Football / Kora 3 B	https://r3.l.2/1/stream.m3u8
+Testing	^-
 Football / Kora 4 A	https://r4.l.2/0/stream.m3u8
 Football / Kora 4 B	https://r4.l.2/1/stream.m3u8
 Football / Kora 5 A	https://r5.l.2/0/stream.m3u8
