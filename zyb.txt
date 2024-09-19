@@ -472,10 +472,5 @@ Football / Soccer K	`0https://l.1/b/b11?id=b11
 Football / Soccer L	`0https://l.1/b/b12?id=b12
 Football / Soccer M	`0https://l.1/b/b13?id=b13
 Football / Soccer N	`0https://l.1/b/b14?id=b14
-mnctv plus	https://l.4/api/plus.m3u8?ch=2&t=666?zyz
-gtv plus	https://l.4/api/plus.m3u8?ch=3&t=666?zyz
-jaktv o2	https://l.4/api/o2.m3u8?ch=jaktv&t=666
-lotusmacau o2	https://l.4/api/o2.m3u8?ch=lotusmacau&t=666
-xingkong o2	https://l.4/api/o2.m3u8?ch=xingkong&t=666
-vchina o2	https://l.4/api/o2.m3u8?ch=vchina&t=666
-tawaftv o2	https://l.4/api/o2.m3u8?ch=tawaftv&t=666
+mnctv plus	`0https://l.4/api/plus.m3u8?ch=2&t=666?zyz
+gtv plus	`0https://l.4/api/plus.m3u8?ch=3&t=666?zyz
