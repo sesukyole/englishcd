@@ -8,7 +8,7 @@
 {h} Ⓨ Movies Film 1 Sub Indo	^^h4
 {h} Ⓩ Movies Film 2 Sub Indo	^^h5
 {h} Ⓣ Movies Film 3 Sub Indo	^^h6
-Youtube GK Patuk	https://api.beetv.my.id/yt/id.m3u8?id=M1EPS6S3Cr0?zyz
+Youtube GK Patuk	https://l.5/yt/id.m3u8?id=M1EPS6S3Cr0?zyz
 Football / Kora 1 A	https://r1.l.2/0/stream.m3u8
 Football / Kora 1 B	https://r1.l.2/1/stream.m3u8
 Football / Kora 2 A	https://r2.l.2/0/stream.m3u8
