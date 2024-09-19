@@ -24,7 +24,7 @@ Lion City Sailors vs Zhejiang Greentown	`0https://l.3/afc-champions-league-2-404
 Dynamic Herb Cebu vs Jeonbuk Hyundai Motors	`0https://l.3/afc-champions-league-2-4048204/dynamic-herb-cebu-vs-jeonbuk-hyundai-motors.html
 
 19/09 19:00 AFC Champions League 2	^-
-Persib Bandung vs Port FC	`0https://l.3/afc-champions-league-2-4048241/persib-bandung-vs-port-fc.html
+<y>Persib Bandung vs Port FC<z>	`0https://l.3/afc-champions-league-2-4048241/persib-bandung-vs-port-fc.html
 
 19/09 19:00 UEFA Youth League	^-
 Brest Stade U19 vs Graz U19	`0https://l.3/uefa-youth-league-4055782/brest-stade-u19-vs-graz-u19.html
@@ -168,7 +168,7 @@ Flamengo vs CA Penarol	`0https://l.3/conmebol-copa-libertadores-4043876/cr-flame
 Talleres Rem de Escalada vs CA Huracan	`0https://l.3/copa-argentina-4057116/talleres-rem-de-escalada-vs-ca-huracan.html
 
 20/09 05:00 Argentine Reserve League	^-
-Atletico Tucuman Reserve vs River Plate R	`0https://l.3/argentine-reserve-league-4060331/atletico-tucuman-reserve-vs-river-plate-r.html
+Atletico Tucuman Reserve vs River Plate Reserve	`0https://l.3/argentine-reserve-league-4060331/atletico-tucuman-reserve-vs-river-plate-r.html
 
 20/09 05:30 Brazilian Serie B	^-
 CRB AL vs Ponte Preta	`0https://l.3/brazilian-serie-b-3937648/crb-al-vs-ponte-preta.html
@@ -219,6 +219,7 @@ Seattle U vs Oregon State	`0https://l.3/portuguese-cup-4060805/seattle-u-vs-oreg
 Sacramento State vs Santa Clara	`0https://l.3/portuguese-cup-4060804/sacramento-state-vs-santa-clara.html
 
 <y>RePlay ReWatch Football Match<z>	^-
+
 19/09 02:00	^-
 Manchester City vs Inter Milan	https://l.2/09-19/5004240/UUpTbkdTR1JQRFhsRFtDUVRAWWtGVUNREQUaN1oSGwoPFAYxEwsdABVeCjAZWx8CFxVTbkNTRV1ZRllvRFtCXFNGXm9EVUNbQkFcbUVVQV4=/2024-09-19-03-00-02_eof.m3u8
 18/09 02:00	^-
@@ -232,6 +233,7 @@ Manchester City vs Brentford	https://l.2/09-14/5004240/UUpTbkdTR1JQRFhsRFtDUVRAW
 14/09 18:30	^-
 Southampton vs Manchester United	https://l.2/09-14/322580/UUpTbkdTR1JQRFhsRFtDUVJCW2pMUUkbFAMBcQcJEgUFHwc4Hg8YH08TBjJODRodBEpYaEZXQFpSRFlvTlBEWVdDW2hMUUNIUEVbbkBTRg==/2024-09-14-19-30-01_eof.m3u8
 
+<y>Football / Koora Events<z>	^-
 Football / Kora 1 A	https://r1.l.2/0/stream.m3u8
 Football / Kora 1 B	https://r1.l.2/1/stream.m3u8
 Football / Kora 2 A	https://r2.l.2/0/stream.m3u8
@@ -241,57 +243,61 @@ Football / Kora 3 B	https://r3.l.2/1/stream.m3u8
 
 <y>Live Sports Events<z>	^-
 
-18/09 19:30 Futsal: Angola vs Ukraine	^-
-18/09 22:00 Futsal: Spain vs New Zealand	^-
-19/09 01:45 Brighton & Hove Albion vs Wolverhampton Wanderers	^-
-19/09 05:00 Fluminense vs Atlético Mineiro	^-
-19/09 07:30 Botafogo vs São Paulo	^-
+19/09 19:30 Futsal: Morocco vs Panama	^-
+19/09 22:00 Futsal: Portugal vs Tajikistan	^-
+20/09 05:00 Flamengo vs Peñarol	^-
+20/09 07:30 Athletico-PR vs Racing Club	^-
 
 Sport TV 1 A	`0i3`00SPT1
 Sport TV 1 B	`0i3`02pt/sporttv1.php
 SportTV1 [Portugal]	`4https://topembed.pw/channel/SportTV1[Portugal]
 
-18/09 12:00 ATP World Tour 250: Chengdu	^-
-19/09 02:00 Coventry City vs Tottenham Hotspur	^-
-19/09 07:30 Lanús vs Medellín	^-
-19/09 12:00 ATP World Tour 250: Chengdu	^-
+19/09 19:30 Futsal: Iran vs Guatemala	^-
+19/09 22:00 Futsal: France vs Venezuela	^-
+20/09 00:00 Trabzonspor vs Kayserispor	^-
+20/09 05:00 Talleres Remedios vs Huracán	^-
+20/09 07:30 Libertad vs Cruzeiro	^-
+20/09 12:00 ATP World Tour 250: Chengdu	^-
 
 Sport TV 2 A	`0i3`00SPT2
 Sport TV 2 B	`0i3`02pt/sporttv2.php
 SportTV2 [Portugal]	`4https://topembed.pw/channel/SportTV2[Portugal]
 
-18/09 19:30 Futsal: Libya vs Kazakhstan	^-
-18/09 22:00 Futsal: Argentina vs Afghanistan	^-
+19/09 18:00 DP World Tour: BMW PGA Championship	^-
+20/09 12:30 ATP World Tour 250: Hangzhou	^-
 
 Sport TV 3 A	`0i3`00SPT3
 Sport TV 3 B	`0i3`02pt/sporttv3.php
 SportTV3 [Portugal]	`4https://topembed.pw/channel/SportTV3[Portugal]
 
+20/09 07:00 NASCAR: Unoh 200 - Bristol	^-
 
 Sport TV 4 A	`0i3`00SPT4
 Sport TV 4 B	`0i3`02pt/sporttv4.php
 SportTV4 [Portugal]	`4https://topembed.pw/channel/SportTV4[Portugal]
 
+19/09 23:45 Crvena Zvezda vs Benfica	^-
 
 Sport TV 5 A	`0i3`00SPT5
 Sport TV 5 B	`0i3`02pt/sporttv5.php
 SportTV5 [Portugal]	`4https://topembed.pw/channel/SportTV5[Portugal]
 
 
-18/09 21:00 Manchester City U19 vs Internazionale U19	^-
-19/09 02:00 Manchester City vs Inter Milan	^-
+19/09 18:00 Crvena Zvezda U19 vs Benfica U19	^-
+19/09 20:00 Monaco U19 vs Barcelona U19	^-
+19/09 23:45 Feyenoord vs Bayer Leverkusen	^-
+20/09 02:00 Monaco vs Barcelona	^-
 
 PT Eleven Sports 1	`0i3`02pt/eleven1.php
 ElevenSports1 [Portugal]	`4https://topembed.pw/channel/ElevenSports1[Portugal]
 
-18/09 23:45 Bologna vs Shakhtar Donetsk	^-
-19/09 02:00 PSG vs Girona	^-
+20/09 00:00 Leganés vs Athletic Club	^-
+20/09 02:00 Atalanta vs Arsenal	^-
 
 PT Eleven Sports 2	`0i3`02pt/eleven2.php
 ElevenSports2 [Portugal]	`4https://topembed.pw/channel/ElevenSports2[Portugal]
 
-18/09 23:45 Sparta Praha vs Salzburg	^-
-19/09 02:00 Club Brugge vs Borussia Dortmund	^-
+20/09 02:00 Atlético Madrid vs RB Leipzig	^-
 
 PT Eleven Sports 3	`0i3`02pt/eleven3.php
 ElevenSports3 [Portugal]	`4https://topembed.pw/channel/ElevenSports3[Portugal]
@@ -300,8 +306,6 @@ ElevenSports3 [Portugal]	`4https://topembed.pw/channel/ElevenSports3[Portugal]
 
 Live Sports HD 1	`0i3`02hd/hd1.php
 
-19/09 02:00 Celtic vs Slovan Bratislava	^-
-19/09 06:30 Atlanta United vs Inter Miami	^-
 
 Live Sports HD 2	`0i3`02hd/hd2.php
 
@@ -326,6 +330,7 @@ Live Sports HD 8	`0i3`02hd/hd8.php
 
 Live Sports HD 9	`0i3`02hd/hd9.php
 
+20/09 02:00 Brest vs Sturm Graz	^-
 
 Live Sports HD 10	`0i3`02hd/hd10.php
 
@@ -342,8 +347,7 @@ Live Sports BR 2	`0i3`02bra/br2.php
 
 Live Sports BR 3	`0i3`02bra/br3.php
 
-19/09 05:00 Sport Recife vs Goiás	^-
-19/09 07:30 América Mineiro vs Paysandu	^-
+20/09 07:30 Botafogo SP vs Santos	^-
 
 Live Sports BR 4	`0i3`02bra/br4.php
 
