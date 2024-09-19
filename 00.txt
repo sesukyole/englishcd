@@ -220,6 +220,10 @@ Sacramento State vs Santa Clara	`0https://l.3/portuguese-cup-4060804/sacramento-
 
 <y>RePlay ReWatch Football Match<z>	^-
 
+20/09 02:00	^-
+Monaco vs FC Barcelona	https://l.2/09-20/5004240/UUpTbkdTR1JQRFhsRFtDUVRAWWtGVUNREQUaN1oSGwoPFAYxEwsdABVeCjAZWx8CFxVTbkNTRVxWQl1vRFtCXFNGXmdCWUNbQkFcbUVVQV4=/2024-09-20-03-00-02_eof.m3u8
+20/09 02:00	^-
+Atalanta vs Arsenal	https://l.2/09-20/322580/UUpTbkdTR1JQRFhsRFtDUVJCW2pMUUkbFAMBcQcJEgUFHwc4Hg8YH08TBjJODRodBEpYaEZXRFxTRFlvTlBEWVdHUWlMUUNIUEVbbkBTRg==/2024-09-20-03-00-00_eof.m3u8
 19/09 02:00	^-
 Manchester City vs Inter Milan	https://l.2/09-19/5004240/UUpTbkdTR1JQRFhsRFtDUVRAWWtGVUNREQUaN1oSGwoPFAYxEwsdABVeCjAZWx8CFxVTbkNTRV1ZRllvRFtCXFNGXm9EVUNbQkFcbUVVQV4=/2024-09-19-03-00-02_eof.m3u8
 18/09 02:00	^-
