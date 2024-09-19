@@ -8,6 +8,7 @@
 {h} Ⓨ Movies Film 1 Sub Indo	^^h4
 {h} Ⓩ Movies Film 2 Sub Indo	^^h5
 {h} Ⓣ Movies Film 3 Sub Indo	^^h6
+Youtube GK Patuk	https://api.beetv.my.id/yt/id.m3u8?id=M1EPS6S3Cr0?zyz
 Football / Kora 1 A	https://r1.l.2/0/stream.m3u8
 Football / Kora 1 B	https://r1.l.2/1/stream.m3u8
 Football / Kora 2 A	https://r2.l.2/0/stream.m3u8
@@ -474,3 +475,11 @@ Football / Soccer M	`0https://l.1/b/b13?id=b13
 Football / Soccer N	`0https://l.1/b/b14?id=b14
 mnctv plus	`0https://l.4/api/plus.m3u8?ch=2&t=666?zyz
 gtv plus	`0https://l.4/api/plus.m3u8?ch=3&t=666?zyz
+Football TV 1	https://pckaku.github.io/suka.m3u8
+Football TV 2	https://pckaku.github.io/suka1.m3u8
+Football TV 3	https://pckaku.github.io/suka2.m3u8
+Football TV 4	https://pckaku.github.io/suka3.m3u8
+Football TV 5	https://pckaku.github.io/suka4.m3u8
+TV3	`0https://pckaku.github.io/tv3.m3u8
+Rakuten 1	https://pckaku.github.io/cr1.m3u8
+Rakuten 2	https://pckaku.github.io/cr2.m3u8
