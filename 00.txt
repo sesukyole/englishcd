@@ -375,139 +375,64 @@ Suwon FC vs Gimcheon Sangmu FC	`0https://l.3/korean-k-league-1-3900709/suwon-foo
 Chungnam Asan vs Jeonnam Dragons	`0https://l.3/korean-k-league-2-3927012/chungnam-asan-vs-jeonnam-dragons.html
 
 <y>Football / Koora Events<z>	^-
-Football / Kora 1 A	https://r1.l.2/0/stream.m3u8
-Football / Kora 1 B	https://r1.l.2/1/stream.m3u8
-Football / Kora 2 A	https://r2.l.2/0/stream.m3u8
-Football / Kora 2 B	https://r2.l.2/1/stream.m3u8
-Football / Kora 3 A	https://r3.l.2/0/stream.m3u8
-Football / Kora 3 B	https://r3.l.2/1/stream.m3u8
+Football / Kora 1 A	https://a1.l.2/0/stream.m3u8
+Football / Kora 1 B	https://a1.l.2/1/stream.m3u8
+Football / Kora 2 A	https://a2.l.2/0/stream.m3u8
+Football / Kora 2 B	https://a2.l.2/1/stream.m3u8
+Football / Kora 3 A	https://a3.l.2/0/stream.m3u8
+Football / Kora 3 B	https://a3.l.2/1/stream.m3u8
 
 <y>Live Sports Events<z>	^-
-
-19/09 19:30 Futsal: Morocco vs Panama	^-
-19/09 22:00 Futsal: Portugal vs Tajikistan	^-
-20/09 05:00 Flamengo vs Peñarol	^-
-20/09 07:30 Athletico-PR vs Racing Club	^-
 
 Sport TV 1 A	`0i3`00SPT1
 Sport TV 1 B	`0i3`02pt/sporttv1.php
 SportTV1 [Portugal]	`4https://topembed.pw/channel/SportTV1[Portugal]
 
-19/09 19:30 Futsal: Iran vs Guatemala	^-
-19/09 22:00 Futsal: France vs Venezuela	^-
-20/09 00:00 Trabzonspor vs Kayserispor	^-
-20/09 05:00 Talleres Remedios vs Huracán	^-
-20/09 07:30 Libertad vs Cruzeiro	^-
-20/09 12:00 ATP World Tour 250: Chengdu	^-
-
 Sport TV 2 A	`0i3`00SPT2
 Sport TV 2 B	`0i3`02pt/sporttv2.php
 SportTV2 [Portugal]	`4https://topembed.pw/channel/SportTV2[Portugal]
-
-19/09 18:00 DP World Tour: BMW PGA Championship	^-
-20/09 12:30 ATP World Tour 250: Hangzhou	^-
 
 Sport TV 3 A	`0i3`00SPT3
 Sport TV 3 B	`0i3`02pt/sporttv3.php
 SportTV3 [Portugal]	`4https://topembed.pw/channel/SportTV3[Portugal]
 
-20/09 07:00 NASCAR: Unoh 200 - Bristol	^-
-
 Sport TV 4 A	`0i3`00SPT4
 Sport TV 4 B	`0i3`02pt/sporttv4.php
 SportTV4 [Portugal]	`4https://topembed.pw/channel/SportTV4[Portugal]
-
-19/09 23:45 Crvena Zvezda vs Benfica	^-
 
 Sport TV 5 A	`0i3`00SPT5
 Sport TV 5 B	`0i3`02pt/sporttv5.php
 SportTV5 [Portugal]	`4https://topembed.pw/channel/SportTV5[Portugal]
 
-
-19/09 18:00 Crvena Zvezda U19 vs Benfica U19	^-
-19/09 20:00 Monaco U19 vs Barcelona U19	^-
-19/09 23:45 Feyenoord vs Bayer Leverkusen	^-
-20/09 02:00 Monaco vs Barcelona	^-
-
 PT Eleven Sports 1	`0i3`02pt/eleven1.php
 ElevenSports1 [Portugal]	`4https://topembed.pw/channel/ElevenSports1[Portugal]
-
-20/09 00:00 Leganés vs Athletic Club	^-
-20/09 02:00 Atalanta vs Arsenal	^-
 
 PT Eleven Sports 2	`0i3`02pt/eleven2.php
 ElevenSports2 [Portugal]	`4https://topembed.pw/channel/ElevenSports2[Portugal]
 
-20/09 02:00 Atlético Madrid vs RB Leipzig	^-
-
 PT Eleven Sports 3	`0i3`02pt/eleven3.php
 ElevenSports3 [Portugal]	`4https://topembed.pw/channel/ElevenSports3[Portugal]
 
-
-
 Live Sports HD 1	`0i3`02hd/hd1.php
-
-
 Live Sports HD 2	`0i3`02hd/hd2.php
-
-
 Live Sports HD 3	`0i3`02hd/hd3.php
-
-
 Live Sports HD 4	`0i3`02hd/hd4.php
-
-
 Live Sports HD 5	`0i3`02hd/hd5.php
-
-
 Live Sports HD 6	`0i3`02hd/hd6.php
-
-
 Live Sports HD 7	`0i3`02hd/hd7.php
-
-
 Live Sports HD 8	`0i3`02hd/hd8.php
-
-
 Live Sports HD 9	`0i3`02hd/hd9.php
-
-20/09 02:00 Brest vs Sturm Graz	^-
-
 Live Sports HD 10	`0i3`02hd/hd10.php
-
-
 Live Sports HD 11	`0i3`02hd/hd11.php
-
-
-
 Live Sports BR 1	`0i3`02bra/br1.php
-
-
 Live Sports BR 2	`0i3`02bra/br2.php
-
-
 Live Sports BR 3	`0i3`02bra/br3.php
-
-20/09 07:30 Botafogo SP vs Santos	^-
-
 Live Sports BR 4	`0i3`02bra/br4.php
-
-
 Live Sports BR 5	`0i3`02bra/br5.php
-
-
 Live Sports BR 6	`0i3`02bra/br6.php
-
-
 Live Sports BR 7	`0i3`02bra/br7.php
-
-
 Live Sports BR 8	`0i3`02bra/br8.php
-
-
 PT Benefica	`0i3`02pt/btv.php
-
-
 
 <y>24/7 Action Movies Channels<z>	^-
 Action Movies A	i3`064332?zyz
