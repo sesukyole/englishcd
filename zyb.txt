@@ -8,7 +8,8 @@
 {h} Ⓨ Movies Film 1 Sub Indo	^^h4
 {h} Ⓩ Movies Film 2 Sub Indo	^^h5
 {h} Ⓣ Movies Film 3 Sub Indo	^^h6
-RailCowGirl	https://api.beetv.my.id/yt/id.m3u8?id=czoEAKX9aaM?zyz
+irl stream in Indonesia	https://www.youtube.com/watch?v=9s6imDGjy08
+RailCowGirl	https://l.5/yt/id.m3u8?id=czoEAKX9aaM?zyz
 Football / Kora 1 A	https://r1.l.2/0/stream.m3u8
 Football / Kora 1 B	https://r1.l.2/1/stream.m3u8
 Football / Kora 2 A	https://r2.l.2/0/stream.m3u8
