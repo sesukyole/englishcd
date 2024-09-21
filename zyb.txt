@@ -474,8 +474,8 @@ Football / Soccer K	`0https://l.1/b/b11?id=b11
 Football / Soccer L	`0https://l.1/b/b12?id=b12
 Football / Soccer M	`0https://l.1/b/b13?id=b13
 Football / Soccer N	`0https://l.1/b/b14?id=b14
-mnctv plus	https://l.4/api/plus.m3u8?ch=2&t=666?zyz
-gtv plus	https://l.4/api/plus.m3u8?ch=3&t=666?zyz
+!mnctv plus	https://l.4/api/plus.m3u8?ch=2&t=666?zyz
+!gtv plus	https://l.4/api/plus.m3u8?ch=3&t=666?zyz
 Football TV 1	https://pckaku.github.io/suka.m3u8
 Football TV 2	https://pckaku.github.io/suka1.m3u8
 Football TV 3	https://pckaku.github.io/suka2.m3u8
@@ -484,4 +484,5 @@ Football TV 5	https://pckaku.github.io/suka4.m3u8
 TV3	https://pckaku.github.io/tv3.m3u8
 Rakuten 1	https://pckaku.github.io/cr1.m3u8
 Rakuten 2	https://pckaku.github.io/cr2.m3u8
-ID PSJ TV	https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
+ID PSJ TV	https://proji.glitch.me/https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
+ID PSJ TV	https://play.accolamedia.id/accola/psj.stream/playlist.m3u8?zyt

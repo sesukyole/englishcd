@@ -506,10 +506,6 @@ Football / Kora 2 B	https://a2.l.2/1/stream.m3u8
 Football / Kora 3 A	https://a3.l.2/0/stream.m3u8
 Football / Kora 3 B	https://a3.l.2/1/stream.m3u8
 
-<y>Trending Live Streaming<z>	^-
-irl stream in Indonesia 1	/l.7/9s6imDGjy08
-irl stream in Indonesia 2	/l.7/BF9qBZhlgsY
-
 <y>RePlay ReWatch Football Match<z>	^-
 
 20/09 02:00	^-
@@ -528,6 +524,10 @@ Real Sociedad vs Real Madrid	https://l.2/09-15/5004240/UUpTbkdTR1JQRFhsRFtDUVRAW
 Manchester City vs Brentford	https://l.2/09-14/5004240/UUpTbkdTR1JQRFhsRFtDUVRAWWtGVUNREQUaN1oSGwoPFAYxEwsdABVeCjAZWx8CFxVTbkNTRVhTQl1pRltCXFNGWmxCWUVZQkFcbUVVQV4=/2024-09-14-22-01-09_eof.m3u8
 14/09 18:30	^-
 Southampton vs Manchester United	https://l.2/09-14/322580/UUpTbkdTR1JQRFhsRFtDUVJCW2pMUUkbFAMBcQcJEgUFHwc4Hg8YH08TBjJODRodBEpYaEZXQFpSRFlvTlBEWVdDW2hMUUNIUEVbbkBTRg==/2024-09-14-19-30-01_eof.m3u8
+
+<y>Trending Live Streaming<z>	^-
+irl stream in Indonesia 1	/l.7/9s6imDGjy08
+irl stream in Indonesia 2	/l.7/BF9qBZhlgsY
 
 <y>Live Sports Events<z>	^-
 
@@ -582,6 +582,8 @@ Live Sports BR 8	`0i3`02bra/br8.php
 PT Benefica	`0i3`02pt/btv.php
 
 <y>24/7 Action Movies Channels<z>	^-
+Rakuten 1	https://pckaku.github.io/cr1.m3u8
+Rakuten 2	https://pckaku.github.io/cr2.m3u8
 Action Movies A	i3`064332?zyz
 Action Movies B	i3`066140589?zyz
 Action Movies C	i3`062516864?zyz
