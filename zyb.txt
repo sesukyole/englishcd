@@ -488,3 +488,5 @@ Rakuten 1a	https://pckaku.github.io/cr1.m3u8?zyt
 ID PSJ TV 1	https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
 ID PSJ TV 2	01`01fplay.accolamedia.id/accola/psj.stream/playlist.m3u8
 ID PSJ TV 3	https://play.accolamedia.id/accola/psj.stream/playlist.m3u8?zyt
+TV 2 Sport 1a	https://rikstv-live-scalstrm.telenorcdn.net/live/rikstv/64393bf81dbc891fd41f53ac/manifest.mpd``0c6212056d2f51fcbf569f9a1a8517d1:d07b404deb7c958347d742e6d1d2f3f9
+TV 2 Sport 1b	https://rikstv-live-scalstrm.telenorcdn.net/live/rikstv/64393bf81dbc891fd41f53ac/manifest.mpd``0c6212056d2f51fcbf569f9a1a8517d1:d07b404deb7c958347d742e6d1d2f3f9?zyt
