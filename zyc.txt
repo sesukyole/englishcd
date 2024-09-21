@@ -1,6 +1,81 @@
 {h} * Al Qur'an.mp3	^^h9
 {h} * Conspiracy Truth 1	^^h7
 {h} * Conspiracy Truth 2	^^h8
+
+*moji@	https://l.7a206&=.m3u8?zyz
+*abc-australia@	https://l.7a7150&=.m3u8?zyz
+*africanews-tv@	https://l.7a12784&=.m3u8?zyz
+*aljazeera@	https://l.7a6410&=.m3u8?zyz
+*arirang@	https://l.7a6784&=.m3u8?zyz
+*dw-english@	https://l.7a5075&=.m3u8?zyz
+*euro-news@	https://l.7a6412&=.m3u8?zyz
+*sea-today@	https://l.7a7687&=.m3u8?zyz
+*ajwa-tv@	https://l.7a7464&=.m3u8?zyz
+*btv@	https://l.7a6165&=.m3u8?zyz
+*daai-tv@	https://l.7a6482&=.m3u8?zyz
+*elshinta-tv@	https://l.7a10975&=.m3u8?zyz
+*jaktv@	https://l.7a5415&=.m3u8?zyz
+*jawapostv@	https://l.7a9714&=.m3u8?zyz
+*jtv@	https://l.7a9713&=.m3u8?zyz
+*makkah-tv@	https://l.7a6852&=.m3u8?zyz
+*mentari-tv@	https://l.7a8237&=.m3u8?zyz
+*musica@	https://l.7a7619&=.m3u8?zyz
+*nusantara-tv@	https://l.7a7432&=.m3u8?zyz
+*rans-channel@	https://l.7a8241&=.m3u8?zyz
+*rtv@	https://l.7a1561&=.m3u8?zyz
+*tawaf-tv@	https://l.7a12607&=.m3u8?zyz
+*tvone@	https://l.7a783&=.m3u8?zyz
+*tvri@	https://l.7a6441&=.m3u8?zyz
+*tv-tempo@	https://l.7a7946&=.m3u8?zyz
+*indosiar	https://l.7a205&=.m3u8?zyz
+*sctv	https://l.7a204&=.m3u8?zyz
+*trans-tv	https://l.7a733&=.m3u8?zyz
+*trans7	https://l.7a734&=.m3u8?zyz
+*antv	https://l.7a782&=.m3u8?zyz
+*kompas-tv	https://l.7a874&=.m3u8?zyz
+*metro-tv	https://l.7a777&=.m3u8?zyz
+net-tv	https://l.7a875&=.m3u8?zyz
+
+!*nhk-world-japan@	https://l.7a7968&=.m3u8?zyz
+!*hip-hip-horee@	https://l.7a7052&=.m3u8?zyz
+!*horee@	https://l.7a6397&=.m3u8?zyz
+!*tvn@	https://l.7a6362&=.m3u8?zyz
+!*zee-bioskop@	https://l.7a6399&=.m3u8?zyz
+!*zoomoo@	https://l.7a6533&=.m3u8?zyz
+!magna-tv@	https://l.7a7230&=.m3u8?zyz
+!metro-globe-network@	https://l.7a8815&=.m3u8?zyz
+!fashion-tv-global@	https://l.7a6511&=.m3u8?zyz
+!fashiontv-l-original@	https://l.7a6507&=.m3u8?zyz
+!fashion-tv-midnight-secrets@	https://l.7a6504&=.m3u8?zyz
+!news-asia@	https://l.7a6411&=.m3u8?zyz
+!bein-1*	https://l.7a6299&=.m3u8?zyz
+!bein-3*	https://l.7a6317&=.m3u8?zyz
+!champions-tv-1*	https://l.7a6685&=.m3u8?zyz
+!champions-tv-2*	https://l.7a6686&=.m3u8?zyz
+!champions-tv-3*	https://l.7a6786&=.m3u8?zyz
+!champions-tv-5*	https://l.7a9182&=.m3u8?zyz
+!champions-tv-6*	https://l.7a9183&=.m3u8?zyz
+!nba-tv*	https://l.7a6717&=.m3u8?zyz
+!premier-league-tv*	https://l.7a9353&=.m3u8?zyz
+!rock-action*	https://l.7a8121&=.m3u8?zyz
+!rock-entertainment*	https://l.7a8120&=.m3u8?zyz
+!spotv!	https://l.7a17139&=.m3u8?zyz
+!spotv-2!	https://l.7a17140&=.m3u8?zyz
+!tv5monde*	https://l.7a17278&=.m3u8?zyz
+!9182*	https://l.7a9182&=.m3u8?zyz
+!9183*	https://l.7a9183&=.m3u8?zyz
+!9353*	https://l.7a9353&=.m3u8?zyz
+!17141*!	https://l.7a17141&=.m3u8?zyz
+!17622!	https://l.7a17622&=.m3u8?zyz
+!17624*	https://l.7a17624&=.m3u8?zyz
+!17637*!	https://l.7a17637&=.m3u8?zyz
+!17669*!	https://l.7a17669&=.m3u8?zyz
+!17674!	https://l.7a17674&=.m3u8?zyz
+
+KR KBS Drama	https://l.7bN91?zyz
+KR KBS Kids	https://l.7bN96?zyz
+KR Dokdo Live	https://l.7bcctv01?zyz
+
 {h} * PABLOPOM 1	^^hhttps://raw.githubusercontent.com/PABLOPOM/m3u/main/TELEVISION
 {h} * PABLOPOM 2	^^hhttps://raw.githubusercontent.com/PABLOPOM/m3u/main/TELEVISION2
 {h} * PABLOPOM 3	^^hhttps://raw.githubusercontent.com/PABLOPOM/m3u/main/TELEVISION2
@@ -220,74 +295,6 @@ PT Caza Y Pesca	i3`07CazaYPesca.php
 PT Cazavision	i3`07CazavisionPT.php
 US California Music Channel	https://cmc-ono.amagi.tv/amRdirect/device[did]=%5BAD_IDFA%5B&us_privacy=%7BUS_PRIVACY%7D&coppa=%7BCOPPA%7D&uid=1fpn9sr15-vpg2-1jg-4kgx-p57ss8l4h2/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/1920x1080_5711200/index.m3u8
 PT Canal 11	i3`07Canal11.php
-*moji@	https://l.7206&=.m3u8?zyz
-*abc-australia@	https://l.77150&=.m3u8?zyz
-*africanews-tv@	https://l.712784&=.m3u8?zyz
-*aljazeera@	https://l.76410&=.m3u8?zyz
-*arirang@	https://l.76784&=.m3u8?zyz
-*dw-english@	https://l.75075&=.m3u8?zyz
-*euro-news@	https://l.76412&=.m3u8?zyz
-*nhk-world-japan@	https://l.77968&=.m3u8?zyz
-*sea-today@	https://l.77687&=.m3u8?zyz
-*ajwa-tv@	https://l.77464&=.m3u8?zyz
-*btv@	https://l.76165&=.m3u8?zyz
-*daai-tv@	https://l.76482&=.m3u8?zyz
-*elshinta-tv@	https://l.710975&=.m3u8?zyz
-*hip-hip-horee@	https://l.77052&=.m3u8?zyz
-*horee@	https://l.76397&=.m3u8?zyz
-*jaktv@	https://l.75415&=.m3u8?zyz
-*jawapostv@	https://l.79714&=.m3u8?zyz
-*jtv@	https://l.79713&=.m3u8?zyz
-*makkah-tv@	https://l.76852&=.m3u8?zyz
-*mentari-tv@	https://l.78237&=.m3u8?zyz
-*musica@	https://l.77619&=.m3u8?zyz
-*nusantara-tv@	https://l.77432&=.m3u8?zyz
-*rans-channel@	https://l.78241&=.m3u8?zyz
-*rtv@	https://l.71561&=.m3u8?zyz
-*tawaf-tv@	https://l.712607&=.m3u8?zyz
-*tvn@	https://l.76362&=.m3u8?zyz
-*tvone@	https://l.7783&=.m3u8?zyz
-*tvri@	https://l.76441&=.m3u8?zyz
-*tv-tempo@	https://l.77946&=.m3u8?zyz
-*zee-bioskop@	https://l.76399&=.m3u8?zyz
-*zoomoo@	https://l.76533&=.m3u8?zyz
-magna-tv@	https://l.77230&=.m3u8?zyz
-metro-globe-network@	https://l.78815&=.m3u8?zyz
-fashion-tv-global@	https://l.76511&=.m3u8?zyz
-fashiontv-l-original@	https://l.76507&=.m3u8?zyz
-fashion-tv-midnight-secrets@	https://l.76504&=.m3u8?zyz
-news-asia@	https://l.76411&=.m3u8?zyz
-*indosiar	https://l.7205&=.m3u8?zyz`
-*sctv	https://l.7204&=.m3u8?zyz`
-*trans-tv	https://l.7733&=.m3u8?zyz`
-*trans7	https://l.7734&=.m3u8?zyz`
-*antv	https://l.7782&=.m3u8?zyz`
-*kompas-tv	https://l.7874&=.m3u8?zyz`
-*metro-tv	https://l.7777&=.m3u8?zyz`
-net-tv	https://l.7875&=.m3u8?zyz``
-bein-1*	https://l.76299&=.m3u8?zyz``
-bein-3*	https://l.76317&=.m3u8?zyz``
-champions-tv-1*	https://l.76685&=.m3u8?zyz``
-champions-tv-2*	https://l.76686&=.m3u8?zyz``
-champions-tv-3*	https://l.76786&=.m3u8?zyz``
-champions-tv-5*	https://l.79182&=.m3u8?zyz``
-champions-tv-6*	https://l.79183&=.m3u8?zyz``
-nba-tv*	https://l.76717&=.m3u8?zyz``
-premier-league-tv*	https://l.79353&=.m3u8?zyz``
-rock-action*	https://l.78121&=.m3u8?zyz``
-rock-entertainment*	https://l.78120&=.m3u8?zyz``
-spotv!	https://l.717139&=.m3u8?zyz``
-spotv-2!	https://l.717140&=.m3u8?zyz``
-tv5monde*	https://l.717278&=.m3u8?zyz``
-9182*	https://l.79182&=.m3u8?zyz``
-9183*	https://l.79183&=.m3u8?zyz``
-9353*	https://l.79353&=.m3u8?zyz``
-17141*!	https://l.717141&=.m3u8?zyz``
-17622!	https://l.717622&=.m3u8?zyz``
-17624*	https://l.717624&=.m3u8?zyz``
-17637*!	https://l.717637&=.m3u8?zyz``
-17669*!	https://l.717669&=.m3u8?zyz``
-17674!	https://l.717674&=.m3u8?zyz``
 Always use Chrome browser! ⚠️ Please Allow Popups and Disable Ad Blocker. ⚠️ Install Chrome Browser Extension: CORS Unblock & Allow CORS! ⚠️ 🔒|Site settings | Privacy & security | Insecure content: Allow.👈 ⚠️ Settings | Privacy & security | Security | Always use secure connections: Upgrade navigations to HTTPS: Disable.👈<br><>Always use Chrome browser! ⚠️ Please Allow Popups and Disable Ad Blocker. ⚠️ Settings | Privacy & security | Always use secure connections: Upgrade navigations to HTTPS: Disable.👈<br>	^-
 ACCNetwork [USA]		`4https://topembed.pw/channel/ACCNetwork[USA]
 ArenaPremium1 [Serbia]		`4https://topembed.pw/channel/ArenaPremium1[Serbia]
