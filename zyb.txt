@@ -484,7 +484,8 @@ Football TV 5	https://pckaku.github.io/suka4.m3u8
 TV3	https://pckaku.github.io/tv3.m3u8
 Rakuten 1	https://pckaku.github.io/cr1.m3u8
 Rakuten 2	https://pckaku.github.io/cr2.m3u8
-Rakuten 1	https://pckaku.github.io/cr1.m3u8?zyy
+Rakuten 1a	https://pckaku.github.io/cr1.m3u8?zyy
+Rakuten 1b	https://pckaku.github.io/cr1?zyy
 ID PSJ TV 1	https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
 ID PSJ TV 2	01`01fplay.accolamedia.id/accola/psj.stream/playlist.m3u8
 ID PSJ TV 3	https://play.accolamedia.id/accola/psj.stream/playlist.m3u8?zyy
