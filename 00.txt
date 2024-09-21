@@ -6,7 +6,7 @@ Nepal U20 vs Cambodia U20	`0https://l.3/afc-u20-asian-cup-4056964/nepal-u20-vs-c
 21/09 14:30 Korean K League 1	^-
 Suwon FC vs Gimcheon Sangmu FC	`0https://l.3/korean-k-league-1-3900709/suwon-football-club-vs-gimcheon-sangmu-football-club.html
 
-21/09 14:30 Korean K League 2v
+21/09 14:30 Korean K League 2	^-
 Chungnam Asan vs Jeonnam Dragons	`0https://l.3/korean-k-league-2-3927012/chungnam-asan-vs-jeonnam-dragons.html
 
 21/09 15:30 Indonesian Liga 1	^-
@@ -499,12 +499,12 @@ Phoenix Rising FC vs San Antonio	`0https://l.3/usl-championship-3901069/phoenix-
 CDSyC Cruz Azul vs Chivas Guadalajara	`0https://l.3/mexico-liga-mx-3981617/cruz-azul-vs-chivas-guadalajara.html
 
 <y>Football / Koora Events<z>	^-
-Football / Kora 1 A	https://a1.l.2/0/stream.m3u8
-Football / Kora 1 B	https://a1.l.2/1/stream.m3u8
-Football / Kora 2 A	https://a2.l.2/0/stream.m3u8
-Football / Kora 2 B	https://a2.l.2/1/stream.m3u8
-Football / Kora 3 A	https://a3.l.2/0/stream.m3u8
-Football / Kora 3 B	https://a3.l.2/1/stream.m3u8
+Football / Kora 1 A	https://a1.l.2/0/stream.m3u8?70
+Football / Kora 1 B	https://a1.l.2/1/stream.m3u8?70
+Football / Kora 2 A	https://a2.l.2/0/stream.m3u8?70
+Football / Kora 2 B	https://a2.l.2/1/stream.m3u8?70
+Football / Kora 3 A	https://a3.l.2/0/stream.m3u8?70
+Football / Kora 3 B	https://a3.l.2/1/stream.m3u8?70
 
 <y>Trending Live Streaming<z>	^-
 irl stream in Indonesia 1	/l.7/9s6imDGjy08
