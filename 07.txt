@@ -683,12 +683,6 @@ Alkass 5	https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass5xtwe/master.
 LaLiga Plus	https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdgeVX/smil:272_HD.smil/manifest.mpd``aa724943787320593f5563048c90032d:a039276254f53769b040199a4eca8c2c
 CTV 1	`0https://live.sportsnews.id/p/ctv.html
 CTV 2	`0https://live.sportsnews.id/p/ctv2.html
-UCL Infinity 1	https://live03p-seg.msf.cdn.mediaset.net/live/ch-u1/u1-dash-widevine.isml/manifest.mpd``00f9f3c0783536b832a8f0326fbdc02e:ade0533ba667bb7e9847d8f215f03076
-UCL Infinity 2	https://live03p-seg.msf.cdn.mediaset.net/live/ch-u2/u2-dash-widevine.isml/manifest.mpd``00f9f3c0783536b834b0f0c2bfee80ac:76b3afbf163f9c3feb6204b8fcf0ff53
-UCL Infinity 3	https://live03p-seg.msf.cdn.mediaset.net/live/ch-u3/u3-dash-widevine.isml/manifest.mpd``00f9f3c0783536b8342d78d46c8c202a:8d2e953821d36c942161be09930d2bd4
-UCL Infinity 4	https://live03p-seg.msf.cdn.mediaset.net/live/ch-u4/u4-dash-widevine.isml/manifest.mpd``00f9f3c0783536b834357864bc2ae0a8:ae7bec66e4ac23f3d243fa6e4d767a00
-UCL Infinity 5	https://live03p-seg.msf.cdn.mediaset.net/live/ch-u5/u5-dash-widevine.isml/manifest.mpd``00f9f3c0783536b834b278760c5ba026:a9ab51a9e021da177f982de9b42eb0de
-UCL Infinity 6	https://live03p-seg.msf.cdn.mediaset.net/live/ch-u6/u6-dash-widevine.isml/manifest.mpd``00f9f3c0783536b834ba7888b9f960a4:852ebe5446caa8fad99c440b86ad128c
 EuroSport 1	https://cache3.zapitv.com/live/eds_c2/eurosport_1_hd/dash_live_enc/eurosport_1_hd.mpd``237be8ca9383755e9f5784dd23f545eb:15a723773c3b3cbce295c0aed0bc71c3
 EuroSport 2	https://cache3.zapitv.com/live/eds_c2/eurosport_2_hd/dash_live_enc/eurosport_2_hd.mpd``15382879a9bcfa6f1a04a86d5b4324e9:664241133368ab039dc1fb15206ba54b
 TSN 1	https://livecdn-iptv001.rumsport.com/stream/770/manifest.mpd

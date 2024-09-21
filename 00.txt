@@ -228,16 +228,6 @@ Phoenix Rising FC vs San Antonio	`0https://l.3/usl-championship-3901069/phoenix-
 22/09 10:05 Mexico Liga MX	^-
 CDSyC Cruz Azul vs Chivas Guadalajara	`0https://l.3/mexico-liga-mx-3981617/cruz-azul-vs-chivas-guadalajara.html
 
-<y>UCL Sports<z>	^-
-
-UCL 1	https://l.8a/ch-c5/c5-dash-widevine.isml/manifest.mpd``00f9f3c0783536b8ce4a30a01a52e082:e926f7d45af4f7d154c990eae6a2d937
-UCL 2	https://l.8a/ch-u1/u1-dash-widevine.isml/manifest.mpd``00f9f3c0783536b832a8f0326fbdc02e:ade0533ba667bb7e9847d8f215f03076
-UCL 3	https://l.8a/ch-u2/u2-dash-widevine.isml/manifest.mpd``00f9f3c0783536b834b0f0c2bfee80ac:76b3afbf163f9c3feb6204b8fcf0ff53
-UCL 4	https://l.8a/ch-u3/u3-dash-widevine.isml/manifest.mpd``00f9f3c0783536b8342d78d46c8c202a:8d2e953821d36c942161be09930d2bd4
-UCL 5	https://l.8a/ch-u4/u4-dash-widevine.isml/manifest.mpd``00f9f3c0783536b834357864bc2ae0a8:ae7bec66e4ac23f3d243fa6e4d767a00
-UCL 6	https://l.8a/ch-u5/u5-dash-widevine.isml/manifest.mpd``00f9f3c0783536b834b278760c5ba026:a9ab51a9e021da177f982de9b42eb0de
-UCL 7	https://l.8a/ch-u6/u6-dash-widevine.isml/manifest.mpd``00f9f3c0783536b834ba7888b9f960a4:852ebe5446caa8fad99c440b86ad128c
-
 <y>Football / Koora Events<z>	^-
 Football / Kora 1 A	https://a1.l.2/0/stream.m3u8
 Football / Kora 1 B	https://a1.l.2/1/stream.m3u8
@@ -350,6 +340,15 @@ Action Movies N	i3`061226741?zyz
 Action Movies O	i3`064246519?zyz
 Action Movies P	i3`06252802?zyz
 
+<y>UCL Infinity<z>	^-
+
+UCL Infinity 1	https://l.8a/ch-c5/c5-dash-widevine.isml/manifest.mpd``00f9f3c0783536b8ce4a30a01a52e082:e926f7d45af4f7d154c990eae6a2d937
+UCL Infinity 2	https://l.8a/ch-u1/u1-dash-widevine.isml/manifest.mpd``00f9f3c0783536b832a8f0326fbdc02e:ade0533ba667bb7e9847d8f215f03076
+UCL Infinity 3	https://l.8a/ch-u2/u2-dash-widevine.isml/manifest.mpd``00f9f3c0783536b834b0f0c2bfee80ac:76b3afbf163f9c3feb6204b8fcf0ff53
+UCL Infinity 4	https://l.8a/ch-u3/u3-dash-widevine.isml/manifest.mpd``00f9f3c0783536b8342d78d46c8c202a:8d2e953821d36c942161be09930d2bd4
+UCL Infinity 5	https://l.8a/ch-u4/u4-dash-widevine.isml/manifest.mpd``00f9f3c0783536b834357864bc2ae0a8:ae7bec66e4ac23f3d243fa6e4d767a00
+UCL Infinity 6	https://l.8a/ch-u5/u5-dash-widevine.isml/manifest.mpd``00f9f3c0783536b834b278760c5ba026:a9ab51a9e021da177f982de9b42eb0de
+UCL Infinity 7	https://l.8a/ch-u6/u6-dash-widevine.isml/manifest.mpd``00f9f3c0783536b834ba7888b9f960a4:852ebe5446caa8fad99c440b86ad128c
 Sports Channels on Ⓘc2 and Ⓦb3 Wow!	^-
 {s} Ⓘc2 SportsTV	^^s2
 {h} Ⓦb3 Wow Sports!	^^hb3
@@ -365,4 +364,3 @@ Movies Channels Multi Sub +Indo	^-
 {h} Ⓨ4 Movies Film 1	^^h4
 {h} Ⓩ5 Movies Film 2	^^h5
 {h} Ⓣ6 Movies Film 3	^^h6
-
