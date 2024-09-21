@@ -1,226 +1,22 @@
 <y>{s} Ⓗa0 Live Sports Events<z>	^-
 
-21/09 14:00 AFC U20 Asian Cup	^-
-Nepal U20 vs Cambodia U20	`0https://l.3/afc-u20-asian-cup-4056964/nepal-u20-vs-cambodia-u20.html
-
-21/09 14:30 Korean K League 1	^-
-Suwon FC vs Gimcheon Sangmu FC	`0https://l.3/korean-k-league-1-3900709/suwon-football-club-vs-gimcheon-sangmu-football-club.html
-
-21/09 14:30 Korean K League 2	^-
-Chungnam Asan vs Jeonnam Dragons	`0https://l.3/korean-k-league-2-3927012/chungnam-asan-vs-jeonnam-dragons.html
-
 21/09 15:30 Indonesian Liga 1	^-
 <y>Dewa United FC vs Madura United<z>	`0https://l.3/indonesian-liga-1-4029465/dewa-united-fc-vs-madura-united.html
 
 21/09 15:30 Indonesian Liga 2	^-
 <y>Gresik United vs Perssic Cilegon<z>	`0https://l.3/indonesian-liga-2-4061361/gresik-united-vs-perssic-cilegon.html
 
-21/09 15:30 Thai League 3	^-
-Saraburi United FC vs Pathumthani Univ	`0https://l.3/thai-league-3-4061671/saraburi-united-fc-vs-pathumthani-university.html
-
-21/09 16:00 Japanese J1 League	^-
-Kashima Antlers vs Kashiwa Reysol	`0https://l.3/japanese-j1-league-3907282/kashima-antlers-vs-kashiwa-reysol.html
-
-21/09 16:00 Japanese J2 League	^-
-Ehime FC vs Montedio Yamagata	`0https://l.3/japanese-j2-league-3910667/ehime-fc-vs-montedio-yamagata.html
-
-21/09 16:00 Japanese J2 League	^-
-Vegalta Sendai vs Ventforet Kofu	`0https://l.3/japanese-j2-league-3910670/vegalta-sendai-vs-ventforet-kofu.html
-
-21/09 16:00 Japanese J2 League	^-
-Roasso Kumamoto vs Blaublitz Akita	`0https://l.3/japanese-j2-league-3910673/roasso-kumamoto-vs-blaublitz-akita.html
-
-21/09 16:00 Japanese J2 League	^-
-Yokohama FC vs Oita Trinita	`0https://l.3/japanese-j2-league-3910674/yokohama-fc-vs-oita-trinita.html
-
-21/09 16:00 Japanese J3 League	^-
-FC Ryukyu vs Azul Claro Numazu	`0https://l.3/japanese-j3-league-3917317/fc-ryukyu-okinawa-vs-azul-claro-numazu.html
-
-21/09 16:00 Japanese J3 League	^-
-Giravanz Kitakyushu vs FC Gifu	`0https://l.3/japanese-j3-league-3917320/giravanz-kitakyushu-vs-fc-gifu.html
-
-21/09 16:00 Japanese J3 League	^-
-SC Sagamihara vs Imabari FC	`0https://l.3/japanese-j3-league-3917325/sc-sagamihara-vs-imabari-fc.html
-
-21/09 16:00 Japanese J3 League	^-
-Vanraure Hachinohe FC vs Omiya Ardija	`0https://l.3/japanese-j3-league-3917327/vanraure-hachinohe-fc-vs-omiya-ardija.html
-
-21/09 16:00 Women Empowerment League	^-
-Sanfrecce Hiroshima Regina vs Mynavi Sendai Ladies	`0https://l.3/women-empowerment-league-4037282/sanfrecce-hiroshima-regina-vs-mynavi-sendai-ladies.html
-
-21/09 16:30 Estonian Premium Liiga	^-
-Paide Linnameeskond vs FC Kuressaare	`0https://l.3/estonian-premium-liiga-3904591/paide-linnameeskond-vs-fc-kuressaare.html
-
-21/09 16:30 Malaysian Super League	^-
-PDRM vs Sabah	`0https://l.3/malaysian-super-league-3962359/pdrm-fc-vs-sabah-fc.html
-
-21/09 17:00 Korean K League 1	^-
-Daegu FC vs FC Seoul	`0https://l.3/korean-k-league-1-3900706/daegu-football-club-vs-football-club-seoul.html
-
-21/09 17:00 Japanese J1 League	^-
-Urawa Red Diamonds vs FC Tokyo	`0https://l.3/japanese-j1-league-3907280/urawa-red-diamonds-vs-fc-tokyo.html
-
-21/09 17:00 Japanese J1 League	^-
-Jubilo Iwata vs Avispa Fukuoka	`0https://l.3/japanese-j1-league-3907285/jubilo-iwata-vs-avispa-fukuoka.html
-
-21/09 17:00 Japanese J1 League	^-
-Machida Zelvia vs Hokkaido Consadole Sapporo	`0https://l.3/japanese-j1-league-3907286/machida-zelvia-vs-hokkaido-consadole-sapporo.html
-
-21/09 17:00 Japanese J2 League	^-
-JEF United Ichihara Chiba vs Renofa Yamaguchi	`0https://l.3/japanese-j2-league-3910675/jef-united-ichihara-chiba-vs-renofa-yamaguchi.html
-
-21/09 17:00 Japanese J3 League	^-
-Gainare Tottori vs AC Nagano Parceiro	`0https://l.3/japanese-j3-league-3917318/gainare-tottori-vs-ac-nagano-parceiro.html
-
-21/09 17:00 Chinese Super League	^-
-Changchun Yatai vs Shanghai Port	`0https://l.3/chinese-super-league-3918851/changchun-yatai-fc-vs-shanghai-port-fc.html
-
-21/09 17:00 Korean K League 2	^-
-FC Anyang vs Ansan Greeners FC	`0https://l.3/korean-k-league-2-3926912/fc-anyang-vs-ansan-greeners-fc.html
-
-21/09 17:00 Korean K League 2	^-
-Cheonan City vs Chungbuk Cheongju FC	`0https://l.3/korean-k-league-2-3926968/cheonan-city-vs-chungbuk-cheongju-fc.html
-
-21/09 17:00 Ukrainian Premier League	^-
-Chernomorets Odessa vs FC Karpaty Lviv	`0https://l.3/ukrainian-premier-league-3999318/chernomorets-odessa-vs-fc-karpaty-lviv.html
-
-21/09 17:00 Vietnam National Champion League	^-
-Hoang Anh Gia Lai vs Song Lam Nghe An	`0https://l.3/vietnam-national-champion-league-4057926/hoang-anh-gia-lai-vs-song-lam-nghe-an.html
-
-21/09 17:00 Spanish Primera División de la Liga de Fútbol Femenino	^-
-Granada CF(w) vs Eibar (w)	`0https://l.3/spanish-primera-division-de-la-liga-de-futbol-femenino-4058999/granada-cfw-vs-eibar-w.html
-
-21/09 17:00 Spanish Primera División de la Liga de Fútbol Femenino	^-
-Levante UD (w) vs Real Sociedad (w)	`0https://l.3/spanish-primera-division-de-la-liga-de-futbol-femenino-4059236/levante-ud-w-vs-real-sociedad-w.html
-
-21/09 17:00 Portuguese Cup	^-
-Vianense vs Portimonense	`0https://l.3/portuguese-cup-4059633/vianense-vs-portimonense.html
-
-21/09 17:15 PKO Bank Polski EKSTRAKLASA	^-
-Puszcza Niepolomice vs Cracovia Krakow	`0https://l.3/pko-bank-polski-ekstraklasa-3980656/puszcza-niepolomice-vs-cracovia-krakow.html
-
-21/09 18:00 Russian Premier League	^-
-Akron Togliatti vs FC Krasnodar	`0https://l.3/russian-premier-league-3984953/akron-togliatti-vs-fk-krasnodar.html
-
-21/09 18:00 Danish 1st Division	^-
-B93 Copenhagen vs AC Horsens	`0https://l.3/danish-1st-division-3986814/boldklubben-af-1893-vs-ac-horsens.html
-
-21/09 18:00 German Bundesliga 2	^-
-Fortuna Dusseldorf vs FC Koln	`0https://l.3/german-bundesliga-2-3998266/fortuna-dusseldorf-vs-fc-kln.html
-
-21/09 18:00 Hilux Revo Thai League	^-
-Nong Bua Lamphu vs Uthai Thani Forest	`0https://l.3/hilux-revo-thai-league-4009034/nongbua-pitchaya-fc-vs-uthai-thani-forest.html
-
-21/09 18:00 English FA Women's Super League	^-
-Manchester United (w) vs West Ham United (w)	`0https://l.3/english-fa-womens-super-league-4046398/manchester-united-w-vs-west-ham-united-w.html
-
-21/09 18:00 Vietnam National Champion League	^-
-Becamex Binh Duong vs XM Hai Phong FC	`0https://l.3/vietnam-national-champion-league-4057922/becamex-binh-duong-vs-xm-hai-phong-fc.html
-
-21/09 18:30 Estonian Premium Liiga	^-
-FC Nomme United vs Trans Narva	`0https://l.3/estonian-premium-liiga-3904592/fc-nomme-united-vs-trans-narva.html
-
-21/09 18:30 English Football League Championship	^-
-Norwich City vs Watford	`0https://l.3/english-football-league-championship-3990774/norwich-city-vs-watford.html
-
-21/09 18:30 English Football League Championship	^-
-Queens Park Rangers (QPR) vs Millwall	`0https://l.3/english-football-league-championship-3990780/queens-park-rangers-vs-millwall.html
-
-21/09 18:30 English Football League Championship	^-
-Sunderland A.F.C vs Middlesbrough	`0https://l.3/english-football-league-championship-3990815/sunderland-vs-middlesbrough.html
-
 21/09 18:30 English Premier League	^-
 <g>West Ham United vs Chelsea<z>	`0https://l.3/english-premier-league-3995700/west-ham-united-vs-chelsea.html
-
-21/09 18:30 English Football League One	^-
-Lincoln City vs Wigan Athletic	`0https://l.3/english-football-league-one-3997114/lincoln-city-vs-wigan-athletic.html
-
-21/09 18:30 English FA Women's Super League	^-
-Brighton H.A. (w) vs Everton FC (w)	`0https://l.3/english-fa-womens-super-league-4054066/brighton-ha-w-vs-everton-fc-w.html
-
-21/09 18:30 Indian Super League	^-
-Jamshedpur FC vs Mumbai City	`0https://l.3/indian-super-league-4055700/jamshedpur-fc-vs-mumbai-city-fc.html
-
-21/09 18:35 Chinese Super League	^-
-Henan Songshan Longmen vs Chengdu Better City FC	`0https://l.3/chinese-super-league-3918837/henan-fc-vs-chengdu-rongcheng-fc.html
-
-21/09 18:35 Chinese Super League	^-
-Shandong Taishan vs Wuhan Three Towns	`0https://l.3/chinese-super-league-3918841/shandong-taishan-fc-vs-wuhan-three-towns-fc.html
-
-21/09 19:00 Chinese Super League	^-
-Shanghai Shenhua vs Tianjin Tigers	`0https://l.3/chinese-super-league-3918852/shanghai-shenhua-fc-vs-tianjin-jinmen-tiger-fc.html
-
-21/09 19:00 Lithuanian A Lyga	^-
-TransINVEST Vilnius vs Siauliai	`0https://l.3/lithuanian-a-lyga-3979025/transinvest-vs-siauliai.html
 
 21/09 19:00 Spanish La Liga	^-
 <g>Real Valladolid vs Real Sociedad<z>	`0https://l.3/spanish-la-liga-3994779/real-valladolid-cf-vs-real-sociedad.html
 
-21/09 19:00 Hilux Revo Thai League	^-
-Ratchaburi FC vs Nakhon Ratchasima	`0https://l.3/hilux-revo-thai-league-4009008/ratchaburi-mitr-phol-fc-vs-nakhon-ratchasima-mazda-fc.html
-
 21/09 19:00 Indonesian Liga 1	^-
 <y>Malut United vs Bali United<z>	`0https://l.3/indonesian-liga-1-4029497/malut-united-vs-bali-united.html
 
-21/09 19:00 German Frauen Bundesliga	^-
-SG Essen-Schonebeck (w) vs Bayer Leverkusen (w)	`0https://l.3/german-frauen-bundesliga-4032584/sgs-essen-w-vs-bayer-leverkusen-w.html
-
-21/09 19:15 Malaysian Super League	^-
-Perak vs Kuala Lumpur	`0https://l.3/malaysian-super-league-3962352/perak-fc-vs-kuala-lumpur-city-fc.html
-
-21/09 19:30 Poland Liga 1	^-
-Warta Poznan vs Arka Gdynia	`0https://l.3/poland-liga-1-3980982/warta-poznan-vs-arka-gdynia.html
-
-21/09 19:30 French Ligue 2	^-
-Metz vs Lorient	`0https://l.3/french-ligue-2-4037361/metz-vs-lorient.html
-
-21/09 19:45 PKO Bank Polski EKSTRAKLASA	^-
-Jagiellonia Bialystok vs Lechia Gdansk	`0https://l.3/pko-bank-polski-ekstraklasa-3980654/jagiellonia-bialystok-vs-lechia-gdansk.html
-
-21/09 20:00 Sweden Allsvenskan	^-
-Kalmar vs AIK Solna	`0https://l.3/sweden-allsvenskan-3895886/kalmar-vs-aik.html
-
-21/09 20:00 Norwegian 1.Divisjon	^-
-Kongsvinger vs Aalesund FK	`0https://l.3/norwegian-1-divisjon-3906402/kongsvinger-vs-aalesund-fk.html
-
 21/09 20:00 Italian Serie A	^-
 <g>Venezia vs Genoa<z>	`0https://l.3/italian-serie-a-3993988/venezia-vs-genoa.html
-
-21/09 20:00 Italian Serie B	^-
-Sampdoria vs SudTirol	`0https://l.3/italian-serie-b-4000636/sampdoria-vs-sudtirol.html
-
-21/09 20:00 Italian Serie B	^-
-Pisa vs Brescia	`0https://l.3/italian-serie-b-4000644/pisa-vs-brescia.html
-
-21/09 20:00 Italian Serie B	^-
-Cosenza Calcio 1914 vs Sassuolo	`0https://l.3/italian-serie-b-4000666/cosenza-calcio-1914-vs-sassuolo.html
-
-21/09 20:00 Italian Serie B	^-
-Palermo vs Cesena	`0https://l.3/italian-serie-b-4000678/palermo-vs-cesena.html
-
-21/09 20:00 Italian Serie B	^-
-A.C. Reggiana 1919 vs Salernitana	`0https://l.3/italian-serie-b-4000700/ac-reggiana-1919-vs-salernitana.html
-
-21/09 20:00 Hilux Revo Thai League	^-
-Sukhothai vs Lamphun Warrior	`0https://l.3/hilux-revo-thai-league-4009067/sukhothai-vs-lamphun-warriors.html
-
-21/09 20:00 Italian Women's Serie A	^-
-Lazio (w) vs Juventus (w)	`0https://l.3/italian-womens-serie-a-4021457/lazio-w-vs-juventus-w.html
-
-21/09 20:00 Turkish First League	^-
-Pendikspor vs Genclerbirligi	`0https://l.3/turkish-first-league-4028920/pendikspor-vs-genclerbirligi.html
-
-21/09 20:00 South Africa Premier Soccer League	^-
-Lamontville Golden Arrows vs Marumo Gallants FC	`0https://l.3/south-africa-premier-soccer-league-4055846/lamontville-golden-arrows-vs-marumo-gallants-fc.html
-
-21/09 20:00 CAF Champions League	^-
-TP Mazembe Englebert vs Red Arrows	`0https://l.3/caf-champions-league-4056923/tp-mazembe-englebert-vs-red-arrows.html
-
-21/09 20:00 South Africa Premier Soccer League	^-
-Magesi vs Polokwane City FC	`0https://l.3/south-africa-premier-soccer-league-4057117/magesi-vs-polokwane-city-fc.html
-
-21/09 20:00 Portuguese Cup	^-
-Pevidem SC vs Maritimo	`0https://l.3/portuguese-cup-4059635/pevidem-sc-vs-maritimo.html
 
 21/09 20:30 Bundesliga	^-
 <g>Union Berlin vs TSG Hoffenheim<z>	`0https://l.3/bundesliga-3990409/1-fc-union-berlin-vs-tsg-hoffenheim.html
@@ -233,42 +29,6 @@ Pevidem SC vs Maritimo	`0https://l.3/portuguese-cup-4059635/pevidem-sc-vs-mariti
 
 21/09 20:30 Bundesliga	^-
 <g>FC Heidenheim vs SC Freiburg<z>	`0https://l.3/bundesliga-3991352/1-fc-heidenheim-1846-vs-sc-freiburg.html
-
-21/09 20:30 United Arab Emirates Pro-League	^-
-Al-Sharjah vs Al-Jazira(UAE)	`0https://l.3/united-arab-emirates-pro-league-4053145/al-sharjah-vs-al-jazirauae.html
-
-21/09 21:00 Norwegian 1.Divisjon	^-
-Ranheim IL vs Moss	`0https://l.3/norwegian-1-divisjon-3906395/ranheim-il-vs-moss.html
-
-21/09 21:00 Norwegian 1.Divisjon	^-
-Stabaek vs Start Kristiansand	`0https://l.3/norwegian-1-divisjon-3906397/stabaek-vs-start-kristiansand.html
-
-21/09 21:00 Norwegian 1.Divisjon	^-
-Levanger FK vs Raufoss	`0https://l.3/norwegian-1-divisjon-3906398/levanger-fk-vs-raufoss-il.html
-
-21/09 21:00 Norwegian 1.Divisjon	^-
-Asane Fotball vs Mjondalen IF	`0https://l.3/norwegian-1-divisjon-3906399/asane-fotball-vs-mjondalen-if.html
-
-21/09 21:00 Norwegian 1.Divisjon	^-
-Bryne vs Valerenga	`0https://l.3/norwegian-1-divisjon-3906400/bryne-vs-vlerenga-fotball-elite.html
-
-21/09 21:00 Norwegian 1.Divisjon	^-
-Sandnes Ulf vs Sogndal	`0https://l.3/norwegian-1-divisjon-3906403/sandnes-ulf-vs-sogndal.html
-
-21/09 21:00 Belgian Pro League	^-
-Beerschot Wilrijk vs Sint-Truidense	`0https://l.3/belgian-pro-league-3979191/beerschot-wilrijk-vs-sint-truidense.html
-
-21/09 21:00 Belgian Second Division	^-
-Lierse vs KAS Eupen	`0https://l.3/belgian-second-division-3985386/lierse-kempenzonen-vs-kas-eupen.html
-
-21/09 21:00 English Football League Championship	^-
-Luton Town vs Sheffield Wednesday	`0https://l.3/english-football-league-championship-3990777/luton-town-vs-sheffield-wednesday.html
-
-21/09 21:00 English Football League Championship	^-
-Burnley vs Portsmouth	`0https://l.3/english-football-league-championship-3990941/burnley-vs-portsmouth.html
-
-21/09 21:00 English Football League Championship	^-
-Cardiff City vs Leeds United	`0https://l.3/english-football-league-championship-3990946/cardiff-city-vs-leeds-united.html
 
 21/09 21:00 English Premier League	^-
 <g>Aston Villa vs Wolves<z>	`0https://l.3/english-premier-league-3995588/aston-villa-vs-wolverhampton-wanderers.html
@@ -288,41 +48,11 @@ Cardiff City vs Leeds United	`0https://l.3/english-football-league-championship-
 21/09 21:00 English Premier League	^-
 <g>Leicester City vs Everton<z>	`0https://l.3/english-premier-league-3995703/leicester-city-vs-everton.html
 
-21/09 21:00 English Football League One	^-
-Wrexham vs Crawley Town	`0https://l.3/english-football-league-one-3997125/wrexham-vs-crawley-town.html
-
-21/09 21:00 Indian Super League	^-
-Mohammedan SC vs FC Goa	`0https://l.3/indian-super-league-4058571/mohammedan-sc-vs-fc-goa.html
-
 21/09 21:15 Spanish La Liga	^-
 <g>Osasuna vs Las Palmas<z>	`0https://l.3/spanish-la-liga-3994766/ca-osasuna-vs-ud-las-palmas.html
 
-21/09 21:15 Spanish Segunda Division	^-
-Racing de Ferrol vs Albacete Balompié SAD	`0https://l.3/spanish-segunda-division-4001945/racing-de-ferrol-vs-albacete-balompi-sad.html
-
-21/09 21:30 Netherlands Eredivisie	^-
-FC Utrecht vs Willem II	`0https://l.3/netherlands-eredivisie-3983375/fc-utrecht-vs-willem-ii.html
-
-21/09 21:30 Portuguese Primera Liga	^-
-Santa Clara vs Estrela da Amadora	`0https://l.3/portuguese-primera-liga-4001247/santa-clara-vs-cf-estrela-amadora-sad.html
-
-21/09 21:30 Portuguese Primera Liga	^-
-Rio Ave vs Estoril	`0https://l.3/portuguese-primera-liga-4001325/rio-ave-vs-estoril.html
-
 21/09 22:00 French Ligue 1	^-
 <g>Lille vs Strasbourg<z>	`0https://l.3/french-ligue-1-3989101/losc-lille-vs-rc-strasbourg-alsace.html
-
-21/09 22:00 Spanish Primera División de la Liga de Fútbol Femenino	^-
-Levante Las Planas (w) vs Madrid CFF (w)	`0https://l.3/spanish-primera-division-de-la-liga-de-futbol-femenino-4059001/levante-las-planas-w-vs-madrid-cff-w.html
-
-21/09 22:30 Spanish Primera División RFEF	^-
-Sestao vs Andorra CF	`0https://l.3/spanish-primera-division-rfef-4023936/sestao-vs-andorra-cf.html
-
-21/09 22:30 Spanish Primera División RFEF	^-
-Merida AD vs Ibiza Eivissa	`0https://l.3/spanish-primera-division-rfef-4024307/merida-ad-vs-ibiza-eivissa.html
-
-21/09 22:30 Spanish Segunda División RFEF	^-
-Barbastro vs Calahorra	`0https://l.3/spanish-segunda-division-rfef-4029883/barbastro-vs-calahorra.html
 
 21/09 23:00 Italian Serie A	^-
 <g>Juventus vs Napoli<z>	`0https://l.3/italian-serie-a-3993975/juventus-vs-napoli.html
@@ -498,6 +228,16 @@ Phoenix Rising FC vs San Antonio	`0https://l.3/usl-championship-3901069/phoenix-
 22/09 10:05 Mexico Liga MX	^-
 CDSyC Cruz Azul vs Chivas Guadalajara	`0https://l.3/mexico-liga-mx-3981617/cruz-azul-vs-chivas-guadalajara.html
 
+<y>UCL Sports<z>	^-
+
+UCL 1	https://l.8a/ch-c5/c5-dash-widevine.isml/manifest.mpd``00f9f3c0783536b8ce4a30a01a52e082:e926f7d45af4f7d154c990eae6a2d937
+UCL 2	https://l.8a/ch-u1/u1-dash-widevine.isml/manifest.mpd``00f9f3c0783536b832a8f0326fbdc02e:ade0533ba667bb7e9847d8f215f03076
+UCL 3	https://l.8a/ch-u2/u2-dash-widevine.isml/manifest.mpd``00f9f3c0783536b834b0f0c2bfee80ac:76b3afbf163f9c3feb6204b8fcf0ff53
+UCL 4	https://l.8a/ch-u3/u3-dash-widevine.isml/manifest.mpd``00f9f3c0783536b8342d78d46c8c202a:8d2e953821d36c942161be09930d2bd4
+UCL 5	https://l.8a/ch-u4/u4-dash-widevine.isml/manifest.mpd``00f9f3c0783536b834357864bc2ae0a8:ae7bec66e4ac23f3d243fa6e4d767a00
+UCL 6	https://l.8a/ch-u5/u5-dash-widevine.isml/manifest.mpd``00f9f3c0783536b834b278760c5ba026:a9ab51a9e021da177f982de9b42eb0de
+UCL 7	https://l.8a/ch-u6/u6-dash-widevine.isml/manifest.mpd``00f9f3c0783536b834ba7888b9f960a4:852ebe5446caa8fad99c440b86ad128c
+
 <y>Football / Koora Events<z>	^-
 Football / Kora 1 A	https://a1.l.2/0/stream.m3u8
 Football / Kora 1 B	https://a1.l.2/1/stream.m3u8
@@ -505,6 +245,13 @@ Football / Kora 2 A	https://a2.l.2/0/stream.m3u8
 Football / Kora 2 B	https://a2.l.2/1/stream.m3u8
 Football / Kora 3 A	https://a3.l.2/0/stream.m3u8
 Football / Kora 3 B	https://a3.l.2/1/stream.m3u8
+
+<y>Football Sport TV <z>	^-
+Football TV 1	https://pckaku.github.io/suka.m3u8
+Football TV 2	https://pckaku.github.io/suka1.m3u8
+Football TV 3	https://pckaku.github.io/suka2.m3u8
+Football TV 4	https://pckaku.github.io/suka3.m3u8
+Football TV 5	https://pckaku.github.io/suka4.m3u8
 
 <y>RePlay ReWatch Football Match<z>	^-
 
@@ -583,12 +330,6 @@ Live Sports BR 7	`0i3`02bra/br7.php
 Live Sports BR 8	`0i3`02bra/br8.php
 PT Benefica	`0i3`02pt/btv.php
 
-Football TV 1	https://pckaku.github.io/suka.m3u8
-Football TV 2	https://pckaku.github.io/suka1.m3u8
-Football TV 3	https://pckaku.github.io/suka2.m3u8
-Football TV 4	https://pckaku.github.io/suka3.m3u8
-Football TV 5	https://pckaku.github.io/suka4.m3u8
-
 <y>24/7 Action Movies Channels<z>	^-
 Rakuten 1	https://pckaku.github.io/cr1.m3u8
 Rakuten 2	https://pckaku.github.io/cr2.m3u8
@@ -624,3 +365,4 @@ Movies Channels Multi Sub +Indo	^-
 {h} Ⓨ4 Movies Film 1	^^h4
 {h} Ⓩ5 Movies Film 2	^^h5
 {h} Ⓣ6 Movies Film 3	^^h6
+
