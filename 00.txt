@@ -530,7 +530,7 @@ RailCowGirl	https://l.5/yt/id.m3u8?id=czoEAKX9aaM?zyz
 irl stream in Indonesia 1	/l.7/9s6imDGjy08
 irl stream in Indonesia 2	/l.7/BF9qBZhlgsY
 
-<y>Live Sports Events<z>	^-
+<y>Live Sports Events:<z> 👉 Schedule	^&https://sportsonline.gl/prog.txt
 
 Sport TV 1 A	`0i3`00SPT1
 Sport TV 1 B	`0i3`02pt/sporttv1.php

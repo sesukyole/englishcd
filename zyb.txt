@@ -486,4 +486,4 @@ Rakuten 2	https://pckaku.github.io/cr2.m3u8
 ID PSJ TV	01`01fplay.accolamedia.id/accola/psj.stream/playlist.m3u8
 DAZN 1a	01`01a6001`01b
 DAZN 1b	https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-060/stream.mpd``8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-<y>Live Sports Events<z>	^&https://sportsonline.gl/prog.txt
+<y>Live Sports Events:<z> 👉 Schedule	^&https://sportsonline.gl/prog.txt
