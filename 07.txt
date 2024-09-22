@@ -232,14 +232,14 @@ beIN Sports 1 EN HD	https://Zz8rx1/2403/1e7a7f7d3ba7acf36796928ec9deb9ea/index.m
 beIN Sports 3 EN HD	https://Zz8rx1/2405/b2e567a130b342be942234f5e48c28dc/index.m3u8?7
 Astro SuperSports 1 HD	https://Zz8rx3/1070/a371ed8c364f2e68149a7a97388e95f9/index.m3u8?7
 Astro SuperSports 2 HD	https://Zz8rx3/1071/2e6f0c8a9ed4d441be34ad70bc40d5ed/index.m3u8?7
-Astro SuperSports 3 HD	https://z88.ubtvfans.com/live/rx3/1072/c67b9eaba4040f95114b5ab2e813b322/index.m3u8
-Astro SuperSports 4 HD	https://z88.ubtvfans.com/live/rx3/3234/5016da2dd917732ed971bddb4cefd646/index.m3u8
-Sky Sport Uno HD	https://z88.ubtvfans.com/live/rx3/1597/4969c926b3543d36620d428e3e77bb9b/index.m3u8?7
-KR SkySports HD	https://z88.ubtvfans.com/live/rx3/2352/b171978e7b8f035e22f3b66a5277fa40/index.m3u8?7
-KR SBS Sports HD	https://z88.ubtvfans.com/live/rx3/2354/6555f7be5acc837c1d54ce718f7ba0fc/index.m3u8?7
-KR MBC Sports HD	https://z88.ubtvfans.com/live/rx2/3174/bf6c378d2a26a26b066571089ffff070/index.m3u8?7
-KR KBSN Sports HD	https://z88.ubtvfans.com/live/rx2/174/f021cba099403644d620723c5f4c46f1/index.m3u8?7
-KR tvN Sports HD	https://z88.ubtvfans.com/live/rx3/2931/b5f5636d01d91997de849d87e530f67f/index.m3u8?7
+Astro SuperSports 3 HD	https://Zz8rx3/1072/c67b9eaba4040f95114b5ab2e813b322/index.m3u8?7
+Astro SuperSports 4 HD	https://Zz8rx3/3234/5016da2dd917732ed971bddb4cefd646/index.m3u8?7
+Sky Sport Uno HD	https://Zz8rx3/1597/4969c926b3543d36620d428e3e77bb9b/index.m3u8?7
+KR SkySports HD	https://Zz8rx3/2352/b171978e7b8f035e22f3b66a5277fa40/index.m3u8?7
+KR SBS Sports HD	https://Zz8rx3/2354/6555f7be5acc837c1d54ce718f7ba0fc/index.m3u8?7
+KR MBC Sports HD	https://Zz8rx2/3174/bf6c378d2a26a26b066571089ffff070/index.m3u8?7
+KR KBSN Sports HD	https://Zz8rx2/174/f021cba099403644d620723c5f4c46f1/index.m3u8?7
+KR tvN Sports HD	https://Zz8rx3/2931/b5f5636d01d91997de849d87e530f67f/index.m3u8?7
 A Sport HD	https://Zz8rx4/2367/be327d3419942a1883b9307a11638b3c/index.m3u8?7
 ESPN [AR]	`4https://topembed.pw/channel/ESPN[AR]
 DirecTVSports [Argentina]	`4https://topembed.pw/channel/DirecTVSports[Argentina]
