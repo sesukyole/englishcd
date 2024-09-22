@@ -17,18 +17,18 @@ ID iNews	00`a05inews-hdd/sa_hls/inews-hdd.m3u8?c
 ID Indosiar 1	https://op-group1-swiftservesd-1.dens.tv/s/s04/02.m3u8
 ID Indosiar 2	https://op-group1-swiftservesd-1.dens.tv/s/s04/01.m3u8
 ID Indosiar 3	01`01dstreaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
-ID Indosiar 4**	https://l.7a205&=.m3u8?zyz<>https://l.4/api/vd.m3u8?ch=indosiar&t=666?zyz
+ID Indosiar 4**	https://l.7a205&=.m3u8?zyz
 ID SCTV 1	https://op-group1-swiftservesd-1.dens.tv/s/s03/02.m3u8
 ID SCTV 2	https://op-group1-swiftservesd-1.dens.tv/s/s03/01.m3u8
 ID SCTV 3	https://op-group1-swiftservehd-1.dens.tv/h/h217/01.m3u8
 ID SCTV 4	https://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 ID SCTV 5	01`01dstreaming.indihometv.com/atm/DASH/sctv/manifest.mpd
 ID SCTV 6	https://l.0/SCTVHD/mpd/SCTVHD.mpd``a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
-ID SCTV 7**	https://l.7a204&=.m3u8?zyz<>https://l.4/api/vd.m3u8?ch=sctv&t=666?zyz
+ID SCTV 7**	https://l.7a204&=.m3u8?zyz
 ID Moji 1	01`00a134/ochannel/index.m3u8?c
 ID Moji 2	https://op-group1-swiftservesd-1.dens.tv/s/s41/02.m3u8
 ID Moji 3	https://op-group1-swiftservesd-1.dens.tv/s/s41/01.m3u8
-ID Moji 4*	https://l.7a206&=.m3u8?zyz<>https://l.4/api/vd.m3u8?ch=moji&t=666?zyz
+ID Moji 4*	https://l.7a206&=.m3u8?zyz
 ID TVRI Sport 1	https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 ID TVRI Sport 2	https://op-group1-swiftservesd-1.dens.tv/s/s107/02.m3u8
 ID TVRI Sport 3	https://op-group1-swiftservesd-1.dens.tv/s/s107/01.m3u8
