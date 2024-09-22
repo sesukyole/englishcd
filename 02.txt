@@ -68,6 +68,8 @@ ID Trans TV 1	https://video.detik.com/transtv/smil:transtv-live.smil/index.m3u8
 ID Trans TV 2**	https://l.7a733&=.m3u8?zyz
 ID Trans7 1	https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
 ID Trans7 2**	https://l.7a734&=.m3u8?zyz
+ID Musik & Folklor	https://63b2dc7196c38.streamlock.net:1937/musikfolklor/ngrp:musikfolklor_all/playlist.m3u8
+ID Jurnal TV	https://5bf7b725107e5.streamlock.net/jurnaltv/jurnaltv/playlist.m3u8
 ID Dhoho TV	https://dhohotv.siar.us/dhohotv/live/playlist.m3u8
 ID Duta TV	https://dutatv.siar.us/dutatv/live/playlist.m3u8
 ID Huma Betang TV	https://v3.siar.us/humabetangtv/live/playlist.m3u8
