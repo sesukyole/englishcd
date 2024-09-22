@@ -4,7 +4,7 @@
 
 <g>Live Sports Events<z>	^-
 
-v15:30 Indonesian Liga 1	^-
+15:30 Indonesian Liga 1	^-
 <y>Persita Tangerang vs Semen Padang<z>	`0https://l.3/indonesian-liga-1-4032388/persita-tangerang-vs-semen-padang.html
 
 22/09 17:15 Netherlands Eredivisie	^-
