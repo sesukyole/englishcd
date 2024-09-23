@@ -106,7 +106,7 @@ Always Funny Video Family	https://linear-12.frequency.stream/mt/plex/12/hls/mast
 WipeOut Xtra	https://d2stx9idyk58lb.cloudfront.net/wipeoutxtra-samsungus/playlist.m3u8
 Game Show Network	https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/gsn_720p/playlist.m3u8
 Game Show Central	https://gsn-gameshowchannnel-1-us.vizio.wurl.tv/playlist.m3u8
-Asian Crush	https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/amg01201-cinedigmenterta-asiancrush-cineverse/cb543d1b796c668c84cb3f62cef049a2f9421fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7756db80148e782a8eb3dc68306d390ec90c1fbcbf5ba0f8ff5e43ca78a3b51a4b902910e39f429d8118a681d50ec85e8f25f4118095a1d88017d38f9437f852b7061632571541527ee9ab6d9e98f15931957d21560e5ce8a6808c2156e466702c337b56dd1f9b32dd8024fb115f7bc49f3def019f6eb006a9a16da9b9a29d3529c64c6f381345f0b5dae6d63027af69bb8fe8d37a7098bc721223983c89737979f897ba896357ae21976ea5cdecad7a7b0867a5bdf8e8cea3844bd308cbc9fd943c789c026e16ab52b89361d728922de69e53696b444aa99542d7c6f76a70331fc8d005942412b78ddfd89f166d9e295b7bf870d55e3269ce1f6568aa78aacd723fdf6642ae1d09d67479c04ef5b329b580dee60d34fc9ee44aed60e2b04583a756e73d720c55e0a7620e1c153de3ef600c22708c10b78484b2217b75869dfaf7ce5737102a57035cf985c944dbdf90674d6c823940477b1f109a01ac19fc085b0f23cc5e9eec3e7d8b022e3af5e558795f7f9ddcbe918db59b12e767b2a90e151a88cffbf5d1232a4e5e745aa3/162/1280x720_3329040/index.m3u8
+Asian Crush	https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/amg01201-cinedigmenterta-asiancrush-cineverse/playlist.m3u8
 So Real	https://dai.google.com/linear/hls/event/VMzvtHhOQdOAzbV_hQKQbQ/master.m3u8
 Cinevault 80s	https://gsn-cinevault-80s-1-us.samsung.wurl.tv/playlist.m3u8
 Cinevault Westerns	https://gsn-cinevault-westerns-1-us.samsung.wurl.tv/playlist.m3u8
@@ -137,13 +137,30 @@ UK Iqraa TV	https://ap02.iqplay.tv:8082/iqb8002/iq6a7k/chunks.m3u8
 AXN Movies	01`01dott.zapitv.com/live/eds_c2/axn_white/dash_live_enc/axn_white.mpd``f9e4be09926c262effa2b5381ae3553d:d630e04e0c5e3f98dc38840be1c1dd4c
 ION	https://raw.githubusercontent.com/mystery75/m3u8/main/ION.m3u8
 ION Mystery	https://raw.githubusercontent.com/mystery75/m3u8/main/IONMYSTERY.m3u8
+Crema TV	https://stream.ads.ottera.tv/playlist.m3u8?network_id=5350
+Run Time Latino	https://stream.ads.ottera.tv/playlist.m3u8?network_id=2154
+Run Time Espanyol	https://stream.ads.ottera.tv/playlist.m3u8?network_id=2649
+Run Time Cine y Series	https://stream.ads.ottera.tv/playlist.m3u8?network_id=2152
+Run Time English	https://stream.ads.ottera.tv/playlist.m3u8?network_id=2648
+Run Time France	https://stream.ads.ottera.tv/playlist.m3u8?network_id=2160
+Run Time Brasil	https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
+Run Time Familia	https://stream.ads.ottera.tv/playlist.m3u8?network_id=3528
+Run Time Terror	https://stream.ads.ottera.tv/playlist.m3u8?network_id=3529
+Run Time Romance	https://stream.ads.ottera.tv/playlist.m3u8?network_id=3532
+Run Time Crimen	https://stream.ads.ottera.tv/playlist.m3u8?network_id=3533
+Run Time Comedia	https://stream.ads.ottera.tv/playlist.m3u8?network_id=2551
+Run Time Acción	https://stream.ads.ottera.tv/playlist.m3u8?network_id=2550
+Canela TV	https://stream.ads.ottera.tv/playlist.m3u8?network_id=653
+Canela Network	https://stream.ads.ottera.tv/playlist.m3u8?network_id=2013
+Canela Cinema	https://stream.ads.ottera.tv/playlist.m3u8?network_id=1733
 MX Accion Mexicana	https://stream.ads.ottera.tv/playlist.m3u8?network_id=1153
 Canela Clasicos	https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
 Canela Hits	https://stream.ads.ottera.tv/playlist.m3u8?network_id=1058
 Canela Kids	https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
-Canela Music Presents	https://stream.ads.ottera.tv/playlist.m3u8?network_id=2548
+Canela Music https://stream.ads.ottera.tv/playlist.m3u8?network_id=2548
 Canela Telenovelas	https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
-CanelaTV	https://stream.ads.ottera.tv/playlist.m3u8?network_id=119
+Canela TV	https://stream.ads.ottera.tv/playlist.m3u8?network_id=119
+Canela Novelisima	https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
 Chill Latino	https://stream.ads.ottera.tv/playlist.m3u8?network_id=1085
 Cine Romantico	https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
 Combate Global	https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
@@ -154,19 +171,18 @@ Haz Clic!	https://stream.ads.ottera.tv/playlist.m3u8?network_id=4310
 ITV Deportes	https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010
 ES Mundo Pequeño	https://stream.ads.ottera.tv/playlist.m3u8?network_id=3366
 Novelas Turcas	https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088
-Novelisima	https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
 Planeta de Aventuras	https://stream.ads.ottera.tv/playlist.m3u8?network_id=4311
 Puro Romance	https://stream.ads.ottera.tv/playlist.m3u8?network_id=1082
 M Regional MX	https://stream.ads.ottera.tv/playlist.m3u8?network_id=1084
-Rakuten Action Movies	https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
-Rakuten Top Movies	https://0609aae26cc24c8e9f13678986b881df.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-gb_TopFree/playlist.m3u8
-Rakuten Romance Movies	https://e01e7498d9ae4f618d35154ec7d9dda0.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-gb_RakutenRomance/playlist.m3u8
 Ritmos Inolvidables	https://stream.ads.ottera.tv/playlist.m3u8?network_id=1081
-Sony Canal Novelas	https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
 Tierra De Amor y Venganza	https://stream.ads.ottera.tv/playlist.m3u8?network_id=1080
 Toon Goggles en Espanol	https://stream.ads.ottera.tv/playlist.m3u8?network_id=771
 Tu Pop Favorito	https://stream.ads.ottera.tv/playlist.m3u8?network_id=1086
 Zona de Acción	https://stream.ads.ottera.tv/playlist.m3u8?network_id=4312
+Rakuten Action Movies	https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
+Rakuten Top Movies	https://0609aae26cc24c8e9f13678986b881df.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-gb_TopFree/playlist.m3u8
+Rakuten Romance Movies	https://e01e7498d9ae4f618d35154ec7d9dda0.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-gb_RakutenRomance/playlist.m3u8
+Sony Canal Novelas	https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
 Cinema One	https://cinemaone-abscbn-ono.amagi.tv/index.m3u8?c
 RTB SukmaIndera	https://d1211whpimeups.cloudfront.net/smil:rtb1/chunklist.m3u8
 RTB Aneka Go	https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
@@ -277,7 +293,10 @@ KR EBS Plus 1 TV	https://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/playli
 KR EBS Plus 2 TV	https://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/playlist.m3u8
 KR MBC TV	https://vod.mpmbc.co.kr/live/encoder-tv/chunklist.m3u8
 KR TBS TV	https://cdntv.tbs.seoul.kr/tbs/_definst_/tbs_tv_web.smil/playlist.m3u8
-KR tvN	https://d32khooduen8y3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p170vbjf0s68a-ssai-prd/2e874342_9a2c_48e9_9066_7ab3a3284a80/hls/playlist.m3u8
+KR tvN1	https://d32khooduen8y3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p170vbjf0s68a-ssai-prd/2e874342_9a2c_48e9_9066_7ab3a3284a80/hls/playlist.m3u8
+KR tvN2	https://d2zyqoz1zsj2mq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i9yul1lyegl6e-ssai-prd/6d07fe2a_003a_4879_acfc_44e3c3c10f03/hls/playlist.m3u8
+KR tvN3	https://d21dxaer0ypwk1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6m2cy2rylsvo-ssai-prd/54ac8e25_eb5a_4f10_ba20_ffb254f0a16c/hls/playlist.m3u8
+KR tvN4	https://d25mdvvpht3395.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p8ea370fl7r4f-ssai-prd/82f296fd_2916_45b7_b799_525a4226957a/hls/playlist.m3u8
 KR K-Drama	https://stream.ads.ottera.tv/playlist.m3u8?network_id=425
 KR K-Movies	https://bd281c27a16f4a7fb4a88260378e8082.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewMovies/playlist.m3u8
 KR New-Movies	https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NewMovies/playlist.m3u8
@@ -560,7 +579,7 @@ US Haunt TV 🇺🇸 🟤	https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blu
 US Her Sphere by Lionsgate 🇺🇸 🟤	https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-hersphere-lgus/playlist.m3u8?c
 US Ebony By Lionsgate 🇺🇸 🟤	https://d2ovuv4g3vka60.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ve0q4gx2q5590/playlist.m3u8
 US HomeFulᴴᴰ 🇺🇸 🟤	https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01515-blueskyeenterta-homefulusa-vizious/playlist.m3u8?c
-US Horizon Sportsᴴᴰ 🇺🇸 🟤	https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/bb03cb18-c54e-11ec-967f-401ac48a6867/0/master.m3u8?profile=inspirationFreetv.m3u8&ads%3Aamznbrmid&ads%3Aamznregion&ads%3Aamznslots&ads%3Aapp_bundle=com.rakuten.tv&ads%3Aapp_version&ads%3Abrand_name&ads%3Acontent_classification=7&ads%3Adevice_type=web&ads%3Adevice_year=1970&ads%3Afunke_channel_id=RAKB0021&ads%3Alanguage=eng&ads%3Amarket=uk&ads%3Aos_language&ads%3Aplayer_height=1080&ads%3Aplayer_width=1920&ads%3Apod_type=playerpage_midroll&ads%3Artv_content_id=4260&ads%3Astreaming_id=4bb04afc-6447-4a76-895a-c1f117394c95&ads%3Atcf&ads%3Ativo_devcountry&ads%3Ativo_devmakedate&ads%3Ativo_mvpd&ads%3Ativo_platform&ads%3Ativo_usid&ads%3Ativo_uxloc&ads%3Auser_type=visitor&country=gb&optout=0&uid=e3dd2658-e93a-4cee-9d4b-27200826a904&vendor=rakuten
+US Horizon Sportsᴴᴰ 🇺🇸 🟤	https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/bb03cb18-c54e-11ec-967f-401ac48a6867/0/master.m3u8
 US Horror Machine 🇺🇸 🟤	https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/horrormachine/playlist.m3u8
 US Hunt Channel 🇺🇸	https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/tracks-v1a1/mono.m3u8
 US Impact! Wrestling 🇺🇸 🟤	https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
@@ -680,6 +699,7 @@ FASHION TV	https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
 FASHION TV	https://34963c1506c8467bb8132d8a9ae4fedc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_FashionTV/playlist.m3u8
 TV5MONDE STYLE [geo-area]	https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/index.m3u8
 Bollywood	https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
+Wanasah	https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
 MBC 1	https://mbc1-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
 MBC Masr 1	https://mbc1-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index_47.m3u8
 MBC Masr 2	https://shls-masr2-ak.akamaized.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8

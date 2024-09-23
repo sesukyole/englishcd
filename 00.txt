@@ -219,16 +219,6 @@ Portland vs UC Santa Barbara	`0https://l.3/portuguese-cup-4062654/portland-vs-uc
 23/09 09:00 NCAA Women's Soccer	^-
 Cal State Fullerton vs Cal State Northridge	`0https://l.3/ncaa-womens-soccer-4062655/cal-state-fullerton-vs-cal-state-northridge.html
 
-<y>Football / Koora Events<z>	^-
-Football / Kora 1 A	https://a1.l.2/0/stream.m3u8
-Football / Kora 1 B	https://a1.l.2/1/stream.m3u8
-Football / Kora 2 A	https://a2.l.2/0/stream.m3u8
-Football / Kora 2 B	https://a2.l.2/1/stream.m3u8
-Football / Kora 3 A	https://a3.l.2/0/stream.m3u8
-Football / Kora 3 B	https://a3.l.2/1/stream.m3u8
-Football / Kora 4 A	https://a4.l.2/0/stream.m3u8
-Football / Kora 4 B	https://a4.l.2/1/stream.m3u8
-
 <y>Football Sport TV <z>	^-
 Football TV 1	https://pckaku.github.io/suka.m3u8
 Football TV 2	https://pckaku.github.io/suka1.m3u8

@@ -98,7 +98,7 @@ CA Sportsnet 1	https://live-streaming-rsm.akamaized.net/sn1hd/sn1hd_cenc.isml/.m
 CA Sportsnet World	https://live-streaming-rsm.azureedge.net/snwlh/snwlh_cenc.isml/.mpd``44f6a1e5467d4df7a9da2d1b96ee62ca:157d3d7156dd1b288d661d453dbfc682
 Sport en France	https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
 Kuwait Sports	https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/index.m3u8
-SMC 4 Sports	https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
+Sharjah Sports	https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 Dubai Sports 1	https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
 Dubai Sports 2	https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
 Dubai Sports 3	https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
